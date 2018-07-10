@@ -434,8 +434,7 @@ public class FormatConverter {
     static int mentionID = 0;
 
     /**
-     * // TODO: this converts Wikipedia titles to LORELEI ids need separate function for cases
-     * // where we don't want this functionality.
+     * // TODO: too big!
      *
      * Helper for EnglishEDL2Tab which wirtes the TextAnnotation to LORELEI submission formatted
      * lines in a BufferedWriter.
@@ -445,45 +444,25 @@ public class FormatConverter {
      */
     private static void writeSub(TextAnnotation ta, BufferedWriter bw,
                                  String entity2WikipediaTitle, boolean loreleiKB) throws IOException {
-        assert ta.hasView("NEUREL");
-        assert ta.hasView("MENTION");
-        assert ta.hasView("NOMLINK");
-
-        View namlinkView = ta.getView("NEUREL");
-        View mentionView = ta.getView("MENTION");
+        View elView = ta.getView("NEUREL");
+        View nerView = ta.getView("NER");
         View nomlinkView = ta.getView("NOMLINK");
+        View googleView = ta.getView("GOOGLE");
 
         // create hash map which maps Wikipedia titles to LORELEI KB ids
         HashMap<String, String> wiki2lorelei = LinkUtils.initWiki2LORELEIMap(entity2WikipediaTitle);
 
-        for(Constituent mention : mentionView.getConstituents()){
-            String[] types = mention.getLabel().split("-");
-            String nounType = types[0];
-            String entType = types[1];
+        // add all of the NAM types which are linked by NEUREL
+        for(Constituent mention : elView.getConstituents()){
             int startCharOff = mention.getStartCharOffset();
             int endCharOff = mention.getEndCharOffset() - 1;
 
-            View typeElView = null;
-            // get the appropriate entity links based on noun type of menton
-            if(nounType.equals("NOM"))
-                typeElView = nomlinkView;
-            if(nounType.equals("NAM"))
-                typeElView = namlinkView;
+            List<Constituent> entityType =
+                    nerView.getConstituentsWithSpan(mention.getSpan());
 
-            List<Constituent> entityLabel =
-                    typeElView.getConstituentsWithSpan(mention.getSpan());
-
-            // some nominal mentions will not be linked
-            if (entityLabel.size() == 0 && nounType.equals("NOM"))
-                continue;
-
-            // TODO: why was this here?
-            //if (entityLabel.size() == 0 )
-            //    continue;
-
-            assert entityLabel.size() == 1;
-            String entity = entityLabel.get(0).getLabel();
+            String entity = mention.getLabel();
             if(loreleiKB) {
+                // convert Wiki link to LORELEI KB id
                 String kbId = wiki2lorelei.get(entity);
 
                 if (kbId == null)
@@ -493,10 +472,59 @@ public class FormatConverter {
             String surface = mention.getSurfaceForm();
 
             bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId()+":" +
-                    startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entType + "\t" + nounType +
+                    startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entityType+ "\t" + "NAM" +
+                    "\t" + "1.0" + "\n");
+        }
+
+        // add all of the NOM types which are left linked
+        for(Constituent mention : nomlinkView.getConstituents()){
+            String[] types = mention.getLabel().split("-");
+            String entityType = types[1];
+
+            int startCharOff = mention.getStartCharOffset();
+            int endCharOff = mention.getEndCharOffset() - 1;
+
+            String entity = mention.getLabel();
+            if(loreleiKB) {
+                // convert Wiki link to LORELEI KB id
+                String kbId = wiki2lorelei.get(entity);
+
+                if (kbId == null)
+                    kbId = "NIL";
+                entity = kbId;
+            }
+
+            String surface = mention.getSurfaceForm();
+
+            bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId()+":" +
+                    startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entityType+ "\t" + "NOM" +
+                    "\t" + "1.0" + "\n");
+        }
+
+        // add all of the Googled tweets
+        for(Constituent mention : googleView.getConstituents()){
+            int startCharOff = mention.getStartCharOffset();
+            int endCharOff = mention.getEndCharOffset() - 1;
+            String entityType = "NONE";
+            String entity = mention.getLabel();
+            if(loreleiKB) {
+                // convert Wiki link to LORELEI KB id
+                String kbId = wiki2lorelei.get(entity);
+
+                if (kbId == null)
+                    kbId = "NIL";
+                entity = kbId;
+            }
+
+            // we're not going to link entities of this type to NIL
+            if(entity.equals("NIL"))
+                continue;
+
+            String surface = mention.getSurfaceForm();
+
+            bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId()+":" +
+                    startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entityType+ "\t" + "NAM" +
                     "\t" + "1.0" + "\n");
         }
     }
-
-    // TODO: this whole thing shouldn't be here
 }

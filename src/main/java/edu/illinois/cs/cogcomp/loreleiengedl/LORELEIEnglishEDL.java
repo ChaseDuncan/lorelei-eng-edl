@@ -84,12 +84,16 @@ public class LORELEIEnglishEDL {
      *
      * @param taDir the directory of TAs to annotate
      */
-    public void addGoogleView(String taDir) throws Exception {
+    public void addGoogleView(String taDir, String ilCode) throws Exception {
 
         File dir = new File(taDir);
         File[] directoryListing = dir.listFiles();
-        // TODO: cmon man
-        HashMap<String, List<String>> tweetToWiki = LinkUtils.initTweetToWikipediaIL9();
+        // TODO: this doesn't belong here...
+        HashMap<String, List<String>> tweetToWiki = null;
+        if(ilCode.equals("9"))
+            tweetToWiki = LinkUtils.initTweetToWikipediaIL9();
+        if(ilCode.equals("10"))
+            tweetToWiki = LinkUtils.initTweetToWikipediaIL9();
 
         for(File serializedTA : directoryListing){
 

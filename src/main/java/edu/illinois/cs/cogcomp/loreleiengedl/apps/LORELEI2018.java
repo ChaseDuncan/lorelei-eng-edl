@@ -25,6 +25,13 @@ public class LORELEI2018 {
             edl.annotateNominals(taDir);
         }
 
+        // google links
+        if(task.equals("google")){
+            String taDir = args[1];
+            String ilCode = args[2];
+            edl.addGoogleView(taDir,ilCode);
+        }
+
         // write submission file
         if(task.equals("submission")) {
             // directory of json TAs which are NER and EL annotated and NOMs are linked
