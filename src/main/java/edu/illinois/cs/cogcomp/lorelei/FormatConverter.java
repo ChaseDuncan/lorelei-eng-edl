@@ -445,7 +445,7 @@ public class FormatConverter {
     private static void writeSub(TextAnnotation ta, BufferedWriter bw,
                                  String entity2WikipediaTitle, boolean loreleiKB) throws IOException {
         View elView = ta.getView("NEUREL");
-        View nerView = ta.getView("NER");
+        View nerView = ta.getView("NER_LORELEI");
         View nomlinkView = ta.getView("NOMLINK");
         View googleView = ta.getView("GOOGLE");
 
@@ -470,7 +470,9 @@ public class FormatConverter {
                 entity = kbId;
             }
             String surface = mention.getSurfaceForm();
-
+            System.out.println(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId()+":" +
+                    startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entityType+ "\t" + "NAM" +
+                    "\t" + "1.0" + "\n");
             bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId()+":" +
                     startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entityType+ "\t" + "NAM" +
                     "\t" + "1.0" + "\n");

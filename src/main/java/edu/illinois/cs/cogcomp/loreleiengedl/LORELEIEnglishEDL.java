@@ -153,13 +153,12 @@ public class LORELEIEnglishEDL {
 
         // iterate through TAs, add NER annotation and create JSON serialization
         for(File serializedTA : directoryListing){
-            String ltfPath = taDir + serializedTA.getName();
+            String taPath = taDir + serializedTA.getName();
+            TextAnnotation ta = sh.deserializeTextAnnotationFromFile(taPath, true);
 
-            TextAnnotation ta = sh.deserializeTextAnnotationFromFile(ltfPath, true);
             posannotator.addView(ta);
             mentionAnnotator.addView(ta);
 
-            String taPath = taDir + serializedTA.getName();
             // overwrites existing json serializations in JSON_DIR
             sh.serializeTextAnnotationToFile(ta, taPath, true, true);
         }
@@ -273,7 +272,11 @@ public class LORELEIEnglishEDL {
      * @throws Exception
      */
     public void annotateNominals(String jsonTADir) throws Exception {
+
+        System.out.println("f;lkasjdfl");
         addMentionView(jsonTADir);
+
+        System.out.println("f;lkasjdfl");
         // get list of files in the directory
         File dir = new File(jsonTADir);
         File[] directoryListing = dir.listFiles();
@@ -283,12 +286,9 @@ public class LORELEIEnglishEDL {
             String jsonTaPath = jsonTADir + jsonSerializedTA.getName();
             System.out.println(jsonTaPath);
             TextAnnotation ta = sh.	deserializeTextAnnotationFromFile(jsonTaPath, true);
-
-            //if(!ta.hasView("NEUREL")) {
-            //    // TODO: logging!
-            //    System.out.println(ta.getId() + " no NEUREL view.");
-            //    continue;
-            //}
+            // cannot left link if there are not entities
+            if(!ta.hasView(ELVIEW))
+                continue;
 
             linkNominals(ta);
             sh.serializeTextAnnotationToFile(ta, jsonTaPath, true, true);
@@ -317,7 +317,7 @@ public class LORELEIEnglishEDL {
         HashMap<Integer, Constituent> spanStart2Con = new HashMap<>();
         TreeSet<Integer> spanStarts = new TreeSet<>();
 
-        for(Constituent constituent : nerView.getConstituents()){
+        for(Constituent constituent : elView.getConstituents()){
             spanStart2Con.put(constituent.getStartSpan(),constituent);
             spanStarts.add(constituent.getStartSpan());
         }
@@ -331,7 +331,7 @@ public class LORELEIEnglishEDL {
             }
 
             // only link when the extent does not include a NAM
-            if(namInside(constituent, mentionView)) {
+            if(namInside(constituent, nerView)) {
                 continue;
             }
 
@@ -371,13 +371,9 @@ public class LORELEIEnglishEDL {
         List<Constituent> otherCons =
                 mentionView.getConstituentsOverlappingCharSpan(nomMention.getStartCharOffset(),
                         nomMention.getEndCharOffset());
+        if(otherCons.isEmpty())
+            return false;
 
-        // iterate over overlapping Constituents if one is a NAM, return true
-        for(Constituent overlappingMention : otherCons){
-            if(overlappingMention.getAttribute("EntityMentionType").equals("NAM"))
-                return true;
-        }
-
-        return false;
+        return true;
     }
 }

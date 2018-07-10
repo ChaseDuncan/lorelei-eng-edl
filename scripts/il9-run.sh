@@ -4,7 +4,7 @@ cpath="./target/dependency/*:./target/classes/"
 
 TA_IN_DIR="/shared/corpora/corporaWeb/lorelei/evaluation-2018/il9/processed/setE/eng/"
 TA_OUT_DIR="/shared/preprocessed/cddunca2/lorelei/il9/cp2-setE/"
-SUBMISSION="submission-purgatory/il9sub.tab"
+SUBMISSION="/shared/experiments/cddunca2/lorelei/submission-purgatory/il9_cp2.tab"
 ILCODE=9
 
 java -classpath  ${cpath} -Xmx16g -Dfile.encoding=UTF-8 edu.illinois.cs.cogcomp.loreleiengedl.apps.LORELEI2018 ner \
@@ -18,6 +18,7 @@ python neuralel_tadir.py --mode=ta --model_path=/shared/bronte/ngupta19/neural-e
 cd ..
 java -classpath  ${cpath} -Xmx16g -Dfile.encoding=UTF-8 edu.illinois.cs.cogcomp.loreleiengedl.apps.LORELEI2018 \
 google ${TA_OUT_DIR}  ${ILCODE}
+
 
 java -classpath  ${cpath} -Xmx16g -Dfile.encoding=UTF-8 edu.illinois.cs.cogcomp.loreleiengedl.apps.LORELEI2018 nomlink ${TA_DIR} 
 
