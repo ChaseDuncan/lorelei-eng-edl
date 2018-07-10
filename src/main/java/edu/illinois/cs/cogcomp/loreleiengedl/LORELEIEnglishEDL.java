@@ -18,12 +18,12 @@ import java.util.*;
 public class LORELEIEnglishEDL {
     // for reading in serialized TAs and serializing TAs to json
     private static SerializationHelper sh;
-    private static String NERVIEW = "NER_LORELEI";
-    private static String ELVIEW = "NEUREL";
-    private static String MDVIEW = "MENTION";
-    private static String NLVIEW = "NOMLINK";
-    private static String CANDGENVIEW = "CANDGEN";
-    private static String GOOGLEVIEW= "GOOGLE";
+    public static String NERVIEW = "NER_LORELEI";
+    public static String ELVIEW = "NEUREL";
+    public static String MDVIEW = "MENTION";
+    public static String NLVIEW = "NOMLINK";
+    public static String CANDGENVIEW = "CANDGEN";
+    public static String GOOGLEVIEW= "GOOGLE";
 
     // map of Wikipedia titles to kb ids. instatiated when needed.
     HashMap<String, String> wiki2lorelei = null;
@@ -33,6 +33,7 @@ public class LORELEIEnglishEDL {
     }
 
     /**
+     * Annotate LRLP using NER. Serialize resulting text annotations to file.
      * Annotate LRLP using NER. Serialize resulting text annotations to file.
      * Expects that input directory is a directory of json serialized text annotations
      * that were generated from LORELEI LTF files.
@@ -334,6 +335,8 @@ public class LORELEIEnglishEDL {
             if(namInside(constituent, mentionView)) {
                 continue;
             }
+            if(neOverlaps(constituent, nerView))
+                continue;
 
             // get spans of nominal
             Integer startSpan = constituent.getStartSpan();
@@ -366,7 +369,7 @@ public class LORELEIEnglishEDL {
      * @param mentionView the view from a mention detection system
      * @return true or false depending on whether a NAM is detected
      */
-    public boolean namInside(Constituent nomMention, View mentionView){
+    public static boolean namInside(Constituent nomMention, View mentionView){
         // get all constituents which share span
         List<Constituent> otherCons =
                 mentionView.getConstituentsOverlappingCharSpan(nomMention.getStartCharOffset(),
@@ -379,5 +382,19 @@ public class LORELEIEnglishEDL {
         }
 
         return false;
+    }
+
+    /**
+     * given a nominal mention and a View containing only named entities, return 'true' if the nominal mention
+     *     overlaps any Named Entities
+     * @param nomMention
+     * @param nerView
+     * @return
+     */
+    public static boolean neOverlaps(Constituent nomMention, View nerView) {
+        List<Constituent> overlaps =
+                nerView.getConstituentsOverlappingCharSpan(nomMention.getStartCharOffset(), nomMention.getEndCharOffset());
+
+        return !overlaps.isEmpty();
     }
 }
