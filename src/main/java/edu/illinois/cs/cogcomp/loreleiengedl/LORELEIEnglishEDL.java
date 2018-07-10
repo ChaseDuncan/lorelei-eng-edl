@@ -24,11 +24,17 @@ public class LORELEIEnglishEDL {
     public static String NLVIEW = "NOMLINK";
     public static String CANDGENVIEW = "CANDGEN";
     public static String GOOGLEVIEW= "GOOGLE";
+    private final boolean justLinkTweets;
 
     // map of Wikipedia titles to kb ids. instatiated when needed.
     HashMap<String, String> wiki2lorelei = null;
 
     public LORELEIEnglishEDL() {
+        this(false);
+    }
+
+    public LORELEIEnglishEDL(boolean justLinkTweets) {
+        this.justLinkTweets = justLinkTweets;
         sh = new SerializationHelper();
     }
 
@@ -99,7 +105,7 @@ public class LORELEIEnglishEDL {
         for(File serializedTA : directoryListing){
 
             //TODO: currently only operating on Tweets
-            if(!serializedTA.getName().contains("SN"))
+            if(this.justLinkTweets && !serializedTA.getName().contains("SN"))
                 continue;
             String taPath = taDir + serializedTA.getName();
 
