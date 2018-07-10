@@ -1,0 +1,8794 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130828.0109.xml",
+ "text": "End of trial brings relief to Killeen\nBy Scott Huddleston Staff Writer FORT HOOD--Local residents and community leaders celebrated the death sentence given Wednesday to Nidal Hasan and the end of a long, arduous quest for justice. Barbara Gee, a longtime Killeen resident whose husband died nine months ago, said she had mixed feelings about the sentence. Gee was on Fort Hood when the shooting occurred in 2009. ''I\u2019m glad (Hasan) got what he deserved. But in a way I wish he could be kept alive and have to suffer,'' Gee said. ''Everybody here wishes that son of a gun never existed.'' Gee and her husband, a veteran, were at the commissary on the sprawling post when it was placed on lockdown the day of the shootings. ''We were hearing that there were multiple gunmen, and they told us to get away from the windows,'' Gee recalled. ''They said that if we had anything frozen, we should put it back because they didn\u2019t know when we could leave.'' John Crutchfield, president and CEO of the Greater Killeen Chamber of Commerce, said he was told during a tour of the post Wednesday that the building where 13 people were killed will be razed, and a memorial put on the site. Fort Hood officials could not confirm that. The former Soldier Readiness Processing center, or Building 42003, has remained a fenced-off crime scene. Local news updates, security barriers on the post and reminders to the community to be on heightened alert for security threats during the trial also have kept the tragedy at the forefront. ''I think obviously everyone is relived that it\u2019s over with,'' Crutchfield said. ''As we see the physical changes with the building and security barriers coming down, we\u2019ll also see emotional changes start to occur.'' Killeen, which adopted ''Where Freedom Grows\u2019' several years ago as its motto, reflecting the city\u2019s ties to one of the world\u2019s largest military installations, will keep ''making lemons into lemonade,'' Crutchfield said. Killeen has relied on the Army as its economic mainstay since Camp Hood was established during World War II. The chapter in local history that began with the worst shooting ever on a U.S. military base is rivaled only by a 1991 mass shooting in Killeen. In that case, George Hennard killed 23 people at a Luby\u2019s restaurant, then turned the gun on himself, in the third-deadliest shooting in U.S. history. Although Hasan\u2019s death sentence will go to an automatic appeal, he will soon be on a one-way flight out of Texas. Hasan, who was treated at Fort Sam Houston in San Antonio for five months after the shooting, has since been kept at the Bell County Jail in nearby Belton. He may be flown as early as Thursday to Fort Leavenworth, Kan. Jerry Haisler, a longtime Killeen-area resident and former president of the local chamber, said Fort Hood-Killeen can start a new chapter. ''It is a good day,'' Haisler said. ''This certainly brings some closure for the families that have been affected.'' ''It\u2019s a very tight-knit community,'' he said. ''This has affected everyone because we\u2019re all family here. Finally, people can move on to the other things in life.'' Part of that process will be completion of a memorial pavilion honoring victims of the shooting that is planned in Killeen. Troy Kelley, a Vietnam veteran and sculptor who is working the project, said a life sentence for Hasan would not have provided a platform the victims\u2019 families need to heal. ''It\u2019s a healing process that probably will never end,'' said Kelley, who is working with a committee that has raised $130,000 for the project but still must collect $250,000. The group has yet to work out details of how the markers of the memorial will explain what happened at Building 42003 on Nov. 5, 2009. But Kelley said he does not want any specific references to Nidal Hasan in the memorial. ''I don\u2019t even want to mention that SOB\u2019s name,'' he said. shuddleston@express-news.net End of trial brings relief to KilleenKilleen residents celebrated the death sentence and end to the Fort Hood trial",
+ "tokens": [
+  "End",
+  "of",
+  "trial",
+  "brings",
+  "relief",
+  "to",
+  "Killeen",
+  "By",
+  "Scott",
+  "Huddleston",
+  "Staff",
+  "Writer",
+  "FORT",
+  "HOOD",
+  "--",
+  "Local",
+  "residents",
+  "and",
+  "community",
+  "leaders",
+  "celebrated",
+  "the",
+  "death",
+  "sentence",
+  "given",
+  "Wednesday",
+  "to",
+  "Nidal",
+  "Hasan",
+  "and",
+  "the",
+  "end",
+  "of",
+  "a",
+  "long",
+  ",",
+  "arduous",
+  "quest",
+  "for",
+  "justice",
+  ".",
+  "Barbara",
+  "Gee",
+  ",",
+  "a",
+  "longtime",
+  "Killeen",
+  "resident",
+  "whose",
+  "husband",
+  "died",
+  "nine",
+  "months",
+  "ago",
+  ",",
+  "said",
+  "she",
+  "had",
+  "mixed",
+  "feelings",
+  "about",
+  "the",
+  "sentence",
+  ".",
+  "Gee",
+  "was",
+  "on",
+  "Fort",
+  "Hood",
+  "when",
+  "the",
+  "shooting",
+  "occurred",
+  "in",
+  "2009",
+  ".",
+  "''",
+  "I",
+  "\u2019m",
+  "glad",
+  "(",
+  "Hasan",
+  ")",
+  "got",
+  "what",
+  "he",
+  "deserved",
+  ".",
+  "But",
+  "in",
+  "a",
+  "way",
+  "I",
+  "wish",
+  "he",
+  "could",
+  "be",
+  "kept",
+  "alive",
+  "and",
+  "have",
+  "to",
+  "suffer",
+  ",",
+  "''",
+  "Gee",
+  "said",
+  ".",
+  "''",
+  "Everybody",
+  "here",
+  "wishes",
+  "that",
+  "son",
+  "of",
+  "a",
+  "gun",
+  "never",
+  "existed",
+  ".",
+  "''",
+  "Gee",
+  "and",
+  "her",
+  "husband",
+  ",",
+  "a",
+  "veteran",
+  ",",
+  "were",
+  "at",
+  "the",
+  "commissary",
+  "on",
+  "the",
+  "sprawling",
+  "post",
+  "when",
+  "it",
+  "was",
+  "placed",
+  "on",
+  "lockdown",
+  "the",
+  "day",
+  "of",
+  "the",
+  "shootings",
+  ".",
+  "''",
+  "We",
+  "were",
+  "hearing",
+  "that",
+  "there",
+  "were",
+  "multiple",
+  "gunmen",
+  ",",
+  "and",
+  "they",
+  "told",
+  "us",
+  "to",
+  "get",
+  "away",
+  "from",
+  "the",
+  "windows",
+  ",",
+  "''",
+  "Gee",
+  "recalled",
+  ".",
+  "''",
+  "They",
+  "said",
+  "that",
+  "if",
+  "we",
+  "had",
+  "anything",
+  "frozen",
+  ",",
+  "we",
+  "should",
+  "put",
+  "it",
+  "back",
+  "because",
+  "they",
+  "did",
+  "n\u2019t",
+  "know",
+  "when",
+  "we",
+  "could",
+  "leave",
+  ".",
+  "''",
+  "John",
+  "Crutchfield",
+  ",",
+  "president",
+  "and",
+  "CEO",
+  "of",
+  "the",
+  "Greater",
+  "Killeen",
+  "Chamber",
+  "of",
+  "Commerce",
+  ",",
+  "said",
+  "he",
+  "was",
+  "told",
+  "during",
+  "a",
+  "tour",
+  "of",
+  "the",
+  "post",
+  "Wednesday",
+  "that",
+  "the",
+  "building",
+  "where",
+  "13",
+  "people",
+  "were",
+  "killed",
+  "will",
+  "be",
+  "razed",
+  ",",
+  "and",
+  "a",
+  "memorial",
+  "put",
+  "on",
+  "the",
+  "site",
+  ".",
+  "Fort",
+  "Hood",
+  "officials",
+  "could",
+  "not",
+  "confirm",
+  "that",
+  ".",
+  "The",
+  "former",
+  "Soldier",
+  "Readiness",
+  "Processing",
+  "center",
+  ",",
+  "or",
+  "Building",
+  "42003",
+  ",",
+  "has",
+  "remained",
+  "a",
+  "fenced",
+  "-",
+  "off",
+  "crime",
+  "scene",
+  ".",
+  "Local",
+  "news",
+  "updates",
+  ",",
+  "security",
+  "barriers",
+  "on",
+  "the",
+  "post",
+  "and",
+  "reminders",
+  "to",
+  "the",
+  "community",
+  "to",
+  "be",
+  "on",
+  "heightened",
+  "alert",
+  "for",
+  "security",
+  "threats",
+  "during",
+  "the",
+  "trial",
+  "also",
+  "have",
+  "kept",
+  "the",
+  "tragedy",
+  "at",
+  "the",
+  "forefront",
+  ".",
+  "''",
+  "I",
+  "think",
+  "obviously",
+  "everyone",
+  "is",
+  "relived",
+  "that",
+  "it",
+  "\u2019s",
+  "over",
+  "with",
+  ",",
+  "''",
+  "Crutchfield",
+  "said",
+  ".",
+  "''",
+  "As",
+  "we",
+  "see",
+  "the",
+  "physical",
+  "changes",
+  "with",
+  "the",
+  "building",
+  "and",
+  "security",
+  "barriers",
+  "coming",
+  "down",
+  ",",
+  "we",
+  "\u2019ll",
+  "also",
+  "see",
+  "emotional",
+  "changes",
+  "start",
+  "to",
+  "occur",
+  ".",
+  "''",
+  "Killeen",
+  ",",
+  "which",
+  "adopted",
+  "''",
+  "Where",
+  "Freedom",
+  "Grows",
+  "\u2019",
+  "'",
+  "several",
+  "years",
+  "ago",
+  "as",
+  "its",
+  "motto",
+  ",",
+  "reflecting",
+  "the",
+  "city",
+  "\u2019s",
+  "ties",
+  "to",
+  "one",
+  "of",
+  "the",
+  "world",
+  "\u2019s",
+  "largest",
+  "military",
+  "installations",
+  ",",
+  "will",
+  "keep",
+  "''",
+  "making",
+  "lemons",
+  "into",
+  "lemonade",
+  ",",
+  "''",
+  "Crutchfield",
+  "said",
+  ".",
+  "Killeen",
+  "has",
+  "relied",
+  "on",
+  "the",
+  "Army",
+  "as",
+  "its",
+  "economic",
+  "mainstay",
+  "since",
+  "Camp",
+  "Hood",
+  "was",
+  "established",
+  "during",
+  "World",
+  "War",
+  "II",
+  ".",
+  "The",
+  "chapter",
+  "in",
+  "local",
+  "history",
+  "that",
+  "began",
+  "with",
+  "the",
+  "worst",
+  "shooting",
+  "ever",
+  "on",
+  "a",
+  "U.S.",
+  "military",
+  "base",
+  "is",
+  "rivaled",
+  "only",
+  "by",
+  "a",
+  "1991",
+  "mass",
+  "shooting",
+  "in",
+  "Killeen",
+  ".",
+  "In",
+  "that",
+  "case",
+  ",",
+  "George",
+  "Hennard",
+  "killed",
+  "23",
+  "people",
+  "at",
+  "a",
+  "Luby",
+  "\u2019s",
+  "restaurant",
+  ",",
+  "then",
+  "turned",
+  "the",
+  "gun",
+  "on",
+  "himself",
+  ",",
+  "in",
+  "the",
+  "third",
+  "-",
+  "deadliest",
+  "shooting",
+  "in",
+  "U.S.",
+  "history",
+  ".",
+  "Although",
+  "Hasan",
+  "\u2019s",
+  "death",
+  "sentence",
+  "will",
+  "go",
+  "to",
+  "an",
+  "automatic",
+  "appeal",
+  ",",
+  "he",
+  "will",
+  "soon",
+  "be",
+  "on",
+  "a",
+  "one",
+  "-",
+  "way",
+  "flight",
+  "out",
+  "of",
+  "Texas",
+  ".",
+  "Hasan",
+  ",",
+  "who",
+  "was",
+  "treated",
+  "at",
+  "Fort",
+  "Sam",
+  "Houston",
+  "in",
+  "San",
+  "Antonio",
+  "for",
+  "five",
+  "months",
+  "after",
+  "the",
+  "shooting",
+  ",",
+  "has",
+  "since",
+  "been",
+  "kept",
+  "at",
+  "the",
+  "Bell",
+  "County",
+  "Jail",
+  "in",
+  "nearby",
+  "Belton",
+  ".",
+  "He",
+  "may",
+  "be",
+  "flown",
+  "as",
+  "early",
+  "as",
+  "Thursday",
+  "to",
+  "Fort",
+  "Leavenworth",
+  ",",
+  "Kan",
+  ".",
+  "Jerry",
+  "Haisler",
+  ",",
+  "a",
+  "longtime",
+  "Killeen",
+  "-",
+  "area",
+  "resident",
+  "and",
+  "former",
+  "president",
+  "of",
+  "the",
+  "local",
+  "chamber",
+  ",",
+  "said",
+  "Fort",
+  "Hood",
+  "-",
+  "Killeen",
+  "can",
+  "start",
+  "a",
+  "new",
+  "chapter",
+  ".",
+  "''",
+  "It",
+  "is",
+  "a",
+  "good",
+  "day",
+  ",",
+  "''",
+  "Haisler",
+  "said",
+  ".",
+  "''",
+  "This",
+  "certainly",
+  "brings",
+  "some",
+  "closure",
+  "for",
+  "the",
+  "families",
+  "that",
+  "have",
+  "been",
+  "affected",
+  ".",
+  "''",
+  "''",
+  "It",
+  "\u2019s",
+  "a",
+  "very",
+  "tight",
+  "-",
+  "knit",
+  "community",
+  ",",
+  "''",
+  "he",
+  "said",
+  ".",
+  "''",
+  "This",
+  "has",
+  "affected",
+  "everyone",
+  "because",
+  "we",
+  "\u2019re",
+  "all",
+  "family",
+  "here",
+  ".",
+  "Finally",
+  ",",
+  "people",
+  "can",
+  "move",
+  "on",
+  "to",
+  "the",
+  "other",
+  "things",
+  "in",
+  "life",
+  ".",
+  "''",
+  "Part",
+  "of",
+  "that",
+  "process",
+  "will",
+  "be",
+  "completion",
+  "of",
+  "a",
+  "memorial",
+  "pavilion",
+  "honoring",
+  "victims",
+  "of",
+  "the",
+  "shooting",
+  "that",
+  "is",
+  "planned",
+  "in",
+  "Killeen",
+  ".",
+  "Troy",
+  "Kelley",
+  ",",
+  "a",
+  "Vietnam",
+  "veteran",
+  "and",
+  "sculptor",
+  "who",
+  "is",
+  "working",
+  "the",
+  "project",
+  ",",
+  "said",
+  "a",
+  "life",
+  "sentence",
+  "for",
+  "Hasan",
+  "would",
+  "not",
+  "have",
+  "provided",
+  "a",
+  "platform",
+  "the",
+  "victims",
+  "\u2019",
+  "families",
+  "need",
+  "to",
+  "heal",
+  ".",
+  "''",
+  "It",
+  "\u2019s",
+  "a",
+  "healing",
+  "process",
+  "that",
+  "probably",
+  "will",
+  "never",
+  "end",
+  ",",
+  "''",
+  "said",
+  "Kelley",
+  ",",
+  "who",
+  "is",
+  "working",
+  "with",
+  "a",
+  "committee",
+  "that",
+  "has",
+  "raised",
+  "$130,000",
+  "for",
+  "the",
+  "project",
+  "but",
+  "still",
+  "must",
+  "collect",
+  "$250,000",
+  ".",
+  "The",
+  "group",
+  "has",
+  "yet",
+  "to",
+  "work",
+  "out",
+  "details",
+  "of",
+  "how",
+  "the",
+  "markers",
+  "of",
+  "the",
+  "memorial",
+  "will",
+  "explain",
+  "what",
+  "happened",
+  "at",
+  "Building",
+  "42003",
+  "on",
+  "Nov.",
+  "5",
+  ",",
+  "2009",
+  ".",
+  "But",
+  "Kelley",
+  "said",
+  "he",
+  "does",
+  "not",
+  "want",
+  "any",
+  "specific",
+  "references",
+  "to",
+  "Nidal",
+  "Hasan",
+  "in",
+  "the",
+  "memorial",
+  ".",
+  "''",
+  "I",
+  "do",
+  "n\u2019t",
+  "even",
+  "want",
+  "to",
+  "mention",
+  "that",
+  "SOB",
+  "\u2019s",
+  "name",
+  ",",
+  "''",
+  "he",
+  "said",
+  ".",
+  "shuddleston",
+  "@",
+  "express",
+  "-",
+  "news",
+  ".",
+  "net",
+  "End",
+  "of",
+  "trial",
+  "brings",
+  "relief",
+  "to",
+  "KilleenKilleen",
+  "residents",
+  "celebrated",
+  "the",
+  "death",
+  "sentence",
+  "and",
+  "end",
+  "to",
+  "the",
+  "Fort",
+  "Hood",
+  "trial"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   41,
+   64,
+   76,
+   88,
+   108,
+   121,
+   149,
+   174,
+   200,
+   245,
+   253,
+   273,
+   307,
+   324,
+   351,
+   395,
+   415,
+   443,
+   475,
+   501,
+   533,
+   547,
+   575,
+   586,
+   601,
+   615,
+   627,
+   641,
+   663,
+   697,
+   732,
+   760,
+   777,
+   794,
+   820
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "Gee"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 261,
+       "end": 263,
+       "tokens": "Building 42003"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 208,
+       "end": 210,
+       "tokens": "Greater Killeen"
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 208,
+       "end": 213,
+       "tokens": "Greater Killeen Chamber of Commerce"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Crutchfield"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 663,
+       "end": 665,
+       "tokens": "Troy Kelley"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 41,
+       "end": 43,
+       "tokens": "Barbara Gee"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 447,
+       "end": 449,
+       "tokens": "George Hennard"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Gee"
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 817,
+       "end": 819,
+       "tokens": "Fort Hood"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 547,
+       "end": 549,
+       "tokens": "Jerry Haisler"
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 12,
+       "end": 14,
+       "tokens": "FORT HOOD"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 752,
+       "end": 754,
+       "tokens": "Building 42003"
+      },
+      {
+       "label": "Kansas",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "Kan"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "Kelley"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 8,
+       "end": 10,
+       "tokens": "Scott Huddleston"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "Gee"
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 565,
+       "end": 567,
+       "tokens": "Fort Hood"
+      },
+      {
+       "label": "United_States_Army",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "Army"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 27,
+       "end": 29,
+       "tokens": "Nidal Hasan"
+      },
+      {
+       "label": "Belton,_Texas",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "Belton"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "Crutchfield"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Bell_County,_Texas",
+       "score": 1.0,
+       "start": 526,
+       "end": 528,
+       "tokens": "Bell County"
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 67,
+       "end": 69,
+       "tokens": "Fort Hood"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 245,
+       "end": 247,
+       "tokens": "Fort Hood"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "Haisler"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 406,
+       "end": 408,
+       "tokens": "Camp Hood"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 200,
+       "end": 202,
+       "tokens": "John Crutchfield"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 526,
+       "end": 529,
+       "tokens": "Bell County Jail"
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 771,
+       "end": 773,
+       "tokens": "Nidal Hasan"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 711,
+       "end": 712,
+       "tokens": "Kelley"
+      },
+      {
+       "label": "Fort_Leavenworth",
+       "score": 1.0,
+       "start": 542,
+       "end": 544,
+       "tokens": "Fort Leavenworth"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 454,
+       "end": 456,
+       "tokens": "Luby \u2019s"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Gee"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "San_Antonio",
+       "score": 1.0,
+       "start": 511,
+       "end": 513,
+       "tokens": "San Antonio"
+      },
+      {
+       "label": "Fort_Sam_Houston",
+       "score": 1.0,
+       "start": 507,
+       "end": 510,
+       "tokens": "Fort Sam Houston"
+      },
+      {
+       "label": "Texas",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Texas"
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 1.0,
+       "start": 807,
+       "end": 808,
+       "tokens": "KilleenKilleen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "Gee"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 261,
+       "end": 263,
+       "tokens": "Building 42003"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 208,
+       "end": 210,
+       "tokens": "Greater Killeen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 208,
+       "end": 213,
+       "tokens": "Greater Killeen Chamber of Commerce"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Crutchfield"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 663,
+       "end": 665,
+       "tokens": "Troy Kelley"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 41,
+       "end": 43,
+       "tokens": "Barbara Gee"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 447,
+       "end": 449,
+       "tokens": "George Hennard"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Gee"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 817,
+       "end": 819,
+       "tokens": "Fort Hood"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 547,
+       "end": 549,
+       "tokens": "Jerry Haisler"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 12,
+       "end": 14,
+       "tokens": "FORT HOOD"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "U.S."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 752,
+       "end": 754,
+       "tokens": "Building 42003"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "Kan"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "Kelley"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 8,
+       "end": 10,
+       "tokens": "Scott Huddleston"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "Gee"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 565,
+       "end": 567,
+       "tokens": "Fort Hood"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "Army"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 27,
+       "end": 29,
+       "tokens": "Nidal Hasan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "Belton"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "Crutchfield"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "U.S."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 526,
+       "end": 528,
+       "tokens": "Bell County"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 67,
+       "end": 69,
+       "tokens": "Fort Hood"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 245,
+       "end": 247,
+       "tokens": "Fort Hood"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "Haisler"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 406,
+       "end": 408,
+       "tokens": "Camp Hood"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 200,
+       "end": 202,
+       "tokens": "John Crutchfield"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 526,
+       "end": 529,
+       "tokens": "Bell County Jail"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 771,
+       "end": 773,
+       "tokens": "Nidal Hasan"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 711,
+       "end": 712,
+       "tokens": "Kelley"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 542,
+       "end": 544,
+       "tokens": "Fort Leavenworth"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 454,
+       "end": 456,
+       "tokens": "Luby \u2019s"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Gee"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 511,
+       "end": 513,
+       "tokens": "San Antonio"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 507,
+       "end": 510,
+       "tokens": "Fort Sam Houston"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Texas"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 807,
+       "end": 808,
+       "tokens": "KilleenKilleen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "End",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "End"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "of"
+      },
+      {
+       "label": "trial",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "trial"
+      },
+      {
+       "label": "brings",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "brings"
+      },
+      {
+       "label": "relief",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "relief"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "to"
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "By",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "By"
+      },
+      {
+       "label": "Scott",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Scott"
+      },
+      {
+       "label": "Huddleston",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Huddleston"
+      },
+      {
+       "label": "Staff",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Staff"
+      },
+      {
+       "label": "Writer",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Writer"
+      },
+      {
+       "label": "FORT",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "FORT"
+      },
+      {
+       "label": "HOOD",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "HOOD"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "--"
+      },
+      {
+       "label": "Local",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "Local"
+      },
+      {
+       "label": "residents",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "residents"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "and"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "community"
+      },
+      {
+       "label": "leaders",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "leaders"
+      },
+      {
+       "label": "celebrated",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "celebrated"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "the"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "death"
+      },
+      {
+       "label": "sentence",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "sentence"
+      },
+      {
+       "label": "given",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "given"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "to"
+      },
+      {
+       "label": "Nidal",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Nidal"
+      },
+      {
+       "label": "Hasan",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "the"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "end"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "a"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "long"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": ","
+      },
+      {
+       "label": "arduous",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "arduous"
+      },
+      {
+       "label": "quest",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "quest"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "for"
+      },
+      {
+       "label": "justice",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "justice"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "."
+      },
+      {
+       "label": "Barbara",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "Barbara"
+      },
+      {
+       "label": "Gee",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "Gee"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "a"
+      },
+      {
+       "label": "longtime",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "longtime"
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "resident",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "resident"
+      },
+      {
+       "label": "whose",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "whose"
+      },
+      {
+       "label": "husband",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "husband"
+      },
+      {
+       "label": "died",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "died"
+      },
+      {
+       "label": "nine",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "nine"
+      },
+      {
+       "label": "months",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "months"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "ago"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "said"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "she"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "had"
+      },
+      {
+       "label": "mixed",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "mixed"
+      },
+      {
+       "label": "feelings",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "feelings"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "about"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "the"
+      },
+      {
+       "label": "sentence",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "sentence"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "."
+      },
+      {
+       "label": "Gee",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Gee"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "was"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "on"
+      },
+      {
+       "label": "Fort",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Fort"
+      },
+      {
+       "label": "Hood",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Hood"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "when"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "the"
+      },
+      {
+       "label": "shooting",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "shooting"
+      },
+      {
+       "label": "occurred",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "occurred"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "in"
+      },
+      {
+       "label": "2009",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "2009"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "''"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "I"
+      },
+      {
+       "label": "\u2019m",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "\u2019m"
+      },
+      {
+       "label": "glad",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "glad"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "("
+      },
+      {
+       "label": "Hasan",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Hasan"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": ")"
+      },
+      {
+       "label": "got",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "got"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "what"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "he"
+      },
+      {
+       "label": "deserved",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "deserved"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "But"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "a"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "way"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "I"
+      },
+      {
+       "label": "wish",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "wish"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "he"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "could"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "be"
+      },
+      {
+       "label": "kept",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "kept"
+      },
+      {
+       "label": "alive",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "alive"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "and"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "have"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "to"
+      },
+      {
+       "label": "suffer",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "suffer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "''"
+      },
+      {
+       "label": "Gee",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Gee"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "''"
+      },
+      {
+       "label": "Everybody",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Everybody"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "here"
+      },
+      {
+       "label": "wishes",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "wishes"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "that"
+      },
+      {
+       "label": "son",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "son"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "a"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "gun"
+      },
+      {
+       "label": "never",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "never"
+      },
+      {
+       "label": "existed",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "existed"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "''"
+      },
+      {
+       "label": "Gee",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "Gee"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "and"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "her"
+      },
+      {
+       "label": "husband",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "husband"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "a"
+      },
+      {
+       "label": "veteran",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "veteran"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": ","
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "were"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "the"
+      },
+      {
+       "label": "commissary",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "commissary"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "the"
+      },
+      {
+       "label": "sprawling",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "sprawling"
+      },
+      {
+       "label": "post",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "post"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "when"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "was"
+      },
+      {
+       "label": "placed",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "placed"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "on"
+      },
+      {
+       "label": "lockdown",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "lockdown"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "the"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "day"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "the"
+      },
+      {
+       "label": "shootings",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "shootings"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "''"
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "We"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "were"
+      },
+      {
+       "label": "hearing",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "hearing"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "that"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "there"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "were"
+      },
+      {
+       "label": "multiple",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "multiple"
+      },
+      {
+       "label": "gunmen",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "gunmen"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "and"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "they"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "told"
+      },
+      {
+       "label": "us",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "us"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "to"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "get"
+      },
+      {
+       "label": "away",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "away"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "the"
+      },
+      {
+       "label": "windows",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "windows"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "''"
+      },
+      {
+       "label": "Gee",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "Gee"
+      },
+      {
+       "label": "recalled",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "recalled"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "''"
+      },
+      {
+       "label": "They",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "They"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "that"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "if"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "we"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "had"
+      },
+      {
+       "label": "anything",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "anything"
+      },
+      {
+       "label": "frozen",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "frozen"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": ","
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "we"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "should"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "put"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "it"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "back"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "because"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "they"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "did"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "know"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "when"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "we"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "could"
+      },
+      {
+       "label": "leave",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "leave"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "''"
+      },
+      {
+       "label": "John",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "John"
+      },
+      {
+       "label": "Crutchfield",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Crutchfield"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": ","
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "president"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "and"
+      },
+      {
+       "label": "CEO",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "CEO"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "the"
+      },
+      {
+       "label": "Greater",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "Greater"
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "Chamber",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "Chamber"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "of"
+      },
+      {
+       "label": "Commerce",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "Commerce"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "said"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "was"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "told"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "during"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "a"
+      },
+      {
+       "label": "tour",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "tour"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "the"
+      },
+      {
+       "label": "post",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "post"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "the"
+      },
+      {
+       "label": "building",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "building"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "where"
+      },
+      {
+       "label": "13",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "13"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "people"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "were"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "killed"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "be"
+      },
+      {
+       "label": "razed",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "razed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "a"
+      },
+      {
+       "label": "memorial",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "memorial"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "put"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "the"
+      },
+      {
+       "label": "site",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "site"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "."
+      },
+      {
+       "label": "Fort",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "Fort"
+      },
+      {
+       "label": "Hood",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "Hood"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "officials"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "could"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "not"
+      },
+      {
+       "label": "confirm",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "confirm"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "that"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "The"
+      },
+      {
+       "label": "former",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "former"
+      },
+      {
+       "label": "Soldier",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "Soldier"
+      },
+      {
+       "label": "Readiness",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Readiness"
+      },
+      {
+       "label": "Processing",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "Processing"
+      },
+      {
+       "label": "center",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "center"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": ","
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "or"
+      },
+      {
+       "label": "Building",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "Building"
+      },
+      {
+       "label": "42003",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "42003"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": ","
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "has"
+      },
+      {
+       "label": "remained",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "remained"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "a"
+      },
+      {
+       "label": "fenced",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "fenced"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "-"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "off"
+      },
+      {
+       "label": "crime",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "crime"
+      },
+      {
+       "label": "scene",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "scene"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "."
+      },
+      {
+       "label": "Local",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "Local"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "news"
+      },
+      {
+       "label": "updates",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "updates"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": ","
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "security"
+      },
+      {
+       "label": "barriers",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "barriers"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "the"
+      },
+      {
+       "label": "post",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "post"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "and"
+      },
+      {
+       "label": "reminders",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "reminders"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "the"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "community"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "be"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "on"
+      },
+      {
+       "label": "heightened",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "heightened"
+      },
+      {
+       "label": "alert",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "alert"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "for"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "security"
+      },
+      {
+       "label": "threats",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "threats"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "during"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "the"
+      },
+      {
+       "label": "trial",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "trial"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "also"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "have"
+      },
+      {
+       "label": "kept",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "kept"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "the"
+      },
+      {
+       "label": "tragedy",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "tragedy"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "the"
+      },
+      {
+       "label": "forefront",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "forefront"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "''"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "I"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "think"
+      },
+      {
+       "label": "obviously",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "obviously"
+      },
+      {
+       "label": "everyone",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "everyone"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "is"
+      },
+      {
+       "label": "relived",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "relived"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "that"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "it"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "over"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "with"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "''"
+      },
+      {
+       "label": "Crutchfield",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Crutchfield"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "''"
+      },
+      {
+       "label": "As",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "As"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "we"
+      },
+      {
+       "label": "see",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "see"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "the"
+      },
+      {
+       "label": "physical",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "physical"
+      },
+      {
+       "label": "changes",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "changes"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "the"
+      },
+      {
+       "label": "building",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "building"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "and"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "security"
+      },
+      {
+       "label": "barriers",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "barriers"
+      },
+      {
+       "label": "coming",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "coming"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "down"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": ","
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "we"
+      },
+      {
+       "label": "\u2019ll",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "\u2019ll"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "also"
+      },
+      {
+       "label": "see",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "see"
+      },
+      {
+       "label": "emotional",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "emotional"
+      },
+      {
+       "label": "changes",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "changes"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "start"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "to"
+      },
+      {
+       "label": "occur",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "occur"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "''"
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "Killeen"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "which"
+      },
+      {
+       "label": "adopted",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "adopted"
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "''"
+      },
+      {
+       "label": "Where",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "Where"
+      },
+      {
+       "label": "Freedom",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "Freedom"
+      },
+      {
+       "label": "Grows",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "Grows"
+      },
+      {
+       "label": "\u2019",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "\u2019"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "'"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "several"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "years"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "ago"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "as"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "its"
+      },
+      {
+       "label": "motto",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "motto"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": ","
+      },
+      {
+       "label": "reflecting",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "reflecting"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "the"
+      },
+      {
+       "label": "city",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "city"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "ties",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "ties"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "to"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "the"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "world"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "largest",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "largest"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "military"
+      },
+      {
+       "label": "installations",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "installations"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": ","
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "will"
+      },
+      {
+       "label": "keep",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "keep"
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "''"
+      },
+      {
+       "label": "making",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "making"
+      },
+      {
+       "label": "lemons",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "lemons"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "into"
+      },
+      {
+       "label": "lemonade",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "lemonade"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "''"
+      },
+      {
+       "label": "Crutchfield",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "Crutchfield"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "."
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "has"
+      },
+      {
+       "label": "relied",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "relied"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "the"
+      },
+      {
+       "label": "Army",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "Army"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "as"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "its"
+      },
+      {
+       "label": "economic",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "economic"
+      },
+      {
+       "label": "mainstay",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "mainstay"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "since"
+      },
+      {
+       "label": "Camp",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "Camp"
+      },
+      {
+       "label": "Hood",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "Hood"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "was"
+      },
+      {
+       "label": "established",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "established"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "during"
+      },
+      {
+       "label": "World",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "World"
+      },
+      {
+       "label": "War",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "War"
+      },
+      {
+       "label": "II",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "II"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "The"
+      },
+      {
+       "label": "chapter",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "chapter"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "in"
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "local"
+      },
+      {
+       "label": "history",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "history"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "that"
+      },
+      {
+       "label": "began",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "began"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "the"
+      },
+      {
+       "label": "worst",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "worst"
+      },
+      {
+       "label": "shooting",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "shooting"
+      },
+      {
+       "label": "ever",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "ever"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "a"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "U.S."
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "military"
+      },
+      {
+       "label": "base",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "base"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "is"
+      },
+      {
+       "label": "rivaled",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "rivaled"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "only"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "a"
+      },
+      {
+       "label": "1991",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "1991"
+      },
+      {
+       "label": "mass",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "mass"
+      },
+      {
+       "label": "shooting",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "shooting"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "in"
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "Killeen"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "In"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "that"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "case"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": ","
+      },
+      {
+       "label": "George",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "George"
+      },
+      {
+       "label": "Hennard",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "Hennard"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "killed"
+      },
+      {
+       "label": "23",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "23"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "people"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "a"
+      },
+      {
+       "label": "Luby",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "Luby"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "restaurant",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "restaurant"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": ","
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "then"
+      },
+      {
+       "label": "turned",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "turned"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "the"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "gun"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "on"
+      },
+      {
+       "label": "himself",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "himself"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "the"
+      },
+      {
+       "label": "third",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "third"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "-"
+      },
+      {
+       "label": "deadliest",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "deadliest"
+      },
+      {
+       "label": "shooting",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "shooting"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "in"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "U.S."
+      },
+      {
+       "label": "history",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "history"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "."
+      },
+      {
+       "label": "Although",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "Although"
+      },
+      {
+       "label": "Hasan",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "death"
+      },
+      {
+       "label": "sentence",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "sentence"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "will"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "go"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "to"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "an"
+      },
+      {
+       "label": "automatic",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "automatic"
+      },
+      {
+       "label": "appeal",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "appeal"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": ","
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "he"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "will"
+      },
+      {
+       "label": "soon",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "soon"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "be"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "a"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "one"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "-"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "way"
+      },
+      {
+       "label": "flight",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "flight"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "out"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "of"
+      },
+      {
+       "label": "Texas",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Texas"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "."
+      },
+      {
+       "label": "Hasan",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "Hasan"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "who"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "was"
+      },
+      {
+       "label": "treated",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "treated"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "at"
+      },
+      {
+       "label": "Fort",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "Fort"
+      },
+      {
+       "label": "Sam",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "Sam"
+      },
+      {
+       "label": "Houston",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "Houston"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "in"
+      },
+      {
+       "label": "San",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "San"
+      },
+      {
+       "label": "Antonio",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "Antonio"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "for"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "five"
+      },
+      {
+       "label": "months",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "months"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "the"
+      },
+      {
+       "label": "shooting",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "shooting"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": ","
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "has"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "since"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "been"
+      },
+      {
+       "label": "kept",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "kept"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "the"
+      },
+      {
+       "label": "Bell",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "Bell"
+      },
+      {
+       "label": "County",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "County"
+      },
+      {
+       "label": "Jail",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "Jail"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "in"
+      },
+      {
+       "label": "nearby",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "nearby"
+      },
+      {
+       "label": "Belton",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "Belton"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "He"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "may"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "be"
+      },
+      {
+       "label": "flown",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "flown"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "as"
+      },
+      {
+       "label": "early",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "early"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "as"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "Thursday"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "to"
+      },
+      {
+       "label": "Fort",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "Fort"
+      },
+      {
+       "label": "Leavenworth",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "Leavenworth"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": ","
+      },
+      {
+       "label": "Kan",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "Kan"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "."
+      },
+      {
+       "label": "Jerry",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "Jerry"
+      },
+      {
+       "label": "Haisler",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "Haisler"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "a"
+      },
+      {
+       "label": "longtime",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "longtime"
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "-"
+      },
+      {
+       "label": "area",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "area"
+      },
+      {
+       "label": "resident",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "resident"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "and"
+      },
+      {
+       "label": "former",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "former"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "president"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "the"
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "local"
+      },
+      {
+       "label": "chamber",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "chamber"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "said"
+      },
+      {
+       "label": "Fort",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "Fort"
+      },
+      {
+       "label": "Hood",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "Hood"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "-"
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "Killeen"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "can"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "start"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "a"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "new"
+      },
+      {
+       "label": "chapter",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "chapter"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "''"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "a"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "good"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "day"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "''"
+      },
+      {
+       "label": "Haisler",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "Haisler"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "''"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "This"
+      },
+      {
+       "label": "certainly",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "certainly"
+      },
+      {
+       "label": "brings",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "brings"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "some"
+      },
+      {
+       "label": "closure",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "closure"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "the"
+      },
+      {
+       "label": "families",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "families"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "that"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "been"
+      },
+      {
+       "label": "affected",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "affected"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "''"
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "''"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "It"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "a"
+      },
+      {
+       "label": "very",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "very"
+      },
+      {
+       "label": "tight",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "tight"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "-"
+      },
+      {
+       "label": "knit",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "knit"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "community"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": "''"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "''"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": "This"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "has"
+      },
+      {
+       "label": "affected",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "affected"
+      },
+      {
+       "label": "everyone",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "everyone"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": "because"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 621,
+       "end": 622,
+       "tokens": "we"
+      },
+      {
+       "label": "\u2019re",
+       "score": 1.0,
+       "start": 622,
+       "end": 623,
+       "tokens": "\u2019re"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": "all"
+      },
+      {
+       "label": "family",
+       "score": 1.0,
+       "start": 624,
+       "end": 625,
+       "tokens": "family"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 625,
+       "end": 626,
+       "tokens": "here"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 626,
+       "end": 627,
+       "tokens": "."
+      },
+      {
+       "label": "Finally",
+       "score": 1.0,
+       "start": 627,
+       "end": 628,
+       "tokens": "Finally"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 628,
+       "end": 629,
+       "tokens": ","
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 629,
+       "end": 630,
+       "tokens": "people"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 630,
+       "end": 631,
+       "tokens": "can"
+      },
+      {
+       "label": "move",
+       "score": 1.0,
+       "start": 631,
+       "end": 632,
+       "tokens": "move"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "on"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 633,
+       "end": 634,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 634,
+       "end": 635,
+       "tokens": "the"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "other"
+      },
+      {
+       "label": "things",
+       "score": 1.0,
+       "start": 636,
+       "end": 637,
+       "tokens": "things"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 637,
+       "end": 638,
+       "tokens": "in"
+      },
+      {
+       "label": "life",
+       "score": 1.0,
+       "start": 638,
+       "end": 639,
+       "tokens": "life"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 639,
+       "end": 640,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "''"
+      },
+      {
+       "label": "Part",
+       "score": 1.0,
+       "start": 641,
+       "end": 642,
+       "tokens": "Part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 642,
+       "end": 643,
+       "tokens": "of"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 643,
+       "end": 644,
+       "tokens": "that"
+      },
+      {
+       "label": "process",
+       "score": 1.0,
+       "start": 644,
+       "end": 645,
+       "tokens": "process"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 646,
+       "end": 647,
+       "tokens": "be"
+      },
+      {
+       "label": "completion",
+       "score": 1.0,
+       "start": 647,
+       "end": 648,
+       "tokens": "completion"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 648,
+       "end": 649,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 649,
+       "end": 650,
+       "tokens": "a"
+      },
+      {
+       "label": "memorial",
+       "score": 1.0,
+       "start": 650,
+       "end": 651,
+       "tokens": "memorial"
+      },
+      {
+       "label": "pavilion",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "pavilion"
+      },
+      {
+       "label": "honoring",
+       "score": 1.0,
+       "start": 652,
+       "end": 653,
+       "tokens": "honoring"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 653,
+       "end": 654,
+       "tokens": "victims"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 654,
+       "end": 655,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 655,
+       "end": 656,
+       "tokens": "the"
+      },
+      {
+       "label": "shooting",
+       "score": 1.0,
+       "start": 656,
+       "end": 657,
+       "tokens": "shooting"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 657,
+       "end": 658,
+       "tokens": "that"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 658,
+       "end": 659,
+       "tokens": "is"
+      },
+      {
+       "label": "planned",
+       "score": 1.0,
+       "start": 659,
+       "end": 660,
+       "tokens": "planned"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "in"
+      },
+      {
+       "label": "Killeen",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "Killeen"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "."
+      },
+      {
+       "label": "Troy",
+       "score": 1.0,
+       "start": 663,
+       "end": 664,
+       "tokens": "Troy"
+      },
+      {
+       "label": "Kelley",
+       "score": 1.0,
+       "start": 664,
+       "end": 665,
+       "tokens": "Kelley"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 665,
+       "end": 666,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 666,
+       "end": 667,
+       "tokens": "a"
+      },
+      {
+       "label": "Vietnam",
+       "score": 1.0,
+       "start": 667,
+       "end": 668,
+       "tokens": "Vietnam"
+      },
+      {
+       "label": "veteran",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "veteran"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 669,
+       "end": 670,
+       "tokens": "and"
+      },
+      {
+       "label": "sculptor",
+       "score": 1.0,
+       "start": 670,
+       "end": 671,
+       "tokens": "sculptor"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 671,
+       "end": 672,
+       "tokens": "who"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "is"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 673,
+       "end": 674,
+       "tokens": "working"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 674,
+       "end": 675,
+       "tokens": "the"
+      },
+      {
+       "label": "project",
+       "score": 1.0,
+       "start": 675,
+       "end": 676,
+       "tokens": "project"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 676,
+       "end": 677,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "said"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 678,
+       "end": 679,
+       "tokens": "a"
+      },
+      {
+       "label": "life",
+       "score": 1.0,
+       "start": 679,
+       "end": 680,
+       "tokens": "life"
+      },
+      {
+       "label": "sentence",
+       "score": 1.0,
+       "start": 680,
+       "end": 681,
+       "tokens": "sentence"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 681,
+       "end": 682,
+       "tokens": "for"
+      },
+      {
+       "label": "Hasan",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 683,
+       "end": 684,
+       "tokens": "would"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 684,
+       "end": 685,
+       "tokens": "not"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 685,
+       "end": 686,
+       "tokens": "have"
+      },
+      {
+       "label": "provided",
+       "score": 1.0,
+       "start": 686,
+       "end": 687,
+       "tokens": "provided"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 687,
+       "end": 688,
+       "tokens": "a"
+      },
+      {
+       "label": "platform",
+       "score": 1.0,
+       "start": 688,
+       "end": 689,
+       "tokens": "platform"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 689,
+       "end": 690,
+       "tokens": "the"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 690,
+       "end": 691,
+       "tokens": "victims"
+      },
+      {
+       "label": "\u2019",
+       "score": 1.0,
+       "start": 691,
+       "end": 692,
+       "tokens": "\u2019"
+      },
+      {
+       "label": "families",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "families"
+      },
+      {
+       "label": "need",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "need"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 694,
+       "end": 695,
+       "tokens": "to"
+      },
+      {
+       "label": "heal",
+       "score": 1.0,
+       "start": 695,
+       "end": 696,
+       "tokens": "heal"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 696,
+       "end": 697,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 697,
+       "end": 698,
+       "tokens": "''"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 698,
+       "end": 699,
+       "tokens": "It"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 699,
+       "end": 700,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 700,
+       "end": 701,
+       "tokens": "a"
+      },
+      {
+       "label": "healing",
+       "score": 1.0,
+       "start": 701,
+       "end": 702,
+       "tokens": "healing"
+      },
+      {
+       "label": "process",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "process"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 703,
+       "end": 704,
+       "tokens": "that"
+      },
+      {
+       "label": "probably",
+       "score": 1.0,
+       "start": 704,
+       "end": 705,
+       "tokens": "probably"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 705,
+       "end": 706,
+       "tokens": "will"
+      },
+      {
+       "label": "never",
+       "score": 1.0,
+       "start": 706,
+       "end": 707,
+       "tokens": "never"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 707,
+       "end": 708,
+       "tokens": "end"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 708,
+       "end": 709,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 709,
+       "end": 710,
+       "tokens": "''"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 710,
+       "end": 711,
+       "tokens": "said"
+      },
+      {
+       "label": "Kelley",
+       "score": 1.0,
+       "start": 711,
+       "end": 712,
+       "tokens": "Kelley"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 712,
+       "end": 713,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 713,
+       "end": 714,
+       "tokens": "who"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 714,
+       "end": 715,
+       "tokens": "is"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 715,
+       "end": 716,
+       "tokens": "working"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 716,
+       "end": 717,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 717,
+       "end": 718,
+       "tokens": "a"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 718,
+       "end": 719,
+       "tokens": "committee"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 719,
+       "end": 720,
+       "tokens": "that"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 720,
+       "end": 721,
+       "tokens": "has"
+      },
+      {
+       "label": "raised",
+       "score": 1.0,
+       "start": 721,
+       "end": 722,
+       "tokens": "raised"
+      },
+      {
+       "label": "$130,000",
+       "score": 1.0,
+       "start": 722,
+       "end": 723,
+       "tokens": "$130,000"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 723,
+       "end": 724,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 724,
+       "end": 725,
+       "tokens": "the"
+      },
+      {
+       "label": "project",
+       "score": 1.0,
+       "start": 725,
+       "end": 726,
+       "tokens": "project"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 726,
+       "end": 727,
+       "tokens": "but"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 727,
+       "end": 728,
+       "tokens": "still"
+      },
+      {
+       "label": "must",
+       "score": 1.0,
+       "start": 728,
+       "end": 729,
+       "tokens": "must"
+      },
+      {
+       "label": "collect",
+       "score": 1.0,
+       "start": 729,
+       "end": 730,
+       "tokens": "collect"
+      },
+      {
+       "label": "$250,000",
+       "score": 1.0,
+       "start": 730,
+       "end": 731,
+       "tokens": "$250,000"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 731,
+       "end": 732,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 732,
+       "end": 733,
+       "tokens": "The"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 733,
+       "end": 734,
+       "tokens": "group"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 734,
+       "end": 735,
+       "tokens": "has"
+      },
+      {
+       "label": "yet",
+       "score": 1.0,
+       "start": 735,
+       "end": 736,
+       "tokens": "yet"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 736,
+       "end": 737,
+       "tokens": "to"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 737,
+       "end": 738,
+       "tokens": "work"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 738,
+       "end": 739,
+       "tokens": "out"
+      },
+      {
+       "label": "details",
+       "score": 1.0,
+       "start": 739,
+       "end": 740,
+       "tokens": "details"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 740,
+       "end": 741,
+       "tokens": "of"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 741,
+       "end": 742,
+       "tokens": "how"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 742,
+       "end": 743,
+       "tokens": "the"
+      },
+      {
+       "label": "markers",
+       "score": 1.0,
+       "start": 743,
+       "end": 744,
+       "tokens": "markers"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 744,
+       "end": 745,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 745,
+       "end": 746,
+       "tokens": "the"
+      },
+      {
+       "label": "memorial",
+       "score": 1.0,
+       "start": 746,
+       "end": 747,
+       "tokens": "memorial"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 747,
+       "end": 748,
+       "tokens": "will"
+      },
+      {
+       "label": "explain",
+       "score": 1.0,
+       "start": 748,
+       "end": 749,
+       "tokens": "explain"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 749,
+       "end": 750,
+       "tokens": "what"
+      },
+      {
+       "label": "happened",
+       "score": 1.0,
+       "start": 750,
+       "end": 751,
+       "tokens": "happened"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 751,
+       "end": 752,
+       "tokens": "at"
+      },
+      {
+       "label": "Building",
+       "score": 1.0,
+       "start": 752,
+       "end": 753,
+       "tokens": "Building"
+      },
+      {
+       "label": "42003",
+       "score": 1.0,
+       "start": 753,
+       "end": 754,
+       "tokens": "42003"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 754,
+       "end": 755,
+       "tokens": "on"
+      },
+      {
+       "label": "Nov.",
+       "score": 1.0,
+       "start": 755,
+       "end": 756,
+       "tokens": "Nov."
+      },
+      {
+       "label": "5",
+       "score": 1.0,
+       "start": 756,
+       "end": 757,
+       "tokens": "5"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 757,
+       "end": 758,
+       "tokens": ","
+      },
+      {
+       "label": "2009",
+       "score": 1.0,
+       "start": 758,
+       "end": 759,
+       "tokens": "2009"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 759,
+       "end": 760,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 760,
+       "end": 761,
+       "tokens": "But"
+      },
+      {
+       "label": "Kelley",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "Kelley"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 762,
+       "end": 763,
+       "tokens": "said"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 763,
+       "end": 764,
+       "tokens": "he"
+      },
+      {
+       "label": "does",
+       "score": 1.0,
+       "start": 764,
+       "end": 765,
+       "tokens": "does"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 765,
+       "end": 766,
+       "tokens": "not"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 766,
+       "end": 767,
+       "tokens": "want"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 767,
+       "end": 768,
+       "tokens": "any"
+      },
+      {
+       "label": "specific",
+       "score": 1.0,
+       "start": 768,
+       "end": 769,
+       "tokens": "specific"
+      },
+      {
+       "label": "references",
+       "score": 1.0,
+       "start": 769,
+       "end": 770,
+       "tokens": "references"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 770,
+       "end": 771,
+       "tokens": "to"
+      },
+      {
+       "label": "Nidal",
+       "score": 1.0,
+       "start": 771,
+       "end": 772,
+       "tokens": "Nidal"
+      },
+      {
+       "label": "Hasan",
+       "score": 1.0,
+       "start": 772,
+       "end": 773,
+       "tokens": "Hasan"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 773,
+       "end": 774,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 774,
+       "end": 775,
+       "tokens": "the"
+      },
+      {
+       "label": "memorial",
+       "score": 1.0,
+       "start": 775,
+       "end": 776,
+       "tokens": "memorial"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 776,
+       "end": 777,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 777,
+       "end": 778,
+       "tokens": "''"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 778,
+       "end": 779,
+       "tokens": "I"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 779,
+       "end": 780,
+       "tokens": "do"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 780,
+       "end": 781,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 781,
+       "end": 782,
+       "tokens": "even"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 782,
+       "end": 783,
+       "tokens": "want"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 783,
+       "end": 784,
+       "tokens": "to"
+      },
+      {
+       "label": "mention",
+       "score": 1.0,
+       "start": 784,
+       "end": 785,
+       "tokens": "mention"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 785,
+       "end": 786,
+       "tokens": "that"
+      },
+      {
+       "label": "SOB",
+       "score": 1.0,
+       "start": 786,
+       "end": 787,
+       "tokens": "SOB"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 787,
+       "end": 788,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "name",
+       "score": 1.0,
+       "start": 788,
+       "end": 789,
+       "tokens": "name"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 789,
+       "end": 790,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 790,
+       "end": 791,
+       "tokens": "''"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 791,
+       "end": 792,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 792,
+       "end": 793,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 793,
+       "end": 794,
+       "tokens": "."
+      },
+      {
+       "label": "shuddleston",
+       "score": 1.0,
+       "start": 794,
+       "end": 795,
+       "tokens": "shuddleston"
+      },
+      {
+       "label": "@",
+       "score": 1.0,
+       "start": 795,
+       "end": 796,
+       "tokens": "@"
+      },
+      {
+       "label": "express",
+       "score": 1.0,
+       "start": 796,
+       "end": 797,
+       "tokens": "express"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 797,
+       "end": 798,
+       "tokens": "-"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 798,
+       "end": 799,
+       "tokens": "news"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 799,
+       "end": 800,
+       "tokens": "."
+      },
+      {
+       "label": "net",
+       "score": 1.0,
+       "start": 800,
+       "end": 801,
+       "tokens": "net"
+      },
+      {
+       "label": "End",
+       "score": 1.0,
+       "start": 801,
+       "end": 802,
+       "tokens": "End"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 802,
+       "end": 803,
+       "tokens": "of"
+      },
+      {
+       "label": "trial",
+       "score": 1.0,
+       "start": 803,
+       "end": 804,
+       "tokens": "trial"
+      },
+      {
+       "label": "brings",
+       "score": 1.0,
+       "start": 804,
+       "end": 805,
+       "tokens": "brings"
+      },
+      {
+       "label": "relief",
+       "score": 1.0,
+       "start": 805,
+       "end": 806,
+       "tokens": "relief"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 806,
+       "end": 807,
+       "tokens": "to"
+      },
+      {
+       "label": "KilleenKilleen",
+       "score": 1.0,
+       "start": 807,
+       "end": 808,
+       "tokens": "KilleenKilleen"
+      },
+      {
+       "label": "residents",
+       "score": 1.0,
+       "start": 808,
+       "end": 809,
+       "tokens": "residents"
+      },
+      {
+       "label": "celebrated",
+       "score": 1.0,
+       "start": 809,
+       "end": 810,
+       "tokens": "celebrated"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 810,
+       "end": 811,
+       "tokens": "the"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 811,
+       "end": 812,
+       "tokens": "death"
+      },
+      {
+       "label": "sentence",
+       "score": 1.0,
+       "start": 812,
+       "end": 813,
+       "tokens": "sentence"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 813,
+       "end": 814,
+       "tokens": "and"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 814,
+       "end": 815,
+       "tokens": "end"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 815,
+       "end": 816,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 816,
+       "end": 817,
+       "tokens": "the"
+      },
+      {
+       "label": "Fort",
+       "score": 1.0,
+       "start": 817,
+       "end": 818,
+       "tokens": "Fort"
+      },
+      {
+       "label": "Hood",
+       "score": 1.0,
+       "start": 818,
+       "end": 819,
+       "tokens": "Hood"
+      },
+      {
+       "label": "trial",
+       "score": 1.0,
+       "start": 819,
+       "end": 820,
+       "tokens": "trial"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Gee_(Girls'_Generation_song)",
+       "score": 0.7024748384770798,
+       "start": 121,
+       "end": 122,
+       "tokens": "Gee",
+       "labelScoreMap": {
+        "Gee_(Girls'_Generation_song)": 0.7024748384770798,
+        "Gee_Vaucher": 0.08078239781140584,
+        "E._Gordon_Gee": 0.05827588247515279,
+        "Horse": 0.04219966309835985,
+        "Gee_(The_Crows_song)": 0.034965994892203305,
+        "Gerard_Way": 0.018889438224826218,
+        "James_Paul_Gee": 0.012860997176913207,
+        "Gee_Records": 0.010449473933485841,
+        "Darron_Gee": 0.008439974282840415,
+        "Girls'_Generation": 0.006430429477829695,
+        "Maurice_Gee": 0.005626775561538636,
+        "Psychic_TV": 0.005626630381336728,
+        "Geelong_Football_Club": 0.0036171251506108477,
+        "Dillon_Gee": 0.0024116978225579267,
+        "Lode_Runner": 0.002411403781559568,
+        "M16_rifle": 0.0025277743084023627,
+        "Ghee": 0.002009503143896431,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 261,
+       "end": 263,
+       "tokens": "Building 42003",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 208,
+       "end": 210,
+       "tokens": "Greater Killeen",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Hasan_ibn_Ali",
+       "score": 0.44568833981145456,
+       "start": 682,
+       "end": 683,
+       "tokens": "Hasan",
+       "labelScoreMap": {
+        "Hasan_ibn_Ali": 0.44568833981145456,
+        "Nidal_Hasan": 0.06110177554593437,
+        "Mount_Hasan": 0.0189287632516373,
+        "Hameed_Hassan": 0.006996424417053289,
+        "Rukn_al-Dawla": 0.06022245412882282,
+        "Hasan_al-Askari": 0.00460993957470679,
+        "Hasan_ibn_al-Nu'man": 0.004568999057119318,
+        "Saddam_Hussein": 0.0077806147137281685,
+        "Hassan,_Karnataka": 0.3901026894995434,
+        "<unk_wid>": 6.307264736992653e-39
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 208,
+       "end": 213,
+       "tokens": "Greater Killeen Chamber of Commerce",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 321,
+       "end": 322,
+       "tokens": "Crutchfield",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 663,
+       "end": 665,
+       "tokens": "Troy Kelley",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 41,
+       "end": 43,
+       "tokens": "Barbara Gee",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Luby's_shooting",
+       "score": 1.0,
+       "start": 447,
+       "end": 449,
+       "tokens": "George Hennard",
+       "labelScoreMap": {
+        "Luby's_shooting": 1.0,
+        "<unk_wid>": 1.2196483636674223e-30
+       }
+      },
+      {
+       "label": "Gee_(Girls'_Generation_song)",
+       "score": 0.6967313703819227,
+       "start": 105,
+       "end": 106,
+       "tokens": "Gee",
+       "labelScoreMap": {
+        "Gee_(Girls'_Generation_song)": 0.6967313703819227,
+        "Gee_Vaucher": 0.08062689919875866,
+        "E._Gordon_Gee": 0.0580472191753576,
+        "Horse": 0.04203207475903417,
+        "Gee_(The_Crows_song)": 0.034867305384075814,
+        "Gerard_Way": 0.018855240512525687,
+        "James_Paul_Gee": 0.01291339427188729,
+        "Gee_Records": 0.010411538370058808,
+        "Darron_Gee": 0.008413197389784027,
+        "Girls'_Generation": 0.0064048926317686996,
+        "Maurice_Gee": 0.006056588928393424,
+        "Psychic_TV": 0.005680969115570711,
+        "Geelong_Football_Club": 0.0036124422357000133,
+        "Dillon_Gee": 0.0024315762966356123,
+        "Lode_Runner": 0.0024019782253462416,
+        "M16_rifle": 0.00851178787539344,
+        "Ghee": 0.0020015252477870306,
+        "<unk_wid>": 1.824263496253565e-39
+       }
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 817,
+       "end": 819,
+       "tokens": "Fort Hood",
+       "labelScoreMap": {
+        "Fort_Hood": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.957147913614934,
+       "start": 661,
+       "end": 662,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.957147913614934,
+        "Killean,_County_Armagh": 0.035475899686131115,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.003161224619227064,
+        "Neil_Killeen": 0.0014049873598945418,
+        "Killeen_Castle,_Dunsany": 0.0014049873599187768,
+        "Killeen_Independent_School_District": 0.0014049873598945418,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 547,
+       "end": 549,
+       "tokens": "Jerry Haisler",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 12,
+       "end": 14,
+       "tokens": "FORT HOOD",
+       "labelScoreMap": {
+        "Fort_Hood": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "U.S._state",
+       "score": 0.4689830655850434,
+       "start": 472,
+       "end": 473,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.32311872873608755,
+        "United_States_dollar": 0.163625220020666,
+        "Billboard_Hot_100": 0.019785674474046264,
+        "American_English": 0.011097640169451948,
+        "Recording_Industry_Association_of_America": 0.007447126355074736,
+        "Us_(Peter_Gabriel_album)": 0.001466173581264785,
+        "Federal_government_of_the_United_States": 0.0012757614118043621,
+        "United_States_men's_national_soccer_team": 0.0008940117017176536,
+        "United_States_Armed_Forces": 0.0008582467450252713,
+        "U.S._state": 0.4689830655850434,
+        "Billboard_charts": 0.0008075871991871372,
+        "United_States_Congress": 0.0006407640206307917,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479124102618,
+       "start": 395,
+       "end": 396,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.9571479124102618,
+        "Killean,_County_Armagh": 0.03547589964357215,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.0031612258713595424,
+        "Neil_Killeen": 0.0014049873582090383,
+        "Killeen_Castle,_Dunsany": 0.0014049873583883625,
+        "Killeen_Independent_School_District": 0.0014049873582090383,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 752,
+       "end": 754,
+       "tokens": "Building 42003",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Blood",
+       "score": 0.32301636431695474,
+       "start": 545,
+       "end": 546,
+       "tokens": "Kan",
+       "labelScoreMap": {
+        "Blood": 0.32301636431695474,
+        "Naoto_Kan": 0.08347985523503423,
+        "Canada": 0.024607823030493997,
+        "RoadRunner_Turbo_Indy_300": 0.012577623838995376,
+        "Kansas": 0.008423244548587285,
+        "Kansas_Speedway": 0.007164304728673612,
+        "Immanuel_Kant": 0.00404938604412862,
+        "Kan-Etsu_Expressway": 0.0032304254228817707,
+        "Fish": 0.0028034228461438267,
+        "R\u00f6yksopp": 0.0024949857445958645,
+        "Hollywood_Casino_400": 0.002491937341294974,
+        "Canon_(priest)": 0.00291979223507369,
+        "North_Melbourne_Football_Club": 0.18886795034087142,
+        "Creative_Commons": 0.002199676249992628,
+        "Kandy_Electoral_District": 0.0021804410841916276,
+        "Kubrat": 0.0018690168804957146,
+        "Ultimate_Fighting_Championship": 0.0018690493219386975,
+        "Cannes": 0.03357070981041088,
+        "Israel": 0.0015575453824511348,
+        "Cane": 0.0015574594630746595,
+        "Kansas_City_Chiefs": 0.0012459631906231604,
+        "Leukemia": 0.0012467657194790084,
+        "Mallam_Aminu_Kano_International_Airport": 0.00137590118991824,
+        "Avalokite\u015bvara": 0.0012797118617532638,
+        "Kandy": 0.0887703497741002,
+        "Kanpur": 0.13371273991954763,
+        "Wim_Kan": 0.061437554478293674,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kelley_Blue_Book",
+       "score": 0.468932984798556,
+       "start": 761,
+       "end": 762,
+       "tokens": "Kelley",
+       "labelScoreMap": {
+        "Joe_Kelley": 0.12248600985737476,
+        "Kelley_Deal": 0.10104745417551177,
+        "Paul_X._Kelley": 0.07954997542103612,
+        "Larry_Kelley": 0.07239941348966797,
+        "Edward_Kelley": 0.05899209428708838,
+        "Kelley_Racing": 0.015194896441328772,
+        "Kelley_Blue_Book": 0.468932984798556,
+        "Clarence_M._Kelley": 0.01430900306557773,
+        "Alton_Kelley": 0.008061346048046399,
+        "Shawn_Kelley": 0.008044415342512379,
+        "Mike_Kelley_(artist)": 0.010342710699977924,
+        "David_E._Kelley": 0.004469099163936211,
+        "Kelley_Jones": 0.017714652992936064,
+        "John_L._Kelley": 0.00269183230912586,
+        "Robin_Kelley": 0.010367827710135231,
+        "David_Kelley": 0.0053962841971884135,
+        "<unk_wid>": 3.1942935621720373e-43
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479138179193,
+       "start": 209,
+       "end": 210,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.9571479138179193,
+        "Killean,_County_Armagh": 0.03547589969330223,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.003161224408242875,
+        "Neil_Killeen": 0.0014049873601785466,
+        "Killeen_Castle,_Dunsany": 0.0014049873601785997,
+        "Killeen_Independent_School_District": 0.0014049873601785468,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479131329935,
+       "start": 351,
+       "end": 352,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.9571479131329935,
+        "Killean,_County_Armagh": 0.035475899669105006,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.0031612251201688624,
+        "Neil_Killeen": 0.00140498735922024,
+        "Killeen_Castle,_Dunsany": 0.001404987359292186,
+        "Killeen_Independent_School_District": 0.00140498735922024,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 8,
+       "end": 10,
+       "tokens": "Scott Huddleston",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Gee_(Girls'_Generation_song)",
+       "score": 0.7004596813883945,
+       "start": 171,
+       "end": 172,
+       "tokens": "Gee",
+       "labelScoreMap": {
+        "Gee_(Girls'_Generation_song)": 0.7004596813883945,
+        "Gee_Vaucher": 0.08073634253603225,
+        "E._Gordon_Gee": 0.0581956662864388,
+        "Horse": 0.042141040734084964,
+        "Gee_(The_Crows_song)": 0.03494926476378244,
+        "Gerard_Way": 0.019085429097583793,
+        "James_Paul_Gee": 0.012895603616593924,
+        "Gee_Records": 0.010437294717632432,
+        "Darron_Gee": 0.008432298148908562,
+        "Girls'_Generation": 0.006421498088776496,
+        "Maurice_Gee": 0.0057318963578532256,
+        "Psychic_TV": 0.005837771314043775,
+        "Geelong_Football_Club": 0.0036175649154934634,
+        "Dillon_Gee": 0.0024359630235121234,
+        "Lode_Runner": 0.0024087747558980297,
+        "M16_rifle": 0.004207196186096248,
+        "Ghee": 0.0020067140688749124,
+        "<unk_wid>": 3.3456239021880726e-38
+       }
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 565,
+       "end": 567,
+       "tokens": "Fort Hood",
+       "labelScoreMap": {
+        "Fort_Hood": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States_Army",
+       "score": 0.3265431784822363,
+       "start": 400,
+       "end": 401,
+       "tokens": "Army",
+       "labelScoreMap": {
+        "United_States_Army": 0.3265431784822363,
+        "British_Army": 0.0698212600936836,
+        "Union_Army": 0.056097467614148404,
+        "Army_Black_Knights_football": 0.026182824565803623,
+        "Pakistan_Army": 0.026107567346475808,
+        "United_States_Military_Academy": 0.2762539910045948,
+        "United_States_Department_of_the_Army": 0.011528014044398793,
+        "Confederate_States_Army": 0.06073557624736655,
+        "Roman_army": 0.008970768500119243,
+        "German_Army_(German_Empire)": 0.012360310414144246,
+        "Canadian_Army": 0.010029496402084824,
+        "Indian_Army": 0.009124609312806084,
+        "Australian_Army": 0.01802741877065161,
+        "United_States_Armed_Forces": 0.006593405920523999,
+        "German_Army_(Wehrmacht)": 0.009020777712963463,
+        "Kentucky_Army_National_Guard": 0.005136715299740466,
+        "Iowa_Army_National_Guard": 0.004875866555476835,
+        "Florida_Army_National_Guard": 0.004695278811829381,
+        "Sri_Lanka_Army": 0.009460512561959651,
+        "Saudi_Arabian_Army": 0.004394303296667244,
+        "Maryland_Army_National_Guard": 0.0043140382261358185,
+        "National_Army_of_Colombia": 0.004314136533265896,
+        "French_Army": 0.008259470532919486,
+        "Bundeswehr": 0.004127109527379552,
+        "North_Carolina_Army_National_Guard": 0.004053189773208741,
+        "Royal_Danish_Army": 0.003956975815255247,
+        "Washington_Army_National_Guard": 0.0038726017940153325,
+        "Tennessee_Army_National_Guard": 0.0038324711669874504,
+        "Iraqi_Army": 0.003678845446929458,
+        "Utah_Army_National_Guard": 0.003631818226228197
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479135581531,
+       "start": 552,
+       "end": 553,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.9571479135581531,
+        "Killean,_County_Armagh": 0.03547589968412515,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.003161224678265195,
+        "Neil_Killeen": 0.0014049873598150975,
+        "Killeen_Castle,_Dunsany": 0.0014049873598263273,
+        "Killeen_Independent_School_District": 0.0014049873598150975,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 27,
+       "end": 29,
+       "tokens": "Nidal Hasan",
+       "labelScoreMap": {
+        "Nidal_Hasan": 1.0,
+        "<unk_wid>": 1.3866101939516108e-38
+       }
+      },
+      {
+       "label": "Belton,_Texas",
+       "score": 0.6468244716252801,
+       "start": 531,
+       "end": 532,
+       "tokens": "Belton",
+       "labelScoreMap": {
+        "Belton,_Texas": 0.6468244716252801,
+        "Belton,_Missouri": 0.2742019103223369,
+        "Belton,_South_Carolina": 0.051771340967221476,
+        "Belton,_Lincolnshire": 0.011060229798292959,
+        "Belton,_North_Lincolnshire": 0.008370006257286868,
+        "Belton,_Leicestershire": 0.0077720410295816994,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 392,
+       "end": 393,
+       "tokens": "Crutchfield",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "U.S._state",
+       "score": 0.46961291169253416,
+       "start": 429,
+       "end": 430,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.32316029186203954,
+        "United_States_dollar": 0.16362981940783902,
+        "Billboard_Hot_100": 0.019107170148678174,
+        "American_English": 0.011097925135324226,
+        "Recording_Industry_Association_of_America": 0.00744731827484705,
+        "Us_(Peter_Gabriel_album)": 0.0014662112178883482,
+        "Federal_government_of_the_United_States": 0.0012772603832118918,
+        "United_States_men's_national_soccer_team": 0.0008940384321224626,
+        "United_States_Armed_Forces": 0.0008582692724717535,
+        "U.S._state": 0.46961291169253416,
+        "Billboard_charts": 0.0008076079458115696,
+        "United_States_Congress": 0.0006411762272318276,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Bell_County,_Texas",
+       "score": 0.8224190032629384,
+       "start": 526,
+       "end": 528,
+       "tokens": "Bell County",
+       "labelScoreMap": {
+        "Bell_County,_Texas": 0.8224190032629384,
+        "Bell_County,_Kentucky": 0.17758099673706168,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Hasan_ibn_Ali",
+       "score": 0.4536366163419546,
+       "start": 81,
+       "end": 82,
+       "tokens": "Hasan",
+       "labelScoreMap": {
+        "Hasan_ibn_Ali": 0.4536366163419546,
+        "Nidal_Hasan": 0.1905913793009943,
+        "Mount_Hasan": 0.019223701361081844,
+        "Hameed_Hassan": 0.007105971398359875,
+        "Rukn_al-Dawla": 0.03560674780628209,
+        "Hasan_al-Askari": 0.0047037336042391005,
+        "Hasan_ibn_al-Nu'man": 0.004651409568159431,
+        "Saddam_Hussein": 0.028870393178420193,
+        "Hassan,_Karnataka": 0.25561004744050864,
+        "<unk_wid>": 6.717841756108691e-40
+       }
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 67,
+       "end": 69,
+       "tokens": "Fort Hood",
+       "labelScoreMap": {
+        "Fort_Hood": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 245,
+       "end": 247,
+       "tokens": "Fort Hood",
+       "labelScoreMap": {
+        "Fort_Hood": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479133001627,
+       "start": 441,
+       "end": 442,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.9571479133001627,
+        "Killean,_County_Armagh": 0.035475899675010795,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.003161224946410153,
+        "Neil_Killeen": 0.0014049873594541328,
+        "Killeen_Castle,_Dunsany": 0.0014049873595080847,
+        "Killeen_Independent_School_District": 0.0014049873594541328,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 583,
+       "end": 584,
+       "tokens": "Haisler",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 406,
+       "end": 408,
+       "tokens": "Camp Hood",
+       "labelScoreMap": {
+        "Fort_Hood": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 200,
+       "end": 202,
+       "tokens": "John Crutchfield",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 526,
+       "end": 529,
+       "tokens": "Bell County Jail",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 771,
+       "end": 773,
+       "tokens": "Nidal Hasan",
+       "labelScoreMap": {
+        "Nidal_Hasan": 1.0,
+        "<unk_wid>": 5.8251923352121616e-37
+       }
+      },
+      {
+       "label": "Kelley_Blue_Book",
+       "score": 0.5016634808761339,
+       "start": 711,
+       "end": 712,
+       "tokens": "Kelley",
+       "labelScoreMap": {
+        "Joe_Kelley": 0.1224128684965639,
+        "Kelley_Deal": 0.09591318118588689,
+        "Paul_X._Kelley": 0.07952019651625612,
+        "Larry_Kelley": 0.07237233368218161,
+        "Edward_Kelley": 0.05896980087464926,
+        "Kelley_Racing": 0.015189305496472625,
+        "Kelley_Blue_Book": 0.5016634808761339,
+        "Clarence_M._Kelley": 0.014300531367831057,
+        "Alton_Kelley": 0.008041889429275842,
+        "Shawn_Kelley": 0.008041557225323884,
+        "Mike_Kelley_(artist)": 0.0072941994228949494,
+        "David_E._Kelley": 0.0044674186003209,
+        "Kelley_Jones": 0.0038016773201652474,
+        "John_L._Kelley": 0.002684336214622576,
+        "Robin_Kelley": 0.003003217015273635,
+        "David_Kelley": 0.002324006276147615,
+        "<unk_wid>": 1.4223129784596062e-45
+       }
+      },
+      {
+       "label": "Fort_Leavenworth",
+       "score": 0.49770533777678944,
+       "start": 542,
+       "end": 544,
+       "tokens": "Fort Leavenworth",
+       "labelScoreMap": {
+        "Fort_Leavenworth": 0.49770533777678944,
+        "United_States_Disciplinary_Barracks": 0.003731092294983955,
+        "United_States_Penitentiary,_Leavenworth": 0.00409484749853466,
+        "Leavenworth,_Kansas": 0.4944687224296919,
+        "<unk_wid>": 1.4111121216082581e-44
+       }
+      },
+      {
+       "label": "Luby's",
+       "score": 0.7380073836134557,
+       "start": 454,
+       "end": 456,
+       "tokens": "Luby \u2019s",
+       "labelScoreMap": {
+        "Luby's": 0.7380073836134557,
+        "Luby's_shooting": 0.26199261638654425,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479134559077,
+       "start": 46,
+       "end": 47,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.9571479134559077,
+        "Killean,_County_Armagh": 0.03547589968051299,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.0031612247845462997,
+        "Neil_Killeen": 0.0014049873596720423,
+        "Killeen_Castle,_Dunsany": 0.001404987359688717,
+        "Killeen_Independent_School_District": 0.0014049873596720425,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Hassan,_Karnataka",
+       "score": 0.4674302412306727,
+       "start": 501,
+       "end": 502,
+       "tokens": "Hasan",
+       "labelScoreMap": {
+        "Hasan_ibn_Ali": 0.41645618856449007,
+        "Nidal_Hasan": 0.04088425186923508,
+        "Mount_Hasan": 0.018071900278011952,
+        "Hameed_Hassan": 0.006678939259735065,
+        "Rukn_al-Dawla": 0.03748481806219677,
+        "Hasan_al-Askari": 0.0043219305144181685,
+        "Hasan_ibn_al-Nu'man": 0.004321887878035929,
+        "Saddam_Hussein": 0.004349842343204179,
+        "Hassan,_Karnataka": 0.4674302412306727,
+        "<unk_wid>": 1.6998236811366663e-42
+       }
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 0.45517610941875547,
+       "start": 476,
+       "end": 477,
+       "tokens": "Hasan",
+       "labelScoreMap": {
+        "Hasan_ibn_Ali": 0.4546570429439868,
+        "Nidal_Hasan": 0.45517610941875547,
+        "Mount_Hasan": 0.019385909315938803,
+        "Hameed_Hassan": 0.00716470576706844,
+        "Rukn_al-Dawla": 0.011150906621276971,
+        "Hasan_al-Askari": 0.005539528211719196,
+        "Hasan_ibn_al-Nu'man": 0.004920616726214601,
+        "Saddam_Hussein": 0.021923130326173785,
+        "Hassan,_Karnataka": 0.02008205066886597,
+        "<unk_wid>": 5.927911604813693e-40
+       }
+      },
+      {
+       "label": "Gee_(Girls'_Generation_song)",
+       "score": 0.7025683745842799,
+       "start": 64,
+       "end": 65,
+       "tokens": "Gee",
+       "labelScoreMap": {
+        "Gee_(Girls'_Generation_song)": 0.7025683745842799,
+        "Gee_Vaucher": 0.0807876380624187,
+        "E._Gordon_Gee": 0.058279664398963774,
+        "Horse": 0.04220240172739001,
+        "Gee_(The_Crows_song)": 0.03496775831309827,
+        "Gerard_Way": 0.01889070266546427,
+        "James_Paul_Gee": 0.012861720853165596,
+        "Gee_Records": 0.010450134807147755,
+        "Darron_Gee": 0.008440501586539006,
+        "Girls'_Generation": 0.006430846793029075,
+        "Maurice_Gee": 0.005626996806713742,
+        "Psychic_TV": 0.0056269962620866905,
+        "Geelong_Football_Club": 0.0036173598283419698,
+        "Dillon_Gee": 0.0024115957746797204,
+        "Lode_Runner": 0.002411560357521458,
+        "M16_rifle": 0.002416113625964688,
+        "Ghee": 0.00200963355319524,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479129558133,
+       "start": 568,
+       "end": 569,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.9571479129558133,
+        "Killean,_County_Armagh": 0.035475899662845534,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.0031612253043047335,
+        "Neil_Killeen": 0.00140498735897234,
+        "Killeen_Castle,_Dunsany": 0.0014049873590919308,
+        "Killeen_Independent_School_District": 0.00140498735897234,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.957147913665943,
+       "start": 6,
+       "end": 7,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "Killeen,_Texas": 0.957147913665943,
+        "Killean,_County_Armagh": 0.035475899687933174,
+        "Killeen_\u2013_Temple_\u2013_Fort_Hood_metropolitan_area": 0.003161224566214283,
+        "Neil_Killeen": 0.0014049873599659107,
+        "Killeen_Castle,_Dunsany": 0.0014049873599778764,
+        "Killeen_Independent_School_District": 0.0014049873599659107,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "San_Antonio",
+       "score": 0.8580001259320267,
+       "start": 511,
+       "end": 513,
+       "tokens": "San Antonio",
+       "labelScoreMap": {
+        "San_Antonio": 0.8580001259320267,
+        "San_Antonio_Spurs": 0.037259696622357334,
+        "San_Antonio,_Chile": 0.03362556722886883,
+        "Anthony_of_Padua": 0.010278545554540604,
+        "San_Antonio,_Florida": 0.008700843083069176,
+        "Sant_Antoni_de_Portmany": 0.008084306975300864,
+        "San_Antonio_Stars": 0.006901307771093534,
+        "Anthony_the_Great": 0.005029143230460238,
+        "San_Antonio_District,_Puno": 0.00433166868573854,
+        "San_Antonio,_New_Mexico": 0.0038177451834546226,
+        "Greater_San_Antonio": 0.0035607780620769284,
+        "San_Antonio,_Zambales": 0.0033405297322650594,
+        "Alamodome": 0.0030101464854508805,
+        "Roman_Catholic_Archdiocese_of_San_Antonio": 0.0026063491115572678,
+        "Connecticut_Open_(tennis)": 0.002496222983166967,
+        "University_of_Texas_at_San_Antonio": 0.0018721645446260864,
+        "San_Antonio_del_T\u00e1chira": 0.0017620403873512503,
+        "San_Antonio-class_amphibious_transport_dock": 0.0016519054471015014,
+        "San_Antonio_International_Airport": 0.0013582410383493788,
+        "Fr\u00e9d\u00e9ric_Dard": 0.0012113980470056145,
+        "San_Antonio_Missions": 0.0011012738941389999,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Fort_Sam_Houston",
+       "score": 1.0,
+       "start": 507,
+       "end": 510,
+       "tokens": "Fort Sam Houston",
+       "labelScoreMap": {
+        "Fort_Sam_Houston": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Texas",
+       "score": 0.923671026752076,
+       "start": 499,
+       "end": 500,
+       "tokens": "Texas",
+       "labelScoreMap": {
+        "Texas": 0.923671026752076,
+        "University_of_Texas_at_Austin": 0.018560754803649944,
+        "Texas_(band)": 0.01427656261736083,
+        "Texas_Longhorns_football": 0.01334409166381869,
+        "Texas_Longhorns_men's_basketball": 0.0052229700888569396,
+        "Texas_Motor_Speedway": 0.004643342802559208,
+        "Republic_of_Texas": 0.004328816387610038,
+        "Texas_Air_National_Guard": 0.0023878218501350427,
+        "Texas_(TV_series)": 0.002331125796252074,
+        "Texas_County,_Oklahoma": 0.0020161010732008978,
+        "Miss_Texas_USA": 0.0017010868956132135,
+        "Texas_Rangers_(baseball)": 0.0014301776806671727,
+        "USS_Texas_(BB-35)": 0.0013671739682087375,
+        "Texas_County,_Missouri": 0.001253760580277678,
+        "Miss_Texas_Teen_USA": 0.00122856564294665,
+        "Texas_Democratic_Party": 0.0011655628174551222,
+        "Texas_Lottery": 0.001071058579311688,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 807,
+       "end": 808,
+       "tokens": "KilleenKilleen",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Gee_(Girls'_Generation_song)",
+       "score": 0.7024748384770798,
+       "start": 121,
+       "end": 122,
+       "tokens": "Gee",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 261,
+       "end": 263,
+       "tokens": "Building 42003",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 208,
+       "end": 210,
+       "tokens": "Greater Killeen",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Hasan_ibn_Ali",
+       "score": 0.44568833981145456,
+       "start": 682,
+       "end": 683,
+       "tokens": "Hasan",
+       "labelScoreMap": {
+        "312495|Mount_Hasan": 0.0189287632516373,
+        "1270240|Hassan,_Karnataka": 0.3901026894995434
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 208,
+       "end": 213,
+       "tokens": "Greater Killeen Chamber of Commerce",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 321,
+       "end": 322,
+       "tokens": "Crutchfield",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 663,
+       "end": 665,
+       "tokens": "Troy Kelley",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 41,
+       "end": 43,
+       "tokens": "Barbara Gee",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Luby's_shooting",
+       "score": 1.0,
+       "start": 447,
+       "end": 449,
+       "tokens": "George Hennard",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Gee_(Girls'_Generation_song)",
+       "score": 0.6967313703819227,
+       "start": 105,
+       "end": 106,
+       "tokens": "Gee",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 817,
+       "end": 819,
+       "tokens": "Fort Hood",
+       "labelScoreMap": {
+        "7261291|Fort_Hood": 1.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.957147913614934,
+       "start": 661,
+       "end": 662,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.957147913614934
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 547,
+       "end": 549,
+       "tokens": "Jerry Haisler",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 12,
+       "end": 14,
+       "tokens": "FORT HOOD",
+       "labelScoreMap": {
+        "7261291|Fort_Hood": 1.0
+       }
+      },
+      {
+       "label": "U.S._state",
+       "score": 0.4689830655850434,
+       "start": 472,
+       "end": 473,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.32311872873608755
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479124102618,
+       "start": 395,
+       "end": 396,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.9571479124102618
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 752,
+       "end": 754,
+       "tokens": "Building 42003",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Blood",
+       "score": 0.32301636431695474,
+       "start": 545,
+       "end": 546,
+       "tokens": "Kan",
+       "labelScoreMap": {
+        "6251999|Canada": 0.024607823030493997,
+        "4273857|Kansas": 0.008423244548587285,
+        "7534111|Kansas_Speedway": 0.007164304728673612,
+        "3028808|Cannes": 0.03357070981041088,
+        "294640|Israel": 0.0015575453824511348,
+        "2335202|Mallam_Aminu_Kano_International_Airport": 0.00137590118991824,
+        "1241622|Kandy": 0.0887703497741002,
+        "1267995|Kanpur": 0.13371273991954763
+       }
+      },
+      {
+       "label": "Kelley_Blue_Book",
+       "score": 0.468932984798556,
+       "start": 761,
+       "end": 762,
+       "tokens": "Kelley",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479138179193,
+       "start": 209,
+       "end": 210,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.9571479138179193
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479131329935,
+       "start": 351,
+       "end": 352,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.9571479131329935
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 8,
+       "end": 10,
+       "tokens": "Scott Huddleston",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Gee_(Girls'_Generation_song)",
+       "score": 0.7004596813883945,
+       "start": 171,
+       "end": 172,
+       "tokens": "Gee",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 565,
+       "end": 567,
+       "tokens": "Fort Hood",
+       "labelScoreMap": {
+        "7261291|Fort_Hood": 1.0
+       }
+      },
+      {
+       "label": "United_States_Army",
+       "score": 0.3265431784822363,
+       "start": 400,
+       "end": 401,
+       "tokens": "Army",
+       "labelScoreMap": {
+        "7533655|United_States_Military_Academy": 0.2762539910045948
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479135581531,
+       "start": 552,
+       "end": 553,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.9571479135581531
+       }
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 27,
+       "end": 29,
+       "tokens": "Nidal Hasan",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Belton,_Texas",
+       "score": 0.6468244716252801,
+       "start": 531,
+       "end": 532,
+       "tokens": "Belton",
+       "labelScoreMap": {
+        "4673425|Belton,_Texas": 0.6468244716252801,
+        "4376482|Belton,_Missouri": 0.2742019103223369,
+        "4570579|Belton,_South_Carolina": 0.051771340967221476,
+        "2655933|Belton,_Lincolnshire": 0.011060229798292959,
+        "2655932|Belton,_North_Lincolnshire": 0.008370006257286868,
+        "2655934|Belton,_Leicestershire": 0.0077720410295816994
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 392,
+       "end": 393,
+       "tokens": "Crutchfield",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "U.S._state",
+       "score": 0.46961291169253416,
+       "start": 429,
+       "end": 430,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.32316029186203954
+       }
+      },
+      {
+       "label": "Bell_County,_Texas",
+       "score": 0.8224190032629384,
+       "start": 526,
+       "end": 528,
+       "tokens": "Bell County",
+       "labelScoreMap": {
+        "4673310|Bell_County,_Texas": 0.8224190032629384,
+        "4283814|Bell_County,_Kentucky": 0.17758099673706168
+       }
+      },
+      {
+       "label": "Hasan_ibn_Ali",
+       "score": 0.4536366163419546,
+       "start": 81,
+       "end": 82,
+       "tokens": "Hasan",
+       "labelScoreMap": {
+        "312495|Mount_Hasan": 0.019223701361081844,
+        "1270240|Hassan,_Karnataka": 0.25561004744050864
+       }
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 67,
+       "end": 69,
+       "tokens": "Fort Hood",
+       "labelScoreMap": {
+        "7261291|Fort_Hood": 1.0
+       }
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 245,
+       "end": 247,
+       "tokens": "Fort Hood",
+       "labelScoreMap": {
+        "7261291|Fort_Hood": 1.0
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479133001627,
+       "start": 441,
+       "end": 442,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.9571479133001627
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 583,
+       "end": 584,
+       "tokens": "Haisler",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Fort_Hood",
+       "score": 1.0,
+       "start": 406,
+       "end": 408,
+       "tokens": "Camp Hood",
+       "labelScoreMap": {
+        "7261291|Fort_Hood": 1.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 200,
+       "end": 202,
+       "tokens": "John Crutchfield",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 526,
+       "end": 529,
+       "tokens": "Bell County Jail",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 1.0,
+       "start": 771,
+       "end": 773,
+       "tokens": "Nidal Hasan",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kelley_Blue_Book",
+       "score": 0.5016634808761339,
+       "start": 711,
+       "end": 712,
+       "tokens": "Kelley",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Fort_Leavenworth",
+       "score": 0.49770533777678944,
+       "start": 542,
+       "end": 544,
+       "tokens": "Fort Leavenworth",
+       "labelScoreMap": {
+        "7267478|Fort_Leavenworth": 0.49770533777678944,
+        "7725346|United_States_Disciplinary_Barracks": 0.003731092294983955,
+        "4274305|Leavenworth,_Kansas": 0.4944687224296919
+       }
+      },
+      {
+       "label": "Luby's",
+       "score": 0.7380073836134557,
+       "start": 454,
+       "end": 456,
+       "tokens": "Luby \u2019s",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479134559077,
+       "start": 46,
+       "end": 47,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.9571479134559077
+       }
+      },
+      {
+       "label": "Hassan,_Karnataka",
+       "score": 0.4674302412306727,
+       "start": 501,
+       "end": 502,
+       "tokens": "Hasan",
+       "labelScoreMap": {
+        "312495|Mount_Hasan": 0.018071900278011952,
+        "1270240|Hassan,_Karnataka": 0.4674302412306727
+       }
+      },
+      {
+       "label": "Nidal_Hasan",
+       "score": 0.45517610941875547,
+       "start": 476,
+       "end": 477,
+       "tokens": "Hasan",
+       "labelScoreMap": {
+        "312495|Mount_Hasan": 0.019385909315938803,
+        "1270240|Hassan,_Karnataka": 0.02008205066886597
+       }
+      },
+      {
+       "label": "Gee_(Girls'_Generation_song)",
+       "score": 0.7025683745842799,
+       "start": 64,
+       "end": 65,
+       "tokens": "Gee",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.9571479129558133,
+       "start": 568,
+       "end": 569,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.9571479129558133
+       }
+      },
+      {
+       "label": "Killeen,_Texas",
+       "score": 0.957147913665943,
+       "start": 6,
+       "end": 7,
+       "tokens": "Killeen",
+       "labelScoreMap": {
+        "4703223|Killeen,_Texas": 0.957147913665943
+       }
+      },
+      {
+       "label": "San_Antonio",
+       "score": 0.8580001259320267,
+       "start": 511,
+       "end": 513,
+       "tokens": "San Antonio",
+       "labelScoreMap": {
+        "4726206|San_Antonio": 0.8580001259320267,
+        "8261250|San_Antonio,_Chile": 0.03362556722886883,
+        "4171771|San_Antonio,_Florida": 0.008700843083069176,
+        "6356035|Sant_Antoni_de_Portmany": 0.008084306975300864,
+        "8350713|San_Antonio_District,_Puno": 0.00433166868573854,
+        "5489463|San_Antonio,_New_Mexico": 0.0038177451834546226,
+        "1690321|San_Antonio,_Zambales": 0.0033405297322650594,
+        "4670067|Alamodome": 0.0030101464854508805,
+        "4738632|University_of_Texas_at_San_Antonio": 0.0018721645446260864,
+        "3628549|San_Antonio_del_T\u00e1chira": 0.0017620403873512503,
+        "4726234|San_Antonio_International_Airport": 0.0013582410383493788
+       }
+      },
+      {
+       "label": "Fort_Sam_Houston",
+       "score": 1.0,
+       "start": 507,
+       "end": 510,
+       "tokens": "Fort Sam Houston",
+       "labelScoreMap": {
+        "7267736|Fort_Sam_Houston": 1.0
+       }
+      },
+      {
+       "label": "Texas",
+       "score": 0.923671026752076,
+       "start": 499,
+       "end": 500,
+       "tokens": "Texas",
+       "labelScoreMap": {
+        "4736286|Texas": 0.923671026752076,
+        "4738604|University_of_Texas_at_Austin": 0.018560754803649944,
+        "8099017|Texas_Motor_Speedway": 0.004643342802559208,
+        "5515937|Texas_County,_Oklahoma": 0.0020161010732008978,
+        "4411468|Texas_County,_Missouri": 0.001253760580277678
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 807,
+       "end": 808,
+       "tokens": "KilleenKilleen",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4073 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130520.0177.xml",
+ "text": "THREE FOXCONN EMPLOYEES ARE SAID TO HAVE COMMITTED SUICIDE\nSHANGHAI \u2013 Three Chinese employees at Foxconn, one of the world\u2019s biggest contract electronics manufacturers, died in what were believed to be suicides in recent weeks, which a group that monitors labor conditions in China says is the latest indication that the company continues to be plagued by labor problems.\nFoxconn, a Taiwanese company that does manufacturing and assembly for some of the world\u2019s biggest electronics brands, including Apple and Hewlett-Packard, has more than a million workers in China. In a statement Monday, Foxconn said that none of the deaths appeared to be work-related and that they all occurred outside the factories. The company also said one of the employees had not yet begun work at the company. All three were said to have jumped to their deaths from buildings.\n\u201cWe cannot speculate on individual reasons for these actions, but an internal review shows that there is no indication that they were caused by work-related matters. It is also important to note that experts who have reviewed such tragic incidents in the past have indicated that suicide is a complex issue and that there is no one reason that can ever be cited for any such incident,\u201d the company said.\nThe authorities in central China\u2019s Henan province, where the deaths occurred, said they were investigating the cases, which the state-run news media said occurred at housing complexes that cater to Foxconn workers. The annual suicide rate in China, according to the World Health Organization, is 22.23 people per 100,000.\nChina Labor Watch, a group that monitors Chinese labor practices, said in a news release that, \u201cThe reasons for these building jumpings are unclear.\u201d It suggested it was related to labor practices inside the factory that limit conversation among workers.\nThe company is trying to remake its image after a spate of worker suicides several years ago and longstanding criticism from labor groups about how it manages its factories. The company revamped some of its facilities a few years ago, even erecting nets, after a series of suicides.",
+ "tokens": [
+  "THREE",
+  "FOXCONN",
+  "EMPLOYEES",
+  "ARE",
+  "SAID",
+  "TO",
+  "HAVE",
+  "COMMITTED",
+  "SUICIDE",
+  "SHANGHAI",
+  "\u2013",
+  "Three",
+  "Chinese",
+  "employees",
+  "at",
+  "Foxconn",
+  ",",
+  "one",
+  "of",
+  "the",
+  "world",
+  "\u2019s",
+  "biggest",
+  "contract",
+  "electronics",
+  "manufacturers",
+  ",",
+  "died",
+  "in",
+  "what",
+  "were",
+  "believed",
+  "to",
+  "be",
+  "suicides",
+  "in",
+  "recent",
+  "weeks",
+  ",",
+  "which",
+  "a",
+  "group",
+  "that",
+  "monitors",
+  "labor",
+  "conditions",
+  "in",
+  "China",
+  "says",
+  "is",
+  "the",
+  "latest",
+  "indication",
+  "that",
+  "the",
+  "company",
+  "continues",
+  "to",
+  "be",
+  "plagued",
+  "by",
+  "labor",
+  "problems",
+  ".",
+  "Foxconn",
+  ",",
+  "a",
+  "Taiwanese",
+  "company",
+  "that",
+  "does",
+  "manufacturing",
+  "and",
+  "assembly",
+  "for",
+  "some",
+  "of",
+  "the",
+  "world",
+  "\u2019s",
+  "biggest",
+  "electronics",
+  "brands",
+  ",",
+  "including",
+  "Apple",
+  "and",
+  "Hewlett",
+  "-",
+  "Packard",
+  ",",
+  "has",
+  "more",
+  "than",
+  "a",
+  "million",
+  "workers",
+  "in",
+  "China",
+  ".",
+  "In",
+  "a",
+  "statement",
+  "Monday",
+  ",",
+  "Foxconn",
+  "said",
+  "that",
+  "none",
+  "of",
+  "the",
+  "deaths",
+  "appeared",
+  "to",
+  "be",
+  "work",
+  "-",
+  "related",
+  "and",
+  "that",
+  "they",
+  "all",
+  "occurred",
+  "outside",
+  "the",
+  "factories",
+  ".",
+  "The",
+  "company",
+  "also",
+  "said",
+  "one",
+  "of",
+  "the",
+  "employees",
+  "had",
+  "not",
+  "yet",
+  "begun",
+  "work",
+  "at",
+  "the",
+  "company",
+  ".",
+  "All",
+  "three",
+  "were",
+  "said",
+  "to",
+  "have",
+  "jumped",
+  "to",
+  "their",
+  "deaths",
+  "from",
+  "buildings",
+  ".",
+  "\u201c",
+  "We",
+  "cannot",
+  "speculate",
+  "on",
+  "individual",
+  "reasons",
+  "for",
+  "these",
+  "actions",
+  ",",
+  "but",
+  "an",
+  "internal",
+  "review",
+  "shows",
+  "that",
+  "there",
+  "is",
+  "no",
+  "indication",
+  "that",
+  "they",
+  "were",
+  "caused",
+  "by",
+  "work",
+  "-",
+  "related",
+  "matters",
+  ".",
+  "It",
+  "is",
+  "also",
+  "important",
+  "to",
+  "note",
+  "that",
+  "experts",
+  "who",
+  "have",
+  "reviewed",
+  "such",
+  "tragic",
+  "incidents",
+  "in",
+  "the",
+  "past",
+  "have",
+  "indicated",
+  "that",
+  "suicide",
+  "is",
+  "a",
+  "complex",
+  "issue",
+  "and",
+  "that",
+  "there",
+  "is",
+  "no",
+  "one",
+  "reason",
+  "that",
+  "can",
+  "ever",
+  "be",
+  "cited",
+  "for",
+  "any",
+  "such",
+  "incident",
+  ",",
+  "\u201d",
+  "the",
+  "company",
+  "said",
+  ".",
+  "The",
+  "authorities",
+  "in",
+  "central",
+  "China",
+  "\u2019s",
+  "Henan",
+  "province",
+  ",",
+  "where",
+  "the",
+  "deaths",
+  "occurred",
+  ",",
+  "said",
+  "they",
+  "were",
+  "investigating",
+  "the",
+  "cases",
+  ",",
+  "which",
+  "the",
+  "state",
+  "-",
+  "run",
+  "news",
+  "media",
+  "said",
+  "occurred",
+  "at",
+  "housing",
+  "complexes",
+  "that",
+  "cater",
+  "to",
+  "Foxconn",
+  "workers",
+  ".",
+  "The",
+  "annual",
+  "suicide",
+  "rate",
+  "in",
+  "China",
+  ",",
+  "according",
+  "to",
+  "the",
+  "World",
+  "Health",
+  "Organization",
+  ",",
+  "is",
+  "22.23",
+  "people",
+  "per",
+  "100,000",
+  ".",
+  "China",
+  "Labor",
+  "Watch",
+  ",",
+  "a",
+  "group",
+  "that",
+  "monitors",
+  "Chinese",
+  "labor",
+  "practices",
+  ",",
+  "said",
+  "in",
+  "a",
+  "news",
+  "release",
+  "that",
+  ",",
+  "\u201c",
+  "The",
+  "reasons",
+  "for",
+  "these",
+  "building",
+  "jumpings",
+  "are",
+  "unclear",
+  ".",
+  "\u201d",
+  "It",
+  "suggested",
+  "it",
+  "was",
+  "related",
+  "to",
+  "labor",
+  "practices",
+  "inside",
+  "the",
+  "factory",
+  "that",
+  "limit",
+  "conversation",
+  "among",
+  "workers",
+  ".",
+  "The",
+  "company",
+  "is",
+  "trying",
+  "to",
+  "remake",
+  "its",
+  "image",
+  "after",
+  "a",
+  "spate",
+  "of",
+  "worker",
+  "suicides",
+  "several",
+  "years",
+  "ago",
+  "and",
+  "longstanding",
+  "criticism",
+  "from",
+  "labor",
+  "groups",
+  "about",
+  "how",
+  "it",
+  "manages",
+  "its",
+  "factories",
+  ".",
+  "The",
+  "company",
+  "revamped",
+  "some",
+  "of",
+  "its",
+  "facilities",
+  "a",
+  "few",
+  "years",
+  "ago",
+  ",",
+  "even",
+  "erecting",
+  "nets",
+  ",",
+  "after",
+  "a",
+  "series",
+  "of",
+  "suicides",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   64,
+   100,
+   127,
+   144,
+   157,
+   188,
+   235,
+   274,
+   294,
+   341,
+   371,
+   393
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "China"
+      },
+      {
+       "label": "Shanghai",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "SHANGHAI"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "FOXCONN"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "China"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "China"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "China_Labor_Watch",
+       "score": 1.0,
+       "start": 294,
+       "end": 297,
+       "tokens": "China Labor Watch"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "China"
+      },
+      {
+       "label": "Taiwan",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Taiwanese"
+      },
+      {
+       "label": "Hewlett-Packard",
+       "score": 1.0,
+       "start": 87,
+       "end": 90,
+       "tokens": "Hewlett - Packard"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "China"
+      },
+      {
+       "label": "Henan",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "Henan"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 284,
+       "end": 287,
+       "tokens": "World Health Organization"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "SHANGHAI"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "FOXCONN"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 294,
+       "end": 297,
+       "tokens": "China Labor Watch"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Taiwanese"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 87,
+       "end": 90,
+       "tokens": "Hewlett - Packard"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "Henan"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 284,
+       "end": 287,
+       "tokens": "World Health Organization"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "THREE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "THREE"
+      },
+      {
+       "label": "FOXCONN",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "FOXCONN"
+      },
+      {
+       "label": "EMPLOYEES",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "EMPLOYEES"
+      },
+      {
+       "label": "ARE",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "ARE"
+      },
+      {
+       "label": "SAID",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "SAID"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "TO"
+      },
+      {
+       "label": "HAVE",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "HAVE"
+      },
+      {
+       "label": "COMMITTED",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "COMMITTED"
+      },
+      {
+       "label": "SUICIDE",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "SUICIDE"
+      },
+      {
+       "label": "SHANGHAI",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "SHANGHAI"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "Three",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Three"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "employees"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "at"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": ","
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "the"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "world"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "biggest",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "biggest"
+      },
+      {
+       "label": "contract",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "contract"
+      },
+      {
+       "label": "electronics",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "electronics"
+      },
+      {
+       "label": "manufacturers",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "manufacturers"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": ","
+      },
+      {
+       "label": "died",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "died"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "in"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "what"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "were"
+      },
+      {
+       "label": "believed",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "believed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "be"
+      },
+      {
+       "label": "suicides",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "suicides"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "in"
+      },
+      {
+       "label": "recent",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "recent"
+      },
+      {
+       "label": "weeks",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "weeks"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "which"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "a"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "group"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "that"
+      },
+      {
+       "label": "monitors",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "monitors"
+      },
+      {
+       "label": "labor",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "labor"
+      },
+      {
+       "label": "conditions",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "conditions"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "in"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "China"
+      },
+      {
+       "label": "says",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "says"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "the"
+      },
+      {
+       "label": "latest",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "latest"
+      },
+      {
+       "label": "indication",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "indication"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "company"
+      },
+      {
+       "label": "continues",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "continues"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "be"
+      },
+      {
+       "label": "plagued",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "plagued"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "by"
+      },
+      {
+       "label": "labor",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "labor"
+      },
+      {
+       "label": "problems",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "problems"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "."
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "a"
+      },
+      {
+       "label": "Taiwanese",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Taiwanese"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "company"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "that"
+      },
+      {
+       "label": "does",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "does"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "and"
+      },
+      {
+       "label": "assembly",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "assembly"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "for"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "the"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "world"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "biggest",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "biggest"
+      },
+      {
+       "label": "electronics",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "electronics"
+      },
+      {
+       "label": "brands",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "brands"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "including"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Apple"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "and"
+      },
+      {
+       "label": "Hewlett",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Hewlett"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "-"
+      },
+      {
+       "label": "Packard",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "Packard"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": ","
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "has"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "than"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "a"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "million"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "workers"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "in"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "China"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "In"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "a"
+      },
+      {
+       "label": "statement",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "statement"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Monday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": ","
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "that"
+      },
+      {
+       "label": "none",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "none"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "the"
+      },
+      {
+       "label": "deaths",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "deaths"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "appeared"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "be"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "work"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "-"
+      },
+      {
+       "label": "related",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "related"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "and"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "that"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "they"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "all"
+      },
+      {
+       "label": "occurred",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "occurred"
+      },
+      {
+       "label": "outside",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "outside"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "the"
+      },
+      {
+       "label": "factories",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "factories"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "company"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "also"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "said"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "the"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "employees"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "had"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "not"
+      },
+      {
+       "label": "yet",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "yet"
+      },
+      {
+       "label": "begun",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "begun"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "work"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "company"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "."
+      },
+      {
+       "label": "All",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "All"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "three"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "were"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "said"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "have"
+      },
+      {
+       "label": "jumped",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "jumped"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "to"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "their"
+      },
+      {
+       "label": "deaths",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "deaths"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "from"
+      },
+      {
+       "label": "buildings",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "buildings"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "We"
+      },
+      {
+       "label": "cannot",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "cannot"
+      },
+      {
+       "label": "speculate",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "speculate"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "on"
+      },
+      {
+       "label": "individual",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "individual"
+      },
+      {
+       "label": "reasons",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "reasons"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "for"
+      },
+      {
+       "label": "these",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "these"
+      },
+      {
+       "label": "actions",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "actions"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "but"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "an"
+      },
+      {
+       "label": "internal",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "internal"
+      },
+      {
+       "label": "review",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "review"
+      },
+      {
+       "label": "shows",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "shows"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "that"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "there"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "is"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "no"
+      },
+      {
+       "label": "indication",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "indication"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "that"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "they"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "were"
+      },
+      {
+       "label": "caused",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "caused"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "by"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "work"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "-"
+      },
+      {
+       "label": "related",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "related"
+      },
+      {
+       "label": "matters",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "matters"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "is"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "also"
+      },
+      {
+       "label": "important",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "important"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "to"
+      },
+      {
+       "label": "note",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "note"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "that"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "experts"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "who"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "have"
+      },
+      {
+       "label": "reviewed",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "reviewed"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "such"
+      },
+      {
+       "label": "tragic",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "tragic"
+      },
+      {
+       "label": "incidents",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "incidents"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "the"
+      },
+      {
+       "label": "past",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "past"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "have"
+      },
+      {
+       "label": "indicated",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "indicated"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "that"
+      },
+      {
+       "label": "suicide",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "suicide"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "a"
+      },
+      {
+       "label": "complex",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "complex"
+      },
+      {
+       "label": "issue",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "issue"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "and"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "that"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "there"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "is"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "no"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "one"
+      },
+      {
+       "label": "reason",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "reason"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "that"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "can"
+      },
+      {
+       "label": "ever",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "ever"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "be"
+      },
+      {
+       "label": "cited",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "cited"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "for"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "any"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "such"
+      },
+      {
+       "label": "incident",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "incident"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "company"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "The"
+      },
+      {
+       "label": "authorities",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "authorities"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "in"
+      },
+      {
+       "label": "central",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "central"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "China"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "Henan",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "Henan"
+      },
+      {
+       "label": "province",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "province"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": ","
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "where"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "the"
+      },
+      {
+       "label": "deaths",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "deaths"
+      },
+      {
+       "label": "occurred",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "occurred"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "said"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "they"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "were"
+      },
+      {
+       "label": "investigating",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "investigating"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "the"
+      },
+      {
+       "label": "cases",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "cases"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "which"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "the"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "state"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "-"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "run"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "news"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "media"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "said"
+      },
+      {
+       "label": "occurred",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "occurred"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "at"
+      },
+      {
+       "label": "housing",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "housing"
+      },
+      {
+       "label": "complexes",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "complexes"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "that"
+      },
+      {
+       "label": "cater",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "cater"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "to"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "workers"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "The"
+      },
+      {
+       "label": "annual",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "annual"
+      },
+      {
+       "label": "suicide",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "suicide"
+      },
+      {
+       "label": "rate",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "rate"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "in"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "China"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "the"
+      },
+      {
+       "label": "World",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "World"
+      },
+      {
+       "label": "Health",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "Health"
+      },
+      {
+       "label": "Organization",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "Organization"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "is"
+      },
+      {
+       "label": "22.23",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "22.23"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "people"
+      },
+      {
+       "label": "per",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "per"
+      },
+      {
+       "label": "100,000",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "100,000"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "."
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "China"
+      },
+      {
+       "label": "Labor",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "Labor"
+      },
+      {
+       "label": "Watch",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Watch"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "a"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "group"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "that"
+      },
+      {
+       "label": "monitors",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "monitors"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "labor",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "labor"
+      },
+      {
+       "label": "practices",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "practices"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "said"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "a"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "news"
+      },
+      {
+       "label": "release",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "release"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "that"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": ","
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "The"
+      },
+      {
+       "label": "reasons",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "reasons"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "for"
+      },
+      {
+       "label": "these",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "these"
+      },
+      {
+       "label": "building",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "building"
+      },
+      {
+       "label": "jumpings",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "jumpings"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "are"
+      },
+      {
+       "label": "unclear",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "unclear"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "It"
+      },
+      {
+       "label": "suggested",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "suggested"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "was"
+      },
+      {
+       "label": "related",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "related"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "to"
+      },
+      {
+       "label": "labor",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "labor"
+      },
+      {
+       "label": "practices",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "practices"
+      },
+      {
+       "label": "inside",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "inside"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "the"
+      },
+      {
+       "label": "factory",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "factory"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "that"
+      },
+      {
+       "label": "limit",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "limit"
+      },
+      {
+       "label": "conversation",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "conversation"
+      },
+      {
+       "label": "among",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "among"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "workers"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "company"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "is"
+      },
+      {
+       "label": "trying",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "trying"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "to"
+      },
+      {
+       "label": "remake",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "remake"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "its"
+      },
+      {
+       "label": "image",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "image"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "after"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "a"
+      },
+      {
+       "label": "spate",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "spate"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "of"
+      },
+      {
+       "label": "worker",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "worker"
+      },
+      {
+       "label": "suicides",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "suicides"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "several"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "years"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "ago"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "and"
+      },
+      {
+       "label": "longstanding",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "longstanding"
+      },
+      {
+       "label": "criticism",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "criticism"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "from"
+      },
+      {
+       "label": "labor",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "labor"
+      },
+      {
+       "label": "groups",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "groups"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "about"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "how"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "it"
+      },
+      {
+       "label": "manages",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "manages"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "its"
+      },
+      {
+       "label": "factories",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "factories"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "company"
+      },
+      {
+       "label": "revamped",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "revamped"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "of"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "its"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "facilities"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "a"
+      },
+      {
+       "label": "few",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "few"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "years"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "ago"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": ","
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "even"
+      },
+      {
+       "label": "erecting",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "erecting"
+      },
+      {
+       "label": "nets",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "nets"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": ","
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "after"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "a"
+      },
+      {
+       "label": "series",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "series"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "of"
+      },
+      {
+       "label": "suicides",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "suicides"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Foxconn",
+       "score": 0.9978831238119655,
+       "start": 271,
+       "end": 272,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9978831238119655,
+        "Apple_Inc.": 0.0021168761880345117,
+        "<unk_wid>": 2.4000381225354947e-35
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.3124007517679789,
+       "start": 12,
+       "end": 13,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.2637271375308241,
+        "China": 0.3124007517679789,
+        "Han_Chinese": 0.05788586859042844,
+        "Chinese_Americans": 0.038654424393151234,
+        "Overseas_Chinese": 0.020461752111726298,
+        "Malaysian_Chinese": 0.04621047074990201,
+        "Standard_Chinese": 0.010537413028813745,
+        "Chinese_Canadians": 0.024761660480987657,
+        "Chinese_Buddhist_canon": 0.005317996358854882,
+        "Chinese_Singaporeans": 0.02092373215326391,
+        "British_Chinese": 0.006583446067983687,
+        "Chinese_mythology": 0.0037207163410620217,
+        "Traditional_Chinese_characters": 0.010440639628476085,
+        "Mandarin_Chinese": 0.01464236168737417,
+        "Thai_Chinese": 0.004929001438263717,
+        "Emperor_of_China": 0.004052560230247534,
+        "Chinese_Indonesians": 0.0640169408097894,
+        "Chinese_Filipino": 0.0038206779168176736,
+        "Taiwan": 0.063862385822328,
+        "Chinese_folk_religion": 0.001761702369978507,
+        "Chinese_people_in_Myanmar": 0.0033985537958279004,
+        "Chinese_New_Year": 0.0031326674600146228,
+        "Chinese_Wikipedia": 0.001251157704446384,
+        "Traditional_Chinese_medicine": 0.0016579095946267235,
+        "Chinese_Australians": 0.010047062662022441,
+        "Chinese_Brazilians": 0.0009504488728813386,
+        "Chinese_people_in_Japan": 0.0008505604319289274,
+        "<unk_wid>": 9.708718040867599e-19
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9352821768136802,
+       "start": 47,
+       "end": 48,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9352821768136802,
+        "Taiwan": 0.016179681288672653,
+        "China_national_football_team": 0.011438201806578568,
+        "Emperor_of_China": 0.01033354361167193,
+        "Second_Sino-Japanese_War": 0.00581634303729881,
+        "China_men's_national_basketball_team": 0.0037325955693866143,
+        "People's_Liberation_Army": 0.002003245624680272,
+        "China_Mi\u00e9ville": 0.0017279827118900043,
+        "China_national_rugby_union_team": 0.0017126975956109737,
+        "China_women's_national_football_team": 0.0016233251676570173,
+        "Chinese_mythology": 0.0015597796783729738,
+        "A1_Team_China": 0.0015521295523185249,
+        "China_national_badminton_team": 0.0015582286227043807,
+        "China_national_cricket_team": 0.0014106807818005985,
+        "Mainland_China": 0.0014200515816149505,
+        "Traditional_Chinese_medicine": 0.001357166157326179,
+        "China,_Maine": 0.0012921703987352664,
+        "<unk_wid>": 4.1820609527458435e-43
+       }
+      },
+      {
+       "label": "Shanghai",
+       "score": 0.8076066850623281,
+       "start": 9,
+       "end": 10,
+       "tokens": "SHANGHAI",
+       "labelScoreMap": {
+        "Shanghai": 0.8076066850623281,
+        "Shanghai_International_Circuit": 0.01294763288719371,
+        "Shanghai_Stock_Exchange": 0.1379032167097085,
+        "Port_of_Shanghai": 0.005899420792488884,
+        "Shanghai_Masters_(tennis)": 0.002355067448659642,
+        "Battle_of_Shanghai": 0.0021713647157842056,
+        "Shanghai_Pudong_International_Airport": 0.002215547133687815,
+        "January_28_Incident": 0.0020088373271689337,
+        "Shanghai_Ghetto": 0.0018862973731142618,
+        "Shanghai_Railway_Station": 0.001683261124077118,
+        "Shanghai_cricket_team": 0.001552833539157386,
+        "Shanghai_International_Film_Festival": 0.0021579898178537586,
+        "Shanghai_Metro": 0.014985153320252128,
+        "Shanghainese": 0.002704151237214076,
+        "Shanghai_Campaign": 0.0009759660765046853,
+        "2010_Shanghai_Rolex_Masters": 0.0009465754348066683,
+        "<unk_wid>": 4.570036919472861e-19
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9971063872105178,
+       "start": 15,
+       "end": 16,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9971063872105178,
+        "Apple_Inc.": 0.0028936127894821284,
+        "<unk_wid>": 1.1134526786998364e-32
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.33286606819385783,
+       "start": 302,
+       "end": 303,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.28416624609863284,
+        "China": 0.33286606819385783,
+        "Han_Chinese": 0.05908969543166807,
+        "Chinese_Americans": 0.030731323068765647,
+        "Overseas_Chinese": 0.013165164868936218,
+        "Malaysian_Chinese": 0.03536400581266284,
+        "Standard_Chinese": 0.010900110799342461,
+        "Chinese_Canadians": 0.009961206310455377,
+        "Chinese_Buddhist_canon": 0.005418645977807645,
+        "Chinese_Singaporeans": 0.007358378154811083,
+        "British_Chinese": 0.005983902722083942,
+        "Chinese_mythology": 0.003626183531607641,
+        "Traditional_Chinese_characters": 0.013816250145725377,
+        "Mandarin_Chinese": 0.011806644374881048,
+        "Thai_Chinese": 0.0036274200958057745,
+        "Emperor_of_China": 0.003439126721769133,
+        "Chinese_Indonesians": 0.0346402338035721,
+        "Chinese_Filipino": 0.0027988863247334103,
+        "Taiwan": 0.1173995812881542,
+        "Chinese_folk_religion": 0.0017039197605581158,
+        "Chinese_people_in_Myanmar": 0.0019361341097339183,
+        "Chinese_New_Year": 0.0020383751417295307,
+        "Chinese_Wikipedia": 0.0012739606156880112,
+        "Traditional_Chinese_medicine": 0.0014802912974916688,
+        "Chinese_Australians": 0.003575097205133974,
+        "Chinese_Brazilians": 0.0009684370242628386,
+        "Chinese_people_in_Japan": 0.0008647111201293115,
+        "<unk_wid>": 1.7135226771036383e-26
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9959886593266111,
+       "start": 1,
+       "end": 2,
+       "tokens": "FOXCONN",
+       "labelScoreMap": {
+        "Foxconn": 0.9959886593266111,
+        "Apple_Inc.": 0.004011340673388906,
+        "<unk_wid>": 7.39478697667684e-29
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9369215805267146,
+       "start": 98,
+       "end": 99,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9369215805267146,
+        "Taiwan": 0.014622839708287984,
+        "China_national_football_team": 0.011458805586107007,
+        "Emperor_of_China": 0.010350392606160408,
+        "Second_Sino-Japanese_War": 0.005692561118876536,
+        "China_men's_national_basketball_team": 0.003740997386768067,
+        "People's_Liberation_Army": 0.002006511719206339,
+        "China_Mi\u00e9ville": 0.0017272132857560304,
+        "China_national_rugby_union_team": 0.0017154901895726914,
+        "China_women's_national_football_team": 0.001627372579063174,
+        "Chinese_mythology": 0.0015623229358485544,
+        "A1_Team_China": 0.001554660336286035,
+        "China_national_badminton_team": 0.0015652514222448785,
+        "China_national_cricket_team": 0.001412980929557816,
+        "Mainland_China": 0.0013873633988326073,
+        "Traditional_Chinese_medicine": 0.001359379048337605,
+        "China,_Maine": 0.0012942772223794494,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9143836754767993,
+       "start": 294,
+       "end": 295,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9143836754767993,
+        "Taiwan": 0.03624728059201215,
+        "China_national_football_team": 0.011544919849273971,
+        "Emperor_of_China": 0.010118768762042004,
+        "Second_Sino-Japanese_War": 0.005275621616610759,
+        "China_men's_national_basketball_team": 0.0036537016350556813,
+        "People's_Liberation_Army": 0.0020549928511603326,
+        "China_Mi\u00e9ville": 0.0016898488450056933,
+        "China_national_rugby_union_team": 0.001677098394295851,
+        "China_women's_national_football_team": 0.0015965921759792446,
+        "Chinese_mythology": 0.001527359073232912,
+        "A1_Team_China": 0.001519867870419848,
+        "China_national_badminton_team": 0.001521284264333992,
+        "China_national_cricket_team": 0.0013814075008298909,
+        "Mainland_China": 0.003213298913224831,
+        "Traditional_Chinese_medicine": 0.0013289686606392619,
+        "China,_Maine": 0.001265313519084317,
+        "<unk_wid>": 7.30245284693058e-30
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7934921506189905,
+       "start": 85,
+       "end": 86,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7934921506189905,
+        "Apple": 0.10718375122750536,
+        "Apple_Records": 0.04148232177975894,
+        "Apple_II_series": 0.02356005412146755,
+        "Apple_Corps": 0.005507509216516472,
+        "IPhone": 0.0034747378967067972,
+        "Apple_II_Plus": 0.003293707632391291,
+        "Macintosh": 0.003423734807217416,
+        "Apple_(album)": 0.0031418313292354613,
+        "IPad": 0.0022021337949222376,
+        "Apple_Store": 0.0022347860382227647,
+        "Cashew": 0.0020122966787107835,
+        "Mac_Mini": 0.0017085532954208241,
+        "Apple_III": 0.0011959893030121429,
+        "Apple_I": 0.001063196844451682,
+        "Malus": 0.0010536052766758864,
+        "ITunes": 0.0010347336953880416,
+        "Apple_TV": 0.0010092527891885342,
+        "Apple_Lisa": 0.001925653654217397,
+        "<unk_wid>": 3.7823631821374823e-44
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9982510994439586,
+       "start": 105,
+       "end": 106,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9982510994439586,
+        "Apple_Inc.": 0.0017489005560413868,
+        "<unk_wid>": 5.1164149264169365e-39
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 294,
+       "end": 297,
+       "tokens": "China Labor Watch",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9374321742167525,
+       "start": 239,
+       "end": 240,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9374321742167525,
+        "Taiwan": 0.014153108592829897,
+        "China_national_football_team": 0.011472682962586253,
+        "Emperor_of_China": 0.010355640123570792,
+        "Second_Sino-Japanese_War": 0.005553919410952333,
+        "China_men's_national_basketball_team": 0.003740344735659789,
+        "People's_Liberation_Army": 0.0020075289841403445,
+        "China_Mi\u00e9ville": 0.0017278571198776189,
+        "China_national_rugby_union_team": 0.0017163599247769382,
+        "China_women's_national_football_team": 0.0016265443518700055,
+        "Chinese_mythology": 0.0015631150168776105,
+        "A1_Team_China": 0.001555448532471582,
+        "China_national_badminton_team": 0.0015728670762605733,
+        "China_national_cricket_team": 0.0014136972956923317,
+        "Mainland_China": 0.0014537099954157352,
+        "Traditional_Chinese_medicine": 0.0013600682389344697,
+        "China,_Maine": 0.0012949334213313566,
+        "<unk_wid>": 5.2551778254001186e-45
+       }
+      },
+      {
+       "label": "Taiwan",
+       "score": 0.4958402903406837,
+       "start": 67,
+       "end": 68,
+       "tokens": "Taiwanese",
+       "labelScoreMap": {
+        "Taiwan": 0.4958402903406837,
+        "Taiwanese_people": 0.33046968953202793,
+        "Taiwanese_Hokkien": 0.15108955473057079,
+        "Taiwanese_Americans": 0.009764791928346787,
+        "Meteor_Garden": 0.003635327955413963,
+        "Han_Chinese": 0.00920034551295697,
+        "<unk_wid>": 7.965046760481515e-33
+       }
+      },
+      {
+       "label": "Hewlett-Packard",
+       "score": 0.9968922837291657,
+       "start": 87,
+       "end": 90,
+       "tokens": "Hewlett - Packard",
+       "labelScoreMap": {
+        "Hewlett-Packard": 0.9968922837291657,
+        "HP_9800_series": 0.0031077162708342257,
+        "<unk_wid>": 1.778309226434481e-41
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9367115224912497,
+       "start": 279,
+       "end": 280,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9367115224912497,
+        "Taiwan": 0.014781708242418102,
+        "China_national_football_team": 0.01148337108891183,
+        "Emperor_of_China": 0.010348234175546893,
+        "Second_Sino-Japanese_War": 0.005673691914470815,
+        "China_men's_national_basketball_team": 0.0037482119677312,
+        "People's_Liberation_Army": 0.002006093515190357,
+        "China_Mi\u00e9ville": 0.001726680740340821,
+        "China_national_rugby_union_team": 0.001715132335145289,
+        "China_women's_national_football_team": 0.0016420362768800871,
+        "Chinese_mythology": 0.001561997032679483,
+        "A1_Team_China": 0.001554336031295457,
+        "China_national_badminton_team": 0.0015933824284964663,
+        "China_national_cricket_team": 0.0014126861818417574,
+        "Mainland_China": 0.0013878128586381066,
+        "Traditional_Chinese_medicine": 0.0013590954799033378,
+        "China,_Maine": 0.0012940072392601028,
+        "<unk_wid>": 1.1815692297651798e-44
+       }
+      },
+      {
+       "label": "Henan",
+       "score": 0.9986486484768299,
+       "start": 241,
+       "end": 242,
+       "tokens": "Henan",
+       "labelScoreMap": {
+        "Henan": 0.9986486484768299,
+        "H\u00e0_Nam_Province": 0.001351351523170174,
+        "<unk_wid>": 1.3994047600173204e-45
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9980770204707993,
+       "start": 64,
+       "end": 65,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9980770204707993,
+        "Apple_Inc.": 0.0019229795292007893,
+        "<unk_wid>": 4.823612669294783e-38
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 284,
+       "end": 287,
+       "tokens": "World Health Organization",
+       "labelScoreMap": {
+        "World_Health_Organization": 1.0,
+        "<unk_wid>": 7.000968403077717e-38
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Foxconn",
+       "score": 0.9978831238119655,
+       "start": 271,
+       "end": 272,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.3124007517679789,
+       "start": 12,
+       "end": 13,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.3124007517679789,
+        "1668284|Taiwan": 0.063862385822328
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9352821768136802,
+       "start": 47,
+       "end": 48,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9352821768136802,
+        "1668284|Taiwan": 0.016179681288672653,
+        "4960817|China,_Maine": 0.0012921703987352664
+       }
+      },
+      {
+       "label": "Shanghai",
+       "score": 0.8076066850623281,
+       "start": 9,
+       "end": 10,
+       "tokens": "SHANGHAI",
+       "labelScoreMap": {
+        "1796236|Shanghai": 0.8076066850623281,
+        "8394006|Shanghai_International_Circuit": 0.01294763288719371,
+        "6301386|Shanghai_Pudong_International_Airport": 0.002215547133687815
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9971063872105178,
+       "start": 15,
+       "end": 16,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.33286606819385783,
+       "start": 302,
+       "end": 303,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.33286606819385783,
+        "1668284|Taiwan": 0.1173995812881542
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9959886593266111,
+       "start": 1,
+       "end": 2,
+       "tokens": "FOXCONN",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9369215805267146,
+       "start": 98,
+       "end": 99,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9369215805267146,
+        "1668284|Taiwan": 0.014622839708287984,
+        "4960817|China,_Maine": 0.0012942772223794494
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9143836754767993,
+       "start": 294,
+       "end": 295,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9143836754767993,
+        "1668284|Taiwan": 0.03624728059201215,
+        "4960817|China,_Maine": 0.001265313519084317
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7934921506189905,
+       "start": 85,
+       "end": 86,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9982510994439586,
+       "start": 105,
+       "end": 106,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 294,
+       "end": 297,
+       "tokens": "China Labor Watch",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9374321742167525,
+       "start": 239,
+       "end": 240,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9374321742167525,
+        "1668284|Taiwan": 0.014153108592829897,
+        "4960817|China,_Maine": 0.0012949334213313566
+       }
+      },
+      {
+       "label": "Taiwan",
+       "score": 0.4958402903406837,
+       "start": 67,
+       "end": 68,
+       "tokens": "Taiwanese",
+       "labelScoreMap": {
+        "1668284|Taiwan": 0.4958402903406837
+       }
+      },
+      {
+       "label": "Hewlett-Packard",
+       "score": 0.9968922837291657,
+       "start": 87,
+       "end": 90,
+       "tokens": "Hewlett - Packard",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9367115224912497,
+       "start": 279,
+       "end": 280,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9367115224912497,
+        "1668284|Taiwan": 0.014781708242418102,
+        "4960817|China,_Maine": 0.0012940072392601028
+       }
+      },
+      {
+       "label": "Henan",
+       "score": 0.9986486484768299,
+       "start": 241,
+       "end": 242,
+       "tokens": "Henan",
+       "labelScoreMap": {
+        "1808520|Henan": 0.9986486484768299
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9980770204707993,
+       "start": 64,
+       "end": 65,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 284,
+       "end": 287,
+       "tokens": "World Health Organization",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

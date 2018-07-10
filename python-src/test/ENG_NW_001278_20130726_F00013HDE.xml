@@ -1,0 +1,5251 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130726_F00013HDE.xml",
+ "text": "2013-07-26T03:04:56\nTough task awaits investigators in wake of Spanish train disaster\nTough task awaits investigators in wake of Spanish train disaster\nMADRID, July 25 (Xinhua) -- Once established that the primary cause of the Santiago de Compostela train disaster which has claimed 80 lives and left around 100 injured in north-west Spain was an excess of velocity, focus is turning as how such a train could go into a corner with a speed limit of 80 km/h at a speed of around 190 km/h.\nA video of the accident shown on Spanish TV and posted on virtually every news website in the country shows in graphic detail how the carriages are hurled off the tracks as a result of the excessive speed, with the second wagon appearing to jump the tracks while those behind it are twisted into tortured shapes by the stress placed upon them.\nThe driver of the engine is the first suspect: he reportedly admitted almost directly after the accident of traveling at 190km/h. A veteran of over 30 years' service, his Facebook page has shown that he had previously made jokes about breaking the speed limit, and although that cannot be taken as proof that he habitually acted in such a way, it is worrying.\nThe driver gave negative in a test for alcohol and is currently under police supervision in his hospital bed after being imputed to give evidence to the judge behind one of the two investigations into the tragedy. The judge is in possession of the black box which contains recordings of all of the cabin information and will be able to interrogate him on the basis of the contents of that fateful device.\nBut even if the driver was speeding, the question as to why no automatic system kicked in to automatically slow the train down.\nThe engine in question, an Alvia s-730, was a new model with a top speed of 250 km/h and was operating on track which had recently been laid in order to accommodate the 300km/h AVE high speed train.\nHowever, the area where the accident happened is transition zone between the high-speed line and a conventional line. The high-speed line is protected with the ERMTS system, which is a European safety system designed for trains able to travel at speeds of 300km/h, to the ASFA -200 system, more generally used on lines with a top speed of 200 km/h.\nBoth systems are assured to be equally safe and are intended to transmit an action protocol to the cabin in function of the data collected by sensors and antenna installed along the track. Should the driver ignore the signals they are programmed to automatically brake the train and slow it down, something that failed to happen in Wednesday's disaster.\nInvestigators now have the task of determining why on a piece of track which has being described as being in \"perfect conditions,\" something apparently went badly wrong, for while it may well be that the driver was pushing the train beyond the limit in order to make up a slight delay on arrival time the fact is that the automatic system should still have prevented the tragedy.\nThe riddle is waiting to be tackled. Enditem",
+ "tokens": [
+  "2013-07-26T03:04:56",
+  "Tough",
+  "task",
+  "awaits",
+  "investigators",
+  "in",
+  "wake",
+  "of",
+  "Spanish",
+  "train",
+  "disaster",
+  "Tough",
+  "task",
+  "awaits",
+  "investigators",
+  "in",
+  "wake",
+  "of",
+  "Spanish",
+  "train",
+  "disaster",
+  "MADRID",
+  ",",
+  "July",
+  "25",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "Once",
+  "established",
+  "that",
+  "the",
+  "primary",
+  "cause",
+  "of",
+  "the",
+  "Santiago",
+  "de",
+  "Compostela",
+  "train",
+  "disaster",
+  "which",
+  "has",
+  "claimed",
+  "80",
+  "lives",
+  "and",
+  "left",
+  "around",
+  "100",
+  "injured",
+  "in",
+  "north",
+  "-",
+  "west",
+  "Spain",
+  "was",
+  "an",
+  "excess",
+  "of",
+  "velocity",
+  ",",
+  "focus",
+  "is",
+  "turning",
+  "as",
+  "how",
+  "such",
+  "a",
+  "train",
+  "could",
+  "go",
+  "into",
+  "a",
+  "corner",
+  "with",
+  "a",
+  "speed",
+  "limit",
+  "of",
+  "80",
+  "km",
+  "/",
+  "h",
+  "at",
+  "a",
+  "speed",
+  "of",
+  "around",
+  "190",
+  "km",
+  "/",
+  "h",
+  ".",
+  "A",
+  "video",
+  "of",
+  "the",
+  "accident",
+  "shown",
+  "on",
+  "Spanish",
+  "TV",
+  "and",
+  "posted",
+  "on",
+  "virtually",
+  "every",
+  "news",
+  "website",
+  "in",
+  "the",
+  "country",
+  "shows",
+  "in",
+  "graphic",
+  "detail",
+  "how",
+  "the",
+  "carriages",
+  "are",
+  "hurled",
+  "off",
+  "the",
+  "tracks",
+  "as",
+  "a",
+  "result",
+  "of",
+  "the",
+  "excessive",
+  "speed",
+  ",",
+  "with",
+  "the",
+  "second",
+  "wagon",
+  "appearing",
+  "to",
+  "jump",
+  "the",
+  "tracks",
+  "while",
+  "those",
+  "behind",
+  "it",
+  "are",
+  "twisted",
+  "into",
+  "tortured",
+  "shapes",
+  "by",
+  "the",
+  "stress",
+  "placed",
+  "upon",
+  "them",
+  ".",
+  "The",
+  "driver",
+  "of",
+  "the",
+  "engine",
+  "is",
+  "the",
+  "first",
+  "suspect",
+  ":",
+  "he",
+  "reportedly",
+  "admitted",
+  "almost",
+  "directly",
+  "after",
+  "the",
+  "accident",
+  "of",
+  "traveling",
+  "at",
+  "190km",
+  "/",
+  "h",
+  ".",
+  "A",
+  "veteran",
+  "of",
+  "over",
+  "30",
+  "years",
+  "'",
+  "service",
+  ",",
+  "his",
+  "Facebook",
+  "page",
+  "has",
+  "shown",
+  "that",
+  "he",
+  "had",
+  "previously",
+  "made",
+  "jokes",
+  "about",
+  "breaking",
+  "the",
+  "speed",
+  "limit",
+  ",",
+  "and",
+  "although",
+  "that",
+  "cannot",
+  "be",
+  "taken",
+  "as",
+  "proof",
+  "that",
+  "he",
+  "habitually",
+  "acted",
+  "in",
+  "such",
+  "a",
+  "way",
+  ",",
+  "it",
+  "is",
+  "worrying",
+  ".",
+  "The",
+  "driver",
+  "gave",
+  "negative",
+  "in",
+  "a",
+  "test",
+  "for",
+  "alcohol",
+  "and",
+  "is",
+  "currently",
+  "under",
+  "police",
+  "supervision",
+  "in",
+  "his",
+  "hospital",
+  "bed",
+  "after",
+  "being",
+  "imputed",
+  "to",
+  "give",
+  "evidence",
+  "to",
+  "the",
+  "judge",
+  "behind",
+  "one",
+  "of",
+  "the",
+  "two",
+  "investigations",
+  "into",
+  "the",
+  "tragedy",
+  ".",
+  "The",
+  "judge",
+  "is",
+  "in",
+  "possession",
+  "of",
+  "the",
+  "black",
+  "box",
+  "which",
+  "contains",
+  "recordings",
+  "of",
+  "all",
+  "of",
+  "the",
+  "cabin",
+  "information",
+  "and",
+  "will",
+  "be",
+  "able",
+  "to",
+  "interrogate",
+  "him",
+  "on",
+  "the",
+  "basis",
+  "of",
+  "the",
+  "contents",
+  "of",
+  "that",
+  "fateful",
+  "device",
+  ".",
+  "But",
+  "even",
+  "if",
+  "the",
+  "driver",
+  "was",
+  "speeding",
+  ",",
+  "the",
+  "question",
+  "as",
+  "to",
+  "why",
+  "no",
+  "automatic",
+  "system",
+  "kicked",
+  "in",
+  "to",
+  "automatically",
+  "slow",
+  "the",
+  "train",
+  "down",
+  ".",
+  "The",
+  "engine",
+  "in",
+  "question",
+  ",",
+  "an",
+  "Alvia",
+  "s",
+  "-",
+  "730",
+  ",",
+  "was",
+  "a",
+  "new",
+  "model",
+  "with",
+  "a",
+  "top",
+  "speed",
+  "of",
+  "250",
+  "km",
+  "/",
+  "h",
+  "and",
+  "was",
+  "operating",
+  "on",
+  "track",
+  "which",
+  "had",
+  "recently",
+  "been",
+  "laid",
+  "in",
+  "order",
+  "to",
+  "accommodate",
+  "the",
+  "300km",
+  "/",
+  "h",
+  "AVE",
+  "high",
+  "speed",
+  "train",
+  ".",
+  "However",
+  ",",
+  "the",
+  "area",
+  "where",
+  "the",
+  "accident",
+  "happened",
+  "is",
+  "transition",
+  "zone",
+  "between",
+  "the",
+  "high",
+  "-",
+  "speed",
+  "line",
+  "and",
+  "a",
+  "conventional",
+  "line",
+  ".",
+  "The",
+  "high",
+  "-",
+  "speed",
+  "line",
+  "is",
+  "protected",
+  "with",
+  "the",
+  "ERMTS",
+  "system",
+  ",",
+  "which",
+  "is",
+  "a",
+  "European",
+  "safety",
+  "system",
+  "designed",
+  "for",
+  "trains",
+  "able",
+  "to",
+  "travel",
+  "at",
+  "speeds",
+  "of",
+  "300km",
+  "/",
+  "h",
+  ",",
+  "to",
+  "the",
+  "ASFA",
+  "-",
+  "200",
+  "system",
+  ",",
+  "more",
+  "generally",
+  "used",
+  "on",
+  "lines",
+  "with",
+  "a",
+  "top",
+  "speed",
+  "of",
+  "200",
+  "km",
+  "/",
+  "h",
+  ".",
+  "Both",
+  "systems",
+  "are",
+  "assured",
+  "to",
+  "be",
+  "equally",
+  "safe",
+  "and",
+  "are",
+  "intended",
+  "to",
+  "transmit",
+  "an",
+  "action",
+  "protocol",
+  "to",
+  "the",
+  "cabin",
+  "in",
+  "function",
+  "of",
+  "the",
+  "data",
+  "collected",
+  "by",
+  "sensors",
+  "and",
+  "antenna",
+  "installed",
+  "along",
+  "the",
+  "track",
+  ".",
+  "Should",
+  "the",
+  "driver",
+  "ignore",
+  "the",
+  "signals",
+  "they",
+  "are",
+  "programmed",
+  "to",
+  "automatically",
+  "brake",
+  "the",
+  "train",
+  "and",
+  "slow",
+  "it",
+  "down",
+  ",",
+  "something",
+  "that",
+  "failed",
+  "to",
+  "happen",
+  "in",
+  "Wednesday",
+  "'s",
+  "disaster",
+  ".",
+  "Investigators",
+  "now",
+  "have",
+  "the",
+  "task",
+  "of",
+  "determining",
+  "why",
+  "on",
+  "a",
+  "piece",
+  "of",
+  "track",
+  "which",
+  "has",
+  "being",
+  "described",
+  "as",
+  "being",
+  "in",
+  "\"",
+  "perfect",
+  "conditions",
+  ",",
+  "\"",
+  "something",
+  "apparently",
+  "went",
+  "badly",
+  "wrong",
+  ",",
+  "for",
+  "while",
+  "it",
+  "may",
+  "well",
+  "be",
+  "that",
+  "the",
+  "driver",
+  "was",
+  "pushing",
+  "the",
+  "train",
+  "beyond",
+  "the",
+  "limit",
+  "in",
+  "order",
+  "to",
+  "make",
+  "up",
+  "a",
+  "slight",
+  "delay",
+  "on",
+  "arrival",
+  "time",
+  "the",
+  "fact",
+  "is",
+  "that",
+  "the",
+  "automatic",
+  "system",
+  "should",
+  "still",
+  "have",
+  "prevented",
+  "the",
+  "tragedy",
+  ".",
+  "The",
+  "riddle",
+  "is",
+  "waiting",
+  "to",
+  "be",
+  "tackled",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   95,
+   159,
+   184,
+   231,
+   269,
+   305,
+   330,
+   377,
+   399,
+   452,
+   486,
+   515,
+   587,
+   595,
+   596
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Madrid",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "MADRID"
+      },
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 1.0,
+       "start": 37,
+       "end": 40,
+       "tokens": "Santiago de Compostela"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Europe",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "European"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Spain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "MADRID"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 37,
+       "end": 40,
+       "tokens": "Santiago de Compostela"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "European"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Spain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-07-26T03:04:56",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-07-26T03:04:56"
+      },
+      {
+       "label": "Tough",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Tough"
+      },
+      {
+       "label": "task",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "task"
+      },
+      {
+       "label": "awaits",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "awaits"
+      },
+      {
+       "label": "investigators",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "investigators"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "in"
+      },
+      {
+       "label": "wake",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "wake"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "of"
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "train"
+      },
+      {
+       "label": "disaster",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "disaster"
+      },
+      {
+       "label": "Tough",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Tough"
+      },
+      {
+       "label": "task",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "task"
+      },
+      {
+       "label": "awaits",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "awaits"
+      },
+      {
+       "label": "investigators",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "investigators"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "in"
+      },
+      {
+       "label": "wake",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "wake"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "of"
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "train"
+      },
+      {
+       "label": "disaster",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "disaster"
+      },
+      {
+       "label": "MADRID",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "MADRID"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": ","
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "July"
+      },
+      {
+       "label": "25",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "25"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "--"
+      },
+      {
+       "label": "Once",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Once"
+      },
+      {
+       "label": "established",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "established"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "the"
+      },
+      {
+       "label": "primary",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "primary"
+      },
+      {
+       "label": "cause",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "cause"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "the"
+      },
+      {
+       "label": "Santiago",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "Santiago"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "de"
+      },
+      {
+       "label": "Compostela",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Compostela"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "train"
+      },
+      {
+       "label": "disaster",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "disaster"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "which"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "has"
+      },
+      {
+       "label": "claimed",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "claimed"
+      },
+      {
+       "label": "80",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "80"
+      },
+      {
+       "label": "lives",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "lives"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "and"
+      },
+      {
+       "label": "left",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "left"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "around"
+      },
+      {
+       "label": "100",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "100"
+      },
+      {
+       "label": "injured",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "injured"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "in"
+      },
+      {
+       "label": "north",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "north"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "-"
+      },
+      {
+       "label": "west",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "west"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Spain"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "was"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "an"
+      },
+      {
+       "label": "excess",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "excess"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "of"
+      },
+      {
+       "label": "velocity",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "velocity"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": ","
+      },
+      {
+       "label": "focus",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "focus"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "is"
+      },
+      {
+       "label": "turning",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "turning"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "as"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "how"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "such"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "a"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "train"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "could"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "go"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "into"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "a"
+      },
+      {
+       "label": "corner",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "corner"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "a"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "speed"
+      },
+      {
+       "label": "limit",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "limit"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "of"
+      },
+      {
+       "label": "80",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "80"
+      },
+      {
+       "label": "km",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "km"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "/"
+      },
+      {
+       "label": "h",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "h"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "a"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "speed"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "of"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "around"
+      },
+      {
+       "label": "190",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "190"
+      },
+      {
+       "label": "km",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "km"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "/"
+      },
+      {
+       "label": "h",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "h"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "A"
+      },
+      {
+       "label": "video",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "video"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "the"
+      },
+      {
+       "label": "accident",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "accident"
+      },
+      {
+       "label": "shown",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "shown"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "on"
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "TV",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "TV"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "and"
+      },
+      {
+       "label": "posted",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "posted"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "on"
+      },
+      {
+       "label": "virtually",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "virtually"
+      },
+      {
+       "label": "every",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "every"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "news"
+      },
+      {
+       "label": "website",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "website"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "country"
+      },
+      {
+       "label": "shows",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "shows"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "in"
+      },
+      {
+       "label": "graphic",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "graphic"
+      },
+      {
+       "label": "detail",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "detail"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "how"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "the"
+      },
+      {
+       "label": "carriages",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "carriages"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "are"
+      },
+      {
+       "label": "hurled",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "hurled"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "off"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "the"
+      },
+      {
+       "label": "tracks",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "tracks"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "a"
+      },
+      {
+       "label": "result",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "result"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "the"
+      },
+      {
+       "label": "excessive",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "excessive"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "speed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "the"
+      },
+      {
+       "label": "second",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "second"
+      },
+      {
+       "label": "wagon",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "wagon"
+      },
+      {
+       "label": "appearing",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "appearing"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "to"
+      },
+      {
+       "label": "jump",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "jump"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "the"
+      },
+      {
+       "label": "tracks",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "tracks"
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "while"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "those"
+      },
+      {
+       "label": "behind",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "behind"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "it"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "are"
+      },
+      {
+       "label": "twisted",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "twisted"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "into"
+      },
+      {
+       "label": "tortured",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "tortured"
+      },
+      {
+       "label": "shapes",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "shapes"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "the"
+      },
+      {
+       "label": "stress",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "stress"
+      },
+      {
+       "label": "placed",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "placed"
+      },
+      {
+       "label": "upon",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "upon"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "them"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "The"
+      },
+      {
+       "label": "driver",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "driver"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "the"
+      },
+      {
+       "label": "engine",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "engine"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "first"
+      },
+      {
+       "label": "suspect",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "suspect"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": ":"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "he"
+      },
+      {
+       "label": "reportedly",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "reportedly"
+      },
+      {
+       "label": "admitted",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "admitted"
+      },
+      {
+       "label": "almost",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "almost"
+      },
+      {
+       "label": "directly",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "directly"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "the"
+      },
+      {
+       "label": "accident",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "accident"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "of"
+      },
+      {
+       "label": "traveling",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "traveling"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "at"
+      },
+      {
+       "label": "190km",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "190km"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "/"
+      },
+      {
+       "label": "h",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "h"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "A"
+      },
+      {
+       "label": "veteran",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "veteran"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "of"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "over"
+      },
+      {
+       "label": "30",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "30"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "years"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "'"
+      },
+      {
+       "label": "service",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "service"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": ","
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "his"
+      },
+      {
+       "label": "Facebook",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "Facebook"
+      },
+      {
+       "label": "page",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "page"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "has"
+      },
+      {
+       "label": "shown",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "shown"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "he"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "had"
+      },
+      {
+       "label": "previously",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "previously"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "made"
+      },
+      {
+       "label": "jokes",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "jokes"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "about"
+      },
+      {
+       "label": "breaking",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "breaking"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "the"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "speed"
+      },
+      {
+       "label": "limit",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "limit"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "and"
+      },
+      {
+       "label": "although",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "although"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "that"
+      },
+      {
+       "label": "cannot",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "cannot"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "be"
+      },
+      {
+       "label": "taken",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "taken"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "as"
+      },
+      {
+       "label": "proof",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "proof"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "he"
+      },
+      {
+       "label": "habitually",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "habitually"
+      },
+      {
+       "label": "acted",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "acted"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "in"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "such"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "a"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "way"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": ","
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "it"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "is"
+      },
+      {
+       "label": "worrying",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "worrying"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "The"
+      },
+      {
+       "label": "driver",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "driver"
+      },
+      {
+       "label": "gave",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "gave"
+      },
+      {
+       "label": "negative",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "negative"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "a"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "test"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "for"
+      },
+      {
+       "label": "alcohol",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "alcohol"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "and"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "is"
+      },
+      {
+       "label": "currently",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "currently"
+      },
+      {
+       "label": "under",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "under"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "police"
+      },
+      {
+       "label": "supervision",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "supervision"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "in"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "his"
+      },
+      {
+       "label": "hospital",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "hospital"
+      },
+      {
+       "label": "bed",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "bed"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "after"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "being"
+      },
+      {
+       "label": "imputed",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "imputed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "to"
+      },
+      {
+       "label": "give",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "give"
+      },
+      {
+       "label": "evidence",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "evidence"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "the"
+      },
+      {
+       "label": "judge",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "judge"
+      },
+      {
+       "label": "behind",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "behind"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "the"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "two"
+      },
+      {
+       "label": "investigations",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "investigations"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "into"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "the"
+      },
+      {
+       "label": "tragedy",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "tragedy"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "The"
+      },
+      {
+       "label": "judge",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "judge"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "is"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "in"
+      },
+      {
+       "label": "possession",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "possession"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "the"
+      },
+      {
+       "label": "black",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "black"
+      },
+      {
+       "label": "box",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "box"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "which"
+      },
+      {
+       "label": "contains",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "contains"
+      },
+      {
+       "label": "recordings",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "recordings"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "of"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "all"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "the"
+      },
+      {
+       "label": "cabin",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "cabin"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "information"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "and"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "be"
+      },
+      {
+       "label": "able",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "able"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "to"
+      },
+      {
+       "label": "interrogate",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "interrogate"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "him"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "the"
+      },
+      {
+       "label": "basis",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "basis"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "the"
+      },
+      {
+       "label": "contents",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "contents"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "of"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "that"
+      },
+      {
+       "label": "fateful",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "fateful"
+      },
+      {
+       "label": "device",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "device"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "But"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "even"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "if"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "the"
+      },
+      {
+       "label": "driver",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "driver"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "was"
+      },
+      {
+       "label": "speeding",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "speeding"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "the"
+      },
+      {
+       "label": "question",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "question"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "as"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "to"
+      },
+      {
+       "label": "why",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "why"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "no"
+      },
+      {
+       "label": "automatic",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "automatic"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "system"
+      },
+      {
+       "label": "kicked",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "kicked"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "in"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "to"
+      },
+      {
+       "label": "automatically",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "automatically"
+      },
+      {
+       "label": "slow",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "slow"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "the"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "train"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "down"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "The"
+      },
+      {
+       "label": "engine",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "engine"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "in"
+      },
+      {
+       "label": "question",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "question"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "an"
+      },
+      {
+       "label": "Alvia",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "Alvia"
+      },
+      {
+       "label": "s",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "s"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "-"
+      },
+      {
+       "label": "730",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "730"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": ","
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "a"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "new"
+      },
+      {
+       "label": "model",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "model"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "a"
+      },
+      {
+       "label": "top",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "top"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "speed"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "of"
+      },
+      {
+       "label": "250",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "250"
+      },
+      {
+       "label": "km",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "km"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "/"
+      },
+      {
+       "label": "h",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "h"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "and"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "was"
+      },
+      {
+       "label": "operating",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "operating"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "on"
+      },
+      {
+       "label": "track",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "track"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "which"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "had"
+      },
+      {
+       "label": "recently",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "recently"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "been"
+      },
+      {
+       "label": "laid",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "laid"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "in"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "order"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "to"
+      },
+      {
+       "label": "accommodate",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "accommodate"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "the"
+      },
+      {
+       "label": "300km",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "300km"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "/"
+      },
+      {
+       "label": "h",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "h"
+      },
+      {
+       "label": "AVE",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "AVE"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "high"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "speed"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "train"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "."
+      },
+      {
+       "label": "However",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "However"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "the"
+      },
+      {
+       "label": "area",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "area"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "where"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "the"
+      },
+      {
+       "label": "accident",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "accident"
+      },
+      {
+       "label": "happened",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "happened"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "is"
+      },
+      {
+       "label": "transition",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "transition"
+      },
+      {
+       "label": "zone",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "zone"
+      },
+      {
+       "label": "between",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "between"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "the"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "high"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "-"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "speed"
+      },
+      {
+       "label": "line",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "line"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "a"
+      },
+      {
+       "label": "conventional",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "conventional"
+      },
+      {
+       "label": "line",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "line"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "The"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "high"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "-"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "speed"
+      },
+      {
+       "label": "line",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "line"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "is"
+      },
+      {
+       "label": "protected",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "protected"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "the"
+      },
+      {
+       "label": "ERMTS",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "ERMTS"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "system"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "which"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "a"
+      },
+      {
+       "label": "European",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "European"
+      },
+      {
+       "label": "safety",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "safety"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "system"
+      },
+      {
+       "label": "designed",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "designed"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "for"
+      },
+      {
+       "label": "trains",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "trains"
+      },
+      {
+       "label": "able",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "able"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "to"
+      },
+      {
+       "label": "travel",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "travel"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "at"
+      },
+      {
+       "label": "speeds",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "speeds"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "of"
+      },
+      {
+       "label": "300km",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "300km"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "/"
+      },
+      {
+       "label": "h",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "h"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": ","
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "the"
+      },
+      {
+       "label": "ASFA",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "ASFA"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "-"
+      },
+      {
+       "label": "200",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "200"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "system"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": ","
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "more"
+      },
+      {
+       "label": "generally",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "generally"
+      },
+      {
+       "label": "used",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "used"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "on"
+      },
+      {
+       "label": "lines",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "lines"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "a"
+      },
+      {
+       "label": "top",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "top"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "speed"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "of"
+      },
+      {
+       "label": "200",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "200"
+      },
+      {
+       "label": "km",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "km"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "/"
+      },
+      {
+       "label": "h",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "h"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "."
+      },
+      {
+       "label": "Both",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "Both"
+      },
+      {
+       "label": "systems",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "systems"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "are"
+      },
+      {
+       "label": "assured",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "assured"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "be"
+      },
+      {
+       "label": "equally",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "equally"
+      },
+      {
+       "label": "safe",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "safe"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "and"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "are"
+      },
+      {
+       "label": "intended",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "intended"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "to"
+      },
+      {
+       "label": "transmit",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "transmit"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "an"
+      },
+      {
+       "label": "action",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "action"
+      },
+      {
+       "label": "protocol",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "protocol"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "the"
+      },
+      {
+       "label": "cabin",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "cabin"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "in"
+      },
+      {
+       "label": "function",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "function"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "the"
+      },
+      {
+       "label": "data",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "data"
+      },
+      {
+       "label": "collected",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "collected"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "by"
+      },
+      {
+       "label": "sensors",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "sensors"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "and"
+      },
+      {
+       "label": "antenna",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "antenna"
+      },
+      {
+       "label": "installed",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "installed"
+      },
+      {
+       "label": "along",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "along"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "the"
+      },
+      {
+       "label": "track",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "track"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "."
+      },
+      {
+       "label": "Should",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "Should"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "the"
+      },
+      {
+       "label": "driver",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "driver"
+      },
+      {
+       "label": "ignore",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "ignore"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "the"
+      },
+      {
+       "label": "signals",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "signals"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "they"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "are"
+      },
+      {
+       "label": "programmed",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "programmed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "to"
+      },
+      {
+       "label": "automatically",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "automatically"
+      },
+      {
+       "label": "brake",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "brake"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "the"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "train"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "and"
+      },
+      {
+       "label": "slow",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "slow"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "it"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "down"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": ","
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "something"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "that"
+      },
+      {
+       "label": "failed",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "failed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "to"
+      },
+      {
+       "label": "happen",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "happen"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "in"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "'s"
+      },
+      {
+       "label": "disaster",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "disaster"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "."
+      },
+      {
+       "label": "Investigators",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "Investigators"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "now"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "have"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "the"
+      },
+      {
+       "label": "task",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "task"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "of"
+      },
+      {
+       "label": "determining",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "determining"
+      },
+      {
+       "label": "why",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "why"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "a"
+      },
+      {
+       "label": "piece",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "piece"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "of"
+      },
+      {
+       "label": "track",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "track"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "which"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "has"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "being"
+      },
+      {
+       "label": "described",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "described"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "as"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "being"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "in"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "\""
+      },
+      {
+       "label": "perfect",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "perfect"
+      },
+      {
+       "label": "conditions",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "conditions"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "\""
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "something"
+      },
+      {
+       "label": "apparently",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "apparently"
+      },
+      {
+       "label": "went",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "went"
+      },
+      {
+       "label": "badly",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "badly"
+      },
+      {
+       "label": "wrong",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "wrong"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": ","
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "for"
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "while"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "it"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "may"
+      },
+      {
+       "label": "well",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "well"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "be"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "the"
+      },
+      {
+       "label": "driver",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "driver"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "was"
+      },
+      {
+       "label": "pushing",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "pushing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "the"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "train"
+      },
+      {
+       "label": "beyond",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "beyond"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "the"
+      },
+      {
+       "label": "limit",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "limit"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "in"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "order"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "to"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "make"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "up"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "a"
+      },
+      {
+       "label": "slight",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "slight"
+      },
+      {
+       "label": "delay",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "delay"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "on"
+      },
+      {
+       "label": "arrival",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "arrival"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "time"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "the"
+      },
+      {
+       "label": "fact",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "fact"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "the"
+      },
+      {
+       "label": "automatic",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "automatic"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "system"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "should"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "still"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "have"
+      },
+      {
+       "label": "prevented",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "prevented"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "the"
+      },
+      {
+       "label": "tragedy",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "tragedy"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "The"
+      },
+      {
+       "label": "riddle",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "riddle"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "is"
+      },
+      {
+       "label": "waiting",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "waiting"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "be"
+      },
+      {
+       "label": "tackled",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "tackled"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Spanish_language",
+       "score": 0.5729287265379746,
+       "start": 102,
+       "end": 103,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.5729287265379746,
+        "Spain": 0.3167589438860962,
+        "Spaniards": 0.06509506319075974,
+        "Spanish_Empire": 0.02363631967223403,
+        "New_Spain": 0.0017628179314615456,
+        "Spanish_immigration_to_Argentina": 0.0014207600550646341,
+        "Portuguese_people": 0.0030228557642192505,
+        "Brazilians_of_Spanish_descent": 0.0010740590343919448,
+        "The_Californias": 0.001069107410733819,
+        "Spanish_Wikipedia": 0.0032035349076574523,
+        "Italian_language": 0.009176335226304818,
+        "Cologne": 0.0008514763831020541,
+        "<unk_wid>": 3.3039304125023845e-26
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816668712992126,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816668712992126,
+        "Xinhua_District,_Tainan": 0.01698221171396616,
+        "Xinhua_County": 0.001350916986821205,
+        "<unk_wid>": 3.3717723679358927e-26
+       }
+      },
+      {
+       "label": "Spanish_language",
+       "score": 0.39395549439234623,
+       "start": 18,
+       "end": 19,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.39395549439234623,
+        "Spain": 0.39007969574439383,
+        "Spaniards": 0.054726774856949385,
+        "Spanish_Empire": 0.14012084128394034,
+        "New_Spain": 0.0016459132881845868,
+        "Spanish_immigration_to_Argentina": 0.0012408773268038392,
+        "Portuguese_people": 0.008980774363179025,
+        "Brazilians_of_Spanish_descent": 0.0009382043617927899,
+        "The_Californias": 0.0009338790911281021,
+        "Spanish_Wikipedia": 0.0009234315729430054,
+        "Italian_language": 0.005710218907773925,
+        "Cologne": 0.0007438948105648739,
+        "<unk_wid>": 2.1004261804200598e-30
+       }
+      },
+      {
+       "label": "Madrid",
+       "score": 0.7285391331163571,
+       "start": 21,
+       "end": 22,
+       "tokens": "MADRID",
+       "labelScoreMap": {
+        "Madrid": 0.7285391331163571,
+        "Community_of_Madrid": 0.03390444112491336,
+        "2004_Madrid_train_bombings": 0.09370405986226901,
+        "Real_Madrid_C.F.": 0.007441557096480129,
+        "Madrid,_Cundinamarca": 0.00454821415979642,
+        "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport": 0.008425086027440498,
+        "Madrid,_New_Mexico": 0.002675831788408155,
+        "Bolsa_de_Madrid": 0.009232440186488,
+        "Madrid_Metro": 0.004044897290701089,
+        "Madrid_Deep_Space_Communications_Complex": 0.0020692302632135,
+        "Siege_of_Madrid": 0.09765649024652,
+        "Madrid_(Spanish_Congress_Electoral_District)": 0.006320117645905325,
+        "Madrid_Tennis_Grand_Prix": 0.0014385011886727803,
+        "<unk_wid>": 1.6676683605544967e-13
+       }
+      },
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 0.9076042359456501,
+       "start": 37,
+       "end": 40,
+       "tokens": "Santiago de Compostela",
+       "labelScoreMap": {
+        "Santiago_de_Compostela": 0.9076042359456501,
+        "Camino_de_Santiago": 0.04463739044598185,
+        "Roman_Catholic_Archdiocese_of_Santiago_de_Compostela": 0.011969550831353471,
+        "Santiago_de_Compostela_Cathedral": 0.008264556392163681,
+        "University_of_Santiago_de_Compostela": 0.02752426638485083,
+        "<unk_wid>": 1.8392956985783036e-24
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.4164593355938848,
+       "start": 8,
+       "end": 9,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.4051689543590654,
+        "Spain": 0.4164593355938848,
+        "Spaniards": 0.06062502519262887,
+        "Spanish_Empire": 0.0998728871477446,
+        "New_Spain": 0.0015777226513825665,
+        "Spanish_immigration_to_Argentina": 0.0012598520631744582,
+        "Portuguese_people": 0.007121820198884395,
+        "Brazilians_of_Spanish_descent": 0.0009522503282098031,
+        "The_Californias": 0.0009478602670602159,
+        "Spanish_Wikipedia": 0.0009394325126118397,
+        "Italian_language": 0.004319973299547342,
+        "Cologne": 0.0007548863858056195,
+        "<unk_wid>": 3.786033946502359e-31
+       }
+      },
+      {
+       "label": "Europe",
+       "score": 0.8349333577767178,
+       "start": 414,
+       "end": 415,
+       "tokens": "European",
+       "labelScoreMap": {
+        "Europe": 0.8349333577767178,
+        "European_Union": 0.059753711837784385,
+        "UEFA": 0.01720998896823947,
+        "European_Americans": 0.013726736434054294,
+        "European_Athletics_Championships": 0.006041992657275472,
+        "WWE_European_Championship": 0.005455766311779279,
+        "United_States_European_Command": 0.004837553622107022,
+        "European_theatre_of_World_War_II": 0.004428005076439905,
+        "European_Portuguese": 0.0041835264300881915,
+        "European_theatre_of_World_War_I": 0.003215794604577656,
+        "European_New_Zealanders": 0.005828331026723987,
+        "European_Parliament_election,_2004_(Ireland)": 0.0029052974664711094,
+        "European_Poker_Tour": 0.0026835305410716484,
+        "European_Aviation_Air_Charter": 0.002528270056047305,
+        "UEFA_Champions_League": 0.002361130371306299,
+        "European_Figure_Skating_Championships": 0.008409270160024023,
+        "European_microstates": 0.0018186973951385321,
+        "Ottoman_wars_in_Europe": 0.0033594024067616812,
+        "PGA_European_Tour": 0.002965166180868331,
+        "White_people": 0.0020115762778472558,
+        "European_Space_Agency": 0.0014993082441569557,
+        "UEFA_Europa_League": 0.0014239792510170367,
+        "Atlantic_Ocean": 0.002146867699319556,
+        "Caucasian_race": 0.00269090202772162,
+        "Walt_Disney": 0.0011976247804123626,
+        "Tocharian_languages": 0.0012308364167713149,
+        "European_Grand_Prix": 0.0011533759792773683,
+        "<unk_wid>": 2.6863013432966814e-26
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.9002888201995531,
+       "start": 56,
+       "end": 57,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "Spain": 0.9002888201995531,
+        "Spain_national_football_team": 0.04850938456357636,
+        "Spanish_Empire": 0.009033978690731274,
+        "Spain_men's_national_basketball_team": 0.005595429595083698,
+        "Royal_Spanish_Football_Federation": 0.004654751043527567,
+        "Adams\u2013On\u00eds_Treaty": 0.004395875911650732,
+        "Spain_Davis_Cup_team": 0.0029852504234176114,
+        "Spain_national_rugby_union_team": 0.002872497690774812,
+        "La_Liga": 0.002676611596293265,
+        "Asociaci\u00f3n_de_Clubs_de_Baloncesto": 0.0025447289997373576,
+        "Spanish_Armed_Forces": 0.0019733419847681585,
+        "Restoration_(Spain)": 0.0017396452289116806,
+        "Spain_national_under-21_football_team": 0.001572831792373918,
+        "Francoist_Spain": 0.001914966371099057,
+        "Spain_national_futsal_team": 0.0014799726959940909,
+        "Spain_Fed_Cup_team": 0.0013573509921204709,
+        "Spain_women's_national_basketball_team": 0.0012894530052920885,
+        "Al-Andalus": 0.0015147323428291745,
+        "2008\u201315_Spanish_financial_crisis": 0.0012064207220908118,
+        "Disney_Cinemagic": 0.0011722320562455068,
+        "Hispania": 0.001221724093928955,
+        "<unk_wid>": 1.2604004277551176e-41
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Spanish_language",
+       "score": 0.5729287265379746,
+       "start": 102,
+       "end": 103,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.3167589438860962,
+        "6553049|Cologne": 0.0008514763831020541
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816668712992126,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.01698221171396616,
+        "1788859|Xinhua_County": 0.001350916986821205
+       }
+      },
+      {
+       "label": "Spanish_language",
+       "score": 0.39395549439234623,
+       "start": 18,
+       "end": 19,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.39007969574439383,
+        "6553049|Cologne": 0.0007438948105648739
+       }
+      },
+      {
+       "label": "Madrid",
+       "score": 0.7285391331163571,
+       "start": 21,
+       "end": 22,
+       "tokens": "MADRID",
+       "labelScoreMap": {
+        "3117735|Madrid": 0.7285391331163571,
+        "3117732|Community_of_Madrid": 0.03390444112491336,
+        "3675708|Madrid,_Cundinamarca": 0.00454821415979642,
+        "6299345|Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport": 0.008425086027440498,
+        "5477631|Madrid,_New_Mexico": 0.002675831788408155,
+        "8714453|Bolsa_de_Madrid": 0.009232440186488
+       }
+      },
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 0.9076042359456501,
+       "start": 37,
+       "end": 40,
+       "tokens": "Santiago de Compostela",
+       "labelScoreMap": {
+        "3109642|Santiago_de_Compostela": 0.9076042359456501
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.4164593355938848,
+       "start": 8,
+       "end": 9,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.4164593355938848,
+        "6553049|Cologne": 0.0007548863858056195
+       }
+      },
+      {
+       "label": "Europe",
+       "score": 0.8349333577767178,
+       "start": 414,
+       "end": 415,
+       "tokens": "European",
+       "labelScoreMap": {
+        "6255148|Europe": 0.8349333577767178,
+        "6695072|European_Union": 0.059753711837784385,
+        "3373405|Atlantic_Ocean": 0.002146867699319556
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.9002888201995531,
+       "start": 56,
+       "end": 57,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "2510769|Spain": 0.9002888201995531
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

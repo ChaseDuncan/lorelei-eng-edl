@@ -1,0 +1,7049 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130924.0050.xml",
+ "text": "GHANAIANS MOURN A POET AND SCHOLAR\nThe rain has beaten me\nAnd the sharp stumps cut as keen as knives\nI shall go beyond and rest,\nI have no kin and no brother,\nDeath has made war upon our house\nDAKAR, Senegal - Ghanaian schoolchildren memorized those lines from the 1960s by one of their country\u2019s most famous poets, Kofi Awoonor; their sorrow over the newly liberated continent\u2019s travails foreshadowed, in a terrible way, the violence that took Awoonor\u2019s life Saturday.\nAwoonor - poet, diplomat, statesman, scholar and cultural icon in his native Ghana - was killed in the terrorist attack by Somali militants on the Westgate shopping mall in Nairobi, Kenya. His death at 78 has shocked citizens in Ghana, the West African nation whose difficult beginnings and subsequent steadying he accompanied and chronicled.\nAwoonor published novels and books of verse, including poems like \u201cSongs of Sorrow\u201d that were required reading for several generations of Ghanaian schoolchildren. He was his country\u2019s ambassador to the United Nations in the early 1990s, taught at universities in the United States and Ghana, knew W.E.B. DuBois, and was president of Ghana\u2019s Council of State, a governmental advisory body. News reports in Ghana said he had been invited to a conference in Nairobi and had gone to the mall to have breakfast with his son, who was wounded in the attack.\n\u201cHe had a huge influence on Ghanaian poetry and Ghanaian academia,\u201d said Akwasi Aidoo, a Ghanaian who is executive director of TrustAfrica, a pan-African good-governance foundation, who knew Awoonor for nearly 40 years. \u201cHe was one of the first poets after Ghanaian independence.\u201d\nBecause Awoonor was imprisoned for his activism during a time of repression in the mid-1970s, \u201cwe saw him more as an organic intellectual, as somebody who was not just confined to academia, somebody interested in the broader economic and social struggle,\u201d Aidoo said.\nHis poetry was heavily influenced by the funeral dirges of his native Ewe people, one of Ghana\u2019s smaller ethnic minorities; his grandmother was an Ewe dirge singer, according to the Poetry Foundation. The early poetry that gained him his reputation in the 1960s in Ghana \u201creflected the challenges that Ghana and Africa were going through during the postcolonial period,\u201d Aidoo said. \u201cHe was constantly emphasizing the pain, the pain and suffering of our people.\u201d\n\u201cSongs of Sorrow,\u201d perhaps his best-known poem, is an extended lament for a world of African difficulty and hardship, replete with foreboding of latent chronic violence of the sort that erupted Saturday in Nairobi. A pan-Africanist and admirer of Kwame Nkrumah, the president who led Ghana to independence and was overthrown in a coup, Awoonor was pained by the continent\u2019s early travails.\n\u201cFuneral dirges - he used that form to lament the state of Africa, the oppression,\u201d said Esi Sutherland-Addy, an associate professor at the University of Ghana. \u201cIt was a convenient form to talk about oppression.\u201d\nPublic figures in Ghana, including President John Dramani Mahama, expressed their sorrow at Awoonor\u2019s death. \u201cI think we\u2019re all in shock,\u201d Sutherland-Addy said.",
+ "tokens": [
+  "GHANAIANS",
+  "MOURN",
+  "A",
+  "POET",
+  "AND",
+  "SCHOLAR",
+  "The",
+  "rain",
+  "has",
+  "beaten",
+  "me",
+  "And",
+  "the",
+  "sharp",
+  "stumps",
+  "cut",
+  "as",
+  "keen",
+  "as",
+  "knives",
+  "I",
+  "shall",
+  "go",
+  "beyond",
+  "and",
+  "rest",
+  ",",
+  "I",
+  "have",
+  "no",
+  "kin",
+  "and",
+  "no",
+  "brother",
+  ",",
+  "Death",
+  "has",
+  "made",
+  "war",
+  "upon",
+  "our",
+  "house",
+  "DAKAR",
+  ",",
+  "Senegal",
+  "-",
+  "Ghanaian",
+  "schoolchildren",
+  "memorized",
+  "those",
+  "lines",
+  "from",
+  "the",
+  "1960s",
+  "by",
+  "one",
+  "of",
+  "their",
+  "country",
+  "\u2019s",
+  "most",
+  "famous",
+  "poets",
+  ",",
+  "Kofi",
+  "Awoonor",
+  ";",
+  "their",
+  "sorrow",
+  "over",
+  "the",
+  "newly",
+  "liberated",
+  "continent",
+  "\u2019s",
+  "travails",
+  "foreshadowed",
+  ",",
+  "in",
+  "a",
+  "terrible",
+  "way",
+  ",",
+  "the",
+  "violence",
+  "that",
+  "took",
+  "Awoonor",
+  "\u2019s",
+  "life",
+  "Saturday",
+  ".",
+  "Awoonor",
+  "-",
+  "poet",
+  ",",
+  "diplomat",
+  ",",
+  "statesman",
+  ",",
+  "scholar",
+  "and",
+  "cultural",
+  "icon",
+  "in",
+  "his",
+  "native",
+  "Ghana",
+  "-",
+  "was",
+  "killed",
+  "in",
+  "the",
+  "terrorist",
+  "attack",
+  "by",
+  "Somali",
+  "militants",
+  "on",
+  "the",
+  "Westgate",
+  "shopping",
+  "mall",
+  "in",
+  "Nairobi",
+  ",",
+  "Kenya",
+  ".",
+  "His",
+  "death",
+  "at",
+  "78",
+  "has",
+  "shocked",
+  "citizens",
+  "in",
+  "Ghana",
+  ",",
+  "the",
+  "West",
+  "African",
+  "nation",
+  "whose",
+  "difficult",
+  "beginnings",
+  "and",
+  "subsequent",
+  "steadying",
+  "he",
+  "accompanied",
+  "and",
+  "chronicled",
+  ".",
+  "Awoonor",
+  "published",
+  "novels",
+  "and",
+  "books",
+  "of",
+  "verse",
+  ",",
+  "including",
+  "poems",
+  "like",
+  "\u201c",
+  "Songs",
+  "of",
+  "Sorrow",
+  "\u201d",
+  "that",
+  "were",
+  "required",
+  "reading",
+  "for",
+  "several",
+  "generations",
+  "of",
+  "Ghanaian",
+  "schoolchildren",
+  ".",
+  "He",
+  "was",
+  "his",
+  "country",
+  "\u2019s",
+  "ambassador",
+  "to",
+  "the",
+  "United",
+  "Nations",
+  "in",
+  "the",
+  "early",
+  "1990s",
+  ",",
+  "taught",
+  "at",
+  "universities",
+  "in",
+  "the",
+  "United",
+  "States",
+  "and",
+  "Ghana",
+  ",",
+  "knew",
+  "W.E.B.",
+  "DuBois",
+  ",",
+  "and",
+  "was",
+  "president",
+  "of",
+  "Ghana",
+  "\u2019s",
+  "Council",
+  "of",
+  "State",
+  ",",
+  "a",
+  "governmental",
+  "advisory",
+  "body",
+  ".",
+  "News",
+  "reports",
+  "in",
+  "Ghana",
+  "said",
+  "he",
+  "had",
+  "been",
+  "invited",
+  "to",
+  "a",
+  "conference",
+  "in",
+  "Nairobi",
+  "and",
+  "had",
+  "gone",
+  "to",
+  "the",
+  "mall",
+  "to",
+  "have",
+  "breakfast",
+  "with",
+  "his",
+  "son",
+  ",",
+  "who",
+  "was",
+  "wounded",
+  "in",
+  "the",
+  "attack",
+  ".",
+  "\u201c",
+  "He",
+  "had",
+  "a",
+  "huge",
+  "influence",
+  "on",
+  "Ghanaian",
+  "poetry",
+  "and",
+  "Ghanaian",
+  "academia",
+  ",",
+  "\u201d",
+  "said",
+  "Akwasi",
+  "Aidoo",
+  ",",
+  "a",
+  "Ghanaian",
+  "who",
+  "is",
+  "executive",
+  "director",
+  "of",
+  "TrustAfrica",
+  ",",
+  "a",
+  "pan",
+  "-",
+  "African",
+  "good",
+  "-",
+  "governance",
+  "foundation",
+  ",",
+  "who",
+  "knew",
+  "Awoonor",
+  "for",
+  "nearly",
+  "40",
+  "years",
+  ".",
+  "\u201c",
+  "He",
+  "was",
+  "one",
+  "of",
+  "the",
+  "first",
+  "poets",
+  "after",
+  "Ghanaian",
+  "independence",
+  ".",
+  "\u201d",
+  "Because",
+  "Awoonor",
+  "was",
+  "imprisoned",
+  "for",
+  "his",
+  "activism",
+  "during",
+  "a",
+  "time",
+  "of",
+  "repression",
+  "in",
+  "the",
+  "mid",
+  "-",
+  "1970s",
+  ",",
+  "\u201c",
+  "we",
+  "saw",
+  "him",
+  "more",
+  "as",
+  "an",
+  "organic",
+  "intellectual",
+  ",",
+  "as",
+  "somebody",
+  "who",
+  "was",
+  "not",
+  "just",
+  "confined",
+  "to",
+  "academia",
+  ",",
+  "somebody",
+  "interested",
+  "in",
+  "the",
+  "broader",
+  "economic",
+  "and",
+  "social",
+  "struggle",
+  ",",
+  "\u201d",
+  "Aidoo",
+  "said",
+  ".",
+  "His",
+  "poetry",
+  "was",
+  "heavily",
+  "influenced",
+  "by",
+  "the",
+  "funeral",
+  "dirges",
+  "of",
+  "his",
+  "native",
+  "Ewe",
+  "people",
+  ",",
+  "one",
+  "of",
+  "Ghana",
+  "\u2019s",
+  "smaller",
+  "ethnic",
+  "minorities",
+  ";",
+  "his",
+  "grandmother",
+  "was",
+  "an",
+  "Ewe",
+  "dirge",
+  "singer",
+  ",",
+  "according",
+  "to",
+  "the",
+  "Poetry",
+  "Foundation",
+  ".",
+  "The",
+  "early",
+  "poetry",
+  "that",
+  "gained",
+  "him",
+  "his",
+  "reputation",
+  "in",
+  "the",
+  "1960s",
+  "in",
+  "Ghana",
+  "\u201c",
+  "reflected",
+  "the",
+  "challenges",
+  "that",
+  "Ghana",
+  "and",
+  "Africa",
+  "were",
+  "going",
+  "through",
+  "during",
+  "the",
+  "postcolonial",
+  "period",
+  ",",
+  "\u201d",
+  "Aidoo",
+  "said",
+  ".",
+  "\u201c",
+  "He",
+  "was",
+  "constantly",
+  "emphasizing",
+  "the",
+  "pain",
+  ",",
+  "the",
+  "pain",
+  "and",
+  "suffering",
+  "of",
+  "our",
+  "people",
+  ".",
+  "\u201d",
+  "\u201c",
+  "Songs",
+  "of",
+  "Sorrow",
+  ",",
+  "\u201d",
+  "perhaps",
+  "his",
+  "best",
+  "-",
+  "known",
+  "poem",
+  ",",
+  "is",
+  "an",
+  "extended",
+  "lament",
+  "for",
+  "a",
+  "world",
+  "of",
+  "African",
+  "difficulty",
+  "and",
+  "hardship",
+  ",",
+  "replete",
+  "with",
+  "foreboding",
+  "of",
+  "latent",
+  "chronic",
+  "violence",
+  "of",
+  "the",
+  "sort",
+  "that",
+  "erupted",
+  "Saturday",
+  "in",
+  "Nairobi",
+  ".",
+  "A",
+  "pan",
+  "-",
+  "Africanist",
+  "and",
+  "admirer",
+  "of",
+  "Kwame",
+  "Nkrumah",
+  ",",
+  "the",
+  "president",
+  "who",
+  "led",
+  "Ghana",
+  "to",
+  "independence",
+  "and",
+  "was",
+  "overthrown",
+  "in",
+  "a",
+  "coup",
+  ",",
+  "Awoonor",
+  "was",
+  "pained",
+  "by",
+  "the",
+  "continent",
+  "\u2019s",
+  "early",
+  "travails",
+  ".",
+  "\u201c",
+  "Funeral",
+  "dirges",
+  "-",
+  "he",
+  "used",
+  "that",
+  "form",
+  "to",
+  "lament",
+  "the",
+  "state",
+  "of",
+  "Africa",
+  ",",
+  "the",
+  "oppression",
+  ",",
+  "\u201d",
+  "said",
+  "Esi",
+  "Sutherland",
+  "-",
+  "Addy",
+  ",",
+  "an",
+  "associate",
+  "professor",
+  "at",
+  "the",
+  "University",
+  "of",
+  "Ghana",
+  ".",
+  "\u201c",
+  "It",
+  "was",
+  "a",
+  "convenient",
+  "form",
+  "to",
+  "talk",
+  "about",
+  "oppression",
+  ".",
+  "\u201d",
+  "Public",
+  "figures",
+  "in",
+  "Ghana",
+  ",",
+  "including",
+  "President",
+  "John",
+  "Dramani",
+  "Mahama",
+  ",",
+  "expressed",
+  "their",
+  "sorrow",
+  "at",
+  "Awoonor",
+  "\u2019s",
+  "death",
+  ".",
+  "\u201c",
+  "I",
+  "think",
+  "we",
+  "\u2019re",
+  "all",
+  "in",
+  "shock",
+  ",",
+  "\u201d",
+  "Sutherland",
+  "-",
+  "Addy",
+  "said",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   92,
+   128,
+   153,
+   180,
+   224,
+   258,
+   302,
+   367,
+   404,
+   437,
+   496,
+   530,
+   564,
+   595,
+   610
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "Africa"
+      },
+      {
+       "label": "West_Africa",
+       "score": 1.0,
+       "start": 139,
+       "end": 141,
+       "tokens": "West African"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "Westgate,_Nairobi",
+       "score": 1.0,
+       "start": 120,
+       "end": 123,
+       "tokens": "Westgate shopping mall"
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "Council_of_State_(Ghana)",
+       "score": 1.0,
+       "start": 215,
+       "end": 218,
+       "tokens": "Council of State"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "Africa"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "African"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "African"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 200,
+       "end": 202,
+       "tokens": "United States"
+      },
+      {
+       "label": "Poetry_Foundation",
+       "score": 1.0,
+       "start": 401,
+       "end": 403,
+       "tokens": "Poetry Foundation"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "University_of_Ghana",
+       "score": 1.0,
+       "start": 560,
+       "end": 563,
+       "tokens": "University of Ghana"
+      },
+      {
+       "label": "Somalia",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "Somali"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "Aidoo"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "John_Dramani_Mahama",
+       "score": 1.0,
+       "start": 583,
+       "end": 586,
+       "tokens": "John Dramani Mahama"
+      },
+      {
+       "label": "Senegal",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Senegal"
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Africanist"
+      },
+      {
+       "label": "Kwame_Nkrumah",
+       "score": 1.0,
+       "start": 503,
+       "end": 505,
+       "tokens": "Kwame Nkrumah"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 188,
+       "end": 190,
+       "tokens": "United Nations"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Kofi Awoonor"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 273,
+       "end": 275,
+       "tokens": "Akwasi Aidoo"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "Dakar",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "DAKAR"
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "W._E._B._Du_Bois",
+       "score": 1.0,
+       "start": 206,
+       "end": 208,
+       "tokens": "W.E.B. DuBois"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "African"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "Aidoo"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "TrustAfrica",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "TrustAfrica"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "Africa"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 139,
+       "end": 141,
+       "tokens": "West African"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 120,
+       "end": 123,
+       "tokens": "Westgate shopping mall"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 215,
+       "end": 218,
+       "tokens": "Council of State"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "Africa"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "African"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "African"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 200,
+       "end": 202,
+       "tokens": "United States"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 401,
+       "end": 403,
+       "tokens": "Poetry Foundation"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 560,
+       "end": 563,
+       "tokens": "University of Ghana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "Somali"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "Aidoo"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 583,
+       "end": 586,
+       "tokens": "John Dramani Mahama"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Senegal"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Africanist"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 503,
+       "end": 505,
+       "tokens": "Kwame Nkrumah"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 188,
+       "end": 190,
+       "tokens": "United Nations"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Kofi Awoonor"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 273,
+       "end": 275,
+       "tokens": "Akwasi Aidoo"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "DAKAR"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 206,
+       "end": 208,
+       "tokens": "W.E.B. DuBois"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "African"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "Aidoo"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "TrustAfrica"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GHANAIANS",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "GHANAIANS"
+      },
+      {
+       "label": "MOURN",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "MOURN"
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "A"
+      },
+      {
+       "label": "POET",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "POET"
+      },
+      {
+       "label": "AND",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "AND"
+      },
+      {
+       "label": "SCHOLAR",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "SCHOLAR"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "The"
+      },
+      {
+       "label": "rain",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "rain"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "has"
+      },
+      {
+       "label": "beaten",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "beaten"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "me"
+      },
+      {
+       "label": "And",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "And"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "the"
+      },
+      {
+       "label": "sharp",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "sharp"
+      },
+      {
+       "label": "stumps",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "stumps"
+      },
+      {
+       "label": "cut",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "cut"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "as"
+      },
+      {
+       "label": "keen",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "keen"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "as"
+      },
+      {
+       "label": "knives",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "knives"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "I"
+      },
+      {
+       "label": "shall",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "shall"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "go"
+      },
+      {
+       "label": "beyond",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "beyond"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "and"
+      },
+      {
+       "label": "rest",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "rest"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": ","
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "have"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "no"
+      },
+      {
+       "label": "kin",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "kin"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "and"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "no"
+      },
+      {
+       "label": "brother",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "brother"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": ","
+      },
+      {
+       "label": "Death",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "Death"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "has"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "made"
+      },
+      {
+       "label": "war",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "war"
+      },
+      {
+       "label": "upon",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "upon"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "our"
+      },
+      {
+       "label": "house",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "house"
+      },
+      {
+       "label": "DAKAR",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "DAKAR"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": ","
+      },
+      {
+       "label": "Senegal",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Senegal"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "-"
+      },
+      {
+       "label": "Ghanaian",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "schoolchildren",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "schoolchildren"
+      },
+      {
+       "label": "memorized",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "memorized"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "those"
+      },
+      {
+       "label": "lines",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "lines"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "the"
+      },
+      {
+       "label": "1960s",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "1960s"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "by"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "of"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "their"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "country"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "most",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "most"
+      },
+      {
+       "label": "famous",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "famous"
+      },
+      {
+       "label": "poets",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "poets"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": ","
+      },
+      {
+       "label": "Kofi",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Kofi"
+      },
+      {
+       "label": "Awoonor",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": ";"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "their"
+      },
+      {
+       "label": "sorrow",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "sorrow"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "over"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "the"
+      },
+      {
+       "label": "newly",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "newly"
+      },
+      {
+       "label": "liberated",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "liberated"
+      },
+      {
+       "label": "continent",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "continent"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "travails",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "travails"
+      },
+      {
+       "label": "foreshadowed",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "foreshadowed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "a"
+      },
+      {
+       "label": "terrible",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "terrible"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "way"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "the"
+      },
+      {
+       "label": "violence",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "violence"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "that"
+      },
+      {
+       "label": "took",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "took"
+      },
+      {
+       "label": "Awoonor",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "life",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "life"
+      },
+      {
+       "label": "Saturday",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "Saturday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "."
+      },
+      {
+       "label": "Awoonor",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "-"
+      },
+      {
+       "label": "poet",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "poet"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": ","
+      },
+      {
+       "label": "diplomat",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "diplomat"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": ","
+      },
+      {
+       "label": "statesman",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "statesman"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": ","
+      },
+      {
+       "label": "scholar",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "scholar"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "and"
+      },
+      {
+       "label": "cultural",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "cultural"
+      },
+      {
+       "label": "icon",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "icon"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "in"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "his"
+      },
+      {
+       "label": "native",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "native"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "-"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "was"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "killed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "the"
+      },
+      {
+       "label": "terrorist",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "terrorist"
+      },
+      {
+       "label": "attack",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "attack"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "by"
+      },
+      {
+       "label": "Somali",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "Somali"
+      },
+      {
+       "label": "militants",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "militants"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "the"
+      },
+      {
+       "label": "Westgate",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Westgate"
+      },
+      {
+       "label": "shopping",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "shopping"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "mall"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "in"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": ","
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Kenya"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "."
+      },
+      {
+       "label": "His",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "His"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "death"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "at"
+      },
+      {
+       "label": "78",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "78"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "has"
+      },
+      {
+       "label": "shocked",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "shocked"
+      },
+      {
+       "label": "citizens",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "citizens"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "in"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Ghana"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "the"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "West"
+      },
+      {
+       "label": "African",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "African"
+      },
+      {
+       "label": "nation",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "nation"
+      },
+      {
+       "label": "whose",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "whose"
+      },
+      {
+       "label": "difficult",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "difficult"
+      },
+      {
+       "label": "beginnings",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "beginnings"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "and"
+      },
+      {
+       "label": "subsequent",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "subsequent"
+      },
+      {
+       "label": "steadying",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "steadying"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "he"
+      },
+      {
+       "label": "accompanied",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "accompanied"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "and"
+      },
+      {
+       "label": "chronicled",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "chronicled"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "."
+      },
+      {
+       "label": "Awoonor",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "published",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "published"
+      },
+      {
+       "label": "novels",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "novels"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "and"
+      },
+      {
+       "label": "books",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "books"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "of"
+      },
+      {
+       "label": "verse",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "verse"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "including"
+      },
+      {
+       "label": "poems",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "poems"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "like"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "Songs",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "Songs"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "of"
+      },
+      {
+       "label": "Sorrow",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Sorrow"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "that"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "were"
+      },
+      {
+       "label": "required",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "required"
+      },
+      {
+       "label": "reading",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "reading"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "for"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "several"
+      },
+      {
+       "label": "generations",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "generations"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "of"
+      },
+      {
+       "label": "Ghanaian",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "schoolchildren",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "schoolchildren"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "He"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "was"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "his"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "country"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "ambassador",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "ambassador"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "United"
+      },
+      {
+       "label": "Nations",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "Nations"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "the"
+      },
+      {
+       "label": "early",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "early"
+      },
+      {
+       "label": "1990s",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "1990s"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": ","
+      },
+      {
+       "label": "taught",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "taught"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "at"
+      },
+      {
+       "label": "universities",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "universities"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "United"
+      },
+      {
+       "label": "States",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "States"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "and"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Ghana"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": ","
+      },
+      {
+       "label": "knew",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "knew"
+      },
+      {
+       "label": "W.E.B.",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "W.E.B."
+      },
+      {
+       "label": "DuBois",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "DuBois"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "and"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "was"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "president"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "of"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "Council",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "Council"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "of"
+      },
+      {
+       "label": "State",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "State"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "a"
+      },
+      {
+       "label": "governmental",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "governmental"
+      },
+      {
+       "label": "advisory",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "advisory"
+      },
+      {
+       "label": "body",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "body"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "."
+      },
+      {
+       "label": "News",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "News"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "reports"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "in"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "said"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "he"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "been"
+      },
+      {
+       "label": "invited",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "invited"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "a"
+      },
+      {
+       "label": "conference",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "conference"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "in"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "and"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "had"
+      },
+      {
+       "label": "gone",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "gone"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "the"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "mall"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "have"
+      },
+      {
+       "label": "breakfast",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "breakfast"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "with"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "his"
+      },
+      {
+       "label": "son",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "son"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "who"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "was"
+      },
+      {
+       "label": "wounded",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "wounded"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "the"
+      },
+      {
+       "label": "attack",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "attack"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "He"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "had"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "a"
+      },
+      {
+       "label": "huge",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "huge"
+      },
+      {
+       "label": "influence",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "influence"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "on"
+      },
+      {
+       "label": "Ghanaian",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "poetry",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "poetry"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "and"
+      },
+      {
+       "label": "Ghanaian",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "academia",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "academia"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "said"
+      },
+      {
+       "label": "Akwasi",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "Akwasi"
+      },
+      {
+       "label": "Aidoo",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "Aidoo"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "a"
+      },
+      {
+       "label": "Ghanaian",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "who"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "is"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "executive"
+      },
+      {
+       "label": "director",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "director"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "of"
+      },
+      {
+       "label": "TrustAfrica",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "TrustAfrica"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "a"
+      },
+      {
+       "label": "pan",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "pan"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "-"
+      },
+      {
+       "label": "African",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "African"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "good"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "-"
+      },
+      {
+       "label": "governance",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "governance"
+      },
+      {
+       "label": "foundation",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "foundation"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "who"
+      },
+      {
+       "label": "knew",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "knew"
+      },
+      {
+       "label": "Awoonor",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "for"
+      },
+      {
+       "label": "nearly",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "nearly"
+      },
+      {
+       "label": "40",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "40"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "years"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "He"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "was"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "first"
+      },
+      {
+       "label": "poets",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "poets"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "after"
+      },
+      {
+       "label": "Ghanaian",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "Ghanaian"
+      },
+      {
+       "label": "independence",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "independence"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Because",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "Because"
+      },
+      {
+       "label": "Awoonor",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "was"
+      },
+      {
+       "label": "imprisoned",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "imprisoned"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "for"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "his"
+      },
+      {
+       "label": "activism",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "activism"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "during"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "a"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "time"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "of"
+      },
+      {
+       "label": "repression",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "repression"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "the"
+      },
+      {
+       "label": "mid",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "mid"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "-"
+      },
+      {
+       "label": "1970s",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "1970s"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": ","
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "we"
+      },
+      {
+       "label": "saw",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "saw"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "him"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "more"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "as"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "an"
+      },
+      {
+       "label": "organic",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "organic"
+      },
+      {
+       "label": "intellectual",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "intellectual"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "as"
+      },
+      {
+       "label": "somebody",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "somebody"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "who"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "was"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "not"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "just"
+      },
+      {
+       "label": "confined",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "confined"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "to"
+      },
+      {
+       "label": "academia",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "academia"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": ","
+      },
+      {
+       "label": "somebody",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "somebody"
+      },
+      {
+       "label": "interested",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "interested"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "the"
+      },
+      {
+       "label": "broader",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "broader"
+      },
+      {
+       "label": "economic",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "economic"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "and"
+      },
+      {
+       "label": "social",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "social"
+      },
+      {
+       "label": "struggle",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "struggle"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Aidoo",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "Aidoo"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "."
+      },
+      {
+       "label": "His",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "His"
+      },
+      {
+       "label": "poetry",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "poetry"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "was"
+      },
+      {
+       "label": "heavily",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "heavily"
+      },
+      {
+       "label": "influenced",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "influenced"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "the"
+      },
+      {
+       "label": "funeral",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "funeral"
+      },
+      {
+       "label": "dirges",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "dirges"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "of"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "his"
+      },
+      {
+       "label": "native",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "native"
+      },
+      {
+       "label": "Ewe",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "Ewe"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "people"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": ","
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "of"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "smaller",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "smaller"
+      },
+      {
+       "label": "ethnic",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "ethnic"
+      },
+      {
+       "label": "minorities",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "minorities"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": ";"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "his"
+      },
+      {
+       "label": "grandmother",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "grandmother"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "was"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "an"
+      },
+      {
+       "label": "Ewe",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "Ewe"
+      },
+      {
+       "label": "dirge",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "dirge"
+      },
+      {
+       "label": "singer",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "singer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "the"
+      },
+      {
+       "label": "Poetry",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "Poetry"
+      },
+      {
+       "label": "Foundation",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Foundation"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "The"
+      },
+      {
+       "label": "early",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "early"
+      },
+      {
+       "label": "poetry",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "poetry"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "that"
+      },
+      {
+       "label": "gained",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "gained"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "him"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "his"
+      },
+      {
+       "label": "reputation",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "reputation"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "the"
+      },
+      {
+       "label": "1960s",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "1960s"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "in"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "reflected",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "reflected"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "the"
+      },
+      {
+       "label": "challenges",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "challenges"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "that"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "and"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "Africa"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "were"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "going"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "through"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "during"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "the"
+      },
+      {
+       "label": "postcolonial",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "postcolonial"
+      },
+      {
+       "label": "period",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "period"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Aidoo",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "Aidoo"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "He"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "was"
+      },
+      {
+       "label": "constantly",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "constantly"
+      },
+      {
+       "label": "emphasizing",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "emphasizing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "the"
+      },
+      {
+       "label": "pain",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "pain"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "the"
+      },
+      {
+       "label": "pain",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "pain"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "and"
+      },
+      {
+       "label": "suffering",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "suffering"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "of"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "our"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "people"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "Songs",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "Songs"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "of"
+      },
+      {
+       "label": "Sorrow",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "Sorrow"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "perhaps",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "perhaps"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "his"
+      },
+      {
+       "label": "best",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "best"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "-"
+      },
+      {
+       "label": "known",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "known"
+      },
+      {
+       "label": "poem",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "poem"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "is"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "an"
+      },
+      {
+       "label": "extended",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "extended"
+      },
+      {
+       "label": "lament",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "lament"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "a"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "world"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "of"
+      },
+      {
+       "label": "African",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "African"
+      },
+      {
+       "label": "difficulty",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "difficulty"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "and"
+      },
+      {
+       "label": "hardship",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "hardship"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": ","
+      },
+      {
+       "label": "replete",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "replete"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "with"
+      },
+      {
+       "label": "foreboding",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "foreboding"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "of"
+      },
+      {
+       "label": "latent",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "latent"
+      },
+      {
+       "label": "chronic",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "chronic"
+      },
+      {
+       "label": "violence",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "violence"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "the"
+      },
+      {
+       "label": "sort",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "sort"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "that"
+      },
+      {
+       "label": "erupted",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "erupted"
+      },
+      {
+       "label": "Saturday",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "Saturday"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "in"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "A"
+      },
+      {
+       "label": "pan",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "pan"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "-"
+      },
+      {
+       "label": "Africanist",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Africanist"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "and"
+      },
+      {
+       "label": "admirer",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "admirer"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "of"
+      },
+      {
+       "label": "Kwame",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "Kwame"
+      },
+      {
+       "label": "Nkrumah",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "Nkrumah"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "the"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "president"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "who"
+      },
+      {
+       "label": "led",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "led"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "Ghana"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "to"
+      },
+      {
+       "label": "independence",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "independence"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "and"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "was"
+      },
+      {
+       "label": "overthrown",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "overthrown"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "a"
+      },
+      {
+       "label": "coup",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "coup"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": ","
+      },
+      {
+       "label": "Awoonor",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "was"
+      },
+      {
+       "label": "pained",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "pained"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "the"
+      },
+      {
+       "label": "continent",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "continent"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "early",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "early"
+      },
+      {
+       "label": "travails",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "travails"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "Funeral",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "Funeral"
+      },
+      {
+       "label": "dirges",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "dirges"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "-"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "he"
+      },
+      {
+       "label": "used",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "used"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "that"
+      },
+      {
+       "label": "form",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "form"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "to"
+      },
+      {
+       "label": "lament",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "lament"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "the"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "state"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "of"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "Africa"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "the"
+      },
+      {
+       "label": "oppression",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "oppression"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "said"
+      },
+      {
+       "label": "Esi",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "Esi"
+      },
+      {
+       "label": "Sutherland",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "Sutherland"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "-"
+      },
+      {
+       "label": "Addy",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "Addy"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "an"
+      },
+      {
+       "label": "associate",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "associate"
+      },
+      {
+       "label": "professor",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "professor"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "the"
+      },
+      {
+       "label": "University",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "University"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "of"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "Ghana"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "It"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "a"
+      },
+      {
+       "label": "convenient",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "convenient"
+      },
+      {
+       "label": "form",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "form"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "to"
+      },
+      {
+       "label": "talk",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "talk"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "about"
+      },
+      {
+       "label": "oppression",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "oppression"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Public",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "Public"
+      },
+      {
+       "label": "figures",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "figures"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "in"
+      },
+      {
+       "label": "Ghana",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "Ghana"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "including"
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "President"
+      },
+      {
+       "label": "John",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "John"
+      },
+      {
+       "label": "Dramani",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "Dramani"
+      },
+      {
+       "label": "Mahama",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "Mahama"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": ","
+      },
+      {
+       "label": "expressed",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "expressed"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "their"
+      },
+      {
+       "label": "sorrow",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "sorrow"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "at"
+      },
+      {
+       "label": "Awoonor",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "Awoonor"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "death"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "I"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "think"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "we"
+      },
+      {
+       "label": "\u2019re",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "\u2019re"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "all"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "in"
+      },
+      {
+       "label": "shock",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "shock"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Sutherland",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "Sutherland"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "-"
+      },
+      {
+       "label": "Addy",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "Addy"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Ghana",
+       "score": 0.8693745124096414,
+       "start": 136,
+       "end": 137,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8693745124096414,
+        "Ghana_national_football_team": 0.1026739208436784,
+        "Ghana_women's_national_football_team": 0.005052822722609094,
+        "Ghana_Empire": 0.005195596043886312,
+        "Ghana_national_cricket_team": 0.004713314004093254,
+        "First_Capital_Plus_Premier_League": 0.004191063417147495,
+        "Kofi_Annan": 0.002271791687725578,
+        "Ghana_Football_Association": 0.0020759436529373446,
+        "Ghanaian_FA_Cup": 0.0019584369994843152,
+        "Ghana_Armed_Forces": 0.0012925731879828077,
+        "Parliament_of_Ghana": 0.0012000250308140947,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.9350624211982278,
+       "start": 424,
+       "end": 425,
+       "tokens": "Africa",
+       "labelScoreMap": {
+        "Africa": 0.9350624211982278,
+        "Africa_(Roman_province)": 0.04119521710723933,
+        "Confederation_of_African_Football": 0.004361831820888482,
+        "Mediterranean_and_Middle_East_theatre_of_World_War_II": 0.0030995339995026874,
+        "2010_FIFA_World_Cup_qualification_(CAF)": 0.0026881577276802464,
+        "Africa_(Petrarch)": 0.0025196432726016954,
+        "United_States_Army_Africa": 0.0023912567882230077,
+        "Big_Brother_Africa": 0.0019178257040932914,
+        "United_States_Africa_Command": 0.001749366751068197,
+        "African_Union": 0.0022302927030968013,
+        "Nickelodeon_(Africa)": 0.001484503556505236,
+        "Disney_Channel_(Southern_Africa)": 0.0012999493708728978,
+        "<unk_wid>": 4.759215385454091e-40
+       }
+      },
+      {
+       "label": "West_Africa",
+       "score": 0.9565046960831445,
+       "start": 139,
+       "end": 141,
+       "tokens": "West African",
+       "labelScoreMap": {
+        "West_Africa": 0.9565046960831445,
+        "Black_people": 0.03589383495954632,
+        "West_African_giraffe": 0.005279686886761214,
+        "West_African_Vodun": 0.0023217820705480623,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.7072850232883606,
+       "start": 46,
+       "end": 47,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "Ghana": 0.7072850232883606,
+        "Ghanaians_in_the_United_Kingdom": 0.027320864432358323,
+        "Ghana_national_football_team": 0.014358605409355522,
+        "Ghanaian_Americans": 0.01431055422947744,
+        "Ghana_Empire": 0.01585075191693041,
+        "Ghana_Navy": 0.001300961745964613,
+        "Ghanaian_people": 0.21957323897755301,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Awoonor",
+       "labelScoreMap": {
+        "Kofi_Awoonor": 1.0,
+        "<unk_wid>": 1.401298464324817e-45
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 120,
+       "end": 123,
+       "tokens": "Westgate shopping mall",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Awoonor",
+       "labelScoreMap": {
+        "Kofi_Awoonor": 1.0,
+        "<unk_wid>": 2.6415559245025337e-35
+       }
+      },
+      {
+       "label": "Council_of_State_of_Luxembourg",
+       "score": 0.3136863290178544,
+       "start": 215,
+       "end": 218,
+       "tokens": "Council of State",
+       "labelScoreMap": {
+        "Council_of_State_(Belgium)": 0.06255942812429124,
+        "English_Council_of_State": 0.08626738686875718,
+        "Conseil_d'\u00c9tat_(France)": 0.05650811924015644,
+        "Council_of_State_(Cuba)": 0.05717291690923352,
+        "Council_of_State_(Netherlands)": 0.17447920298467565,
+        "Council_of_State_(Greece)": 0.047151417296426114,
+        "Council_of_State_(Ireland)": 0.04428088399183112,
+        "Danish_Council_of_State": 0.03182673281215776,
+        "Portuguese_Council_of_State": 0.027649538042727295,
+        "Council_of_State_of_Luxembourg": 0.3136863290178544,
+        "Turkish_Council_of_State": 0.02541244103196787,
+        "Cabinet_of_Finland": 0.019596199624642218,
+        "Polish_Council_of_State": 0.011912769635802237,
+        "Council_of_State_(Kingdom_of_Poland)": 0.0041355728055163235,
+        "Privy_council": 0.003423207622780213,
+        "State_Council_of_East_Germany": 0.0037002318644081904,
+        "Italian_Council_of_State": 0.005185743503155385,
+        "Government_of_Finland": 0.0027150228521028805,
+        "Rajya_Sabha": 0.0023516870203967085,
+        "North_Carolina_Council_of_State_election,_2008": 0.0021576892086528103,
+        "Spanish_Council_of_State": 0.016568825677672542,
+        "Mary_McAleese": 0.0012586538647919095,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.9367585162667975,
+       "start": 543,
+       "end": 544,
+       "tokens": "Africa",
+       "labelScoreMap": {
+        "Africa": 0.9367585162667975,
+        "Africa_(Roman_province)": 0.03993831009484812,
+        "Confederation_of_African_Football": 0.004350948846032337,
+        "Mediterranean_and_Middle_East_theatre_of_World_War_II": 0.0031032119363126427,
+        "2010_FIFA_World_Cup_qualification_(CAF)": 0.002692697564404312,
+        "Africa_(Petrarch)": 0.002523898734125071,
+        "United_States_Army_Africa": 0.002395295412100289,
+        "Big_Brother_Africa": 0.001921056432386651,
+        "United_States_Africa_Command": 0.0017522574109555967,
+        "African_Union": 0.0017746516723264197,
+        "Nickelodeon_(Africa)": 0.0014870107557721775,
+        "Disney_Channel_(Southern_Africa)": 0.0013021448739388426,
+        "<unk_wid>": 4.5290612668042284e-41
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8697561025741499,
+       "start": 227,
+       "end": 228,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8697561025741499,
+        "Ghana_national_football_team": 0.10270983794193685,
+        "Ghana_women's_national_football_team": 0.005054628936230811,
+        "Ghana_Empire": 0.00477572457593714,
+        "Ghana_national_cricket_team": 0.004715032347595623,
+        "First_Capital_Plus_Premier_League": 0.0041925913615594845,
+        "Kofi_Annan": 0.0022726199199380698,
+        "Ghana_Football_Association": 0.00207670048439055,
+        "Ghanaian_FA_Cup": 0.001959150991272247,
+        "Ghana_Armed_Forces": 0.0012930444243012059,
+        "Parliament_of_Ghana": 0.0011945664426881663,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.8056365763398735,
+       "start": 475,
+       "end": 476,
+       "tokens": "African",
+       "labelScoreMap": {
+        "Africa": 0.8056365763398735,
+        "African_Americans": 0.07658769344736817,
+        "Black_people": 0.01572196083142268,
+        "African_elephant": 0.014781334900205593,
+        "African_Plate": 0.013643361037613433,
+        "Afro-Brazilians": 0.01249756239212866,
+        "African_theatre_of_World_War_I": 0.008247031164998106,
+        "Africa_(Roman_province)": 0.011078274315433513,
+        "African_diaspora": 0.0062701568029582015,
+        "Afro-Peruvian": 0.004757905272463974,
+        "Africa_Squadron": 0.00367943583375218,
+        "Afro-Jamaican": 0.0035525683415672045,
+        "Confederation_of_African_Football": 0.0034257727025847856,
+        "North_African_Campaign": 0.0028033631209489,
+        "Black_Canadians": 0.002659927580195612,
+        "African_darter": 0.002474116312928725,
+        "Afro-Mexicans": 0.0022213742102510418,
+        "Afro-Cuban": 0.0022220554753427367,
+        "Afro-Guyanese": 0.0020934790918621313,
+        "African-American_Civil_Rights_Movement_(1954\u201368)": 0.00196659486850431,
+        "African_penguin": 0.0019031717352382975,
+        "African_immigration_to_the_United_States": 0.0017762842223577973,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.907699770848194,
+       "start": 126,
+       "end": 127,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "Kenya": 0.907699770848194,
+        "Kenya_national_cricket_team": 0.03763862333044116,
+        "Kenya_national_football_team": 0.019837788366267695,
+        "British_Kenya": 0.004864245592722441,
+        "Kenya_national_rugby_union_team": 0.004850591368000341,
+        "Anglican_Church_of_Kenya": 0.004741902638257475,
+        "United_States_Ambassador_to_Kenya": 0.0041440689536004615,
+        "Indians_in_Kenya": 0.002676656924577505,
+        "Kenya_national_rugby_sevens_team": 0.002160345497862929,
+        "Senate_of_Kenya": 0.0020516567675966184,
+        "Kenya_Football_Federation": 0.0020516567675966705,
+        "Kenyan_Premier_League": 0.001711978797313512,
+        "Kenya_Rugby_Union": 0.001616867595320054,
+        "Kenya_women's_national_volleyball_team": 0.0014945785019185043,
+        "National_Assembly_(Kenya)": 0.0012636006813907055,
+        "HMS_Kenya_(14)": 0.001195667368939986,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.7214340307157434,
+       "start": 140,
+       "end": 141,
+       "tokens": "African",
+       "labelScoreMap": {
+        "Africa": 0.7214340307157434,
+        "African_Americans": 0.07099764277302423,
+        "Black_people": 0.014621994506140854,
+        "African_elephant": 0.013667845634221795,
+        "African_Plate": 0.012612768640616874,
+        "Afro-Brazilians": 0.011556156762639639,
+        "African_theatre_of_World_War_I": 0.007625834882610484,
+        "Africa_(Roman_province)": 0.10822472456838772,
+        "African_diaspora": 0.006419701150130123,
+        "Afro-Peruvian": 0.004399522601233856,
+        "Africa_Squadron": 0.003402287389758653,
+        "Afro-Jamaican": 0.003284976016989546,
+        "Confederation_of_African_Football": 0.003167707650783748,
+        "North_African_Campaign": 0.002602303625311278,
+        "Black_Canadians": 0.0024305157397159723,
+        "African_darter": 0.0022877569042321255,
+        "Afro-Mexicans": 0.002053323835710519,
+        "Afro-Cuban": 0.002054348969314746,
+        "Afro-Guyanese": 0.001935790620598008,
+        "African-American_Civil_Rights_Movement_(1954\u201368)": 0.0018184635232144388,
+        "African_penguin": 0.0017598154800279639,
+        "African_immigration_to_the_United_States": 0.0016424880095938566,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8697316355488312,
+       "start": 562,
+       "end": 563,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8697316355488312,
+        "Ghana_national_football_team": 0.10271403081508985,
+        "Ghana_women's_national_football_team": 0.005054499856833953,
+        "Ghana_Empire": 0.004767164570496953,
+        "Ghana_national_cricket_team": 0.004714922735134896,
+        "First_Capital_Plus_Premier_League": 0.004192498209115032,
+        "Kofi_Annan": 0.002272567108671931,
+        "Ghana_Football_Association": 0.002076652370146578,
+        "Ghanaian_FA_Cup": 0.0019591054460149308,
+        "Ghana_Armed_Forces": 0.001293014365234714,
+        "Parliament_of_Ghana": 0.0012239089744303044,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9727556367914418,
+       "start": 200,
+       "end": 202,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "United_States": 0.9727556367914418,
+        "United_States_men's_national_soccer_team": 0.011235424235033632,
+        "United_States_men's_national_ice_hockey_team": 0.0032584322500429324,
+        "United_States_women's_national_soccer_team": 0.0022539681089169712,
+        "United_States_national_cricket_team": 0.00198679717762338,
+        "United_States_men's_national_basketball_team": 0.0019522229237005945,
+        "United_States_Armed_Forces": 0.0019501980382471966,
+        "United_States_national_rugby_union_team": 0.001707180587064737,
+        "United_States_Davis_Cup_team": 0.001620258566154384,
+        "United_States_Soccer_Federation": 0.0012798813217743616,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Poetry_Foundation",
+       "score": 0.9958506177249021,
+       "start": 401,
+       "end": 403,
+       "tokens": "Poetry Foundation",
+       "labelScoreMap": {
+        "Poetry_Foundation": 0.9958506177249021,
+        "Poetry_(magazine)": 0.004149382275097858,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8514636636645295,
+       "start": 422,
+       "end": 423,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8514636636645295,
+        "Ghana_national_football_team": 0.10117841832080877,
+        "Ghana_women's_national_football_team": 0.004968629540511473,
+        "Ghana_Empire": 0.02496898977566976,
+        "Ghana_national_cricket_team": 0.004632679630077263,
+        "First_Capital_Plus_Premier_League": 0.0041193639151388345,
+        "Kofi_Annan": 0.002232926358729293,
+        "Ghana_Football_Association": 0.002040428850269207,
+        "Ghanaian_FA_Cup": 0.0019249324756234008,
+        "Ghana_Armed_Forces": 0.0012704601207116266,
+        "Parliament_of_Ghana": 0.0011995073479309404,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8676573659844444,
+       "start": 510,
+       "end": 511,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8676573659844444,
+        "Ghana_national_football_team": 0.10367902309331199,
+        "Ghana_women's_national_football_team": 0.0050626644341785825,
+        "Ghana_Empire": 0.0054177809962231375,
+        "Ghana_national_cricket_team": 0.004705698545902878,
+        "First_Capital_Plus_Premier_League": 0.004184486101632861,
+        "Kofi_Annan": 0.002268121921028027,
+        "Ghana_Football_Association": 0.002072589541627751,
+        "Ghanaian_FA_Cup": 0.001955272688032256,
+        "Ghana_Armed_Forces": 0.0012904847368428074,
+        "Parliament_of_Ghana": 0.0017065119567752339,
+        "<unk_wid>": 3.467901562837027e-42
+       }
+      },
+      {
+       "label": "University_of_Ghana",
+       "score": 1.0,
+       "start": 560,
+       "end": 563,
+       "tokens": "University of Ghana",
+       "labelScoreMap": {
+        "University_of_Ghana": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Somalis",
+       "score": 0.5338600970104413,
+       "start": 116,
+       "end": 117,
+       "tokens": "Somali",
+       "labelScoreMap": {
+        "Somali_language": 0.2527391033640794,
+        "Somalia": 0.1607750415370735,
+        "Somalis": 0.5338600970104413,
+        "Somali_Region": 0.02323577530261668,
+        "Somali_Canadians": 0.016823962977931862,
+        "Somali_Plate": 0.007774361943552655,
+        "Somali_Americans": 0.0021296149685223597,
+        "Somalis_in_the_United_Kingdom": 0.0017036890942941955,
+        "Puntland": 0.0009583538014878804,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ama_Ata_Aidoo",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "Aidoo",
+       "labelScoreMap": {
+        "Ama_Ata_Aidoo": 1.0,
+        "<unk_wid>": 3.377209906194632e-35
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8610420152523197,
+       "start": 107,
+       "end": 108,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8610420152523197,
+        "Ghana_national_football_team": 0.10200000418795274,
+        "Ghana_women's_national_football_team": 0.0050142228416558115,
+        "Ghana_Empire": 0.01434310447855257,
+        "Ghana_national_cricket_team": 0.004675803349521438,
+        "First_Capital_Plus_Premier_League": 0.00415770988279053,
+        "Kofi_Annan": 0.002253711757120602,
+        "Ghana_Football_Association": 0.002059422367849262,
+        "Ghanaian_FA_Cup": 0.0019428508845424836,
+        "Ghana_Armed_Forces": 0.0012822863145043404,
+        "Parliament_of_Ghana": 0.0012288686831904072,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8697599628940365,
+       "start": 579,
+       "end": 580,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8697599628940365,
+        "Ghana_national_football_team": 0.10270519731362317,
+        "Ghana_women's_national_football_team": 0.005054643327354402,
+        "Ghana_Empire": 0.004777527593057696,
+        "Ghana_national_cricket_team": 0.004715049225707565,
+        "First_Capital_Plus_Premier_League": 0.00419260636985769,
+        "Kofi_Annan": 0.0022726280550965858,
+        "Ghana_Football_Association": 0.002076707918227838,
+        "Ghanaian_FA_Cup": 0.001959158004324821,
+        "Ghana_Armed_Forces": 0.0012930490529329864,
+        "Parliament_of_Ghana": 0.0011934702457808764,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "John_Dramani_Mahama",
+       "score": 1.0,
+       "start": 583,
+       "end": 586,
+       "tokens": "John Dramani Mahama",
+       "labelScoreMap": {
+        "John_Dramani_Mahama": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Senegal",
+       "score": 0.9070723709049872,
+       "start": 44,
+       "end": 45,
+       "tokens": "Senegal",
+       "labelScoreMap": {
+        "Senegal": 0.9070723709049872,
+        "Senegal_national_football_team": 0.060531196596546454,
+        "Senegal_River": 0.015334293520247766,
+        "F\u00e9d\u00e9ration_S\u00e9n\u00e9galaise_de_Football": 0.0034385117482956125,
+        "Regions_of_Senegal": 0.0032681374452101157,
+        "Senegal_national_basketball_team": 0.00309775776986312,
+        "Senegal_national_beach_soccer_team": 0.0023697785224194557,
+        "Senegal_women's_national_basketball_team": 0.001672785682137799,
+        "Prime_Minister_of_Senegal": 0.0016573010657277498,
+        "Saint-Louis,_Senegal": 0.001557866744564501,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "Awoonor",
+       "labelScoreMap": {
+        "Kofi_Awoonor": 1.0,
+        "<unk_wid>": 1.1317663277755844e-37
+       }
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.9859284903653402,
+       "start": 237,
+       "end": 238,
+       "tokens": "Nairobi",
+       "labelScoreMap": {
+        "Nairobi": 0.9859284903653402,
+        "United_Nations_Office_at_Nairobi": 0.004041153779705718,
+        "Gymkhana_Club_Ground": 0.0030308653276627214,
+        "1998_United_States_embassy_bombings": 0.002282499129524983,
+        "Nairobi_National_Park": 0.0019457362879800174,
+        "Kibera": 0.0014616241521784661,
+        "Roman_Catholic_Archdiocese_of_Nairobi": 0.001309630957607836,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Pan-Africanism",
+       "score": 0.6478030724637758,
+       "start": 499,
+       "end": 500,
+       "tokens": "Africanist",
+       "labelScoreMap": {
+        "Pan-Africanism": 0.6478030724637758,
+        "Spanish_Empire": 0.35219692753622434,
+        "<unk_wid>": 1.1403491929752768e-42
+       }
+      },
+      {
+       "label": "Kwame_Nkrumah",
+       "score": 1.0,
+       "start": 503,
+       "end": 505,
+       "tokens": "Kwame Nkrumah",
+       "labelScoreMap": {
+        "Kwame_Nkrumah": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.985925078803037,
+       "start": 124,
+       "end": 125,
+       "tokens": "Nairobi",
+       "labelScoreMap": {
+        "Nairobi": 0.985925078803037,
+        "United_Nations_Office_at_Nairobi": 0.004041140029037166,
+        "Gymkhana_Club_Ground": 0.003030854992141347,
+        "1998_United_States_embassy_bombings": 0.002282491465356619,
+        "Nairobi_National_Park": 0.001945729659699173,
+        "Kibera": 0.0014650785591020772,
+        "Roman_Catholic_Archdiocese_of_Nairobi": 0.0013096264916264422,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.86939077678408,
+       "start": 213,
+       "end": 214,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.86939077678408,
+        "Ghana_national_football_team": 0.10268238681870501,
+        "Ghana_women's_national_football_team": 0.005052853529048665,
+        "Ghana_Empire": 0.0047665282099188305,
+        "Ghana_national_cricket_team": 0.004713386623016161,
+        "First_Capital_Plus_Premier_League": 0.004191143998992256,
+        "Kofi_Annan": 0.0022718266902216565,
+        "Ghana_Football_Association": 0.002075975639156621,
+        "Ghanaian_FA_Cup": 0.0019584671734950484,
+        "Ghana_Armed_Forces": 0.0012925931043305252,
+        "Parliament_of_Ghana": 0.0016040614290350089,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.9859266483757462,
+       "start": 494,
+       "end": 495,
+       "tokens": "Nairobi",
+       "labelScoreMap": {
+        "Nairobi": 0.9859266483757462,
+        "United_Nations_Office_at_Nairobi": 0.00404114637249278,
+        "Gymkhana_Club_Ground": 0.0030308597472617606,
+        "1998_United_States_embassy_bombings": 0.002282495033107493,
+        "Nairobi_National_Park": 0.0019457327133312677,
+        "Kibera": 0.0014634892117502563,
+        "Roman_Catholic_Archdiocese_of_Nairobi": 0.0013096285463104547,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9937519055437314,
+       "start": 188,
+       "end": 190,
+       "tokens": "United Nations",
+       "labelScoreMap": {
+        "United_Nations": 0.9937519055437314,
+        "United_Nations_(band)": 0.006248094456268667,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8693676757615273,
+       "start": 416,
+       "end": 417,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8693676757615273,
+        "Ghana_national_football_team": 0.10267337587605103,
+        "Ghana_women's_national_football_team": 0.005052818615819418,
+        "Ghana_Empire": 0.005206055297092056,
+        "Ghana_national_cricket_team": 0.004713283237973809,
+        "First_Capital_Plus_Premier_League": 0.004191036060866497,
+        "Kofi_Annan": 0.002271776858627345,
+        "Ghana_Football_Association": 0.0020759301022317983,
+        "Ghanaian_FA_Cup": 0.0019584242158024695,
+        "Ghana_Armed_Forces": 0.0012925647507220795,
+        "Parliament_of_Ghana": 0.0011970592232863075,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8697481681486441,
+       "start": 203,
+       "end": 204,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8697481681486441,
+        "Ghana_national_football_team": 0.10271384496443525,
+        "Ghana_women's_national_football_team": 0.005054583853610321,
+        "Ghana_Empire": 0.004781735122029757,
+        "Ghana_national_cricket_team": 0.004714997107963332,
+        "First_Capital_Plus_Premier_League": 0.004192560027731188,
+        "Kofi_Annan": 0.0022726029346279396,
+        "Ghana_Football_Association": 0.0020766849633599336,
+        "Ghanaian_FA_Cup": 0.001959136348793586,
+        "Ghana_Armed_Forces": 0.00129303476022964,
+        "Parliament_of_Ghana": 0.0011926517685748568,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Awoonor",
+       "labelScoreMap": {
+        "Kofi_Awoonor": 1.0,
+        "<unk_wid>": 9.514764544800089e-32
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Kofi Awoonor",
+       "labelScoreMap": {
+        "Kofi_Awoonor": 1.0,
+        "<unk_wid>": 1.8638856535941566e-34
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 273,
+       "end": 275,
+       "tokens": "Akwasi Aidoo",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.7599023826285002,
+       "start": 177,
+       "end": 178,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "Ghana": 0.7599023826285002,
+        "Ghanaians_in_the_United_Kingdom": 0.029118672126441595,
+        "Ghana_national_football_team": 0.015262429335056353,
+        "Ghanaian_Americans": 0.015252552626883067,
+        "Ghana_Empire": 0.0071763621759436055,
+        "Ghana_Navy": 0.0013865981111883417,
+        "Ghanaian_people": 0.17190100299598685,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Dakar",
+       "score": 0.9504191515923613,
+       "start": 42,
+       "end": 43,
+       "tokens": "DAKAR",
+       "labelScoreMap": {
+        "Dakar": 0.9504191515923613,
+        "Dakar_Rally": 0.022148439110780925,
+        "Dakar_Region": 0.011878310282826826,
+        "Battle_of_Dakar": 0.007299651578725396,
+        "Roman_Catholic_Archdiocese_of_Dakar": 0.0032212454806187854,
+        "INS_Dakar": 0.003019917024392576,
+        "L\u00e9opold_S\u00e9dar_Senghor_International_Airport": 0.0020132849302942077,
+        "<unk_wid>": 5.9454234395172566e-36
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "Awoonor",
+       "labelScoreMap": {
+        "Kofi_Awoonor": 1.0,
+        "<unk_wid>": 2.1257515862350434e-34
+       }
+      },
+      {
+       "label": "W._E._B._Du_Bois",
+       "score": 1.0,
+       "start": 206,
+       "end": 208,
+       "tokens": "W.E.B. DuBois",
+       "labelScoreMap": {
+        "W._E._B._Du_Bois": 1.0,
+        "<unk_wid>": 8.947402798591103e-40
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.7933880076180561,
+       "start": 288,
+       "end": 289,
+       "tokens": "African",
+       "labelScoreMap": {
+        "Africa": 0.7933880076180561,
+        "African_Americans": 0.07588563838310843,
+        "Black_people": 0.01572571788583872,
+        "African_elephant": 0.014619320691628133,
+        "African_Plate": 0.013490520754537116,
+        "Afro-Brazilians": 0.012360580329849503,
+        "African_theatre_of_World_War_I": 0.008156694277048807,
+        "Africa_(Roman_province)": 0.0249827487126721,
+        "African_diaspora": 0.006070905223666654,
+        "Afro-Peruvian": 0.004705787797616759,
+        "Africa_Squadron": 0.0036391317727854765,
+        "Afro-Jamaican": 0.0035136539705199624,
+        "Confederation_of_African_Football": 0.0033885162830973705,
+        "North_African_Campaign": 0.0028099876069447535,
+        "Black_Canadians": 0.0027570201021928833,
+        "African_darter": 0.002447015164979773,
+        "Afro-Mexicans": 0.0021997791796004515,
+        "Afro-Cuban": 0.0022042213138853102,
+        "Afro-Guyanese": 0.002070549322422027,
+        "African-American_Civil_Rights_Movement_(1954\u201368)": 0.0019450545384889224,
+        "African_penguin": 0.0018823220624687041,
+        "African_immigration_to_the_United_States": 0.0017568270085920256,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8696989463406729,
+       "start": 384,
+       "end": 385,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "Ghana": 0.8696989463406729,
+        "Ghana_national_football_team": 0.1027111871585805,
+        "Ghana_women's_national_football_team": 0.005054355222816049,
+        "Ghana_Empire": 0.004776814459760823,
+        "Ghana_national_cricket_team": 0.004714775470080582,
+        "First_Capital_Plus_Premier_League": 0.004192362986872472,
+        "Kofi_Annan": 0.002272496106383099,
+        "Ghana_Football_Association": 0.0020765873446260425,
+        "Ghanaian_FA_Cup": 0.0019590442556655496,
+        "Ghana_Armed_Forces": 0.0012929739785410156,
+        "Parliament_of_Ghana": 0.0012504566760009254,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8622508523464456,
+       "start": 311,
+       "end": 312,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "Ghana": 0.8622508523464456,
+        "Ghanaians_in_the_United_Kingdom": 0.03261688468469073,
+        "Ghana_national_football_team": 0.017095293082608164,
+        "Ghanaian_Americans": 0.017084917765238263,
+        "Ghana_Empire": 0.0031346887665519574,
+        "Ghana_Navy": 0.0015531770513110281,
+        "Ghanaian_people": 0.06626418630315409,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8178297613116016,
+       "start": 268,
+       "end": 269,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "Ghana": 0.8178297613116016,
+        "Ghanaians_in_the_United_Kingdom": 0.03109849686715162,
+        "Ghana_national_football_team": 0.016291963857957892,
+        "Ghanaian_Americans": 0.01628963261192929,
+        "Ghana_Empire": 0.0031224412708649933,
+        "Ghana_Navy": 0.0014808782741271293,
+        "Ghanaian_people": 0.11388682580636748,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "Awoonor",
+       "labelScoreMap": {
+        "Kofi_Awoonor": 1.0,
+        "<unk_wid>": 1.7235270461963088e-37
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Awoonor",
+       "labelScoreMap": {
+        "Kofi_Awoonor": 1.0,
+        "<unk_wid>": 3.023426718549412e-32
+       }
+      },
+      {
+       "label": "Ama_Ata_Aidoo",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "Aidoo",
+       "labelScoreMap": {
+        "Ama_Ata_Aidoo": 1.0,
+        "<unk_wid>": 1.3323175228224067e-35
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.7544280292293476,
+       "start": 265,
+       "end": 266,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "Ghana": 0.7544280292293476,
+        "Ghanaians_in_the_United_Kingdom": 0.02893143338761037,
+        "Ghana_national_football_team": 0.015156272608771462,
+        "Ghanaian_Americans": 0.01515453058233596,
+        "Ghana_Empire": 0.0028825666419587306,
+        "Ghana_Navy": 0.0013776870005812862,
+        "Ghanaian_people": 0.1820694805493946,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 283,
+       "end": 284,
+       "tokens": "TrustAfrica",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Ghana",
+       "score": 0.8693745124096414,
+       "start": 136,
+       "end": 137,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8693745124096414
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.9350624211982278,
+       "start": 424,
+       "end": 425,
+       "tokens": "Africa",
+       "labelScoreMap": {
+        "6255146|Africa": 0.9350624211982278,
+        "8354636|Africa_(Roman_province)": 0.04119521710723933
+       }
+      },
+      {
+       "label": "West_Africa",
+       "score": 0.9565046960831445,
+       "start": 139,
+       "end": 141,
+       "tokens": "West African",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ghana",
+       "score": 0.7072850232883606,
+       "start": 46,
+       "end": 47,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.7072850232883606
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Awoonor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 120,
+       "end": 123,
+       "tokens": "Westgate shopping mall",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Awoonor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Council_of_State_of_Luxembourg",
+       "score": 0.3136863290178544,
+       "start": 215,
+       "end": 218,
+       "tokens": "Council of State",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Africa",
+       "score": 0.9367585162667975,
+       "start": 543,
+       "end": 544,
+       "tokens": "Africa",
+       "labelScoreMap": {
+        "6255146|Africa": 0.9367585162667975,
+        "8354636|Africa_(Roman_province)": 0.03993831009484812
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8697561025741499,
+       "start": 227,
+       "end": 228,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8697561025741499
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.8056365763398735,
+       "start": 475,
+       "end": 476,
+       "tokens": "African",
+       "labelScoreMap": {
+        "6255146|Africa": 0.8056365763398735,
+        "8354636|Africa_(Roman_province)": 0.011078274315433513
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.907699770848194,
+       "start": 126,
+       "end": 127,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "192950|Kenya": 0.907699770848194
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.7214340307157434,
+       "start": 140,
+       "end": 141,
+       "tokens": "African",
+       "labelScoreMap": {
+        "6255146|Africa": 0.7214340307157434,
+        "8354636|Africa_(Roman_province)": 0.10822472456838772
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8697316355488312,
+       "start": 562,
+       "end": 563,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8697316355488312
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9727556367914418,
+       "start": 200,
+       "end": 202,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9727556367914418
+       }
+      },
+      {
+       "label": "Poetry_Foundation",
+       "score": 0.9958506177249021,
+       "start": 401,
+       "end": 403,
+       "tokens": "Poetry Foundation",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8514636636645295,
+       "start": 422,
+       "end": 423,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8514636636645295
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8676573659844444,
+       "start": 510,
+       "end": 511,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8676573659844444
+       }
+      },
+      {
+       "label": "University_of_Ghana",
+       "score": 1.0,
+       "start": 560,
+       "end": 563,
+       "tokens": "University of Ghana",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Somalis",
+       "score": 0.5338600970104413,
+       "start": 116,
+       "end": 117,
+       "tokens": "Somali",
+       "labelScoreMap": {
+        "51537|Somalia": 0.1607750415370735,
+        "444186|Somali_Region": 0.02323577530261668
+       }
+      },
+      {
+       "label": "Ama_Ata_Aidoo",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "Aidoo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8610420152523197,
+       "start": 107,
+       "end": 108,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8610420152523197
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8697599628940365,
+       "start": 579,
+       "end": 580,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8697599628940365
+       }
+      },
+      {
+       "label": "John_Dramani_Mahama",
+       "score": 1.0,
+       "start": 583,
+       "end": 586,
+       "tokens": "John Dramani Mahama",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Senegal",
+       "score": 0.9070723709049872,
+       "start": 44,
+       "end": 45,
+       "tokens": "Senegal",
+       "labelScoreMap": {
+        "2245662|Senegal": 0.9070723709049872,
+        "8617155|Senegal_River": 0.015334293520247766,
+        "2246452|Saint-Louis,_Senegal": 0.001557866744564501
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "Awoonor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.9859284903653402,
+       "start": 237,
+       "end": 238,
+       "tokens": "Nairobi",
+       "labelScoreMap": {
+        "184745|Nairobi": 0.9859284903653402,
+        "8449726|United_Nations_Office_at_Nairobi": 0.004041153779705718,
+        "184737|Nairobi_National_Park": 0.0019457362879800174,
+        "192495|Kibera": 0.0014616241521784661
+       }
+      },
+      {
+       "label": "Pan-Africanism",
+       "score": 0.6478030724637758,
+       "start": 499,
+       "end": 500,
+       "tokens": "Africanist",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kwame_Nkrumah",
+       "score": 1.0,
+       "start": 503,
+       "end": 505,
+       "tokens": "Kwame Nkrumah",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.985925078803037,
+       "start": 124,
+       "end": 125,
+       "tokens": "Nairobi",
+       "labelScoreMap": {
+        "184745|Nairobi": 0.985925078803037,
+        "8449726|United_Nations_Office_at_Nairobi": 0.004041140029037166,
+        "184737|Nairobi_National_Park": 0.001945729659699173,
+        "192495|Kibera": 0.0014650785591020772
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.86939077678408,
+       "start": 213,
+       "end": 214,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.86939077678408
+       }
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.9859266483757462,
+       "start": 494,
+       "end": 495,
+       "tokens": "Nairobi",
+       "labelScoreMap": {
+        "184745|Nairobi": 0.9859266483757462,
+        "8449726|United_Nations_Office_at_Nairobi": 0.00404114637249278,
+        "184737|Nairobi_National_Park": 0.0019457327133312677,
+        "192495|Kibera": 0.0014634892117502563
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9937519055437314,
+       "start": 188,
+       "end": 190,
+       "tokens": "United Nations",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8693676757615273,
+       "start": 416,
+       "end": 417,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8693676757615273
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8697481681486441,
+       "start": 203,
+       "end": 204,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8697481681486441
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Awoonor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Kofi Awoonor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 273,
+       "end": 275,
+       "tokens": "Akwasi Aidoo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ghana",
+       "score": 0.7599023826285002,
+       "start": 177,
+       "end": 178,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.7599023826285002
+       }
+      },
+      {
+       "label": "Dakar",
+       "score": 0.9504191515923613,
+       "start": 42,
+       "end": 43,
+       "tokens": "DAKAR",
+       "labelScoreMap": {
+        "2253354|Dakar": 0.9504191515923613,
+        "2253350|Dakar_Region": 0.011878310282826826,
+        "2595702|L\u00e9opold_S\u00e9dar_Senghor_International_Airport": 0.0020132849302942077
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "Awoonor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "W._E._B._Du_Bois",
+       "score": 1.0,
+       "start": 206,
+       "end": 208,
+       "tokens": "W.E.B. DuBois",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Africa",
+       "score": 0.7933880076180561,
+       "start": 288,
+       "end": 289,
+       "tokens": "African",
+       "labelScoreMap": {
+        "6255146|Africa": 0.7933880076180561,
+        "8354636|Africa_(Roman_province)": 0.0249827487126721
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8696989463406729,
+       "start": 384,
+       "end": 385,
+       "tokens": "Ghana",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8696989463406729
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8622508523464456,
+       "start": 311,
+       "end": 312,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8622508523464456
+       }
+      },
+      {
+       "label": "Ghana",
+       "score": 0.8178297613116016,
+       "start": 268,
+       "end": 269,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.8178297613116016
+       }
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "Awoonor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kofi_Awoonor",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Awoonor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ama_Ata_Aidoo",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "Aidoo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ghana",
+       "score": 0.7544280292293476,
+       "start": 265,
+       "end": 266,
+       "tokens": "Ghanaian",
+       "labelScoreMap": {
+        "2300660|Ghana": 0.7544280292293476
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 283,
+       "end": 284,
+       "tokens": "TrustAfrica",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

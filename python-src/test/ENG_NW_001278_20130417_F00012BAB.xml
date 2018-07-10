@@ -1,0 +1,3084 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130417_F00012BAB.xml",
+ "text": "2013-04-17T03:53:32\nAustria announces 2 mln euros further funding for Syrian refugees\nAustria announces 2 mln euros further funding for Syrian refugees\nVIENNA, April 16 (Xinhua) -- Austria has increased its funding for the Syrian refugee crisis by 2 million euros, Vice-Chancellor and Foreign Minister Michael Spindelegger said Tuesday.\n\"The already more than two-year-long conflict in Syria continues to take a higher death toll and has destroyed the livelihoods of millions of people,\" he said following cabinet.\nHe added that neighboring countries were under pressure from an increasing number of refugees, something he saw first-hand during a visit to a refugee camp in Lebanon last week, and that led to the decision to increase the funding, the Foreign Ministry stated in a press release.\n1.1 million euros of the total will go to the UN Refugee Agency UNHCR in light of United Nations calls for aid for Syrian refugees in the region, while the remaining 900,000 euros will go to projects run by Austrian non-governmental organizations in neighbouring states.\nThe announcement brings the total amount of Austrian humanitarian funding to the region to around 6 million euros, including 300,000 euros in food aid from the Ministry of Agriculture and Forestry, Environment and Water Management, along with non-monetary services provided by the Interior Ministry. Enditem",
+ "tokens": [
+  "2013-04-17T03:53:32",
+  "Austria",
+  "announces",
+  "2",
+  "mln",
+  "euros",
+  "further",
+  "funding",
+  "for",
+  "Syrian",
+  "refugees",
+  "Austria",
+  "announces",
+  "2",
+  "mln",
+  "euros",
+  "further",
+  "funding",
+  "for",
+  "Syrian",
+  "refugees",
+  "VIENNA",
+  ",",
+  "April",
+  "16",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "Austria",
+  "has",
+  "increased",
+  "its",
+  "funding",
+  "for",
+  "the",
+  "Syrian",
+  "refugee",
+  "crisis",
+  "by",
+  "2",
+  "million",
+  "euros",
+  ",",
+  "Vice",
+  "-",
+  "Chancellor",
+  "and",
+  "Foreign",
+  "Minister",
+  "Michael",
+  "Spindelegger",
+  "said",
+  "Tuesday",
+  ".",
+  "\"",
+  "The",
+  "already",
+  "more",
+  "than",
+  "two",
+  "-",
+  "year",
+  "-",
+  "long",
+  "conflict",
+  "in",
+  "Syria",
+  "continues",
+  "to",
+  "take",
+  "a",
+  "higher",
+  "death",
+  "toll",
+  "and",
+  "has",
+  "destroyed",
+  "the",
+  "livelihoods",
+  "of",
+  "millions",
+  "of",
+  "people",
+  ",",
+  "\"",
+  "he",
+  "said",
+  "following",
+  "cabinet",
+  ".",
+  "He",
+  "added",
+  "that",
+  "neighboring",
+  "countries",
+  "were",
+  "under",
+  "pressure",
+  "from",
+  "an",
+  "increasing",
+  "number",
+  "of",
+  "refugees",
+  ",",
+  "something",
+  "he",
+  "saw",
+  "first",
+  "-",
+  "hand",
+  "during",
+  "a",
+  "visit",
+  "to",
+  "a",
+  "refugee",
+  "camp",
+  "in",
+  "Lebanon",
+  "last",
+  "week",
+  ",",
+  "and",
+  "that",
+  "led",
+  "to",
+  "the",
+  "decision",
+  "to",
+  "increase",
+  "the",
+  "funding",
+  ",",
+  "the",
+  "Foreign",
+  "Ministry",
+  "stated",
+  "in",
+  "a",
+  "press",
+  "release",
+  ".",
+  "1.1",
+  "million",
+  "euros",
+  "of",
+  "the",
+  "total",
+  "will",
+  "go",
+  "to",
+  "the",
+  "UN",
+  "Refugee",
+  "Agency",
+  "UNHCR",
+  "in",
+  "light",
+  "of",
+  "United",
+  "Nations",
+  "calls",
+  "for",
+  "aid",
+  "for",
+  "Syrian",
+  "refugees",
+  "in",
+  "the",
+  "region",
+  ",",
+  "while",
+  "the",
+  "remaining",
+  "900,000",
+  "euros",
+  "will",
+  "go",
+  "to",
+  "projects",
+  "run",
+  "by",
+  "Austrian",
+  "non",
+  "-",
+  "governmental",
+  "organizations",
+  "in",
+  "neighbouring",
+  "states",
+  ".",
+  "The",
+  "announcement",
+  "brings",
+  "the",
+  "total",
+  "amount",
+  "of",
+  "Austrian",
+  "humanitarian",
+  "funding",
+  "to",
+  "the",
+  "region",
+  "to",
+  "around",
+  "6",
+  "million",
+  "euros",
+  ",",
+  "including",
+  "300,000",
+  "euros",
+  "in",
+  "food",
+  "aid",
+  "from",
+  "the",
+  "Ministry",
+  "of",
+  "Agriculture",
+  "and",
+  "Forestry",
+  ",",
+  "Environment",
+  "and",
+  "Water",
+  "Management",
+  ",",
+  "along",
+  "with",
+  "non",
+  "-",
+  "monetary",
+  "services",
+  "provided",
+  "by",
+  "the",
+  "Interior",
+  "Ministry",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   55,
+   91,
+   144,
+   193,
+   243,
+   244
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Michael_Spindelegger",
+       "score": 1.0,
+       "start": 50,
+       "end": 52,
+       "tokens": "Michael Spindelegger"
+      },
+      {
+       "label": "Austria",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "Austrian"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "Vienna",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "VIENNA"
+      },
+      {
+       "label": "Austria",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "Austrian"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "UN"
+      },
+      {
+       "label": "Austria",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Austria"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 161,
+       "end": 163,
+       "tokens": "United Nations"
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 1.0,
+       "start": 154,
+       "end": 157,
+       "tokens": "UN Refugee Agency"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "Federal_Ministry_for_Europe,_Integration_and_Foreign_Affairs",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Foreign"
+      },
+      {
+       "label": "Austria",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Austria"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "Lebanon",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Lebanon"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 240,
+       "end": 242,
+       "tokens": "Interior Ministry"
+      },
+      {
+       "label": "Austria",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Austria"
+      },
+      {
+       "label": "Federal_Ministry_for_Europe,_Integration_and_Foreign_Affairs",
+       "score": 1.0,
+       "start": 136,
+       "end": 138,
+       "tokens": "Foreign Ministry"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Syria"
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "UNHCR"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Syrian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 50,
+       "end": 52,
+       "tokens": "Michael Spindelegger"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "Austrian"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "VIENNA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "Austrian"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "UN"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Austria"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 161,
+       "end": 163,
+       "tokens": "United Nations"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 154,
+       "end": 157,
+       "tokens": "UN Refugee Agency"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Foreign"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Austria"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Lebanon"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 240,
+       "end": 242,
+       "tokens": "Interior Ministry"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Austria"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 136,
+       "end": 138,
+       "tokens": "Foreign Ministry"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Syria"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "UNHCR"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Syrian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-04-17T03:53:32",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-04-17T03:53:32"
+      },
+      {
+       "label": "Austria",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Austria"
+      },
+      {
+       "label": "announces",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "announces"
+      },
+      {
+       "label": "2",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "2"
+      },
+      {
+       "label": "mln",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "mln"
+      },
+      {
+       "label": "euros",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "euros"
+      },
+      {
+       "label": "further",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "further"
+      },
+      {
+       "label": "funding",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "funding"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "for"
+      },
+      {
+       "label": "Syrian",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "refugees",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "refugees"
+      },
+      {
+       "label": "Austria",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Austria"
+      },
+      {
+       "label": "announces",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "announces"
+      },
+      {
+       "label": "2",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "2"
+      },
+      {
+       "label": "mln",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "mln"
+      },
+      {
+       "label": "euros",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "euros"
+      },
+      {
+       "label": "further",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "further"
+      },
+      {
+       "label": "funding",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "funding"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "for"
+      },
+      {
+       "label": "Syrian",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "refugees",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "refugees"
+      },
+      {
+       "label": "VIENNA",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "VIENNA"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": ","
+      },
+      {
+       "label": "April",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "April"
+      },
+      {
+       "label": "16",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "16"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "--"
+      },
+      {
+       "label": "Austria",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Austria"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "has"
+      },
+      {
+       "label": "increased",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "increased"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "its"
+      },
+      {
+       "label": "funding",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "funding"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "the"
+      },
+      {
+       "label": "Syrian",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "refugee",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "refugee"
+      },
+      {
+       "label": "crisis",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "crisis"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "by"
+      },
+      {
+       "label": "2",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "2"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "million"
+      },
+      {
+       "label": "euros",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "euros"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": ","
+      },
+      {
+       "label": "Vice",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Vice"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "-"
+      },
+      {
+       "label": "Chancellor",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Chancellor"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "and"
+      },
+      {
+       "label": "Foreign",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Foreign"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Minister"
+      },
+      {
+       "label": "Michael",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Michael"
+      },
+      {
+       "label": "Spindelegger",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Spindelegger"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "said"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "\""
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "The"
+      },
+      {
+       "label": "already",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "already"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "than"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "two"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "-"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "year"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "-"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "long"
+      },
+      {
+       "label": "conflict",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "conflict"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "in"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Syria"
+      },
+      {
+       "label": "continues",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "continues"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "to"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "take"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "a"
+      },
+      {
+       "label": "higher",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "higher"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "death"
+      },
+      {
+       "label": "toll",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "toll"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "and"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "has"
+      },
+      {
+       "label": "destroyed",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "destroyed"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "the"
+      },
+      {
+       "label": "livelihoods",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "livelihoods"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "of"
+      },
+      {
+       "label": "millions",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "millions"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "of"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "people"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "\""
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "said"
+      },
+      {
+       "label": "following",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "following"
+      },
+      {
+       "label": "cabinet",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "cabinet"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "He"
+      },
+      {
+       "label": "added",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "added"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "that"
+      },
+      {
+       "label": "neighboring",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "neighboring"
+      },
+      {
+       "label": "countries",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "countries"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "were"
+      },
+      {
+       "label": "under",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "under"
+      },
+      {
+       "label": "pressure",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "pressure"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "from"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "an"
+      },
+      {
+       "label": "increasing",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "increasing"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "number"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "of"
+      },
+      {
+       "label": "refugees",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "refugees"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": ","
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "something"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "he"
+      },
+      {
+       "label": "saw",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "saw"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "first"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "-"
+      },
+      {
+       "label": "hand",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "hand"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "during"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "a"
+      },
+      {
+       "label": "visit",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "visit"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "a"
+      },
+      {
+       "label": "refugee",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "refugee"
+      },
+      {
+       "label": "camp",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "camp"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "in"
+      },
+      {
+       "label": "Lebanon",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Lebanon"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "last"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "week"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "and"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "that"
+      },
+      {
+       "label": "led",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "led"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "the"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "decision"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "to"
+      },
+      {
+       "label": "increase",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "increase"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "the"
+      },
+      {
+       "label": "funding",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "funding"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "the"
+      },
+      {
+       "label": "Foreign",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Foreign"
+      },
+      {
+       "label": "Ministry",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "Ministry"
+      },
+      {
+       "label": "stated",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "stated"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "a"
+      },
+      {
+       "label": "press",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "press"
+      },
+      {
+       "label": "release",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "release"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "."
+      },
+      {
+       "label": "1.1",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "1.1"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "million"
+      },
+      {
+       "label": "euros",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "euros"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "the"
+      },
+      {
+       "label": "total",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "total"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "will"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "go"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "the"
+      },
+      {
+       "label": "UN",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "UN"
+      },
+      {
+       "label": "Refugee",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "Refugee"
+      },
+      {
+       "label": "Agency",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "Agency"
+      },
+      {
+       "label": "UNHCR",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "UNHCR"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "in"
+      },
+      {
+       "label": "light",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "light"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "of"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "United"
+      },
+      {
+       "label": "Nations",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "Nations"
+      },
+      {
+       "label": "calls",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "calls"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "for"
+      },
+      {
+       "label": "aid",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "aid"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "for"
+      },
+      {
+       "label": "Syrian",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "refugees",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "refugees"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "the"
+      },
+      {
+       "label": "region",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "region"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": ","
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "while"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "the"
+      },
+      {
+       "label": "remaining",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "remaining"
+      },
+      {
+       "label": "900,000",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "900,000"
+      },
+      {
+       "label": "euros",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "euros"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "will"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "go"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "to"
+      },
+      {
+       "label": "projects",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "projects"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "run"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "by"
+      },
+      {
+       "label": "Austrian",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "Austrian"
+      },
+      {
+       "label": "non",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "non"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "-"
+      },
+      {
+       "label": "governmental",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "governmental"
+      },
+      {
+       "label": "organizations",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "organizations"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "in"
+      },
+      {
+       "label": "neighbouring",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "neighbouring"
+      },
+      {
+       "label": "states",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "states"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "The"
+      },
+      {
+       "label": "announcement",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "announcement"
+      },
+      {
+       "label": "brings",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "brings"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "the"
+      },
+      {
+       "label": "total",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "total"
+      },
+      {
+       "label": "amount",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "amount"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "of"
+      },
+      {
+       "label": "Austrian",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "Austrian"
+      },
+      {
+       "label": "humanitarian",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "humanitarian"
+      },
+      {
+       "label": "funding",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "funding"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "the"
+      },
+      {
+       "label": "region",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "region"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "to"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "around"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "6"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "million"
+      },
+      {
+       "label": "euros",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "euros"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "including"
+      },
+      {
+       "label": "300,000",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "300,000"
+      },
+      {
+       "label": "euros",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "euros"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "in"
+      },
+      {
+       "label": "food",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "food"
+      },
+      {
+       "label": "aid",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "aid"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "the"
+      },
+      {
+       "label": "Ministry",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "Ministry"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "of"
+      },
+      {
+       "label": "Agriculture",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "Agriculture"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "and"
+      },
+      {
+       "label": "Forestry",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "Forestry"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": ","
+      },
+      {
+       "label": "Environment",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "Environment"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "and"
+      },
+      {
+       "label": "Water",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "Water"
+      },
+      {
+       "label": "Management",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Management"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": ","
+      },
+      {
+       "label": "along",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "along"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "with"
+      },
+      {
+       "label": "non",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "non"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "-"
+      },
+      {
+       "label": "monetary",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "monetary"
+      },
+      {
+       "label": "services",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "services"
+      },
+      {
+       "label": "provided",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "provided"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "the"
+      },
+      {
+       "label": "Interior",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "Interior"
+      },
+      {
+       "label": "Ministry",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "Ministry"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Michael_Spindelegger",
+       "score": 1.0,
+       "start": 50,
+       "end": 52,
+       "tokens": "Michael Spindelegger",
+       "labelScoreMap": {
+        "Michael_Spindelegger": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Austria",
+       "score": 0.7107859135576623,
+       "start": 184,
+       "end": 185,
+       "tokens": "Austrian",
+       "labelScoreMap": {
+        "Austria": 0.7107859135576623,
+        "Austrians": 0.1287883483132291,
+        "Austrian_Empire": 0.07774735969552629,
+        "Austria-Hungary": 0.032576551675315125,
+        "Habsburg_Monarchy": 0.014049774034697423,
+        "Austrian_Airlines": 0.011100791917448727,
+        "Austrian_Americans": 0.003984859801402569,
+        "Austrian_Grand_Prix": 0.003435103849183689,
+        "Austrian_German": 0.0027480916018914857,
+        "Archduchy_of_Austria": 0.009541584109352077,
+        "Ottoman\u2013Habsburg_wars": 0.0022780171753999244,
+        "Austria_national_football_team": 0.0016618780910115417,
+        "Southern_Netherlands": 0.0013017261778796902,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.981667259522724,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.981667259522724,
+        "Xinhua_District,_Tainan": 0.016981906436443543,
+        "Xinhua_County": 0.0013508340408324609,
+        "<unk_wid>": 2.0965561746878655e-33
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.7090638710671121,
+       "start": 167,
+       "end": 168,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "Syria": 0.7090638710671121,
+        "Syrian_people": 0.2160299797034388,
+        "Syrian_Desert": 0.014509549922385637,
+        "Roman_Syria": 0.010292600951146676,
+        "Syrian_Jews": 0.007327717371102659,
+        "Chaldean_Christians": 0.0054516305283338895,
+        "Syriac_Orthodox_Church": 0.005257017761609556,
+        "Syrian_Americans": 0.004781183412958549,
+        "Golden_hamster": 0.003796663670577547,
+        "Greater_Syria": 0.0030445468836036624,
+        "Syrian_Arab_Air_Force": 0.0028231663506462228,
+        "Seleucid_Empire": 0.007280912162712198,
+        "Gnosticism": 0.0024337687243211315,
+        "Syriac_Catholic_Church": 0.002239061866082716,
+        "Syrian_Armed_Forces": 0.0017620207801489257,
+        "Syriac_Christianity": 0.0017523216865000099,
+        "Syriac_language": 0.001180480037404771,
+        "Peganum_harmala": 0.0009735071199149061,
+        "<unk_wid>": 4.2535515517422535e-42
+       }
+      },
+      {
+       "label": "Vienna",
+       "score": 0.8975902162019601,
+       "start": 21,
+       "end": 22,
+       "tokens": "VIENNA",
+       "labelScoreMap": {
+        "Vienna": 0.8975902162019601,
+        "Vienna,_Virginia": 0.012717011180808709,
+        "Vienna,_West_Virginia": 0.008050827281819231,
+        "Vienna_(Ultravox_song)": 0.006671882878333379,
+        "Windows_7": 0.006142582173365459,
+        "Vienna_Open": 0.005780492082232853,
+        "Siege_of_Vienna": 0.005267289916485641,
+        "Vienna,_Wisconsin": 0.004526849190240727,
+        "Vienna,_Missouri": 0.004526849234481565,
+        "Vienna,_Georgia": 0.0044850725280029275,
+        "Vienna_Offensive": 0.004418455015846109,
+        "University_of_Vienna": 0.004222759001399531,
+        "Vienna_(album)": 0.0035100496207390954,
+        "Battle_of_Vienna": 0.0034865412829222886,
+        "Habsburg_Monarchy": 0.0028185469413497467,
+        "Vienna_Township,_Genesee_County,_Michigan": 0.0023678939821829685,
+        "Vienna_Township,_Trumbull_County,_Ohio": 0.002214677967854627,
+        "Vienna,_New_York": 0.0021032436801545927,
+        "Vienna,_Illinois": 0.001768949804584033,
+        "Vienna,_Maine": 0.0016575259868031674,
+        "Vienna,_Maryland": 0.0015461171075140604,
+        "Congress_of_Vienna": 0.01191149923912555,
+        "Vienna_International_Centre": 0.00121179800105447,
+        "Vienna_Observatory": 0.0010028697007384603,
+        "<unk_wid>": 1.9736551500688115e-31
+       }
+      },
+      {
+       "label": "Austria",
+       "score": 0.7030379817569068,
+       "start": 200,
+       "end": 201,
+       "tokens": "Austrian",
+       "labelScoreMap": {
+        "Austria": 0.7030379817569068,
+        "Austrians": 0.14174936832731352,
+        "Austrian_Empire": 0.0704459271437171,
+        "Austria-Hungary": 0.03239831367033567,
+        "Habsburg_Monarchy": 0.013996614516711001,
+        "Austrian_Airlines": 0.011038653204064606,
+        "Austrian_Americans": 0.003978774390594812,
+        "Austrian_Grand_Prix": 0.0034158752270172293,
+        "Austrian_German": 0.0027327370406762443,
+        "Archduchy_of_Austria": 0.011737433901780104,
+        "Ottoman\u2013Habsburg_wars": 0.0022652655575515768,
+        "Austria_national_football_team": 0.0019086121005663186,
+        "Southern_Netherlands": 0.0012944431627649351,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9590838029519143,
+       "start": 154,
+       "end": 155,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "United_Nations": 0.9590838029519143,
+        "Flour": 0.020361409326894314,
+        "National_Unity_(Peru)": 0.008760689557075459,
+        "United_States_Ambassador_to_the_United_Nations": 0.0026482435968353353,
+        "Civic_Center,_San_Francisco": 0.0021661820527191507,
+        "Paolo_Borsellino": 0.0020216984835726756,
+        "University_of_Natal": 0.0017810181679975144,
+        "Place_de_la_Concorde": 0.0017328844150811297,
+        "Srebrenica_massacre": 0.0014440714479100525,
+        "<unk_wid>": 2.2650564208828902e-35
+       }
+      },
+      {
+       "label": "Austria",
+       "score": 0.863299835066999,
+       "start": 11,
+       "end": 12,
+       "tokens": "Austria",
+       "labelScoreMap": {
+        "Austria": 0.863299835066999,
+        "Austria_national_football_team": 0.05693974134558566,
+        "Austrian_Empire": 0.023204142419994606,
+        "Habsburg_Monarchy": 0.004743481405892591,
+        "Austrian_Football_Association": 0.004519065870855335,
+        "Archduchy_of_Austria": 0.020787762970184406,
+        "Austria_Davis_Cup_team": 0.0037184184541199008,
+        "Austria-Hungary": 0.0035317690500201223,
+        "Austria_national_cricket_team": 0.0030015123285693163,
+        "Austria_men's_national_ice_hockey_team": 0.0029959191140860627,
+        "Austrian_Armed_Forces": 0.0026095263977905427,
+        "\u00d6sterreichische_Basketball_Bundesliga": 0.0023967290832502116,
+        "FK_Austria_Wien": 0.0023095231574459243,
+        "Austria_national_rugby_union_team": 0.0018545002725202232,
+        "Anschluss": 0.0015345388749883305,
+        "Austrian_Football_Bundesliga": 0.0012767670936828244,
+        "President_of_Austria": 0.0012767670940150807,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9937519055437314,
+       "start": 161,
+       "end": 163,
+       "tokens": "United Nations",
+       "labelScoreMap": {
+        "United_Nations": 0.9937519055437314,
+        "United_Nations_(band)": 0.006248094456268667,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 0.9948123620260596,
+       "start": 154,
+       "end": 157,
+       "tokens": "UN Refugee Agency",
+       "labelScoreMap": {
+        "United_Nations_High_Commissioner_for_Refugees": 0.9948123620260596,
+        "United_Nations_Relief_and_Rehabilitation_Administration": 0.005187637973940415,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.71084161060147,
+       "start": 9,
+       "end": 10,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "Syria": 0.71084161060147,
+        "Syrian_people": 0.21745330266737517,
+        "Syrian_Desert": 0.014528504378324668,
+        "Roman_Syria": 0.010324358942704703,
+        "Syrian_Jews": 0.007313760802783581,
+        "Chaldean_Christians": 0.005460026489809078,
+        "Syriac_Orthodox_Church": 0.005265111854158841,
+        "Syrian_Americans": 0.004682286291945375,
+        "Golden_hamster": 0.0038025108743484646,
+        "Greater_Syria": 0.0029284852311307875,
+        "Syrian_Arab_Air_Force": 0.0028275585118349013,
+        "Seleucid_Empire": 0.00423708844833548,
+        "Gnosticism": 0.0024375374612261233,
+        "Syriac_Catholic_Church": 0.002242510046136097,
+        "Syrian_Armed_Forces": 0.001755091937449736,
+        "Syriac_Christianity": 0.0017550119575817605,
+        "Syriac_language": 0.001170237041105874,
+        "Peganum_harmala": 0.0009750064622792512,
+        "<unk_wid>": 9.27734317140239e-41
+       }
+      },
+      {
+       "label": "Foreign_and_Commonwealth_Office",
+       "score": 0.2913342794045854,
+       "start": 48,
+       "end": 49,
+       "tokens": "Foreign",
+       "labelScoreMap": {
+        "Foreign_Affairs_Council": 0.18974102676462928,
+        "South_Korea": 0.08313870810245143,
+        "Indonesia": 0.023068078987464154,
+        "2008\u201309_Sri_Lankan_Army_Northern_offensive": 0.020900130471171653,
+        "Poisoning_of_Alexander_Litvinenko": 0.017621602469690238,
+        "Sudan": 0.016428612090077958,
+        "Salvador_Allende": 0.016393861687510912,
+        "Bangladesh": 0.013882311117974834,
+        "Foreign_minister": 0.05739536678066399,
+        "Banana_Republic": 0.01191008799006729,
+        "South_Africa": 0.010597833170417952,
+        "Foreign_Office_(Germany)": 0.01956909384653789,
+        "Polish_Air_Forces_in_France_and_Great_Britain": 0.008196594083483675,
+        "Iraq": 0.006987311470687062,
+        "1953_Iranian_coup_d'\u00e9tat": 0.006976043620993431,
+        "First_Sino-Japanese_War": 0.0057654679694338845,
+        "Singapore_Armed_Forces": 0.005415409394059759,
+        "Thaksin_Shinawatra": 0.004917683425375338,
+        "Vladimir_Putin": 0.004931302923059743,
+        "Guido_Westerwelle": 0.004507855366210346,
+        "Eritrea": 0.0041479068188312205,
+        "War_on_Drugs": 0.0037331203208283738,
+        "Foreign_Policy": 0.15414861314967587,
+        "1983_Beirut_barracks_bombings": 0.0032784365436269664,
+        "War_on_Terror": 0.0029511068354418184,
+        "Canada": 0.004679916279163604,
+        "Fidel_Castro": 0.002459273527028655,
+        "Foreign_Service_Institute": 0.0024596970491510255,
+        "Foreign_and_Commonwealth_Office": 0.2913342794045854,
+        "Andorra": 0.0024632683397061298
+       }
+      },
+      {
+       "label": "Austria",
+       "score": 0.8836979650529166,
+       "start": 1,
+       "end": 2,
+       "tokens": "Austria",
+       "labelScoreMap": {
+        "Austria": 0.8836979650529166,
+        "Austria_national_football_team": 0.04961767363567084,
+        "Austrian_Empire": 0.013923490015886716,
+        "Habsburg_Monarchy": 0.004818203747954055,
+        "Austrian_Football_Association": 0.004611914069724272,
+        "Archduchy_of_Austria": 0.01640608401393295,
+        "Austria_Davis_Cup_team": 0.0037946909487148292,
+        "Austria-Hungary": 0.0035392819584742774,
+        "Austria_national_cricket_team": 0.003063181049839321,
+        "Austria_men's_national_ice_hockey_team": 0.003057465022436149,
+        "Austrian_Armed_Forces": 0.0026631366862916073,
+        "\u00d6sterreichische_Basketball_Bundesliga": 0.002445971998692205,
+        "FK_Austria_Wien": 0.0022974240318603956,
+        "Austria_national_rugby_union_team": 0.0018916369177161725,
+        "Anschluss": 0.0015658820477511576,
+        "Austrian_Football_Bundesliga": 0.0013029994010692032,
+        "President_of_Austria": 0.001302999401069326,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.7114000984302169,
+       "start": 19,
+       "end": 20,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "Syria": 0.7114000984302169,
+        "Syrian_people": 0.21623845498758434,
+        "Syrian_Desert": 0.014531687232112551,
+        "Roman_Syria": 0.01048639324944101,
+        "Syrian_Jews": 0.007315963294428936,
+        "Chaldean_Christians": 0.005461111651403156,
+        "Syriac_Orthodox_Church": 0.005266253531743393,
+        "Syrian_Americans": 0.004683987481607683,
+        "Golden_hamster": 0.0038032665985453015,
+        "Greater_Syria": 0.002931233755681747,
+        "Syrian_Arab_Air_Force": 0.0028281165269615238,
+        "Seleucid_Empire": 0.004715810087659402,
+        "Gnosticism": 0.002438027527180864,
+        "Syriac_Catholic_Church": 0.002242955769992798,
+        "Syrian_Armed_Forces": 0.0017555930906074128,
+        "Syriac_Christianity": 0.001755361517402528,
+        "Syriac_language": 0.0011704850350574031,
+        "Peganum_harmala": 0.0009752002323725862,
+        "<unk_wid>": 5.441378102776101e-40
+       }
+      },
+      {
+       "label": "Lebanon",
+       "score": 0.8052482258550786,
+       "start": 120,
+       "end": 121,
+       "tokens": "Lebanon",
+       "labelScoreMap": {
+        "Lebanon": 0.8052482258550786,
+        "Lebanon,_Pennsylvania": 0.02105815092842358,
+        "Lebanon_national_football_team": 0.01821433227862706,
+        "Lebanon,_New_Hampshire": 0.014544968724837988,
+        "Lebanon,_Tennessee": 0.013623520825987914,
+        "Lebanon,_Missouri": 0.012418237864055546,
+        "Lebanon,_Indiana": 0.010088986871829554,
+        "Lebanon,_Virginia": 0.008287846773615687,
+        "Lebanon,_Ohio": 0.007678452440374587,
+        "Lebanon_national_basketball_team": 0.006852458464510701,
+        "Lebanon_County,_Pennsylvania": 0.0066221534213778905,
+        "Lebanon,_Kentucky": 0.00644610906027486,
+        "Lebanon,_Illinois": 0.006242975381875907,
+        "Lebanese_wine": 0.006229434014570109,
+        "Lebanon,_Connecticut": 0.005227299427078316,
+        "1958_Lebanon_crisis": 0.004834580369108174,
+        "Lebanon,_Oregon": 0.0045501864609249175,
+        "Lebanese_Basketball_League": 0.00437414197268737,
+        "Lebanon_national_rugby_league_team": 0.004360661492635008,
+        "Lebanese_Communist_Party": 0.004252260841105761,
+        "Lebanon,_Dodge_County,_Wisconsin": 0.003845997916724982,
+        "A1_Team_Lebanon": 0.0033991043711086473,
+        "Lebanon,_Maine": 0.003223049054428195,
+        "Lebanese_Armed_Forces": 0.003019917607550809,
+        "Lebanon_Football_Association": 0.0029386671915694836,
+        "Lebanon_(2009_film)": 0.002870949422657889,
+        "United_States_Ambassador_to_Lebanon": 0.0028303296835523045,
+        "Miss_Lebanon": 0.0023428056271640745,
+        "Lebanese_Civil_War": 0.002315762915591375,
+        "2006_Lebanon_War": 0.0020584327406726766
+       }
+      },
+      {
+       "label": "Interior_ministry",
+       "score": 0.43750109210967,
+       "start": 240,
+       "end": 242,
+       "tokens": "Interior Ministry",
+       "labelScoreMap": {
+        "Interior_ministry": 0.43750109210967,
+        "Ministry_of_Interior_(Iraq)": 0.053024289005458046,
+        "Ministry_of_Internal_Affairs_(Russia)": 0.1348074406200312,
+        "Minister_of_the_Interior_(France)": 0.017604634908130516,
+        "Ministry_of_Internal_Affairs_(Romania)": 0.16799907767775388,
+        "Ministry_of_Interior_(Thailand)": 0.028012507296043362,
+        "Ministry_of_Interior_(Egypt)": 0.008737874860206184,
+        "Ministry_of_Interior_and_Narcotics_Control_(Pakistan)": 0.05865586762428367,
+        "Interior_Minister_of_the_Palestinian_National_Authority": 0.004859716173072494,
+        "Ministry_of_the_Interior_and_Public_Security_(Chile)": 0.0036360812075153237,
+        "Federal_Ministry_of_the_Interior_(Germany)": 0.0040372069581434055,
+        "Ministry_of_the_Interior_(Croatia)": 0.009271362530149123,
+        "Ministry_of_Interior_and_Administration_(Poland)": 0.0012246247125981974,
+        "Secretariat_of_the_Interior_(Mexico)": 0.0694142251415317,
+        "Minister_of_the_Interior_(Canada)": 0.001213999175412898,
+        "<unk_wid>": 3.036347689921021e-45
+       }
+      },
+      {
+       "label": "Austria",
+       "score": 0.89420426735188,
+       "start": 29,
+       "end": 30,
+       "tokens": "Austria",
+       "labelScoreMap": {
+        "Austria": 0.89420426735188,
+        "Austria_national_football_team": 0.04618084488939071,
+        "Austrian_Empire": 0.013174590574844774,
+        "Habsburg_Monarchy": 0.004867678588346307,
+        "Austrian_Football_Association": 0.004659768464372294,
+        "Archduchy_of_Austria": 0.00971621493746024,
+        "Austria_Davis_Cup_team": 0.003834063201428208,
+        "Austria-Hungary": 0.0035743546080811176,
+        "Austria_national_cricket_team": 0.00309496539634301,
+        "Austria_men's_national_ice_hockey_team": 0.003089190033722987,
+        "Austrian_Armed_Forces": 0.00269077006334697,
+        "\u00d6sterreichische_Basketball_Bundesliga": 0.002471352026930768,
+        "FK_Austria_Wien": 0.002315515085589936,
+        "Austria_national_rugby_union_team": 0.0019112562806908552,
+        "Anschluss": 0.0015821291883375218,
+        "Austrian_Football_Bundesliga": 0.0013165196546173425,
+        "President_of_Austria": 0.001316519654617343,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ministry_for_Foreign_Affairs_(Sweden)",
+       "score": 0.4834810282163018,
+       "start": 136,
+       "end": 138,
+       "tokens": "Foreign Ministry",
+       "labelScoreMap": {
+        "Foreign_minister": 0.3675432835293059,
+        "Ministry_of_Foreign_Affairs_(Japan)": 0.02738942401291194,
+        "Ministry_of_Foreign_Affairs_of_the_People's_Republic_of_China": 0.012550528100284739,
+        "Ministry_of_Foreign_Affairs_(Soviet_Union)": 0.011931039459377993,
+        "Ministry_of_Foreign_Affairs_and_Worship": 0.009635941562658715,
+        "Ministry_of_Foreign_Affairs_(Russia)": 0.011292403616262228,
+        "Ministry_of_Foreign_Affairs_(Israel)": 0.010003459884877212,
+        "Ministry_of_Foreign_Affairs_(Denmark)": 0.0068039554103636185,
+        "Ministry_of_Foreign_Affairs_and_International_Development_(France)": 0.005518959307435097,
+        "Foreign_and_Commonwealth_Office": 0.006859829675615704,
+        "Minister_for_Foreign_Affairs_(Ghana)": 0.004588551866773247,
+        "Ministry_of_Foreign_Affairs_(Pakistan)": 0.0037523080856279533,
+        "Foreign_Ministry_of_Austria-Hungary": 0.0036708422281783687,
+        "Minister_for_Foreign_Affairs_(Japan)": 0.0032141714702164912,
+        "Ministry_of_Foreign_Affairs_(Iran)": 0.003544409644735202,
+        "Ministry_of_Foreign_Affairs_(Brazil)": 0.003477501404606078,
+        "Ministry_of_Foreign_Affairs_(South_Korea)": 0.003443283541527523,
+        "Secretary_of_State_for_Foreign_and_Commonwealth_Affairs": 0.0027533612886699406,
+        "Ministry_of_Foreign_Affairs_(Turkey)": 0.002339265520175745,
+        "Minister_of_Foreign_Affairs_(Denmark)": 0.0018354215112698579,
+        "Ministry_of_Foreign_Affairs_(Indonesia)": 0.0013765672516866058,
+        "Ministry_of_Foreign_Affairs_(Poland)": 0.002314356407598935,
+        "Foreign_Office_(Germany)": 0.0013847698513654758,
+        "Ministry_of_Foreign_Affairs_(Singapore)": 0.001382167908915158,
+        "Ministry_of_Foreign_Affairs_and_Trade_(New_Zealand)": 0.000918992814172997,
+        "Federal_Department_of_Foreign_Affairs": 0.0031105289286944594,
+        "Secretariat_of_Foreign_Affairs_(Mexico)": 0.0020368690425035404,
+        "Ministry_for_Foreign_Affairs_(Sweden)": 0.4834810282163018,
+        "Ministry_of_Foreign_Affairs_(Colombia)": 0.0009225626891209948,
+        "Ministry_of_Foreign_Affairs_(Chile)": 0.0009242157687664464
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8853421862750802,
+       "start": 67,
+       "end": 68,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "Syria": 0.8853421862750802,
+        "Roman_Syria": 0.048686125725898186,
+        "Syria_national_football_team": 0.028599313893532895,
+        "Syriac_language": 0.005092573113473633,
+        "Syrian_Communist_Party": 0.004424953598898054,
+        "Greater_Syria": 0.004114429795535512,
+        "Syrian_Arab_Federation_for_Football": 0.003959167817638327,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.002779979826052656,
+        "Syrian_Armed_Forces": 0.002732607652147111,
+        "Armenians_in_Syria": 0.0023133936560195945,
+        "Syriac_Christianity": 0.001925238837520169,
+        "Syrian_Turkmen": 0.001692345946792624,
+        "Ottoman_Syria": 0.0015838013478399063,
+        "Syrian_Premier_League": 0.0015060361661076763,
+        "Mongol_invasions_of_the_Levant": 0.0014749883074625702,
+        "United_States_Ambassador_to_Syria": 0.0013662981645202535,
+        "Maher_Arar": 0.0012420954166926087,
+        "People's_Council_of_Syria": 0.00116446445878774,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "UNHCR",
+       "labelScoreMap": {
+        "United_Nations_High_Commissioner_for_Refugees": 1.0,
+        "<unk_wid>": 1.401298464324817e-45
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.7029293314478319,
+       "start": 36,
+       "end": 37,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "Syria": 0.7029293314478319,
+        "Syrian_people": 0.21119269242367808,
+        "Syrian_Desert": 0.014435261310298632,
+        "Roman_Syria": 0.010999882301291094,
+        "Syrian_Jews": 0.0073166607430501405,
+        "Chaldean_Christians": 0.005422744702339662,
+        "Syriac_Orthodox_Church": 0.00522920423496982,
+        "Syrian_Americans": 0.00473431520428891,
+        "Golden_hamster": 0.0037765463693167343,
+        "Greater_Syria": 0.003074887916971772,
+        "Syrian_Arab_Air_Force": 0.00280823559711132,
+        "Seleucid_Empire": 0.017748435569142657,
+        "Gnosticism": 0.002420997552460314,
+        "Syriac_Catholic_Church": 0.0022272003136344968,
+        "Syrian_Armed_Forces": 0.0017972527657691712,
+        "Syriac_Christianity": 0.0017431635598206471,
+        "Syriac_language": 0.001174839155436383,
+        "Peganum_harmala": 0.0009683488325883087,
+        "<unk_wid>": 9.73988908364245e-37
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Michael_Spindelegger",
+       "score": 1.0,
+       "start": 50,
+       "end": 52,
+       "tokens": "Michael Spindelegger",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Austria",
+       "score": 0.7107859135576623,
+       "start": 184,
+       "end": 185,
+       "tokens": "Austrian",
+       "labelScoreMap": {
+        "2782113|Austria": 0.7107859135576623
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.981667259522724,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016981906436443543,
+        "1788859|Xinhua_County": 0.0013508340408324609
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.7090638710671121,
+       "start": 167,
+       "end": 168,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "163843|Syria": 0.7090638710671121
+       }
+      },
+      {
+       "label": "Vienna",
+       "score": 0.8975902162019601,
+       "start": 21,
+       "end": 22,
+       "tokens": "VIENNA",
+       "labelScoreMap": {
+        "2761369|Vienna": 0.8975902162019601,
+        "4791160|Vienna,_Virginia": 0.012717011180808709,
+        "4825976|Vienna,_West_Virginia": 0.008050827281819231,
+        "4413085|Vienna,_Missouri": 0.004526849234481565,
+        "4228440|Vienna,_Georgia": 0.0044850725280029275,
+        "6354993|University_of_Vienna": 0.004222759001399531,
+        "5013274|Vienna_Township,_Genesee_County,_Michigan": 0.0023678939821829685,
+        "5175134|Vienna_Township,_Trumbull_County,_Ohio": 0.002214677967854627,
+        "4833322|Vienna,_New_York": 0.0021032436801545927,
+        "4252025|Vienna,_Illinois": 0.001768949804584033,
+        "4981774|Vienna,_Maine": 0.0016575259868031674,
+        "4372341|Vienna,_Maryland": 0.0015461171075140604,
+        "6944030|Vienna_International_Centre": 0.00121179800105447
+       }
+      },
+      {
+       "label": "Austria",
+       "score": 0.7030379817569068,
+       "start": 200,
+       "end": 201,
+       "tokens": "Austrian",
+       "labelScoreMap": {
+        "2782113|Austria": 0.7030379817569068
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9590838029519143,
+       "start": 154,
+       "end": 155,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.0021661820527191507,
+        "6452721|Place_de_la_Concorde": 0.0017328844150811297
+       }
+      },
+      {
+       "label": "Austria",
+       "score": 0.863299835066999,
+       "start": 11,
+       "end": 12,
+       "tokens": "Austria",
+       "labelScoreMap": {
+        "2782113|Austria": 0.863299835066999
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9937519055437314,
+       "start": 161,
+       "end": 163,
+       "tokens": "United Nations",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 0.9948123620260596,
+       "start": 154,
+       "end": 157,
+       "tokens": "UN Refugee Agency",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Syria",
+       "score": 0.71084161060147,
+       "start": 9,
+       "end": 10,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "163843|Syria": 0.71084161060147
+       }
+      },
+      {
+       "label": "Foreign_and_Commonwealth_Office",
+       "score": 0.2913342794045854,
+       "start": 48,
+       "end": 49,
+       "tokens": "Foreign",
+       "labelScoreMap": {
+        "366755|Sudan": 0.016428612090077958,
+        "1210997|Bangladesh": 0.013882311117974834,
+        "953987|South_Africa": 0.010597833170417952,
+        "99237|Iraq": 0.006987311470687062,
+        "338010|Eritrea": 0.0041479068188312205,
+        "6251999|Canada": 0.004679916279163604,
+        "3041565|Andorra": 0.0024632683397061298
+       }
+      },
+      {
+       "label": "Austria",
+       "score": 0.8836979650529166,
+       "start": 1,
+       "end": 2,
+       "tokens": "Austria",
+       "labelScoreMap": {
+        "2782113|Austria": 0.8836979650529166
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.7114000984302169,
+       "start": 19,
+       "end": 20,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "163843|Syria": 0.7114000984302169
+       }
+      },
+      {
+       "label": "Lebanon",
+       "score": 0.8052482258550786,
+       "start": 120,
+       "end": 121,
+       "tokens": "Lebanon",
+       "labelScoreMap": {
+        "272103|Lebanon": 0.8052482258550786,
+        "5197517|Lebanon,_Pennsylvania": 0.02105815092842358,
+        "5088597|Lebanon,_New_Hampshire": 0.014544968724837988,
+        "4636045|Lebanon,_Tennessee": 0.013623520825987914,
+        "4394794|Lebanon,_Missouri": 0.012418237864055546,
+        "4922673|Lebanon,_Indiana": 0.010088986871829554,
+        "4768972|Lebanon,_Virginia": 0.008287846773615687,
+        "4516412|Lebanon,_Ohio": 0.007678452440374587,
+        "5197522|Lebanon_County,_Pennsylvania": 0.0066221534213778905,
+        "4297653|Lebanon,_Kentucky": 0.00644610906027486,
+        "4242790|Lebanon,_Illinois": 0.006242975381875907,
+        "4837629|Lebanon,_Connecticut": 0.005227299427078316,
+        "5736218|Lebanon,_Oregon": 0.0045501864609249175,
+        "4969280|Lebanon,_Maine": 0.003223049054428195
+       }
+      },
+      {
+       "label": "Interior_ministry",
+       "score": 0.43750109210967,
+       "start": 240,
+       "end": 242,
+       "tokens": "Interior Ministry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Austria",
+       "score": 0.89420426735188,
+       "start": 29,
+       "end": 30,
+       "tokens": "Austria",
+       "labelScoreMap": {
+        "2782113|Austria": 0.89420426735188
+       }
+      },
+      {
+       "label": "Ministry_for_Foreign_Affairs_(Sweden)",
+       "score": 0.4834810282163018,
+       "start": 136,
+       "end": 138,
+       "tokens": "Foreign Ministry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Syria",
+       "score": 0.8853421862750802,
+       "start": 67,
+       "end": 68,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "163843|Syria": 0.8853421862750802
+       }
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "UNHCR",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Syria",
+       "score": 0.7029293314478319,
+       "start": 36,
+       "end": 37,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "163843|Syria": 0.7029293314478319
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

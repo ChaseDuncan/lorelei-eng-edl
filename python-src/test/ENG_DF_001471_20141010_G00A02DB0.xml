@@ -1,0 +1,2104 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_DF_001471_20141010_G00A02DB0.xml",
+ "text": "Can I trade my iphone 6 plus purchased on att next?\napple\" datetime=\"2014-10-10T17:37:00\" id=\"p1\">\nI bought a iPhone 6 plus space grey and found someone that will trade for his iphone 6 plus in silver.\nWe both bought our phones at apple and both have applecare. We will be meeting at an apple store to make sure each others phones are good to go.\nThe only thing im unsure of is the fact that my phone was purchased via att next. Will thie cause any problems with our trade?\nI was told that we could both cancel our applecares at the apple store then repurchase the applecare after the trade.\nI would just return it straight up at apple store but they don't stock a silver 6 plus anywhere near my city.\nAsk your carrier.\napple\" datetime=\"2014-10-13T08:02:00\" id=\"p3\">\nWent to the apple store and completed the trade. It was no problem.\nWe ran the diagnostics, returned our applecare and repurchased applecare under our new phones and called it a day.",
+ "tokens": [
+  "Can",
+  "I",
+  "trade",
+  "my",
+  "iphone",
+  "6",
+  "plus",
+  "purchased",
+  "on",
+  "att",
+  "next",
+  "?",
+  "apple",
+  "\"",
+  "datetime",
+  "=",
+  "\"",
+  "2014-10-10T17:37:00",
+  "\"",
+  "id",
+  "=",
+  "\"",
+  "p1",
+  "\"",
+  ">",
+  "I",
+  "bought",
+  "a",
+  "iPhone",
+  "6",
+  "plus",
+  "space",
+  "grey",
+  "and",
+  "found",
+  "someone",
+  "that",
+  "will",
+  "trade",
+  "for",
+  "his",
+  "iphone",
+  "6",
+  "plus",
+  "in",
+  "silver",
+  ".",
+  "We",
+  "both",
+  "bought",
+  "our",
+  "phones",
+  "at",
+  "apple",
+  "and",
+  "both",
+  "have",
+  "applecare",
+  ".",
+  "We",
+  "will",
+  "be",
+  "meeting",
+  "at",
+  "an",
+  "apple",
+  "store",
+  "to",
+  "make",
+  "sure",
+  "each",
+  "others",
+  "phones",
+  "are",
+  "good",
+  "to",
+  "go",
+  ".",
+  "The",
+  "only",
+  "thing",
+  "im",
+  "unsure",
+  "of",
+  "is",
+  "the",
+  "fact",
+  "that",
+  "my",
+  "phone",
+  "was",
+  "purchased",
+  "via",
+  "att",
+  "next",
+  ".",
+  "Will",
+  "thie",
+  "cause",
+  "any",
+  "problems",
+  "with",
+  "our",
+  "trade",
+  "?",
+  "I",
+  "was",
+  "told",
+  "that",
+  "we",
+  "could",
+  "both",
+  "cancel",
+  "our",
+  "applecares",
+  "at",
+  "the",
+  "apple",
+  "store",
+  "then",
+  "repurchase",
+  "the",
+  "applecare",
+  "after",
+  "the",
+  "trade",
+  ".",
+  "I",
+  "would",
+  "just",
+  "return",
+  "it",
+  "straight",
+  "up",
+  "at",
+  "apple",
+  "store",
+  "but",
+  "they",
+  "do",
+  "n't",
+  "stock",
+  "a",
+  "silver",
+  "6",
+  "plus",
+  "anywhere",
+  "near",
+  "my",
+  "city",
+  ".",
+  "Ask",
+  "your",
+  "carrier",
+  ".",
+  "apple",
+  "\"",
+  "datetime",
+  "=",
+  "\"",
+  "2014-10-13T08:02:00",
+  "\"",
+  "id",
+  "=",
+  "\"",
+  "p3",
+  "\"",
+  ">",
+  "Went",
+  "to",
+  "the",
+  "apple",
+  "store",
+  "and",
+  "completed",
+  "the",
+  "trade",
+  ".",
+  "It",
+  "was",
+  "no",
+  "problem",
+  ".",
+  "We",
+  "ran",
+  "the",
+  "diagnostics",
+  ",",
+  "returned",
+  "our",
+  "applecare",
+  "and",
+  "repurchased",
+  "applecare",
+  "under",
+  "our",
+  "new",
+  "phones",
+  "and",
+  "called",
+  "it",
+  "a",
+  "day",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   12,
+   47,
+   59,
+   78,
+   96,
+   105,
+   127,
+   151,
+   155,
+   178,
+   183,
+   204
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "apple"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "apple"
+      },
+      {
+       "label": "AT&T",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "att"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "apple"
+      },
+      {
+       "label": "AT&T",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "att"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "apple"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "apple"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "att"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "att"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "apple"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Can",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Can"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "I"
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "trade"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "my"
+      },
+      {
+       "label": "iphone",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "iphone"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "6"
+      },
+      {
+       "label": "plus",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "plus"
+      },
+      {
+       "label": "purchased",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "purchased"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "on"
+      },
+      {
+       "label": "att",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "att"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "next"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "?"
+      },
+      {
+       "label": "apple",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "apple"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "\""
+      },
+      {
+       "label": "datetime",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "datetime"
+      },
+      {
+       "label": "=",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "="
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "\""
+      },
+      {
+       "label": "2014-10-10T17:37:00",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "2014-10-10T17:37:00"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "\""
+      },
+      {
+       "label": "id",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "id"
+      },
+      {
+       "label": "=",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "="
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "\""
+      },
+      {
+       "label": "p1",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "p1"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "\""
+      },
+      {
+       "label": ">",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": ">"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "I"
+      },
+      {
+       "label": "bought",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "bought"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "a"
+      },
+      {
+       "label": "iPhone",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "iPhone"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "6"
+      },
+      {
+       "label": "plus",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "plus"
+      },
+      {
+       "label": "space",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "space"
+      },
+      {
+       "label": "grey",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "grey"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "and"
+      },
+      {
+       "label": "found",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "found"
+      },
+      {
+       "label": "someone",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "someone"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "will"
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "trade"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "for"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "his"
+      },
+      {
+       "label": "iphone",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "iphone"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "6"
+      },
+      {
+       "label": "plus",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "plus"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "in"
+      },
+      {
+       "label": "silver",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "silver"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "."
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "We"
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "both"
+      },
+      {
+       "label": "bought",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "bought"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "our"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "phones"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "at"
+      },
+      {
+       "label": "apple",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "apple"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "and"
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "both"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "have"
+      },
+      {
+       "label": "applecare",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "applecare"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "."
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "We"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "be"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "meeting"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "at"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "an"
+      },
+      {
+       "label": "apple",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "apple"
+      },
+      {
+       "label": "store",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "store"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "to"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "make"
+      },
+      {
+       "label": "sure",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "sure"
+      },
+      {
+       "label": "each",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "each"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "others"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "phones"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "are"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "good"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "to"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "go"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "The"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "only"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "thing"
+      },
+      {
+       "label": "im",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "im"
+      },
+      {
+       "label": "unsure",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "unsure"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "of"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "the"
+      },
+      {
+       "label": "fact",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "fact"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "that"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "my"
+      },
+      {
+       "label": "phone",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "phone"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "was"
+      },
+      {
+       "label": "purchased",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "purchased"
+      },
+      {
+       "label": "via",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "via"
+      },
+      {
+       "label": "att",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "att"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "next"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "."
+      },
+      {
+       "label": "Will",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Will"
+      },
+      {
+       "label": "thie",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "thie"
+      },
+      {
+       "label": "cause",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "cause"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "any"
+      },
+      {
+       "label": "problems",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "problems"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "with"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "our"
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "trade"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "?"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "I"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "was"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "told"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "we"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "could"
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "both"
+      },
+      {
+       "label": "cancel",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "cancel"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "our"
+      },
+      {
+       "label": "applecares",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "applecares"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "the"
+      },
+      {
+       "label": "apple",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "apple"
+      },
+      {
+       "label": "store",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "store"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "then"
+      },
+      {
+       "label": "repurchase",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "repurchase"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "the"
+      },
+      {
+       "label": "applecare",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "applecare"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "the"
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "trade"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "I"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "would"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "just"
+      },
+      {
+       "label": "return",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "return"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "it"
+      },
+      {
+       "label": "straight",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "straight"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "up"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "at"
+      },
+      {
+       "label": "apple",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "apple"
+      },
+      {
+       "label": "store",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "store"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "but"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "they"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "n't"
+      },
+      {
+       "label": "stock",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "stock"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "a"
+      },
+      {
+       "label": "silver",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "silver"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "6"
+      },
+      {
+       "label": "plus",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "plus"
+      },
+      {
+       "label": "anywhere",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "anywhere"
+      },
+      {
+       "label": "near",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "near"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "my"
+      },
+      {
+       "label": "city",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "city"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "."
+      },
+      {
+       "label": "Ask",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Ask"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "your"
+      },
+      {
+       "label": "carrier",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "carrier"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "."
+      },
+      {
+       "label": "apple",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "apple"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "\""
+      },
+      {
+       "label": "datetime",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "datetime"
+      },
+      {
+       "label": "=",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "="
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "\""
+      },
+      {
+       "label": "2014-10-13T08:02:00",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "2014-10-13T08:02:00"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "\""
+      },
+      {
+       "label": "id",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "id"
+      },
+      {
+       "label": "=",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "="
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "\""
+      },
+      {
+       "label": "p3",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "p3"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "\""
+      },
+      {
+       "label": ">",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": ">"
+      },
+      {
+       "label": "Went",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "Went"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "the"
+      },
+      {
+       "label": "apple",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "apple"
+      },
+      {
+       "label": "store",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "store"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "and"
+      },
+      {
+       "label": "completed",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "completed"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "the"
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "trade"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "It"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "was"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "no"
+      },
+      {
+       "label": "problem",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "problem"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "."
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "We"
+      },
+      {
+       "label": "ran",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "ran"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "the"
+      },
+      {
+       "label": "diagnostics",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "diagnostics"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": ","
+      },
+      {
+       "label": "returned",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "returned"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "our"
+      },
+      {
+       "label": "applecare",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "applecare"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "and"
+      },
+      {
+       "label": "repurchased",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "repurchased"
+      },
+      {
+       "label": "applecare",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "applecare"
+      },
+      {
+       "label": "under",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "under"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "our"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "new"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "phones"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "and"
+      },
+      {
+       "label": "called",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "called"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "it"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "a"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.3867618000438529,
+       "start": 171,
+       "end": 172,
+       "tokens": "apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.3867618000438529,
+        "Apple": 0.19610584971749848,
+        "Apple_Records": 0.02690813029230354,
+        "Apple_II_series": 0.01542849936368908,
+        "Apple_Corps": 0.0037210184621846993,
+        "IPhone": 0.0024899498486829702,
+        "Apple_II_Plus": 0.0028803466076274104,
+        "Macintosh": 0.11574106711898317,
+        "Apple_(album)": 0.0020424058961608167,
+        "IPad": 0.003991791341323338,
+        "Apple_Store": 0.0034707597588311827,
+        "Cashew": 0.17448923237193104,
+        "Mac_Mini": 0.008083153367302913,
+        "Apple_III": 0.0020284716449116276,
+        "Apple_I": 0.0007648578581459336,
+        "Malus": 0.05243675125951309,
+        "ITunes": 0.0008984622425702506,
+        "Apple_TV": 0.0009732450019267296,
+        "Apple_Lisa": 0.000784207802560662,
+        "<unk_wid>": 3.762186358957496e-27
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.3788673579097232,
+       "start": 12,
+       "end": 13,
+       "tokens": "apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.3788673579097232,
+        "Apple": 0.19122658070433438,
+        "Apple_Records": 0.026572362395342577,
+        "Apple_II_series": 0.01516870578996162,
+        "Apple_Corps": 0.003482827560709447,
+        "IPhone": 0.0022452109448375876,
+        "Apple_II_Plus": 0.002120586694765002,
+        "Macintosh": 0.019103820443888368,
+        "Apple_(album)": 0.002019921945565793,
+        "IPad": 0.001612595630974831,
+        "Apple_Store": 0.0014532755969996606,
+        "Cashew": 0.2765582272338131,
+        "Mac_Mini": 0.0011932111850045176,
+        "Apple_III": 0.0008564058607558713,
+        "Apple_I": 0.0006981467863655034,
+        "Malus": 0.07453723334628977,
+        "ITunes": 0.0009330487487627377,
+        "Apple_TV": 0.0007063862461171833,
+        "Apple_Lisa": 0.00064409497578897,
+        "<unk_wid>": 1.7383712748347475e-33
+       }
+      },
+      {
+       "label": "AT&T_U-verse",
+       "score": 0.4996523407341974,
+       "start": 9,
+       "end": 10,
+       "tokens": "att",
+       "labelScoreMap": {
+        "AT&T": 0.39622007316214714,
+        "AT&T_Mobility": 0.08144360524231736,
+        "AT&T_Corporation": 0.021919512111383804,
+        "AT&T_U-verse": 0.4996523407341974,
+        "Netflix_Prize": 0.0007644687499542552,
+        "<unk_wid>": 1.3689731654846014e-31
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.37660020464102634,
+       "start": 155,
+       "end": 156,
+       "tokens": "apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.37660020464102634,
+        "Apple": 0.15976566800286243,
+        "Apple_Records": 0.026427320801650046,
+        "Apple_II_series": 0.015069103322304524,
+        "Apple_Corps": 0.003460530556851897,
+        "IPhone": 0.0022273668390362113,
+        "Apple_II_Plus": 0.0021068570940705844,
+        "Macintosh": 0.007294218812909872,
+        "Apple_(album)": 0.0020090406999835803,
+        "IPad": 0.0014805795116551793,
+        "Apple_Store": 0.0013734073042225804,
+        "Cashew": 0.2737047016594009,
+        "Mac_Mini": 0.0012102963986173353,
+        "Apple_III": 0.0007919417695926337,
+        "Apple_I": 0.000681192197407462,
+        "Malus": 0.12382797847268515,
+        "ITunes": 0.0006979807372529092,
+        "Apple_TV": 0.0006493937823889798,
+        "Apple_Lisa": 0.0006222173960814007,
+        "<unk_wid>": 1.824057688028246e-33
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7646450901859979,
+       "start": 135,
+       "end": 136,
+       "tokens": "apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7646450901859979,
+        "Apple": 0.10637034182948625,
+        "Apple_Records": 0.04068342157511087,
+        "Apple_II_series": 0.022973811357757418,
+        "Apple_Corps": 0.01987512024589246,
+        "IPhone": 0.0033870951883118966,
+        "Apple_II_Plus": 0.0032127409880147247,
+        "Macintosh": 0.014797980882572977,
+        "Apple_(album)": 0.0030628974853216637,
+        "IPad": 0.0021499340042557924,
+        "Apple_Store": 0.008695103826335458,
+        "Cashew": 0.0019810788568476955,
+        "Mac_Mini": 0.001665651828412076,
+        "Apple_III": 0.0011771868344837262,
+        "Apple_I": 0.0010481519771250267,
+        "Malus": 0.001035019362961045,
+        "ITunes": 0.0010286761351259869,
+        "Apple_TV": 0.001010986471456446,
+        "Apple_Lisa": 0.001199710964530461,
+        "<unk_wid>": 1.0815895700520283e-29
+       }
+      },
+      {
+       "label": "AT&T_U-verse",
+       "score": 0.4990611710334179,
+       "start": 93,
+       "end": 94,
+       "tokens": "att",
+       "labelScoreMap": {
+        "AT&T": 0.39626360732038135,
+        "AT&T_Mobility": 0.08204228710937735,
+        "AT&T_Corporation": 0.02186838182864724,
+        "AT&T_U-verse": 0.4990611710334179,
+        "Netflix_Prize": 0.0007645527081761751,
+        "<unk_wid>": 1.6545619737877443e-32
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7114521061421725,
+       "start": 117,
+       "end": 118,
+       "tokens": "apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7114521061421725,
+        "Apple": 0.13937908038700697,
+        "Apple_Records": 0.03951833754085094,
+        "Apple_II_series": 0.02192232136462319,
+        "Apple_Corps": 0.03199144309960226,
+        "IPhone": 0.003242312494604876,
+        "Apple_II_Plus": 0.0030695731700029556,
+        "Macintosh": 0.008511355134183341,
+        "Apple_(album)": 0.0029223063699443034,
+        "IPad": 0.002052049164330079,
+        "Apple_Store": 0.026186827323944527,
+        "Cashew": 0.0018891764072313613,
+        "Mac_Mini": 0.001589210283353104,
+        "Apple_III": 0.0011179236691246952,
+        "Apple_I": 0.0010111766355892257,
+        "Malus": 0.0010120701414967782,
+        "ITunes": 0.0009703230729584804,
+        "Apple_TV": 0.0010041161598126915,
+        "Apple_Lisa": 0.0011582914391679577,
+        "<unk_wid>": 5.772461094985529e-28
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.41297198645615807,
+       "start": 65,
+       "end": 66,
+       "tokens": "apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.41297198645615807,
+        "Apple": 0.12223801186837306,
+        "Apple_Records": 0.028122008950430027,
+        "Apple_II_series": 0.016301715514276498,
+        "Apple_Corps": 0.004801137509427413,
+        "IPhone": 0.002665379930524288,
+        "Apple_II_Plus": 0.005406509017552258,
+        "Macintosh": 0.3379116576069939,
+        "Apple_(album)": 0.002103720136701999,
+        "IPad": 0.005779933012841673,
+        "Apple_Store": 0.023929380137726115,
+        "Cashew": 0.020334847177955705,
+        "Mac_Mini": 0.0037953274340526274,
+        "Apple_III": 0.0033898069517079845,
+        "Apple_I": 0.0013083907159828236,
+        "Malus": 0.003449407965268705,
+        "ITunes": 0.0017271560478153973,
+        "Apple_TV": 0.00226450869778105,
+        "Apple_Lisa": 0.0014991148684302914,
+        "<unk_wid>": 2.12038227600477e-28
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.3867618000438529,
+       "start": 171,
+       "end": 172,
+       "tokens": "apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.3788673579097232,
+       "start": 12,
+       "end": 13,
+       "tokens": "apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "AT&T_U-verse",
+       "score": 0.4996523407341974,
+       "start": 9,
+       "end": 10,
+       "tokens": "att",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.37660020464102634,
+       "start": 155,
+       "end": 156,
+       "tokens": "apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7646450901859979,
+       "start": 135,
+       "end": 136,
+       "tokens": "apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "AT&T_U-verse",
+       "score": 0.4990611710334179,
+       "start": 93,
+       "end": 94,
+       "tokens": "att",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7114521061421725,
+       "start": 117,
+       "end": 118,
+       "tokens": "apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.41297198645615807,
+       "start": 65,
+       "end": 66,
+       "tokens": "apple",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

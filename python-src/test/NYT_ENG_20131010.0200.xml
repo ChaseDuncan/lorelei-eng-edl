@@ -1,0 +1,8533 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131010.0200.xml",
+ "text": "OSHA CITES OWNER OF TEXAS FERTILIZER PLANT THAT EXPLODED\nWASHINGTON \u2013 The Occupational Safety and Health Administration has cited the company that owns the fertilizer plant in West, Texas, for safety violations following a massive explosion at the facility in April, which left 15 dead and leveled the surrounding area.\nOSHA fined Adair Grain, Inc., parent of the West Fertilizer Co., $118,300 for 24 serious violations. The explosion exposed workers to ammonium nitrate chemical burns and created inhalation hazards in the plant.\nThe OSHA report stated that the company failed to develop a communication plan in cases of emergency or create a safe working environment. It is also being fined for having inadequate ventilation systems and improper chemical storage techniques.\n''The employer did not furnish employment and a place of employment which was free from recognized hazards that were causing or likely to cause death,'' the report stated.\nDemocratic California Sen. Barbara Boxer, chair of the Committee on Environment and Public Works, announced the fines and violations Thursday, asserting that similar explosions can be prevented with proper oversight.\n''All of these things are pretty much standard operating procedure,'' Boxer said.\nOSHA, a division of the Department of Labor, works with several other agencies, including the Chemical Safety Board, to ensure proper and safe working conditions, and has been investigating the West explosion for months.\nDaniel Horowitz, managing director for the CSB, said the agency is working to understand what exactly caused the West Fertilizer Co. plant to explode and where there were regulatory gaps in identifying potential hazards.\n''What our team is focusing on is why did this fire progress to an ammonium detonation and how should that storage be made safer,'' Horowitz said.\nDan Keeney, a spokesman for West Fertilizer Co., said the company\u2019s attorneys are still reviewing the citations, but based on their initial review, OSHA\u2019s allegations don\u2019t appear to be specifically related to the April explosion.\nBut the plant could have had better safety management years before the explosion happened, said Congressman Bill Flores, R-Bryan, whose district includes West.\nFlores said plant managers should have had a stronger safety program in place \u2013 one of the citations in the OSHA report \u2013 to prevent similar large-scale accidents, which are often built up over time and not caused by a single mistake.\nCSB testimony from a committee hearing in June revealed the West plant had not been inspected by a federal agency since 1985.\n''If the plant had been run in a safer manner, then we wouldn\u2019t be having this discussion today,'' Flores said. ''It shows that we still have a lot of work to do in terms of mitigating the risks from these types of facilities.''\nThe government\u2019s investigation into the plant\u2019s explosion isn\u2019t complete, and OSHA and other federal agencies are working together to determine its cause, Boxer said. But the current government shutdown has prevented federal efforts to improve safety conditions in chemical facilities.\nAll but three of the 40-person CSB staff are furloughed, including all 10 of the people investigating the West explosion, Horowitz said.\n''Our problems are really acute right now,'' he said.\nThe CSB has been working with agencies of each state to locate ammonium nitrate facilities and identify similar potential hazards, but their investigation has been delayed because of the shutdown.\nHorowitz said the agency also has been analyzing eyewitness videos of the explosion to ''dissect\u2019' what happened seconds before the blast.\nThe last time Flores visited West was in early September, and he said although residents have built new houses in the area and reopened schools, the town still has a long way to go \u2013 as do the agencies investigating it as they face uncertain fiscal times.\n''In our current fiscal environment, we have to do more with less,'' Flores said. ''The federal government has never been very efficient, but it\u2019s going to have to learn how to be efficient. We just don\u2019t have the resources to fund everything we\u2019d like to fund.''",
+ "tokens": [
+  "OSHA",
+  "CITES",
+  "OWNER",
+  "OF",
+  "TEXAS",
+  "FERTILIZER",
+  "PLANT",
+  "THAT",
+  "EXPLODED",
+  "WASHINGTON",
+  "\u2013",
+  "The",
+  "Occupational",
+  "Safety",
+  "and",
+  "Health",
+  "Administration",
+  "has",
+  "cited",
+  "the",
+  "company",
+  "that",
+  "owns",
+  "the",
+  "fertilizer",
+  "plant",
+  "in",
+  "West",
+  ",",
+  "Texas",
+  ",",
+  "for",
+  "safety",
+  "violations",
+  "following",
+  "a",
+  "massive",
+  "explosion",
+  "at",
+  "the",
+  "facility",
+  "in",
+  "April",
+  ",",
+  "which",
+  "left",
+  "15",
+  "dead",
+  "and",
+  "leveled",
+  "the",
+  "surrounding",
+  "area",
+  ".",
+  "OSHA",
+  "fined",
+  "Adair",
+  "Grain",
+  ",",
+  "Inc.",
+  ",",
+  "parent",
+  "of",
+  "the",
+  "West",
+  "Fertilizer",
+  "Co.",
+  ",",
+  "$118,300",
+  "for",
+  "24",
+  "serious",
+  "violations",
+  ".",
+  "The",
+  "explosion",
+  "exposed",
+  "workers",
+  "to",
+  "ammonium",
+  "nitrate",
+  "chemical",
+  "burns",
+  "and",
+  "created",
+  "inhalation",
+  "hazards",
+  "in",
+  "the",
+  "plant",
+  ".",
+  "The",
+  "OSHA",
+  "report",
+  "stated",
+  "that",
+  "the",
+  "company",
+  "failed",
+  "to",
+  "develop",
+  "a",
+  "communication",
+  "plan",
+  "in",
+  "cases",
+  "of",
+  "emergency",
+  "or",
+  "create",
+  "a",
+  "safe",
+  "working",
+  "environment",
+  ".",
+  "It",
+  "is",
+  "also",
+  "being",
+  "fined",
+  "for",
+  "having",
+  "inadequate",
+  "ventilation",
+  "systems",
+  "and",
+  "improper",
+  "chemical",
+  "storage",
+  "techniques",
+  ".",
+  "''",
+  "The",
+  "employer",
+  "did",
+  "not",
+  "furnish",
+  "employment",
+  "and",
+  "a",
+  "place",
+  "of",
+  "employment",
+  "which",
+  "was",
+  "free",
+  "from",
+  "recognized",
+  "hazards",
+  "that",
+  "were",
+  "causing",
+  "or",
+  "likely",
+  "to",
+  "cause",
+  "death",
+  ",",
+  "''",
+  "the",
+  "report",
+  "stated",
+  ".",
+  "Democratic",
+  "California",
+  "Sen.",
+  "Barbara",
+  "Boxer",
+  ",",
+  "chair",
+  "of",
+  "the",
+  "Committee",
+  "on",
+  "Environment",
+  "and",
+  "Public",
+  "Works",
+  ",",
+  "announced",
+  "the",
+  "fines",
+  "and",
+  "violations",
+  "Thursday",
+  ",",
+  "asserting",
+  "that",
+  "similar",
+  "explosions",
+  "can",
+  "be",
+  "prevented",
+  "with",
+  "proper",
+  "oversight",
+  ".",
+  "''",
+  "All",
+  "of",
+  "these",
+  "things",
+  "are",
+  "pretty",
+  "much",
+  "standard",
+  "operating",
+  "procedure",
+  ",",
+  "''",
+  "Boxer",
+  "said",
+  ".",
+  "OSHA",
+  ",",
+  "a",
+  "division",
+  "of",
+  "the",
+  "Department",
+  "of",
+  "Labor",
+  ",",
+  "works",
+  "with",
+  "several",
+  "other",
+  "agencies",
+  ",",
+  "including",
+  "the",
+  "Chemical",
+  "Safety",
+  "Board",
+  ",",
+  "to",
+  "ensure",
+  "proper",
+  "and",
+  "safe",
+  "working",
+  "conditions",
+  ",",
+  "and",
+  "has",
+  "been",
+  "investigating",
+  "the",
+  "West",
+  "explosion",
+  "for",
+  "months",
+  ".",
+  "Daniel",
+  "Horowitz",
+  ",",
+  "managing",
+  "director",
+  "for",
+  "the",
+  "CSB",
+  ",",
+  "said",
+  "the",
+  "agency",
+  "is",
+  "working",
+  "to",
+  "understand",
+  "what",
+  "exactly",
+  "caused",
+  "the",
+  "West",
+  "Fertilizer",
+  "Co.",
+  "plant",
+  "to",
+  "explode",
+  "and",
+  "where",
+  "there",
+  "were",
+  "regulatory",
+  "gaps",
+  "in",
+  "identifying",
+  "potential",
+  "hazards",
+  ".",
+  "''",
+  "What",
+  "our",
+  "team",
+  "is",
+  "focusing",
+  "on",
+  "is",
+  "why",
+  "did",
+  "this",
+  "fire",
+  "progress",
+  "to",
+  "an",
+  "ammonium",
+  "detonation",
+  "and",
+  "how",
+  "should",
+  "that",
+  "storage",
+  "be",
+  "made",
+  "safer",
+  ",",
+  "''",
+  "Horowitz",
+  "said",
+  ".",
+  "Dan",
+  "Keeney",
+  ",",
+  "a",
+  "spokesman",
+  "for",
+  "West",
+  "Fertilizer",
+  "Co.",
+  ",",
+  "said",
+  "the",
+  "company",
+  "\u2019s",
+  "attorneys",
+  "are",
+  "still",
+  "reviewing",
+  "the",
+  "citations",
+  ",",
+  "but",
+  "based",
+  "on",
+  "their",
+  "initial",
+  "review",
+  ",",
+  "OSHA",
+  "\u2019s",
+  "allegations",
+  "do",
+  "n\u2019t",
+  "appear",
+  "to",
+  "be",
+  "specifically",
+  "related",
+  "to",
+  "the",
+  "April",
+  "explosion",
+  ".",
+  "But",
+  "the",
+  "plant",
+  "could",
+  "have",
+  "had",
+  "better",
+  "safety",
+  "management",
+  "years",
+  "before",
+  "the",
+  "explosion",
+  "happened",
+  ",",
+  "said",
+  "Congressman",
+  "Bill",
+  "Flores",
+  ",",
+  "R",
+  "-",
+  "Bryan",
+  ",",
+  "whose",
+  "district",
+  "includes",
+  "West",
+  ".",
+  "Flores",
+  "said",
+  "plant",
+  "managers",
+  "should",
+  "have",
+  "had",
+  "a",
+  "stronger",
+  "safety",
+  "program",
+  "in",
+  "place",
+  "\u2013",
+  "one",
+  "of",
+  "the",
+  "citations",
+  "in",
+  "the",
+  "OSHA",
+  "report",
+  "\u2013",
+  "to",
+  "prevent",
+  "similar",
+  "large",
+  "-",
+  "scale",
+  "accidents",
+  ",",
+  "which",
+  "are",
+  "often",
+  "built",
+  "up",
+  "over",
+  "time",
+  "and",
+  "not",
+  "caused",
+  "by",
+  "a",
+  "single",
+  "mistake",
+  ".",
+  "CSB",
+  "testimony",
+  "from",
+  "a",
+  "committee",
+  "hearing",
+  "in",
+  "June",
+  "revealed",
+  "the",
+  "West",
+  "plant",
+  "had",
+  "not",
+  "been",
+  "inspected",
+  "by",
+  "a",
+  "federal",
+  "agency",
+  "since",
+  "1985",
+  ".",
+  "''",
+  "If",
+  "the",
+  "plant",
+  "had",
+  "been",
+  "run",
+  "in",
+  "a",
+  "safer",
+  "manner",
+  ",",
+  "then",
+  "we",
+  "would",
+  "n\u2019t",
+  "be",
+  "having",
+  "this",
+  "discussion",
+  "today",
+  ",",
+  "''",
+  "Flores",
+  "said",
+  ".",
+  "''",
+  "It",
+  "shows",
+  "that",
+  "we",
+  "still",
+  "have",
+  "a",
+  "lot",
+  "of",
+  "work",
+  "to",
+  "do",
+  "in",
+  "terms",
+  "of",
+  "mitigating",
+  "the",
+  "risks",
+  "from",
+  "these",
+  "types",
+  "of",
+  "facilities",
+  ".",
+  "''",
+  "The",
+  "government",
+  "\u2019s",
+  "investigation",
+  "into",
+  "the",
+  "plant",
+  "\u2019s",
+  "explosion",
+  "is",
+  "n\u2019t",
+  "complete",
+  ",",
+  "and",
+  "OSHA",
+  "and",
+  "other",
+  "federal",
+  "agencies",
+  "are",
+  "working",
+  "together",
+  "to",
+  "determine",
+  "its",
+  "cause",
+  ",",
+  "Boxer",
+  "said",
+  ".",
+  "But",
+  "the",
+  "current",
+  "government",
+  "shutdown",
+  "has",
+  "prevented",
+  "federal",
+  "efforts",
+  "to",
+  "improve",
+  "safety",
+  "conditions",
+  "in",
+  "chemical",
+  "facilities",
+  ".",
+  "All",
+  "but",
+  "three",
+  "of",
+  "the",
+  "40",
+  "-",
+  "person",
+  "CSB",
+  "staff",
+  "are",
+  "furloughed",
+  ",",
+  "including",
+  "all",
+  "10",
+  "of",
+  "the",
+  "people",
+  "investigating",
+  "the",
+  "West",
+  "explosion",
+  ",",
+  "Horowitz",
+  "said",
+  ".",
+  "''",
+  "Our",
+  "problems",
+  "are",
+  "really",
+  "acute",
+  "right",
+  "now",
+  ",",
+  "''",
+  "he",
+  "said",
+  ".",
+  "The",
+  "CSB",
+  "has",
+  "been",
+  "working",
+  "with",
+  "agencies",
+  "of",
+  "each",
+  "state",
+  "to",
+  "locate",
+  "ammonium",
+  "nitrate",
+  "facilities",
+  "and",
+  "identify",
+  "similar",
+  "potential",
+  "hazards",
+  ",",
+  "but",
+  "their",
+  "investigation",
+  "has",
+  "been",
+  "delayed",
+  "because",
+  "of",
+  "the",
+  "shutdown",
+  ".",
+  "Horowitz",
+  "said",
+  "the",
+  "agency",
+  "also",
+  "has",
+  "been",
+  "analyzing",
+  "eyewitness",
+  "videos",
+  "of",
+  "the",
+  "explosion",
+  "to",
+  "''",
+  "dissect",
+  "\u2019",
+  "'",
+  "what",
+  "happened",
+  "seconds",
+  "before",
+  "the",
+  "blast",
+  ".",
+  "The",
+  "last",
+  "time",
+  "Flores",
+  "visited",
+  "West",
+  "was",
+  "in",
+  "early",
+  "September",
+  ",",
+  "and",
+  "he",
+  "said",
+  "although",
+  "residents",
+  "have",
+  "built",
+  "new",
+  "houses",
+  "in",
+  "the",
+  "area",
+  "and",
+  "reopened",
+  "schools",
+  ",",
+  "the",
+  "town",
+  "still",
+  "has",
+  "a",
+  "long",
+  "way",
+  "to",
+  "go",
+  "\u2013",
+  "as",
+  "do",
+  "the",
+  "agencies",
+  "investigating",
+  "it",
+  "as",
+  "they",
+  "face",
+  "uncertain",
+  "fiscal",
+  "times",
+  ".",
+  "''",
+  "In",
+  "our",
+  "current",
+  "fiscal",
+  "environment",
+  ",",
+  "we",
+  "have",
+  "to",
+  "do",
+  "more",
+  "with",
+  "less",
+  ",",
+  "''",
+  "Flores",
+  "said",
+  ".",
+  "''",
+  "The",
+  "federal",
+  "government",
+  "has",
+  "never",
+  "been",
+  "very",
+  "efficient",
+  ",",
+  "but",
+  "it",
+  "\u2019s",
+  "going",
+  "to",
+  "have",
+  "to",
+  "learn",
+  "how",
+  "to",
+  "be",
+  "efficient",
+  ".",
+  "We",
+  "just",
+  "do",
+  "n\u2019t",
+  "have",
+  "the",
+  "resources",
+  "to",
+  "fund",
+  "everything",
+  "we",
+  "\u2019d",
+  "like",
+  "to",
+  "fund",
+  ".",
+  "''"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   54,
+   74,
+   91,
+   115,
+   131,
+   163,
+   197,
+   213,
+   253,
+   290,
+   320,
+   363,
+   392,
+   438,
+   461,
+   487,
+   513,
+   543,
+   560,
+   587,
+   600,
+   632,
+   657,
+   707,
+   726,
+   749,
+   766
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "Bill_Flores",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "Flores"
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "CSB"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "West"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "CSB"
+      },
+      {
+       "label": "California",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "California"
+      },
+      {
+       "label": "Barbara_Boxer",
+       "score": 1.0,
+       "start": 166,
+       "end": 168,
+       "tokens": "Barbara Boxer"
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "West"
+      },
+      {
+       "label": "Bill_Flores",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "Flores"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 253,
+       "end": 255,
+       "tokens": "Daniel Horowitz"
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "West"
+      },
+      {
+       "label": "Republican_Party_(United_States)",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "R"
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "United_States_Senate_Committee_on_Environment_and_Public_Works",
+       "score": 1.0,
+       "start": 172,
+       "end": 178,
+       "tokens": "Committee on Environment and Public Works"
+      },
+      {
+       "label": "Bryan,_Texas",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Bryan"
+      },
+      {
+       "label": "Texas",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TEXAS"
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 12,
+       "end": 17,
+       "tokens": "Occupational Safety and Health Administration"
+      },
+      {
+       "label": "Barbara_Boxer",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "Boxer"
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "Barbara_Boxer",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "Boxer"
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 56,
+       "end": 60,
+       "tokens": "Adair Grain , Inc."
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "CSB"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "West Fertilizer Co."
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "West"
+      },
+      {
+       "label": "Bill_Flores",
+       "score": 1.0,
+       "start": 723,
+       "end": 724,
+       "tokens": "Flores"
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 1.0,
+       "start": 231,
+       "end": 234,
+       "tokens": "Chemical Safety Board"
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "West"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 273,
+       "end": 276,
+       "tokens": "West Fertilizer Co."
+      },
+      {
+       "label": "United_States_Department_of_Labor",
+       "score": 1.0,
+       "start": 219,
+       "end": 222,
+       "tokens": "Department of Labor"
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "CSB"
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "West"
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "West"
+      },
+      {
+       "label": "Texas",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Texas"
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 326,
+       "end": 329,
+       "tokens": "West Fertilizer Co."
+      },
+      {
+       "label": "Bill_Flores",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "Flores"
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "West"
+      },
+      {
+       "label": "Bill_Flores",
+       "score": 1.0,
+       "start": 380,
+       "end": 382,
+       "tokens": "Bill Flores"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 320,
+       "end": 322,
+       "tokens": "Dan Keeney"
+      },
+      {
+       "label": "West,_Texas",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "West"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "Flores"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "CSB"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "West"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "CSB"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "California"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 166,
+       "end": 168,
+       "tokens": "Barbara Boxer"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "West"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "Flores"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 253,
+       "end": 255,
+       "tokens": "Daniel Horowitz"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "West"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "R"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 172,
+       "end": 178,
+       "tokens": "Committee on Environment and Public Works"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Bryan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TEXAS"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 12,
+       "end": 17,
+       "tokens": "Occupational Safety and Health Administration"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "Boxer"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "Boxer"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 56,
+       "end": 60,
+       "tokens": "Adair Grain , Inc."
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "CSB"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "West Fertilizer Co."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "West"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 723,
+       "end": 724,
+       "tokens": "Flores"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 231,
+       "end": 234,
+       "tokens": "Chemical Safety Board"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "West"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 273,
+       "end": 276,
+       "tokens": "West Fertilizer Co."
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 219,
+       "end": 222,
+       "tokens": "Department of Labor"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "CSB"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "West"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "West"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Texas"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 326,
+       "end": 329,
+       "tokens": "West Fertilizer Co."
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "Flores"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "West"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 380,
+       "end": 382,
+       "tokens": "Bill Flores"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 320,
+       "end": 322,
+       "tokens": "Dan Keeney"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "West"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "OSHA",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "CITES",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "CITES"
+      },
+      {
+       "label": "OWNER",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "OWNER"
+      },
+      {
+       "label": "OF",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "OF"
+      },
+      {
+       "label": "TEXAS",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TEXAS"
+      },
+      {
+       "label": "FERTILIZER",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "FERTILIZER"
+      },
+      {
+       "label": "PLANT",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "PLANT"
+      },
+      {
+       "label": "THAT",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "THAT"
+      },
+      {
+       "label": "EXPLODED",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "EXPLODED"
+      },
+      {
+       "label": "WASHINGTON",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "The"
+      },
+      {
+       "label": "Occupational",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Occupational"
+      },
+      {
+       "label": "Safety",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Safety"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "and"
+      },
+      {
+       "label": "Health",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "Health"
+      },
+      {
+       "label": "Administration",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Administration"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "has"
+      },
+      {
+       "label": "cited",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "cited"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "company"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "that"
+      },
+      {
+       "label": "owns",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "owns"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "the"
+      },
+      {
+       "label": "fertilizer",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "fertilizer"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "plant"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "in"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "West"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": ","
+      },
+      {
+       "label": "Texas",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Texas"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": ","
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "for"
+      },
+      {
+       "label": "safety",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "safety"
+      },
+      {
+       "label": "violations",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "violations"
+      },
+      {
+       "label": "following",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "following"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "a"
+      },
+      {
+       "label": "massive",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "massive"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "explosion"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "the"
+      },
+      {
+       "label": "facility",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "facility"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "in"
+      },
+      {
+       "label": "April",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "April"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "which"
+      },
+      {
+       "label": "left",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "left"
+      },
+      {
+       "label": "15",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "15"
+      },
+      {
+       "label": "dead",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "dead"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "and"
+      },
+      {
+       "label": "leveled",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "leveled"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "the"
+      },
+      {
+       "label": "surrounding",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "surrounding"
+      },
+      {
+       "label": "area",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "area"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "."
+      },
+      {
+       "label": "OSHA",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "fined",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "fined"
+      },
+      {
+       "label": "Adair",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Adair"
+      },
+      {
+       "label": "Grain",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "Grain"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": ","
+      },
+      {
+       "label": "Inc.",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "Inc."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": ","
+      },
+      {
+       "label": "parent",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "parent"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "the"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "West"
+      },
+      {
+       "label": "Fertilizer",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Fertilizer"
+      },
+      {
+       "label": "Co.",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Co."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": ","
+      },
+      {
+       "label": "$118,300",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "$118,300"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "for"
+      },
+      {
+       "label": "24",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "24"
+      },
+      {
+       "label": "serious",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "serious"
+      },
+      {
+       "label": "violations",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "violations"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "The"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "explosion"
+      },
+      {
+       "label": "exposed",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "exposed"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "workers"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "to"
+      },
+      {
+       "label": "ammonium",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "ammonium"
+      },
+      {
+       "label": "nitrate",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "nitrate"
+      },
+      {
+       "label": "chemical",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "chemical"
+      },
+      {
+       "label": "burns",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "burns"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "and"
+      },
+      {
+       "label": "created",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "created"
+      },
+      {
+       "label": "inhalation",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "inhalation"
+      },
+      {
+       "label": "hazards",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "hazards"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "the"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "plant"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "The"
+      },
+      {
+       "label": "OSHA",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "report"
+      },
+      {
+       "label": "stated",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "stated"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "company"
+      },
+      {
+       "label": "failed",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "failed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "to"
+      },
+      {
+       "label": "develop",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "develop"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "a"
+      },
+      {
+       "label": "communication",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "communication"
+      },
+      {
+       "label": "plan",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "plan"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "in"
+      },
+      {
+       "label": "cases",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "cases"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "of"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "emergency"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "or"
+      },
+      {
+       "label": "create",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "create"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "a"
+      },
+      {
+       "label": "safe",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "safe"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "working"
+      },
+      {
+       "label": "environment",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "environment"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "is"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "also"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "being"
+      },
+      {
+       "label": "fined",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "fined"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "for"
+      },
+      {
+       "label": "having",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "having"
+      },
+      {
+       "label": "inadequate",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "inadequate"
+      },
+      {
+       "label": "ventilation",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "ventilation"
+      },
+      {
+       "label": "systems",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "systems"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "and"
+      },
+      {
+       "label": "improper",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "improper"
+      },
+      {
+       "label": "chemical",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "chemical"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "storage"
+      },
+      {
+       "label": "techniques",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "techniques"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "''"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "The"
+      },
+      {
+       "label": "employer",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "employer"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "did"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "not"
+      },
+      {
+       "label": "furnish",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "furnish"
+      },
+      {
+       "label": "employment",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "employment"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "a"
+      },
+      {
+       "label": "place",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "place"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "of"
+      },
+      {
+       "label": "employment",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "employment"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "which"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "was"
+      },
+      {
+       "label": "free",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "free"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "from"
+      },
+      {
+       "label": "recognized",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "recognized"
+      },
+      {
+       "label": "hazards",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "hazards"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "that"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "were"
+      },
+      {
+       "label": "causing",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "causing"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "or"
+      },
+      {
+       "label": "likely",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "likely"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "to"
+      },
+      {
+       "label": "cause",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "cause"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "death"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "''"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "the"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "report"
+      },
+      {
+       "label": "stated",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "stated"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "."
+      },
+      {
+       "label": "Democratic",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "California",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "California"
+      },
+      {
+       "label": "Sen.",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "Sen."
+      },
+      {
+       "label": "Barbara",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "Barbara"
+      },
+      {
+       "label": "Boxer",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Boxer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": ","
+      },
+      {
+       "label": "chair",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "chair"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "the"
+      },
+      {
+       "label": "Committee",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "Committee"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "on"
+      },
+      {
+       "label": "Environment",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "Environment"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "and"
+      },
+      {
+       "label": "Public",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "Public"
+      },
+      {
+       "label": "Works",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Works"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": ","
+      },
+      {
+       "label": "announced",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "announced"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "the"
+      },
+      {
+       "label": "fines",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "fines"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "and"
+      },
+      {
+       "label": "violations",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "violations"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "Thursday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": ","
+      },
+      {
+       "label": "asserting",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "asserting"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "that"
+      },
+      {
+       "label": "similar",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "similar"
+      },
+      {
+       "label": "explosions",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "explosions"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "can"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "be"
+      },
+      {
+       "label": "prevented",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "prevented"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "with"
+      },
+      {
+       "label": "proper",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "proper"
+      },
+      {
+       "label": "oversight",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "oversight"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "''"
+      },
+      {
+       "label": "All",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "All"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "of"
+      },
+      {
+       "label": "these",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "these"
+      },
+      {
+       "label": "things",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "things"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "are"
+      },
+      {
+       "label": "pretty",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "pretty"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "much"
+      },
+      {
+       "label": "standard",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "standard"
+      },
+      {
+       "label": "operating",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "operating"
+      },
+      {
+       "label": "procedure",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "procedure"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "''"
+      },
+      {
+       "label": "Boxer",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "Boxer"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "."
+      },
+      {
+       "label": "OSHA",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "OSHA"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "a"
+      },
+      {
+       "label": "division",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "division"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "the"
+      },
+      {
+       "label": "Department",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "Department"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "of"
+      },
+      {
+       "label": "Labor",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Labor"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": ","
+      },
+      {
+       "label": "works",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "works"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "with"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "several"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "other"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "agencies"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "including"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "the"
+      },
+      {
+       "label": "Chemical",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "Chemical"
+      },
+      {
+       "label": "Safety",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "Safety"
+      },
+      {
+       "label": "Board",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "Board"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": ","
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "to"
+      },
+      {
+       "label": "ensure",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "ensure"
+      },
+      {
+       "label": "proper",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "proper"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "and"
+      },
+      {
+       "label": "safe",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "safe"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "working"
+      },
+      {
+       "label": "conditions",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "conditions"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "and"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "been"
+      },
+      {
+       "label": "investigating",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "investigating"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "the"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "West"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "explosion"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "for"
+      },
+      {
+       "label": "months",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "months"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "."
+      },
+      {
+       "label": "Daniel",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "Daniel"
+      },
+      {
+       "label": "Horowitz",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": ","
+      },
+      {
+       "label": "managing",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "managing"
+      },
+      {
+       "label": "director",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "director"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "the"
+      },
+      {
+       "label": "CSB",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "CSB"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "the"
+      },
+      {
+       "label": "agency",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "agency"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "is"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "working"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "to"
+      },
+      {
+       "label": "understand",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "understand"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "what"
+      },
+      {
+       "label": "exactly",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "exactly"
+      },
+      {
+       "label": "caused",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "caused"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "the"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "West"
+      },
+      {
+       "label": "Fertilizer",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "Fertilizer"
+      },
+      {
+       "label": "Co.",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "Co."
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "plant"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "to"
+      },
+      {
+       "label": "explode",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "explode"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "and"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "where"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "there"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "were"
+      },
+      {
+       "label": "regulatory",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "regulatory"
+      },
+      {
+       "label": "gaps",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "gaps"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "in"
+      },
+      {
+       "label": "identifying",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "identifying"
+      },
+      {
+       "label": "potential",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "potential"
+      },
+      {
+       "label": "hazards",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "hazards"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "''"
+      },
+      {
+       "label": "What",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "What"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "our"
+      },
+      {
+       "label": "team",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "team"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "is"
+      },
+      {
+       "label": "focusing",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "focusing"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "on"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "is"
+      },
+      {
+       "label": "why",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "why"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "did"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "this"
+      },
+      {
+       "label": "fire",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "fire"
+      },
+      {
+       "label": "progress",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "progress"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "to"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "an"
+      },
+      {
+       "label": "ammonium",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "ammonium"
+      },
+      {
+       "label": "detonation",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "detonation"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "and"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "how"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "should"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "that"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "storage"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "be"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "made"
+      },
+      {
+       "label": "safer",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "safer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "''"
+      },
+      {
+       "label": "Horowitz",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "."
+      },
+      {
+       "label": "Dan",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "Dan"
+      },
+      {
+       "label": "Keeney",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Keeney"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "a"
+      },
+      {
+       "label": "spokesman",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "spokesman"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "for"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "West"
+      },
+      {
+       "label": "Fertilizer",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "Fertilizer"
+      },
+      {
+       "label": "Co.",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "Co."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "company"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "attorneys",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "attorneys"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "are"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "still"
+      },
+      {
+       "label": "reviewing",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "reviewing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "the"
+      },
+      {
+       "label": "citations",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "citations"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "but"
+      },
+      {
+       "label": "based",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "based"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "on"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "their"
+      },
+      {
+       "label": "initial",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "initial"
+      },
+      {
+       "label": "review",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "review"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": ","
+      },
+      {
+       "label": "OSHA",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "allegations",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "allegations"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "do"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "appear"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "be"
+      },
+      {
+       "label": "specifically",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "specifically"
+      },
+      {
+       "label": "related",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "related"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "the"
+      },
+      {
+       "label": "April",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "April"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "explosion"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "But"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "the"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "plant"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "could"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "have"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "had"
+      },
+      {
+       "label": "better",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "better"
+      },
+      {
+       "label": "safety",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "safety"
+      },
+      {
+       "label": "management",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "management"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "years"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "the"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "explosion"
+      },
+      {
+       "label": "happened",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "happened"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "said"
+      },
+      {
+       "label": "Congressman",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "Congressman"
+      },
+      {
+       "label": "Bill",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "Bill"
+      },
+      {
+       "label": "Flores",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "Flores"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": ","
+      },
+      {
+       "label": "R",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "R"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "-"
+      },
+      {
+       "label": "Bryan",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Bryan"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": ","
+      },
+      {
+       "label": "whose",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "whose"
+      },
+      {
+       "label": "district",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "district"
+      },
+      {
+       "label": "includes",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "includes"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "West"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "."
+      },
+      {
+       "label": "Flores",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "Flores"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "said"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "plant"
+      },
+      {
+       "label": "managers",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "managers"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "should"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "have"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "had"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "a"
+      },
+      {
+       "label": "stronger",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "stronger"
+      },
+      {
+       "label": "safety",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "safety"
+      },
+      {
+       "label": "program",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "program"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "in"
+      },
+      {
+       "label": "place",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "place"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "the"
+      },
+      {
+       "label": "citations",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "citations"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "the"
+      },
+      {
+       "label": "OSHA",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "report"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "to"
+      },
+      {
+       "label": "prevent",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "prevent"
+      },
+      {
+       "label": "similar",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "similar"
+      },
+      {
+       "label": "large",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "large"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "-"
+      },
+      {
+       "label": "scale",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "scale"
+      },
+      {
+       "label": "accidents",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "accidents"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "which"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "are"
+      },
+      {
+       "label": "often",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "often"
+      },
+      {
+       "label": "built",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "built"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "up"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "over"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "time"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "and"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "not"
+      },
+      {
+       "label": "caused",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "caused"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "a"
+      },
+      {
+       "label": "single",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "single"
+      },
+      {
+       "label": "mistake",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "mistake"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "."
+      },
+      {
+       "label": "CSB",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "CSB"
+      },
+      {
+       "label": "testimony",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "testimony"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "from"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "a"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "committee"
+      },
+      {
+       "label": "hearing",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "hearing"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "in"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "June"
+      },
+      {
+       "label": "revealed",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "revealed"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "the"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "West"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "plant"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "had"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "not"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "been"
+      },
+      {
+       "label": "inspected",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "inspected"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "a"
+      },
+      {
+       "label": "federal",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "federal"
+      },
+      {
+       "label": "agency",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "agency"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "since"
+      },
+      {
+       "label": "1985",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "1985"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "''"
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "If"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "the"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "plant"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "been"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "run"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "a"
+      },
+      {
+       "label": "safer",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "safer"
+      },
+      {
+       "label": "manner",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "manner"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": ","
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "then"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "we"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "would"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "be"
+      },
+      {
+       "label": "having",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "having"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "this"
+      },
+      {
+       "label": "discussion",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "discussion"
+      },
+      {
+       "label": "today",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "today"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "''"
+      },
+      {
+       "label": "Flores",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "Flores"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "''"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "It"
+      },
+      {
+       "label": "shows",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "shows"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "we"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "still"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "have"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "a"
+      },
+      {
+       "label": "lot",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "lot"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "of"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "work"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "to"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "do"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "in"
+      },
+      {
+       "label": "terms",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "terms"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "of"
+      },
+      {
+       "label": "mitigating",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "mitigating"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "the"
+      },
+      {
+       "label": "risks",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "risks"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "from"
+      },
+      {
+       "label": "these",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "these"
+      },
+      {
+       "label": "types",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "types"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "of"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "facilities"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "''"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "The"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "government"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "investigation",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "investigation"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "into"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "the"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "plant"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "explosion"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "is"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "complete",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "complete"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "and"
+      },
+      {
+       "label": "OSHA",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "OSHA"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "and"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "other"
+      },
+      {
+       "label": "federal",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "federal"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "agencies"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "are"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "working"
+      },
+      {
+       "label": "together",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "together"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "to"
+      },
+      {
+       "label": "determine",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "determine"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "its"
+      },
+      {
+       "label": "cause",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "cause"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": ","
+      },
+      {
+       "label": "Boxer",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "Boxer"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "But"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "the"
+      },
+      {
+       "label": "current",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "current"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "government"
+      },
+      {
+       "label": "shutdown",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "shutdown"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "has"
+      },
+      {
+       "label": "prevented",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "prevented"
+      },
+      {
+       "label": "federal",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "federal"
+      },
+      {
+       "label": "efforts",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "efforts"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "to"
+      },
+      {
+       "label": "improve",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "improve"
+      },
+      {
+       "label": "safety",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "safety"
+      },
+      {
+       "label": "conditions",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "conditions"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "in"
+      },
+      {
+       "label": "chemical",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "chemical"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "facilities"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "."
+      },
+      {
+       "label": "All",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "All"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "but"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "three"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "the"
+      },
+      {
+       "label": "40",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "40"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "-"
+      },
+      {
+       "label": "person",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "person"
+      },
+      {
+       "label": "CSB",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "CSB"
+      },
+      {
+       "label": "staff",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "staff"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "are"
+      },
+      {
+       "label": "furloughed",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "furloughed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "including"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "all"
+      },
+      {
+       "label": "10",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "10"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "the"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "people"
+      },
+      {
+       "label": "investigating",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "investigating"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "the"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "West"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "explosion"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": ","
+      },
+      {
+       "label": "Horowitz",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "''"
+      },
+      {
+       "label": "Our",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "Our"
+      },
+      {
+       "label": "problems",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "problems"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "are"
+      },
+      {
+       "label": "really",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "really"
+      },
+      {
+       "label": "acute",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "acute"
+      },
+      {
+       "label": "right",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "right"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "now"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "''"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "The"
+      },
+      {
+       "label": "CSB",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "CSB"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "been"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "working"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "with"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "agencies"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "of"
+      },
+      {
+       "label": "each",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "each"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "state"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": "to"
+      },
+      {
+       "label": "locate",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": "locate"
+      },
+      {
+       "label": "ammonium",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "ammonium"
+      },
+      {
+       "label": "nitrate",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "nitrate"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "facilities"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "and"
+      },
+      {
+       "label": "identify",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": "identify"
+      },
+      {
+       "label": "similar",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "similar"
+      },
+      {
+       "label": "potential",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "potential"
+      },
+      {
+       "label": "hazards",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "hazards"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 621,
+       "end": 622,
+       "tokens": "but"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 622,
+       "end": 623,
+       "tokens": "their"
+      },
+      {
+       "label": "investigation",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": "investigation"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 624,
+       "end": 625,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 625,
+       "end": 626,
+       "tokens": "been"
+      },
+      {
+       "label": "delayed",
+       "score": 1.0,
+       "start": 626,
+       "end": 627,
+       "tokens": "delayed"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 627,
+       "end": 628,
+       "tokens": "because"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 628,
+       "end": 629,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 629,
+       "end": 630,
+       "tokens": "the"
+      },
+      {
+       "label": "shutdown",
+       "score": 1.0,
+       "start": 630,
+       "end": 631,
+       "tokens": "shutdown"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 631,
+       "end": 632,
+       "tokens": "."
+      },
+      {
+       "label": "Horowitz",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "Horowitz"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 633,
+       "end": 634,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 634,
+       "end": 635,
+       "tokens": "the"
+      },
+      {
+       "label": "agency",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "agency"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 636,
+       "end": 637,
+       "tokens": "also"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 637,
+       "end": 638,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 638,
+       "end": 639,
+       "tokens": "been"
+      },
+      {
+       "label": "analyzing",
+       "score": 1.0,
+       "start": 639,
+       "end": 640,
+       "tokens": "analyzing"
+      },
+      {
+       "label": "eyewitness",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "eyewitness"
+      },
+      {
+       "label": "videos",
+       "score": 1.0,
+       "start": 641,
+       "end": 642,
+       "tokens": "videos"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 642,
+       "end": 643,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 643,
+       "end": 644,
+       "tokens": "the"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 644,
+       "end": 645,
+       "tokens": "explosion"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "to"
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 646,
+       "end": 647,
+       "tokens": "''"
+      },
+      {
+       "label": "dissect",
+       "score": 1.0,
+       "start": 647,
+       "end": 648,
+       "tokens": "dissect"
+      },
+      {
+       "label": "\u2019",
+       "score": 1.0,
+       "start": 648,
+       "end": 649,
+       "tokens": "\u2019"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 649,
+       "end": 650,
+       "tokens": "'"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 650,
+       "end": 651,
+       "tokens": "what"
+      },
+      {
+       "label": "happened",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "happened"
+      },
+      {
+       "label": "seconds",
+       "score": 1.0,
+       "start": 652,
+       "end": 653,
+       "tokens": "seconds"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 653,
+       "end": 654,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 654,
+       "end": 655,
+       "tokens": "the"
+      },
+      {
+       "label": "blast",
+       "score": 1.0,
+       "start": 655,
+       "end": 656,
+       "tokens": "blast"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 656,
+       "end": 657,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 657,
+       "end": 658,
+       "tokens": "The"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 658,
+       "end": 659,
+       "tokens": "last"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 659,
+       "end": 660,
+       "tokens": "time"
+      },
+      {
+       "label": "Flores",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "Flores"
+      },
+      {
+       "label": "visited",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "visited"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "West"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 663,
+       "end": 664,
+       "tokens": "was"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 664,
+       "end": 665,
+       "tokens": "in"
+      },
+      {
+       "label": "early",
+       "score": 1.0,
+       "start": 665,
+       "end": 666,
+       "tokens": "early"
+      },
+      {
+       "label": "September",
+       "score": 1.0,
+       "start": 666,
+       "end": 667,
+       "tokens": "September"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 667,
+       "end": 668,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "and"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 669,
+       "end": 670,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 670,
+       "end": 671,
+       "tokens": "said"
+      },
+      {
+       "label": "although",
+       "score": 1.0,
+       "start": 671,
+       "end": 672,
+       "tokens": "although"
+      },
+      {
+       "label": "residents",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "residents"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 673,
+       "end": 674,
+       "tokens": "have"
+      },
+      {
+       "label": "built",
+       "score": 1.0,
+       "start": 674,
+       "end": 675,
+       "tokens": "built"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 675,
+       "end": 676,
+       "tokens": "new"
+      },
+      {
+       "label": "houses",
+       "score": 1.0,
+       "start": 676,
+       "end": 677,
+       "tokens": "houses"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 678,
+       "end": 679,
+       "tokens": "the"
+      },
+      {
+       "label": "area",
+       "score": 1.0,
+       "start": 679,
+       "end": 680,
+       "tokens": "area"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 680,
+       "end": 681,
+       "tokens": "and"
+      },
+      {
+       "label": "reopened",
+       "score": 1.0,
+       "start": 681,
+       "end": 682,
+       "tokens": "reopened"
+      },
+      {
+       "label": "schools",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "schools"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 683,
+       "end": 684,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 684,
+       "end": 685,
+       "tokens": "the"
+      },
+      {
+       "label": "town",
+       "score": 1.0,
+       "start": 685,
+       "end": 686,
+       "tokens": "town"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 686,
+       "end": 687,
+       "tokens": "still"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 687,
+       "end": 688,
+       "tokens": "has"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 688,
+       "end": 689,
+       "tokens": "a"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 689,
+       "end": 690,
+       "tokens": "long"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 690,
+       "end": 691,
+       "tokens": "way"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 691,
+       "end": 692,
+       "tokens": "to"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "go"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 694,
+       "end": 695,
+       "tokens": "as"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 695,
+       "end": 696,
+       "tokens": "do"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 696,
+       "end": 697,
+       "tokens": "the"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 697,
+       "end": 698,
+       "tokens": "agencies"
+      },
+      {
+       "label": "investigating",
+       "score": 1.0,
+       "start": 698,
+       "end": 699,
+       "tokens": "investigating"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 699,
+       "end": 700,
+       "tokens": "it"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 700,
+       "end": 701,
+       "tokens": "as"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 701,
+       "end": 702,
+       "tokens": "they"
+      },
+      {
+       "label": "face",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "face"
+      },
+      {
+       "label": "uncertain",
+       "score": 1.0,
+       "start": 703,
+       "end": 704,
+       "tokens": "uncertain"
+      },
+      {
+       "label": "fiscal",
+       "score": 1.0,
+       "start": 704,
+       "end": 705,
+       "tokens": "fiscal"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 705,
+       "end": 706,
+       "tokens": "times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 706,
+       "end": 707,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 707,
+       "end": 708,
+       "tokens": "''"
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 708,
+       "end": 709,
+       "tokens": "In"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 709,
+       "end": 710,
+       "tokens": "our"
+      },
+      {
+       "label": "current",
+       "score": 1.0,
+       "start": 710,
+       "end": 711,
+       "tokens": "current"
+      },
+      {
+       "label": "fiscal",
+       "score": 1.0,
+       "start": 711,
+       "end": 712,
+       "tokens": "fiscal"
+      },
+      {
+       "label": "environment",
+       "score": 1.0,
+       "start": 712,
+       "end": 713,
+       "tokens": "environment"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 713,
+       "end": 714,
+       "tokens": ","
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 714,
+       "end": 715,
+       "tokens": "we"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 715,
+       "end": 716,
+       "tokens": "have"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 716,
+       "end": 717,
+       "tokens": "to"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 717,
+       "end": 718,
+       "tokens": "do"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 718,
+       "end": 719,
+       "tokens": "more"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 719,
+       "end": 720,
+       "tokens": "with"
+      },
+      {
+       "label": "less",
+       "score": 1.0,
+       "start": 720,
+       "end": 721,
+       "tokens": "less"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 721,
+       "end": 722,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 722,
+       "end": 723,
+       "tokens": "''"
+      },
+      {
+       "label": "Flores",
+       "score": 1.0,
+       "start": 723,
+       "end": 724,
+       "tokens": "Flores"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 724,
+       "end": 725,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 725,
+       "end": 726,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 726,
+       "end": 727,
+       "tokens": "''"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 727,
+       "end": 728,
+       "tokens": "The"
+      },
+      {
+       "label": "federal",
+       "score": 1.0,
+       "start": 728,
+       "end": 729,
+       "tokens": "federal"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 729,
+       "end": 730,
+       "tokens": "government"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 730,
+       "end": 731,
+       "tokens": "has"
+      },
+      {
+       "label": "never",
+       "score": 1.0,
+       "start": 731,
+       "end": 732,
+       "tokens": "never"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 732,
+       "end": 733,
+       "tokens": "been"
+      },
+      {
+       "label": "very",
+       "score": 1.0,
+       "start": 733,
+       "end": 734,
+       "tokens": "very"
+      },
+      {
+       "label": "efficient",
+       "score": 1.0,
+       "start": 734,
+       "end": 735,
+       "tokens": "efficient"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 735,
+       "end": 736,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 736,
+       "end": 737,
+       "tokens": "but"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 737,
+       "end": 738,
+       "tokens": "it"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 738,
+       "end": 739,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 739,
+       "end": 740,
+       "tokens": "going"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 740,
+       "end": 741,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 741,
+       "end": 742,
+       "tokens": "have"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 742,
+       "end": 743,
+       "tokens": "to"
+      },
+      {
+       "label": "learn",
+       "score": 1.0,
+       "start": 743,
+       "end": 744,
+       "tokens": "learn"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 744,
+       "end": 745,
+       "tokens": "how"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 745,
+       "end": 746,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 746,
+       "end": 747,
+       "tokens": "be"
+      },
+      {
+       "label": "efficient",
+       "score": 1.0,
+       "start": 747,
+       "end": 748,
+       "tokens": "efficient"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 748,
+       "end": 749,
+       "tokens": "."
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 749,
+       "end": 750,
+       "tokens": "We"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 750,
+       "end": 751,
+       "tokens": "just"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 751,
+       "end": 752,
+       "tokens": "do"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 752,
+       "end": 753,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 753,
+       "end": 754,
+       "tokens": "have"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 754,
+       "end": 755,
+       "tokens": "the"
+      },
+      {
+       "label": "resources",
+       "score": 1.0,
+       "start": 755,
+       "end": 756,
+       "tokens": "resources"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 756,
+       "end": 757,
+       "tokens": "to"
+      },
+      {
+       "label": "fund",
+       "score": 1.0,
+       "start": 757,
+       "end": 758,
+       "tokens": "fund"
+      },
+      {
+       "label": "everything",
+       "score": 1.0,
+       "start": 758,
+       "end": 759,
+       "tokens": "everything"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 759,
+       "end": 760,
+       "tokens": "we"
+      },
+      {
+       "label": "\u2019d",
+       "score": 1.0,
+       "start": 760,
+       "end": 761,
+       "tokens": "\u2019d"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "like"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 762,
+       "end": 763,
+       "tokens": "to"
+      },
+      {
+       "label": "fund",
+       "score": 1.0,
+       "start": 763,
+       "end": 764,
+       "tokens": "fund"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 764,
+       "end": 765,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 765,
+       "end": 766,
+       "tokens": "''"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435695276872855,
+       "start": 527,
+       "end": 528,
+       "tokens": "OSHA",
+       "labelScoreMap": {
+        "Occupational_Safety_and_Health_Administration": 0.9435695276872855,
+        "Occupational_Safety_and_Health_Act_(United_States)": 0.0564304723127146,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Flores",
+       "score": 0.378123966577239,
+       "start": 392,
+       "end": 393,
+       "tokens": "Flores",
+       "labelScoreMap": {
+        "Flores": 0.378123966577239,
+        "Flores_Island_(Azores)": 0.11932744669955912,
+        "Flores,_Buenos_Aires": 0.1934307411673452,
+        "Flores,_El_Pet\u00e9n": 0.056429269354175235,
+        "Flores_Department": 0.1361000201851432,
+        "Fernando_Flores": 0.01289266674627659,
+        "Tom_Flores": 0.010366108414012861,
+        "Quique_S\u00e1nchez_Flores": 0.00854435657071234,
+        "Jos\u00e9_Mar\u00eda_Flores": 0.05722403163982407,
+        "Francisco_Flores_P\u00e9rez": 0.00441830727825449,
+        "Marcos_Flores": 0.00438283183848293,
+        "Carlos_Roberto_Flores": 0.0028473601663380438,
+        "Homo_floresiensis": 0.015912893362636734,
+        "<unk_wid>": 1.0363610874147602e-22
+       }
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 0.4000899290513491,
+       "start": 601,
+       "end": 602,
+       "tokens": "CSB",
+       "labelScoreMap": {
+        "Kashubian_language": 0.35798900636479764,
+        "Gda\u0144sk": 0.09075395262835619,
+        "Benilde_Blazers": 0.020515958313711013,
+        "Congregation_of_St._Basil": 0.09719671310497147,
+        "De_La_Salle\u2013College_of_Saint_Benilde": 0.013214280246753208,
+        "Holman_Christian_Standard_Bible": 0.00310567564233962,
+        "Film": 0.002618407346976999,
+        "U.S._Chemical_Safety_and_Hazard_Investigation_Board": 0.4000899290513491,
+        "Concepci\u00f3n,_Chile": 0.0013352614735552143,
+        "Earth": 0.001316483846308228,
+        "Saint-Di\u00e9-des-Vosges": 0.0013647024710126971,
+        "Daniel_Chodowiecki": 0.0012955715678687326,
+        "Catholic_Church": 0.0008845507754274435,
+        "Japan": 0.0012806990122436678,
+        "Qin_Shi_Huang": 0.0008727669829066365,
+        "Stockholm": 0.0014446494191228375,
+        "France": 0.0010854663335533093,
+        "Wikipedia": 0.000872514912538566,
+        "St._Mary's_Church,_Gda\u0144sk": 0.0018901073799673979,
+        "\u0110\u1ed3ng_H\u1edbi": 0.0008733031262401564,
+        "<unk_wid>": 3.5092929138050264e-34
+       }
+      },
+      {
+       "label": "Vladimir_Horowitz",
+       "score": 0.6411511230394245,
+       "start": 317,
+       "end": 318,
+       "tokens": "Horowitz",
+       "labelScoreMap": {
+        "Vladimir_Horowitz": 0.6411511230394245,
+        "Nitzan_Horowitz": 0.11009660091145021,
+        "Anthony_Horowitz": 0.09182100198522582,
+        "David_Horowitz": 0.0754147368986442,
+        "Israel_Albert_Horowitz": 0.038248066665980705,
+        "Adam_Horowitz": 0.01412961666411342,
+        "Ben_Horowitz": 0.0277586335462975,
+        "Ho\u0159ovice": 0.0013802202888637907,
+        "<unk_wid>": 1.0126509882439914e-25
+       }
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.38400345541759834,
+       "start": 9,
+       "end": 10,
+       "tokens": "WASHINGTON",
+       "labelScoreMap": {
+        "Washington,_D.C.": 0.38400345541759834,
+        "George_Washington": 0.040207330601221676,
+        "University_of_Washington": 0.12789558628126382,
+        "Washington,_Pennsylvania": 0.013677572523889943,
+        "Washington_County,_New_York": 0.013437613055673063,
+        "Washington_County,_Pennsylvania": 0.012165853611333509,
+        "Washington_Huskies_football": 0.012156370788179565,
+        "Washington_County,_Nebraska": 0.011194008937612292,
+        "Washington_(footballer)": 0.011086043667798017,
+        "Washington_County,_Oregon": 0.011002060700161244,
+        "Washington,_Tyne_and_Wear": 0.010642124071465543,
+        "Washington_County,_Iowa": 0.010510131683671334,
+        "Washington_County,_Wisconsin": 0.010330174506265973,
+        "Washington,_Oklahoma": 0.008734453203639568,
+        "Washington_County,_Maine": 0.008578478421855523,
+        "Washington_County,_Illinois": 0.00796659288726978,
+        "Washington,_Indiana": 0.007942588130217412,
+        "Washington_Wizards": 0.007162954363171541,
+        "Washington_County,_Ohio": 0.007150723084896792,
+        "Washington_County,_Tennessee": 0.006802800539023974,
+        "Washington_County,_Florida": 0.006730808217228361,
+        "Washington_National_Guard": 0.2231185396875459,
+        "Washington,_Utah": 0.00637087204188853,
+        "Washington_Capitals": 0.006250921331022009,
+        "Washington_County,_Rhode_Island": 0.006142904988289845,
+        "Washington_County,_Utah": 0.00611892268511308,
+        "Washington_County,_Colorado": 0.0061069091443098494,
+        "Washington_County,_Maryland": 0.0057229901530484045,
+        "Washington,_Georgia": 0.005519028357347095,
+        "Washington_County,_Minnesota": 0.005271186917997875
+       }
+      },
+      {
+       "label": "West_Coast_of_the_United_States",
+       "score": 0.2965534065256425,
+       "start": 273,
+       "end": 274,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.13761506803296625,
+        "West_Africa": 0.047864476562005896,
+        "AFC_West": 0.039671891894600006,
+        "NFC_West": 0.03690016826532794,
+        "Konkan": 0.027185327551754332,
+        "Western_Christianity": 0.024166904595147008,
+        "Western_Asia": 0.023765410000515567,
+        "American_frontier": 0.02393061428314516,
+        "Western_Roman_Empire": 0.018406775031937807,
+        "Serbian_League_West": 0.016284536135775105,
+        "Western_Europe": 0.030898382195617087,
+        "West_Germany": 0.024212516086457463,
+        "Jerry_West": 0.014941937038265143,
+        "Canadian_Football_League_West_Division": 0.014953762168535265,
+        "Amsterdam-West": 0.013642626742865127,
+        "Arizona_State_University_West_campus": 0.011693680066227114,
+        "American_League_West": 0.011217333039251152,
+        "West_Virginia": 0.0407908837393055,
+        "London": 0.019124614774953027,
+        "West_Coast_of_the_United_States": 0.2965534065256425,
+        "West_France_(European_Parliament_constituency)": 0.007319382466695495,
+        "West_Prussia": 0.0068432424428737084,
+        "West_Berlin": 0.0069917953255770274,
+        "West,_Texas": 0.006756342642079195,
+        "West_Region,_Singapore": 0.006541656597445297,
+        "National_League_West": 0.0064965833798844045,
+        "Danish_2nd_Division_West": 0.006496494775239899,
+        "Cardiff": 0.006532444865482104,
+        "Western_Australia": 0.04129293510215832,
+        "West_Pakistan": 0.030908807672269854
+       }
+      },
+      {
+       "label": "Vladimir_Horowitz",
+       "score": 0.6400645121356411,
+       "start": 632,
+       "end": 633,
+       "tokens": "Horowitz",
+       "labelScoreMap": {
+        "Vladimir_Horowitz": 0.6400645121356411,
+        "Nitzan_Horowitz": 0.1106715217948154,
+        "Anthony_Horowitz": 0.09165563586669669,
+        "David_Horowitz": 0.06970211517922852,
+        "Israel_Albert_Horowitz": 0.04370568361142158,
+        "Adam_Horowitz": 0.01402772996461099,
+        "Ben_Horowitz": 0.028768211082328205,
+        "Ho\u0159ovice": 0.001404590365257566,
+        "<unk_wid>": 2.3130193911260924e-28
+       }
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 0.49995932452403086,
+       "start": 260,
+       "end": 261,
+       "tokens": "CSB",
+       "labelScoreMap": {
+        "Kashubian_language": 0.3452026769079115,
+        "Gda\u0144sk": 0.08919939275585877,
+        "Benilde_Blazers": 0.02015556555209811,
+        "Congregation_of_St._Basil": 0.017582709142407376,
+        "De_La_Salle\u2013College_of_Saint_Benilde": 0.010733980808170797,
+        "Holman_Christian_Standard_Bible": 0.003002428331315053,
+        "Film": 0.00257305161296105,
+        "U.S._Chemical_Safety_and_Hazard_Investigation_Board": 0.49995932452403086,
+        "Concepci\u00f3n,_Chile": 0.0012865294385364845,
+        "Earth": 0.0012865258995166996,
+        "Saint-Di\u00e9-des-Vosges": 0.0012871000816832118,
+        "Daniel_Chodowiecki": 0.0008626937843831891,
+        "Catholic_Church": 0.0008576869774073581,
+        "Japan": 0.0008579782466746991,
+        "Qin_Shi_Huang": 0.0008576865298398047,
+        "Stockholm": 0.0008581975726784088,
+        "France": 0.0008577024362469998,
+        "Wikipedia": 0.0008576865228479363,
+        "St._Mary's_Church,_Gda\u0144sk": 0.0008633963518350451,
+        "\u0110\u1ed3ng_H\u1edbi": 0.0008576865235966428,
+        "<unk_wid>": 1.0546412628698815e-44
+       }
+      },
+      {
+       "label": "California",
+       "score": 0.9701645515699675,
+       "start": 164,
+       "end": 165,
+       "tokens": "California",
+       "labelScoreMap": {
+        "California": 0.9701645515699675,
+        "University_of_California,_Berkeley": 0.005399098476185956,
+        "California_Golden_Bears_football": 0.005267238250920124,
+        "California_Trail": 0.00577975117758715,
+        "California,_Missouri": 0.003009342851108909,
+        "United_States_Senate_election_in_California,_2010": 0.0016514483672720659,
+        "California,_Pennsylvania": 0.0015877364670125937,
+        "California_Air_National_Guard": 0.0015608276151885827,
+        "University_of_California": 0.0016346434535494656,
+        "Auto_Club_Speedway": 0.001466200131875856,
+        "Ferrari_California": 0.0013029434862993079,
+        "Miss_California": 0.0011762181530324588,
+        "<unk_wid>": 8.170377625448109e-38
+       }
+      },
+      {
+       "label": "Barbara_Boxer",
+       "score": 0.9986449844993999,
+       "start": 166,
+       "end": 168,
+       "tokens": "Barbara Boxer",
+       "labelScoreMap": {
+        "Barbara_Boxer": 0.9986449844993999,
+        "United_States_Senate_election_in_California,_2010": 0.0013550155006000276,
+        "<unk_wid>": 5.737538701057228e-44
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.24765413244218415,
+       "start": 64,
+       "end": 65,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.06770506259026138,
+        "West_Africa": 0.04746566621246783,
+        "AFC_West": 0.039347110720259794,
+        "NFC_West": 0.03659808933511438,
+        "Konkan": 0.026933046079108923,
+        "Western_Christianity": 0.023969075449695516,
+        "Western_Asia": 0.022723451014128038,
+        "American_frontier": 0.022465705415143936,
+        "Western_Roman_Empire": 0.018256091070279683,
+        "Serbian_League_West": 0.016151232269610592,
+        "Western_Europe": 0.015851075042083728,
+        "West_Germany": 0.016390039955354575,
+        "Jerry_West": 0.014819622865945901,
+        "Canadian_Football_League_West_Division": 0.12503862778695113,
+        "Amsterdam-West": 0.013530949321914338,
+        "Arizona_State_University_West_campus": 0.01159795656215352,
+        "American_League_West": 0.011125452718289925,
+        "West_Virginia": 0.012103826012590016,
+        "London": 0.24765413244218415,
+        "West_Coast_of_the_United_States": 0.009465094110603043,
+        "West_France_(European_Parliament_constituency)": 0.00725946556415694,
+        "West_Prussia": 0.0067869600924842,
+        "West_Berlin": 0.006746613693494702,
+        "West,_Texas": 0.006701035772429024,
+        "West_Region,_Singapore": 0.006486268460177925,
+        "National_League_West": 0.006443319361935478,
+        "Danish_2nd_Division_West": 0.006443315000288499,
+        "Cardiff": 0.006036203036558132,
+        "Western_Australia": 0.021033063525932996,
+        "West_Pakistan": 0.12687244851840165
+       }
+      },
+      {
+       "label": "Flores",
+       "score": 0.3853039268440973,
+       "start": 484,
+       "end": 485,
+       "tokens": "Flores",
+       "labelScoreMap": {
+        "Flores": 0.3853039268440973,
+        "Flores_Island_(Azores)": 0.130371861397037,
+        "Flores,_Buenos_Aires": 0.22434802842420806,
+        "Flores,_El_Pet\u00e9n": 0.056458811149413805,
+        "Flores_Department": 0.11329342695536464,
+        "Fernando_Flores": 0.01284013467521822,
+        "Tom_Flores": 0.010442438869990989,
+        "Quique_S\u00e1nchez_Flores": 0.006839287708180683,
+        "Jos\u00e9_Mar\u00eda_Flores": 0.036825960776009796,
+        "Francisco_Flores_P\u00e9rez": 0.004446132913638072,
+        "Marcos_Flores": 0.004271394246852862,
+        "Carlos_Roberto_Flores": 0.0027313207521496292,
+        "Homo_floresiensis": 0.01182727528783909,
+        "<unk_wid>": 2.648594992336349e-23
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 253,
+       "end": 255,
+       "tokens": "Daniel Horowitz",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.2514133110066475,
+       "start": 390,
+       "end": 391,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.2514133110066475,
+        "West_Africa": 0.0485854264827839,
+        "AFC_West": 0.040275314269615975,
+        "NFC_West": 0.037461442893155734,
+        "Konkan": 0.027575337012143975,
+        "Western_Christianity": 0.024534537449903315,
+        "Western_Asia": 0.023260183912972812,
+        "American_frontier": 0.02351557076239968,
+        "Western_Roman_Empire": 0.018686773901274167,
+        "Serbian_League_West": 0.016532242012097183,
+        "Western_Europe": 0.01626115452755939,
+        "West_Germany": 0.018042617561420594,
+        "Jerry_West": 0.01516921965815314,
+        "Canadian_Football_League_West_Division": 0.015125236180371135,
+        "Amsterdam-West": 0.013850146244121352,
+        "Arizona_State_University_West_campus": 0.011871553923544389,
+        "American_League_West": 0.011387901994249536,
+        "West_Virginia": 0.1712160358576954,
+        "London": 0.008525172606202096,
+        "West_Coast_of_the_United_States": 0.13343527338381278,
+        "West_France_(European_Parliament_constituency)": 0.007430718418374924,
+        "West_Prussia": 0.007870007645519242,
+        "West_Berlin": 0.006924822481218102,
+        "West,_Texas": 0.0068591141112760426,
+        "West_Region,_Singapore": 0.00861842251190671,
+        "National_League_West": 0.006595313878719541,
+        "Danish_2nd_Division_West": 0.006595313668729138,
+        "Cardiff": 0.005855785266785515,
+        "Western_Australia": 0.011194704808196588,
+        "West_Pakistan": 0.005331345569150277
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 383,
+       "end": 384,
+       "tokens": "R",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435701702200155,
+       "start": 213,
+       "end": 214,
+       "tokens": "OSHA",
+       "labelScoreMap": {
+        "Occupational_Safety_and_Health_Administration": 0.9435701702200155,
+        "Occupational_Safety_and_Health_Act_(United_States)": 0.056429829779984335,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.943569840137038,
+       "start": 412,
+       "end": 413,
+       "tokens": "OSHA",
+       "labelScoreMap": {
+        "Occupational_Safety_and_Health_Administration": 0.943569840137038,
+        "Occupational_Safety_and_Health_Act_(United_States)": 0.056430159862962,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Vladimir_Horowitz",
+       "score": 0.6274743590016026,
+       "start": 584,
+       "end": 585,
+       "tokens": "Horowitz",
+       "labelScoreMap": {
+        "Vladimir_Horowitz": 0.6274743590016026,
+        "Nitzan_Horowitz": 0.11109941822785524,
+        "Anthony_Horowitz": 0.09084968285093363,
+        "David_Horowitz": 0.07238395542214925,
+        "Israel_Albert_Horowitz": 0.04816880092773667,
+        "Adam_Horowitz": 0.01394647500833016,
+        "Ben_Horowitz": 0.034616336146369706,
+        "Ho\u0159ovice": 0.0014609724150225689,
+        "<unk_wid>": 8.758280696070253e-24
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 172,
+       "end": 178,
+       "tokens": "Committee on Environment and Public Works",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Bryan_County,_Georgia",
+       "score": 0.4127158721740588,
+       "start": 385,
+       "end": 386,
+       "tokens": "Bryan",
+       "labelScoreMap": {
+        "Bryan,_Texas": 0.3210261474446685,
+        "Bryan_County,_Georgia": 0.4127158721740588,
+        "Bryan_County,_Oklahoma": 0.08906763089452968,
+        "William_Jennings_Bryan": 0.054192364541086877,
+        "Bryan,_Ohio": 0.04479568214291412,
+        "Richard_Bryan": 0.010343756809245428,
+        "Bryan_College": 0.010216204473264857,
+        "Bryan_Ruiz": 0.00715474671770022,
+        "Charles_W._Bryan": 0.006184684033204735,
+        "Bryan_Adams": 0.005777361131216848,
+        "Bo_Ryan": 0.005589386044888957,
+        "Bryan_Singer": 0.005155635747212987,
+        "Bob_Bryan": 0.0038930280851936084,
+        "Bryan_Talbot": 0.003788110209192503,
+        "Guy_M._Bryan": 0.0035773870175913464,
+        "Bob_Ryan": 0.0030513147870674974,
+        "Bryan_Green": 0.0024200003931044178,
+        "Bryan_Ferry": 0.0028940324521951584,
+        "Mike_Bryan": 0.0016834751958589717,
+        "Bryan_Robson": 0.0016169151633976782,
+        "Bryan_Guinness,_2nd_Baron_Moyne": 0.001475548040415981,
+        "Bryan_Colangelo": 0.001368365355383308,
+        "Bryan_Dobson": 0.0010633941484608632,
+        "Bryan_Konietzko": 0.0009489569981469265,
+        "<unk_wid>": 8.697802861576968e-29
+       }
+      },
+      {
+       "label": "Texas",
+       "score": 0.8959158607256718,
+       "start": 4,
+       "end": 5,
+       "tokens": "TEXAS",
+       "labelScoreMap": {
+        "Texas": 0.8959158607256718,
+        "University_of_Texas_at_Austin": 0.0184697089967998,
+        "Texas_(band)": 0.013885823130157324,
+        "Texas_Longhorns_football": 0.013130542943653286,
+        "Texas_Longhorns_men's_basketball": 0.0050812064963809975,
+        "Texas_Motor_Speedway": 0.010866578092260394,
+        "Republic_of_Texas": 0.004819727998949421,
+        "Texas_Air_National_Guard": 0.02318164786947284,
+        "Texas_(TV_series)": 0.002267313452803994,
+        "Texas_County,_Oklahoma": 0.00196133247170558,
+        "Miss_Texas_USA": 0.001654530752535038,
+        "Texas_Rangers_(baseball)": 0.0026087877899828643,
+        "USS_Texas_(BB-35)": 0.0013299057000835416,
+        "Texas_County,_Missouri": 0.0012194527854161447,
+        "Miss_Texas_Teen_USA": 0.001195087055106425,
+        "Texas_Democratic_Party": 0.0011363332278525509,
+        "Texas_Lottery": 0.0012761605111680716,
+        "<unk_wid>": 2.4542722655462247e-31
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435702200905726,
+       "start": 348,
+       "end": 349,
+       "tokens": "OSHA",
+       "labelScoreMap": {
+        "Occupational_Safety_and_Health_Administration": 0.9435702200905726,
+        "Occupational_Safety_and_Health_Act_(United_States)": 0.05642977990942747,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 12,
+       "end": 17,
+       "tokens": "Occupational Safety and Health Administration",
+       "labelScoreMap": {
+        "Occupational_Safety_and_Health_Administration": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Fiat_Ducato",
+       "score": 0.4864458438738257,
+       "start": 540,
+       "end": 541,
+       "tokens": "Boxer",
+       "labelScoreMap": {
+        "Boxer_(dog)": 0.3462359687572253,
+        "Barbara_Boxer": 0.041948886602069024,
+        "Boxer_(album)": 0.03066358107260571,
+        "Boxer_Rebellion": 0.019028621780775013,
+        "Lim_Yo-hwan": 0.013327992148363695,
+        "USS_Boxer_(CV-21)": 0.008761146841169931,
+        "Boxer_TV_Access": 0.01669089173378816,
+        "Fiat_Ducato": 0.4864458438738257,
+        "Boxer_(band)": 0.007270642526551586,
+        "Rocky_Marciano": 0.006407690376536265,
+        "Boxer_TV_A/S": 0.007203936020322451,
+        "Jack_Johnson_(boxer)": 0.005687940345987516,
+        "Animal_Farm": 0.004547338563148361,
+        "Julio_C\u00e9sar_Ch\u00e1vez": 0.0032621037550789917,
+        "The_Boxer": 0.0025174156025524344,
+        "<unk_wid>": 3.2108913473324626e-31
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.943570434830371,
+       "start": 92,
+       "end": 93,
+       "tokens": "OSHA",
+       "labelScoreMap": {
+        "Occupational_Safety_and_Health_Administration": 0.943570434830371,
+        "Occupational_Safety_and_Health_Act_(United_States)": 0.056429565169629034,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Boxer_(dog)",
+       "score": 0.38010016847572103,
+       "start": 210,
+       "end": 211,
+       "tokens": "Boxer",
+       "labelScoreMap": {
+        "Boxer_(dog)": 0.38010016847572103,
+        "Barbara_Boxer": 0.04574634800244828,
+        "Boxer_(album)": 0.03198295820203429,
+        "Boxer_Rebellion": 0.15173445856766335,
+        "Lim_Yo-hwan": 0.013901430243984986,
+        "USS_Boxer_(CV-21)": 0.009138031946168988,
+        "Boxer_TV_Access": 0.008522125500668241,
+        "Fiat_Ducato": 0.3164729499523543,
+        "Boxer_(band)": 0.007588613241517286,
+        "Rocky_Marciano": 0.007973403905550317,
+        "Boxer_TV_A/S": 0.006172202605905011,
+        "Jack_Johnson_(boxer)": 0.005982318529017859,
+        "Animal_Farm": 0.008651907492179435,
+        "Julio_C\u00e9sar_Ch\u00e1vez": 0.003406881326592174,
+        "The_Boxer": 0.002626202008194526,
+        "<unk_wid>": 3.632480740502228e-26
+       }
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 0.9498300442334927,
+       "start": 163,
+       "end": 164,
+       "tokens": "Democratic",
+       "labelScoreMap": {
+        "Democratic_Party_(United_States)": 0.9498300442334927,
+        "California_Democratic_Party": 0.011864526262317359,
+        "European_Democratic_Party": 0.00886140418575718,
+        "Democratic_National_Convention": 0.009835631466061232,
+        "Democratic_Party_of_Oregon": 0.0042797347539297245,
+        "Republican_Party_(United_States)": 0.009389611003142728,
+        "Democratic_Party_of_Japan": 0.0028418321763210644,
+        "2008_Democratic_National_Convention": 0.0018738417859323253,
+        "Democratic_Party_of_Illinois": 0.0012233741330454964,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 56,
+       "end": 60,
+       "tokens": "Adair Grain , Inc.",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 0.4501778308259618,
+       "start": 438,
+       "end": 439,
+       "tokens": "CSB",
+       "labelScoreMap": {
+        "Kashubian_language": 0.3571402527680093,
+        "Gda\u0144sk": 0.09057861440892546,
+        "Benilde_Blazers": 0.020469648860135536,
+        "Congregation_of_St._Basil": 0.05073663270832446,
+        "De_La_Salle\u2013College_of_Saint_Benilde": 0.01210273585216151,
+        "Holman_Christian_Standard_Bible": 0.003069870793119523,
+        "Film": 0.0026127600521388033,
+        "U.S._Chemical_Safety_and_Hazard_Investigation_Board": 0.4501778308259618,
+        "Concepci\u00f3n,_Chile": 0.0013099642696424714,
+        "Earth": 0.0013083046526490179,
+        "Saint-Di\u00e9-des-Vosges": 0.0013726781303586692,
+        "Daniel_Chodowiecki": 0.0010985823664003626,
+        "Catholic_Church": 0.0008741724601892789,
+        "Japan": 0.0009570193824764705,
+        "Qin_Shi_Huang": 0.0008711579151871299,
+        "Stockholm": 0.0016425989427110846,
+        "France": 0.0008858703100014423,
+        "Wikipedia": 0.0008709202372019197,
+        "St._Mary's_Church,_Gda\u0144sk": 0.001049299698007216,
+        "\u0110\u1ed3ng_H\u1edbi": 0.0008710853663986099,
+        "<unk_wid>": 2.6340041839779574e-35
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 64,
+       "end": 67,
+       "tokens": "West Fertilizer Co.",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.32600452214868253,
+       "start": 448,
+       "end": 449,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.32600452214868253,
+        "West_Africa": 0.04906491395877001,
+        "AFC_West": 0.04066856651475728,
+        "NFC_West": 0.03782722414136182,
+        "Konkan": 0.02850791778783552,
+        "Western_Christianity": 0.0247751344974621,
+        "Western_Asia": 0.02360600972813205,
+        "American_frontier": 0.030002347295420524,
+        "Western_Roman_Empire": 0.0188714682085578,
+        "Serbian_League_West": 0.016693655185278947,
+        "Western_Europe": 0.018556772702536643,
+        "West_Germany": 0.02138764726173371,
+        "Jerry_West": 0.015317326784502176,
+        "Canadian_Football_League_West_Division": 0.015273592727683789,
+        "Amsterdam-West": 0.013985372673340086,
+        "Arizona_State_University_West_campus": 0.01198746236277525,
+        "American_League_West": 0.011499099472196203,
+        "West_Virginia": 0.0657522184296753,
+        "London": 0.01023586156009927,
+        "West_Coast_of_the_United_States": 0.13155633382760623,
+        "West_France_(European_Parliament_constituency)": 0.007504453651114979,
+        "West_Prussia": 0.008069005875145668,
+        "West_Berlin": 0.007229625659465585,
+        "West,_Texas": 0.006926083359939031,
+        "West_Region,_Singapore": 0.017484382408224843,
+        "National_League_West": 0.0066597461345297565,
+        "Danish_2nd_Division_West": 0.006659707264830017,
+        "Cardiff": 0.00606465286619321,
+        "Western_Australia": 0.01623371644701094,
+        "West_Pakistan": 0.005595179065138551
+       }
+      },
+      {
+       "label": "Flores",
+       "score": 0.3936070680666021,
+       "start": 723,
+       "end": 724,
+       "tokens": "Flores",
+       "labelScoreMap": {
+        "Flores": 0.3936070680666021,
+        "Flores_Island_(Azores)": 0.12668452897051505,
+        "Flores,_Buenos_Aires": 0.2166235380894199,
+        "Flores,_El_Pet\u00e9n": 0.05706865903636909,
+        "Flores_Department": 0.1344751052375426,
+        "Fernando_Flores": 0.012794442709060456,
+        "Tom_Flores": 0.010495110556246376,
+        "Quique_S\u00e1nchez_Flores": 0.006104945649684401,
+        "Jos\u00e9_Mar\u00eda_Flores": 0.025281915677351868,
+        "Francisco_Flores_P\u00e9rez": 0.004466860005167018,
+        "Marcos_Flores": 0.004202808728864633,
+        "Carlos_Roberto_Flores": 0.00257375066993819,
+        "Homo_floresiensis": 0.005621266603238164,
+        "<unk_wid>": 8.97761146490307e-24
+       }
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 1.0,
+       "start": 231,
+       "end": 234,
+       "tokens": "Chemical Safety Board",
+       "labelScoreMap": {
+        "U.S._Chemical_Safety_and_Hazard_Investigation_Board": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.2548346404694858,
+       "start": 662,
+       "end": 663,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.2548346404694858,
+        "West_Africa": 0.04862077148956886,
+        "AFC_West": 0.04029977193182573,
+        "NFC_West": 0.03748419229141642,
+        "Konkan": 0.027920444572453098,
+        "Western_Christianity": 0.02455082116293871,
+        "Western_Asia": 0.023348214570758894,
+        "American_frontier": 0.03289049704368351,
+        "Western_Roman_Empire": 0.0186999169669297,
+        "Serbian_League_West": 0.01654227920326113,
+        "Western_Europe": 0.017499416043270703,
+        "West_Germany": 0.02176009616785571,
+        "Jerry_West": 0.015178429591850716,
+        "Canadian_Football_League_West_Division": 0.01513451477040554,
+        "Amsterdam-West": 0.013858555059174955,
+        "Arizona_State_University_West_campus": 0.011878761486520518,
+        "American_League_West": 0.011394818595413797,
+        "West_Virginia": 0.10938452134054329,
+        "London": 0.009783924495624615,
+        "West_Coast_of_the_United_States": 0.1496154449988334,
+        "West_France_(European_Parliament_constituency)": 0.007435378652027275,
+        "West_Prussia": 0.008310036391156147,
+        "West_Berlin": 0.0070671011986653464,
+        "West,_Texas": 0.006863278474885814,
+        "West_Region,_Singapore": 0.020258016462729664,
+        "National_League_West": 0.006599333167640204,
+        "Danish_2nd_Division_West": 0.0065993178699847105,
+        "Cardiff": 0.005996722010755362,
+        "Western_Australia": 0.02458887264472976,
+        "West_Pakistan": 0.0056019108756105405
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 273,
+       "end": 276,
+       "tokens": "West Fertilizer Co.",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "United_States_Department_of_Labor",
+       "score": 1.0,
+       "start": 219,
+       "end": 222,
+       "tokens": "Department of Labor",
+       "labelScoreMap": {
+        "United_States_Department_of_Labor": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 0.5006885118814942,
+       "start": 568,
+       "end": 569,
+       "tokens": "CSB",
+       "labelScoreMap": {
+        "Kashubian_language": 0.3448605861486373,
+        "Gda\u0144sk": 0.08916093439248396,
+        "Benilde_Blazers": 0.020146890609634597,
+        "Congregation_of_St._Basil": 0.017260701386663538,
+        "De_La_Salle\u2013College_of_Saint_Benilde": 0.010727311825848511,
+        "Holman_Christian_Standard_Bible": 0.003001307944321996,
+        "Film": 0.002571942682362477,
+        "U.S._Chemical_Safety_and_Hazard_Investigation_Board": 0.5006885118814942,
+        "Concepci\u00f3n,_Chile": 0.0012859754419105346,
+        "Earth": 0.0012859714102895871,
+        "Saint-Di\u00e9-des-Vosges": 0.0012867885341169712,
+        "Daniel_Chodowiecki": 0.0008615386463991309,
+        "Catholic_Church": 0.000857316984742428,
+        "Japan": 0.000857493460893357,
+        "Qin_Shi_Huang": 0.0008573168865951721,
+        "Stockholm": 0.0008580285918081046,
+        "France": 0.00085732239631509,
+        "Wikipedia": 0.0008573168805312049,
+        "St._Mary's_Church,_Gda\u0144sk": 0.0008594270134837632,
+        "\u0110\u1ed3ng_H\u1edbi": 0.0008573168814680642,
+        "<unk_wid>": 7.75529985200608e-42
+       }
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.385657929737581,
+       "start": 248,
+       "end": 249,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.385657929737581,
+        "West_Africa": 0.04943331039328206,
+        "AFC_West": 0.04097768881125958,
+        "NFC_West": 0.03811474142233776,
+        "Konkan": 0.02813176277740861,
+        "Western_Christianity": 0.02496297861088046,
+        "Western_Asia": 0.023728585735017797,
+        "American_frontier": 0.030642731173187988,
+        "Western_Roman_Empire": 0.019014010111284087,
+        "Serbian_League_West": 0.016820549587192132,
+        "Western_Europe": 0.01814072347881989,
+        "West_Germany": 0.01853440401336907,
+        "Jerry_West": 0.015433757693129633,
+        "Canadian_Football_League_West_Division": 0.015389611289476895,
+        "Amsterdam-West": 0.014091680458017796,
+        "Arizona_State_University_West_campus": 0.012078583262334712,
+        "American_League_West": 0.011586500153241438,
+        "West_Virginia": 0.03263075928057003,
+        "London": 0.009666537122167963,
+        "West_Coast_of_the_United_States": 0.11955116210465536,
+        "West_France_(European_Parliament_constituency)": 0.007560466469741552,
+        "West_Prussia": 0.00737707745404843,
+        "West_Berlin": 0.007219988767698695,
+        "West,_Texas": 0.0069787309566879336,
+        "West_Region,_Singapore": 0.008151005113859336,
+        "National_League_West": 0.006710341163524142,
+        "Danish_2nd_Division_West": 0.006710330064616755,
+        "Cardiff": 0.0059981027280309514,
+        "Western_Australia": 0.01316751921932877,
+        "West_Pakistan": 0.005538430847249002
+       }
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.32788806234239226,
+       "start": 27,
+       "end": 28,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.10339984516272875,
+        "West_Africa": 0.04768126417472819,
+        "AFC_West": 0.03952148993489357,
+        "NFC_West": 0.03676028505625405,
+        "Konkan": 0.027272855980253995,
+        "Western_Christianity": 0.024075380862406074,
+        "Western_Asia": 0.022837143628631863,
+        "American_frontier": 0.031186397913344314,
+        "Western_Roman_Empire": 0.01833731059305464,
+        "Serbian_League_West": 0.016222811555300375,
+        "Western_Europe": 0.01610796412353293,
+        "West_Germany": 0.026073998009923844,
+        "Jerry_West": 0.014885300616828082,
+        "Canadian_Football_League_West_Division": 0.014842154741342014,
+        "Amsterdam-West": 0.013590916003245065,
+        "Arizona_State_University_West_campus": 0.011649356574226622,
+        "American_League_West": 0.011174757208598247,
+        "West_Virginia": 0.32788806234239226,
+        "London": 0.0218245149561028,
+        "West_Coast_of_the_United_States": 0.0569657480188066,
+        "West_France_(European_Parliament_constituency)": 0.00729163828512387,
+        "West_Prussia": 0.007891650224873262,
+        "West_Berlin": 0.008557953766483366,
+        "West,_Texas": 0.006730733531612096,
+        "West_Region,_Singapore": 0.006554860026619667,
+        "National_League_West": 0.0064718717143099225,
+        "Danish_2nd_Division_West": 0.006471870585828489,
+        "Cardiff": 0.00790328224408649,
+        "Western_Australia": 0.0532559176014311,
+        "West_Pakistan": 0.006572664563037423
+       }
+      },
+      {
+       "label": "Texas",
+       "score": 0.9234573407225302,
+       "start": 29,
+       "end": 30,
+       "tokens": "Texas",
+       "labelScoreMap": {
+        "Texas": 0.9234573407225302,
+        "University_of_Texas_at_Austin": 0.018557838545505613,
+        "Texas_(band)": 0.014273751527643128,
+        "Texas_Longhorns_football": 0.013344952514480288,
+        "Texas_Longhorns_men's_basketball": 0.005221870230740748,
+        "Texas_Motor_Speedway": 0.004786153384324,
+        "Republic_of_Texas": 0.004407020421438096,
+        "Texas_Air_National_Guard": 0.0023873187877474587,
+        "Texas_(TV_series)": 0.002330624298613504,
+        "Texas_County,_Oklahoma": 0.0020169086901380244,
+        "Miss_Texas_USA": 0.0017007473374932914,
+        "Texas_Rangers_(baseball)": 0.0014299701985293698,
+        "USS_Texas_(BB-35)": 0.0013668859283318276,
+        "Texas_County,_Missouri": 0.0012541577023976744,
+        "Miss_Texas_Teen_USA": 0.0012283079886165381,
+        "Texas_Democratic_Party": 0.001165317253634011,
+        "Texas_Lottery": 0.0010708344678364294,
+        "<unk_wid>": 3.36457224912253e-43
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435700155460228,
+       "start": 0,
+       "end": 1,
+       "tokens": "OSHA",
+       "labelScoreMap": {
+        "Occupational_Safety_and_Health_Administration": 0.9435700155460228,
+        "Occupational_Safety_and_Health_Act_(United_States)": 0.05642998445397712,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 326,
+       "end": 329,
+       "tokens": "West Fertilizer Co.",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Flores",
+       "score": 0.4213436154800761,
+       "start": 660,
+       "end": 661,
+       "tokens": "Flores",
+       "labelScoreMap": {
+        "Flores": 0.4213436154800761,
+        "Flores_Island_(Azores)": 0.11717122417702129,
+        "Flores,_Buenos_Aires": 0.244610986119086,
+        "Flores,_El_Pet\u00e9n": 0.05513582362026586,
+        "Flores_Department": 0.11461764463518226,
+        "Fernando_Flores": 0.01298932667461891,
+        "Tom_Flores": 0.010710466987317932,
+        "Quique_S\u00e1nchez_Flores": 0.005413647662863714,
+        "Jos\u00e9_Mar\u00eda_Flores": 0.005285831119330284,
+        "Francisco_Flores_P\u00e9rez": 0.004557659941018244,
+        "Marcos_Flores": 0.004215884463646066,
+        "Carlos_Roberto_Flores": 0.002506729323702618,
+        "Homo_floresiensis": 0.0014411597958706782,
+        "<unk_wid>": 5.365203330377493e-26
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435704575418389,
+       "start": 54,
+       "end": 55,
+       "tokens": "OSHA",
+       "labelScoreMap": {
+        "Occupational_Safety_and_Health_Administration": 0.9435704575418389,
+        "Occupational_Safety_and_Health_Act_(United_States)": 0.05642954245816112,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.247433951934382,
+       "start": 326,
+       "end": 327,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.0673823098572477,
+        "West_Africa": 0.047524780993888856,
+        "AFC_West": 0.03939611666509729,
+        "NFC_West": 0.036643671400295626,
+        "Konkan": 0.026966587681289907,
+        "Western_Christianity": 0.023998928459134206,
+        "Western_Asia": 0.022751733074948915,
+        "American_frontier": 0.02249368531423848,
+        "Western_Roman_Empire": 0.018278828801862285,
+        "Serbian_League_West": 0.016171348300003646,
+        "Western_Europe": 0.01587045062980093,
+        "West_Germany": 0.015651564108661628,
+        "Jerry_West": 0.014838080338490189,
+        "Canadian_Football_League_West_Division": 0.19375623285504245,
+        "Amsterdam-West": 0.01354780183022833,
+        "Arizona_State_University_West_campus": 0.01161240157001282,
+        "American_League_West": 0.01113930852554453,
+        "West_Virginia": 0.009944767140782091,
+        "London": 0.247433951934382,
+        "West_Coast_of_the_United_States": 0.008247166664067131,
+        "West_France_(European_Parliament_constituency)": 0.007268507073427893,
+        "West_Prussia": 0.006795413101956976,
+        "West_Berlin": 0.0067533228111382616,
+        "West,_Texas": 0.006709381769304478,
+        "West_Region,_Singapore": 0.006494346968882279,
+        "National_League_West": 0.006451343077026999,
+        "Danish_2nd_Division_West": 0.00645134001424158,
+        "Cardiff": 0.005955246335936182,
+        "Western_Australia": 0.020948085986816016,
+        "West_Pakistan": 0.06252329671624991
+       }
+      },
+      {
+       "label": "Bill_Flores",
+       "score": 1.0,
+       "start": 380,
+       "end": 382,
+       "tokens": "Bill Flores",
+       "labelScoreMap": {
+        "Bill_Flores": 1.0,
+        "<unk_wid>": 1.681194099848749e-38
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 320,
+       "end": 322,
+       "tokens": "Dan Keeney",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.3687331024384826,
+       "start": 581,
+       "end": 582,
+       "tokens": "West",
+       "labelScoreMap": {
+        "Western_United_States": 0.3687331024384826,
+        "West_Africa": 0.04934991911072501,
+        "AFC_West": 0.04090844133035601,
+        "NFC_West": 0.03805030843955562,
+        "Konkan": 0.02806641203892768,
+        "Western_Christianity": 0.0249238569370334,
+        "Western_Asia": 0.023817035930966464,
+        "American_frontier": 0.04671283881932865,
+        "Western_Roman_Empire": 0.018984513874693586,
+        "Serbian_League_West": 0.01679210915029247,
+        "Western_Europe": 0.01950358373236671,
+        "West_Germany": 0.01910835570976997,
+        "Jerry_West": 0.015407662747578486,
+        "Canadian_Football_League_West_Division": 0.015364984957503543,
+        "Amsterdam-West": 0.01406785403385475,
+        "Arizona_State_University_West_campus": 0.012058160642003593,
+        "American_League_West": 0.011566923459765028,
+        "West_Virginia": 0.026840435318001364,
+        "London": 0.010581934371771028,
+        "West_Coast_of_the_United_States": 0.11841445809972154,
+        "West_France_(European_Parliament_constituency)": 0.007547792781063374,
+        "West_Prussia": 0.007206300068069329,
+        "West_Berlin": 0.0073629604358202245,
+        "West,_Texas": 0.006966931236792113,
+        "West_Region,_Singapore": 0.007422184161704791,
+        "National_League_West": 0.006699040860948225,
+        "Danish_2nd_Division_West": 0.0066989841386631355,
+        "Cardiff": 0.006055712045924555,
+        "Western_Australia": 0.019017147595456422,
+        "West_Pakistan": 0.005770055532860112
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435695276872855,
+       "start": 527,
+       "end": 528,
+       "tokens": "OSHA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Flores",
+       "score": 0.378123966577239,
+       "start": 392,
+       "end": 393,
+       "tokens": "Flores",
+       "labelScoreMap": {
+        "9062332|Flores": 0.378123966577239,
+        "3373059|Flores_Island_(Azores)": 0.11932744669955912,
+        "3433918|Flores,_Buenos_Aires": 0.1934307411673452,
+        "3595725|Flores,_El_Pet\u00e9n": 0.056429269354175235,
+        "3442587|Flores_Department": 0.1361000201851432
+       }
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 0.4000899290513491,
+       "start": 601,
+       "end": 602,
+       "tokens": "CSB",
+       "labelScoreMap": {
+        "7531002|Gda\u0144sk": 0.09075395262835619,
+        "6693568|Concepci\u00f3n,_Chile": 0.0013352614735552143,
+        "6295630|Earth": 0.001316483846308228,
+        "2980827|Saint-Di\u00e9-des-Vosges": 0.0013647024710126971,
+        "1861060|Japan": 0.0012806990122436678,
+        "2673730|Stockholm": 0.0014446494191228375,
+        "3017382|France": 0.0010854663335533093,
+        "1582894|\u0110\u1ed3ng_H\u1edbi": 0.0008733031262401564
+       }
+      },
+      {
+       "label": "Vladimir_Horowitz",
+       "score": 0.6411511230394245,
+       "start": 317,
+       "end": 318,
+       "tokens": "Horowitz",
+       "labelScoreMap": {
+        "3075119|Ho\u0159ovice": 0.0013802202888637907
+       }
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.38400345541759834,
+       "start": 9,
+       "end": 10,
+       "tokens": "WASHINGTON",
+       "labelScoreMap": {
+        "4140963|Washington,_D.C.": 0.38400345541759834,
+        "5814448|University_of_Washington": 0.12789558628126382,
+        "5218069|Washington,_Pennsylvania": 0.013677572523889943,
+        "5143303|Washington_County,_New_York": 0.013437613055673063,
+        "5218076|Washington_County,_Pennsylvania": 0.012165853611333509,
+        "5081383|Washington_County,_Nebraska": 0.011194008937612292,
+        "5759333|Washington_County,_Oregon": 0.011002060700161244,
+        "2634715|Washington,_Tyne_and_Wear": 0.010642124071465543,
+        "4880748|Washington_County,_Iowa": 0.010510131683671334,
+        "5277887|Washington_County,_Wisconsin": 0.010330174506265973,
+        "4554703|Washington,_Oklahoma": 0.008734453203639568,
+        "4982182|Washington_County,_Maine": 0.008578478421855523,
+        "4252486|Washington_County,_Illinois": 0.00796659288726978,
+        "4266586|Washington,_Indiana": 0.007942588130217412,
+        "4527654|Washington_County,_Ohio": 0.007150723084896792,
+        "4665975|Washington_County,_Tennessee": 0.006802800539023974,
+        "4177485|Washington_County,_Florida": 0.006730808217228361,
+        "5549222|Washington,_Utah": 0.00637087204188853,
+        "5225535|Washington_County,_Rhode_Island": 0.006142904988289845,
+        "5549225|Washington_County,_Utah": 0.00611892268511308,
+        "5443305|Washington_County,_Colorado": 0.0061069091443098494,
+        "4372777|Washington_County,_Maryland": 0.0057229901530484045,
+        "4229546|Washington,_Georgia": 0.005519028357347095,
+        "5051936|Washington_County,_Minnesota": 0.005271186917997875
+       }
+      },
+      {
+       "label": "West_Coast_of_the_United_States",
+       "score": 0.2965534065256425,
+       "start": 273,
+       "end": 274,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.023765410000515567,
+        "9408659|Western_Europe": 0.030898382195617087,
+        "4826850|West_Virginia": 0.0407908837393055,
+        "2643743|London": 0.019124614774953027,
+        "4740686|West,_Texas": 0.006756342642079195,
+        "3333241|Cardiff": 0.006532444865482104,
+        "2058645|Western_Australia": 0.04129293510215832
+       }
+      },
+      {
+       "label": "Vladimir_Horowitz",
+       "score": 0.6400645121356411,
+       "start": 632,
+       "end": 633,
+       "tokens": "Horowitz",
+       "labelScoreMap": {
+        "3075119|Ho\u0159ovice": 0.001404590365257566
+       }
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 0.49995932452403086,
+       "start": 260,
+       "end": 261,
+       "tokens": "CSB",
+       "labelScoreMap": {
+        "7531002|Gda\u0144sk": 0.08919939275585877,
+        "6693568|Concepci\u00f3n,_Chile": 0.0012865294385364845,
+        "6295630|Earth": 0.0012865258995166996,
+        "2980827|Saint-Di\u00e9-des-Vosges": 0.0012871000816832118,
+        "1861060|Japan": 0.0008579782466746991,
+        "2673730|Stockholm": 0.0008581975726784088,
+        "3017382|France": 0.0008577024362469998,
+        "1582894|\u0110\u1ed3ng_H\u1edbi": 0.0008576865235966428
+       }
+      },
+      {
+       "label": "California",
+       "score": 0.9701645515699675,
+       "start": 164,
+       "end": 165,
+       "tokens": "California",
+       "labelScoreMap": {
+        "5332921|California": 0.9701645515699675,
+        "5404897|University_of_California,_Berkeley": 0.005399098476185956,
+        "4379545|California,_Missouri": 0.003009342851108909,
+        "5182733|California,_Pennsylvania": 0.0015877364670125937,
+        "6943265|Auto_Club_Speedway": 0.001466200131875856
+       }
+      },
+      {
+       "label": "Barbara_Boxer",
+       "score": 0.9986449844993999,
+       "start": 166,
+       "end": 168,
+       "tokens": "Barbara Boxer",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "London",
+       "score": 0.24765413244218415,
+       "start": 64,
+       "end": 65,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.022723451014128038,
+        "9408659|Western_Europe": 0.015851075042083728,
+        "4826850|West_Virginia": 0.012103826012590016,
+        "2643743|London": 0.24765413244218415,
+        "4740686|West,_Texas": 0.006701035772429024,
+        "3333241|Cardiff": 0.006036203036558132,
+        "2058645|Western_Australia": 0.021033063525932996
+       }
+      },
+      {
+       "label": "Flores",
+       "score": 0.3853039268440973,
+       "start": 484,
+       "end": 485,
+       "tokens": "Flores",
+       "labelScoreMap": {
+        "9062332|Flores": 0.3853039268440973,
+        "3373059|Flores_Island_(Azores)": 0.130371861397037,
+        "3433918|Flores,_Buenos_Aires": 0.22434802842420806,
+        "3595725|Flores,_El_Pet\u00e9n": 0.056458811149413805,
+        "3442587|Flores_Department": 0.11329342695536464
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 253,
+       "end": 255,
+       "tokens": "Daniel Horowitz",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.2514133110066475,
+       "start": 390,
+       "end": 391,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.023260183912972812,
+        "9408659|Western_Europe": 0.01626115452755939,
+        "4826850|West_Virginia": 0.1712160358576954,
+        "2643743|London": 0.008525172606202096,
+        "4740686|West,_Texas": 0.0068591141112760426,
+        "3333241|Cardiff": 0.005855785266785515,
+        "2058645|Western_Australia": 0.011194704808196588
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 383,
+       "end": 384,
+       "tokens": "R",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435701702200155,
+       "start": 213,
+       "end": 214,
+       "tokens": "OSHA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.943569840137038,
+       "start": 412,
+       "end": 413,
+       "tokens": "OSHA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Vladimir_Horowitz",
+       "score": 0.6274743590016026,
+       "start": 584,
+       "end": 585,
+       "tokens": "Horowitz",
+       "labelScoreMap": {
+        "3075119|Ho\u0159ovice": 0.0014609724150225689
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 172,
+       "end": 178,
+       "tokens": "Committee on Environment and Public Works",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bryan_County,_Georgia",
+       "score": 0.4127158721740588,
+       "start": 385,
+       "end": 386,
+       "tokens": "Bryan",
+       "labelScoreMap": {
+        "4677008|Bryan,_Texas": 0.3210261474446685,
+        "4184899|Bryan_County,_Georgia": 0.4127158721740588,
+        "4531565|Bryan_County,_Oklahoma": 0.08906763089452968,
+        "5148533|Bryan,_Ohio": 0.04479568214291412,
+        "4667859|Bryan_College": 0.010216204473264857
+       }
+      },
+      {
+       "label": "Texas",
+       "score": 0.8959158607256718,
+       "start": 4,
+       "end": 5,
+       "tokens": "TEXAS",
+       "labelScoreMap": {
+        "4736286|Texas": 0.8959158607256718,
+        "4738604|University_of_Texas_at_Austin": 0.0184697089967998,
+        "8099017|Texas_Motor_Speedway": 0.010866578092260394,
+        "5515937|Texas_County,_Oklahoma": 0.00196133247170558,
+        "4411468|Texas_County,_Missouri": 0.0012194527854161447
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435702200905726,
+       "start": 348,
+       "end": 349,
+       "tokens": "OSHA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 1.0,
+       "start": 12,
+       "end": 17,
+       "tokens": "Occupational Safety and Health Administration",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Fiat_Ducato",
+       "score": 0.4864458438738257,
+       "start": 540,
+       "end": 541,
+       "tokens": "Boxer",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.943570434830371,
+       "start": 92,
+       "end": 93,
+       "tokens": "OSHA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Boxer_(dog)",
+       "score": 0.38010016847572103,
+       "start": 210,
+       "end": 211,
+       "tokens": "Boxer",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 0.9498300442334927,
+       "start": 163,
+       "end": 164,
+       "tokens": "Democratic",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 56,
+       "end": 60,
+       "tokens": "Adair Grain , Inc.",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 0.4501778308259618,
+       "start": 438,
+       "end": 439,
+       "tokens": "CSB",
+       "labelScoreMap": {
+        "7531002|Gda\u0144sk": 0.09057861440892546,
+        "6693568|Concepci\u00f3n,_Chile": 0.0013099642696424714,
+        "6295630|Earth": 0.0013083046526490179,
+        "2980827|Saint-Di\u00e9-des-Vosges": 0.0013726781303586692,
+        "1861060|Japan": 0.0009570193824764705,
+        "2673730|Stockholm": 0.0016425989427110846,
+        "3017382|France": 0.0008858703100014423,
+        "1582894|\u0110\u1ed3ng_H\u1edbi": 0.0008710853663986099
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 64,
+       "end": 67,
+       "tokens": "West Fertilizer Co.",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.32600452214868253,
+       "start": 448,
+       "end": 449,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.02360600972813205,
+        "9408659|Western_Europe": 0.018556772702536643,
+        "4826850|West_Virginia": 0.0657522184296753,
+        "2643743|London": 0.01023586156009927,
+        "4740686|West,_Texas": 0.006926083359939031,
+        "3333241|Cardiff": 0.00606465286619321,
+        "2058645|Western_Australia": 0.01623371644701094
+       }
+      },
+      {
+       "label": "Flores",
+       "score": 0.3936070680666021,
+       "start": 723,
+       "end": 724,
+       "tokens": "Flores",
+       "labelScoreMap": {
+        "9062332|Flores": 0.3936070680666021,
+        "3373059|Flores_Island_(Azores)": 0.12668452897051505,
+        "3433918|Flores,_Buenos_Aires": 0.2166235380894199,
+        "3595725|Flores,_El_Pet\u00e9n": 0.05706865903636909,
+        "3442587|Flores_Department": 0.1344751052375426
+       }
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 1.0,
+       "start": 231,
+       "end": 234,
+       "tokens": "Chemical Safety Board",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.2548346404694858,
+       "start": 662,
+       "end": 663,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.023348214570758894,
+        "9408659|Western_Europe": 0.017499416043270703,
+        "4826850|West_Virginia": 0.10938452134054329,
+        "2643743|London": 0.009783924495624615,
+        "4740686|West,_Texas": 0.006863278474885814,
+        "3333241|Cardiff": 0.005996722010755362,
+        "2058645|Western_Australia": 0.02458887264472976
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 273,
+       "end": 276,
+       "tokens": "West Fertilizer Co.",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States_Department_of_Labor",
+       "score": 1.0,
+       "start": 219,
+       "end": 222,
+       "tokens": "Department of Labor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "U.S._Chemical_Safety_and_Hazard_Investigation_Board",
+       "score": 0.5006885118814942,
+       "start": 568,
+       "end": 569,
+       "tokens": "CSB",
+       "labelScoreMap": {
+        "7531002|Gda\u0144sk": 0.08916093439248396,
+        "6693568|Concepci\u00f3n,_Chile": 0.0012859754419105346,
+        "6295630|Earth": 0.0012859714102895871,
+        "2980827|Saint-Di\u00e9-des-Vosges": 0.0012867885341169712,
+        "1861060|Japan": 0.000857493460893357,
+        "2673730|Stockholm": 0.0008580285918081046,
+        "3017382|France": 0.00085732239631509,
+        "1582894|\u0110\u1ed3ng_H\u1edbi": 0.0008573168814680642
+       }
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.385657929737581,
+       "start": 248,
+       "end": 249,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.023728585735017797,
+        "9408659|Western_Europe": 0.01814072347881989,
+        "4826850|West_Virginia": 0.03263075928057003,
+        "2643743|London": 0.009666537122167963,
+        "4740686|West,_Texas": 0.0069787309566879336,
+        "3333241|Cardiff": 0.0059981027280309514,
+        "2058645|Western_Australia": 0.01316751921932877
+       }
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.32788806234239226,
+       "start": 27,
+       "end": 28,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.022837143628631863,
+        "9408659|Western_Europe": 0.01610796412353293,
+        "4826850|West_Virginia": 0.32788806234239226,
+        "2643743|London": 0.0218245149561028,
+        "4740686|West,_Texas": 0.006730733531612096,
+        "3333241|Cardiff": 0.00790328224408649,
+        "2058645|Western_Australia": 0.0532559176014311
+       }
+      },
+      {
+       "label": "Texas",
+       "score": 0.9234573407225302,
+       "start": 29,
+       "end": 30,
+       "tokens": "Texas",
+       "labelScoreMap": {
+        "4736286|Texas": 0.9234573407225302,
+        "4738604|University_of_Texas_at_Austin": 0.018557838545505613,
+        "8099017|Texas_Motor_Speedway": 0.004786153384324,
+        "5515937|Texas_County,_Oklahoma": 0.0020169086901380244,
+        "4411468|Texas_County,_Missouri": 0.0012541577023976744
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435700155460228,
+       "start": 0,
+       "end": 1,
+       "tokens": "OSHA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 326,
+       "end": 329,
+       "tokens": "West Fertilizer Co.",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Flores",
+       "score": 0.4213436154800761,
+       "start": 660,
+       "end": 661,
+       "tokens": "Flores",
+       "labelScoreMap": {
+        "9062332|Flores": 0.4213436154800761,
+        "3373059|Flores_Island_(Azores)": 0.11717122417702129,
+        "3433918|Flores,_Buenos_Aires": 0.244610986119086,
+        "3595725|Flores,_El_Pet\u00e9n": 0.05513582362026586,
+        "3442587|Flores_Department": 0.11461764463518226
+       }
+      },
+      {
+       "label": "Occupational_Safety_and_Health_Administration",
+       "score": 0.9435704575418389,
+       "start": 54,
+       "end": 55,
+       "tokens": "OSHA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "London",
+       "score": 0.247433951934382,
+       "start": 326,
+       "end": 327,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.022751733074948915,
+        "9408659|Western_Europe": 0.01587045062980093,
+        "4826850|West_Virginia": 0.009944767140782091,
+        "2643743|London": 0.247433951934382,
+        "4740686|West,_Texas": 0.006709381769304478,
+        "3333241|Cardiff": 0.005955246335936182,
+        "2058645|Western_Australia": 0.020948085986816016
+       }
+      },
+      {
+       "label": "Bill_Flores",
+       "score": 1.0,
+       "start": 380,
+       "end": 382,
+       "tokens": "Bill Flores",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 320,
+       "end": 322,
+       "tokens": "Dan Keeney",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Western_United_States",
+       "score": 0.3687331024384826,
+       "start": 581,
+       "end": 582,
+       "tokens": "West",
+       "labelScoreMap": {
+        "7729897|Western_Asia": 0.023817035930966464,
+        "9408659|Western_Europe": 0.01950358373236671,
+        "4826850|West_Virginia": 0.026840435318001364,
+        "2643743|London": 0.010581934371771028,
+        "4740686|West,_Texas": 0.006966931236792113,
+        "3333241|Cardiff": 0.006055712045924555,
+        "2058645|Western_Australia": 0.019017147595456422
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

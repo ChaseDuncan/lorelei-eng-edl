@@ -1,0 +1,5493 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131106.0066.xml",
+ "text": "BILL DE BLASIO: HEADING TO CITY HALL, A LIBERAL USED TO EXCEEDING EXPECTATIONS\nThis article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nNEW YORK - The sidewalk outside the subway station in Crown Heights, Brooklyn, was crowded on Tuesday morning. Bill de Blasio bent his 6-foot-5 frame again and again to shake hands.\nThe spot had been chosen with care. It was here, in 1991, that New York City\u2019s deep racial divide had exploded into three days of violence when de Blasio had been a low-level aide to Mayor David N. Dinkins. De Blasio\u2019s opponent this year, Joseph J. Lhota, had pointed to that dark episode as a reason not to vote for him, as a warning of the bad times that were likely to return if he were elected.\nBut there was no strife on Tuesday, no flying bottles. Just handshakes on the way to winning as de Blasio was welcomed as a hero and celebrity. \u201cAll I want to say is that I love you,\u201d said a woman in jeans, a denim jacket and a paisley shawl.\nIt was a note-perfect play in a campaign of them, summing up both his sharp political instincts and the changing feel of the city he wanted to run.\nOn Tuesday, de Blasio was elected to become the first Democratic mayor of New York City in 20 years. Few had initially predicted his victory except, perhaps, the candidate himself. In high school, he was known by a nickname, Senator Provolone, and his classmates sometimes hummed \u201cHail to the Chief\u201d when he entered the room.\nBut throughout his life, de Blasio had come to delight in upsetting expectations.\nHe overcame a troubled childhood and attended some of the country\u2019s most prestigious universities. He married a black woman who once identified as a lesbian, Chirlane McCray, and created a proudly biracial home. He cut his teeth as a political operator but abandoned life as a strategist to make an audacious bid for public office himself.\nNow, as de Blasio, 52, prepares to become chief executive of one of the world\u2019s largest cities, he will have a far grander stage on which to test the decidedly liberal world view that has been the hallmark of his career.\nOn Tuesday, as de Blasio campaigned in Brooklyn, the centrality of his family to his personal and political life was clear. His daughter, Chiara, who is a college student in California, traveled home to surprise her father. She had told him she would not be able to return because of exams.\n\u201cThis is the greatest gift I could have on Election Day,\u201d de Blasio told reporters. \u201cI\u2019m already floating on air because my daughter\u2019s here with us.\u201d",
+ "tokens": [
+  "BILL",
+  "DE",
+  "BLASIO",
+  ":",
+  "HEADING",
+  "TO",
+  "CITY",
+  "HALL",
+  ",",
+  "A",
+  "LIBERAL",
+  "USED",
+  "TO",
+  "EXCEEDING",
+  "EXPECTATIONS",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "NEW",
+  "YORK",
+  "-",
+  "The",
+  "sidewalk",
+  "outside",
+  "the",
+  "subway",
+  "station",
+  "in",
+  "Crown",
+  "Heights",
+  ",",
+  "Brooklyn",
+  ",",
+  "was",
+  "crowded",
+  "on",
+  "Tuesday",
+  "morning",
+  ".",
+  "Bill",
+  "de",
+  "Blasio",
+  "bent",
+  "his",
+  "6",
+  "-",
+  "foot",
+  "-",
+  "5",
+  "frame",
+  "again",
+  "and",
+  "again",
+  "to",
+  "shake",
+  "hands",
+  ".",
+  "The",
+  "spot",
+  "had",
+  "been",
+  "chosen",
+  "with",
+  "care",
+  ".",
+  "It",
+  "was",
+  "here",
+  ",",
+  "in",
+  "1991",
+  ",",
+  "that",
+  "New",
+  "York",
+  "City",
+  "\u2019s",
+  "deep",
+  "racial",
+  "divide",
+  "had",
+  "exploded",
+  "into",
+  "three",
+  "days",
+  "of",
+  "violence",
+  "when",
+  "de",
+  "Blasio",
+  "had",
+  "been",
+  "a",
+  "low",
+  "-",
+  "level",
+  "aide",
+  "to",
+  "Mayor",
+  "David",
+  "N.",
+  "Dinkins",
+  ".",
+  "De",
+  "Blasio",
+  "\u2019s",
+  "opponent",
+  "this",
+  "year",
+  ",",
+  "Joseph",
+  "J.",
+  "Lhota",
+  ",",
+  "had",
+  "pointed",
+  "to",
+  "that",
+  "dark",
+  "episode",
+  "as",
+  "a",
+  "reason",
+  "not",
+  "to",
+  "vote",
+  "for",
+  "him",
+  ",",
+  "as",
+  "a",
+  "warning",
+  "of",
+  "the",
+  "bad",
+  "times",
+  "that",
+  "were",
+  "likely",
+  "to",
+  "return",
+  "if",
+  "he",
+  "were",
+  "elected",
+  ".",
+  "But",
+  "there",
+  "was",
+  "no",
+  "strife",
+  "on",
+  "Tuesday",
+  ",",
+  "no",
+  "flying",
+  "bottles",
+  ".",
+  "Just",
+  "handshakes",
+  "on",
+  "the",
+  "way",
+  "to",
+  "winning",
+  "as",
+  "de",
+  "Blasio",
+  "was",
+  "welcomed",
+  "as",
+  "a",
+  "hero",
+  "and",
+  "celebrity",
+  ".",
+  "\u201c",
+  "All",
+  "I",
+  "want",
+  "to",
+  "say",
+  "is",
+  "that",
+  "I",
+  "love",
+  "you",
+  ",",
+  "\u201d",
+  "said",
+  "a",
+  "woman",
+  "in",
+  "jeans",
+  ",",
+  "a",
+  "denim",
+  "jacket",
+  "and",
+  "a",
+  "paisley",
+  "shawl",
+  ".",
+  "It",
+  "was",
+  "a",
+  "note",
+  "-",
+  "perfect",
+  "play",
+  "in",
+  "a",
+  "campaign",
+  "of",
+  "them",
+  ",",
+  "summing",
+  "up",
+  "both",
+  "his",
+  "sharp",
+  "political",
+  "instincts",
+  "and",
+  "the",
+  "changing",
+  "feel",
+  "of",
+  "the",
+  "city",
+  "he",
+  "wanted",
+  "to",
+  "run",
+  ".",
+  "On",
+  "Tuesday",
+  ",",
+  "de",
+  "Blasio",
+  "was",
+  "elected",
+  "to",
+  "become",
+  "the",
+  "first",
+  "Democratic",
+  "mayor",
+  "of",
+  "New",
+  "York",
+  "City",
+  "in",
+  "20",
+  "years",
+  ".",
+  "Few",
+  "had",
+  "initially",
+  "predicted",
+  "his",
+  "victory",
+  "except",
+  ",",
+  "perhaps",
+  ",",
+  "the",
+  "candidate",
+  "himself",
+  ".",
+  "In",
+  "high",
+  "school",
+  ",",
+  "he",
+  "was",
+  "known",
+  "by",
+  "a",
+  "nickname",
+  ",",
+  "Senator",
+  "Provolone",
+  ",",
+  "and",
+  "his",
+  "classmates",
+  "sometimes",
+  "hummed",
+  "\u201c",
+  "Hail",
+  "to",
+  "the",
+  "Chief",
+  "\u201d",
+  "when",
+  "he",
+  "entered",
+  "the",
+  "room",
+  ".",
+  "But",
+  "throughout",
+  "his",
+  "life",
+  ",",
+  "de",
+  "Blasio",
+  "had",
+  "come",
+  "to",
+  "delight",
+  "in",
+  "upsetting",
+  "expectations",
+  ".",
+  "He",
+  "overcame",
+  "a",
+  "troubled",
+  "childhood",
+  "and",
+  "attended",
+  "some",
+  "of",
+  "the",
+  "country",
+  "\u2019s",
+  "most",
+  "prestigious",
+  "universities",
+  ".",
+  "He",
+  "married",
+  "a",
+  "black",
+  "woman",
+  "who",
+  "once",
+  "identified",
+  "as",
+  "a",
+  "lesbian",
+  ",",
+  "Chirlane",
+  "McCray",
+  ",",
+  "and",
+  "created",
+  "a",
+  "proudly",
+  "biracial",
+  "home",
+  ".",
+  "He",
+  "cut",
+  "his",
+  "teeth",
+  "as",
+  "a",
+  "political",
+  "operator",
+  "but",
+  "abandoned",
+  "life",
+  "as",
+  "a",
+  "strategist",
+  "to",
+  "make",
+  "an",
+  "audacious",
+  "bid",
+  "for",
+  "public",
+  "office",
+  "himself",
+  ".",
+  "Now",
+  ",",
+  "as",
+  "de",
+  "Blasio",
+  ",",
+  "52",
+  ",",
+  "prepares",
+  "to",
+  "become",
+  "chief",
+  "executive",
+  "of",
+  "one",
+  "of",
+  "the",
+  "world",
+  "\u2019s",
+  "largest",
+  "cities",
+  ",",
+  "he",
+  "will",
+  "have",
+  "a",
+  "far",
+  "grander",
+  "stage",
+  "on",
+  "which",
+  "to",
+  "test",
+  "the",
+  "decidedly",
+  "liberal",
+  "world",
+  "view",
+  "that",
+  "has",
+  "been",
+  "the",
+  "hallmark",
+  "of",
+  "his",
+  "career",
+  ".",
+  "On",
+  "Tuesday",
+  ",",
+  "as",
+  "de",
+  "Blasio",
+  "campaigned",
+  "in",
+  "Brooklyn",
+  ",",
+  "the",
+  "centrality",
+  "of",
+  "his",
+  "family",
+  "to",
+  "his",
+  "personal",
+  "and",
+  "political",
+  "life",
+  "was",
+  "clear",
+  ".",
+  "His",
+  "daughter",
+  ",",
+  "Chiara",
+  ",",
+  "who",
+  "is",
+  "a",
+  "college",
+  "student",
+  "in",
+  "California",
+  ",",
+  "traveled",
+  "home",
+  "to",
+  "surprise",
+  "her",
+  "father",
+  ".",
+  "She",
+  "had",
+  "told",
+  "him",
+  "she",
+  "would",
+  "not",
+  "be",
+  "able",
+  "to",
+  "return",
+  "because",
+  "of",
+  "exams",
+  ".",
+  "\u201c",
+  "This",
+  "is",
+  "the",
+  "greatest",
+  "gift",
+  "I",
+  "could",
+  "have",
+  "on",
+  "Election",
+  "Day",
+  ",",
+  "\u201d",
+  "de",
+  "Blasio",
+  "told",
+  "reporters",
+  ".",
+  "\u201c",
+  "I",
+  "\u2019m",
+  "already",
+  "floating",
+  "on",
+  "air",
+  "because",
+  "my",
+  "daughter",
+  "\u2019s",
+  "here",
+  "with",
+  "us",
+  ".",
+  "\u201d"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   23,
+   64,
+   82,
+   90,
+   128,
+   171,
+   183,
+   201,
+   228,
+   260,
+   281,
+   295,
+   326,
+   341,
+   357,
+   379,
+   403,
+   450,
+   474,
+   494,
+   509,
+   528,
+   544
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Chirlane_McCray",
+       "score": 1.0,
+       "start": 369,
+       "end": 371,
+       "tokens": "Chirlane McCray"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "Bill de Blasio"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 0,
+       "end": 3,
+       "tokens": "BILL DE BLASIO"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 406,
+       "end": 408,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 263,
+       "end": 265,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 306,
+       "end": 308,
+       "tokens": "Senator Provolone"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 128,
+       "end": 130,
+       "tokens": "De Blasio"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 37,
+       "end": 39,
+       "tokens": "New York"
+      },
+      {
+       "label": "New_York_City_Hall",
+       "score": 1.0,
+       "start": 6,
+       "end": 8,
+       "tokens": "CITY HALL"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 523,
+       "end": 525,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 43,
+       "end": 45,
+       "tokens": "NEW YORK"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 113,
+       "end": 115,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "Chiara"
+      },
+      {
+       "label": "David_Dinkins",
+       "score": 1.0,
+       "start": 124,
+       "end": 127,
+       "tokens": "David N. Dinkins"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 98,
+       "end": 101,
+       "tokens": "New York City"
+      },
+      {
+       "label": "Brooklyn",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Brooklyn"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 331,
+       "end": 333,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "Joe_Lhota",
+       "score": 1.0,
+       "start": 135,
+       "end": 138,
+       "tokens": "Joseph J. Lhota"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 274,
+       "end": 277,
+       "tokens": "New York City"
+      },
+      {
+       "label": "California",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "California"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 191,
+       "end": 193,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "Crown_Heights,_Brooklyn",
+       "score": 1.0,
+       "start": 53,
+       "end": 55,
+       "tokens": "Crown Heights"
+      },
+      {
+       "label": "Brooklyn",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "Brooklyn"
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 454,
+       "end": 456,
+       "tokens": "de Blasio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 369,
+       "end": 371,
+       "tokens": "Chirlane McCray"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "Bill de Blasio"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 0,
+       "end": 3,
+       "tokens": "BILL DE BLASIO"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 406,
+       "end": 408,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 263,
+       "end": 265,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 306,
+       "end": 308,
+       "tokens": "Senator Provolone"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 128,
+       "end": 130,
+       "tokens": "De Blasio"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 37,
+       "end": 39,
+       "tokens": "New York"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 6,
+       "end": 8,
+       "tokens": "CITY HALL"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 523,
+       "end": 525,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 43,
+       "end": 45,
+       "tokens": "NEW YORK"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 113,
+       "end": 115,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "Chiara"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 124,
+       "end": 127,
+       "tokens": "David N. Dinkins"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 98,
+       "end": 101,
+       "tokens": "New York City"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Brooklyn"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 331,
+       "end": 333,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 135,
+       "end": 138,
+       "tokens": "Joseph J. Lhota"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 274,
+       "end": 277,
+       "tokens": "New York City"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "California"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 191,
+       "end": 193,
+       "tokens": "de Blasio"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 53,
+       "end": 55,
+       "tokens": "Crown Heights"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "Brooklyn"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 454,
+       "end": 456,
+       "tokens": "de Blasio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "BILL",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "BILL"
+      },
+      {
+       "label": "DE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "DE"
+      },
+      {
+       "label": "BLASIO",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "BLASIO"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": ":"
+      },
+      {
+       "label": "HEADING",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "HEADING"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "TO"
+      },
+      {
+       "label": "CITY",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "CITY"
+      },
+      {
+       "label": "HALL",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "HALL"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": ","
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "A"
+      },
+      {
+       "label": "LIBERAL",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "LIBERAL"
+      },
+      {
+       "label": "USED",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "USED"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "TO"
+      },
+      {
+       "label": "EXCEEDING",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "EXCEEDING"
+      },
+      {
+       "label": "EXPECTATIONS",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "EXPECTATIONS"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": ";"
+      },
+      {
+       "label": "NEW",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "NEW"
+      },
+      {
+       "label": "YORK",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "YORK"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "-"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "The"
+      },
+      {
+       "label": "sidewalk",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "sidewalk"
+      },
+      {
+       "label": "outside",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "outside"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "the"
+      },
+      {
+       "label": "subway",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "subway"
+      },
+      {
+       "label": "station",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "station"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "in"
+      },
+      {
+       "label": "Crown",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Crown"
+      },
+      {
+       "label": "Heights",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "Heights"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": ","
+      },
+      {
+       "label": "Brooklyn",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Brooklyn"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": ","
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "was"
+      },
+      {
+       "label": "crowded",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "crowded"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "on"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": "morning",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "morning"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "."
+      },
+      {
+       "label": "Bill",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Bill"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "de"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Blasio"
+      },
+      {
+       "label": "bent",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "bent"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "his"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "6"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "-"
+      },
+      {
+       "label": "foot",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "foot"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "-"
+      },
+      {
+       "label": "5",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "5"
+      },
+      {
+       "label": "frame",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "frame"
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "again"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "and"
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "again"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "to"
+      },
+      {
+       "label": "shake",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "shake"
+      },
+      {
+       "label": "hands",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "hands"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "The"
+      },
+      {
+       "label": "spot",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "spot"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "been"
+      },
+      {
+       "label": "chosen",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "chosen"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "with"
+      },
+      {
+       "label": "care",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "care"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "It"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "was"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "here"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "in"
+      },
+      {
+       "label": "1991",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "1991"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": ","
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "that"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "York"
+      },
+      {
+       "label": "City",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "City"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "deep",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "deep"
+      },
+      {
+       "label": "racial",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "racial"
+      },
+      {
+       "label": "divide",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "divide"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "had"
+      },
+      {
+       "label": "exploded",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "exploded"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "into"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "three"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "days"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "of"
+      },
+      {
+       "label": "violence",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "violence"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "when"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "de"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Blasio"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "been"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "a"
+      },
+      {
+       "label": "low",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "low"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "-"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "level"
+      },
+      {
+       "label": "aide",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "aide"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "to"
+      },
+      {
+       "label": "Mayor",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "Mayor"
+      },
+      {
+       "label": "David",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "David"
+      },
+      {
+       "label": "N.",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "N."
+      },
+      {
+       "label": "Dinkins",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Dinkins"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "."
+      },
+      {
+       "label": "De",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "De"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "Blasio"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "opponent",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "opponent"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "this"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "year"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": ","
+      },
+      {
+       "label": "Joseph",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Joseph"
+      },
+      {
+       "label": "J.",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "J."
+      },
+      {
+       "label": "Lhota",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "Lhota"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": ","
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "had"
+      },
+      {
+       "label": "pointed",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "pointed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "to"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "that"
+      },
+      {
+       "label": "dark",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "dark"
+      },
+      {
+       "label": "episode",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "episode"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "a"
+      },
+      {
+       "label": "reason",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "reason"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "not"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "to"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "vote"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "for"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "him"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "a"
+      },
+      {
+       "label": "warning",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "warning"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "the"
+      },
+      {
+       "label": "bad",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "bad"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "times"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "that"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "were"
+      },
+      {
+       "label": "likely",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "likely"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "to"
+      },
+      {
+       "label": "return",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "return"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "if"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "he"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "were"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "elected"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "But"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "there"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "was"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "no"
+      },
+      {
+       "label": "strife",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "strife"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "on"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": ","
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "no"
+      },
+      {
+       "label": "flying",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "flying"
+      },
+      {
+       "label": "bottles",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "bottles"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "."
+      },
+      {
+       "label": "Just",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "Just"
+      },
+      {
+       "label": "handshakes",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "handshakes"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "the"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "way"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "to"
+      },
+      {
+       "label": "winning",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "winning"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "as"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "de"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "Blasio"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "was"
+      },
+      {
+       "label": "welcomed",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "welcomed"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "a"
+      },
+      {
+       "label": "hero",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "hero"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "and"
+      },
+      {
+       "label": "celebrity",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "celebrity"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "All",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "All"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "I"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "want"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "to"
+      },
+      {
+       "label": "say",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "say"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "that"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "I"
+      },
+      {
+       "label": "love",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "love"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "you"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "said"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "a"
+      },
+      {
+       "label": "woman",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "woman"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "in"
+      },
+      {
+       "label": "jeans",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "jeans"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "a"
+      },
+      {
+       "label": "denim",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "denim"
+      },
+      {
+       "label": "jacket",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "jacket"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "a"
+      },
+      {
+       "label": "paisley",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "paisley"
+      },
+      {
+       "label": "shawl",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "shawl"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "It"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "a"
+      },
+      {
+       "label": "note",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "note"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "-"
+      },
+      {
+       "label": "perfect",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "perfect"
+      },
+      {
+       "label": "play",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "play"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "a"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "campaign"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "of"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "them"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": ","
+      },
+      {
+       "label": "summing",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "summing"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "up"
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "both"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "his"
+      },
+      {
+       "label": "sharp",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "sharp"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "political"
+      },
+      {
+       "label": "instincts",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "instincts"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "the"
+      },
+      {
+       "label": "changing",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "changing"
+      },
+      {
+       "label": "feel",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "feel"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "the"
+      },
+      {
+       "label": "city",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "city"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "he"
+      },
+      {
+       "label": "wanted",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "wanted"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "to"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "run"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "."
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "On"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": ","
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "de"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "Blasio"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "was"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "elected"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "to"
+      },
+      {
+       "label": "become",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "become"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "first"
+      },
+      {
+       "label": "Democratic",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "mayor",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "mayor"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "of"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "York"
+      },
+      {
+       "label": "City",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "City"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "in"
+      },
+      {
+       "label": "20",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "20"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "years"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "."
+      },
+      {
+       "label": "Few",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Few"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "had"
+      },
+      {
+       "label": "initially",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "initially"
+      },
+      {
+       "label": "predicted",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "predicted"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "his"
+      },
+      {
+       "label": "victory",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "victory"
+      },
+      {
+       "label": "except",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "except"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": ","
+      },
+      {
+       "label": "perhaps",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "perhaps"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "the"
+      },
+      {
+       "label": "candidate",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "candidate"
+      },
+      {
+       "label": "himself",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "himself"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "In"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "high"
+      },
+      {
+       "label": "school",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "school"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": ","
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "was"
+      },
+      {
+       "label": "known",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "known"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "a"
+      },
+      {
+       "label": "nickname",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "nickname"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": ","
+      },
+      {
+       "label": "Senator",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "Senator"
+      },
+      {
+       "label": "Provolone",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "Provolone"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "and"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "his"
+      },
+      {
+       "label": "classmates",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "classmates"
+      },
+      {
+       "label": "sometimes",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "sometimes"
+      },
+      {
+       "label": "hummed",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "hummed"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "Hail",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "Hail"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "the"
+      },
+      {
+       "label": "Chief",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "Chief"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "when"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "he"
+      },
+      {
+       "label": "entered",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "entered"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "the"
+      },
+      {
+       "label": "room",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "room"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "But"
+      },
+      {
+       "label": "throughout",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "throughout"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "his"
+      },
+      {
+       "label": "life",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "life"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": ","
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "de"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Blasio"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "had"
+      },
+      {
+       "label": "come",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "come"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "to"
+      },
+      {
+       "label": "delight",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "delight"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "in"
+      },
+      {
+       "label": "upsetting",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "upsetting"
+      },
+      {
+       "label": "expectations",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "expectations"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "He"
+      },
+      {
+       "label": "overcame",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "overcame"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "a"
+      },
+      {
+       "label": "troubled",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "troubled"
+      },
+      {
+       "label": "childhood",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "childhood"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "and"
+      },
+      {
+       "label": "attended",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "attended"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "country"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "most",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "most"
+      },
+      {
+       "label": "prestigious",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "prestigious"
+      },
+      {
+       "label": "universities",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "universities"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "He"
+      },
+      {
+       "label": "married",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "married"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "a"
+      },
+      {
+       "label": "black",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "black"
+      },
+      {
+       "label": "woman",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "woman"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "who"
+      },
+      {
+       "label": "once",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "once"
+      },
+      {
+       "label": "identified",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "identified"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "a"
+      },
+      {
+       "label": "lesbian",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "lesbian"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": ","
+      },
+      {
+       "label": "Chirlane",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "Chirlane"
+      },
+      {
+       "label": "McCray",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "McCray"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "and"
+      },
+      {
+       "label": "created",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "created"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "a"
+      },
+      {
+       "label": "proudly",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "proudly"
+      },
+      {
+       "label": "biracial",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "biracial"
+      },
+      {
+       "label": "home",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "home"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "He"
+      },
+      {
+       "label": "cut",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "cut"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "his"
+      },
+      {
+       "label": "teeth",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "teeth"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "a"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "political"
+      },
+      {
+       "label": "operator",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "operator"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "but"
+      },
+      {
+       "label": "abandoned",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "abandoned"
+      },
+      {
+       "label": "life",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "life"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "a"
+      },
+      {
+       "label": "strategist",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "strategist"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "to"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "make"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "an"
+      },
+      {
+       "label": "audacious",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "audacious"
+      },
+      {
+       "label": "bid",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "bid"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "for"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "public"
+      },
+      {
+       "label": "office",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "office"
+      },
+      {
+       "label": "himself",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "himself"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "."
+      },
+      {
+       "label": "Now",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "Now"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "as"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "de"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "Blasio"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": ","
+      },
+      {
+       "label": "52",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "52"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": ","
+      },
+      {
+       "label": "prepares",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "prepares"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "to"
+      },
+      {
+       "label": "become",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "become"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "chief"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "executive"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "of"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "the"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "world"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "largest",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "largest"
+      },
+      {
+       "label": "cities",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "cities"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": ","
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "he"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "will"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "have"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "a"
+      },
+      {
+       "label": "far",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "far"
+      },
+      {
+       "label": "grander",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "grander"
+      },
+      {
+       "label": "stage",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "stage"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "on"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "which"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "to"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "test"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "the"
+      },
+      {
+       "label": "decidedly",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "decidedly"
+      },
+      {
+       "label": "liberal",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "liberal"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "world"
+      },
+      {
+       "label": "view",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "view"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "that"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "been"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "the"
+      },
+      {
+       "label": "hallmark",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "hallmark"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "of"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "his"
+      },
+      {
+       "label": "career",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "career"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "."
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "On"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "as"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "de"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "Blasio"
+      },
+      {
+       "label": "campaigned",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "campaigned"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "in"
+      },
+      {
+       "label": "Brooklyn",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "Brooklyn"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "the"
+      },
+      {
+       "label": "centrality",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "centrality"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "of"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "his"
+      },
+      {
+       "label": "family",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "family"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "to"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "his"
+      },
+      {
+       "label": "personal",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "personal"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "and"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "political"
+      },
+      {
+       "label": "life",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "life"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "was"
+      },
+      {
+       "label": "clear",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "clear"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "."
+      },
+      {
+       "label": "His",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "His"
+      },
+      {
+       "label": "daughter",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "daughter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": ","
+      },
+      {
+       "label": "Chiara",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "Chiara"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "who"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "a"
+      },
+      {
+       "label": "college",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "college"
+      },
+      {
+       "label": "student",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "student"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "in"
+      },
+      {
+       "label": "California",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "California"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": ","
+      },
+      {
+       "label": "traveled",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "traveled"
+      },
+      {
+       "label": "home",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "home"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "to"
+      },
+      {
+       "label": "surprise",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "surprise"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "her"
+      },
+      {
+       "label": "father",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "father"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "."
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "She"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "had"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "told"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "him"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "she"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "would"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "not"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "be"
+      },
+      {
+       "label": "able",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "able"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "to"
+      },
+      {
+       "label": "return",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "return"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "because"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "of"
+      },
+      {
+       "label": "exams",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "exams"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "This"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "the"
+      },
+      {
+       "label": "greatest",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "greatest"
+      },
+      {
+       "label": "gift",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "gift"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "I"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "could"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "have"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "on"
+      },
+      {
+       "label": "Election",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "Election"
+      },
+      {
+       "label": "Day",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "Day"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "de"
+      },
+      {
+       "label": "Blasio",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "Blasio"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "told"
+      },
+      {
+       "label": "reporters",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "reporters"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "I"
+      },
+      {
+       "label": "\u2019m",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "\u2019m"
+      },
+      {
+       "label": "already",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "already"
+      },
+      {
+       "label": "floating",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "floating"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "on"
+      },
+      {
+       "label": "air",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "air"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "because"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "my"
+      },
+      {
+       "label": "daughter",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "daughter"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "here"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "with"
+      },
+      {
+       "label": "us",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "us"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "\u201d"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 369,
+       "end": 371,
+       "tokens": "Chirlane McCray",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "Bill de Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 0,
+       "end": 3,
+       "tokens": "BILL DE BLASIO",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 1.311150185785229e-22
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 406,
+       "end": 408,
+       "tokens": "de Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 5.605193857299268e-44
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 263,
+       "end": 265,
+       "tokens": "de Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 7.227196829755244e-41
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 306,
+       "end": 308,
+       "tokens": "Senator Provolone",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 128,
+       "end": 130,
+       "tokens": "De Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 3.0127916982983567e-43
+       }
+      },
+      {
+       "label": "New_York",
+       "score": 0.4217958520367189,
+       "start": 37,
+       "end": 39,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.4217958520367189,
+        "New_York_City": 0.37376903741642437,
+        "New_York_(magazine)": 0.1804732796963597,
+        "New_York_(film)": 0.002689188681961558,
+        "Province_of_New_York": 0.002245006970308846,
+        "New_York_Knicks": 0.002153948139985356,
+        "Manhattan": 0.0022445070018980652,
+        "New_York_metropolitan_area": 0.007501625258888687,
+        "New_York's_at-large_congressional_seat": 0.0014042204957581514,
+        "Eastern_Air_Defense_Sector": 0.0010294370021908482,
+        "New_York_Air_National_Guard": 0.0009345235239510365,
+        "Peekskill,_New_York": 0.0007982393055749253,
+        "New_York_Liberty": 0.0007895482923554636,
+        "New_York_Yankees": 0.000747877617757178,
+        "September_11_attacks": 0.0007155090112124505,
+        "New_York_GAA": 0.0007081995486545869,
+        "<unk_wid>": 5.130476265801596e-34
+       }
+      },
+      {
+       "label": "Civic_Center,_Manhattan",
+       "score": 0.15966751249994923,
+       "start": 6,
+       "end": 8,
+       "tokens": "CITY HALL",
+       "labelScoreMap": {
+        "Philadelphia_City_Hall": 0.06124354222411785,
+        "New_York_City_Hall": 0.09288185473227704,
+        "San_Francisco_City_Hall": 0.09445491954828404,
+        "City_Hall,_London": 0.07627837035844785,
+        "Pittsburgh_City-County_Building": 0.025600876315306113,
+        "Toronto_City_Hall": 0.05909290208124868,
+        "City_Hall,_Singapore": 0.023061873812910628,
+        "Bremen_City_Hall": 0.027784669942686656,
+        "Gibraltar_City_Hall": 0.018848565313851987,
+        "City_Hall_(film)": 0.016797750641099257,
+        "Albany_City_Hall": 0.024560926964739414,
+        "Milwaukee_City_Hall": 0.014199696408666192,
+        "City_Hall_MRT_Station": 0.014716229998306029,
+        "Civic_Center,_Manhattan": 0.15966751249994923,
+        "Los_Angeles_City_Hall": 0.03807369463720569,
+        "Boston_City_Hall": 0.009911459759623998,
+        "Belfast_City_Hall": 0.027240671566524377,
+        "Vancouver_City_Hall": 0.009389200307991952,
+        "Stockholm_City_Hall": 0.009790481738255724,
+        "H\u00f4tel_de_Ville,_Paris": 0.017121328180387783,
+        "Portland_City_Hall_(Oregon)": 0.010594214905195982,
+        "Rathaus,_Vienna": 0.008452027112351738,
+        "Edmonton_City_Hall": 0.007633611172780402,
+        "Sheffield_City_Hall": 0.009281901241420771,
+        "Montreal_City_Hall": 0.00601376421548704,
+        "Oslo_City_Hall": 0.02120639501068443,
+        "City_Hall,_Cardiff": 0.006178447136639764,
+        "City_Hall_(IRT_Lexington_Avenue_Line)": 0.01130458884430697,
+        "Chicago_City_Hall": 0.08331534897408334,
+        "Brisbane_City_Hall": 0.015303174355169003
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 523,
+       "end": 525,
+       "tokens": "de Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 4.467007396531472e-39
+       }
+      },
+      {
+       "label": "New_York_City",
+       "score": 0.4310152574944895,
+       "start": 43,
+       "end": 45,
+       "tokens": "NEW YORK",
+       "labelScoreMap": {
+        "New_York": 0.38203449748348467,
+        "New_York_City": 0.4310152574944895,
+        "New_York_(magazine)": 0.012206900139490431,
+        "New_York_(film)": 0.002617345969508673,
+        "Province_of_New_York": 0.0021776418057726796,
+        "New_York_Knicks": 0.00212097747608054,
+        "Manhattan": 0.030954213170405188,
+        "New_York_metropolitan_area": 0.12926197100209147,
+        "New_York's_at-large_congressional_seat": 0.0013667059068755041,
+        "Eastern_Air_Defense_Sector": 0.0010019566655110116,
+        "New_York_Air_National_Guard": 0.000909715407433304,
+        "Peekskill,_New_York": 0.0007800388386963345,
+        "New_York_Liberty": 0.0007687204276204404,
+        "New_York_Yankees": 0.0009573080894007994,
+        "September_11_attacks": 0.0011373896902334769,
+        "New_York_GAA": 0.0006893604329058737,
+        "<unk_wid>": 7.721588852257802e-25
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 113,
+       "end": 115,
+       "tokens": "de Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 0.9634517416101371,
+       "start": 271,
+       "end": 272,
+       "tokens": "Democratic",
+       "labelScoreMap": {
+        "Democratic_Party_(United_States)": 0.9634517416101371,
+        "California_Democratic_Party": 0.010632375385794271,
+        "European_Democratic_Party": 0.008981522438872703,
+        "Democratic_National_Convention": 0.004392701143294769,
+        "Democratic_Party_of_Oregon": 0.004117035396925238,
+        "Republican_Party_(United_States)": 0.0028159993764120474,
+        "Democratic_Party_of_Japan": 0.002483551552719055,
+        "2008_Democratic_National_Convention": 0.0018927766207492288,
+        "Democratic_Party_of_Illinois": 0.0012322964750954802,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Chiara_Mastroianni",
+       "score": 0.5070553582972158,
+       "start": 477,
+       "end": 478,
+       "tokens": "Chiara",
+       "labelScoreMap": {
+        "Chiara_Siracusa": 0.4886114542429383,
+        "Chiara_Mastroianni": 0.5070553582972158,
+        "Clare_of_Assisi": 0.0026096905936994503,
+        "Vatican_City": 0.0017234968661465307,
+        "<unk_wid>": 1.1293938801665556e-26
+       }
+      },
+      {
+       "label": "David_Dinkins",
+       "score": 0.9908119023153584,
+       "start": 124,
+       "end": 127,
+       "tokens": "David N. Dinkins",
+       "labelScoreMap": {
+        "David_Dinkins": 0.9908119023153584,
+        "Jasmine_Guy": 0.00918809768464149,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "New_York_City",
+       "score": 0.993262533574429,
+       "start": 98,
+       "end": 101,
+       "tokens": "New York City",
+       "labelScoreMap": {
+        "New_York_City": 0.993262533574429,
+        "New_York": 0.0023839727976279787,
+        "New_York_City_English": 0.0017499870051398074,
+        "Manhattan": 0.0015298936542068164,
+        "Pennsylvania_Station_(New_York_City)": 0.001073612968596225,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Brooklyn",
+       "score": 0.9143329741244616,
+       "start": 56,
+       "end": 57,
+       "tokens": "Brooklyn",
+       "labelScoreMap": {
+        "Brooklyn": 0.9143329741244616,
+        "Brooklyn,_New_South_Wales": 0.006931893960446503,
+        "Brooklyn_Bridge": 0.006153608217230549,
+        "Brooklyn,_Indiana": 0.005771129945797073,
+        "Brooklyn,_Connecticut": 0.005454047183990175,
+        "Brooklyn,_Ohio": 0.004709893392352654,
+        "Brooklyn,_Baltimore": 0.0046757827871202525,
+        "Brooklyn,_Portland,_Oregon": 0.004610817360442291,
+        "Williamsburg,_Brooklyn": 0.010986657837281087,
+        "Park_Slope": 0.004303831703350582,
+        "Brooklyn,_Michigan": 0.004010895356864197,
+        "Bay_Ridge,_Brooklyn": 0.0037819851802265354,
+        "Brooklyn,_Illinois": 0.0031062875021675746,
+        "Los_Angeles_Dodgers": 0.0030081804443512017,
+        "Brooklyn,_Victoria": 0.002713899357146668,
+        "USS_Brooklyn_(ACR-3)": 0.002615809036396668,
+        "Goethe_Link_Observatory": 0.0024360017369535153,
+        "Sunset_Park,_Brooklyn": 0.002423302161299337,
+        "Brooklyn,_Iowa": 0.0019945569087467855,
+        "Brooklyn,_New_Zealand": 0.0018310663254775894,
+        "Brooklyn_College": 0.0016460104872159725,
+        "Windsor_Terrace,_Brooklyn": 0.0012752047271283621,
+        "USS_Brooklyn_(1858)": 0.001226164263552502,
+        "<unk_wid>": 2.490155908776e-33
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 331,
+       "end": 333,
+       "tokens": "de Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 7.650318901058123e-40
+       }
+      },
+      {
+       "label": "Joe_Lhota",
+       "score": 1.0,
+       "start": 135,
+       "end": 138,
+       "tokens": "Joseph J. Lhota",
+       "labelScoreMap": {
+        "Joe_Lhota": 1.0,
+        "<unk_wid>": 7.006492321624085e-45
+       }
+      },
+      {
+       "label": "New_York_City",
+       "score": 0.9932543498240377,
+       "start": 274,
+       "end": 277,
+       "tokens": "New York City",
+       "labelScoreMap": {
+        "New_York_City": 0.9932543498240377,
+        "New_York": 0.002392192159161502,
+        "New_York_City_English": 0.0017499726852295875,
+        "Manhattan": 0.0015298811482065216,
+        "Pennsylvania_Station_(New_York_City)": 0.0010736041833645199,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "California",
+       "score": 0.9729583716897732,
+       "start": 485,
+       "end": 486,
+       "tokens": "California",
+       "labelScoreMap": {
+        "California": 0.9729583716897732,
+        "University_of_California,_Berkeley": 0.005413003140985716,
+        "California_Golden_Bears_football": 0.005281945479588014,
+        "California_Trail": 0.003026642204013373,
+        "California,_Missouri": 0.0030142827389683206,
+        "United_States_Senate_election_in_California,_2010": 0.00165606756603414,
+        "California,_Pennsylvania": 0.0015766373634012996,
+        "California_Air_National_Guard": 0.001564725006129758,
+        "University_of_California": 0.001552813728182904,
+        "Auto_Club_Speedway": 0.001469415283640844,
+        "Ferrari_California": 0.0013065877146341534,
+        "Miss_California": 0.001179508084648191,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 191,
+       "end": 193,
+       "tokens": "de Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 2.719061782921735e-36
+       }
+      },
+      {
+       "label": "Crown_Heights,_Brooklyn",
+       "score": 0.906086818370908,
+       "start": 53,
+       "end": 55,
+       "tokens": "Crown Heights",
+       "labelScoreMap": {
+        "Crown_Heights,_Brooklyn": 0.906086818370908,
+        "Crown_Heights_riot": 0.08652172855872778,
+        "Crown_Heights_\u2013_Utica_Avenue_(IRT_Eastern_Parkway_Line)": 0.004347972109692292,
+        "Al_Sharpton": 0.001739129436671913,
+        "Chabad": 0.0013043515239999372,
+        "<unk_wid>": 1.0486918571341799e-39
+       }
+      },
+      {
+       "label": "Brooklyn",
+       "score": 0.914541737794479,
+       "start": 458,
+       "end": 459,
+       "tokens": "Brooklyn",
+       "labelScoreMap": {
+        "Brooklyn": 0.914541737794479,
+        "Brooklyn,_New_South_Wales": 0.006933328646799656,
+        "Brooklyn_Bridge": 0.006348439555566999,
+        "Brooklyn,_Indiana": 0.005772324333735649,
+        "Brooklyn,_Connecticut": 0.00552384548469872,
+        "Brooklyn,_Ohio": 0.00471110703232473,
+        "Brooklyn,_Baltimore": 0.004677000950273763,
+        "Brooklyn,_Portland,_Oregon": 0.0046120628222221785,
+        "Williamsburg,_Brooklyn": 0.010329874768719995,
+        "Park_Slope": 0.004383636670693586,
+        "Brooklyn,_Michigan": 0.004008919270873947,
+        "Bay_Ridge,_Brooklyn": 0.003777278805314595,
+        "Brooklyn,_Illinois": 0.0031069239989864397,
+        "Los_Angeles_Dodgers": 0.0030088035023955574,
+        "Brooklyn,_Victoria": 0.0027144610339769498,
+        "USS_Brooklyn_(ACR-3)": 0.0026163504019209027,
+        "Goethe_Link_Observatory": 0.0024366368815137342,
+        "Sunset_Park,_Brooklyn": 0.002422118674497962,
+        "Brooklyn,_Iowa": 0.001994969700478111,
+        "Brooklyn,_New_Zealand": 0.0018314452813414138,
+        "Brooklyn_College": 0.0017468431660097952,
+        "Windsor_Terrace,_Brooklyn": 0.0012754731937544884,
+        "USS_Brooklyn_(1858)": 0.0012264180294219924,
+        "<unk_wid>": 2.1525962885426364e-30
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 454,
+       "end": 456,
+       "tokens": "de Blasio",
+       "labelScoreMap": {
+        "Bill_de_Blasio": 1.0,
+        "<unk_wid>": 5.53470854454373e-41
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 369,
+       "end": 371,
+       "tokens": "Chirlane McCray",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "Bill de Blasio",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 0,
+       "end": 3,
+       "tokens": "BILL DE BLASIO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 406,
+       "end": 408,
+       "tokens": "de Blasio",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 263,
+       "end": 265,
+       "tokens": "de Blasio",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 306,
+       "end": 308,
+       "tokens": "Senator Provolone",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 128,
+       "end": 130,
+       "tokens": "De Blasio",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York",
+       "score": 0.4217958520367189,
+       "start": 37,
+       "end": 39,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.4217958520367189,
+        "5128581|New_York_City": 0.37376903741642437,
+        "5128594|Manhattan": 0.0022445070018980652,
+        "5130831|Peekskill,_New_York": 0.0007982393055749253
+       }
+      },
+      {
+       "label": "Civic_Center,_Manhattan",
+       "score": 0.15966751249994923,
+       "start": 6,
+       "end": 8,
+       "tokens": "CITY HALL",
+       "labelScoreMap": {
+        "4560337|Philadelphia_City_Hall": 0.06124354222411785,
+        "4833132|New_York_City_Hall": 0.09288185473227704,
+        "5391972|San_Francisco_City_Hall": 0.09445491954828404,
+        "6696472|City_Hall,_London": 0.07627837035844785,
+        "8014951|Toronto_City_Hall": 0.05909290208124868,
+        "7533706|Albany_City_Hall": 0.024560926964739414,
+        "5263056|Milwaukee_City_Hall": 0.014199696408666192,
+        "5368373|Los_Angeles_City_Hall": 0.03807369463720569,
+        "4930968|Boston_City_Hall": 0.009911459759623998,
+        "6944470|Stockholm_City_Hall": 0.009790481738255724,
+        "6947013|H\u00f4tel_de_Ville,_Paris": 0.017121328180387783,
+        "7210537|Portland_City_Hall_(Oregon)": 0.010594214905195982,
+        "6324756|Rathaus,_Vienna": 0.008452027112351738,
+        "7676931|Sheffield_City_Hall": 0.009281901241420771,
+        "4887420|Chicago_City_Hall": 0.08331534897408334
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 523,
+       "end": 525,
+       "tokens": "de Blasio",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York_City",
+       "score": 0.4310152574944895,
+       "start": 43,
+       "end": 45,
+       "tokens": "NEW YORK",
+       "labelScoreMap": {
+        "5128638|New_York": 0.38203449748348467,
+        "5128581|New_York_City": 0.4310152574944895,
+        "5128594|Manhattan": 0.030954213170405188,
+        "5130831|Peekskill,_New_York": 0.0007800388386963345
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 113,
+       "end": 115,
+       "tokens": "de Blasio",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 0.9634517416101371,
+       "start": 271,
+       "end": 272,
+       "tokens": "Democratic",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Chiara_Mastroianni",
+       "score": 0.5070553582972158,
+       "start": 477,
+       "end": 478,
+       "tokens": "Chiara",
+       "labelScoreMap": {
+        "6691831|Vatican_City": 0.0017234968661465307
+       }
+      },
+      {
+       "label": "David_Dinkins",
+       "score": 0.9908119023153584,
+       "start": 124,
+       "end": 127,
+       "tokens": "David N. Dinkins",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York_City",
+       "score": 0.993262533574429,
+       "start": 98,
+       "end": 101,
+       "tokens": "New York City",
+       "labelScoreMap": {
+        "5128581|New_York_City": 0.993262533574429,
+        "5128638|New_York": 0.0023839727976279787,
+        "5128594|Manhattan": 0.0015298936542068164,
+        "6342894|Pennsylvania_Station_(New_York_City)": 0.001073612968596225
+       }
+      },
+      {
+       "label": "Brooklyn",
+       "score": 0.9143329741244616,
+       "start": 56,
+       "end": 57,
+       "tokens": "Brooklyn",
+       "labelScoreMap": {
+        "5110302|Brooklyn": 0.9143329741244616,
+        "2173872|Brooklyn,_New_South_Wales": 0.006931893960446503,
+        "5110306|Brooklyn_Bridge": 0.006153608217230549,
+        "4254985|Brooklyn,_Indiana": 0.005771129945797073,
+        "5282922|Brooklyn,_Connecticut": 0.005454047183990175,
+        "5148346|Brooklyn,_Ohio": 0.004709893392352654,
+        "6340845|Williamsburg,_Brooklyn": 0.010986657837281087,
+        "4987064|Brooklyn,_Michigan": 0.004010895356864197,
+        "5108161|Bay_Ridge,_Brooklyn": 0.0037819851802265354,
+        "4234474|Brooklyn,_Illinois": 0.0031062875021675746,
+        "8349239|Brooklyn,_Victoria": 0.002713899357146668,
+        "4258031|Goethe_Link_Observatory": 0.0024360017369535153,
+        "8436486|Sunset_Park,_Brooklyn": 0.002423302161299337,
+        "4849448|Brooklyn,_Iowa": 0.0019945569087467855,
+        "8436513|Windsor_Terrace,_Brooklyn": 0.0012752047271283621
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 331,
+       "end": 333,
+       "tokens": "de Blasio",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Joe_Lhota",
+       "score": 1.0,
+       "start": 135,
+       "end": 138,
+       "tokens": "Joseph J. Lhota",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York_City",
+       "score": 0.9932543498240377,
+       "start": 274,
+       "end": 277,
+       "tokens": "New York City",
+       "labelScoreMap": {
+        "5128581|New_York_City": 0.9932543498240377,
+        "5128638|New_York": 0.002392192159161502,
+        "5128594|Manhattan": 0.0015298811482065216,
+        "6342894|Pennsylvania_Station_(New_York_City)": 0.0010736041833645199
+       }
+      },
+      {
+       "label": "California",
+       "score": 0.9729583716897732,
+       "start": 485,
+       "end": 486,
+       "tokens": "California",
+       "labelScoreMap": {
+        "5332921|California": 0.9729583716897732,
+        "5404897|University_of_California,_Berkeley": 0.005413003140985716,
+        "4379545|California,_Missouri": 0.0030142827389683206,
+        "5182733|California,_Pennsylvania": 0.0015766373634012996,
+        "6943265|Auto_Club_Speedway": 0.001469415283640844
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 191,
+       "end": 193,
+       "tokens": "de Blasio",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Crown_Heights,_Brooklyn",
+       "score": 0.906086818370908,
+       "start": 53,
+       "end": 55,
+       "tokens": "Crown Heights",
+       "labelScoreMap": {
+        "8436493|Crown_Heights,_Brooklyn": 0.906086818370908
+       }
+      },
+      {
+       "label": "Brooklyn",
+       "score": 0.914541737794479,
+       "start": 458,
+       "end": 459,
+       "tokens": "Brooklyn",
+       "labelScoreMap": {
+        "5110302|Brooklyn": 0.914541737794479,
+        "2173872|Brooklyn,_New_South_Wales": 0.006933328646799656,
+        "5110306|Brooklyn_Bridge": 0.006348439555566999,
+        "4254985|Brooklyn,_Indiana": 0.005772324333735649,
+        "5282922|Brooklyn,_Connecticut": 0.00552384548469872,
+        "5148346|Brooklyn,_Ohio": 0.00471110703232473,
+        "6340845|Williamsburg,_Brooklyn": 0.010329874768719995,
+        "4987064|Brooklyn,_Michigan": 0.004008919270873947,
+        "5108161|Bay_Ridge,_Brooklyn": 0.003777278805314595,
+        "4234474|Brooklyn,_Illinois": 0.0031069239989864397,
+        "8349239|Brooklyn,_Victoria": 0.0027144610339769498,
+        "4258031|Goethe_Link_Observatory": 0.0024366368815137342,
+        "8436486|Sunset_Park,_Brooklyn": 0.002422118674497962,
+        "4849448|Brooklyn,_Iowa": 0.001994969700478111,
+        "8436513|Windsor_Terrace,_Brooklyn": 0.0012754731937544884
+       }
+      },
+      {
+       "label": "Bill_de_Blasio",
+       "score": 1.0,
+       "start": 454,
+       "end": 456,
+       "tokens": "de Blasio",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4919 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_DF_001503_20140502_G00A0AIIF.xml",
+ "text": "Ontario Election 2014\nhttp://metronews.ca/news/toronto/102...arly-election/\nBring it on, I can use my vote this time.\nOntario voters are heading to the polls next month.\nA June election is a certainty after NDP Leader Andrea Horwath said her party could not support the budget tabled by Premier Kathleen Wynne\u2019s minority Liberals.\nCan Ontario even afford an election\nReading some of the comments from Ontarians Im glad Im not living in that Province anymore.\nThe liberals are hated after McGuinty, the Cons are hated after Harris and some still even blame Bob Rae when he was with the NDP.\nSo as an Ontarian who do you vote for?\nRegardless of who wins be it majority or minority that Province is in DEBT so how do you spend less? I can see a lot of Ontario Public Service workers thinking\nOh shit Im about to be told to bend over and they won't use any lube or kiss me.\nRob Ford for premier Lol\nI will be voting for the first person that runs their campaign by telling me why I SHOULD vote for them, rather than simply slagging the opposition off.\nI don't hold out much hope.\nI will be voting for the first person that runs their campaign by telling me why I SHOULD vote for them, rather than simply slagging the opposition off.\nI don't hold out much hope.\nBut haven't politicians tried this before? Vote for me because I will do this and do that etc etc and then get elected and break all these promises. Even when they can vote on something they promised you if the Party thinks its a bad idea then they whip the vote along party lines a la gun registry reform a few years ago.\nCurrently IMHO voters are showing apathy during various elections as they simply believe politicians of all stripes cannot be trusted which of course is not true.\nYou can run with the best intentions and if you don't give what the voters want in their opinion then you have failed.\nHow many think when the gun registry was introduced that it was a good idea. How many elected officials voted in favour of it when clearly their constituents wanted them to vote against it.\nI'm voting Green for the first time in my life. I just look at the candidates, and every year it seems like their talking points and tactics are getting more stoopider and juvenile. The level of political discourse is depressingly low and uninspiring.\nThis province used to have great leadership many many years ago, Bill Davis comes to mind....I figure since this election is going to be a complete washout for any party looking for a mandate....might as well vote with my gut.",
+ "tokens": [
+  "Ontario",
+  "Election",
+  "2014",
+  "http://metronews.ca/news/toronto/102...arly-election/",
+  "Bring",
+  "it",
+  "on",
+  ",",
+  "I",
+  "can",
+  "use",
+  "my",
+  "vote",
+  "this",
+  "time",
+  ".",
+  "Ontario",
+  "voters",
+  "are",
+  "heading",
+  "to",
+  "the",
+  "polls",
+  "next",
+  "month",
+  ".",
+  "A",
+  "June",
+  "election",
+  "is",
+  "a",
+  "certainty",
+  "after",
+  "NDP",
+  "Leader",
+  "Andrea",
+  "Horwath",
+  "said",
+  "her",
+  "party",
+  "could",
+  "not",
+  "support",
+  "the",
+  "budget",
+  "tabled",
+  "by",
+  "Premier",
+  "Kathleen",
+  "Wynne",
+  "\u2019s",
+  "minority",
+  "Liberals",
+  ".",
+  "Can",
+  "Ontario",
+  "even",
+  "afford",
+  "an",
+  "election",
+  "Reading",
+  "some",
+  "of",
+  "the",
+  "comments",
+  "from",
+  "Ontarians",
+  "Im",
+  "glad",
+  "Im",
+  "not",
+  "living",
+  "in",
+  "that",
+  "Province",
+  "anymore",
+  ".",
+  "The",
+  "liberals",
+  "are",
+  "hated",
+  "after",
+  "McGuinty",
+  ",",
+  "the",
+  "Cons",
+  "are",
+  "hated",
+  "after",
+  "Harris",
+  "and",
+  "some",
+  "still",
+  "even",
+  "blame",
+  "Bob",
+  "Rae",
+  "when",
+  "he",
+  "was",
+  "with",
+  "the",
+  "NDP",
+  ".",
+  "So",
+  "as",
+  "an",
+  "Ontarian",
+  "who",
+  "do",
+  "you",
+  "vote",
+  "for",
+  "?",
+  "Regardless",
+  "of",
+  "who",
+  "wins",
+  "be",
+  "it",
+  "majority",
+  "or",
+  "minority",
+  "that",
+  "Province",
+  "is",
+  "in",
+  "DEBT",
+  "so",
+  "how",
+  "do",
+  "you",
+  "spend",
+  "less",
+  "?",
+  "I",
+  "can",
+  "see",
+  "a",
+  "lot",
+  "of",
+  "Ontario",
+  "Public",
+  "Service",
+  "workers",
+  "thinking",
+  "Oh",
+  "shit",
+  "Im",
+  "about",
+  "to",
+  "be",
+  "told",
+  "to",
+  "bend",
+  "over",
+  "and",
+  "they",
+  "wo",
+  "n't",
+  "use",
+  "any",
+  "lube",
+  "or",
+  "kiss",
+  "me",
+  ".",
+  "Rob",
+  "Ford",
+  "for",
+  "premier",
+  "Lol",
+  "I",
+  "will",
+  "be",
+  "voting",
+  "for",
+  "the",
+  "first",
+  "person",
+  "that",
+  "runs",
+  "their",
+  "campaign",
+  "by",
+  "telling",
+  "me",
+  "why",
+  "I",
+  "SHOULD",
+  "vote",
+  "for",
+  "them",
+  ",",
+  "rather",
+  "than",
+  "simply",
+  "slagging",
+  "the",
+  "opposition",
+  "off",
+  ".",
+  "I",
+  "do",
+  "n't",
+  "hold",
+  "out",
+  "much",
+  "hope",
+  ".",
+  "I",
+  "will",
+  "be",
+  "voting",
+  "for",
+  "the",
+  "first",
+  "person",
+  "that",
+  "runs",
+  "their",
+  "campaign",
+  "by",
+  "telling",
+  "me",
+  "why",
+  "I",
+  "SHOULD",
+  "vote",
+  "for",
+  "them",
+  ",",
+  "rather",
+  "than",
+  "simply",
+  "slagging",
+  "the",
+  "opposition",
+  "off",
+  ".",
+  "I",
+  "do",
+  "n't",
+  "hold",
+  "out",
+  "much",
+  "hope",
+  ".",
+  "But",
+  "have",
+  "n't",
+  "politicians",
+  "tried",
+  "this",
+  "before",
+  "?",
+  "Vote",
+  "for",
+  "me",
+  "because",
+  "I",
+  "will",
+  "do",
+  "this",
+  "and",
+  "do",
+  "that",
+  "etc",
+  "etc",
+  "and",
+  "then",
+  "get",
+  "elected",
+  "and",
+  "break",
+  "all",
+  "these",
+  "promises",
+  ".",
+  "Even",
+  "when",
+  "they",
+  "can",
+  "vote",
+  "on",
+  "something",
+  "they",
+  "promised",
+  "you",
+  "if",
+  "the",
+  "Party",
+  "thinks",
+  "its",
+  "a",
+  "bad",
+  "idea",
+  "then",
+  "they",
+  "whip",
+  "the",
+  "vote",
+  "along",
+  "party",
+  "lines",
+  "a",
+  "la",
+  "gun",
+  "registry",
+  "reform",
+  "a",
+  "few",
+  "years",
+  "ago",
+  ".",
+  "Currently",
+  "IMHO",
+  "voters",
+  "are",
+  "showing",
+  "apathy",
+  "during",
+  "various",
+  "elections",
+  "as",
+  "they",
+  "simply",
+  "believe",
+  "politicians",
+  "of",
+  "all",
+  "stripes",
+  "cannot",
+  "be",
+  "trusted",
+  "which",
+  "of",
+  "course",
+  "is",
+  "not",
+  "true",
+  ".",
+  "You",
+  "can",
+  "run",
+  "with",
+  "the",
+  "best",
+  "intentions",
+  "and",
+  "if",
+  "you",
+  "do",
+  "n't",
+  "give",
+  "what",
+  "the",
+  "voters",
+  "want",
+  "in",
+  "their",
+  "opinion",
+  "then",
+  "you",
+  "have",
+  "failed",
+  ".",
+  "How",
+  "many",
+  "think",
+  "when",
+  "the",
+  "gun",
+  "registry",
+  "was",
+  "introduced",
+  "that",
+  "it",
+  "was",
+  "a",
+  "good",
+  "idea",
+  ".",
+  "How",
+  "many",
+  "elected",
+  "officials",
+  "voted",
+  "in",
+  "favour",
+  "of",
+  "it",
+  "when",
+  "clearly",
+  "their",
+  "constituents",
+  "wanted",
+  "them",
+  "to",
+  "vote",
+  "against",
+  "it",
+  ".",
+  "I",
+  "'m",
+  "voting",
+  "Green",
+  "for",
+  "the",
+  "first",
+  "time",
+  "in",
+  "my",
+  "life",
+  ".",
+  "I",
+  "just",
+  "look",
+  "at",
+  "the",
+  "candidates",
+  ",",
+  "and",
+  "every",
+  "year",
+  "it",
+  "seems",
+  "like",
+  "their",
+  "talking",
+  "points",
+  "and",
+  "tactics",
+  "are",
+  "getting",
+  "more",
+  "stoopider",
+  "and",
+  "juvenile",
+  ".",
+  "The",
+  "level",
+  "of",
+  "political",
+  "discourse",
+  "is",
+  "depressingly",
+  "low",
+  "and",
+  "uninspiring",
+  ".",
+  "This",
+  "province",
+  "used",
+  "to",
+  "have",
+  "great",
+  "leadership",
+  "many",
+  "many",
+  "years",
+  "ago",
+  ",",
+  "Bill",
+  "Davis",
+  "comes",
+  "to",
+  "mind",
+  "....",
+  "I",
+  "figure",
+  "since",
+  "this",
+  "election",
+  "is",
+  "going",
+  "to",
+  "be",
+  "a",
+  "complete",
+  "washout",
+  "for",
+  "any",
+  "party",
+  "looking",
+  "for",
+  "a",
+  "mandate",
+  "....",
+  "might",
+  "as",
+  "well",
+  "vote",
+  "with",
+  "my",
+  "gut",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   16,
+   26,
+   54,
+   77,
+   104,
+   114,
+   135,
+   167,
+   202,
+   210,
+   240,
+   248,
+   256,
+   279,
+   315,
+   342,
+   367,
+   383,
+   403,
+   415,
+   440,
+   451,
+   497
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "New_Democratic_Party",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "NDP"
+      },
+      {
+       "label": "Andrea_Horwath",
+       "score": 1.0,
+       "start": 35,
+       "end": 37,
+       "tokens": "Andrea Horwath"
+      },
+      {
+       "label": "Ontario_Liberal_Party",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "liberals"
+      },
+      {
+       "label": "Rob_Ford",
+       "score": 1.0,
+       "start": 167,
+       "end": 169,
+       "tokens": "Rob Ford"
+      },
+      {
+       "label": "Green_Party_of_Canada",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "Green"
+      },
+      {
+       "label": "New_Democratic_Party",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "NDP"
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "Kathleen_Wynne",
+       "score": 1.0,
+       "start": 48,
+       "end": 50,
+       "tokens": "Kathleen Wynne"
+      },
+      {
+       "label": "Bob_Rae",
+       "score": 1.0,
+       "start": 95,
+       "end": 97,
+       "tokens": "Bob Rae"
+      },
+      {
+       "label": "Dalton_McGuinty",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "McGuinty"
+      },
+      {
+       "label": "Mike_Harris",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "Harris"
+      },
+      {
+       "label": "Progressive_Conservative_Party_of_Ontario",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Cons"
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 463,
+       "end": 465,
+       "tokens": "Bill Davis"
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "Ontario_Liberal_Party",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Liberals"
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Ontario"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "NDP"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 35,
+       "end": 37,
+       "tokens": "Andrea Horwath"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "liberals"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 167,
+       "end": 169,
+       "tokens": "Rob Ford"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "Green"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "NDP"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 48,
+       "end": 50,
+       "tokens": "Kathleen Wynne"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 95,
+       "end": 97,
+       "tokens": "Bob Rae"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "McGuinty"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "Harris"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Cons"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 463,
+       "end": 465,
+       "tokens": "Bill Davis"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Liberals"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Ontario"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "Election",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Election"
+      },
+      {
+       "label": "2014",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "2014"
+      },
+      {
+       "label": "http://metronews.ca/news/toronto/102...arly-election/",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "http://metronews.ca/news/toronto/102...arly-election/"
+      },
+      {
+       "label": "Bring",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Bring"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "it"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "on"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": ","
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "I"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "can"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "use"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "my"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "vote"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "this"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "time"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "."
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "voters",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "voters"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "are"
+      },
+      {
+       "label": "heading",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "heading"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "the"
+      },
+      {
+       "label": "polls",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "polls"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "next"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "month"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "A"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "June"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "election"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "a"
+      },
+      {
+       "label": "certainty",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "certainty"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "after"
+      },
+      {
+       "label": "NDP",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "NDP"
+      },
+      {
+       "label": "Leader",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "Leader"
+      },
+      {
+       "label": "Andrea",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "Andrea"
+      },
+      {
+       "label": "Horwath",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Horwath"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "said"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "her"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "party"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "could"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "not"
+      },
+      {
+       "label": "support",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "support"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "the"
+      },
+      {
+       "label": "budget",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "budget"
+      },
+      {
+       "label": "tabled",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "tabled"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "by"
+      },
+      {
+       "label": "Premier",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "Premier"
+      },
+      {
+       "label": "Kathleen",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Kathleen"
+      },
+      {
+       "label": "Wynne",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Wynne"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "minority",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "minority"
+      },
+      {
+       "label": "Liberals",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Liberals"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "."
+      },
+      {
+       "label": "Can",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "Can"
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "even"
+      },
+      {
+       "label": "afford",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "afford"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "an"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "election"
+      },
+      {
+       "label": "Reading",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "Reading"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "the"
+      },
+      {
+       "label": "comments",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "comments"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "from"
+      },
+      {
+       "label": "Ontarians",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Ontarians"
+      },
+      {
+       "label": "Im",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Im"
+      },
+      {
+       "label": "glad",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "glad"
+      },
+      {
+       "label": "Im",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "Im"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "not"
+      },
+      {
+       "label": "living",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "living"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "in"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "that"
+      },
+      {
+       "label": "Province",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Province"
+      },
+      {
+       "label": "anymore",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "anymore"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "The"
+      },
+      {
+       "label": "liberals",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "liberals"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "are"
+      },
+      {
+       "label": "hated",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "hated"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "after"
+      },
+      {
+       "label": "McGuinty",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "McGuinty"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "the"
+      },
+      {
+       "label": "Cons",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Cons"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "are"
+      },
+      {
+       "label": "hated",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "hated"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "after"
+      },
+      {
+       "label": "Harris",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "Harris"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "and"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "some"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "still"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "even"
+      },
+      {
+       "label": "blame",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "blame"
+      },
+      {
+       "label": "Bob",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "Bob"
+      },
+      {
+       "label": "Rae",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Rae"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "when"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "was"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "the"
+      },
+      {
+       "label": "NDP",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "NDP"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "."
+      },
+      {
+       "label": "So",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "So"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "as"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "an"
+      },
+      {
+       "label": "Ontarian",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Ontarian"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "who"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "do"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "you"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "vote"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "for"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "?"
+      },
+      {
+       "label": "Regardless",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Regardless"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "of"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "who"
+      },
+      {
+       "label": "wins",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "wins"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "be"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "it"
+      },
+      {
+       "label": "majority",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "majority"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "or"
+      },
+      {
+       "label": "minority",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "minority"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "that"
+      },
+      {
+       "label": "Province",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "Province"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "is"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "in"
+      },
+      {
+       "label": "DEBT",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "DEBT"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "so"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "how"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "do"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "you"
+      },
+      {
+       "label": "spend",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "spend"
+      },
+      {
+       "label": "less",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "less"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "?"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "I"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "can"
+      },
+      {
+       "label": "see",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "see"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "a"
+      },
+      {
+       "label": "lot",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "lot"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "of"
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "Public",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "Public"
+      },
+      {
+       "label": "Service",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "Service"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "workers"
+      },
+      {
+       "label": "thinking",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "thinking"
+      },
+      {
+       "label": "Oh",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "Oh"
+      },
+      {
+       "label": "shit",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "shit"
+      },
+      {
+       "label": "Im",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "Im"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "about"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "be"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "told"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "to"
+      },
+      {
+       "label": "bend",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "bend"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "over"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "and"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "they"
+      },
+      {
+       "label": "wo",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "wo"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "n't"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "use"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "any"
+      },
+      {
+       "label": "lube",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "lube"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "or"
+      },
+      {
+       "label": "kiss",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "kiss"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "me"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "."
+      },
+      {
+       "label": "Rob",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Rob"
+      },
+      {
+       "label": "Ford",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "Ford"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "for"
+      },
+      {
+       "label": "premier",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "premier"
+      },
+      {
+       "label": "Lol",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "Lol"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "I"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "be"
+      },
+      {
+       "label": "voting",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "voting"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "first"
+      },
+      {
+       "label": "person",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "person"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "that"
+      },
+      {
+       "label": "runs",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "runs"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "their"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "campaign"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "by"
+      },
+      {
+       "label": "telling",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "telling"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "me"
+      },
+      {
+       "label": "why",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "why"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "I"
+      },
+      {
+       "label": "SHOULD",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "SHOULD"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "vote"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "for"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "them"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": ","
+      },
+      {
+       "label": "rather",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "rather"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "than"
+      },
+      {
+       "label": "simply",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "simply"
+      },
+      {
+       "label": "slagging",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "slagging"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "the"
+      },
+      {
+       "label": "opposition",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "opposition"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "off"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "I"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "n't"
+      },
+      {
+       "label": "hold",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "hold"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "out"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "much"
+      },
+      {
+       "label": "hope",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "hope"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "I"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "be"
+      },
+      {
+       "label": "voting",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "voting"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "first"
+      },
+      {
+       "label": "person",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "person"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "that"
+      },
+      {
+       "label": "runs",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "runs"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "their"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "campaign"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "by"
+      },
+      {
+       "label": "telling",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "telling"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "me"
+      },
+      {
+       "label": "why",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "why"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "I"
+      },
+      {
+       "label": "SHOULD",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "SHOULD"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "vote"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "for"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "them"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": ","
+      },
+      {
+       "label": "rather",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "rather"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "than"
+      },
+      {
+       "label": "simply",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "simply"
+      },
+      {
+       "label": "slagging",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "slagging"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "the"
+      },
+      {
+       "label": "opposition",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "opposition"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "off"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "I"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "n't"
+      },
+      {
+       "label": "hold",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "hold"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "out"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "much"
+      },
+      {
+       "label": "hope",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "hope"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "But"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "have"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "n't"
+      },
+      {
+       "label": "politicians",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "politicians"
+      },
+      {
+       "label": "tried",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "tried"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "this"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "before"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "?"
+      },
+      {
+       "label": "Vote",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Vote"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "for"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "me"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "because"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "I"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "will"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "do"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "this"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "and"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "do"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "that"
+      },
+      {
+       "label": "etc",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "etc"
+      },
+      {
+       "label": "etc",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "etc"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "and"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "then"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "get"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "elected"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "and"
+      },
+      {
+       "label": "break",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "break"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "all"
+      },
+      {
+       "label": "these",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "these"
+      },
+      {
+       "label": "promises",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "promises"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "."
+      },
+      {
+       "label": "Even",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "Even"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "when"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "they"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "can"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "vote"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "on"
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "something"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "they"
+      },
+      {
+       "label": "promised",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "promised"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "you"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "if"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "the"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "Party"
+      },
+      {
+       "label": "thinks",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "thinks"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "its"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "a"
+      },
+      {
+       "label": "bad",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "bad"
+      },
+      {
+       "label": "idea",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "idea"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "then"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "they"
+      },
+      {
+       "label": "whip",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "whip"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "the"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "vote"
+      },
+      {
+       "label": "along",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "along"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "party"
+      },
+      {
+       "label": "lines",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "lines"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "a"
+      },
+      {
+       "label": "la",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "la"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "gun"
+      },
+      {
+       "label": "registry",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "registry"
+      },
+      {
+       "label": "reform",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "reform"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "a"
+      },
+      {
+       "label": "few",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "few"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "years"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "ago"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "."
+      },
+      {
+       "label": "Currently",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "Currently"
+      },
+      {
+       "label": "IMHO",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "IMHO"
+      },
+      {
+       "label": "voters",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "voters"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "are"
+      },
+      {
+       "label": "showing",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "showing"
+      },
+      {
+       "label": "apathy",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "apathy"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "during"
+      },
+      {
+       "label": "various",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "various"
+      },
+      {
+       "label": "elections",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "elections"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "as"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "they"
+      },
+      {
+       "label": "simply",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "simply"
+      },
+      {
+       "label": "believe",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "believe"
+      },
+      {
+       "label": "politicians",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "politicians"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "of"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "all"
+      },
+      {
+       "label": "stripes",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "stripes"
+      },
+      {
+       "label": "cannot",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "cannot"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "be"
+      },
+      {
+       "label": "trusted",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "trusted"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "which"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "of"
+      },
+      {
+       "label": "course",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "course"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "is"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "not"
+      },
+      {
+       "label": "true",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "true"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "."
+      },
+      {
+       "label": "You",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "You"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "can"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "run"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "the"
+      },
+      {
+       "label": "best",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "best"
+      },
+      {
+       "label": "intentions",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "intentions"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "and"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "if"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "you"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "n't"
+      },
+      {
+       "label": "give",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "give"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "what"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "the"
+      },
+      {
+       "label": "voters",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "voters"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "want"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "in"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "their"
+      },
+      {
+       "label": "opinion",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "opinion"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "then"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "you"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "have"
+      },
+      {
+       "label": "failed",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "failed"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "."
+      },
+      {
+       "label": "How",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "How"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "many"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "think"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "when"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "the"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "gun"
+      },
+      {
+       "label": "registry",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "registry"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "was"
+      },
+      {
+       "label": "introduced",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "introduced"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "that"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "a"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "good"
+      },
+      {
+       "label": "idea",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "idea"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "."
+      },
+      {
+       "label": "How",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "How"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "many"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "elected"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "officials"
+      },
+      {
+       "label": "voted",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "voted"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "in"
+      },
+      {
+       "label": "favour",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "favour"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "of"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "it"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "when"
+      },
+      {
+       "label": "clearly",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "clearly"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "their"
+      },
+      {
+       "label": "constituents",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "constituents"
+      },
+      {
+       "label": "wanted",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "wanted"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "them"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "to"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "vote"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "against"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "it"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "I"
+      },
+      {
+       "label": "'m",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "'m"
+      },
+      {
+       "label": "voting",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "voting"
+      },
+      {
+       "label": "Green",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "Green"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "first"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "time"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "in"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "my"
+      },
+      {
+       "label": "life",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "life"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "I"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "just"
+      },
+      {
+       "label": "look",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "look"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "the"
+      },
+      {
+       "label": "candidates",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "candidates"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "and"
+      },
+      {
+       "label": "every",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "every"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "year"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "it"
+      },
+      {
+       "label": "seems",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "seems"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "like"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "their"
+      },
+      {
+       "label": "talking",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "talking"
+      },
+      {
+       "label": "points",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "points"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "and"
+      },
+      {
+       "label": "tactics",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "tactics"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "are"
+      },
+      {
+       "label": "getting",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "getting"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "more"
+      },
+      {
+       "label": "stoopider",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "stoopider"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "and"
+      },
+      {
+       "label": "juvenile",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "juvenile"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "The"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "level"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "of"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "political"
+      },
+      {
+       "label": "discourse",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "discourse"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "is"
+      },
+      {
+       "label": "depressingly",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "depressingly"
+      },
+      {
+       "label": "low",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "low"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "and"
+      },
+      {
+       "label": "uninspiring",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "uninspiring"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "."
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "This"
+      },
+      {
+       "label": "province",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "province"
+      },
+      {
+       "label": "used",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "used"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "have"
+      },
+      {
+       "label": "great",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "great"
+      },
+      {
+       "label": "leadership",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "leadership"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "many"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "many"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "years"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "ago"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": ","
+      },
+      {
+       "label": "Bill",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "Bill"
+      },
+      {
+       "label": "Davis",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "Davis"
+      },
+      {
+       "label": "comes",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "comes"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "to"
+      },
+      {
+       "label": "mind",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "mind"
+      },
+      {
+       "label": "....",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "...."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "I"
+      },
+      {
+       "label": "figure",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "figure"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "since"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "this"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "election"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "is"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "going"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "be"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "a"
+      },
+      {
+       "label": "complete",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "complete"
+      },
+      {
+       "label": "washout",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "washout"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "for"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "any"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "party"
+      },
+      {
+       "label": "looking",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "looking"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "a"
+      },
+      {
+       "label": "mandate",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "mandate"
+      },
+      {
+       "label": "....",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "...."
+      },
+      {
+       "label": "might",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "might"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "as"
+      },
+      {
+       "label": "well",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "well"
+      },
+      {
+       "label": "vote",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "vote"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "with"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "my"
+      },
+      {
+       "label": "gut",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "gut"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "New_Democratic_Party",
+       "score": 0.33620135996496614,
+       "start": 102,
+       "end": 103,
+       "tokens": "NDP",
+       "labelScoreMap": {
+        "New_Democratic_Party": 0.33620135996496614,
+        "Alberta_New_Democratic_Party": 0.10244553174937508,
+        "British_Columbia_New_Democratic_Party": 0.3299568363684634,
+        "Saskatchewan_New_Democratic_Party": 0.05494792128663223,
+        "Manitoba_New_Democratic_Party": 0.03659885888444615,
+        "Ontario_New_Democratic_Party": 0.04012558961578466,
+        "Nova_Scotia_New_Democratic_Party": 0.02652495018372094,
+        "National_Democratic_Party_(Egypt)": 0.024374209516214825,
+        "National_Democratic_Party_of_Germany": 0.01287735540163685,
+        "Yukon_New_Democratic_Party": 0.010021001325648413,
+        "New_Brunswick_New_Democratic_Party": 0.0056989566528252164,
+        "Newfoundland_and_Labrador_New_Democratic_Party": 0.00501616924295053,
+        "Nuclear_Disarmament_Party": 0.004504061006976611,
+        "National_Democratic_Party_(Suriname)": 0.0028490660281050083,
+        "Co-operative_Commonwealth_Federation": 0.0038852801637137327,
+        "Narcissistic_personality_disorder": 0.0015623872206917092,
+        "New_Democratic_Party_of_Prince_Edward_Island": 0.001204653238703974,
+        "New_Democratic_Party_of_Quebec": 0.0012058121491444645,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Andrea_Horwath",
+       "score": 1.0,
+       "start": 35,
+       "end": 37,
+       "tokens": "Andrea Horwath",
+       "labelScoreMap": {
+        "Andrea_Horwath": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Liberal_Party_of_Canada",
+       "score": 0.5207043707853197,
+       "start": 78,
+       "end": 79,
+       "tokens": "liberals",
+       "labelScoreMap": {
+        "Liberal_Party_of_Canada": 0.5207043707853197,
+        "Liberal_Party_(UK)": 0.1402391726663537,
+        "Liberal_Party_of_Australia": 0.08037620997028877,
+        "Alberta_Liberal_Party": 0.020793509453646733,
+        "Quebec_Liberal_Party": 0.04820364749973691,
+        "Ontario_Liberal_Party": 0.026347330017291174,
+        "New_Brunswick_Liberal_Association": 0.017648682985976105,
+        "Manitoba_Liberal_Party": 0.02388172355902148,
+        "Nova_Scotia_Liberal_Party": 0.011260524698775396,
+        "Italian_Liberal_Party": 0.010827023105783951,
+        "British_Columbia_Liberal_Party": 0.009048620443277358,
+        "Free_Democratic_Party_(Germany)": 0.012525893433487733,
+        "Political_Liberalism": 0.006428596753544325,
+        "People's_Party_for_Freedom_and_Democracy": 0.008827668922879754,
+        "Prince_Edward_Island_Liberal_Party": 0.0065909937187034725,
+        "Saskatchewan_Liberal_Party": 0.006360735272912411,
+        "Alliance_of_Liberals_and_Democrats_for_Europe": 0.005518104451189817,
+        "Colombian_Liberal_Party": 0.005063153419619308,
+        "Liberal_Party_of_Newfoundland_and_Labrador": 0.005979466449304501,
+        "National_Liberal_Party_(Romania)": 0.004363484368609562,
+        "Venstre_(Denmark)": 0.003487718555415259,
+        "Liberals_(Finland)": 0.0031443673273526336,
+        "Alliance_of_Liberals_and_Democrats_for_Europe_Party": 0.003089099085082526,
+        "New_Zealand_Liberal_Party": 0.0027859166349315095,
+        "Liberals_(Sweden)": 0.005373647699700478,
+        "Ann_Coulter": 0.002606189940807956,
+        "Liberal_Party_of_Montenegro": 0.0022587320399722363,
+        "Liberal_Party_(Norway)": 0.002153752396763102,
+        "Liberal_Party_of_Honduras": 0.0023723738596196746,
+        "Liberal_Party_(Belgium)": 0.00173929048463229
+       }
+      },
+      {
+       "label": "Rob_Ford",
+       "score": 1.0,
+       "start": 167,
+       "end": 169,
+       "tokens": "Rob Ford",
+       "labelScoreMap": {
+        "Rob_Ford": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Green_Party_of_the_United_States",
+       "score": 0.34289236637988907,
+       "start": 406,
+       "end": 407,
+       "tokens": "Green",
+       "labelScoreMap": {
+        "Green": 0.2533201524943785,
+        "Green_politics": 0.04170846700512454,
+        "Green_Party_of_England_and_Wales": 0.02733389253869346,
+        "Green_tea": 0.025221109127971687,
+        "Green_Party_of_Canada": 0.11532670916722684,
+        "Green_Party_of_the_United_States": 0.34289236637988907,
+        "Australian_Greens": 0.021460419778683633,
+        "Green_anarchism": 0.012119217014042505,
+        "Green_Party_of_British_Columbia": 0.010339805301048869,
+        "Green_Party_of_Ontario": 0.0372504449708061,
+        "Green_River_(Colorado_River)": 0.007369808271418865,
+        "Green_County,_Wisconsin": 0.006714980127972137,
+        "Robert_Green": 0.006641884218855705,
+        "Green_County,_Kentucky": 0.005240803769797051,
+        "Green_Party_of_Quebec": 0.0052098449537571565,
+        "Green,_Ohio": 0.004967981781207666,
+        "Green_Party_(UK)": 0.0051962720980489475,
+        "Alliance_'90/The_Greens": 0.027612200174121592,
+        "Green_sea_turtle": 0.0044400569138608225,
+        "Dennis_Green": 0.004130713182735623,
+        "Groen_(political_party)": 0.0058774029531829565,
+        "Green_Township,_Hamilton_County,_Ohio": 0.0038577601314823944,
+        "Green_Party_of_Aotearoa_New_Zealand": 0.005027252265984456,
+        "Trent_Green": 0.0034574223295351907,
+        "Hugh_Green_(American_football)": 0.003293658049744983,
+        "Darrell_Green": 0.0031844714147879673,
+        "Green_Park": 0.0031116801992459157,
+        "Brad_Green_(footballer)": 0.002583966502111524,
+        "Environmentally_friendly": 0.0025768234892767266,
+        "Theodore_F._Green": 0.0025324333950069136
+       }
+      },
+      {
+       "label": "New_Democratic_Party",
+       "score": 0.3577241055268856,
+       "start": 33,
+       "end": 34,
+       "tokens": "NDP",
+       "labelScoreMap": {
+        "New_Democratic_Party": 0.3577241055268856,
+        "Alberta_New_Democratic_Party": 0.09701532222199045,
+        "British_Columbia_New_Democratic_Party": 0.31433063048235466,
+        "Saskatchewan_New_Democratic_Party": 0.05515131589607551,
+        "Manitoba_New_Democratic_Party": 0.0363472655922988,
+        "Ontario_New_Democratic_Party": 0.03907237083785207,
+        "Nova_Scotia_New_Democratic_Party": 0.02671021625936971,
+        "National_Democratic_Party_(Egypt)": 0.024544737846921093,
+        "National_Democratic_Party_of_Germany": 0.012967262789844468,
+        "Yukon_New_Democratic_Party": 0.010092265555677804,
+        "New_Brunswick_New_Democratic_Party": 0.0057396514166335845,
+        "Newfoundland_and_Labrador_New_Democratic_Party": 0.005042204563042502,
+        "Nuclear_Disarmament_Party": 0.004536375560215708,
+        "National_Democratic_Party_(Suriname)": 0.0028695941868152604,
+        "Co-operative_Commonwealth_Federation": 0.003886717164922679,
+        "Narcissistic_personality_disorder": 0.0015736454960344184,
+        "New_Democratic_Party_of_Prince_Edward_Island": 0.0012230679155659958,
+        "New_Democratic_Party_of_Quebec": 0.0011732506874995309,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ontario",
+       "score": 0.9290196699356466,
+       "start": 141,
+       "end": 142,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "Ontario": 0.9290196699356466,
+        "Ontario,_California": 0.03799360828900093,
+        "Ontario_County,_New_York": 0.0073767863822013,
+        "Lake_Ontario": 0.006454653862074119,
+        "Ontario,_Oregon": 0.005170547710707705,
+        "Diocese_of_Ontario": 0.0025556052944011266,
+        "Ecclesiastical_Province_of_Ontario": 0.002437062095142154,
+        "Interstate_15_in_California": 0.002114857542298151,
+        "Ontario_International_Airport": 0.0019188468004193043,
+        "Ontario,_Ohio": 0.0014687999642338362,
+        "Ontario_(electoral_district)": 0.0012990018576566106,
+        "Ontario_Motor_Speedway": 0.0011972025815835392,
+        "Ontario,_New_York": 0.0009933576846344948,
+        "<unk_wid>": 5.6190632279277196e-30
+       }
+      },
+      {
+       "label": "Kathleen_Wynne",
+       "score": 1.0,
+       "start": 48,
+       "end": 50,
+       "tokens": "Kathleen Wynne",
+       "labelScoreMap": {
+        "Kathleen_Wynne": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Bob_Rae",
+       "score": 0.9981405692598132,
+       "start": 95,
+       "end": 97,
+       "tokens": "Bob Rae",
+       "labelScoreMap": {
+        "Bob_Rae": 0.9981405692598132,
+        "Ontario_New_Democratic_Party": 0.0018594307401868743,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Dalton_McGuinty",
+       "score": 0.9048615097392398,
+       "start": 82,
+       "end": 83,
+       "tokens": "McGuinty",
+       "labelScoreMap": {
+        "Dalton_McGuinty": 0.9048615097392398,
+        "David_McGuinty": 0.09513849026076016,
+        "<unk_wid>": 1.2679812899678178e-45
+       }
+      },
+      {
+       "label": "Mike_Harris",
+       "score": 0.31272722212023857,
+       "start": 89,
+       "end": 90,
+       "tokens": "Harris",
+       "labelScoreMap": {
+        "Harris_County,_Texas": 0.13756209516570408,
+        "Harris,_Scotland": 0.06657365653125315,
+        "Harris_Corporation": 0.024785957686109465,
+        "Franco_Harris": 0.022191226520087405,
+        "Moses_Harris": 0.019127969709884476,
+        "Harris_County,_Georgia": 0.018723401343504035,
+        "Sam_Harris": 0.018594812713413324,
+        "Fred_R._Harris": 0.020177730923090862,
+        "Del_Harris": 0.01524794963682016,
+        "2007_California_wildfires": 0.014499422994361844,
+        "Steve_Harris_(musician)": 0.014294858330313917,
+        "Harris_Township,_Centre_County,_Pennsylvania": 0.014158735983862282,
+        "Isham_G._Harris": 0.17861980885173767,
+        "David_Harris_(American_football)": 0.011435922223203178,
+        "Ryan_Harris_(cricketer)": 0.01014258166467325,
+        "Bucky_Harris": 0.01001172320087417,
+        "Andrew_L._Harris": 0.008451871762637534,
+        "Jim_Harris_(politician)": 0.008049034439558421,
+        "Iestyn_Harris": 0.007964304783968744,
+        "Harris_(train)": 0.007692024841762271,
+        "Martin_Harris_(Latter_Day_Saints)": 0.007335676127492447,
+        "BMO_Harris_Bank": 0.007284323563671116,
+        "Neil_Harris_(footballer,_born_1977)": 0.006807099311526816,
+        "Eoghan_Harris": 0.00907274153565801,
+        "Mike_Harris": 0.31272722212023857,
+        "Lum_Harris": 0.005922174128867257,
+        "Harris,_Minnesota": 0.005786028179089454,
+        "Lake_Harris_(Florida)": 0.0055818206476399125,
+        "Harris_Interactive": 0.006140573654521922,
+        "Atiba_Harris": 0.0050372514244743675
+       }
+      },
+      {
+       "label": "Consol_Energy_Center",
+       "score": 0.2817233665158394,
+       "start": 85,
+       "end": 86,
+       "tokens": "Cons",
+       "labelScoreMap": {
+        "Confidence_trick": 0.18268728002463056,
+        "Conservative_Party_of_Canada": 0.20626884553631328,
+        "Progressive_Conservative_Party_of_Manitoba": 0.07127678468795642,
+        "Ajax_(programming)": 0.018897616377068223,
+        "Ecumenical_Patriarchate_of_Constantinople": 0.018900847114171906,
+        "Converse_(shoe_company)": 0.012621750234374755,
+        "Ronald_Reagan": 0.014962354000560927,
+        "Conservative_Party_(UK)": 0.009872299541640173,
+        "Cone_cell": 0.008543733147291108,
+        "Conservative_Party_of_Canada_(1867\u20131942)": 0.019535450061900675,
+        "Conservative_Party_of_New_York_State": 0.00797528304557936,
+        "Gaming_convention": 0.005249317733424746,
+        "San_Diego_Comic-Con_International": 0.008568274630619842,
+        "Super_Nintendo_Entertainment_System": 0.004199458181789123,
+        "British_Columbia_Conservative_Party": 0.004226107216352412,
+        "Chili_pepper": 0.004199458791232332,
+        "Consol_Energy_Center": 0.2817233665158394,
+        "ADX_Florence": 0.10767741528000843,
+        "Hustle_(TV_series)": 0.0021012310165157097,
+        "Israeli_West_Bank_barrier": 0.0020997513704294254,
+        "CM_Punk": 0.002099736984178235,
+        "Science_fiction_convention": 0.0021012021947129354,
+        "Adobe_Flash": 0.0021126985980006487,
+        "Chuck_Taylor_All-Stars": 0.002099737715409424,
+        "<unk_wid>": 6.436925289276259e-33
+       }
+      },
+      {
+       "label": "Ontario",
+       "score": 0.9287157063413541,
+       "start": 55,
+       "end": 56,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "Ontario": 0.9287157063413541,
+        "Ontario,_California": 0.03798242160301442,
+        "Ontario_County,_New_York": 0.0074048862632601405,
+        "Lake_Ontario": 0.006548344572251441,
+        "Ontario,_Oregon": 0.005369307884405159,
+        "Diocese_of_Ontario": 0.0025547840701566522,
+        "Ecclesiastical_Province_of_Ontario": 0.0024359987288610427,
+        "Interstate_15_in_California": 0.0021134256624108596,
+        "Ontario_International_Airport": 0.0019182051146110597,
+        "Ontario,_Ohio": 0.001468359050845119,
+        "Ontario_(electoral_district)": 0.001298611658021568,
+        "Ontario_Motor_Speedway": 0.0011967574580138945,
+        "Ontario,_New_York": 0.0009931915927942796,
+        "<unk_wid>": 8.155151453835239e-39
+       }
+      },
+      {
+       "label": "Bill_Davis",
+       "score": 0.9046242705790799,
+       "start": 463,
+       "end": 465,
+       "tokens": "Bill Davis",
+       "labelScoreMap": {
+        "Bill_Davis": 0.9046242705790799,
+        "Bill_Davis_(darts_player)": 0.04720615589351208,
+        "Allen_Road": 0.02215798934087858,
+        "Wild_Bill_Davis": 0.014450886108783761,
+        "Dash_Rip_Rock": 0.006743739644585232,
+        "The_Crows": 0.0028901772217455623,
+        "KTVI": 0.0019267812114149888,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ontario",
+       "score": 0.9288323308710746,
+       "start": 0,
+       "end": 1,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "Ontario": 0.9288323308710746,
+        "Ontario,_California": 0.03798658397238371,
+        "Ontario_County,_New_York": 0.007347385359776055,
+        "Lake_Ontario": 0.006608753148023258,
+        "Ontario,_Oregon": 0.005187463931549592,
+        "Diocese_of_Ontario": 0.002555136458072467,
+        "Ecclesiastical_Province_of_Ontario": 0.0024365283473759326,
+        "Interstate_15_in_California": 0.0021696735946719835,
+        "Ontario_International_Airport": 0.0019184602294012865,
+        "Ontario,_Ohio": 0.0014685283426551063,
+        "Ontario_(electoral_district)": 0.0012987695183311174,
+        "Ontario_Motor_Speedway": 0.0011972100674108152,
+        "Ontario,_New_York": 0.0009931761592741524,
+        "<unk_wid>": 8.327403545124338e-27
+       }
+      },
+      {
+       "label": "Liberal_Party_of_Canada",
+       "score": 0.5401825722802149,
+       "start": 52,
+       "end": 53,
+       "tokens": "Liberals",
+       "labelScoreMap": {
+        "Liberal_Party_of_Canada": 0.5401825722802149,
+        "Liberal_Party_(UK)": 0.1409609814614307,
+        "Liberal_Party_of_Australia": 0.08074709124032342,
+        "Alberta_Liberal_Party": 0.020405964462852342,
+        "Quebec_Liberal_Party": 0.03924037500153316,
+        "Ontario_Liberal_Party": 0.021672636757095333,
+        "New_Brunswick_Liberal_Association": 0.016888952779224815,
+        "Manitoba_Liberal_Party": 0.021087937737218298,
+        "Nova_Scotia_Liberal_Party": 0.010963263594960889,
+        "Italian_Liberal_Party": 0.010606362585468963,
+        "British_Columbia_Liberal_Party": 0.008584602963806554,
+        "Free_Democratic_Party_(Germany)": 0.012524871069269873,
+        "Political_Liberalism": 0.006465541753371374,
+        "People's_Party_for_Freedom_and_Democracy": 0.007962740817668798,
+        "Prince_Edward_Island_Liberal_Party": 0.006320961915391289,
+        "Saskatchewan_Liberal_Party": 0.006004632990337064,
+        "Alliance_of_Liberals_and_Democrats_for_Europe": 0.005500341926818308,
+        "Colombian_Liberal_Party": 0.005074954768550638,
+        "Liberal_Party_of_Newfoundland_and_Labrador": 0.005538380517300783,
+        "National_Liberal_Party_(Romania)": 0.004376066140560856,
+        "Venstre_(Denmark)": 0.0034988152575670833,
+        "Liberals_(Finland)": 0.003151017818549901,
+        "Alliance_of_Liberals_and_Democrats_for_Europe_Party": 0.00304188990327507,
+        "New_Zealand_Liberal_Party": 0.002797772236261373,
+        "Liberals_(Sweden)": 0.00531185499364266,
+        "Ann_Coulter": 0.00262116693275799,
+        "Liberal_Party_of_Montenegro": 0.0022716796198479906,
+        "Liberal_Party_(Norway)": 0.0021276277875277405,
+        "Liberal_Party_of_Honduras": 0.0023209190855903966,
+        "Liberal_Party_(Belgium)": 0.001748023601581648
+       }
+      },
+      {
+       "label": "Ontario",
+       "score": 0.9283671144881254,
+       "start": 16,
+       "end": 17,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "Ontario": 0.9283671144881254,
+        "Ontario,_California": 0.037969228581000644,
+        "Ontario_County,_New_York": 0.007707705281754429,
+        "Lake_Ontario": 0.006585963242620125,
+        "Ontario,_Oregon": 0.005394878417666227,
+        "Diocese_of_Ontario": 0.0025539042094906194,
+        "Ecclesiastical_Province_of_Ontario": 0.0024358680994736657,
+        "Interstate_15_in_California": 0.002112698634139884,
+        "Ontario_International_Airport": 0.0019175444179601,
+        "Ontario,_Ohio": 0.0014678532197309935,
+        "Ontario_(electoral_district)": 0.0012981655550749404,
+        "Ontario_Motor_Speedway": 0.0011963452565850114,
+        "Ontario,_New_York": 0.000992730596377937,
+        "<unk_wid>": 4.853846095166167e-34
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "New_Democratic_Party",
+       "score": 0.33620135996496614,
+       "start": 102,
+       "end": 103,
+       "tokens": "NDP",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Andrea_Horwath",
+       "score": 1.0,
+       "start": 35,
+       "end": 37,
+       "tokens": "Andrea Horwath",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Liberal_Party_of_Canada",
+       "score": 0.5207043707853197,
+       "start": 78,
+       "end": 79,
+       "tokens": "liberals",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Rob_Ford",
+       "score": 1.0,
+       "start": 167,
+       "end": 169,
+       "tokens": "Rob Ford",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Green_Party_of_the_United_States",
+       "score": 0.34289236637988907,
+       "start": 406,
+       "end": 407,
+       "tokens": "Green",
+       "labelScoreMap": {
+        "5539938|Green_River_(Colorado_River)": 0.007369808271418865,
+        "5254978|Green_County,_Wisconsin": 0.006714980127972137,
+        "4293371|Green_County,_Kentucky": 0.005240803769797051,
+        "5156371|Green,_Ohio": 0.004967981781207666,
+        "7303425|Green_Park": 0.0031116801992459157
+       }
+      },
+      {
+       "label": "New_Democratic_Party",
+       "score": 0.3577241055268856,
+       "start": 33,
+       "end": 34,
+       "tokens": "NDP",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ontario",
+       "score": 0.9290196699356466,
+       "start": 141,
+       "end": 142,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "6093943|Ontario": 0.9290196699356466,
+        "5379439|Ontario,_California": 0.03799360828900093,
+        "5129891|Ontario_County,_New_York": 0.0073767863822013,
+        "6048611|Lake_Ontario": 0.006454653862074119,
+        "5744166|Ontario,_Oregon": 0.005170547710707705,
+        "5379449|Ontario_International_Airport": 0.0019188468004193043,
+        "5165664|Ontario,_Ohio": 0.0014687999642338362,
+        "5379451|Ontario_Motor_Speedway": 0.0011972025815835392,
+        "5129887|Ontario,_New_York": 0.0009933576846344948
+       }
+      },
+      {
+       "label": "Kathleen_Wynne",
+       "score": 1.0,
+       "start": 48,
+       "end": 50,
+       "tokens": "Kathleen Wynne",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bob_Rae",
+       "score": 0.9981405692598132,
+       "start": 95,
+       "end": 97,
+       "tokens": "Bob Rae",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Dalton_McGuinty",
+       "score": 0.9048615097392398,
+       "start": 82,
+       "end": 83,
+       "tokens": "McGuinty",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mike_Harris",
+       "score": 0.31272722212023857,
+       "start": 89,
+       "end": 90,
+       "tokens": "Harris",
+       "labelScoreMap": {
+        "4696376|Harris_County,_Texas": 0.13756209516570408,
+        "4199416|Harris_County,_Georgia": 0.018723401343504035,
+        "5192725|Harris_Township,_Centre_County,_Pennsylvania": 0.014158735983862282,
+        "5029405|Harris,_Minnesota": 0.005786028179089454,
+        "4158148|Lake_Harris_(Florida)": 0.0055818206476399125
+       }
+      },
+      {
+       "label": "Consol_Energy_Center",
+       "score": 0.2817233665158394,
+       "start": 85,
+       "end": 86,
+       "tokens": "Cons",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ontario",
+       "score": 0.9287157063413541,
+       "start": 55,
+       "end": 56,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "6093943|Ontario": 0.9287157063413541,
+        "5379439|Ontario,_California": 0.03798242160301442,
+        "5129891|Ontario_County,_New_York": 0.0074048862632601405,
+        "6048611|Lake_Ontario": 0.006548344572251441,
+        "5744166|Ontario,_Oregon": 0.005369307884405159,
+        "5379449|Ontario_International_Airport": 0.0019182051146110597,
+        "5165664|Ontario,_Ohio": 0.001468359050845119,
+        "5379451|Ontario_Motor_Speedway": 0.0011967574580138945,
+        "5129887|Ontario,_New_York": 0.0009931915927942796
+       }
+      },
+      {
+       "label": "Bill_Davis",
+       "score": 0.9046242705790799,
+       "start": 463,
+       "end": 465,
+       "tokens": "Bill Davis",
+       "labelScoreMap": {
+        "4393125|KTVI": 0.0019267812114149888
+       }
+      },
+      {
+       "label": "Ontario",
+       "score": 0.9288323308710746,
+       "start": 0,
+       "end": 1,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "6093943|Ontario": 0.9288323308710746,
+        "5379439|Ontario,_California": 0.03798658397238371,
+        "5129891|Ontario_County,_New_York": 0.007347385359776055,
+        "6048611|Lake_Ontario": 0.006608753148023258,
+        "5744166|Ontario,_Oregon": 0.005187463931549592,
+        "5379449|Ontario_International_Airport": 0.0019184602294012865,
+        "5165664|Ontario,_Ohio": 0.0014685283426551063,
+        "5379451|Ontario_Motor_Speedway": 0.0011972100674108152,
+        "5129887|Ontario,_New_York": 0.0009931761592741524
+       }
+      },
+      {
+       "label": "Liberal_Party_of_Canada",
+       "score": 0.5401825722802149,
+       "start": 52,
+       "end": 53,
+       "tokens": "Liberals",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ontario",
+       "score": 0.9283671144881254,
+       "start": 16,
+       "end": 17,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "6093943|Ontario": 0.9283671144881254,
+        "5379439|Ontario,_California": 0.037969228581000644,
+        "5129891|Ontario_County,_New_York": 0.007707705281754429,
+        "6048611|Lake_Ontario": 0.006585963242620125,
+        "5744166|Ontario,_Oregon": 0.005394878417666227,
+        "5379449|Ontario_International_Airport": 0.0019175444179601,
+        "5165664|Ontario,_Ohio": 0.0014678532197309935,
+        "5379451|Ontario_Motor_Speedway": 0.0011963452565850114,
+        "5129887|Ontario,_New_York": 0.000992730596377937
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

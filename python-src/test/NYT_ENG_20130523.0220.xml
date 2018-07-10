@@ -1,0 +1,7262 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130523.0220.xml",
+ "text": "ENVOY SAYS NORTH KOREA OPEN TO DIALOGUE\nBEIJING - A North Korean envoy, Marshal Choe Ryong-hae, said the North would \u201caccept the proposal\u201d by China to \u201copen up dialogue,\u201d the China News Service reported Thursday.\nThe comments were reported after the Choe met Liu Yunshan, a member of the Communist Party Standing Committee and the politician who heads ideological affairs for the Communist Party.\nLiu was quoted as saying that China wanted a resumption of talks that would result in the removal of nuclear weapons from the Korean Peninsula \u201cas soon as possible.\u201d Chinese officials frequently make such appeals.\nChoe, who arrived in China, North Korea\u2019s biggest benefactor, on Wednesday on a fence-mending mission, is a close aide to North Korea\u2019s leader, Kim Jong Un, and as such, what he says is taken relatively seriously.\nFew diplomats believe that the North is prepared to be involved in six-party talks that aim to strip North Korea of its nuclear weapons. Such talks among the United States, North Korea, South Korea, China, Japan and Russia collapsed in 2008 after North Korea walked out. The regime has continued to persist with its nuclear weapons program ever since, despite constant pleas by China to stop.\nChoe, 72, was quoted by the China News Service as being \u201chighly\u201d appreciative of \u201cChina\u2019s huge efforts to maintain peace and stability\u201d on the Korean Peninsula.\nThere have been no reports so far of Choe meeting with senior Chinese officials involved in foreign policy and military affairs. The publicized meetings have been with senior officials of the Communist Party who are the usual interlocutors with North Korea. On Wednesday, Choe met with Wang Jiarui, head of the International Department of the Communist Party of China.\nThe North Korean news agency said Choe visited an industrial park in Beijing on Thursday. China\u2019s basic advice to North Korea is reform of its economy should follow the path of Deng Xiaoping with special economic zones and some private enterprise.\nChoe\u2019s visit is being watched closely by North Korean experts in China. They say they detect little change in China\u2019s underlying policy of supporting North Korea. But the Chinese leadership would like North Korea to modify its erratic behavior, stop nuclear tests and halt its missile program, they say. How to reach that goal with Kim had not been resolved, some of the experts said.\nChina should begin to treat North Korea as a normal country and should resist extremes of sheltering it or abandoning it, said Wang Gunsheng, an analyst at the Chinese Academy of Social Sciences.\nWang said the visit of Choe could be interpreted as a \u201ckind of apology\u201d by North Korea by China for its recent behavior, including conducting its third nuclear test in February.",
+ "tokens": [
+  "ENVOY",
+  "SAYS",
+  "NORTH",
+  "KOREA",
+  "OPEN",
+  "TO",
+  "DIALOGUE",
+  "BEIJING",
+  "-",
+  "A",
+  "North",
+  "Korean",
+  "envoy",
+  ",",
+  "Marshal",
+  "Choe",
+  "Ryong",
+  "-",
+  "hae",
+  ",",
+  "said",
+  "the",
+  "North",
+  "would",
+  "\u201c",
+  "accept",
+  "the",
+  "proposal",
+  "\u201d",
+  "by",
+  "China",
+  "to",
+  "\u201c",
+  "open",
+  "up",
+  "dialogue",
+  ",",
+  "\u201d",
+  "the",
+  "China",
+  "News",
+  "Service",
+  "reported",
+  "Thursday",
+  ".",
+  "The",
+  "comments",
+  "were",
+  "reported",
+  "after",
+  "the",
+  "Choe",
+  "met",
+  "Liu",
+  "Yunshan",
+  ",",
+  "a",
+  "member",
+  "of",
+  "the",
+  "Communist",
+  "Party",
+  "Standing",
+  "Committee",
+  "and",
+  "the",
+  "politician",
+  "who",
+  "heads",
+  "ideological",
+  "affairs",
+  "for",
+  "the",
+  "Communist",
+  "Party",
+  ".",
+  "Liu",
+  "was",
+  "quoted",
+  "as",
+  "saying",
+  "that",
+  "China",
+  "wanted",
+  "a",
+  "resumption",
+  "of",
+  "talks",
+  "that",
+  "would",
+  "result",
+  "in",
+  "the",
+  "removal",
+  "of",
+  "nuclear",
+  "weapons",
+  "from",
+  "the",
+  "Korean",
+  "Peninsula",
+  "\u201c",
+  "as",
+  "soon",
+  "as",
+  "possible",
+  ".",
+  "\u201d",
+  "Chinese",
+  "officials",
+  "frequently",
+  "make",
+  "such",
+  "appeals",
+  ".",
+  "Choe",
+  ",",
+  "who",
+  "arrived",
+  "in",
+  "China",
+  ",",
+  "North",
+  "Korea",
+  "\u2019s",
+  "biggest",
+  "benefactor",
+  ",",
+  "on",
+  "Wednesday",
+  "on",
+  "a",
+  "fence",
+  "-",
+  "mending",
+  "mission",
+  ",",
+  "is",
+  "a",
+  "close",
+  "aide",
+  "to",
+  "North",
+  "Korea",
+  "\u2019s",
+  "leader",
+  ",",
+  "Kim",
+  "Jong",
+  "Un",
+  ",",
+  "and",
+  "as",
+  "such",
+  ",",
+  "what",
+  "he",
+  "says",
+  "is",
+  "taken",
+  "relatively",
+  "seriously",
+  ".",
+  "Few",
+  "diplomats",
+  "believe",
+  "that",
+  "the",
+  "North",
+  "is",
+  "prepared",
+  "to",
+  "be",
+  "involved",
+  "in",
+  "six",
+  "-",
+  "party",
+  "talks",
+  "that",
+  "aim",
+  "to",
+  "strip",
+  "North",
+  "Korea",
+  "of",
+  "its",
+  "nuclear",
+  "weapons",
+  ".",
+  "Such",
+  "talks",
+  "among",
+  "the",
+  "United",
+  "States",
+  ",",
+  "North",
+  "Korea",
+  ",",
+  "South",
+  "Korea",
+  ",",
+  "China",
+  ",",
+  "Japan",
+  "and",
+  "Russia",
+  "collapsed",
+  "in",
+  "2008",
+  "after",
+  "North",
+  "Korea",
+  "walked",
+  "out",
+  ".",
+  "The",
+  "regime",
+  "has",
+  "continued",
+  "to",
+  "persist",
+  "with",
+  "its",
+  "nuclear",
+  "weapons",
+  "program",
+  "ever",
+  "since",
+  ",",
+  "despite",
+  "constant",
+  "pleas",
+  "by",
+  "China",
+  "to",
+  "stop",
+  ".",
+  "Choe",
+  ",",
+  "72",
+  ",",
+  "was",
+  "quoted",
+  "by",
+  "the",
+  "China",
+  "News",
+  "Service",
+  "as",
+  "being",
+  "\u201c",
+  "highly",
+  "\u201d",
+  "appreciative",
+  "of",
+  "\u201c",
+  "China",
+  "\u2019s",
+  "huge",
+  "efforts",
+  "to",
+  "maintain",
+  "peace",
+  "and",
+  "stability",
+  "\u201d",
+  "on",
+  "the",
+  "Korean",
+  "Peninsula",
+  ".",
+  "There",
+  "have",
+  "been",
+  "no",
+  "reports",
+  "so",
+  "far",
+  "of",
+  "Choe",
+  "meeting",
+  "with",
+  "senior",
+  "Chinese",
+  "officials",
+  "involved",
+  "in",
+  "foreign",
+  "policy",
+  "and",
+  "military",
+  "affairs",
+  ".",
+  "The",
+  "publicized",
+  "meetings",
+  "have",
+  "been",
+  "with",
+  "senior",
+  "officials",
+  "of",
+  "the",
+  "Communist",
+  "Party",
+  "who",
+  "are",
+  "the",
+  "usual",
+  "interlocutors",
+  "with",
+  "North",
+  "Korea",
+  ".",
+  "On",
+  "Wednesday",
+  ",",
+  "Choe",
+  "met",
+  "with",
+  "Wang",
+  "Jiarui",
+  ",",
+  "head",
+  "of",
+  "the",
+  "International",
+  "Department",
+  "of",
+  "the",
+  "Communist",
+  "Party",
+  "of",
+  "China",
+  ".",
+  "The",
+  "North",
+  "Korean",
+  "news",
+  "agency",
+  "said",
+  "Choe",
+  "visited",
+  "an",
+  "industrial",
+  "park",
+  "in",
+  "Beijing",
+  "on",
+  "Thursday",
+  ".",
+  "China",
+  "\u2019s",
+  "basic",
+  "advice",
+  "to",
+  "North",
+  "Korea",
+  "is",
+  "reform",
+  "of",
+  "its",
+  "economy",
+  "should",
+  "follow",
+  "the",
+  "path",
+  "of",
+  "Deng",
+  "Xiaoping",
+  "with",
+  "special",
+  "economic",
+  "zones",
+  "and",
+  "some",
+  "private",
+  "enterprise",
+  ".",
+  "Choe",
+  "\u2019s",
+  "visit",
+  "is",
+  "being",
+  "watched",
+  "closely",
+  "by",
+  "North",
+  "Korean",
+  "experts",
+  "in",
+  "China",
+  ".",
+  "They",
+  "say",
+  "they",
+  "detect",
+  "little",
+  "change",
+  "in",
+  "China",
+  "\u2019s",
+  "underlying",
+  "policy",
+  "of",
+  "supporting",
+  "North",
+  "Korea",
+  ".",
+  "But",
+  "the",
+  "Chinese",
+  "leadership",
+  "would",
+  "like",
+  "North",
+  "Korea",
+  "to",
+  "modify",
+  "its",
+  "erratic",
+  "behavior",
+  ",",
+  "stop",
+  "nuclear",
+  "tests",
+  "and",
+  "halt",
+  "its",
+  "missile",
+  "program",
+  ",",
+  "they",
+  "say",
+  ".",
+  "How",
+  "to",
+  "reach",
+  "that",
+  "goal",
+  "with",
+  "Kim",
+  "had",
+  "not",
+  "been",
+  "resolved",
+  ",",
+  "some",
+  "of",
+  "the",
+  "experts",
+  "said",
+  ".",
+  "China",
+  "should",
+  "begin",
+  "to",
+  "treat",
+  "North",
+  "Korea",
+  "as",
+  "a",
+  "normal",
+  "country",
+  "and",
+  "should",
+  "resist",
+  "extremes",
+  "of",
+  "sheltering",
+  "it",
+  "or",
+  "abandoning",
+  "it",
+  ",",
+  "said",
+  "Wang",
+  "Gunsheng",
+  ",",
+  "an",
+  "analyst",
+  "at",
+  "the",
+  "Chinese",
+  "Academy",
+  "of",
+  "Social",
+  "Sciences",
+  ".",
+  "Wang",
+  "said",
+  "the",
+  "visit",
+  "of",
+  "Choe",
+  "could",
+  "be",
+  "interpreted",
+  "as",
+  "a",
+  "\u201c",
+  "kind",
+  "of",
+  "apology",
+  "\u201d",
+  "by",
+  "North",
+  "Korea",
+  "by",
+  "China",
+  "for",
+  "its",
+  "recent",
+  "behavior",
+  ",",
+  "including",
+  "conducting",
+  "its",
+  "third",
+  "nuclear",
+  "test",
+  "in",
+  "February",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   45,
+   76,
+   115,
+   163,
+   190,
+   217,
+   239,
+   273,
+   295,
+   316,
+   337,
+   353,
+   381,
+   395,
+   411,
+   437,
+   455,
+   491,
+   526
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "Choe"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Russia"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "China"
+      },
+      {
+       "label": "Korean_Peninsula",
+       "score": 1.0,
+       "start": 99,
+       "end": 101,
+       "tokens": "Korean Peninsula"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "China"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 122,
+       "end": 124,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "China"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 212,
+       "end": 214,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 389,
+       "end": 391,
+       "tokens": "North Korean"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 417,
+       "end": 419,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 183,
+       "end": 185,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 197,
+       "end": 199,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "China"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 73,
+       "end": 75,
+       "tokens": "Communist Party"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "China"
+      },
+      {
+       "label": "Korean_Peninsula",
+       "score": 1.0,
+       "start": 270,
+       "end": 272,
+       "tokens": "Korean Peninsula"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "China"
+      },
+      {
+       "label": "Liu_Yunshan",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Liu"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "China"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 305,
+       "end": 307,
+       "tokens": "Communist Party"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "China"
+      },
+      {
+       "label": "Chinese_Academy_of_Social_Sciences",
+       "score": 1.0,
+       "start": 485,
+       "end": 490,
+       "tokens": "Chinese Academy of Social Sciences"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 313,
+       "end": 315,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 478,
+       "end": 480,
+       "tokens": "Wang Gunsheng"
+      },
+      {
+       "label": "Beijing",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 2,
+       "end": 4,
+       "tokens": "NORTH KOREA"
+      },
+      {
+       "label": "Kim_Jong-un",
+       "score": 1.0,
+       "start": 147,
+       "end": 150,
+       "tokens": "Kim Jong Un"
+      },
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "Choe"
+      },
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "Choe"
+      },
+      {
+       "label": "Japan",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "Japan"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 338,
+       "end": 340,
+       "tokens": "North Korean"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 60,
+       "end": 62,
+       "tokens": "Communist Party"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 200,
+       "end": 202,
+       "tokens": "South Korea"
+      },
+      {
+       "label": "Liu_Yunshan",
+       "score": 1.0,
+       "start": 53,
+       "end": 55,
+       "tokens": "Liu Yunshan"
+      },
+      {
+       "label": "Beijing",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "Beijing"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 408,
+       "end": 410,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "International_Liaison_Department_of_the_Communist_Party_of_China",
+       "score": 1.0,
+       "start": 328,
+       "end": 336,
+       "tokens": "International Department of the Communist Party of China"
+      },
+      {
+       "label": "Kim_Jong-un",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "Kim"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 194,
+       "end": 196,
+       "tokens": "United States"
+      },
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Choe"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "China"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "China"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 358,
+       "end": 360,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 332,
+       "end": 336,
+       "tokens": "Communist Party of China"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "China"
+      },
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 15,
+       "end": 19,
+       "tokens": "Choe Ryong - hae"
+      },
+      {
+       "label": "Wang_Jiarui",
+       "score": 1.0,
+       "start": 322,
+       "end": 324,
+       "tokens": "Wang Jiarui"
+      },
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "Choe"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "China"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 508,
+       "end": 510,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Choe"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "China"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 460,
+       "end": 462,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "China"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 10,
+       "end": 12,
+       "tokens": "North Korean"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "Wang"
+      },
+      {
+       "label": "Politburo_Standing_Committee_of_the_Communist_Party_of_China",
+       "score": 1.0,
+       "start": 60,
+       "end": 64,
+       "tokens": "Communist Party Standing Committee"
+      },
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Choe"
+      },
+      {
+       "label": "Deng_Xiaoping",
+       "score": 1.0,
+       "start": 370,
+       "end": 372,
+       "tokens": "Deng Xiaoping"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 142,
+       "end": 144,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "Choe_Ryong-hae",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "Choe"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "Choe"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Russia"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "China"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 99,
+       "end": 101,
+       "tokens": "Korean Peninsula"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 122,
+       "end": 124,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 212,
+       "end": 214,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 389,
+       "end": 391,
+       "tokens": "North Korean"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 417,
+       "end": 419,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 183,
+       "end": 185,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 197,
+       "end": 199,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 73,
+       "end": 75,
+       "tokens": "Communist Party"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "China"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 270,
+       "end": 272,
+       "tokens": "Korean Peninsula"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "China"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Liu"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 305,
+       "end": 307,
+       "tokens": "Communist Party"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 485,
+       "end": 490,
+       "tokens": "Chinese Academy of Social Sciences"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 313,
+       "end": 315,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 478,
+       "end": 480,
+       "tokens": "Wang Gunsheng"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 2,
+       "end": 4,
+       "tokens": "NORTH KOREA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 147,
+       "end": 150,
+       "tokens": "Kim Jong Un"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "Choe"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "Choe"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "Japan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 338,
+       "end": 340,
+       "tokens": "North Korean"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 60,
+       "end": 62,
+       "tokens": "Communist Party"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 200,
+       "end": 202,
+       "tokens": "South Korea"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 53,
+       "end": 55,
+       "tokens": "Liu Yunshan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "Beijing"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 408,
+       "end": 410,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 328,
+       "end": 336,
+       "tokens": "International Department of the Communist Party of China"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "Kim"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 194,
+       "end": 196,
+       "tokens": "United States"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Choe"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 358,
+       "end": 360,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 332,
+       "end": 336,
+       "tokens": "Communist Party of China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "China"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 15,
+       "end": 19,
+       "tokens": "Choe Ryong - hae"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 322,
+       "end": 324,
+       "tokens": "Wang Jiarui"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "Choe"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 508,
+       "end": 510,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Choe"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 460,
+       "end": 462,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 10,
+       "end": 12,
+       "tokens": "North Korean"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "Wang"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 60,
+       "end": 64,
+       "tokens": "Communist Party Standing Committee"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Choe"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 370,
+       "end": 372,
+       "tokens": "Deng Xiaoping"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 142,
+       "end": 144,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "Choe"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ENVOY",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "ENVOY"
+      },
+      {
+       "label": "SAYS",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "SAYS"
+      },
+      {
+       "label": "NORTH",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "NORTH"
+      },
+      {
+       "label": "KOREA",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "KOREA"
+      },
+      {
+       "label": "OPEN",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "OPEN"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "TO"
+      },
+      {
+       "label": "DIALOGUE",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "DIALOGUE"
+      },
+      {
+       "label": "BEIJING",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "-"
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "A"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "North"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Korean"
+      },
+      {
+       "label": "envoy",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "envoy"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": ","
+      },
+      {
+       "label": "Marshal",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "Marshal"
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "Choe"
+      },
+      {
+       "label": "Ryong",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Ryong"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "-"
+      },
+      {
+       "label": "hae",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "hae"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "the"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "North"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "would"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "accept",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "accept"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "the"
+      },
+      {
+       "label": "proposal",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "proposal"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "by"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "China"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "to"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "open",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "open"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "up"
+      },
+      {
+       "label": "dialogue",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "dialogue"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "the"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "China"
+      },
+      {
+       "label": "News",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "News"
+      },
+      {
+       "label": "Service",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "Service"
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "reported"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "Thursday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "The"
+      },
+      {
+       "label": "comments",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "comments"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "were"
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "reported"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "the"
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Choe"
+      },
+      {
+       "label": "met",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "met"
+      },
+      {
+       "label": "Liu",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Liu"
+      },
+      {
+       "label": "Yunshan",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "Yunshan"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "a"
+      },
+      {
+       "label": "member",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "member"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "the"
+      },
+      {
+       "label": "Communist",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "Communist"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Party"
+      },
+      {
+       "label": "Standing",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Standing"
+      },
+      {
+       "label": "Committee",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Committee"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "the"
+      },
+      {
+       "label": "politician",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "politician"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "who"
+      },
+      {
+       "label": "heads",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "heads"
+      },
+      {
+       "label": "ideological",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "ideological"
+      },
+      {
+       "label": "affairs",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "affairs"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "the"
+      },
+      {
+       "label": "Communist",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "Communist"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Party"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "."
+      },
+      {
+       "label": "Liu",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Liu"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "was"
+      },
+      {
+       "label": "quoted",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "quoted"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "as"
+      },
+      {
+       "label": "saying",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "saying"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "that"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "China"
+      },
+      {
+       "label": "wanted",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "wanted"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "a"
+      },
+      {
+       "label": "resumption",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "resumption"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "of"
+      },
+      {
+       "label": "talks",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "talks"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "would"
+      },
+      {
+       "label": "result",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "result"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "the"
+      },
+      {
+       "label": "removal",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "removal"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "of"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "weapons",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "weapons"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "the"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Korean"
+      },
+      {
+       "label": "Peninsula",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Peninsula"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "as"
+      },
+      {
+       "label": "soon",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "soon"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "as"
+      },
+      {
+       "label": "possible",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "possible"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "officials"
+      },
+      {
+       "label": "frequently",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "frequently"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "make"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "such"
+      },
+      {
+       "label": "appeals",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "appeals"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "."
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Choe"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "who"
+      },
+      {
+       "label": "arrived",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "arrived"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "in"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "China"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": ","
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "Korea"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "biggest",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "biggest"
+      },
+      {
+       "label": "benefactor",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "benefactor"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": ","
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "on"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "a"
+      },
+      {
+       "label": "fence",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "fence"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "-"
+      },
+      {
+       "label": "mending",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "mending"
+      },
+      {
+       "label": "mission",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "mission"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "a"
+      },
+      {
+       "label": "close",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "close"
+      },
+      {
+       "label": "aide",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "aide"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "to"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "Korea"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "leader"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": ","
+      },
+      {
+       "label": "Kim",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "Kim"
+      },
+      {
+       "label": "Jong",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "Jong"
+      },
+      {
+       "label": "Un",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "Un"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "and"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "as"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "such"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": ","
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "what"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "he"
+      },
+      {
+       "label": "says",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "says"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "is"
+      },
+      {
+       "label": "taken",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "taken"
+      },
+      {
+       "label": "relatively",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "relatively"
+      },
+      {
+       "label": "seriously",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "seriously"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "."
+      },
+      {
+       "label": "Few",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Few"
+      },
+      {
+       "label": "diplomats",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "diplomats"
+      },
+      {
+       "label": "believe",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "believe"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "the"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "North"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "is"
+      },
+      {
+       "label": "prepared",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "prepared"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "be"
+      },
+      {
+       "label": "involved",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "involved"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "in"
+      },
+      {
+       "label": "six",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "six"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "-"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "party"
+      },
+      {
+       "label": "talks",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "talks"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "that"
+      },
+      {
+       "label": "aim",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "aim"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "to"
+      },
+      {
+       "label": "strip",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "strip"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "Korea"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "of"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "its"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "weapons",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "weapons"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "."
+      },
+      {
+       "label": "Such",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "Such"
+      },
+      {
+       "label": "talks",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "talks"
+      },
+      {
+       "label": "among",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "among"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "United"
+      },
+      {
+       "label": "States",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "States"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": ","
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "Korea"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": ","
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "South"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Korea"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": ","
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "China"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": ","
+      },
+      {
+       "label": "Japan",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "Japan"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "and"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Russia"
+      },
+      {
+       "label": "collapsed",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "collapsed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "in"
+      },
+      {
+       "label": "2008",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "2008"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "after"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Korea"
+      },
+      {
+       "label": "walked",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "walked"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "out"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "The"
+      },
+      {
+       "label": "regime",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "regime"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "has"
+      },
+      {
+       "label": "continued",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "continued"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "to"
+      },
+      {
+       "label": "persist",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "persist"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "with"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "its"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "weapons",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "weapons"
+      },
+      {
+       "label": "program",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "program"
+      },
+      {
+       "label": "ever",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "ever"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "since"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": ","
+      },
+      {
+       "label": "despite",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "despite"
+      },
+      {
+       "label": "constant",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "constant"
+      },
+      {
+       "label": "pleas",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "pleas"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "by"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "China"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "to"
+      },
+      {
+       "label": "stop",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "stop"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "."
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "Choe"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": ","
+      },
+      {
+       "label": "72",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "72"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": ","
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "was"
+      },
+      {
+       "label": "quoted",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "quoted"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "the"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "China"
+      },
+      {
+       "label": "News",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "News"
+      },
+      {
+       "label": "Service",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "Service"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "as"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "being"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "highly",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "highly"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "appreciative",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "appreciative"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "of"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "China"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "huge",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "huge"
+      },
+      {
+       "label": "efforts",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "efforts"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "to"
+      },
+      {
+       "label": "maintain",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "maintain"
+      },
+      {
+       "label": "peace",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "peace"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "and"
+      },
+      {
+       "label": "stability",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "stability"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "the"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "Korean"
+      },
+      {
+       "label": "Peninsula",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Peninsula"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "."
+      },
+      {
+       "label": "There",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "There"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "been"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "no"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "reports"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "so"
+      },
+      {
+       "label": "far",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "far"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "of"
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Choe"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "meeting"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "with"
+      },
+      {
+       "label": "senior",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "senior"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "officials"
+      },
+      {
+       "label": "involved",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "involved"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "in"
+      },
+      {
+       "label": "foreign",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "foreign"
+      },
+      {
+       "label": "policy",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "policy"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "and"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "military"
+      },
+      {
+       "label": "affairs",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "affairs"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "The"
+      },
+      {
+       "label": "publicized",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "publicized"
+      },
+      {
+       "label": "meetings",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "meetings"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "been"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "with"
+      },
+      {
+       "label": "senior",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "senior"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "officials"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "the"
+      },
+      {
+       "label": "Communist",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Communist"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "Party"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "who"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "are"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "the"
+      },
+      {
+       "label": "usual",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "usual"
+      },
+      {
+       "label": "interlocutors",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "interlocutors"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "with"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "Korea"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "."
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "On"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": ","
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "Choe"
+      },
+      {
+       "label": "met",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "met"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "with"
+      },
+      {
+       "label": "Wang",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "Wang"
+      },
+      {
+       "label": "Jiarui",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "Jiarui"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": ","
+      },
+      {
+       "label": "head",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "head"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "the"
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "International"
+      },
+      {
+       "label": "Department",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "Department"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "the"
+      },
+      {
+       "label": "Communist",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Communist"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "Party"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "of"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "China"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "The"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "North"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "Korean"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "news"
+      },
+      {
+       "label": "agency",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "agency"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "said"
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "Choe"
+      },
+      {
+       "label": "visited",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "visited"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "an"
+      },
+      {
+       "label": "industrial",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "industrial"
+      },
+      {
+       "label": "park",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "park"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "in"
+      },
+      {
+       "label": "Beijing",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "Beijing"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "on"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "Thursday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "."
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "China"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "basic",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "basic"
+      },
+      {
+       "label": "advice",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "advice"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "to"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "Korea"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "is"
+      },
+      {
+       "label": "reform",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "reform"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "of"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "its"
+      },
+      {
+       "label": "economy",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "economy"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "should"
+      },
+      {
+       "label": "follow",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "follow"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "the"
+      },
+      {
+       "label": "path",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "path"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "of"
+      },
+      {
+       "label": "Deng",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "Deng"
+      },
+      {
+       "label": "Xiaoping",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "Xiaoping"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "with"
+      },
+      {
+       "label": "special",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "special"
+      },
+      {
+       "label": "economic",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "economic"
+      },
+      {
+       "label": "zones",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "zones"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "and"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "some"
+      },
+      {
+       "label": "private",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "private"
+      },
+      {
+       "label": "enterprise",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "enterprise"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "."
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "Choe"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "visit",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "visit"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "is"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "being"
+      },
+      {
+       "label": "watched",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "watched"
+      },
+      {
+       "label": "closely",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "closely"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "by"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "North"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "Korean"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "experts"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "in"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "China"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "."
+      },
+      {
+       "label": "They",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "They"
+      },
+      {
+       "label": "say",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "say"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "they"
+      },
+      {
+       "label": "detect",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "detect"
+      },
+      {
+       "label": "little",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "little"
+      },
+      {
+       "label": "change",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "change"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "in"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "China"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "underlying",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "underlying"
+      },
+      {
+       "label": "policy",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "policy"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "of"
+      },
+      {
+       "label": "supporting",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "supporting"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "Korea"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "But"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "the"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "leadership",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "leadership"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "would"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "like"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "Korea"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "to"
+      },
+      {
+       "label": "modify",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "modify"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "its"
+      },
+      {
+       "label": "erratic",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "erratic"
+      },
+      {
+       "label": "behavior",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "behavior"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": ","
+      },
+      {
+       "label": "stop",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "stop"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "tests",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "tests"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "and"
+      },
+      {
+       "label": "halt",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "halt"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "its"
+      },
+      {
+       "label": "missile",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "missile"
+      },
+      {
+       "label": "program",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "program"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": ","
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "they"
+      },
+      {
+       "label": "say",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "say"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "."
+      },
+      {
+       "label": "How",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "How"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "to"
+      },
+      {
+       "label": "reach",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "reach"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "that"
+      },
+      {
+       "label": "goal",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "goal"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "with"
+      },
+      {
+       "label": "Kim",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "Kim"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "had"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "not"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "been"
+      },
+      {
+       "label": "resolved",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "resolved"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": ","
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "the"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "experts"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "."
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "China"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "should"
+      },
+      {
+       "label": "begin",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "begin"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "to"
+      },
+      {
+       "label": "treat",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "treat"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "Korea"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "a"
+      },
+      {
+       "label": "normal",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "normal"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "country"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "and"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "should"
+      },
+      {
+       "label": "resist",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "resist"
+      },
+      {
+       "label": "extremes",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "extremes"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "of"
+      },
+      {
+       "label": "sheltering",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "sheltering"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "it"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "or"
+      },
+      {
+       "label": "abandoning",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "abandoning"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "it"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "said"
+      },
+      {
+       "label": "Wang",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "Wang"
+      },
+      {
+       "label": "Gunsheng",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "Gunsheng"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "an"
+      },
+      {
+       "label": "analyst",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "analyst"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "the"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Academy",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "Academy"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "of"
+      },
+      {
+       "label": "Social",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "Social"
+      },
+      {
+       "label": "Sciences",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "Sciences"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "."
+      },
+      {
+       "label": "Wang",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "Wang"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "the"
+      },
+      {
+       "label": "visit",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "visit"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "of"
+      },
+      {
+       "label": "Choe",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "Choe"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "could"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "be"
+      },
+      {
+       "label": "interpreted",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "interpreted"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "a"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "kind",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "kind"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "of"
+      },
+      {
+       "label": "apology",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "apology"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "by"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "Korea"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "by"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "China"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "for"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "its"
+      },
+      {
+       "label": "recent",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "recent"
+      },
+      {
+       "label": "behavior",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "behavior"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "including"
+      },
+      {
+       "label": "conducting",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "conducting"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "its"
+      },
+      {
+       "label": "third",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "third"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "test"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "in"
+      },
+      {
+       "label": "February",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "February"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Choe_Museon",
+       "score": 0.5668693683634426,
+       "start": 496,
+       "end": 497,
+       "tokens": "Choe",
+       "labelScoreMap": {
+        "David_Choe": 0.2000337476622259,
+        "Choe_Yeong": 0.23309688397433143,
+        "Choe_Museon": 0.5668693683634426,
+        "<unk_wid>": 4.4675717875052e-34
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.8893803839018827,
+       "start": 207,
+       "end": 208,
+       "tokens": "Russia",
+       "labelScoreMap": {
+        "Russia": 0.8893803839018827,
+        "Russia_national_football_team": 0.026747581655778712,
+        "Russian_Empire": 0.02703575637842465,
+        "Russia_men's_national_ice_hockey_team": 0.005094780256093907,
+        "Russia_and_weapons_of_mass_destruction": 0.0033769819386131367,
+        "Russia_Davis_Cup_team": 0.003328187862189899,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.0032141543346389453,
+        "Russia_national_rugby_union_team": 0.0030597805457739068,
+        "Russia_national_basketball_team": 0.0029182762156242923,
+        "Russia_men's_national_volleyball_team": 0.0025769270032286154,
+        "Miss_Russia": 0.002562014625113964,
+        "Tsardom_of_Russia": 0.0024743529706511593,
+        "Russian_Football_Union": 0.002469293301257591,
+        "Russia_Fed_Cup_team": 0.002210654013263385,
+        "Soviet_Union": 0.00620216739038059,
+        "Russian_Ground_Forces": 0.002078894991408924,
+        "Russia_national_rugby_league_team": 0.0018153778449702192,
+        "National_Anthem_of_Russia": 0.001615288430082899,
+        "Last_Hero": 0.0015469698683103598,
+        "Russia_national_futsal_team": 0.0015372184304014132,
+        "Russian_Revolution": 0.0014202040950507659,
+        "Russia_women's_national_volleyball_team": 0.0014103921813159637,
+        "Russia_women's_national_football_team": 0.0012395249212560806,
+        "Great_Recession_in_Russia": 0.0011956091045454073,
+        "Russian_Professional_Basketball_League": 0.0011663280888559364,
+        "Kievan_Rus'": 0.0011663280917371308,
+        "Russia_women's_national_basketball_team": 0.001156571559148844,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9389683956410321,
+       "start": 511,
+       "end": 512,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9389683956410321,
+        "Taiwan": 0.012831202102807315,
+        "China_national_football_team": 0.011470853212529787,
+        "Emperor_of_China": 0.010371429554873302,
+        "Second_Sino-Japanese_War": 0.0054076373185174085,
+        "China_men's_national_basketball_team": 0.0037449231364041348,
+        "People's_Liberation_Army": 0.002010589820782667,
+        "China_Mi\u00e9ville": 0.0017304881034739454,
+        "China_national_rugby_union_team": 0.001718976907835061,
+        "China_women's_national_football_team": 0.0016230543340070064,
+        "Chinese_mythology": 0.0015654983430053889,
+        "A1_Team_China": 0.0015578201693282221,
+        "China_national_badminton_team": 0.001553988828861421,
+        "China_national_cricket_team": 0.0014158528001062282,
+        "Mainland_China": 0.001370239930522107,
+        "Traditional_Chinese_medicine": 0.0013621419738147258,
+        "China,_Maine": 0.001296907822099403,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Korean_Peninsula",
+       "score": 0.7076618210134568,
+       "start": 99,
+       "end": 101,
+       "tokens": "Korean Peninsula",
+       "labelScoreMap": {
+        "Korean_Peninsula": 0.7076618210134568,
+        "Korea": 0.29233817898654335,
+        "<unk_wid>": 5.01834139954072e-40
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9389834216158561,
+       "start": 393,
+       "end": 394,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9389834216158561,
+        "Taiwan": 0.012825295185270482,
+        "China_national_football_team": 0.011469281274620036,
+        "Emperor_of_China": 0.010371584023337356,
+        "Second_Sino-Japanese_War": 0.005399794357416166,
+        "China_men's_national_basketball_team": 0.0037449788617872157,
+        "People's_Liberation_Army": 0.0020106197649899034,
+        "China_Mi\u00e9ville": 0.0017305138767532513,
+        "China_national_rugby_union_team": 0.0017190025096804683,
+        "China_women's_national_football_team": 0.0016230784957070366,
+        "Chinese_mythology": 0.0015655216589943238,
+        "A1_Team_China": 0.0015578433709611038,
+        "China_national_badminton_team": 0.0015540104854972281,
+        "China_national_cricket_team": 0.0014158738873263426,
+        "Mainland_China": 0.0013700912329237358,
+        "Traditional_Chinese_medicine": 0.0013621622610844831,
+        "China,_Maine": 0.001296927137794348,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280565944204391,
+       "start": 122,
+       "end": 124,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280565944204391,
+        "North_Korea_national_football_team": 0.03734584994311161,
+        "Workers'_Party_of_Korea": 0.008248343055525601,
+        "North_Korea_women's_national_football_team": 0.006981117685482754,
+        "Korean_People's_Army": 0.00543661814766467,
+        "Pyongyang": 0.004355608934843075,
+        "Supreme_People's_Assembly": 0.0028727576016338925,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027491987245951066,
+        "Axe_murder_incident": 0.002038735181622437,
+        "Eternal_President_of_the_Republic": 0.0019151763050812563,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.4377821669367249,
+       "start": 108,
+       "end": 109,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.2800890035270239,
+        "China": 0.4377821669367249,
+        "Han_Chinese": 0.04135322676971717,
+        "Chinese_Americans": 0.011476728981416048,
+        "Overseas_Chinese": 0.00987190868068635,
+        "Malaysian_Chinese": 0.021056043094758826,
+        "Standard_Chinese": 0.007045284006706921,
+        "Chinese_Canadians": 0.005949373068686835,
+        "Chinese_Buddhist_canon": 0.005580406617380699,
+        "Chinese_Singaporeans": 0.005467003484849297,
+        "British_Chinese": 0.004328009199837218,
+        "Chinese_mythology": 0.003663969347082056,
+        "Traditional_Chinese_characters": 0.0036769084425684047,
+        "Mandarin_Chinese": 0.03385169533515559,
+        "Thai_Chinese": 0.003238737339379313,
+        "Emperor_of_China": 0.0029646840251744606,
+        "Chinese_Indonesians": 0.058236252768872544,
+        "Chinese_Filipino": 0.0022014166183949697,
+        "Taiwan": 0.05169943948366303,
+        "Chinese_folk_religion": 0.0017227217553324615,
+        "Chinese_people_in_Myanmar": 0.0016104966174621366,
+        "Chinese_New_Year": 0.0015064722305866067,
+        "Chinese_Wikipedia": 0.0013119865315638437,
+        "Traditional_Chinese_medicine": 0.0012942071981646688,
+        "Chinese_Australians": 0.0011340230406186908,
+        "Chinese_Brazilians": 0.0009973473818733819,
+        "Chinese_people_in_Japan": 0.0008904875163196273,
+        "<unk_wid>": 3.640019301343872e-41
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.5000148205873977,
+       "start": 413,
+       "end": 414,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.26280657347660025,
+        "China": 0.5000148205873977,
+        "Han_Chinese": 0.041363159537188006,
+        "Chinese_Americans": 0.011598107924586308,
+        "Overseas_Chinese": 0.009941981307131711,
+        "Malaysian_Chinese": 0.024272044518651878,
+        "Standard_Chinese": 0.0070040381195492375,
+        "Chinese_Canadians": 0.005883781493355935,
+        "Chinese_Buddhist_canon": 0.005631976258388281,
+        "Chinese_Singaporeans": 0.006306796541429099,
+        "British_Chinese": 0.004367777125702841,
+        "Chinese_mythology": 0.003696727422834044,
+        "Traditional_Chinese_characters": 0.003571031088594353,
+        "Mandarin_Chinese": 0.0038582528055218944,
+        "Thai_Chinese": 0.0032654390638350464,
+        "Emperor_of_China": 0.0029897425449317873,
+        "Chinese_Indonesians": 0.07615749953149838,
+        "Chinese_Filipino": 0.0021951978052295786,
+        "Taiwan": 0.014628244420881113,
+        "Chinese_folk_religion": 0.0017375254521128111,
+        "Chinese_people_in_Myanmar": 0.001531156512367402,
+        "Chinese_New_Year": 0.0014978889573613826,
+        "Chinese_Wikipedia": 0.001324110858529768,
+        "Traditional_Chinese_medicine": 0.0013061420320065885,
+        "Chinese_Australians": 0.0011447038605904279,
+        "Chinese_Brazilians": 0.001006564066242381,
+        "Chinese_people_in_Japan": 0.0008987166874819737,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.8788937029917345,
+       "start": 247,
+       "end": 248,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.8788937029917345,
+        "Taiwan": 0.06873298240168667,
+        "China_national_football_team": 0.010787220009010593,
+        "Emperor_of_China": 0.009753986573120252,
+        "Second_Sino-Japanese_War": 0.00512098737393117,
+        "China_men's_national_basketball_team": 0.0035219752689638357,
+        "People's_Liberation_Army": 0.0018993948763224191,
+        "China_Mi\u00e9ville": 0.0016274664643193169,
+        "China_national_rugby_union_team": 0.0016166404584790147,
+        "China_women's_national_football_team": 0.0015264284649191134,
+        "Chinese_mythology": 0.001472299379332281,
+        "A1_Team_China": 0.0014650779200647474,
+        "China_national_badminton_team": 0.001461475386005108,
+        "China_national_cricket_team": 0.001331562353772118,
+        "Mainland_China": 0.008288051694976177,
+        "Traditional_Chinese_medicine": 0.001281049825128953,
+        "China,_Maine": 0.0012196985582339098,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280424768464202,
+       "start": 212,
+       "end": 214,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280424768464202,
+        "North_Korea_national_football_team": 0.037345359545384205,
+        "Workers'_Party_of_Korea": 0.008263060528946741,
+        "North_Korea_women's_national_football_team": 0.006981020469380735,
+        "Korean_People's_Army": 0.005436551157340086,
+        "Pyongyang": 0.004355797068420711,
+        "Supreme_People's_Assembly": 0.002872717562084518,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027491604071531155,
+        "Axe_murder_incident": 0.0020387067663913344,
+        "Eternal_President_of_the_Republic": 0.001915149648478204,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9653345393796523,
+       "start": 389,
+       "end": 391,
+       "tokens": "North Korean",
+       "labelScoreMap": {
+        "North_Korea": 0.9653345393796523,
+        "Korean_People's_Army": 0.014203245751925771,
+        "2006_North_Korean_nuclear_test": 0.006740495907341312,
+        "North_Korea_national_football_team": 0.00601830099434844,
+        "Korean_People's_Army_Air_and_Anti-Air_Force": 0.0026480512207520245,
+        "Kwangmy\u014fngs\u014fng-2": 0.002407315520419059,
+        "North_Korea_women's_national_football_team": 0.0014443934653500723,
+        "Korean_People's_Navy": 0.0012036577602111596,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280349589955528,
+       "start": 417,
+       "end": 419,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280349589955528,
+        "North_Korea_national_football_team": 0.0373450940055098,
+        "Workers'_Party_of_Korea": 0.008271222626617924,
+        "North_Korea_women's_national_football_team": 0.006980968643691011,
+        "Korean_People's_Army": 0.005436509419135788,
+        "Pyongyang": 0.004355582999316559,
+        "Supreme_People's_Assembly": 0.0028726962406254355,
+        "North_Korea_men's_national_ice_hockey_team": 0.002749140002732667,
+        "Axe_murder_incident": 0.00203869163499707,
+        "Eternal_President_of_the_Republic": 0.0019151354318206896,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280541562693697,
+       "start": 183,
+       "end": 185,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280541562693697,
+        "North_Korea_national_football_team": 0.03734576716400442,
+        "Workers'_Party_of_Korea": 0.008250883185030542,
+        "North_Korea_women's_national_football_team": 0.00698110089611388,
+        "Korean_People's_Army": 0.005436606014359975,
+        "Pyongyang": 0.004355641705949703,
+        "Supreme_People's_Assembly": 0.002872750686685947,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027491921070624523,
+        "Axe_murder_incident": 0.0020387302742301415,
+        "Eternal_President_of_the_Republic": 0.0019151716971930238,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280535944789391,
+       "start": 197,
+       "end": 199,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280535944789391,
+        "North_Korea_national_football_team": 0.03734574159480729,
+        "Workers'_Party_of_Korea": 0.00825163701219257,
+        "North_Korea_women's_national_football_team": 0.006981097010752328,
+        "Korean_People's_Army": 0.005436602587318685,
+        "Pyongyang": 0.004355487863247302,
+        "Supreme_People's_Assembly": 0.0028727490934815606,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027491905823813978,
+        "Axe_murder_incident": 0.002038729143565822,
+        "Eternal_President_of_the_Republic": 0.001915170633313743,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9373709968989099,
+       "start": 258,
+       "end": 259,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9373709968989099,
+        "Taiwan": 0.014453478789956066,
+        "China_national_football_team": 0.011455925055996114,
+        "Emperor_of_China": 0.010355012821411613,
+        "Second_Sino-Japanese_War": 0.005427353830706058,
+        "China_men's_national_basketball_team": 0.0037389955288800927,
+        "People's_Liberation_Army": 0.0020074073252270433,
+        "China_Mi\u00e9ville": 0.0017277489633876772,
+        "China_national_rugby_union_team": 0.0017162559727927037,
+        "China_women's_national_football_team": 0.0016204852807109337,
+        "Chinese_mythology": 0.0015630203461953459,
+        "A1_Team_China": 0.001555354326146097,
+        "China_national_badminton_team": 0.001551534080806443,
+        "China_national_cricket_team": 0.0014136116743071665,
+        "Mainland_China": 0.001387978266743553,
+        "Traditional_Chinese_medicine": 0.0013599858658351614,
+        "China,_Maine": 0.0012948549719881664,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.45197081515668425,
+       "start": 285,
+       "end": 286,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.25864908392882763,
+        "China": 0.45197081515668425,
+        "Han_Chinese": 0.0409700438002331,
+        "Chinese_Americans": 0.011677870053896148,
+        "Overseas_Chinese": 0.00983846486636058,
+        "Malaysian_Chinese": 0.03103644832864286,
+        "Standard_Chinese": 0.006884232138917006,
+        "Chinese_Canadians": 0.005877540058601572,
+        "Chinese_Buddhist_canon": 0.005535191814383855,
+        "Chinese_Singaporeans": 0.00792269213466141,
+        "British_Chinese": 0.004292823933211715,
+        "Chinese_mythology": 0.003633208609455287,
+        "Traditional_Chinese_characters": 0.003511792296358651,
+        "Mandarin_Chinese": 0.004146757589304317,
+        "Thai_Chinese": 0.003211588980222551,
+        "Emperor_of_China": 0.0029385069739509017,
+        "Chinese_Indonesians": 0.09222328185319846,
+        "Chinese_Filipino": 0.0022086247583997017,
+        "Taiwan": 0.04317383992946,
+        "Chinese_folk_religion": 0.0017078532030784359,
+        "Chinese_people_in_Myanmar": 0.001527046277268076,
+        "Chinese_New_Year": 0.0014727080321962347,
+        "Chinese_Wikipedia": 0.001301356264518123,
+        "Traditional_Chinese_medicine": 0.0012836966629225276,
+        "Chinese_Australians": 0.0011319934899452731,
+        "Chinese_Brazilians": 0.0009892664536395215,
+        "Chinese_people_in_Japan": 0.0008832724116617718,
+        "<unk_wid>": 2.659556909638142e-43
+       }
+      },
+      {
+       "label": "French_Communist_Party",
+       "score": 0.154795076725901,
+       "start": 73,
+       "end": 75,
+       "tokens": "Communist Party",
+       "labelScoreMap": {
+        "Communist_Party_of_the_Soviet_Union": 0.14289129841756956,
+        "Communist_Party_of_China": 0.08587056583954499,
+        "Communist_Party_USA": 0.052940141897796215,
+        "Communist_Party_of_Chile": 0.030849519317644028,
+        "French_Communist_Party": 0.154795076725901,
+        "Communist_Party_of_Great_Britain": 0.05911197810849256,
+        "Communist_Party_of_Germany": 0.028475144877382702,
+        "Communist_Party_of_Norway": 0.01547710860899536,
+        "Communist_Party_of_Czechoslovakia": 0.013262860581918034,
+        "Communist_Party_of_Spain": 0.011601363950818355,
+        "Italian_Communist_Party": 0.11943391381126878,
+        "Communist_Party_of_the_Russian_Federation": 0.015804322161564154,
+        "Romanian_Communist_Party": 0.047706453281107584,
+        "Communist_Party_of_Australia": 0.008203660201842124,
+        "Bulgarian_Communist_Party": 0.04629757376629405,
+        "Communist_Party_of_Greece": 0.08608402918346071,
+        "Communist_Party_of_Cuba": 0.006581549208177706,
+        "Communist_Party_(Sweden)": 0.0051975721820489,
+        "Communist_Party_of_Venezuela": 0.005358986327021412,
+        "League_of_Communists_of_Yugoslavia": 0.011367661970444119,
+        "Communist_Party_of_Austria": 0.005816281066991569,
+        "Party_of_Communists_of_the_Republic_of_Moldova": 0.005105563654310818,
+        "Communist_Party_of_Canada": 0.004843534930427476,
+        "Communist_Party_of_Luxembourg": 0.0047821940980200435,
+        "Communist_Party_of_Vietnam": 0.004473603695893914,
+        "Communist_Party_of_Ukraine": 0.006785833013626587,
+        "Communist_Party_of_India": 0.00410464298522514,
+        "Japanese_Communist_Party": 0.004710876204922992,
+        "Communist_Party_of_India_(Marxist)": 0.004375101498535112,
+        "Communist_Party_of_Denmark": 0.007691588432753835
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9377358293701121,
+       "start": 82,
+       "end": 83,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9377358293701121,
+        "Taiwan": 0.014042044399894097,
+        "China_national_football_team": 0.01145681055756923,
+        "Emperor_of_China": 0.010358762072668958,
+        "Second_Sino-Japanese_War": 0.005481067218111511,
+        "China_men's_national_basketball_team": 0.0037403491852874985,
+        "People's_Liberation_Army": 0.0020081341302119627,
+        "China_Mi\u00e9ville": 0.0017283745213080143,
+        "China_national_rugby_union_team": 0.0017168773793141143,
+        "China_women's_national_football_team": 0.0016210719578578898,
+        "Chinese_mythology": 0.001563586270537067,
+        "A1_Team_China": 0.0015559174748469278,
+        "China_national_badminton_team": 0.0015520898347639353,
+        "China_national_cricket_team": 0.0014141235021027107,
+        "Mainland_China": 0.0013691600467082292,
+        "Traditional_Chinese_medicine": 0.0013604782772807665,
+        "China,_Maine": 0.0012953238014246048,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Korean_Peninsula",
+       "score": 0.7852802081573479,
+       "start": 270,
+       "end": 272,
+       "tokens": "Korean Peninsula",
+       "labelScoreMap": {
+        "Korean_Peninsula": 0.7852802081573479,
+        "Korea": 0.21471979184265205,
+        "<unk_wid>": 3.3069301408595484e-45
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.4521464718144555,
+       "start": 485,
+       "end": 486,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.2615925472144986,
+        "China": 0.4521464718144555,
+        "Han_Chinese": 0.041889578274576046,
+        "Chinese_Americans": 0.011438633928217673,
+        "Overseas_Chinese": 0.009796654375831531,
+        "Malaysian_Chinese": 0.01091731161317395,
+        "Standard_Chinese": 0.010933087324000234,
+        "Chinese_Canadians": 0.005762708983447557,
+        "Chinese_Buddhist_canon": 0.005544453394500218,
+        "Chinese_Singaporeans": 0.004716318411099844,
+        "British_Chinese": 0.004300188950663932,
+        "Chinese_mythology": 0.0036691498298275045,
+        "Traditional_Chinese_characters": 0.004341043777555084,
+        "Mandarin_Chinese": 0.017717809843733907,
+        "Thai_Chinese": 0.0032252524744558844,
+        "Emperor_of_China": 0.0029444867102199823,
+        "Chinese_Indonesians": 0.013061001121374597,
+        "Chinese_Filipino": 0.002428641647665325,
+        "Taiwan": 0.12271819601598567,
+        "Chinese_folk_religion": 0.0021723253472946172,
+        "Chinese_people_in_Myanmar": 0.001605517858282069,
+        "Chinese_New_Year": 0.0014787426931155933,
+        "Chinese_Wikipedia": 0.001303533712346156,
+        "Traditional_Chinese_medicine": 0.001292554205857994,
+        "Chinese_Australians": 0.001128118442693913,
+        "Chinese_Brazilians": 0.000990921707550589,
+        "Chinese_people_in_Japan": 0.0008847503275758099,
+        "<unk_wid>": 3.162026274317862e-45
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9388315746764769,
+       "start": 120,
+       "end": 121,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9388315746764769,
+        "Taiwan": 0.012981195728989463,
+        "China_national_football_team": 0.01146793770810337,
+        "Emperor_of_China": 0.01037002348089884,
+        "Second_Sino-Japanese_War": 0.005401255862893303,
+        "China_men's_national_basketball_team": 0.003744415391863937,
+        "People's_Liberation_Army": 0.0020103172405905884,
+        "China_Mi\u00e9ville": 0.0017302534979755147,
+        "China_national_rugby_union_team": 0.0017187438629423578,
+        "China_women's_national_football_team": 0.001622834283629173,
+        "Chinese_mythology": 0.0015652861054868366,
+        "A1_Team_China": 0.001557608972753936,
+        "China_national_badminton_team": 0.0015537769087052478,
+        "China_national_cricket_team": 0.0014156608503118706,
+        "Mainland_China": 0.0013704261247852473,
+        "Traditional_Chinese_medicine": 0.0013619573056969127,
+        "China,_Maine": 0.001296731997896728,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Liu_Xiaobo",
+       "score": 0.5653657042689966,
+       "start": 76,
+       "end": 77,
+       "tokens": "Liu",
+       "labelScoreMap": {
+        "Liu_Xiaobo": 0.5653657042689966,
+        "Long_Island_University": 0.08531618085059778,
+        "Laureate_International_Universities": 0.07478468800229592,
+        "Laurin_Liu": 0.046344627540151624,
+        "Turandot": 0.03475870156111892,
+        "John_Liu": 0.01158611949593326,
+        "Lucy_Liu": 0.010540509358622226,
+        "Gordon_Liu": 0.007372995718600403,
+        "Emperor_Gaozu_of_Han": 0.028810317860689168,
+        "Liu_Xiang": 0.011296889351087575,
+        "Liu_Qi_(politician)": 0.003160129233835698,
+        "Liu_Bei": 0.11750327427227586,
+        "Hua_Mulan": 0.0031598624857948916,
+        "<unk_wid>": 1.7711627596909194e-45
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9389819407045166,
+       "start": 235,
+       "end": 236,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9389819407045166,
+        "Taiwan": 0.012821609980441233,
+        "China_national_football_team": 0.011470274694070054,
+        "Emperor_of_China": 0.010371568779234244,
+        "Second_Sino-Japanese_War": 0.005403879273656021,
+        "China_men's_national_basketball_team": 0.0037449733806589934,
+        "People's_Liberation_Army": 0.0020106168107992296,
+        "China_Mi\u00e9ville": 0.0017305113332755783,
+        "China_national_rugby_union_team": 0.001718999983097915,
+        "China_women's_national_football_team": 0.001623076118020684,
+        "Chinese_mythology": 0.0015655193579972705,
+        "A1_Team_China": 0.001557841081249565,
+        "China_national_badminton_team": 0.001554009010028731,
+        "China_national_cricket_team": 0.001415871806280988,
+        "Mainland_China": 0.001370222196112221,
+        "Traditional_Chinese_medicine": 0.0013621602589842048,
+        "China,_Maine": 0.0012969252315763753,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "French_Communist_Party",
+       "score": 0.14240905616348273,
+       "start": 305,
+       "end": 307,
+       "tokens": "Communist Party",
+       "labelScoreMap": {
+        "Communist_Party_of_the_Soviet_Union": 0.13971852347199398,
+        "Communist_Party_of_China": 0.08534058083349788,
+        "Communist_Party_USA": 0.052847995101704764,
+        "Communist_Party_of_Chile": 0.03073940464481893,
+        "French_Communist_Party": 0.14240905616348273,
+        "Communist_Party_of_Great_Britain": 0.0706597138298885,
+        "Communist_Party_of_Germany": 0.031227199511609065,
+        "Communist_Party_of_Norway": 0.015425136406876984,
+        "Communist_Party_of_Czechoslovakia": 0.013695537501447856,
+        "Communist_Party_of_Spain": 0.01179134918684497,
+        "Italian_Communist_Party": 0.12272352696163279,
+        "Communist_Party_of_the_Russian_Federation": 0.01694045533557582,
+        "Romanian_Communist_Party": 0.05513384967229008,
+        "Communist_Party_of_Australia": 0.00819434696580983,
+        "Bulgarian_Communist_Party": 0.048215731675832256,
+        "Communist_Party_of_Greece": 0.0780541243411118,
+        "Communist_Party_of_Cuba": 0.0065694263421313195,
+        "Communist_Party_(Sweden)": 0.0051927738784947695,
+        "Communist_Party_of_Venezuela": 0.005322598382219935,
+        "League_of_Communists_of_Yugoslavia": 0.009092706889429479,
+        "Communist_Party_of_Austria": 0.005693464304336106,
+        "Party_of_Communists_of_the_Republic_of_Moldova": 0.005047799676957435,
+        "Communist_Party_of_Canada": 0.004838310702114557,
+        "Communist_Party_of_Luxembourg": 0.004780693574273066,
+        "Communist_Party_of_Vietnam": 0.004402057319363137,
+        "Communist_Party_of_Ukraine": 0.006194888175211114,
+        "Communist_Party_of_India": 0.004043562616290471,
+        "Japanese_Communist_Party": 0.00433319547396403,
+        "Communist_Party_of_India_(Marxist)": 0.00415494418037952,
+        "Communist_Party_of_Denmark": 0.007217046880417162
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9269292034614829,
+       "start": 39,
+       "end": 40,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9269292034614829,
+        "Taiwan": 0.02456981644518936,
+        "China_national_football_team": 0.011340014825180903,
+        "Emperor_of_China": 0.010247695737908489,
+        "Second_Sino-Japanese_War": 0.005336487617062929,
+        "China_men's_national_basketball_team": 0.0037002451857662765,
+        "People's_Liberation_Army": 0.0019868216941996684,
+        "China_Mi\u00e9ville": 0.0017098429848199025,
+        "China_national_rugby_union_team": 0.001698469070554163,
+        "China_women's_national_football_team": 0.0016036908726054981,
+        "Chinese_mythology": 0.0015468215483310098,
+        "A1_Team_China": 0.0015392349734480832,
+        "China_national_badminton_team": 0.0015354742794791924,
+        "China_national_cricket_team": 0.0013989613150895573,
+        "Mainland_China": 0.002229893338751511,
+        "Traditional_Chinese_medicine": 0.001345891272403622,
+        "China,_Maine": 0.0012814353777273817,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Chinese_Academy_of_Social_Sciences",
+       "score": 1.0,
+       "start": 485,
+       "end": 490,
+       "tokens": "Chinese Academy of Social Sciences",
+       "labelScoreMap": {
+        "Chinese_Academy_of_Social_Sciences": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280443478565852,
+       "start": 313,
+       "end": 315,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280443478565852,
+        "North_Korea_national_football_team": 0.037345406744740524,
+        "Workers'_Party_of_Korea": 0.008261457400324327,
+        "North_Korea_women's_national_football_team": 0.006981033286787393,
+        "Korean_People's_Army": 0.005436555663875694,
+        "Pyongyang": 0.0043554470048499504,
+        "Supreme_People's_Assembly": 0.0028727228687553405,
+        "North_Korea_men's_national_ice_hockey_team": 0.002749165485570361,
+        "Axe_murder_incident": 0.0020387105324151792,
+        "Eternal_President_of_the_Republic": 0.0019151531560955934,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 478,
+       "end": 480,
+       "tokens": "Wang Gunsheng",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Beijing",
+       "score": 0.9648215170661375,
+       "start": 7,
+       "end": 8,
+       "tokens": "BEIJING",
+       "labelScoreMap": {
+        "Beijing": 0.9648215170661375,
+        "China_Open_(tennis)": 0.010386178168645812,
+        "2008_Summer_Olympics": 0.006238029677765705,
+        "Beijing_Railway_Station": 0.0049466344882797995,
+        "Beijing_dialect": 0.002411706119818574,
+        "2008_China_Open_(tennis)": 0.0023588864937757748,
+        "Beijing_Capital_International_Airport": 0.0021476483474695404,
+        "Forbidden_City": 0.0020420292782060605,
+        "2010_China_Open_(tennis)": 0.001654749251640079,
+        "Beijing_Subway": 0.001566723269567699,
+        "2009_China_Open_(tennis)": 0.0014258978386934111,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9279363664682838,
+       "start": 2,
+       "end": 4,
+       "tokens": "NORTH KOREA",
+       "labelScoreMap": {
+        "North_Korea": 0.9279363664682838,
+        "North_Korea_national_football_team": 0.03734280737866924,
+        "Workers'_Party_of_Korea": 0.008373914872442491,
+        "North_Korea_women's_national_football_team": 0.006980289779418336,
+        "Korean_People's_Army": 0.00543608502804225,
+        "Pyongyang": 0.004355805012414211,
+        "Supreme_People's_Assembly": 0.002872416658108794,
+        "North_Korea_men's_national_ice_hockey_team": 0.002748872415820495,
+        "Axe_murder_incident": 0.00203849319941382,
+        "Eternal_President_of_the_Republic": 0.0019149491873865292,
+        "<unk_wid>": 1.3003300549735106e-45
+       }
+      },
+      {
+       "label": "Yesung",
+       "score": 1.0,
+       "start": 147,
+       "end": 150,
+       "tokens": "Kim Jong Un",
+       "labelScoreMap": {
+        "Yesung": 1.0,
+        "<unk_wid>": 3.98681457540971e-36
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5564246360464978,
+       "start": 381,
+       "end": 382,
+       "tokens": "Choe",
+       "labelScoreMap": {
+        "David_Choe": 0.20004283515960644,
+        "Choe_Yeong": 0.24353252879389567,
+        "Choe_Museon": 0.5564246360464978,
+        "<unk_wid>": 1.747654374989388e-35
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5770075281148385,
+       "start": 319,
+       "end": 320,
+       "tokens": "Choe",
+       "labelScoreMap": {
+        "David_Choe": 0.20001931764397737,
+        "Choe_Yeong": 0.22297315424118422,
+        "Choe_Museon": 0.5770075281148385,
+        "<unk_wid>": 4.154753762302516e-37
+       }
+      },
+      {
+       "label": "Japan",
+       "score": 0.9357302686239817,
+       "start": 205,
+       "end": 206,
+       "tokens": "Japan",
+       "labelScoreMap": {
+        "Japan": 0.9357302686239817,
+        "Japan_national_football_team": 0.019093719426186033,
+        "Empire_of_Japan": 0.014908222064655608,
+        "Japan_(band)": 0.010650426147010462,
+        "Japan_national_rugby_union_team": 0.0037593337234999753,
+        "Japan_women's_national_football_team": 0.0023111253554235554,
+        "Japan_Football_Association": 0.0022568090105828274,
+        "Buddhism_in_Japan": 0.00210896960480905,
+        "Japan_Self-Defense_Forces": 0.0017831180185151892,
+        "Japanese_language": 0.0017409093059988512,
+        "Japan_national_baseball_team": 0.0015658844579944766,
+        "Japan_national_cricket_team": 0.001418045048249354,
+        "Japan_national_basketball_team": 0.001415028886591484,
+        "Japan_men's_national_ice_hockey_team": 0.0012581403265015017,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9653345432786438,
+       "start": 338,
+       "end": 340,
+       "tokens": "North Korean",
+       "labelScoreMap": {
+        "North_Korea": 0.9653345432786438,
+        "Korean_People's_Army": 0.014203238386861838,
+        "2006_North_Korean_nuclear_test": 0.006740495931367273,
+        "North_Korea_national_football_team": 0.006018304403414791,
+        "Korean_People's_Army_Air_and_Anti-Air_Force": 0.0026480512310413404,
+        "Kwangmy\u014fngs\u014fng-2": 0.0024073155297729743,
+        "North_Korea_women's_national_football_team": 0.001444393474010827,
+        "Korean_People's_Navy": 0.0012036577648870577,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "French_Communist_Party",
+       "score": 0.14709488537578397,
+       "start": 60,
+       "end": 62,
+       "tokens": "Communist Party",
+       "labelScoreMap": {
+        "Communist_Party_of_the_Soviet_Union": 0.14169336062800092,
+        "Communist_Party_of_China": 0.08616566280103005,
+        "Communist_Party_USA": 0.05284561789725564,
+        "Communist_Party_of_Chile": 0.030721046578255043,
+        "French_Communist_Party": 0.14709488537578397,
+        "Communist_Party_of_Great_Britain": 0.0409902513615681,
+        "Communist_Party_of_Germany": 0.023751133943790272,
+        "Communist_Party_of_Norway": 0.015507733351817215,
+        "Communist_Party_of_Czechoslovakia": 0.012702874709090942,
+        "Communist_Party_of_Spain": 0.011593778902561908,
+        "Italian_Communist_Party": 0.12430018353821645,
+        "Communist_Party_of_the_Russian_Federation": 0.01341017209293585,
+        "Romanian_Communist_Party": 0.04785907255800795,
+        "Communist_Party_of_Australia": 0.008191629941410285,
+        "Bulgarian_Communist_Party": 0.05455722188543927,
+        "Communist_Party_of_Greece": 0.09322613453118464,
+        "Communist_Party_of_Cuba": 0.0065765013832868235,
+        "Communist_Party_(Sweden)": 0.005190450001907916,
+        "Communist_Party_of_Venezuela": 0.005522191766062779,
+        "League_of_Communists_of_Yugoslavia": 0.021547792721241906,
+        "Communist_Party_of_Austria": 0.00623592650395489,
+        "Party_of_Communists_of_the_Republic_of_Moldova": 0.0053277942809411855,
+        "Communist_Party_of_Canada": 0.004836604626068724,
+        "Communist_Party_of_Luxembourg": 0.004770282641906971,
+        "Communist_Party_of_Vietnam": 0.00448834055546973,
+        "Communist_Party_of_Ukraine": 0.007389013873716329,
+        "Communist_Party_of_India": 0.004219625742535993,
+        "Japanese_Communist_Party": 0.0063744276622297626,
+        "Communist_Party_of_India_(Marxist)": 0.004758930505658878,
+        "Communist_Party_of_Denmark": 0.008151357638669443
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.9252938294255002,
+       "start": 200,
+       "end": 202,
+       "tokens": "South Korea",
+       "labelScoreMap": {
+        "South_Korea": 0.9252938294255002,
+        "South_Korea_national_football_team": 0.0450466000355379,
+        "Republic_of_Korea_Armed_Forces": 0.005219726710471741,
+        "South_Korea_men's_national_volleyball_team": 0.002757591377454959,
+        "United_States_Forces_Korea": 0.0026591098984375472,
+        "Korean_Basketball_League": 0.00244982640157538,
+        "Gaon_Music_Chart": 0.0022651674161389785,
+        "South_Korea_women's_national_volleyball_team": 0.002191296453162002,
+        "South_Korea_national_rugby_union_team": 0.0021666727988691186,
+        "Korea_Football_Association": 0.0019081551316951562,
+        "South_Korea_men's_national_ice_hockey_team": 0.001883531477282385,
+        "South_Korea_women's_national_football_team": 0.0016988724917549102,
+        "Tesco": 0.0015757665014029675,
+        "South_Korea_women's_national_handball_team": 0.0014772841660327487,
+        "Korean_War": 0.0014065697146836487,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Liu_Yunshan",
+       "score": 1.0,
+       "start": 53,
+       "end": 55,
+       "tokens": "Liu Yunshan",
+       "labelScoreMap": {
+        "Liu_Yunshan": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Beijing",
+       "score": 0.9648257176154081,
+       "start": 349,
+       "end": 350,
+       "tokens": "Beijing",
+       "labelScoreMap": {
+        "Beijing": 0.9648257176154081,
+        "China_Open_(tennis)": 0.010386221660332347,
+        "2008_Summer_Olympics": 0.006232406146951452,
+        "Beijing_Railway_Station": 0.004946655283484281,
+        "Beijing_dialect": 0.002411742672605643,
+        "2008_China_Open_(tennis)": 0.0023588963731316693,
+        "Beijing_Capital_International_Airport": 0.0021476573441513015,
+        "Forbidden_City": 0.0020433120125236755,
+        "2010_China_Open_(tennis)": 0.0016547561819680874,
+        "Beijing_Subway": 0.001566730898884772,
+        "2009_China_Open_(tennis)": 0.0014259038105586324,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280448785432948,
+       "start": 408,
+       "end": 410,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280448785432948,
+        "North_Korea_national_football_team": 0.03734543033531894,
+        "Workers'_Party_of_Korea": 0.008260829800293959,
+        "North_Korea_women's_national_football_team": 0.006981036949727109,
+        "Korean_People's_Army": 0.0054365579228385546,
+        "Pyongyang": 0.004355509380649509,
+        "Supreme_People's_Assembly": 0.0028727243738248943,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027491669259138533,
+        "Axe_murder_incident": 0.0020387116005369274,
+        "Eternal_President_of_the_Republic": 0.001915154167601241,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 328,
+       "end": 336,
+       "tokens": "International Department of the Communist Party of China",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Kim_Il-sung",
+       "score": 0.3330020325305343,
+       "start": 443,
+       "end": 444,
+       "tokens": "Kim",
+       "labelScoreMap": {
+        "Kim_(novel)": 0.16138130723193544,
+        "Kim_Kardashian": 0.06743947121716225,
+        "Kim_(song)": 0.0492729629841774,
+        "Kim_Moyes": 0.03620808351367694,
+        "Kim_Jong-il": 0.10569073339178503,
+        "Kim_Deal": 0.017668563517045578,
+        "Kim_Dae-jung": 0.09647576165287378,
+        "Kim_Richards": 0.012318227630797183,
+        "Kim_Novak": 0.011696591839940483,
+        "Gold": 0.009954906566025613,
+        "Robert_Kiyosaki": 0.009331992086275283,
+        "Kim_Wayans": 0.008087722927472356,
+        "Kim_Deitch": 0.007714450192359345,
+        "Kim_Cattrall": 0.007714450179548807,
+        "Kim_Clijsters": 0.007467768601283132,
+        "Miss_Saigon": 0.0067190399781911735,
+        "The_Real_Housewives_of_Atlanta": 0.006719029967528255,
+        "Kim_Il-sung": 0.3330020325305343,
+        "Gim_(food)": 0.005225911843823348,
+        "Kim_Basinger": 0.004354928943042517,
+        "Kim_Gordon": 0.0042305233104622045,
+        "Jin_dynasty_(1115\u20131234)": 0.007932527458213962,
+        "Eminem": 0.003857221654307576,
+        "Kevin_Kim": 0.0034839457164636952,
+        "Byung-hyun_Kim": 0.0034839457222838027,
+        "Edward_Kelley": 0.0028618116109472612,
+        "Kim_Wilde": 0.0026129627386007903,
+        "Kim_van_Kooten": 0.0024885250120789786,
+        "Kim_Chiu": 0.0024893443980556237,
+        "Royal_Naval_College_(Netherlands)": 0.002115255583107921
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9727558823553394,
+       "start": 194,
+       "end": 196,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "United_States": 0.9727558823553394,
+        "United_States_men's_national_soccer_team": 0.011235426718787817,
+        "United_States_men's_national_ice_hockey_team": 0.0032584311126523627,
+        "United_States_women's_national_soccer_team": 0.0022539683341777413,
+        "United_States_national_cricket_team": 0.001986649497030621,
+        "United_States_men's_national_basketball_team": 0.0019522233743932758,
+        "United_States_Armed_Forces": 0.0019502023937185487,
+        "United_States_national_rugby_union_team": 0.0017071800968314638,
+        "United_States_Davis_Cup_team": 0.00162015448157597,
+        "United_States_Soccer_Federation": 0.0012798816354929275,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.580127412317055,
+       "start": 281,
+       "end": 282,
+       "tokens": "Choe",
+       "labelScoreMap": {
+        "David_Choe": 0.2000074082972176,
+        "Choe_Yeong": 0.2198651793857275,
+        "Choe_Museon": 0.580127412317055,
+        "<unk_wid>": 8.196419059206393e-41
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9389687589006672,
+       "start": 455,
+       "end": 456,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9389687589006672,
+        "Taiwan": 0.012836338063535853,
+        "China_national_football_team": 0.01146982631102388,
+        "Emperor_of_China": 0.010371433313859002,
+        "Second_Sino-Japanese_War": 0.005403117134340817,
+        "China_men's_national_basketball_team": 0.003744924470484426,
+        "People's_Liberation_Army": 0.002010590549196164,
+        "China_Mi\u00e9ville": 0.0017304887307317482,
+        "China_national_rugby_union_team": 0.001718977530855334,
+        "China_women's_national_football_team": 0.0016230549179261616,
+        "Chinese_mythology": 0.0015654989103994048,
+        "A1_Team_China": 0.0015578207339393831,
+        "China_national_badminton_team": 0.0015539886768393266,
+        "China_national_cricket_team": 0.0014158533132631736,
+        "Mainland_China": 0.0013702776832865073,
+        "Traditional_Chinese_medicine": 0.0013621424675049325,
+        "China,_Maine": 0.0012969082921463642,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9389620650664943,
+       "start": 353,
+       "end": 354,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9389620650664943,
+        "Taiwan": 0.012843393388496927,
+        "China_national_football_team": 0.011469875619267138,
+        "Emperor_of_China": 0.010371364521710318,
+        "Second_Sino-Japanese_War": 0.005402681931222386,
+        "China_men's_national_basketball_team": 0.0037448996547006304,
+        "People's_Liberation_Army": 0.002010577213846073,
+        "China_Mi\u00e9ville": 0.0017304772529166824,
+        "China_national_rugby_union_team": 0.001718966129136881,
+        "China_women's_national_football_team": 0.0016230441631074329,
+        "Chinese_mythology": 0.0015654885266814767,
+        "A1_Team_China": 0.0015578104011496345,
+        "China_national_badminton_team": 0.0015539787035746887,
+        "China_national_cricket_team": 0.0014158439221219215,
+        "Mainland_China": 0.001370500383004746,
+        "Traditional_Chinese_medicine": 0.0013621334326195855,
+        "China,_Maine": 0.00129689968994946,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.928051849962248,
+       "start": 358,
+       "end": 360,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.928051849962248,
+        "North_Korea_national_football_team": 0.03734568290745532,
+        "Workers'_Party_of_Korea": 0.008253021047221412,
+        "North_Korea_women's_national_football_team": 0.006981084992845543,
+        "Korean_People's_Army": 0.0054365941119613554,
+        "Pyongyang": 0.004355944012291521,
+        "Supreme_People's_Assembly": 0.0028727441453521166,
+        "North_Korea_men's_national_ice_hockey_team": 0.002749185847067656,
+        "Axe_murder_incident": 0.002038725631978741,
+        "Eternal_President_of_the_Republic": 0.001915167341577884,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 332,
+       "end": 336,
+       "tokens": "Communist Party of China",
+       "labelScoreMap": {
+        "Communist_Party_of_China": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9388412216025172,
+       "start": 402,
+       "end": 403,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9388412216025172,
+        "Taiwan": 0.012966851263068823,
+        "China_national_football_team": 0.011468313681203931,
+        "Emperor_of_China": 0.010370122600036839,
+        "Second_Sino-Japanese_War": 0.005405415426835466,
+        "China_men's_national_basketball_team": 0.0037444511979950103,
+        "People's_Liberation_Army": 0.002010336455813609,
+        "China_Mi\u00e9ville": 0.0017302700362753789,
+        "China_national_rugby_union_team": 0.001718760291101997,
+        "China_women's_national_football_team": 0.0016228497975540879,
+        "Chinese_mythology": 0.0015653010668610038,
+        "A1_Team_China": 0.0015576238607482508,
+        "China_national_badminton_team": 0.0015537919716172857,
+        "China_national_cricket_team": 0.00141567438153252,
+        "Mainland_China": 0.0013703016508651207,
+        "Traditional_Chinese_medicine": 0.0013619703236064005,
+        "China,_Maine": 0.0012967443923673303,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 15,
+       "end": 19,
+       "tokens": "Choe Ryong - hae",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 322,
+       "end": 324,
+       "tokens": "Wang Jiarui",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5745428327620927,
+       "start": 239,
+       "end": 240,
+       "tokens": "Choe",
+       "labelScoreMap": {
+        "David_Choe": 0.20004624223228268,
+        "Choe_Yeong": 0.2254109250056247,
+        "Choe_Museon": 0.5745428327620927,
+        "<unk_wid>": 3.559682285442027e-40
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9386559069519249,
+       "start": 335,
+       "end": 336,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9386559069519249,
+        "Taiwan": 0.013044879837819982,
+        "China_national_football_team": 0.011513456033670313,
+        "Emperor_of_China": 0.010368217476394583,
+        "Second_Sino-Japanese_War": 0.005399355933102369,
+        "China_men's_national_basketball_team": 0.0037437632690018765,
+        "People's_Liberation_Army": 0.0020099816153637865,
+        "China_Mi\u00e9ville": 0.0017299521634594626,
+        "China_national_rugby_union_team": 0.0017184445329209213,
+        "China_women's_national_football_team": 0.0016225517588298122,
+        "Chinese_mythology": 0.0015650135010961495,
+        "A1_Team_China": 0.0015573377053840524,
+        "China_national_badminton_team": 0.0015535213223499024,
+        "China_national_cricket_team": 0.0014154143044645365,
+        "Mainland_China": 0.0014439773180375617,
+        "Traditional_Chinese_medicine": 0.0013617201122917712,
+        "China,_Maine": 0.0012965061638878957,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280432917146373,
+       "start": 508,
+       "end": 510,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280432917146373,
+        "North_Korea_national_football_team": 0.037345371010603964,
+        "Workers'_Party_of_Korea": 0.008262431018510409,
+        "North_Korea_women's_national_football_team": 0.006981026017988648,
+        "Korean_People's_Army": 0.0054365573079446445,
+        "Pyongyang": 0.0043555808445167425,
+        "Supreme_People's_Assembly": 0.0028727198732828706,
+        "North_Korea_men's_national_ice_hockey_team": 0.002749162618911863,
+        "Axe_murder_incident": 0.0020387084065748343,
+        "Eternal_President_of_the_Republic": 0.0019151511870286674,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5819656363295097,
+       "start": 51,
+       "end": 52,
+       "tokens": "Choe",
+       "labelScoreMap": {
+        "David_Choe": 0.20000997873646595,
+        "Choe_Yeong": 0.21802438493402443,
+        "Choe_Museon": 0.5819656363295097,
+        "<unk_wid>": 1.0949465915386133e-40
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9385297372691163,
+       "start": 30,
+       "end": 31,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9385297372691163,
+        "Taiwan": 0.013278882526072448,
+        "China_national_football_team": 0.011467036740679656,
+        "Emperor_of_China": 0.010366921414893319,
+        "Second_Sino-Japanese_War": 0.005414423746669429,
+        "China_men's_national_basketball_team": 0.00374329530786521,
+        "People's_Liberation_Army": 0.0020097158842259256,
+        "China_Mi\u00e9ville": 0.001729735914384715,
+        "China_national_rugby_union_team": 0.001718229721679957,
+        "China_women's_national_football_team": 0.0016223488399410816,
+        "Chinese_mythology": 0.001564817869240838,
+        "A1_Team_China": 0.0015571430330285092,
+        "China_national_badminton_team": 0.0015533130077488436,
+        "China_national_cricket_team": 0.0014152373726359889,
+        "Mainland_China": 0.001371267362699886,
+        "Traditional_Chinese_medicine": 0.001361549892781251,
+        "China,_Maine": 0.0012963440963363602,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280533334566152,
+       "start": 460,
+       "end": 462,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280533334566152,
+        "North_Korea_national_football_team": 0.03734573104211865,
+        "Workers'_Party_of_Korea": 0.008251867017927537,
+        "North_Korea_women's_national_football_team": 0.006981095212737926,
+        "Korean_People's_Army": 0.0054366017434268245,
+        "Pyongyang": 0.004355534539784152,
+        "Supreme_People's_Assembly": 0.002872748353127046,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027491898738700614,
+        "Axe_murder_incident": 0.0020387286181520075,
+        "Eternal_President_of_the_Republic": 0.0019151701422404856,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9390813223364995,
+       "start": 203,
+       "end": 204,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9390813223364995,
+        "Taiwan": 0.012723687299755738,
+        "China_national_football_team": 0.011470912956814423,
+        "Emperor_of_China": 0.010372590152994174,
+        "Second_Sino-Japanese_War": 0.005398878877020794,
+        "China_men's_national_basketball_team": 0.0037453421559948425,
+        "People's_Liberation_Army": 0.002010814811779883,
+        "China_Mi\u00e9ville": 0.0017306817509290064,
+        "China_national_rugby_union_team": 0.0017191692671788645,
+        "China_women's_national_football_team": 0.001623235948146645,
+        "Chinese_mythology": 0.0015656735275774518,
+        "A1_Team_China": 0.0015579944946866203,
+        "China_national_badminton_team": 0.0015541615141818918,
+        "China_national_cricket_team": 0.0014160112388346539,
+        "Mainland_China": 0.0013701763150040002,
+        "Traditional_Chinese_medicine": 0.0013622944021196412,
+        "China,_Maine": 0.0012970529504815794,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9653344750250404,
+       "start": 10,
+       "end": 12,
+       "tokens": "North Korean",
+       "labelScoreMap": {
+        "North_Korea": 0.9653344750250404,
+        "Korean_People's_Army": 0.014203302671967576,
+        "2006_North_Korean_nuclear_test": 0.006740495481621019,
+        "North_Korea_national_football_team": 0.006018309305471912,
+        "Korean_People's_Army_Air_and_Anti-Air_Force": 0.002648051050867073,
+        "Kwangmy\u014fngs\u014fng-2": 0.002407315365978372,
+        "North_Korea_women's_national_football_team": 0.0014443934160410681,
+        "Korean_People's_Navy": 0.0012036576830127747,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Wang_Mang",
+       "score": 0.4974449269049294,
+       "start": 491,
+       "end": 492,
+       "tokens": "Wang",
+       "labelScoreMap": {
+        "Wang_Laboratories": 0.3086872764416506,
+        "Cheek": 0.06290468993980035,
+        "Wang_Xiaoyun": 0.027453231638792458,
+        "Wang_River": 0.020752129361992996,
+        "Chien-Ming_Wang": 0.01556398805567884,
+        "Wang_Shi-ting": 0.013402330225633384,
+        "Wang_Xiaoli": 0.009511345452989112,
+        "Wang_Leehom": 0.007565843966255158,
+        "An_Wang": 0.004755672918782437,
+        "Emperor_of_China": 0.00410785362240861,
+        "Shadow_Warrior": 0.0038910094043843827,
+        "Wang_Mang": 0.4974449269049294,
+        "Vera_Wang": 0.003244033157921451,
+        "Vang,_Oppland": 0.003026461834100686,
+        "Wang_Chen_(badminton)": 0.0025940021278879366,
+        "Wang_Bingyu": 0.005459830438551026,
+        "Wang_Zhizhi": 0.0019455083085366438,
+        "Jimmy_Wang_(tennis)": 0.0019455047030167683,
+        "Wang_Yangming": 0.002835661401040357,
+        "Wang_Hao_(table_tennis)": 0.0015914993640513593,
+        "Wang_Ki-chun": 0.001317200731595958,
+        "<unk_wid>": 8.217426635419642e-42
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 60,
+       "end": 64,
+       "tokens": "Communist Party Standing Committee",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5736477358073171,
+       "start": 115,
+       "end": 116,
+       "tokens": "Choe",
+       "labelScoreMap": {
+        "David_Choe": 0.20002001873517256,
+        "Choe_Yeong": 0.22633224545751038,
+        "Choe_Museon": 0.5736477358073171,
+        "<unk_wid>": 2.4635101094640004e-38
+       }
+      },
+      {
+       "label": "Deng_Xiaoping",
+       "score": 1.0,
+       "start": 370,
+       "end": 372,
+       "tokens": "Deng Xiaoping",
+       "labelScoreMap": {
+        "Deng_Xiaoping": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280546115983398,
+       "start": 142,
+       "end": 144,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9280546115983398,
+        "North_Korea_national_football_team": 0.03734577832234777,
+        "Workers'_Party_of_Korea": 0.0082504018671003,
+        "North_Korea_women's_national_football_team": 0.00698110402065151,
+        "Korean_People's_Army": 0.005436608563702504,
+        "Pyongyang": 0.0043556465579729815,
+        "Supreme_People's_Assembly": 0.002872751978020513,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027491933428550348,
+        "Axe_murder_incident": 0.002038731190662189,
+        "Eternal_President_of_the_Republic": 0.0019151725583470718,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.558866366660056,
+       "start": 343,
+       "end": 344,
+       "tokens": "Choe",
+       "labelScoreMap": {
+        "David_Choe": 0.20007984494741474,
+        "Choe_Yeong": 0.2410537883925293,
+        "Choe_Museon": 0.558866366660056,
+        "<unk_wid>": 5.229105973325074e-34
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Choe_Museon",
+       "score": 0.5668693683634426,
+       "start": 496,
+       "end": 497,
+       "tokens": "Choe",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Russia",
+       "score": 0.8893803839018827,
+       "start": 207,
+       "end": 208,
+       "tokens": "Russia",
+       "labelScoreMap": {
+        "2017370|Russia": 0.8893803839018827
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9389683956410321,
+       "start": 511,
+       "end": 512,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9389683956410321,
+        "1668284|Taiwan": 0.012831202102807315,
+        "4960817|China,_Maine": 0.001296907822099403
+       }
+      },
+      {
+       "label": "Korean_Peninsula",
+       "score": 0.7076618210134568,
+       "start": 99,
+       "end": 101,
+       "tokens": "Korean Peninsula",
+       "labelScoreMap": {
+        "1835841|Korea": 0.29233817898654335
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9389834216158561,
+       "start": 393,
+       "end": 394,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9389834216158561,
+        "1668284|Taiwan": 0.012825295185270482,
+        "4960817|China,_Maine": 0.001296927137794348
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280565944204391,
+       "start": 122,
+       "end": 124,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355608934843075
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.4377821669367249,
+       "start": 108,
+       "end": 109,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.4377821669367249,
+        "1668284|Taiwan": 0.05169943948366303
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.5000148205873977,
+       "start": 413,
+       "end": 414,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.5000148205873977,
+        "1668284|Taiwan": 0.014628244420881113
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.8788937029917345,
+       "start": 247,
+       "end": 248,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.8788937029917345,
+        "1668284|Taiwan": 0.06873298240168667,
+        "4960817|China,_Maine": 0.0012196985582339098
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280424768464202,
+       "start": 212,
+       "end": 214,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355797068420711
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9653345393796523,
+       "start": 389,
+       "end": 391,
+       "tokens": "North Korean",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280349589955528,
+       "start": 417,
+       "end": 419,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355582999316559
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280541562693697,
+       "start": 183,
+       "end": 185,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355641705949703
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280535944789391,
+       "start": 197,
+       "end": 199,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355487863247302
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9373709968989099,
+       "start": 258,
+       "end": 259,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9373709968989099,
+        "1668284|Taiwan": 0.014453478789956066,
+        "4960817|China,_Maine": 0.0012948549719881664
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.45197081515668425,
+       "start": 285,
+       "end": 286,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.45197081515668425,
+        "1668284|Taiwan": 0.04317383992946
+       }
+      },
+      {
+       "label": "French_Communist_Party",
+       "score": 0.154795076725901,
+       "start": 73,
+       "end": 75,
+       "tokens": "Communist Party",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9377358293701121,
+       "start": 82,
+       "end": 83,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9377358293701121,
+        "1668284|Taiwan": 0.014042044399894097,
+        "4960817|China,_Maine": 0.0012953238014246048
+       }
+      },
+      {
+       "label": "Korean_Peninsula",
+       "score": 0.7852802081573479,
+       "start": 270,
+       "end": 272,
+       "tokens": "Korean Peninsula",
+       "labelScoreMap": {
+        "1835841|Korea": 0.21471979184265205
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.4521464718144555,
+       "start": 485,
+       "end": 486,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.4521464718144555,
+        "1668284|Taiwan": 0.12271819601598567
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9388315746764769,
+       "start": 120,
+       "end": 121,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9388315746764769,
+        "1668284|Taiwan": 0.012981195728989463,
+        "4960817|China,_Maine": 0.001296731997896728
+       }
+      },
+      {
+       "label": "Liu_Xiaobo",
+       "score": 0.5653657042689966,
+       "start": 76,
+       "end": 77,
+       "tokens": "Liu",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9389819407045166,
+       "start": 235,
+       "end": 236,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9389819407045166,
+        "1668284|Taiwan": 0.012821609980441233,
+        "4960817|China,_Maine": 0.0012969252315763753
+       }
+      },
+      {
+       "label": "French_Communist_Party",
+       "score": 0.14240905616348273,
+       "start": 305,
+       "end": 307,
+       "tokens": "Communist Party",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9269292034614829,
+       "start": 39,
+       "end": 40,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9269292034614829,
+        "1668284|Taiwan": 0.02456981644518936,
+        "4960817|China,_Maine": 0.0012814353777273817
+       }
+      },
+      {
+       "label": "Chinese_Academy_of_Social_Sciences",
+       "score": 1.0,
+       "start": 485,
+       "end": 490,
+       "tokens": "Chinese Academy of Social Sciences",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280443478565852,
+       "start": 313,
+       "end": 315,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.0043554470048499504
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 478,
+       "end": 480,
+       "tokens": "Wang Gunsheng",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Beijing",
+       "score": 0.9648215170661375,
+       "start": 7,
+       "end": 8,
+       "tokens": "BEIJING",
+       "labelScoreMap": {
+        "2038349|Beijing": 0.9648215170661375,
+        "1816665|Beijing_Railway_Station": 0.0049466344882797995,
+        "6301354|Beijing_Capital_International_Airport": 0.0021476483474695404,
+        "8594680|Forbidden_City": 0.0020420292782060605
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9279363664682838,
+       "start": 2,
+       "end": 4,
+       "tokens": "NORTH KOREA",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355805012414211
+       }
+      },
+      {
+       "label": "Yesung",
+       "score": 1.0,
+       "start": 147,
+       "end": 150,
+       "tokens": "Kim Jong Un",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5564246360464978,
+       "start": 381,
+       "end": 382,
+       "tokens": "Choe",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5770075281148385,
+       "start": 319,
+       "end": 320,
+       "tokens": "Choe",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Japan",
+       "score": 0.9357302686239817,
+       "start": 205,
+       "end": 206,
+       "tokens": "Japan",
+       "labelScoreMap": {
+        "1861060|Japan": 0.9357302686239817
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9653345432786438,
+       "start": 338,
+       "end": 340,
+       "tokens": "North Korean",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "French_Communist_Party",
+       "score": 0.14709488537578397,
+       "start": 60,
+       "end": 62,
+       "tokens": "Communist Party",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.9252938294255002,
+       "start": 200,
+       "end": 202,
+       "tokens": "South Korea",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Liu_Yunshan",
+       "score": 1.0,
+       "start": 53,
+       "end": 55,
+       "tokens": "Liu Yunshan",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Beijing",
+       "score": 0.9648257176154081,
+       "start": 349,
+       "end": 350,
+       "tokens": "Beijing",
+       "labelScoreMap": {
+        "2038349|Beijing": 0.9648257176154081,
+        "1816665|Beijing_Railway_Station": 0.004946655283484281,
+        "6301354|Beijing_Capital_International_Airport": 0.0021476573441513015,
+        "8594680|Forbidden_City": 0.0020433120125236755
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280448785432948,
+       "start": 408,
+       "end": 410,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355509380649509
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 328,
+       "end": 336,
+       "tokens": "International Department of the Communist Party of China",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kim_Il-sung",
+       "score": 0.3330020325305343,
+       "start": 443,
+       "end": 444,
+       "tokens": "Kim",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.9727558823553394,
+       "start": 194,
+       "end": 196,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9727558823553394
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.580127412317055,
+       "start": 281,
+       "end": 282,
+       "tokens": "Choe",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9389687589006672,
+       "start": 455,
+       "end": 456,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9389687589006672,
+        "1668284|Taiwan": 0.012836338063535853,
+        "4960817|China,_Maine": 0.0012969082921463642
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9389620650664943,
+       "start": 353,
+       "end": 354,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9389620650664943,
+        "1668284|Taiwan": 0.012843393388496927,
+        "4960817|China,_Maine": 0.00129689968994946
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.928051849962248,
+       "start": 358,
+       "end": 360,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355944012291521
+       }
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 332,
+       "end": 336,
+       "tokens": "Communist Party of China",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9388412216025172,
+       "start": 402,
+       "end": 403,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9388412216025172,
+        "1668284|Taiwan": 0.012966851263068823,
+        "4960817|China,_Maine": 0.0012967443923673303
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 15,
+       "end": 19,
+       "tokens": "Choe Ryong - hae",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 322,
+       "end": 324,
+       "tokens": "Wang Jiarui",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5745428327620927,
+       "start": 239,
+       "end": 240,
+       "tokens": "Choe",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9386559069519249,
+       "start": 335,
+       "end": 336,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9386559069519249,
+        "1668284|Taiwan": 0.013044879837819982,
+        "4960817|China,_Maine": 0.0012965061638878957
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280432917146373,
+       "start": 508,
+       "end": 510,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.0043555808445167425
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5819656363295097,
+       "start": 51,
+       "end": 52,
+       "tokens": "Choe",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9385297372691163,
+       "start": 30,
+       "end": 31,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9385297372691163,
+        "1668284|Taiwan": 0.013278882526072448,
+        "4960817|China,_Maine": 0.0012963440963363602
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280533334566152,
+       "start": 460,
+       "end": 462,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004355534539784152
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9390813223364995,
+       "start": 203,
+       "end": 204,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9390813223364995,
+        "1668284|Taiwan": 0.012723687299755738,
+        "4960817|China,_Maine": 0.0012970529504815794
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9653344750250404,
+       "start": 10,
+       "end": 12,
+       "tokens": "North Korean",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Wang_Mang",
+       "score": 0.4974449269049294,
+       "start": 491,
+       "end": 492,
+       "tokens": "Wang",
+       "labelScoreMap": {
+        "7626337|Vang,_Oppland": 0.003026461834100686
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 60,
+       "end": 64,
+       "tokens": "Communist Party Standing Committee",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.5736477358073171,
+       "start": 115,
+       "end": 116,
+       "tokens": "Choe",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Deng_Xiaoping",
+       "score": 1.0,
+       "start": 370,
+       "end": 372,
+       "tokens": "Deng Xiaoping",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9280546115983398,
+       "start": 142,
+       "end": 144,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.0043556465579729815
+       }
+      },
+      {
+       "label": "Choe_Museon",
+       "score": 0.558866366660056,
+       "start": 343,
+       "end": 344,
+       "tokens": "Choe",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

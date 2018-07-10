@@ -1,6 +1,5 @@
 package edu.illinois.cs.cogcomp.lorelei;
 
-import edu.illinois.cs.cogcomp.core.datastructures.IntPair;
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
@@ -8,18 +7,16 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
 import edu.illinois.cs.cogcomp.core.io.LineIO;
 import edu.illinois.cs.cogcomp.core.utilities.SerializationHelper;
 import edu.illinois.cs.cogcomp.lorelei.xml.XMLException;
+import edu.illinois.cs.cogcomp.loreleiengedl.utils.LinkUtils;
 import edu.illinois.cs.cogcomp.nlp.corpusreaders.CoNLLNerReader;
 import org.apache.commons.cli.*;
 import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang3.StringUtils;
 
 import java.io.*;
 import java.nio.file.Paths;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
@@ -457,7 +454,7 @@ public class FormatConverter {
         View nomlinkView = ta.getView("NOMLINK");
 
         // create hash map which maps Wikipedia titles to LORELEI KB ids
-        HashMap<String, String> wiki2lorelei = initWiki2LORELEIMap(entity2WikipediaTitle);
+        HashMap<String, String> wiki2lorelei = LinkUtils.initWiki2LORELEIMap(entity2WikipediaTitle);
 
         for(Constituent mention : mentionView.getConstituents()){
             String[] types = mention.getLabel().split("-");
@@ -502,23 +499,4 @@ public class FormatConverter {
     }
 
     // TODO: this whole thing shouldn't be here
-    /**
-     * Initializes a map which takes Wikipedia titles to KB ids.
-     *
-     * @param entity2WikipediaTitle tsv file of LORELEI KB ids to Wikipedia titles.
-     * @return a hashmap of kb ids to titles
-     * @throws FileNotFoundException
-     */
-    public static HashMap<String,String>
-    initWiki2LORELEIMap(String entity2WikipediaTitle) throws FileNotFoundException {
-        HashMap<String, String> wiki2lorelei = new HashMap<>();
-        ArrayList<String> idsToTitles = LineIO.read(entity2WikipediaTitle);
-        for(String i2t : idsToTitles){
-            String[] sp = i2t.split("\t");
-            if(sp.length < 2)
-                continue;
-            wiki2lorelei.put(sp[1],sp[0]);
-        }
-        return wiki2lorelei;
-    }
 }

@@ -1,0 +1,5781 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131011.0094.xml",
+ "text": "OUTSIDE NATIONAL PARKS, FEELING SQUEEZED BY THE SHUTDOWN\nThis article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nSPRINGDALE, Utah - In the 10 days since Zion National Park closed its gates, the community on its doorstep has become a shutdown ghost town. Hotel rooms are dark, and housecleaners are working half-shifts. Herds of campers and sightseers have streamed away along the only highway out of town, and canceled reservations from New Zealand, California and Germany are piling up every day.\n\u201cThe phone\u2019s still ringing, unfortunately,\u201d said Dean Cook, manager of the Zion Park Inn, which lost about $19,000 in business during the first week of the federal government shutdown. \u201cWe thought of not answering it for a while.\u201d\nThe shutdown has pinched millions of Americans, from furloughed federal workers to poor mothers seeking food aid, but its economic toll is particularly concentrated in gateway communities to national parks, from Gatlinburg, Tenn., to Estes Park, Colo., to here in southwest Utah, where local businesses live or die on tourist traffic.\nOn Thursday, people here welcomed the news that federal officials would allow states to reopen some national parks if they used their own money to run them - an expensive proposition for any state government. Governors in Utah, South Dakota, Colorado and Arizona have been urging the Interior Department to reopen the parks, or allow states to do so if they paid for some day-to-day operations.\nIn Utah, officials were scrambling to find the money to put the park rangers and employees back to work - Zion alone costs $50,000 a day to operate - and determine which parks might open first and whether the state would be repaid once the shutdown ends. \u201cWe\u2019re just figuring this out,\u201d said Ally Isom, a spokeswoman for Utah\u2019s governor, Gary R. Herbert.\nIt has gotten so bad that four counties in Utah have declared a state of emergency. The closure of Zion has cost about $3.5 million in visitor spending, according to a report by the Coalition of National Park Service Retirees, using data from the research firm Headwaters Economics. The report estimates that the shutdown is costing parks communities across the country about $76 million per day.\n\u201cThis is as dangerous to us as an earthquake,\u201d said Rebecca McKown, whose family owns The Spotted Dog restaurant.\nAs the closure drags on, anger has turned into action. Last week, about a dozen protesters climbed over the metal gates and walked through the park. Another protest march is planned for Saturday. Similar protests, dubbed Occupy Yellowstone and Occupy Yosemite, have sprung up outside other parks.",
+ "tokens": [
+  "OUTSIDE",
+  "NATIONAL",
+  "PARKS",
+  ",",
+  "FEELING",
+  "SQUEEZED",
+  "BY",
+  "THE",
+  "SHUTDOWN",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "SPRINGDALE",
+  ",",
+  "Utah",
+  "-",
+  "In",
+  "the",
+  "10",
+  "days",
+  "since",
+  "Zion",
+  "National",
+  "Park",
+  "closed",
+  "its",
+  "gates",
+  ",",
+  "the",
+  "community",
+  "on",
+  "its",
+  "doorstep",
+  "has",
+  "become",
+  "a",
+  "shutdown",
+  "ghost",
+  "town",
+  ".",
+  "Hotel",
+  "rooms",
+  "are",
+  "dark",
+  ",",
+  "and",
+  "housecleaners",
+  "are",
+  "working",
+  "half",
+  "-",
+  "shifts",
+  ".",
+  "Herds",
+  "of",
+  "campers",
+  "and",
+  "sightseers",
+  "have",
+  "streamed",
+  "away",
+  "along",
+  "the",
+  "only",
+  "highway",
+  "out",
+  "of",
+  "town",
+  ",",
+  "and",
+  "canceled",
+  "reservations",
+  "from",
+  "New",
+  "Zealand",
+  ",",
+  "California",
+  "and",
+  "Germany",
+  "are",
+  "piling",
+  "up",
+  "every",
+  "day",
+  ".",
+  "\u201c",
+  "The",
+  "phone",
+  "\u2019s",
+  "still",
+  "ringing",
+  ",",
+  "unfortunately",
+  ",",
+  "\u201d",
+  "said",
+  "Dean",
+  "Cook",
+  ",",
+  "manager",
+  "of",
+  "the",
+  "Zion",
+  "Park",
+  "Inn",
+  ",",
+  "which",
+  "lost",
+  "about",
+  "$19,000",
+  "in",
+  "business",
+  "during",
+  "the",
+  "first",
+  "week",
+  "of",
+  "the",
+  "federal",
+  "government",
+  "shutdown",
+  ".",
+  "\u201c",
+  "We",
+  "thought",
+  "of",
+  "not",
+  "answering",
+  "it",
+  "for",
+  "a",
+  "while",
+  ".",
+  "\u201d",
+  "The",
+  "shutdown",
+  "has",
+  "pinched",
+  "millions",
+  "of",
+  "Americans",
+  ",",
+  "from",
+  "furloughed",
+  "federal",
+  "workers",
+  "to",
+  "poor",
+  "mothers",
+  "seeking",
+  "food",
+  "aid",
+  ",",
+  "but",
+  "its",
+  "economic",
+  "toll",
+  "is",
+  "particularly",
+  "concentrated",
+  "in",
+  "gateway",
+  "communities",
+  "to",
+  "national",
+  "parks",
+  ",",
+  "from",
+  "Gatlinburg",
+  ",",
+  "Tenn.",
+  ",",
+  "to",
+  "Estes",
+  "Park",
+  ",",
+  "Colo.",
+  ",",
+  "to",
+  "here",
+  "in",
+  "southwest",
+  "Utah",
+  ",",
+  "where",
+  "local",
+  "businesses",
+  "live",
+  "or",
+  "die",
+  "on",
+  "tourist",
+  "traffic",
+  ".",
+  "On",
+  "Thursday",
+  ",",
+  "people",
+  "here",
+  "welcomed",
+  "the",
+  "news",
+  "that",
+  "federal",
+  "officials",
+  "would",
+  "allow",
+  "states",
+  "to",
+  "reopen",
+  "some",
+  "national",
+  "parks",
+  "if",
+  "they",
+  "used",
+  "their",
+  "own",
+  "money",
+  "to",
+  "run",
+  "them",
+  "-",
+  "an",
+  "expensive",
+  "proposition",
+  "for",
+  "any",
+  "state",
+  "government",
+  ".",
+  "Governors",
+  "in",
+  "Utah",
+  ",",
+  "South",
+  "Dakota",
+  ",",
+  "Colorado",
+  "and",
+  "Arizona",
+  "have",
+  "been",
+  "urging",
+  "the",
+  "Interior",
+  "Department",
+  "to",
+  "reopen",
+  "the",
+  "parks",
+  ",",
+  "or",
+  "allow",
+  "states",
+  "to",
+  "do",
+  "so",
+  "if",
+  "they",
+  "paid",
+  "for",
+  "some",
+  "day",
+  "-",
+  "to",
+  "-",
+  "day",
+  "operations",
+  ".",
+  "In",
+  "Utah",
+  ",",
+  "officials",
+  "were",
+  "scrambling",
+  "to",
+  "find",
+  "the",
+  "money",
+  "to",
+  "put",
+  "the",
+  "park",
+  "rangers",
+  "and",
+  "employees",
+  "back",
+  "to",
+  "work",
+  "-",
+  "Zion",
+  "alone",
+  "costs",
+  "$50,000",
+  "a",
+  "day",
+  "to",
+  "operate",
+  "-",
+  "and",
+  "determine",
+  "which",
+  "parks",
+  "might",
+  "open",
+  "first",
+  "and",
+  "whether",
+  "the",
+  "state",
+  "would",
+  "be",
+  "repaid",
+  "once",
+  "the",
+  "shutdown",
+  "ends",
+  ".",
+  "\u201c",
+  "We",
+  "\u2019re",
+  "just",
+  "figuring",
+  "this",
+  "out",
+  ",",
+  "\u201d",
+  "said",
+  "Ally",
+  "Isom",
+  ",",
+  "a",
+  "spokeswoman",
+  "for",
+  "Utah",
+  "\u2019s",
+  "governor",
+  ",",
+  "Gary",
+  "R.",
+  "Herbert",
+  ".",
+  "It",
+  "has",
+  "gotten",
+  "so",
+  "bad",
+  "that",
+  "four",
+  "counties",
+  "in",
+  "Utah",
+  "have",
+  "declared",
+  "a",
+  "state",
+  "of",
+  "emergency",
+  ".",
+  "The",
+  "closure",
+  "of",
+  "Zion",
+  "has",
+  "cost",
+  "about",
+  "$3.5",
+  "million",
+  "in",
+  "visitor",
+  "spending",
+  ",",
+  "according",
+  "to",
+  "a",
+  "report",
+  "by",
+  "the",
+  "Coalition",
+  "of",
+  "National",
+  "Park",
+  "Service",
+  "Retirees",
+  ",",
+  "using",
+  "data",
+  "from",
+  "the",
+  "research",
+  "firm",
+  "Headwaters",
+  "Economics",
+  ".",
+  "The",
+  "report",
+  "estimates",
+  "that",
+  "the",
+  "shutdown",
+  "is",
+  "costing",
+  "parks",
+  "communities",
+  "across",
+  "the",
+  "country",
+  "about",
+  "$76",
+  "million",
+  "per",
+  "day",
+  ".",
+  "\u201c",
+  "This",
+  "is",
+  "as",
+  "dangerous",
+  "to",
+  "us",
+  "as",
+  "an",
+  "earthquake",
+  ",",
+  "\u201d",
+  "said",
+  "Rebecca",
+  "McKown",
+  ",",
+  "whose",
+  "family",
+  "owns",
+  "The",
+  "Spotted",
+  "Dog",
+  "restaurant",
+  ".",
+  "As",
+  "the",
+  "closure",
+  "drags",
+  "on",
+  ",",
+  "anger",
+  "has",
+  "turned",
+  "into",
+  "action",
+  ".",
+  "Last",
+  "week",
+  ",",
+  "about",
+  "a",
+  "dozen",
+  "protesters",
+  "climbed",
+  "over",
+  "the",
+  "metal",
+  "gates",
+  "and",
+  "walked",
+  "through",
+  "the",
+  "park",
+  ".",
+  "Another",
+  "protest",
+  "march",
+  "is",
+  "planned",
+  "for",
+  "Saturday",
+  ".",
+  "Similar",
+  "protests",
+  ",",
+  "dubbed",
+  "Occupy",
+  "Yellowstone",
+  "and",
+  "Occupy",
+  "Yosemite",
+  ",",
+  "have",
+  "sprung",
+  "up",
+  "outside",
+  "other",
+  "parks",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   17,
+   65,
+   78,
+   110,
+   147,
+   219,
+   256,
+   295,
+   344,
+   368,
+   385,
+   420,
+   439,
+   463,
+   475,
+   493,
+   501,
+   518
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Zion_National_Park",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Zion"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Utah"
+      },
+      {
+       "label": "Arizona",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Arizona"
+      },
+      {
+       "label": "South_Dakota",
+       "score": 1.0,
+       "start": 260,
+       "end": 262,
+       "tokens": "South Dakota"
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 1.0,
+       "start": 46,
+       "end": 49,
+       "tokens": "Zion National Park"
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "Zion"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 354,
+       "end": 356,
+       "tokens": "Ally Isom"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 404,
+       "end": 410,
+       "tokens": "Coalition of National Park Service Retirees"
+      },
+      {
+       "label": "Yellowstone_National_Park",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "Yellowstone"
+      },
+      {
+       "label": "Colorado",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Colo."
+      },
+      {
+       "label": "Tennessee",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "Tenn."
+      },
+      {
+       "label": "California",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "California"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "Utah"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 417,
+       "end": 419,
+       "tokens": "Headwaters Economics"
+      },
+      {
+       "label": "Gary_Herbert",
+       "score": 1.0,
+       "start": 364,
+       "end": 367,
+       "tokens": "Gary R. Herbert"
+      },
+      {
+       "label": "Yosemite_National_Park",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "Yosemite"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 31,
+       "end": 33,
+       "tokens": "New York"
+      },
+      {
+       "label": "United_States_Department_of_the_Interior",
+       "score": 1.0,
+       "start": 270,
+       "end": 272,
+       "tokens": "Interior Department"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Utah"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "Utah"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 452,
+       "end": 454,
+       "tokens": "Rebecca McKown"
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 1.0,
+       "start": 127,
+       "end": 129,
+       "tokens": "Zion Park"
+      },
+      {
+       "label": "New_Zealand",
+       "score": 1.0,
+       "start": 98,
+       "end": 100,
+       "tokens": "New Zealand"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "Utah"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 127,
+       "end": 130,
+       "tokens": "Zion Park Inn"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Utah"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 121,
+       "end": 123,
+       "tokens": "Dean Cook"
+      },
+      {
+       "label": "Germany",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Germany"
+      },
+      {
+       "label": "Estes_Park,_Colorado",
+       "score": 1.0,
+       "start": 198,
+       "end": 200,
+       "tokens": "Estes Park"
+      },
+      {
+       "label": "Gatlinburg,_Tennessee",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Gatlinburg"
+      },
+      {
+       "label": "Colorado",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Colorado"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 459,
+       "end": 461,
+       "tokens": "Spotted Dog"
+      },
+      {
+       "label": "National_Park_Service",
+       "score": 1.0,
+       "start": 406,
+       "end": 409,
+       "tokens": "National Park Service"
+      },
+      {
+       "label": "Springdale,_Utah",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "SPRINGDALE"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Zion"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Utah"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Arizona"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 260,
+       "end": 262,
+       "tokens": "South Dakota"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 46,
+       "end": 49,
+       "tokens": "Zion National Park"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "Zion"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 354,
+       "end": 356,
+       "tokens": "Ally Isom"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 404,
+       "end": 410,
+       "tokens": "Coalition of National Park Service Retirees"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "Yellowstone"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Colo."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "Tenn."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "California"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "Utah"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 417,
+       "end": 419,
+       "tokens": "Headwaters Economics"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 364,
+       "end": 367,
+       "tokens": "Gary R. Herbert"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "Yosemite"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 31,
+       "end": 33,
+       "tokens": "New York"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 270,
+       "end": 272,
+       "tokens": "Interior Department"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Utah"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "Utah"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 452,
+       "end": 454,
+       "tokens": "Rebecca McKown"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 127,
+       "end": 129,
+       "tokens": "Zion Park"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 98,
+       "end": 100,
+       "tokens": "New Zealand"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "Utah"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 127,
+       "end": 130,
+       "tokens": "Zion Park Inn"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Utah"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 121,
+       "end": 123,
+       "tokens": "Dean Cook"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Germany"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 198,
+       "end": 200,
+       "tokens": "Estes Park"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Gatlinburg"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Colorado"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 459,
+       "end": 461,
+       "tokens": "Spotted Dog"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 406,
+       "end": 409,
+       "tokens": "National Park Service"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "SPRINGDALE"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "OUTSIDE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "OUTSIDE"
+      },
+      {
+       "label": "NATIONAL",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "NATIONAL"
+      },
+      {
+       "label": "PARKS",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "PARKS"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": ","
+      },
+      {
+       "label": "FEELING",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "FEELING"
+      },
+      {
+       "label": "SQUEEZED",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "SQUEEZED"
+      },
+      {
+       "label": "BY",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "BY"
+      },
+      {
+       "label": "THE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "THE"
+      },
+      {
+       "label": "SHUTDOWN",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "SHUTDOWN"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": ";"
+      },
+      {
+       "label": "SPRINGDALE",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "SPRINGDALE"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": ","
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Utah"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "-"
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "In"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "the"
+      },
+      {
+       "label": "10",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "10"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "days"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "since"
+      },
+      {
+       "label": "Zion",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Zion"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "National"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Park"
+      },
+      {
+       "label": "closed",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "closed"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "its"
+      },
+      {
+       "label": "gates",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "gates"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "the"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "community"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "on"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "its"
+      },
+      {
+       "label": "doorstep",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "doorstep"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "has"
+      },
+      {
+       "label": "become",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "become"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "a"
+      },
+      {
+       "label": "shutdown",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "shutdown"
+      },
+      {
+       "label": "ghost",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "ghost"
+      },
+      {
+       "label": "town",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "town"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "."
+      },
+      {
+       "label": "Hotel",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Hotel"
+      },
+      {
+       "label": "rooms",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "rooms"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "are"
+      },
+      {
+       "label": "dark",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "dark"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "and"
+      },
+      {
+       "label": "housecleaners",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "housecleaners"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "are"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "working"
+      },
+      {
+       "label": "half",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "half"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "-"
+      },
+      {
+       "label": "shifts",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "shifts"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "."
+      },
+      {
+       "label": "Herds",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "Herds"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "of"
+      },
+      {
+       "label": "campers",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "campers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "and"
+      },
+      {
+       "label": "sightseers",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "sightseers"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "have"
+      },
+      {
+       "label": "streamed",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "streamed"
+      },
+      {
+       "label": "away",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "away"
+      },
+      {
+       "label": "along",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "along"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "the"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "only"
+      },
+      {
+       "label": "highway",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "highway"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "out"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "of"
+      },
+      {
+       "label": "town",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "town"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "and"
+      },
+      {
+       "label": "canceled",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "canceled"
+      },
+      {
+       "label": "reservations",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "reservations"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "from"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "New"
+      },
+      {
+       "label": "Zealand",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Zealand"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": ","
+      },
+      {
+       "label": "California",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "California"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "and"
+      },
+      {
+       "label": "Germany",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Germany"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "are"
+      },
+      {
+       "label": "piling",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "piling"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "up"
+      },
+      {
+       "label": "every",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "every"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "The"
+      },
+      {
+       "label": "phone",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "phone"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "still"
+      },
+      {
+       "label": "ringing",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "ringing"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": ","
+      },
+      {
+       "label": "unfortunately",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "unfortunately"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "said"
+      },
+      {
+       "label": "Dean",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "Dean"
+      },
+      {
+       "label": "Cook",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "Cook"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": ","
+      },
+      {
+       "label": "manager",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "manager"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "the"
+      },
+      {
+       "label": "Zion",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "Zion"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "Park"
+      },
+      {
+       "label": "Inn",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "Inn"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "which"
+      },
+      {
+       "label": "lost",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "lost"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "about"
+      },
+      {
+       "label": "$19,000",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "$19,000"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "in"
+      },
+      {
+       "label": "business",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "business"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "during"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "first"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "week"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "the"
+      },
+      {
+       "label": "federal",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "federal"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "government"
+      },
+      {
+       "label": "shutdown",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "shutdown"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "We"
+      },
+      {
+       "label": "thought",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "thought"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "of"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "not"
+      },
+      {
+       "label": "answering",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "answering"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "it"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "a"
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "while"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "The"
+      },
+      {
+       "label": "shutdown",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "shutdown"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "has"
+      },
+      {
+       "label": "pinched",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "pinched"
+      },
+      {
+       "label": "millions",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "millions"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "of"
+      },
+      {
+       "label": "Americans",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "Americans"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": ","
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "from"
+      },
+      {
+       "label": "furloughed",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "furloughed"
+      },
+      {
+       "label": "federal",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "federal"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "workers"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "to"
+      },
+      {
+       "label": "poor",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "poor"
+      },
+      {
+       "label": "mothers",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "mothers"
+      },
+      {
+       "label": "seeking",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "seeking"
+      },
+      {
+       "label": "food",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "food"
+      },
+      {
+       "label": "aid",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "aid"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "but"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "its"
+      },
+      {
+       "label": "economic",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "economic"
+      },
+      {
+       "label": "toll",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "toll"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "is"
+      },
+      {
+       "label": "particularly",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "particularly"
+      },
+      {
+       "label": "concentrated",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "concentrated"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "in"
+      },
+      {
+       "label": "gateway",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "gateway"
+      },
+      {
+       "label": "communities",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "communities"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "to"
+      },
+      {
+       "label": "national",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "national"
+      },
+      {
+       "label": "parks",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "parks"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": ","
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "from"
+      },
+      {
+       "label": "Gatlinburg",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Gatlinburg"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": ","
+      },
+      {
+       "label": "Tenn.",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "Tenn."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": ","
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "to"
+      },
+      {
+       "label": "Estes",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "Estes"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "Park"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": ","
+      },
+      {
+       "label": "Colo.",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Colo."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": ","
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "to"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "here"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "in"
+      },
+      {
+       "label": "southwest",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "southwest"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Utah"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": ","
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "where"
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "local"
+      },
+      {
+       "label": "businesses",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "businesses"
+      },
+      {
+       "label": "live",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "live"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "or"
+      },
+      {
+       "label": "die",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "die"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "on"
+      },
+      {
+       "label": "tourist",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "tourist"
+      },
+      {
+       "label": "traffic",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "traffic"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "."
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "On"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "Thursday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": ","
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "people"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "here"
+      },
+      {
+       "label": "welcomed",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "welcomed"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "the"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "news"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "that"
+      },
+      {
+       "label": "federal",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "federal"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "officials"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "would"
+      },
+      {
+       "label": "allow",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "allow"
+      },
+      {
+       "label": "states",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "states"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "to"
+      },
+      {
+       "label": "reopen",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "reopen"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "some"
+      },
+      {
+       "label": "national",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "national"
+      },
+      {
+       "label": "parks",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "parks"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "if"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "they"
+      },
+      {
+       "label": "used",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "used"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "their"
+      },
+      {
+       "label": "own",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "own"
+      },
+      {
+       "label": "money",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "money"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "to"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "run"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "them"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "-"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "an"
+      },
+      {
+       "label": "expensive",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "expensive"
+      },
+      {
+       "label": "proposition",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "proposition"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "for"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "any"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "state"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "government"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "."
+      },
+      {
+       "label": "Governors",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Governors"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "in"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "Utah"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": ","
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "South"
+      },
+      {
+       "label": "Dakota",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "Dakota"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": ","
+      },
+      {
+       "label": "Colorado",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Colorado"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "and"
+      },
+      {
+       "label": "Arizona",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Arizona"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "been"
+      },
+      {
+       "label": "urging",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "urging"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "the"
+      },
+      {
+       "label": "Interior",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "Interior"
+      },
+      {
+       "label": "Department",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Department"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "to"
+      },
+      {
+       "label": "reopen",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "reopen"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "the"
+      },
+      {
+       "label": "parks",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "parks"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": ","
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "or"
+      },
+      {
+       "label": "allow",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "allow"
+      },
+      {
+       "label": "states",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "states"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "to"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "do"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "so"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "if"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "they"
+      },
+      {
+       "label": "paid",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "paid"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "for"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "some"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "day"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "-"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "to"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "-"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "day"
+      },
+      {
+       "label": "operations",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "operations"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "In"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Utah"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": ","
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "officials"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "were"
+      },
+      {
+       "label": "scrambling",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "scrambling"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "to"
+      },
+      {
+       "label": "find",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "find"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "the"
+      },
+      {
+       "label": "money",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "money"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "to"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "put"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "the"
+      },
+      {
+       "label": "park",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "park"
+      },
+      {
+       "label": "rangers",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "rangers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "and"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "employees"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "back"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "to"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "work"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "-"
+      },
+      {
+       "label": "Zion",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Zion"
+      },
+      {
+       "label": "alone",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "alone"
+      },
+      {
+       "label": "costs",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "costs"
+      },
+      {
+       "label": "$50,000",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "$50,000"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "a"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "day"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "to"
+      },
+      {
+       "label": "operate",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "operate"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "-"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "and"
+      },
+      {
+       "label": "determine",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "determine"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "which"
+      },
+      {
+       "label": "parks",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "parks"
+      },
+      {
+       "label": "might",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "might"
+      },
+      {
+       "label": "open",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "open"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "first"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "and"
+      },
+      {
+       "label": "whether",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "whether"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "the"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "state"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "be"
+      },
+      {
+       "label": "repaid",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "repaid"
+      },
+      {
+       "label": "once",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "once"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "the"
+      },
+      {
+       "label": "shutdown",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "shutdown"
+      },
+      {
+       "label": "ends",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "ends"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "We"
+      },
+      {
+       "label": "\u2019re",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "\u2019re"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "just"
+      },
+      {
+       "label": "figuring",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "figuring"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "this"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "out"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "said"
+      },
+      {
+       "label": "Ally",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "Ally"
+      },
+      {
+       "label": "Isom",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "Isom"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "a"
+      },
+      {
+       "label": "spokeswoman",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "spokeswoman"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "for"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "Utah"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "governor",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "governor"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": ","
+      },
+      {
+       "label": "Gary",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "Gary"
+      },
+      {
+       "label": "R.",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "R."
+      },
+      {
+       "label": "Herbert",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "Herbert"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "It"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "has"
+      },
+      {
+       "label": "gotten",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "gotten"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "so"
+      },
+      {
+       "label": "bad",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "bad"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "that"
+      },
+      {
+       "label": "four",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "four"
+      },
+      {
+       "label": "counties",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "counties"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "in"
+      },
+      {
+       "label": "Utah",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "Utah"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "have"
+      },
+      {
+       "label": "declared",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "declared"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "a"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "state"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "of"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "emergency"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "The"
+      },
+      {
+       "label": "closure",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "closure"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "of"
+      },
+      {
+       "label": "Zion",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "Zion"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "has"
+      },
+      {
+       "label": "cost",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "cost"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "about"
+      },
+      {
+       "label": "$3.5",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "$3.5"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "million"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "in"
+      },
+      {
+       "label": "visitor",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "visitor"
+      },
+      {
+       "label": "spending",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "spending"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "a"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "report"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "the"
+      },
+      {
+       "label": "Coalition",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "Coalition"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "of"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "National"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "Park"
+      },
+      {
+       "label": "Service",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "Service"
+      },
+      {
+       "label": "Retirees",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "Retirees"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": ","
+      },
+      {
+       "label": "using",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "using"
+      },
+      {
+       "label": "data",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "data"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "the"
+      },
+      {
+       "label": "research",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "research"
+      },
+      {
+       "label": "firm",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "firm"
+      },
+      {
+       "label": "Headwaters",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "Headwaters"
+      },
+      {
+       "label": "Economics",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "Economics"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "The"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "report"
+      },
+      {
+       "label": "estimates",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "estimates"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "the"
+      },
+      {
+       "label": "shutdown",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "shutdown"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "is"
+      },
+      {
+       "label": "costing",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "costing"
+      },
+      {
+       "label": "parks",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "parks"
+      },
+      {
+       "label": "communities",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "communities"
+      },
+      {
+       "label": "across",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "across"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "country"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "about"
+      },
+      {
+       "label": "$76",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "$76"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "million"
+      },
+      {
+       "label": "per",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "per"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "This"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "is"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "as"
+      },
+      {
+       "label": "dangerous",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "dangerous"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "to"
+      },
+      {
+       "label": "us",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "us"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "as"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "an"
+      },
+      {
+       "label": "earthquake",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "earthquake"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "said"
+      },
+      {
+       "label": "Rebecca",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "Rebecca"
+      },
+      {
+       "label": "McKown",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "McKown"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": ","
+      },
+      {
+       "label": "whose",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "whose"
+      },
+      {
+       "label": "family",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "family"
+      },
+      {
+       "label": "owns",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "owns"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "The"
+      },
+      {
+       "label": "Spotted",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "Spotted"
+      },
+      {
+       "label": "Dog",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "Dog"
+      },
+      {
+       "label": "restaurant",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "restaurant"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "."
+      },
+      {
+       "label": "As",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "As"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "the"
+      },
+      {
+       "label": "closure",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "closure"
+      },
+      {
+       "label": "drags",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "drags"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "on"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": ","
+      },
+      {
+       "label": "anger",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "anger"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "has"
+      },
+      {
+       "label": "turned",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "turned"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "into"
+      },
+      {
+       "label": "action",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "action"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "."
+      },
+      {
+       "label": "Last",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "Last"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "week"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": ","
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "about"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "a"
+      },
+      {
+       "label": "dozen",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "dozen"
+      },
+      {
+       "label": "protesters",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "protesters"
+      },
+      {
+       "label": "climbed",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "climbed"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "over"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "the"
+      },
+      {
+       "label": "metal",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "metal"
+      },
+      {
+       "label": "gates",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "gates"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "and"
+      },
+      {
+       "label": "walked",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "walked"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "through"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "the"
+      },
+      {
+       "label": "park",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "park"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "."
+      },
+      {
+       "label": "Another",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "Another"
+      },
+      {
+       "label": "protest",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "protest"
+      },
+      {
+       "label": "march",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "march"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "is"
+      },
+      {
+       "label": "planned",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "planned"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "for"
+      },
+      {
+       "label": "Saturday",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Saturday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "."
+      },
+      {
+       "label": "Similar",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "Similar"
+      },
+      {
+       "label": "protests",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "protests"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": ","
+      },
+      {
+       "label": "dubbed",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "dubbed"
+      },
+      {
+       "label": "Occupy",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "Occupy"
+      },
+      {
+       "label": "Yellowstone",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "Yellowstone"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "and"
+      },
+      {
+       "label": "Occupy",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "Occupy"
+      },
+      {
+       "label": "Yosemite",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "Yosemite"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": ","
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "have"
+      },
+      {
+       "label": "sprung",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "sprung"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "up"
+      },
+      {
+       "label": "outside",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "outside"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "other"
+      },
+      {
+       "label": "parks",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "parks"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Zion_National_Park",
+       "score": 0.6342824921384671,
+       "start": 316,
+       "end": 317,
+       "tokens": "Zion",
+       "labelScoreMap": {
+        "Zion_National_Park": 0.6342824921384671,
+        "Zion,_Illinois": 0.19638680467286082,
+        "Zion_&_Lennox": 0.06944170478360359,
+        "Zion_Wilderness": 0.037143273115653457,
+        "Sion,_Switzerland": 0.01812293458460067,
+        "Zion_I": 0.011304497172566522,
+        "Mount_Zion": 0.008423961061525178,
+        "The_Matrix_Reloaded": 0.008074635221152824,
+        "Independence,_Missouri": 0.007775905708203288,
+        "Land_of_Israel": 0.005490948684114542,
+        "Rastafari": 0.003552842857252037,
+        "<unk_wid>": 4.1646458337072015e-29
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8972461371626871,
+       "start": 207,
+       "end": 208,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "Utah": 0.8972461371626871,
+        "University_of_Utah": 0.022901614080586986,
+        "Utah_County,_Utah": 0.009858409922972277,
+        "Utah_Utes_football": 0.009816883293101836,
+        "Utah_Jazz": 0.008249927264058207,
+        "Utah_Air_National_Guard": 0.008102609923879006,
+        "Utah_Beach": 0.007888333740626396,
+        "Utah_Utes_men's_basketball": 0.007098151092713663,
+        "Miss_Utah_USA": 0.0023705210566563923,
+        "United_States_Senate_election_in_Utah,_2010": 0.002316944483664075,
+        "Utah_Territory": 0.0022533338773849166,
+        "Utah_Republican_Party": 0.0021562356075476518,
+        "USS_Utah_(BB-31)": 0.0020089078478914774,
+        "Utah_Democratic_Party": 0.001995516310001049,
+        "Interstate_15_in_Utah": 0.0019285586205483988,
+        "Episcopal_Diocese_of_Utah": 0.0019017651233371074,
+        "Utah_Railway": 0.0018348074338845417,
+        "United_States_District_Court_for_the_District_of_Utah": 0.0017946328202130411,
+        "Utah_State_Legislature": 0.0015535538742365263,
+        "Utah_Supreme_Court": 0.0014330196114641024,
+        "Utah_Department_of_Corrections": 0.0013794534598860345,
+        "Utah_Governor's_Mansion": 0.001352670384105008,
+        "San_Antonio_Stars": 0.0012990938111126905,
+        "Interstate_215_(Utah)": 0.0012589191974411514,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Arizona",
+       "score": 0.9162222131810306,
+       "start": 265,
+       "end": 266,
+       "tokens": "Arizona",
+       "labelScoreMap": {
+        "Arizona": 0.9162222131810306,
+        "University_of_Arizona": 0.02084311731295907,
+        "Arizona_Wildcats_men's_basketball": 0.00942952957735891,
+        "Arizona_Wildcats_football": 0.008298838968855799,
+        "Arizona_Air_National_Guard": 0.006773476559234275,
+        "United_States_Senate_election_in_Arizona,_2010": 0.005653453044365171,
+        "USS_Arizona_(BB-39)": 0.00398941841306741,
+        "Meteor_Crater": 0.0027840581461668653,
+        "Arizona_Republican_Party": 0.0027200555821432853,
+        "Miss_Arizona_USA": 0.002229379935734278,
+        "Arizona_Democratic_Party": 0.0021227089956949775,
+        "Arizona_State_Legislature": 0.002112041901691104,
+        "Arizona_Cardinals": 0.0019520461694924045,
+        "United_States_District_Court_for_the_District_of_Arizona": 0.0019200448911544693,
+        "Interstate_15_in_Arizona": 0.0015253624092466706,
+        "Episcopal_Diocese_of_Arizona": 0.0015040282212388104,
+        "Arizona_National_Guard": 0.001322698300943775,
+        "United_States_House_of_Representatives_elections_in_Arizona,_2012": 0.001312031206939845,
+        "Arizona_Diamondbacks": 0.0012906970654709953,
+        "Miss_Arizona": 0.001280029924928055,
+        "Sonoran_Desert": 0.0012480286429660116,
+        "Arizona_Rattlers": 0.0011946931728966145,
+        "Arizona_Supreme_Court": 0.001162691955555215,
+        "Arizona_gubernatorial_election,_2010": 0.001109356420865174,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "South_Dakota",
+       "score": 0.9257311861339226,
+       "start": 260,
+       "end": 262,
+       "tokens": "South Dakota",
+       "labelScoreMap": {
+        "South_Dakota": 0.9257311861339226,
+        "South_Dakota_Air_National_Guard": 0.012838219445306684,
+        "South_Dakota_Republican_Party": 0.0061775208556399674,
+        "South_Dakota-class_battleship_(1939)": 0.0059704516246271554,
+        "Miss_South_Dakota_USA": 0.005797902029614972,
+        "University_of_South_Dakota": 0.005659847821254136,
+        "USS_South_Dakota_(BB-57)": 0.005383763567589393,
+        "Episcopal_Diocese_of_South_Dakota": 0.004969625105563816,
+        "United_States_District_Court_for_the_District_of_South_Dakota": 0.004831583000304603,
+        "South_Dakota_Legislature": 0.0042794024330196564,
+        "Governor_of_South_Dakota": 0.003692702229740361,
+        "South_Dakota_Supreme_Court": 0.0035546601247762387,
+        "South_Dakota-class_battleship_(1920)": 0.002484818625905763,
+        "Government_of_South_Dakota": 0.002381284010399368,
+        "South_Dakota_Department_of_Transportation": 0.0017945838071138974,
+        "Pierre,_South_Dakota": 0.0017605613205892473,
+        "Constitution_Party_(United_States)": 0.001414964981088921,
+        "Deadwood,_South_Dakota": 0.001276922883542913,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 0.9987364194310271,
+       "start": 46,
+       "end": 49,
+       "tokens": "Zion National Park",
+       "labelScoreMap": {
+        "Zion_National_Park": 0.9987364194310271,
+        "Kolob_Canyons": 0.0012635805689727975,
+        "<unk_wid>": 2.8637529932600927e-39
+       }
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 0.6342007255735203,
+       "start": 388,
+       "end": 389,
+       "tokens": "Zion",
+       "labelScoreMap": {
+        "Zion_National_Park": 0.6342007255735203,
+        "Zion,_Illinois": 0.19642912354689346,
+        "Zion_&_Lennox": 0.06943993216317874,
+        "Zion_Wilderness": 0.037142324975781876,
+        "Sion,_Switzerland": 0.01817702498606226,
+        "Zion_I": 0.0113042086194174,
+        "Mount_Zion": 0.00840365180969046,
+        "The_Matrix_Reloaded": 0.008074430905258008,
+        "Independence,_Missouri": 0.007785054846098875,
+        "Land_of_Israel": 0.005490770387999432,
+        "Rastafari": 0.003552752186099293,
+        "<unk_wid>": 5.9122753175911724e-30
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 354,
+       "end": 356,
+       "tokens": "Ally Isom",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 404,
+       "end": 410,
+       "tokens": "Coalition of National Park Service Retirees",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Yellowstone_National_Park",
+       "score": 0.7156768572018075,
+       "start": 506,
+       "end": 507,
+       "tokens": "Yellowstone",
+       "labelScoreMap": {
+        "Yellowstone_National_Park": 0.7156768572018075,
+        "Yellowstone_Caldera": 0.12243004744270221,
+        "Yellowstone_County,_Montana": 0.09613677398733257,
+        "Yellowstone_River": 0.042326604504295526,
+        "Yellowstone_hotspot": 0.01963392093839237,
+        "Greater_Yellowstone_Ecosystem": 0.002240752186467245,
+        "Geothermal_areas_of_Yellowstone": 0.0015550437390025656,
+        "<unk_wid>": 5.33763309053648e-35
+       }
+      },
+      {
+       "label": "Colo_River",
+       "score": 0.42669201074350005,
+       "start": 201,
+       "end": 202,
+       "tokens": "Colo.",
+       "labelScoreMap": {
+        "Breast": 0.3992652448548976,
+        "Colorado": 0.1389610476164538,
+        "Colo_River": 0.42669201074350005,
+        "Colo-Colo": 0.018969589291669267,
+        "Large_intestine": 0.01157300072524944,
+        "Colorado_Supreme_Court": 0.004539106768229786,
+        "<unk_wid>": 8.638473103923624e-39
+       }
+      },
+      {
+       "label": "Tennessee",
+       "score": 0.6315139718311833,
+       "start": 195,
+       "end": 196,
+       "tokens": "Tenn.",
+       "labelScoreMap": {
+        "Tennessee": 0.6315139718311833,
+        "Tin": 0.259329972651041,
+        "Emperor_of_Japan": 0.024037696450719626,
+        "William_Tenn": 0.06113135519771382,
+        "Tennessee_Court_of_Appeals": 0.022484665595114174,
+        "Tennessee_Volunteers_football": 0.001502338274228088,
+        "<unk_wid>": 5.265359035963065e-35
+       }
+      },
+      {
+       "label": "California",
+       "score": 0.9729522350382924,
+       "start": 101,
+       "end": 102,
+       "tokens": "California",
+       "labelScoreMap": {
+        "California": 0.9729522350382924,
+        "University_of_California,_Berkeley": 0.005412969977527712,
+        "California_Golden_Bears_football": 0.005281913118978667,
+        "California_Trail": 0.0030329260310042734,
+        "California,_Missouri": 0.0030142642716029597,
+        "United_States_Senate_election_in_California,_2010": 0.0016560574199376884,
+        "California,_Pennsylvania": 0.0015766277035141143,
+        "California_Air_National_Guard": 0.001564715419654449,
+        "University_of_California": 0.0015528041704777722,
+        "Auto_Club_Speedway": 0.0014694062810915202,
+        "Ferrari_California": 0.0013065797096679028,
+        "Miss_California": 0.001179500858250526,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8968803403968011,
+       "start": 360,
+       "end": 361,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "Utah": 0.8968803403968011,
+        "University_of_Utah": 0.022893471455119677,
+        "Utah_County,_Utah": 0.009881768067736937,
+        "Utah_Utes_football": 0.009813443454724123,
+        "Utah_Jazz": 0.008246992160845032,
+        "Utah_Air_National_Guard": 0.008099724012704226,
+        "Utah_Beach": 0.00788696379962294,
+        "Utah_Utes_men's_basketball": 0.00709565672232109,
+        "Miss_Utah_USA": 0.002369676746826379,
+        "United_States_Senate_election_in_Utah,_2010": 0.002316119256232469,
+        "Utah_Territory": 0.0026265058410062437,
+        "Utah_Republican_Party": 0.0021554676198876537,
+        "USS_Utah_(BB-31)": 0.002008192334043544,
+        "Utah_Democratic_Party": 0.0019948055667399047,
+        "Interstate_15_in_Utah": 0.0019278717247584857,
+        "Episcopal_Diocese_of_Utah": 0.001901087770573882,
+        "Utah_Railway": 0.001834153929479567,
+        "United_States_District_Court_for_the_District_of_Utah": 0.0017939936259973972,
+        "Utah_State_Legislature": 0.0015530034879291572,
+        "Utah_Supreme_Court": 0.001432509365127817,
+        "Utah_Department_of_Corrections": 0.0013789621391647672,
+        "Utah_Governor's_Mansion": 0.0013521886027271107,
+        "San_Antonio_Stars": 0.0012986311121327568,
+        "Interstate_215_(Utah)": 0.0012584708074977347,
+        "<unk_wid>": 1.8991193558774674e-42
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 417,
+       "end": 419,
+       "tokens": "Headwaters Economics",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Gary_Herbert",
+       "score": 1.0,
+       "start": 364,
+       "end": 367,
+       "tokens": "Gary R. Herbert",
+       "labelScoreMap": {
+        "Gary_Herbert": 1.0,
+        "<unk_wid>": 3.880282401781874e-29
+       }
+      },
+      {
+       "label": "Yosemite_National_Park",
+       "score": 0.6241878602389574,
+       "start": 509,
+       "end": 510,
+       "tokens": "Yosemite",
+       "labelScoreMap": {
+        "Yosemite_National_Park": 0.6241878602389574,
+        "Yosemite_Valley": 0.3479809719887402,
+        "Yosemite_Falls": 0.004213966778340866,
+        "El_Capitan": 0.02290251047093143,
+        "Fresno_Yosemite_International_Airport": 0.0007146905230302438,
+        "<unk_wid>": 6.807584197661553e-32
+       }
+      },
+      {
+       "label": "New_York",
+       "score": 0.6944444333412902,
+       "start": 31,
+       "end": 33,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.6944444333412902,
+        "New_York_City": 0.2310899798733869,
+        "New_York_(magazine)": 0.04680081271173303,
+        "New_York_(film)": 0.0033102861784066948,
+        "Province_of_New_York": 0.0027833720689770217,
+        "New_York_Knicks": 0.002651221115136094,
+        "Manhattan": 0.003599702360528234,
+        "New_York_metropolitan_area": 0.006534311087256798,
+        "New_York's_at-large_congressional_seat": 0.0017285405556193745,
+        "Eastern_Air_Defense_Sector": 0.0012671967209765369,
+        "New_York_Air_National_Guard": 0.0011503619552013429,
+        "Peekskill,_New_York": 0.000982604611025791,
+        "New_York_Liberty": 0.0009706231833928324,
+        "New_York_Yankees": 0.0009340464120497741,
+        "September_11_attacks": 0.0008807454483467789,
+        "New_York_GAA": 0.0008717623766728598,
+        "<unk_wid>": 1.228790139141087e-37
+       }
+      },
+      {
+       "label": "United_States_Department_of_the_Interior",
+       "score": 0.9892724323496385,
+       "start": 270,
+       "end": 272,
+       "tokens": "Interior Department",
+       "labelScoreMap": {
+        "United_States_Department_of_the_Interior": 0.9892724323496385,
+        "United_States_Secretary_of_the_Interior": 0.010727567650361567,
+        "<unk_wid>": 1.842764065511934e-41
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8972253170815895,
+       "start": 39,
+       "end": 40,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "Utah": 0.8972253170815895,
+        "University_of_Utah": 0.022901150095821686,
+        "Utah_County,_Utah": 0.00986326426752223,
+        "Utah_Utes_football": 0.00981668631530335,
+        "Utah_Jazz": 0.008249760123046918,
+        "Utah_Air_National_Guard": 0.00810244569707699,
+        "Utah_Beach": 0.00788824351547404,
+        "Utah_Utes_men's_basketball": 0.0070980091446939024,
+        "Miss_Utah_USA": 0.0023704730100274785,
+        "United_States_Senate_election_in_Utah,_2010": 0.0023168975229456673,
+        "Utah_Territory": 0.0022710629203360993,
+        "Utah_Republican_Party": 0.002156191904138312,
+        "USS_Utah_(BB-31)": 0.0020088671305776118,
+        "Utah_Democratic_Party": 0.0019954758641269102,
+        "Interstate_15_in_Utah": 0.0019285195317837512,
+        "Episcopal_Diocese_of_Utah": 0.0019017265776330285,
+        "Utah_Railway": 0.0018347702453045639,
+        "United_States_District_Court_for_the_District_of_Utah": 0.0017945964459212382,
+        "Utah_State_Legislature": 0.0015535224073730787,
+        "Utah_Supreme_Court": 0.001432990569278842,
+        "Utah_Department_of_Corrections": 0.0013794255005948465,
+        "Utah_Governor's_Mansion": 0.0013526429676634605,
+        "San_Antonio_Stars": 0.001299067480581649,
+        "Interstate_215_(Utah)": 0.0012588936811847888,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8972410956680418,
+       "start": 258,
+       "end": 259,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "Utah": 0.8972410956680418,
+        "University_of_Utah": 0.02290150171612328,
+        "Utah_County,_Utah": 0.009860561384243025,
+        "Utah_Utes_football": 0.009816835651458683,
+        "Utah_Jazz": 0.008249886792699989,
+        "Utah_Air_National_Guard": 0.008102570165574079,
+        "Utah_Beach": 0.007888305370068792,
+        "Utah_Utes_men's_basketball": 0.007098117187671774,
+        "Miss_Utah_USA": 0.002370509424861219,
+        "United_States_Senate_election_in_Utah,_2010": 0.0023169331147611973,
+        "Utah_Territory": 0.002256656866901961,
+        "Utah_Republican_Party": 0.002156225027219389,
+        "USS_Utah_(BB-31)": 0.0020088979904786764,
+        "Utah_Democratic_Party": 0.001995506518304652,
+        "Interstate_15_in_Utah": 0.0019285491573973522,
+        "Episcopal_Diocese_of_Utah": 0.0019017557916577617,
+        "Utah_Railway": 0.0018347984307566455,
+        "United_States_District_Court_for_the_District_of_Utah": 0.0017946240142168765,
+        "Utah_State_Legislature": 0.0015535462529058938,
+        "Utah_Supreme_Court": 0.0014330125800292189,
+        "Utah_Department_of_Corrections": 0.00137944669111254,
+        "Utah_Governor's_Mansion": 0.0013526637467520931,
+        "San_Antonio_Stars": 0.0012990874366520715,
+        "Interstate_215_(Utah)": 0.001258913020111418,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 452,
+       "end": 454,
+       "tokens": "Rebecca McKown",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 1.0,
+       "start": 127,
+       "end": 129,
+       "tokens": "Zion Park",
+       "labelScoreMap": {
+        "Zion_National_Park": 1.0,
+        "<unk_wid>": 5.237730979846189e-36
+       }
+      },
+      {
+       "label": "New_Zealand",
+       "score": 0.8762106540799325,
+       "start": 98,
+       "end": 100,
+       "tokens": "New Zealand",
+       "labelScoreMap": {
+        "New_Zealand": 0.8762106540799325,
+        "New_Zealand_national_cricket_team": 0.03457995263113089,
+        "New_Zealand_national_football_team": 0.026743854428249624,
+        "New_Zealand_national_rugby_union_team": 0.013370625089384424,
+        "New_Zealand_national_rugby_league_team": 0.010993415074421522,
+        "Recorded_Music_NZ": 0.0060422200433707714,
+        "New_Zealand_English": 0.004443087898324949,
+        "New_Zealand_men's_national_basketball_team": 0.0034904735354185697,
+        "New_Zealand_women's_national_football_team": 0.0030635801991899464,
+        "New_Zealand_women's_national_cricket_team": 0.0028941336486638697,
+        "New_Zealand_Rugby_Union": 0.002636685469742196,
+        "New_Zealand_Football": 0.002391849996696589,
+        "New_Zealand_national_rugby_sevens_team": 0.0022097915125632917,
+        "Cartoon_Network_(Australia_and_New_Zealand)": 0.0018896236680296659,
+        "A1_Team_New_Zealand": 0.0017954527875219202,
+        "New_Zealand_national_netball_team": 0.001657344431782434,
+        "National_Basketball_League_(New_Zealand)": 0.0015820112820295914,
+        "Mitre_10_Cup": 0.0014376188699240903,
+        "New_Zealand_men's_national_ice_hockey_team": 0.0013308926059118734,
+        "Ardmore,_New_Zealand": 0.0012367327477112347,
+        "<unk_wid>": 1.297633673072538e-35
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8971999034760346,
+       "start": 377,
+       "end": 378,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "Utah": 0.8971999034760346,
+        "University_of_Utah": 0.022900583312525043,
+        "Utah_County,_Utah": 0.009866750008715728,
+        "Utah_Utes_football": 0.009816443222667113,
+        "Utah_Jazz": 0.008249555984287829,
+        "Utah_Air_National_Guard": 0.008102245215188139,
+        "Utah_Beach": 0.007888077862745488,
+        "Utah_Utes_men's_basketball": 0.00709783336336678,
+        "Miss_Utah_USA": 0.0023704143565141706,
+        "United_States_Senate_election_in_Utah,_2010": 0.002316840195070969,
+        "Utah_Territory": 0.0022952044926727697,
+        "Utah_Republican_Party": 0.0021561385526637296,
+        "USS_Utah_(BB-31)": 0.0020088174244158124,
+        "Utah_Democratic_Party": 0.0019954264893036863,
+        "Interstate_15_in_Utah": 0.0019284718136928617,
+        "Episcopal_Diocese_of_Utah": 0.001901679522490592,
+        "Utah_Railway": 0.0018347248468880688,
+        "United_States_District_Court_for_the_District_of_Utah": 0.0017945520415292731,
+        "Utah_State_Legislature": 0.0015534839721787794,
+        "Utah_Supreme_Court": 0.0014329551102347958,
+        "Utah_Department_of_Corrections": 0.0013793913689461779,
+        "Utah_Governor's_Mansion": 0.0013526094987051684,
+        "San_Antonio_Stars": 0.0012990353372619664,
+        "Interstate_215_(Utah)": 0.001258862531900542,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 127,
+       "end": 130,
+       "tokens": "Zion Park Inn",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8972222351625353,
+       "start": 296,
+       "end": 297,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "Utah": 0.8972222351625353,
+        "University_of_Utah": 0.02290108165666522,
+        "Utah_County,_Utah": 0.009868296971231046,
+        "Utah_Utes_football": 0.009816658475286802,
+        "Utah_Jazz": 0.008249735463527976,
+        "Utah_Air_National_Guard": 0.008102421425019182,
+        "Utah_Beach": 0.007888223350897478,
+        "Utah_Utes_men's_basketball": 0.007097990017739019,
+        "Miss_Utah_USA": 0.002370465908929849,
+        "United_States_Senate_election_in_Utah,_2010": 0.0023168905823412233,
+        "Utah_Territory": 0.0022693762682766037,
+        "Utah_Republican_Party": 0.0021561854449509876,
+        "USS_Utah_(BB-31)": 0.002008861112723133,
+        "Utah_Democratic_Party": 0.00199546988641051,
+        "Interstate_15_in_Utah": 0.0019285137546224674,
+        "Episcopal_Diocese_of_Utah": 0.0019017208807337027,
+        "Utah_Railway": 0.0018347647489826973,
+        "United_States_District_Court_for_the_District_of_Utah": 0.0017945910699620083,
+        "Utah_State_Legislature": 0.0015535177576394804,
+        "Utah_Supreme_Court": 0.0014329862785559362,
+        "Utah_Department_of_Corrections": 0.0013794213683245733,
+        "Utah_Governor's_Mansion": 0.0013526389156241709,
+        "San_Antonio_Stars": 0.001299063589035545,
+        "Interstate_215_(Utah)": 0.0012588899099852896,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 121,
+       "end": 123,
+       "tokens": "Dean Cook",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Germany",
+       "score": 0.9098168129280968,
+       "start": 103,
+       "end": 104,
+       "tokens": "Germany",
+       "labelScoreMap": {
+        "Germany": 0.9098168129280968,
+        "Germany_national_football_team": 0.03318176607895044,
+        "Nazi_Germany": 0.020755634719504038,
+        "German_Empire": 0.010729817243550207,
+        "Germany_women's_national_football_team": 0.0026881364391289236,
+        "German_Football_Association": 0.0026847429989672674,
+        "Germany_national_basketball_team": 0.0025268237342396683,
+        "Bundeswehr": 0.002510369317501466,
+        "Germany_men's_national_ice_hockey_team": 0.0022438626289294256,
+        "Weimar_Republic": 0.0019807023600280295,
+        "Germany_Davis_Cup_team": 0.0017536354145944598,
+        "German_Papiermark": 0.001700997124123407,
+        "Germany_national_rugby_union_team": 0.0016944248956835665,
+        "Allied_advance_from_Paris_to_the_Rhine": 0.0015134543307170729,
+        "Bundesliga": 0.0014410754850954829,
+        "Germany_national_cricket_team": 0.0014180425365153194,
+        "GfK_Entertainment_Charts": 0.00135970176437452,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Estes_Park,_Colorado",
+       "score": 1.0,
+       "start": 198,
+       "end": 200,
+       "tokens": "Estes Park",
+       "labelScoreMap": {
+        "Estes_Park,_Colorado": 1.0,
+        "<unk_wid>": 4.5542200090556555e-43
+       }
+      },
+      {
+       "label": "Gatlinburg,_Tennessee",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Gatlinburg",
+       "labelScoreMap": {
+        "Gatlinburg,_Tennessee": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Colorado",
+       "score": 0.8776489080102919,
+       "start": 263,
+       "end": 264,
+       "tokens": "Colorado",
+       "labelScoreMap": {
+        "Colorado": 0.8776489080102919,
+        "Colorado_River": 0.026739129185472638,
+        "University_of_Colorado_Boulder": 0.020906347190793866,
+        "Colorado_Buffaloes_football": 0.014967445014151967,
+        "Colorado_Avalanche": 0.005458000883127776,
+        "Colorado_Air_National_Guard": 0.004772750434373764,
+        "Colorado_Republican_Party": 0.003089667156948089,
+        "Colorado_River_(Argentina)": 0.003041577560303472,
+        "Colorado_Buffaloes_men's_basketball": 0.00290933642997845,
+        "Colorado_Desert": 0.002873264090700277,
+        "United_States_Senate_election_in_Colorado,_2010": 0.002753050501462954,
+        "Isuzu_D-Max": 0.0024645129200005014,
+        "Colorado_County,_Texas": 0.0024524957874625746,
+        "Colorado_Democratic_Party": 0.002416433845977819,
+        "Colorado_Rockies": 0.002224075462470721,
+        "Colorado_General_Assembly": 0.0022120583209695385,
+        "Chevrolet_Colorado": 0.0021399239254657524,
+        "Colorado_National_Monument": 0.002007682795127071,
+        "United_States_District_Court_for_the_District_of_Colorado": 0.0018874588028511177,
+        "Colorado_Rapids": 0.0018513968666121058,
+        "Colorado_Mammoth": 0.001767234810575029,
+        "Episcopal_Diocese_of_Colorado": 0.0017431900121198229,
+        "Colorado_River_(Texas)": 0.001659596062967761,
+        "Colorado_Party_(Uruguay)": 0.0016229765427322157,
+        "Colorado_Department_of_Military_and_Veterans_Affairs": 0.0014907354126717663,
+        "Governor_of_Colorado": 0.0014065733566346879,
+        "Miss_Colorado": 0.0013945562188509488,
+        "Rocky_Mountains": 0.0013826338336817132,
+        "Colorado_National_Speedway": 0.0013584942826120057,
+        "Colorado_gubernatorial_election,_2010": 0.0013584942826120057
+       }
+      },
+      {
+       "label": "Pulmonaria",
+       "score": 1.0,
+       "start": 459,
+       "end": 461,
+       "tokens": "Spotted Dog",
+       "labelScoreMap": {
+        "Pulmonaria": 1.0,
+        "<unk_wid>": 8.284231606177045e-21
+       }
+      },
+      {
+       "label": "National_Park_Service",
+       "score": 1.0,
+       "start": 406,
+       "end": 409,
+       "tokens": "National Park Service",
+       "labelScoreMap": {
+        "National_Park_Service": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Springdale,_Arkansas",
+       "score": 0.6470265471412427,
+       "start": 37,
+       "end": 38,
+       "tokens": "SPRINGDALE",
+       "labelScoreMap": {
+        "Springdale,_Arkansas": 0.6470265471412427,
+        "Springdale,_Utah": 0.11731054766035363,
+        "Springdale,_Pennsylvania": 0.10551058846909872,
+        "Springdale,_Ohio": 0.06330612482396776,
+        "Springdale,_Washington": 0.05556888987661877,
+        "Springdale,_Newfoundland_and_Labrador": 0.011277302028718544,
+        "<unk_wid>": 4.516667408407405e-33
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Zion_National_Park",
+       "score": 0.6342824921384671,
+       "start": 316,
+       "end": 317,
+       "tokens": "Zion",
+       "labelScoreMap": {
+        "5550114|Zion_National_Park": 0.6342824921384671,
+        "4917358|Zion,_Illinois": 0.19638680467286082,
+        "2658576|Sion,_Switzerland": 0.01812293458460067,
+        "8354430|Mount_Zion": 0.008423961061525178,
+        "4391812|Independence,_Missouri": 0.007775905708203288
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8972461371626871,
+       "start": 207,
+       "end": 208,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "5549030|Utah": 0.8972461371626871,
+        "5783965|University_of_Utah": 0.022901614080586986,
+        "5784025|Utah_County,_Utah": 0.009858409922972277,
+        "3336572|Utah_Beach": 0.007888333740626396,
+        "5853845|USS_Utah_(BB-31)": 0.0020089078478914774
+       }
+      },
+      {
+       "label": "Arizona",
+       "score": 0.9162222131810306,
+       "start": 265,
+       "end": 266,
+       "tokens": "Arizona",
+       "labelScoreMap": {
+        "5551752|Arizona": 0.9162222131810306,
+        "5318972|University_of_Arizona": 0.02084311731295907,
+        "5853844|USS_Arizona_(BB-39)": 0.00398941841306741,
+        "5304577|Meteor_Crater": 0.0027840581461668653
+       }
+      },
+      {
+       "label": "South_Dakota",
+       "score": 0.9257311861339226,
+       "start": 260,
+       "end": 262,
+       "tokens": "South Dakota",
+       "labelScoreMap": {
+        "5769223|South_Dakota": 0.9257311861339226,
+        "5232544|University_of_South_Dakota": 0.005659847821254136,
+        "5767918|Pierre,_South_Dakota": 0.0017605613205892473,
+        "5764048|Deadwood,_South_Dakota": 0.001276922883542913
+       }
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 0.9987364194310271,
+       "start": 46,
+       "end": 49,
+       "tokens": "Zion National Park",
+       "labelScoreMap": {
+        "5550114|Zion_National_Park": 0.9987364194310271
+       }
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 0.6342007255735203,
+       "start": 388,
+       "end": 389,
+       "tokens": "Zion",
+       "labelScoreMap": {
+        "5550114|Zion_National_Park": 0.6342007255735203,
+        "4917358|Zion,_Illinois": 0.19642912354689346,
+        "2658576|Sion,_Switzerland": 0.01817702498606226,
+        "8354430|Mount_Zion": 0.00840365180969046,
+        "4391812|Independence,_Missouri": 0.007785054846098875
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 354,
+       "end": 356,
+       "tokens": "Ally Isom",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 404,
+       "end": 410,
+       "tokens": "Coalition of National Park Service Retirees",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Yellowstone_National_Park",
+       "score": 0.7156768572018075,
+       "start": 506,
+       "end": 507,
+       "tokens": "Yellowstone",
+       "labelScoreMap": {
+        "5843642|Yellowstone_National_Park": 0.7156768572018075,
+        "5687489|Yellowstone_County,_Montana": 0.09613677398733257,
+        "5831491|Geothermal_areas_of_Yellowstone": 0.0015550437390025656
+       }
+      },
+      {
+       "label": "Colo_River",
+       "score": 0.42669201074350005,
+       "start": 201,
+       "end": 202,
+       "tokens": "Colo.",
+       "labelScoreMap": {
+        "5417618|Colorado": 0.1389610476164538,
+        "2170959|Colo_River": 0.42669201074350005
+       }
+      },
+      {
+       "label": "Tennessee",
+       "score": 0.6315139718311833,
+       "start": 195,
+       "end": 196,
+       "tokens": "Tenn.",
+       "labelScoreMap": {
+        "4662168|Tennessee": 0.6315139718311833
+       }
+      },
+      {
+       "label": "California",
+       "score": 0.9729522350382924,
+       "start": 101,
+       "end": 102,
+       "tokens": "California",
+       "labelScoreMap": {
+        "5332921|California": 0.9729522350382924,
+        "5404897|University_of_California,_Berkeley": 0.005412969977527712,
+        "4379545|California,_Missouri": 0.0030142642716029597,
+        "5182733|California,_Pennsylvania": 0.0015766277035141143,
+        "6943265|Auto_Club_Speedway": 0.0014694062810915202
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8968803403968011,
+       "start": 360,
+       "end": 361,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "5549030|Utah": 0.8968803403968011,
+        "5783965|University_of_Utah": 0.022893471455119677,
+        "5784025|Utah_County,_Utah": 0.009881768067736937,
+        "3336572|Utah_Beach": 0.00788696379962294,
+        "5853845|USS_Utah_(BB-31)": 0.002008192334043544
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 417,
+       "end": 419,
+       "tokens": "Headwaters Economics",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Gary_Herbert",
+       "score": 1.0,
+       "start": 364,
+       "end": 367,
+       "tokens": "Gary R. Herbert",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Yosemite_National_Park",
+       "score": 0.6241878602389574,
+       "start": 509,
+       "end": 510,
+       "tokens": "Yosemite",
+       "labelScoreMap": {
+        "5410952|Yosemite_National_Park": 0.6241878602389574,
+        "5410959|Yosemite_Valley": 0.3479809719887402,
+        "5410935|Yosemite_Falls": 0.004213966778340866,
+        "5334090|El_Capitan": 0.02290251047093143,
+        "7724963|Fresno_Yosemite_International_Airport": 0.0007146905230302438
+       }
+      },
+      {
+       "label": "New_York",
+       "score": 0.6944444333412902,
+       "start": 31,
+       "end": 33,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.6944444333412902,
+        "5128581|New_York_City": 0.2310899798733869,
+        "5128594|Manhattan": 0.003599702360528234,
+        "5130831|Peekskill,_New_York": 0.000982604611025791
+       }
+      },
+      {
+       "label": "United_States_Department_of_the_Interior",
+       "score": 0.9892724323496385,
+       "start": 270,
+       "end": 272,
+       "tokens": "Interior Department",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Utah",
+       "score": 0.8972253170815895,
+       "start": 39,
+       "end": 40,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "5549030|Utah": 0.8972253170815895,
+        "5783965|University_of_Utah": 0.022901150095821686,
+        "5784025|Utah_County,_Utah": 0.00986326426752223,
+        "3336572|Utah_Beach": 0.00788824351547404,
+        "5853845|USS_Utah_(BB-31)": 0.0020088671305776118
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8972410956680418,
+       "start": 258,
+       "end": 259,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "5549030|Utah": 0.8972410956680418,
+        "5783965|University_of_Utah": 0.02290150171612328,
+        "5784025|Utah_County,_Utah": 0.009860561384243025,
+        "3336572|Utah_Beach": 0.007888305370068792,
+        "5853845|USS_Utah_(BB-31)": 0.0020088979904786764
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 452,
+       "end": 454,
+       "tokens": "Rebecca McKown",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Zion_National_Park",
+       "score": 1.0,
+       "start": 127,
+       "end": 129,
+       "tokens": "Zion Park",
+       "labelScoreMap": {
+        "5550114|Zion_National_Park": 1.0
+       }
+      },
+      {
+       "label": "New_Zealand",
+       "score": 0.8762106540799325,
+       "start": 98,
+       "end": 100,
+       "tokens": "New Zealand",
+       "labelScoreMap": {
+        "2186224|New_Zealand": 0.8762106540799325
+       }
+      },
+      {
+       "label": "Utah",
+       "score": 0.8971999034760346,
+       "start": 377,
+       "end": 378,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "5549030|Utah": 0.8971999034760346,
+        "5783965|University_of_Utah": 0.022900583312525043,
+        "5784025|Utah_County,_Utah": 0.009866750008715728,
+        "3336572|Utah_Beach": 0.007888077862745488,
+        "5853845|USS_Utah_(BB-31)": 0.0020088174244158124
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 127,
+       "end": 130,
+       "tokens": "Zion Park Inn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Utah",
+       "score": 0.8972222351625353,
+       "start": 296,
+       "end": 297,
+       "tokens": "Utah",
+       "labelScoreMap": {
+        "5549030|Utah": 0.8972222351625353,
+        "5783965|University_of_Utah": 0.02290108165666522,
+        "5784025|Utah_County,_Utah": 0.009868296971231046,
+        "3336572|Utah_Beach": 0.007888223350897478,
+        "5853845|USS_Utah_(BB-31)": 0.002008861112723133
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 121,
+       "end": 123,
+       "tokens": "Dean Cook",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Germany",
+       "score": 0.9098168129280968,
+       "start": 103,
+       "end": 104,
+       "tokens": "Germany",
+       "labelScoreMap": {
+        "2921044|Germany": 0.9098168129280968
+       }
+      },
+      {
+       "label": "Estes_Park,_Colorado",
+       "score": 1.0,
+       "start": 198,
+       "end": 200,
+       "tokens": "Estes Park",
+       "labelScoreMap": {
+        "5576882|Estes_Park,_Colorado": 1.0
+       }
+      },
+      {
+       "label": "Gatlinburg,_Tennessee",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Gatlinburg",
+       "labelScoreMap": {
+        "4624443|Gatlinburg,_Tennessee": 1.0
+       }
+      },
+      {
+       "label": "Colorado",
+       "score": 0.8776489080102919,
+       "start": 263,
+       "end": 264,
+       "tokens": "Colorado",
+       "labelScoreMap": {
+        "5417618|Colorado": 0.8776489080102919,
+        "5583011|University_of_Colorado_Boulder": 0.020906347190793866,
+        "4682626|Colorado_County,_Texas": 0.0024524957874625746,
+        "5417588|Colorado_National_Monument": 0.002007682795127071,
+        "5836950|Rocky_Mountains": 0.0013826338336817132
+       }
+      },
+      {
+       "label": "Pulmonaria",
+       "score": 1.0,
+       "start": 459,
+       "end": 461,
+       "tokens": "Spotted Dog",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Park_Service",
+       "score": 1.0,
+       "start": 406,
+       "end": 409,
+       "tokens": "National Park Service",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Springdale,_Arkansas",
+       "score": 0.6470265471412427,
+       "start": 37,
+       "end": 38,
+       "tokens": "SPRINGDALE",
+       "labelScoreMap": {
+        "4132093|Springdale,_Arkansas": 0.6470265471412427,
+        "5547516|Springdale,_Utah": 0.11731054766035363,
+        "5213447|Springdale,_Pennsylvania": 0.10551058846909872,
+        "4525310|Springdale,_Ohio": 0.06330612482396776,
+        "5811837|Springdale,_Washington": 0.05556888987661877,
+        "6154159|Springdale,_Newfoundland_and_Labrador": 0.011277302028718544
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

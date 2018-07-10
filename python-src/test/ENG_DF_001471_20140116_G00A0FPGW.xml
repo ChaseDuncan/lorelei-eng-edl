@@ -1,0 +1,7820 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_DF_001471_20140116_G00A0FPGW.xml",
+ "text": "UK Court Allows Activists to Sue Google Over Safari Tracking\nA UK Court will allow a group of privacy experts to sue Google over the company's circumvention of privacy settings in Apple's Safari browser, reports Gigaom. Following this ruling, the activists can pursue a tort claim that alleges Google misused their private information. The Honourable Mr Justice Tugendhat writes in his decision:\n\"I am satisfied that there is a serious issue to be tried in each of the Claimants' claims for misuse of private information... The Claimants' application to rely on ground (9) in relation to the DPA [Data Protection Act] claim is allowed... the Claimants have clearly established that this jurisdiction is the appropriate one in which to try each of the above claims.\"\nThis case stems from Google's former practice of installing cookies in Safari even when the web browser blocked that practice. Google circumvented the browser's default privacy settings by tricking Safari into thinking a web page was a trusted page. Google did this through code embedded in its ads that made Safari think the user was submitting a form. When a user fills out a form, Safari makes an exception in its privacy policy and allows a cookie to be installed on a user's device, and Google exploited this exception to install cookies without the permission of the user.\nGraphic from The Wall Street Journal\nGoogle halted this practice in 2012 after it was reported by The Wall Street Journal, but consumers and regulators pursued the case through several investigations and lawsuits. The company was fined $22.5 million by the U.S. Federal Trade Commission for this privacy violation and paid a $17 million settlement in a case filed on behalf of Thirty-seven states and the District of Columbia.\nArticle Link: UK Court Allows Activists to Sue Google Over Safari Tracking\nGoogle's going down!\nGood. Next up, everybody else who thinks its a good idea to take personal information without permission...*COUGH*... NSA.\nI'm all for privacy, but where does this cash go?\nThe company was fined $22.5 million by the U.S. Federal Trade Commission for this privacy violation and paid a $17 million settlement in a case filed on behalf of Thirty-seven states and the District of Columbia.\nWhy are 37 states getting paid because Google screws me?\nI admit I have little knowledge on the UK court system.\nHowever - my only question is - what damage occurred and is that an important metric to prove in order to win a case.\nWhere is our share of the cash when we are the actual victims instead of some of the states and not all of them?\nGoogle's going down!\nI'm sure they'll get a stern talking to and some serious finger wagging!\nI'm all for privacy, but where does this cash go?\nWhy are 37 states getting paid because Google screws me?\nThe idea is that having to pay a fine stops Google from doing it again. So the important thing is Google paying out. Who receives it is secondary.\nDoes anyone know if Apple has made any changes to Safari to prevent others from exploiting the same approach?\nThe idea is that having to pay a fine stops Google from doing it again. So the important thing is Google paying out. Who receives it is secondary.\nBy this logic, the company that killed someone by a poor product only need to pay the government and the actual victim is only secondary? Him...don't know if I can agree to that.\nThe idea is that having to pay a fine stops Google from doing it again. So the important thing is Google paying out. Who receives it is secondary.\nPaying a fine of $22.5 million means nothing to a company like Google, like paying $10 to the average person. There is nothing about the amount that would deter them from doing something like that again. It is ironic that Google got rid of their motto \"Don't be evil\". Didn't Google also once use the motto \"Do no harm\"? My how times have changed.\nBlah blah blah Sue Google blah blah\nA good day today.\nAt least we can sue Google, unlike the NSA.",
+ "tokens": [
+  "UK",
+  "Court",
+  "Allows",
+  "Activists",
+  "to",
+  "Sue",
+  "Google",
+  "Over",
+  "Safari",
+  "Tracking",
+  "A",
+  "UK",
+  "Court",
+  "will",
+  "allow",
+  "a",
+  "group",
+  "of",
+  "privacy",
+  "experts",
+  "to",
+  "sue",
+  "Google",
+  "over",
+  "the",
+  "company",
+  "'s",
+  "circumvention",
+  "of",
+  "privacy",
+  "settings",
+  "in",
+  "Apple",
+  "'s",
+  "Safari",
+  "browser",
+  ",",
+  "reports",
+  "Gigaom",
+  ".",
+  "Following",
+  "this",
+  "ruling",
+  ",",
+  "the",
+  "activists",
+  "can",
+  "pursue",
+  "a",
+  "tort",
+  "claim",
+  "that",
+  "alleges",
+  "Google",
+  "misused",
+  "their",
+  "private",
+  "information",
+  ".",
+  "The",
+  "Honourable",
+  "Mr",
+  "Justice",
+  "Tugendhat",
+  "writes",
+  "in",
+  "his",
+  "decision",
+  ":",
+  "\"",
+  "I",
+  "am",
+  "satisfied",
+  "that",
+  "there",
+  "is",
+  "a",
+  "serious",
+  "issue",
+  "to",
+  "be",
+  "tried",
+  "in",
+  "each",
+  "of",
+  "the",
+  "Claimants",
+  "'",
+  "claims",
+  "for",
+  "misuse",
+  "of",
+  "private",
+  "information",
+  "...",
+  "The",
+  "Claimants",
+  "'",
+  "application",
+  "to",
+  "rely",
+  "on",
+  "ground",
+  "(",
+  "9",
+  ")",
+  "in",
+  "relation",
+  "to",
+  "the",
+  "DPA",
+  "[",
+  "Data",
+  "Protection",
+  "Act",
+  "]",
+  "claim",
+  "is",
+  "allowed",
+  "...",
+  "the",
+  "Claimants",
+  "have",
+  "clearly",
+  "established",
+  "that",
+  "this",
+  "jurisdiction",
+  "is",
+  "the",
+  "appropriate",
+  "one",
+  "in",
+  "which",
+  "to",
+  "try",
+  "each",
+  "of",
+  "the",
+  "above",
+  "claims",
+  ".",
+  "\"",
+  "This",
+  "case",
+  "stems",
+  "from",
+  "Google",
+  "'s",
+  "former",
+  "practice",
+  "of",
+  "installing",
+  "cookies",
+  "in",
+  "Safari",
+  "even",
+  "when",
+  "the",
+  "web",
+  "browser",
+  "blocked",
+  "that",
+  "practice",
+  ".",
+  "Google",
+  "circumvented",
+  "the",
+  "browser",
+  "'s",
+  "default",
+  "privacy",
+  "settings",
+  "by",
+  "tricking",
+  "Safari",
+  "into",
+  "thinking",
+  "a",
+  "web",
+  "page",
+  "was",
+  "a",
+  "trusted",
+  "page",
+  ".",
+  "Google",
+  "did",
+  "this",
+  "through",
+  "code",
+  "embedded",
+  "in",
+  "its",
+  "ads",
+  "that",
+  "made",
+  "Safari",
+  "think",
+  "the",
+  "user",
+  "was",
+  "submitting",
+  "a",
+  "form",
+  ".",
+  "When",
+  "a",
+  "user",
+  "fills",
+  "out",
+  "a",
+  "form",
+  ",",
+  "Safari",
+  "makes",
+  "an",
+  "exception",
+  "in",
+  "its",
+  "privacy",
+  "policy",
+  "and",
+  "allows",
+  "a",
+  "cookie",
+  "to",
+  "be",
+  "installed",
+  "on",
+  "a",
+  "user",
+  "'s",
+  "device",
+  ",",
+  "and",
+  "Google",
+  "exploited",
+  "this",
+  "exception",
+  "to",
+  "install",
+  "cookies",
+  "without",
+  "the",
+  "permission",
+  "of",
+  "the",
+  "user",
+  ".",
+  "Graphic",
+  "from",
+  "The",
+  "Wall",
+  "Street",
+  "Journal",
+  "Google",
+  "halted",
+  "this",
+  "practice",
+  "in",
+  "2012",
+  "after",
+  "it",
+  "was",
+  "reported",
+  "by",
+  "The",
+  "Wall",
+  "Street",
+  "Journal",
+  ",",
+  "but",
+  "consumers",
+  "and",
+  "regulators",
+  "pursued",
+  "the",
+  "case",
+  "through",
+  "several",
+  "investigations",
+  "and",
+  "lawsuits",
+  ".",
+  "The",
+  "company",
+  "was",
+  "fined",
+  "$22.5",
+  "million",
+  "by",
+  "the",
+  "U.S.",
+  "Federal",
+  "Trade",
+  "Commission",
+  "for",
+  "this",
+  "privacy",
+  "violation",
+  "and",
+  "paid",
+  "a",
+  "$17",
+  "million",
+  "settlement",
+  "in",
+  "a",
+  "case",
+  "filed",
+  "on",
+  "behalf",
+  "of",
+  "Thirty",
+  "-",
+  "seven",
+  "states",
+  "and",
+  "the",
+  "District",
+  "of",
+  "Columbia",
+  ".",
+  "Article",
+  "Link",
+  ":",
+  "UK",
+  "Court",
+  "Allows",
+  "Activists",
+  "to",
+  "Sue",
+  "Google",
+  "Over",
+  "Safari",
+  "Tracking",
+  "Google",
+  "'s",
+  "going",
+  "down",
+  "!",
+  "Good",
+  ".",
+  "Next",
+  "up",
+  ",",
+  "everybody",
+  "else",
+  "who",
+  "thinks",
+  "its",
+  "a",
+  "good",
+  "idea",
+  "to",
+  "take",
+  "personal",
+  "information",
+  "without",
+  "permission",
+  "...",
+  "*",
+  "COUGH",
+  "*",
+  "...",
+  "NSA",
+  ".",
+  "I",
+  "'m",
+  "all",
+  "for",
+  "privacy",
+  ",",
+  "but",
+  "where",
+  "does",
+  "this",
+  "cash",
+  "go",
+  "?",
+  "The",
+  "company",
+  "was",
+  "fined",
+  "$22.5",
+  "million",
+  "by",
+  "the",
+  "U.S.",
+  "Federal",
+  "Trade",
+  "Commission",
+  "for",
+  "this",
+  "privacy",
+  "violation",
+  "and",
+  "paid",
+  "a",
+  "$17",
+  "million",
+  "settlement",
+  "in",
+  "a",
+  "case",
+  "filed",
+  "on",
+  "behalf",
+  "of",
+  "Thirty",
+  "-",
+  "seven",
+  "states",
+  "and",
+  "the",
+  "District",
+  "of",
+  "Columbia",
+  ".",
+  "Why",
+  "are",
+  "37",
+  "states",
+  "getting",
+  "paid",
+  "because",
+  "Google",
+  "screws",
+  "me",
+  "?",
+  "I",
+  "admit",
+  "I",
+  "have",
+  "little",
+  "knowledge",
+  "on",
+  "the",
+  "UK",
+  "court",
+  "system",
+  ".",
+  "However",
+  "-",
+  "my",
+  "only",
+  "question",
+  "is",
+  "-",
+  "what",
+  "damage",
+  "occurred",
+  "and",
+  "is",
+  "that",
+  "an",
+  "important",
+  "metric",
+  "to",
+  "prove",
+  "in",
+  "order",
+  "to",
+  "win",
+  "a",
+  "case",
+  ".",
+  "Where",
+  "is",
+  "our",
+  "share",
+  "of",
+  "the",
+  "cash",
+  "when",
+  "we",
+  "are",
+  "the",
+  "actual",
+  "victims",
+  "instead",
+  "of",
+  "some",
+  "of",
+  "the",
+  "states",
+  "and",
+  "not",
+  "all",
+  "of",
+  "them",
+  "?",
+  "Google",
+  "'s",
+  "going",
+  "down",
+  "!",
+  "I",
+  "'m",
+  "sure",
+  "they",
+  "'ll",
+  "get",
+  "a",
+  "stern",
+  "talking",
+  "to",
+  "and",
+  "some",
+  "serious",
+  "finger",
+  "wagging",
+  "!",
+  "I",
+  "'m",
+  "all",
+  "for",
+  "privacy",
+  ",",
+  "but",
+  "where",
+  "does",
+  "this",
+  "cash",
+  "go",
+  "?",
+  "Why",
+  "are",
+  "37",
+  "states",
+  "getting",
+  "paid",
+  "because",
+  "Google",
+  "screws",
+  "me",
+  "?",
+  "The",
+  "idea",
+  "is",
+  "that",
+  "having",
+  "to",
+  "pay",
+  "a",
+  "fine",
+  "stops",
+  "Google",
+  "from",
+  "doing",
+  "it",
+  "again",
+  ".",
+  "So",
+  "the",
+  "important",
+  "thing",
+  "is",
+  "Google",
+  "paying",
+  "out",
+  ".",
+  "Who",
+  "receives",
+  "it",
+  "is",
+  "secondary",
+  ".",
+  "Does",
+  "anyone",
+  "know",
+  "if",
+  "Apple",
+  "has",
+  "made",
+  "any",
+  "changes",
+  "to",
+  "Safari",
+  "to",
+  "prevent",
+  "others",
+  "from",
+  "exploiting",
+  "the",
+  "same",
+  "approach",
+  "?",
+  "The",
+  "idea",
+  "is",
+  "that",
+  "having",
+  "to",
+  "pay",
+  "a",
+  "fine",
+  "stops",
+  "Google",
+  "from",
+  "doing",
+  "it",
+  "again",
+  ".",
+  "So",
+  "the",
+  "important",
+  "thing",
+  "is",
+  "Google",
+  "paying",
+  "out",
+  ".",
+  "Who",
+  "receives",
+  "it",
+  "is",
+  "secondary",
+  ".",
+  "By",
+  "this",
+  "logic",
+  ",",
+  "the",
+  "company",
+  "that",
+  "killed",
+  "someone",
+  "by",
+  "a",
+  "poor",
+  "product",
+  "only",
+  "need",
+  "to",
+  "pay",
+  "the",
+  "government",
+  "and",
+  "the",
+  "actual",
+  "victim",
+  "is",
+  "only",
+  "secondary",
+  "?",
+  "Him",
+  "...",
+  "do",
+  "n't",
+  "know",
+  "if",
+  "I",
+  "can",
+  "agree",
+  "to",
+  "that",
+  ".",
+  "The",
+  "idea",
+  "is",
+  "that",
+  "having",
+  "to",
+  "pay",
+  "a",
+  "fine",
+  "stops",
+  "Google",
+  "from",
+  "doing",
+  "it",
+  "again",
+  ".",
+  "So",
+  "the",
+  "important",
+  "thing",
+  "is",
+  "Google",
+  "paying",
+  "out",
+  ".",
+  "Who",
+  "receives",
+  "it",
+  "is",
+  "secondary",
+  ".",
+  "Paying",
+  "a",
+  "fine",
+  "of",
+  "$22.5",
+  "million",
+  "means",
+  "nothing",
+  "to",
+  "a",
+  "company",
+  "like",
+  "Google",
+  ",",
+  "like",
+  "paying",
+  "$10",
+  "to",
+  "the",
+  "average",
+  "person",
+  ".",
+  "There",
+  "is",
+  "nothing",
+  "about",
+  "the",
+  "amount",
+  "that",
+  "would",
+  "deter",
+  "them",
+  "from",
+  "doing",
+  "something",
+  "like",
+  "that",
+  "again",
+  ".",
+  "It",
+  "is",
+  "ironic",
+  "that",
+  "Google",
+  "got",
+  "rid",
+  "of",
+  "their",
+  "motto",
+  "\"",
+  "Do",
+  "n't",
+  "be",
+  "evil",
+  "\"",
+  ".",
+  "Did",
+  "n't",
+  "Google",
+  "also",
+  "once",
+  "use",
+  "the",
+  "motto",
+  "\"",
+  "Do",
+  "no",
+  "harm",
+  "\"",
+  "?",
+  "My",
+  "how",
+  "times",
+  "have",
+  "changed",
+  ".",
+  "Blah",
+  "blah",
+  "blah",
+  "Sue",
+  "Google",
+  "blah",
+  "blah",
+  "A",
+  "good",
+  "day",
+  "today",
+  ".",
+  "At",
+  "least",
+  "we",
+  "can",
+  "sue",
+  "Google",
+  ",",
+  "unlike",
+  "the",
+  "NSA",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   40,
+   59,
+   143,
+   165,
+   186,
+   206,
+   250,
+   285,
+   324,
+   342,
+   344,
+   368,
+   381,
+   420,
+   431,
+   443,
+   468,
+   493,
+   498,
+   514,
+   527,
+   538,
+   554,
+   563,
+   569,
+   589,
+   605,
+   614,
+   620,
+   647,
+   659,
+   675,
+   684,
+   690,
+   712,
+   729,
+   746,
+   760,
+   766,
+   778,
+   789
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "UK"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "Google"
+      },
+      {
+       "label": "Federal_Trade_Commission",
+       "score": 1.0,
+       "start": 294,
+       "end": 297,
+       "tokens": "Federal Trade Commission"
+      },
+      {
+       "label": "The_Wall_Street_Journal",
+       "score": 1.0,
+       "start": 268,
+       "end": 271,
+       "tokens": "Wall Street Journal"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 748,
+       "end": 749,
+       "tokens": "Google"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 770,
+       "end": 771,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 783,
+       "end": 784,
+       "tokens": "Google"
+      },
+      {
+       "label": "Michael_Tugendhat",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Tugendhat"
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 1.0,
+       "start": 320,
+       "end": 323,
+       "tokens": "District of Columbia"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Google"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Apple"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "UK"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 733,
+       "end": 734,
+       "tokens": "Google"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "UK"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "UK"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "Google"
+      },
+      {
+       "label": "National_Security_Agency",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "NSA"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "U.S."
+      },
+      {
+       "label": "National_Security_Agency",
+       "score": 1.0,
+       "start": 787,
+       "end": 788,
+       "tokens": "NSA"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "Google"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Google"
+      },
+      {
+       "label": "Gigaom",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Gigaom"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "UK"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 294,
+       "end": 297,
+       "tokens": "Federal Trade Commission"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 268,
+       "end": 271,
+       "tokens": "Wall Street Journal"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 748,
+       "end": 749,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 770,
+       "end": 771,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 783,
+       "end": 784,
+       "tokens": "Google"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Tugendhat"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 320,
+       "end": 323,
+       "tokens": "District of Columbia"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Apple"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "UK"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 733,
+       "end": 734,
+       "tokens": "Google"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "UK"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "UK"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "NSA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "U.S."
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 787,
+       "end": 788,
+       "tokens": "NSA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Google"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Gigaom"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "UK",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "UK"
+      },
+      {
+       "label": "Court",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Court"
+      },
+      {
+       "label": "Allows",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Allows"
+      },
+      {
+       "label": "Activists",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "Activists"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "to"
+      },
+      {
+       "label": "Sue",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Sue"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Google"
+      },
+      {
+       "label": "Over",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Over"
+      },
+      {
+       "label": "Safari",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Safari"
+      },
+      {
+       "label": "Tracking",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Tracking"
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "A"
+      },
+      {
+       "label": "UK",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "UK"
+      },
+      {
+       "label": "Court",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Court"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "will"
+      },
+      {
+       "label": "allow",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "allow"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "a"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "group"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "of"
+      },
+      {
+       "label": "privacy",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "privacy"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "experts"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "to"
+      },
+      {
+       "label": "sue",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "sue"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "Google"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "over"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "company"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "'s"
+      },
+      {
+       "label": "circumvention",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "circumvention"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "of"
+      },
+      {
+       "label": "privacy",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "privacy"
+      },
+      {
+       "label": "settings",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "settings"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "in"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Apple"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "'s"
+      },
+      {
+       "label": "Safari",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "Safari"
+      },
+      {
+       "label": "browser",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "browser"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": ","
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "reports"
+      },
+      {
+       "label": "Gigaom",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Gigaom"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "."
+      },
+      {
+       "label": "Following",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "Following"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "this"
+      },
+      {
+       "label": "ruling",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "ruling"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "the"
+      },
+      {
+       "label": "activists",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "activists"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "can"
+      },
+      {
+       "label": "pursue",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "pursue"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "a"
+      },
+      {
+       "label": "tort",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "tort"
+      },
+      {
+       "label": "claim",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "claim"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "that"
+      },
+      {
+       "label": "alleges",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "alleges"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Google"
+      },
+      {
+       "label": "misused",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "misused"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "their"
+      },
+      {
+       "label": "private",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "private"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "information"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "The"
+      },
+      {
+       "label": "Honourable",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "Honourable"
+      },
+      {
+       "label": "Mr",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Mr"
+      },
+      {
+       "label": "Justice",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Justice"
+      },
+      {
+       "label": "Tugendhat",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Tugendhat"
+      },
+      {
+       "label": "writes",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "writes"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "in"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "his"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "decision"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": ":"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "\""
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "I"
+      },
+      {
+       "label": "am",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "am"
+      },
+      {
+       "label": "satisfied",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "satisfied"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "that"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "there"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "a"
+      },
+      {
+       "label": "serious",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "serious"
+      },
+      {
+       "label": "issue",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "issue"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "be"
+      },
+      {
+       "label": "tried",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "tried"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "in"
+      },
+      {
+       "label": "each",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "each"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "the"
+      },
+      {
+       "label": "Claimants",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "Claimants"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "'"
+      },
+      {
+       "label": "claims",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "claims"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "for"
+      },
+      {
+       "label": "misuse",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "misuse"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "of"
+      },
+      {
+       "label": "private",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "private"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "information"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "..."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "The"
+      },
+      {
+       "label": "Claimants",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Claimants"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "'"
+      },
+      {
+       "label": "application",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "application"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "to"
+      },
+      {
+       "label": "rely",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "rely"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "on"
+      },
+      {
+       "label": "ground",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "ground"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "("
+      },
+      {
+       "label": "9",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "9"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": ")"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "in"
+      },
+      {
+       "label": "relation",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "relation"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "the"
+      },
+      {
+       "label": "DPA",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "DPA"
+      },
+      {
+       "label": "[",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "["
+      },
+      {
+       "label": "Data",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Data"
+      },
+      {
+       "label": "Protection",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "Protection"
+      },
+      {
+       "label": "Act",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Act"
+      },
+      {
+       "label": "]",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "]"
+      },
+      {
+       "label": "claim",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "claim"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "is"
+      },
+      {
+       "label": "allowed",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "allowed"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "..."
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "the"
+      },
+      {
+       "label": "Claimants",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "Claimants"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "have"
+      },
+      {
+       "label": "clearly",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "clearly"
+      },
+      {
+       "label": "established",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "established"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "that"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "this"
+      },
+      {
+       "label": "jurisdiction",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "jurisdiction"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "the"
+      },
+      {
+       "label": "appropriate",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "appropriate"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "one"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "in"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "which"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "to"
+      },
+      {
+       "label": "try",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "try"
+      },
+      {
+       "label": "each",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "each"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "the"
+      },
+      {
+       "label": "above",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "above"
+      },
+      {
+       "label": "claims",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "claims"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "\""
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "This"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "case"
+      },
+      {
+       "label": "stems",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "stems"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "from"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "Google"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "'s"
+      },
+      {
+       "label": "former",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "former"
+      },
+      {
+       "label": "practice",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "practice"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "of"
+      },
+      {
+       "label": "installing",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "installing"
+      },
+      {
+       "label": "cookies",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "cookies"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "in"
+      },
+      {
+       "label": "Safari",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "Safari"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "even"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "when"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "the"
+      },
+      {
+       "label": "web",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "web"
+      },
+      {
+       "label": "browser",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "browser"
+      },
+      {
+       "label": "blocked",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "blocked"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "that"
+      },
+      {
+       "label": "practice",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "practice"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "."
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "Google"
+      },
+      {
+       "label": "circumvented",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "circumvented"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "the"
+      },
+      {
+       "label": "browser",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "browser"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "'s"
+      },
+      {
+       "label": "default",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "default"
+      },
+      {
+       "label": "privacy",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "privacy"
+      },
+      {
+       "label": "settings",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "settings"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "by"
+      },
+      {
+       "label": "tricking",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "tricking"
+      },
+      {
+       "label": "Safari",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "Safari"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "into"
+      },
+      {
+       "label": "thinking",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "thinking"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "a"
+      },
+      {
+       "label": "web",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "web"
+      },
+      {
+       "label": "page",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "page"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "a"
+      },
+      {
+       "label": "trusted",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "trusted"
+      },
+      {
+       "label": "page",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "page"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "."
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "Google"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "did"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "this"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "through"
+      },
+      {
+       "label": "code",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "code"
+      },
+      {
+       "label": "embedded",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "embedded"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "in"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "its"
+      },
+      {
+       "label": "ads",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "ads"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "that"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "made"
+      },
+      {
+       "label": "Safari",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "Safari"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "think"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "the"
+      },
+      {
+       "label": "user",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "user"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "was"
+      },
+      {
+       "label": "submitting",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "submitting"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "a"
+      },
+      {
+       "label": "form",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "form"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "."
+      },
+      {
+       "label": "When",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "When"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "a"
+      },
+      {
+       "label": "user",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "user"
+      },
+      {
+       "label": "fills",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "fills"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "out"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "a"
+      },
+      {
+       "label": "form",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "form"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": ","
+      },
+      {
+       "label": "Safari",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "Safari"
+      },
+      {
+       "label": "makes",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "makes"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "an"
+      },
+      {
+       "label": "exception",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "exception"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "in"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "its"
+      },
+      {
+       "label": "privacy",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "privacy"
+      },
+      {
+       "label": "policy",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "policy"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "and"
+      },
+      {
+       "label": "allows",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "allows"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "a"
+      },
+      {
+       "label": "cookie",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "cookie"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "be"
+      },
+      {
+       "label": "installed",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "installed"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "a"
+      },
+      {
+       "label": "user",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "user"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "'s"
+      },
+      {
+       "label": "device",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "device"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "and"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "Google"
+      },
+      {
+       "label": "exploited",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "exploited"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "this"
+      },
+      {
+       "label": "exception",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "exception"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "to"
+      },
+      {
+       "label": "install",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "install"
+      },
+      {
+       "label": "cookies",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "cookies"
+      },
+      {
+       "label": "without",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "without"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "the"
+      },
+      {
+       "label": "permission",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "permission"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "the"
+      },
+      {
+       "label": "user",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "user"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "."
+      },
+      {
+       "label": "Graphic",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "Graphic"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "from"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "The"
+      },
+      {
+       "label": "Wall",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "Wall"
+      },
+      {
+       "label": "Street",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "Street"
+      },
+      {
+       "label": "Journal",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "Journal"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Google"
+      },
+      {
+       "label": "halted",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "halted"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "this"
+      },
+      {
+       "label": "practice",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "practice"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "in"
+      },
+      {
+       "label": "2012",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "2012"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "after"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "was"
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "reported"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "by"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "The"
+      },
+      {
+       "label": "Wall",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "Wall"
+      },
+      {
+       "label": "Street",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "Street"
+      },
+      {
+       "label": "Journal",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "Journal"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "but"
+      },
+      {
+       "label": "consumers",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "consumers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "and"
+      },
+      {
+       "label": "regulators",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "regulators"
+      },
+      {
+       "label": "pursued",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "pursued"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "the"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "case"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "through"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "several"
+      },
+      {
+       "label": "investigations",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "investigations"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "and"
+      },
+      {
+       "label": "lawsuits",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "lawsuits"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "company"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "was"
+      },
+      {
+       "label": "fined",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "fined"
+      },
+      {
+       "label": "$22.5",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "$22.5"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "million"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "the"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Federal",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "Federal"
+      },
+      {
+       "label": "Trade",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "Trade"
+      },
+      {
+       "label": "Commission",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Commission"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "for"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "this"
+      },
+      {
+       "label": "privacy",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "privacy"
+      },
+      {
+       "label": "violation",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "violation"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "and"
+      },
+      {
+       "label": "paid",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "paid"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "a"
+      },
+      {
+       "label": "$17",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "$17"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "million"
+      },
+      {
+       "label": "settlement",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "settlement"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "a"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "case"
+      },
+      {
+       "label": "filed",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "filed"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "on"
+      },
+      {
+       "label": "behalf",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "behalf"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "of"
+      },
+      {
+       "label": "Thirty",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "Thirty"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "-"
+      },
+      {
+       "label": "seven",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "seven"
+      },
+      {
+       "label": "states",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "states"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "the"
+      },
+      {
+       "label": "District",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "District"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "of"
+      },
+      {
+       "label": "Columbia",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "Columbia"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "."
+      },
+      {
+       "label": "Article",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "Article"
+      },
+      {
+       "label": "Link",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "Link"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": ":"
+      },
+      {
+       "label": "UK",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "UK"
+      },
+      {
+       "label": "Court",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "Court"
+      },
+      {
+       "label": "Allows",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "Allows"
+      },
+      {
+       "label": "Activists",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "Activists"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "to"
+      },
+      {
+       "label": "Sue",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Sue"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "Google"
+      },
+      {
+       "label": "Over",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Over"
+      },
+      {
+       "label": "Safari",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "Safari"
+      },
+      {
+       "label": "Tracking",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "Tracking"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "Google"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "'s"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "going"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "down"
+      },
+      {
+       "label": "!",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "!"
+      },
+      {
+       "label": "Good",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "Good"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "."
+      },
+      {
+       "label": "Next",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "Next"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "up"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": ","
+      },
+      {
+       "label": "everybody",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "everybody"
+      },
+      {
+       "label": "else",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "else"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "who"
+      },
+      {
+       "label": "thinks",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "thinks"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "its"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "a"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "good"
+      },
+      {
+       "label": "idea",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "idea"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "to"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "take"
+      },
+      {
+       "label": "personal",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "personal"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "information"
+      },
+      {
+       "label": "without",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "without"
+      },
+      {
+       "label": "permission",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "permission"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "..."
+      },
+      {
+       "label": "*",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "*"
+      },
+      {
+       "label": "COUGH",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "COUGH"
+      },
+      {
+       "label": "*",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "*"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "..."
+      },
+      {
+       "label": "NSA",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "NSA"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "I"
+      },
+      {
+       "label": "'m",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "'m"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "all"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "for"
+      },
+      {
+       "label": "privacy",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "privacy"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "but"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "where"
+      },
+      {
+       "label": "does",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "does"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "this"
+      },
+      {
+       "label": "cash",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "cash"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "go"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "?"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "company"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "was"
+      },
+      {
+       "label": "fined",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "fined"
+      },
+      {
+       "label": "$22.5",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "$22.5"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "million"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "the"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Federal",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "Federal"
+      },
+      {
+       "label": "Trade",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "Trade"
+      },
+      {
+       "label": "Commission",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "Commission"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "for"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "this"
+      },
+      {
+       "label": "privacy",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "privacy"
+      },
+      {
+       "label": "violation",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "violation"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "and"
+      },
+      {
+       "label": "paid",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "paid"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "a"
+      },
+      {
+       "label": "$17",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "$17"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "million"
+      },
+      {
+       "label": "settlement",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "settlement"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "a"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "case"
+      },
+      {
+       "label": "filed",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "filed"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "on"
+      },
+      {
+       "label": "behalf",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "behalf"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "of"
+      },
+      {
+       "label": "Thirty",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "Thirty"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "-"
+      },
+      {
+       "label": "seven",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "seven"
+      },
+      {
+       "label": "states",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "states"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "the"
+      },
+      {
+       "label": "District",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "District"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "of"
+      },
+      {
+       "label": "Columbia",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "Columbia"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "."
+      },
+      {
+       "label": "Why",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "Why"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "are"
+      },
+      {
+       "label": "37",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "37"
+      },
+      {
+       "label": "states",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "states"
+      },
+      {
+       "label": "getting",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "getting"
+      },
+      {
+       "label": "paid",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "paid"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "because"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Google"
+      },
+      {
+       "label": "screws",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "screws"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "me"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "?"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "I"
+      },
+      {
+       "label": "admit",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "admit"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "have"
+      },
+      {
+       "label": "little",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "little"
+      },
+      {
+       "label": "knowledge",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "knowledge"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "the"
+      },
+      {
+       "label": "UK",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "UK"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "court"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "system"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "."
+      },
+      {
+       "label": "However",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "However"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "-"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "my"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "only"
+      },
+      {
+       "label": "question",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "question"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "is"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "-"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "what"
+      },
+      {
+       "label": "damage",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "damage"
+      },
+      {
+       "label": "occurred",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "occurred"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "and"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "that"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "an"
+      },
+      {
+       "label": "important",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "important"
+      },
+      {
+       "label": "metric",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "metric"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "to"
+      },
+      {
+       "label": "prove",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "prove"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "in"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "order"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "to"
+      },
+      {
+       "label": "win",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "win"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "a"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "case"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "."
+      },
+      {
+       "label": "Where",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "Where"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "is"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "our"
+      },
+      {
+       "label": "share",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "share"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "the"
+      },
+      {
+       "label": "cash",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "cash"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "when"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "we"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "are"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "the"
+      },
+      {
+       "label": "actual",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "actual"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "victims"
+      },
+      {
+       "label": "instead",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "instead"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "of"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "the"
+      },
+      {
+       "label": "states",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "states"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "and"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "not"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "all"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "of"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "them"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "?"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "Google"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "'s"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "going"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "down"
+      },
+      {
+       "label": "!",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "!"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "I"
+      },
+      {
+       "label": "'m",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "'m"
+      },
+      {
+       "label": "sure",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "sure"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "they"
+      },
+      {
+       "label": "'ll",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "'ll"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "get"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "a"
+      },
+      {
+       "label": "stern",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "stern"
+      },
+      {
+       "label": "talking",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "talking"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "to"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "and"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "some"
+      },
+      {
+       "label": "serious",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "serious"
+      },
+      {
+       "label": "finger",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "finger"
+      },
+      {
+       "label": "wagging",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "wagging"
+      },
+      {
+       "label": "!",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "!"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "I"
+      },
+      {
+       "label": "'m",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "'m"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "all"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "for"
+      },
+      {
+       "label": "privacy",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "privacy"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "but"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "where"
+      },
+      {
+       "label": "does",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "does"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "this"
+      },
+      {
+       "label": "cash",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "cash"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "go"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "?"
+      },
+      {
+       "label": "Why",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "Why"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "are"
+      },
+      {
+       "label": "37",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "37"
+      },
+      {
+       "label": "states",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "states"
+      },
+      {
+       "label": "getting",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "getting"
+      },
+      {
+       "label": "paid",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "paid"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "because"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "Google"
+      },
+      {
+       "label": "screws",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "screws"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "me"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "?"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "The"
+      },
+      {
+       "label": "idea",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "idea"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "that"
+      },
+      {
+       "label": "having",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "having"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "to"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "pay"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "a"
+      },
+      {
+       "label": "fine",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "fine"
+      },
+      {
+       "label": "stops",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "stops"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "Google"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "from"
+      },
+      {
+       "label": "doing",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "doing"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "it"
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "again"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "."
+      },
+      {
+       "label": "So",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "So"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "the"
+      },
+      {
+       "label": "important",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "important"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "thing"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "is"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "Google"
+      },
+      {
+       "label": "paying",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "paying"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "out"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "."
+      },
+      {
+       "label": "Who",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "Who"
+      },
+      {
+       "label": "receives",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "receives"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "it"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "is"
+      },
+      {
+       "label": "secondary",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "secondary"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "."
+      },
+      {
+       "label": "Does",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "Does"
+      },
+      {
+       "label": "anyone",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "anyone"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "know"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "if"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "Apple"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "has"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "made"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "any"
+      },
+      {
+       "label": "changes",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "changes"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "to"
+      },
+      {
+       "label": "Safari",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "Safari"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "to"
+      },
+      {
+       "label": "prevent",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "prevent"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "others"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "from"
+      },
+      {
+       "label": "exploiting",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "exploiting"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "the"
+      },
+      {
+       "label": "same",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "same"
+      },
+      {
+       "label": "approach",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "approach"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "?"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "The"
+      },
+      {
+       "label": "idea",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "idea"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "that"
+      },
+      {
+       "label": "having",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "having"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "to"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "pay"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "a"
+      },
+      {
+       "label": "fine",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "fine"
+      },
+      {
+       "label": "stops",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "stops"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "Google"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "from"
+      },
+      {
+       "label": "doing",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "doing"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "it"
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "again"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "."
+      },
+      {
+       "label": "So",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "So"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "the"
+      },
+      {
+       "label": "important",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "important"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "thing"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "is"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": "Google"
+      },
+      {
+       "label": "paying",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": "paying"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "out"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "."
+      },
+      {
+       "label": "Who",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "Who"
+      },
+      {
+       "label": "receives",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "receives"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": "it"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "is"
+      },
+      {
+       "label": "secondary",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "secondary"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "."
+      },
+      {
+       "label": "By",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": "By"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 621,
+       "end": 622,
+       "tokens": "this"
+      },
+      {
+       "label": "logic",
+       "score": 1.0,
+       "start": 622,
+       "end": 623,
+       "tokens": "logic"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 624,
+       "end": 625,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 625,
+       "end": 626,
+       "tokens": "company"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 626,
+       "end": 627,
+       "tokens": "that"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 627,
+       "end": 628,
+       "tokens": "killed"
+      },
+      {
+       "label": "someone",
+       "score": 1.0,
+       "start": 628,
+       "end": 629,
+       "tokens": "someone"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 629,
+       "end": 630,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 630,
+       "end": 631,
+       "tokens": "a"
+      },
+      {
+       "label": "poor",
+       "score": 1.0,
+       "start": 631,
+       "end": 632,
+       "tokens": "poor"
+      },
+      {
+       "label": "product",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "product"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 633,
+       "end": 634,
+       "tokens": "only"
+      },
+      {
+       "label": "need",
+       "score": 1.0,
+       "start": 634,
+       "end": 635,
+       "tokens": "need"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "to"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 636,
+       "end": 637,
+       "tokens": "pay"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 637,
+       "end": 638,
+       "tokens": "the"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 638,
+       "end": 639,
+       "tokens": "government"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 639,
+       "end": 640,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "the"
+      },
+      {
+       "label": "actual",
+       "score": 1.0,
+       "start": 641,
+       "end": 642,
+       "tokens": "actual"
+      },
+      {
+       "label": "victim",
+       "score": 1.0,
+       "start": 642,
+       "end": 643,
+       "tokens": "victim"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 643,
+       "end": 644,
+       "tokens": "is"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 644,
+       "end": 645,
+       "tokens": "only"
+      },
+      {
+       "label": "secondary",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "secondary"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 646,
+       "end": 647,
+       "tokens": "?"
+      },
+      {
+       "label": "Him",
+       "score": 1.0,
+       "start": 647,
+       "end": 648,
+       "tokens": "Him"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 648,
+       "end": 649,
+       "tokens": "..."
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 649,
+       "end": 650,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 650,
+       "end": 651,
+       "tokens": "n't"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "know"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 652,
+       "end": 653,
+       "tokens": "if"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 653,
+       "end": 654,
+       "tokens": "I"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 654,
+       "end": 655,
+       "tokens": "can"
+      },
+      {
+       "label": "agree",
+       "score": 1.0,
+       "start": 655,
+       "end": 656,
+       "tokens": "agree"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 656,
+       "end": 657,
+       "tokens": "to"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 657,
+       "end": 658,
+       "tokens": "that"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 658,
+       "end": 659,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 659,
+       "end": 660,
+       "tokens": "The"
+      },
+      {
+       "label": "idea",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "idea"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "that"
+      },
+      {
+       "label": "having",
+       "score": 1.0,
+       "start": 663,
+       "end": 664,
+       "tokens": "having"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 664,
+       "end": 665,
+       "tokens": "to"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 665,
+       "end": 666,
+       "tokens": "pay"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 666,
+       "end": 667,
+       "tokens": "a"
+      },
+      {
+       "label": "fine",
+       "score": 1.0,
+       "start": 667,
+       "end": 668,
+       "tokens": "fine"
+      },
+      {
+       "label": "stops",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "stops"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 669,
+       "end": 670,
+       "tokens": "Google"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 670,
+       "end": 671,
+       "tokens": "from"
+      },
+      {
+       "label": "doing",
+       "score": 1.0,
+       "start": 671,
+       "end": 672,
+       "tokens": "doing"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "it"
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 673,
+       "end": 674,
+       "tokens": "again"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 674,
+       "end": 675,
+       "tokens": "."
+      },
+      {
+       "label": "So",
+       "score": 1.0,
+       "start": 675,
+       "end": 676,
+       "tokens": "So"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 676,
+       "end": 677,
+       "tokens": "the"
+      },
+      {
+       "label": "important",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "important"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 678,
+       "end": 679,
+       "tokens": "thing"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 679,
+       "end": 680,
+       "tokens": "is"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 680,
+       "end": 681,
+       "tokens": "Google"
+      },
+      {
+       "label": "paying",
+       "score": 1.0,
+       "start": 681,
+       "end": 682,
+       "tokens": "paying"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "out"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 683,
+       "end": 684,
+       "tokens": "."
+      },
+      {
+       "label": "Who",
+       "score": 1.0,
+       "start": 684,
+       "end": 685,
+       "tokens": "Who"
+      },
+      {
+       "label": "receives",
+       "score": 1.0,
+       "start": 685,
+       "end": 686,
+       "tokens": "receives"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 686,
+       "end": 687,
+       "tokens": "it"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 687,
+       "end": 688,
+       "tokens": "is"
+      },
+      {
+       "label": "secondary",
+       "score": 1.0,
+       "start": 688,
+       "end": 689,
+       "tokens": "secondary"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 689,
+       "end": 690,
+       "tokens": "."
+      },
+      {
+       "label": "Paying",
+       "score": 1.0,
+       "start": 690,
+       "end": 691,
+       "tokens": "Paying"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 691,
+       "end": 692,
+       "tokens": "a"
+      },
+      {
+       "label": "fine",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "fine"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "of"
+      },
+      {
+       "label": "$22.5",
+       "score": 1.0,
+       "start": 694,
+       "end": 695,
+       "tokens": "$22.5"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 695,
+       "end": 696,
+       "tokens": "million"
+      },
+      {
+       "label": "means",
+       "score": 1.0,
+       "start": 696,
+       "end": 697,
+       "tokens": "means"
+      },
+      {
+       "label": "nothing",
+       "score": 1.0,
+       "start": 697,
+       "end": 698,
+       "tokens": "nothing"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 698,
+       "end": 699,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 699,
+       "end": 700,
+       "tokens": "a"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 700,
+       "end": 701,
+       "tokens": "company"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 701,
+       "end": 702,
+       "tokens": "like"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "Google"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 703,
+       "end": 704,
+       "tokens": ","
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 704,
+       "end": 705,
+       "tokens": "like"
+      },
+      {
+       "label": "paying",
+       "score": 1.0,
+       "start": 705,
+       "end": 706,
+       "tokens": "paying"
+      },
+      {
+       "label": "$10",
+       "score": 1.0,
+       "start": 706,
+       "end": 707,
+       "tokens": "$10"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 707,
+       "end": 708,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 708,
+       "end": 709,
+       "tokens": "the"
+      },
+      {
+       "label": "average",
+       "score": 1.0,
+       "start": 709,
+       "end": 710,
+       "tokens": "average"
+      },
+      {
+       "label": "person",
+       "score": 1.0,
+       "start": 710,
+       "end": 711,
+       "tokens": "person"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 711,
+       "end": 712,
+       "tokens": "."
+      },
+      {
+       "label": "There",
+       "score": 1.0,
+       "start": 712,
+       "end": 713,
+       "tokens": "There"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 713,
+       "end": 714,
+       "tokens": "is"
+      },
+      {
+       "label": "nothing",
+       "score": 1.0,
+       "start": 714,
+       "end": 715,
+       "tokens": "nothing"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 715,
+       "end": 716,
+       "tokens": "about"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 716,
+       "end": 717,
+       "tokens": "the"
+      },
+      {
+       "label": "amount",
+       "score": 1.0,
+       "start": 717,
+       "end": 718,
+       "tokens": "amount"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 718,
+       "end": 719,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 719,
+       "end": 720,
+       "tokens": "would"
+      },
+      {
+       "label": "deter",
+       "score": 1.0,
+       "start": 720,
+       "end": 721,
+       "tokens": "deter"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 721,
+       "end": 722,
+       "tokens": "them"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 722,
+       "end": 723,
+       "tokens": "from"
+      },
+      {
+       "label": "doing",
+       "score": 1.0,
+       "start": 723,
+       "end": 724,
+       "tokens": "doing"
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 724,
+       "end": 725,
+       "tokens": "something"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 725,
+       "end": 726,
+       "tokens": "like"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 726,
+       "end": 727,
+       "tokens": "that"
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 727,
+       "end": 728,
+       "tokens": "again"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 728,
+       "end": 729,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 729,
+       "end": 730,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 730,
+       "end": 731,
+       "tokens": "is"
+      },
+      {
+       "label": "ironic",
+       "score": 1.0,
+       "start": 731,
+       "end": 732,
+       "tokens": "ironic"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 732,
+       "end": 733,
+       "tokens": "that"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 733,
+       "end": 734,
+       "tokens": "Google"
+      },
+      {
+       "label": "got",
+       "score": 1.0,
+       "start": 734,
+       "end": 735,
+       "tokens": "got"
+      },
+      {
+       "label": "rid",
+       "score": 1.0,
+       "start": 735,
+       "end": 736,
+       "tokens": "rid"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 736,
+       "end": 737,
+       "tokens": "of"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 737,
+       "end": 738,
+       "tokens": "their"
+      },
+      {
+       "label": "motto",
+       "score": 1.0,
+       "start": 738,
+       "end": 739,
+       "tokens": "motto"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 739,
+       "end": 740,
+       "tokens": "\""
+      },
+      {
+       "label": "Do",
+       "score": 1.0,
+       "start": 740,
+       "end": 741,
+       "tokens": "Do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 741,
+       "end": 742,
+       "tokens": "n't"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 742,
+       "end": 743,
+       "tokens": "be"
+      },
+      {
+       "label": "evil",
+       "score": 1.0,
+       "start": 743,
+       "end": 744,
+       "tokens": "evil"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 744,
+       "end": 745,
+       "tokens": "\""
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 745,
+       "end": 746,
+       "tokens": "."
+      },
+      {
+       "label": "Did",
+       "score": 1.0,
+       "start": 746,
+       "end": 747,
+       "tokens": "Did"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 747,
+       "end": 748,
+       "tokens": "n't"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 748,
+       "end": 749,
+       "tokens": "Google"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 749,
+       "end": 750,
+       "tokens": "also"
+      },
+      {
+       "label": "once",
+       "score": 1.0,
+       "start": 750,
+       "end": 751,
+       "tokens": "once"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 751,
+       "end": 752,
+       "tokens": "use"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 752,
+       "end": 753,
+       "tokens": "the"
+      },
+      {
+       "label": "motto",
+       "score": 1.0,
+       "start": 753,
+       "end": 754,
+       "tokens": "motto"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 754,
+       "end": 755,
+       "tokens": "\""
+      },
+      {
+       "label": "Do",
+       "score": 1.0,
+       "start": 755,
+       "end": 756,
+       "tokens": "Do"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 756,
+       "end": 757,
+       "tokens": "no"
+      },
+      {
+       "label": "harm",
+       "score": 1.0,
+       "start": 757,
+       "end": 758,
+       "tokens": "harm"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 758,
+       "end": 759,
+       "tokens": "\""
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 759,
+       "end": 760,
+       "tokens": "?"
+      },
+      {
+       "label": "My",
+       "score": 1.0,
+       "start": 760,
+       "end": 761,
+       "tokens": "My"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "how"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 762,
+       "end": 763,
+       "tokens": "times"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 763,
+       "end": 764,
+       "tokens": "have"
+      },
+      {
+       "label": "changed",
+       "score": 1.0,
+       "start": 764,
+       "end": 765,
+       "tokens": "changed"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 765,
+       "end": 766,
+       "tokens": "."
+      },
+      {
+       "label": "Blah",
+       "score": 1.0,
+       "start": 766,
+       "end": 767,
+       "tokens": "Blah"
+      },
+      {
+       "label": "blah",
+       "score": 1.0,
+       "start": 767,
+       "end": 768,
+       "tokens": "blah"
+      },
+      {
+       "label": "blah",
+       "score": 1.0,
+       "start": 768,
+       "end": 769,
+       "tokens": "blah"
+      },
+      {
+       "label": "Sue",
+       "score": 1.0,
+       "start": 769,
+       "end": 770,
+       "tokens": "Sue"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 770,
+       "end": 771,
+       "tokens": "Google"
+      },
+      {
+       "label": "blah",
+       "score": 1.0,
+       "start": 771,
+       "end": 772,
+       "tokens": "blah"
+      },
+      {
+       "label": "blah",
+       "score": 1.0,
+       "start": 772,
+       "end": 773,
+       "tokens": "blah"
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 773,
+       "end": 774,
+       "tokens": "A"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 774,
+       "end": 775,
+       "tokens": "good"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 775,
+       "end": 776,
+       "tokens": "day"
+      },
+      {
+       "label": "today",
+       "score": 1.0,
+       "start": 776,
+       "end": 777,
+       "tokens": "today"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 777,
+       "end": 778,
+       "tokens": "."
+      },
+      {
+       "label": "At",
+       "score": 1.0,
+       "start": 778,
+       "end": 779,
+       "tokens": "At"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 779,
+       "end": 780,
+       "tokens": "least"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 780,
+       "end": 781,
+       "tokens": "we"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 781,
+       "end": 782,
+       "tokens": "can"
+      },
+      {
+       "label": "sue",
+       "score": 1.0,
+       "start": 782,
+       "end": 783,
+       "tokens": "sue"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 783,
+       "end": 784,
+       "tokens": "Google"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 784,
+       "end": 785,
+       "tokens": ","
+      },
+      {
+       "label": "unlike",
+       "score": 1.0,
+       "start": 785,
+       "end": 786,
+       "tokens": "unlike"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 786,
+       "end": 787,
+       "tokens": "the"
+      },
+      {
+       "label": "NSA",
+       "score": 1.0,
+       "start": 787,
+       "end": 788,
+       "tokens": "NSA"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 788,
+       "end": 789,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_Kingdom",
+       "score": 0.8623627704918079,
+       "start": 327,
+       "end": 328,
+       "tokens": "UK",
+       "labelScoreMap": {
+        "United_Kingdom": 0.8623627704918079,
+        "British_English": 0.019654763907953492,
+        "British_Phonographic_Industry": 0.02378966137955222,
+        "U.K._(band)": 0.014645332858954032,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.00826145365884472,
+        "Ukrainian_language": 0.00472405080175435,
+        "Banksy": 0.0018475610863144625,
+        "Nickelodeon_(UK_and_Ireland)": 0.0017574421937960754,
+        "Kaleidoscope_(UK_band)": 0.0015020865756473834,
+        "Battle_of_Britain": 0.0014720394424026166,
+        "Konstantin_Rodzaevsky": 0.0014645332858954031,
+        "Great_Britain": 0.0012993011848256132,
+        "Syfy_(UK_and_Ireland)": 0.001276766837135502,
+        "BT_Sport_ESPN": 0.001246730957498692,
+        "England": 0.0011641182215795123,
+        "Official_Charts_Company": 0.05353138711603788,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409101640454,
+       "start": 22,
+       "end": 23,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609409101640454,
+        "Google_Search": 0.11473646170725935,
+        "ITV3": 0.014777772957939103,
+        "Google_Maps": 0.0030019570013349924,
+        "Googleplex": 0.0016510739018428886,
+        "Google_Apps_for_Work": 0.00161014226019277,
+        "Google_Analytics": 0.0011598458588037428,
+        "Google_Chrome": 0.0010984387873662093,
+        "Google_App_Engine": 0.0010233973612155001,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408928736305,
+       "start": 702,
+       "end": 703,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609408928736305,
+        "Google_Search": 0.11473647177214881,
+        "ITV3": 0.014777772720435468,
+        "Google_Maps": 0.003001964147495459,
+        "Googleplex": 0.0016510738753073577,
+        "Google_Apps_for_Work": 0.0016101422888423907,
+        "Google_Analytics": 0.001159845840163074,
+        "Google_Chrome": 0.001098439137208973,
+        "Google_App_Engine": 0.0010233973447677856,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Federal_Trade_Commission",
+       "score": 0.9731322099802913,
+       "start": 294,
+       "end": 297,
+       "tokens": "Federal Trade Commission",
+       "labelScoreMap": {
+        "Federal_Trade_Commission": 0.9731322099802913,
+        "Federal_Communications_Commission": 0.026867790019708754,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "The_Wall_Street_Journal",
+       "score": 1.0,
+       "start": 268,
+       "end": 271,
+       "tokens": "Wall Street Journal",
+       "labelScoreMap": {
+        "The_Wall_Street_Journal": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.860940841399729,
+       "start": 559,
+       "end": 560,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.860940841399729,
+        "Google_Search": 0.1147365164026526,
+        "ITV3": 0.014777772019322845,
+        "Google_Maps": 0.0030019714929037547,
+        "Googleplex": 0.0016510737969742586,
+        "Google_Apps_for_Work": 0.0016101425400851972,
+        "Google_Analytics": 0.0011598457851357323,
+        "Google_Chrome": 0.001098439266982628,
+        "Google_App_Engine": 0.0010233972962140007,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408772949408,
+       "start": 333,
+       "end": 334,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609408772949408,
+        "Google_Search": 0.11473647538418139,
+        "ITV3": 0.014777772504229673,
+        "Google_Maps": 0.003001974965285704,
+        "Googleplex": 0.0016510738511513671,
+        "Google_Apps_for_Work": 0.0016101422798912618,
+        "Google_Analytics": 0.0011598458231939896,
+        "Google_Chrome": 0.00109844056733075,
+        "Google_App_Engine": 0.0010233973297949991,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409113267262,
+       "start": 748,
+       "end": 749,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609409113267262,
+        "Google_Search": 0.1147364599903076,
+        "ITV3": 0.01477777297348878,
+        "Google_Maps": 0.003001957540757086,
+        "Googleplex": 0.001651073903580205,
+        "Google_Apps_for_Work": 0.0016101422488354984,
+        "Google_Analytics": 0.0011598458600241724,
+        "Google_Chrome": 0.0010984387939878505,
+        "Google_App_Engine": 0.001023397362292354,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947489739877992,
+       "start": 573,
+       "end": 574,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947489739877992,
+        "Apple": 0.1073006605784327,
+        "Apple_Records": 0.04137331642823912,
+        "Apple_II_series": 0.0235848420755333,
+        "Apple_Corps": 0.005416347430896037,
+        "IPhone": 0.0034778638284401467,
+        "Apple_II_Plus": 0.003297321793673571,
+        "Macintosh": 0.00326881386937928,
+        "Apple_(album)": 0.0031452791212063865,
+        "IPad": 0.002204549640468514,
+        "Apple_Store": 0.0021380309712642188,
+        "Cashew": 0.002014504938672741,
+        "Mac_Mini": 0.0017104282325265793,
+        "Apple_III": 0.0011973014905262472,
+        "Apple_I": 0.0010642641521175092,
+        "Malus": 0.0010547614850882616,
+        "ITunes": 0.0010357561510298636,
+        "Apple_TV": 0.0009977454829132376,
+        "Apple_Lisa": 0.0009692383417931573,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408964838144,
+       "start": 256,
+       "end": 257,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609408964838144,
+        "Google_Search": 0.11473645869655467,
+        "ITV3": 0.014777772765583933,
+        "Google_Maps": 0.003001973508213492,
+        "Googleplex": 0.0016510738803516532,
+        "Google_Apps_for_Work": 0.0016101424533312696,
+        "Google_Analytics": 0.0011598458437065866,
+        "Google_Chrome": 0.0010984390205495435,
+        "Google_App_Engine": 0.0010233973478944287,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409109100279,
+       "start": 770,
+       "end": 771,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609409109100279,
+        "Google_Search": 0.11473646063123007,
+        "ITV3": 0.014777772967923056,
+        "Google_Maps": 0.0030019567802666053,
+        "Googleplex": 0.0016510739029583642,
+        "Google_Apps_for_Work": 0.001610142302997267,
+        "Google_Analytics": 0.0011598458595873417,
+        "Google_Chrome": 0.0010984392831026326,
+        "Google_App_Engine": 0.0010233973619069136,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408982773356,
+       "start": 548,
+       "end": 549,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609408982773356,
+        "Google_Search": 0.11473646832174851,
+        "ITV3": 0.01477777279453928,
+        "Google_Maps": 0.0030019624096628422,
+        "Googleplex": 0.0016510738835867425,
+        "Google_Apps_for_Work": 0.0016101422626956282,
+        "Google_Analytics": 0.0011598458459791713,
+        "Google_Chrome": 0.0010984388545525851,
+        "Google_App_Engine": 0.001023397349899658,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.860940912992419,
+       "start": 783,
+       "end": 784,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.860940912992419,
+        "Google_Search": 0.11473645941887319,
+        "ITV3": 0.014777772996529976,
+        "Google_Maps": 0.0030019564291246313,
+        "Googleplex": 0.0016510739061545252,
+        "Google_Apps_for_Work": 0.001610142252103835,
+        "Google_Analytics": 0.0011598458618325798,
+        "Google_Chrome": 0.0010984387790739776,
+        "Google_App_Engine": 0.0010233973638880138,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Villa_Tugendhat",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Tugendhat",
+       "labelScoreMap": {
+        "Villa_Tugendhat": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.9011709946461576,
+       "start": 320,
+       "end": 323,
+       "tokens": "District of Columbia",
+       "labelScoreMap": {
+        "Washington,_D.C.": 0.9011709946461576,
+        "District_of_Columbia_Air_National_Guard": 0.03356963409709219,
+        "Miss_District_of_Columbia_USA": 0.010846403964082795,
+        "United_States_District_Court_for_the_District_of_Columbia": 0.010157445023925165,
+        "Miss_District_of_Columbia": 0.006616306214784669,
+        "Council_of_the_District_of_Columbia": 0.005423202602529143,
+        "District_Department_of_Transportation": 0.005368987948986317,
+        "District_of_Columbia_National_Guard": 0.005260508608392796,
+        "District_of_Columbia_Court_of_Appeals": 0.004609723398984493,
+        "Federal_district": 0.004447029968032008,
+        "Marion_Barry": 0.003091220901288658,
+        "John_A._Wilson_Building": 0.002494674511702801,
+        "D.C._Statehood_Green_Party": 0.002331981080752756,
+        "Anthony_A._Williams": 0.0018438893595927167,
+        "Sharon_Pratt_Kelly": 0.0014100364009570709,
+        "District_of_Columbia_v._Heller": 0.001357961272738485,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408423188518,
+       "start": 186,
+       "end": 187,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609408423188518,
+        "Google_Search": 0.11473652354558617,
+        "ITV3": 0.014777772035058298,
+        "Google_Maps": 0.0030019640051849954,
+        "Googleplex": 0.001651073798732331,
+        "Google_Apps_for_Work": 0.0016101423216702637,
+        "Google_Analytics": 0.0011598457863706859,
+        "Google_Chrome": 0.0010984388912417603,
+        "Google_App_Engine": 0.00102339729730372,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409163338747,
+       "start": 6,
+       "end": 7,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609409163338747,
+        "Google_Search": 0.11473645903038616,
+        "ITV3": 0.014777773043058329,
+        "Google_Maps": 0.0030019534413159173,
+        "Googleplex": 0.001651073911352991,
+        "Google_Apps_for_Work": 0.001610142244361805,
+        "Google_Analytics": 0.0011598458654843965,
+        "Google_Chrome": 0.001098438763055505,
+        "Google_App_Engine": 0.0010233973671102173,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947489733487983,
+       "start": 32,
+       "end": 33,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947489733487983,
+        "Apple": 0.10730066051847846,
+        "Apple_Records": 0.041373316405719715,
+        "Apple_II_series": 0.0235848420623553,
+        "Apple_Corps": 0.005416347427873443,
+        "IPhone": 0.0034778638264968942,
+        "Apple_II_Plus": 0.0032973217918311963,
+        "Macintosh": 0.003268813926411806,
+        "Apple_(album)": 0.0031452791194489654,
+        "IPad": 0.002204549639236724,
+        "Apple_Store": 0.0021380309700697506,
+        "Cashew": 0.0020145049375471387,
+        "Mac_Mini": 0.0017104282315708796,
+        "Apple_III": 0.0011973014898572565,
+        "Apple_I": 0.0010642641515228818,
+        "Malus": 0.0010547614844989147,
+        "ITunes": 0.001035756150451136,
+        "Apple_TV": 0.0009977454823557534,
+        "Apple_Lisa": 0.0009692390354753594,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.9176862826275725,
+       "start": 439,
+       "end": 440,
+       "tokens": "UK",
+       "labelScoreMap": {
+        "United_Kingdom": 0.9176862826275725,
+        "British_English": 0.020785942798023063,
+        "British_Phonographic_Industry": 0.01732685090854344,
+        "U.K._(band)": 0.015488204330773463,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.008736918688020645,
+        "Ukrainian_language": 0.004995930429960033,
+        "Banksy": 0.001953892335122241,
+        "Nickelodeon_(UK_and_Ireland)": 0.0018585868999484393,
+        "Kaleidoscope_(UK_band)": 0.0015885349981591362,
+        "Battle_of_Britain": 0.0015567585855824568,
+        "Konstantin_Rodzaevsky": 0.0015488204330773461,
+        "Great_Britain": 0.0013740746804425173,
+        "Syfy_(UK_and_Ireland)": 0.001350247607668395,
+        "BT_Sport_ESPN": 0.0013184830963698367,
+        "England": 0.0012311158862229475,
+        "Official_Charts_Company": 0.0011993556945135847,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609407026917185,
+       "start": 337,
+       "end": 338,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609407026917185,
+        "Google_Search": 0.11473664407982594,
+        "ITV3": 0.014777770133014635,
+        "Google_Maps": 0.003001983355978318,
+        "Googleplex": 0.0016510735862229995,
+        "Google_Apps_for_Work": 0.0016101443346125915,
+        "Google_Analytics": 0.0011598456370872964,
+        "Google_Chrome": 0.0010984390159570045,
+        "Google_App_Engine": 0.0010233971655824875,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609405472339432,
+       "start": 165,
+       "end": 166,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609405472339432,
+        "Google_Search": 0.11473681586171125,
+        "ITV3": 0.014777768030543419,
+        "Google_Maps": 0.0030019702566967763,
+        "Googleplex": 0.0016510733513205305,
+        "Google_Apps_for_Work": 0.0016101439746320529,
+        "Google_Analytics": 0.001159845472074308,
+        "Google_Chrome": 0.001098438799097105,
+        "Google_App_Engine": 0.0010233970199811507,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609397267849026,
+       "start": 427,
+       "end": 428,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609397267849026,
+        "Google_Search": 0.11473760056860746,
+        "ITV3": 0.014777756885098784,
+        "Google_Maps": 0.0030020140641833027,
+        "Googleplex": 0.0016510721060752007,
+        "Google_Apps_for_Work": 0.001610147865015966,
+        "Google_Analytics": 0.00115984459736946,
+        "Google_Chrome": 0.0010984408806157064,
+        "Google_App_Engine": 0.0010233962481315184,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408911700587,
+       "start": 733,
+       "end": 734,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609408911700587,
+        "Google_Search": 0.11473647176443728,
+        "ITV3": 0.014777772696630909,
+        "Google_Maps": 0.0030019658178597336,
+        "Googleplex": 0.0016510738726477495,
+        "Google_Apps_for_Work": 0.0016101426557157063,
+        "Google_Analytics": 0.0011598458382947514,
+        "Google_Chrome": 0.0010984388412360784,
+        "Google_App_Engine": 0.001023397343119261,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.475511803600339,
+       "start": 11,
+       "end": 12,
+       "tokens": "UK",
+       "labelScoreMap": {
+        "United_Kingdom": 0.475511803600339,
+        "British_English": 0.011744698010718254,
+        "British_Phonographic_Industry": 0.06080680326615581,
+        "U.K._(band)": 0.008751314059399665,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.004936629044352813,
+        "Ukrainian_language": 0.0028228550758564812,
+        "Banksy": 0.0011040095480232214,
+        "Nickelodeon_(UK_and_Ireland)": 0.0010501590320459414,
+        "Kaleidoscope_(UK_band)": 0.0008975713624604689,
+        "Battle_of_Britain": 0.0008796167074081044,
+        "Konstantin_Rodzaevsky": 0.0008751314059399664,
+        "Great_Britain": 0.0007763949738129757,
+        "Syfy_(UK_and_Ireland)": 0.0007629316233374542,
+        "BT_Sport_ESPN": 0.0007449836928749968,
+        "England": 0.0006956184784430127,
+        "Official_Charts_Company": 0.42763948011883185,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.9173799069464313,
+       "start": 0,
+       "end": 1,
+       "tokens": "UK",
+       "labelScoreMap": {
+        "United_Kingdom": 0.9173799069464313,
+        "British_English": 0.02077968542047374,
+        "British_Phonographic_Industry": 0.017652544667107816,
+        "U.K._(band)": 0.01548354440481649,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.008734290016279763,
+        "Ukrainian_language": 0.004994427307629042,
+        "Banksy": 0.0019533044688070044,
+        "Nickelodeon_(UK_and_Ireland)": 0.0018580277081174568,
+        "Kaleidoscope_(UK_band)": 0.0015880570566680898,
+        "Battle_of_Britain": 0.0015562902046399817,
+        "Konstantin_Rodzaevsky": 0.0015483544404816488,
+        "Great_Britain": 0.0013736723117485558,
+        "Syfy_(UK_and_Ireland)": 0.0013498413595494434,
+        "BT_Sport_ESPN": 0.001318086405218724,
+        "England": 0.0012307454087007834,
+        "Official_Charts_Company": 0.0011992218733299868,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.856224649113747,
+       "start": 236,
+       "end": 237,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.856224649113747,
+        "Google_Search": 0.1195238465909394,
+        "ITV3": 0.014713816617490293,
+        "Google_Maps": 0.002992195454245894,
+        "Googleplex": 0.0016439282619096617,
+        "Google_Apps_for_Work": 0.0016336223282058496,
+        "Google_Analytics": 0.00115484519257743,
+        "Google_Chrome": 0.001094128214565154,
+        "Google_App_Engine": 0.0010189682263194919,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "National_Security_Agency",
+       "score": 0.9863242618012181,
+       "start": 366,
+       "end": 367,
+       "tokens": "NSA",
+       "labelScoreMap": {
+        "National_Security_Agency": 0.9863242618012181,
+        "National_Security_Advisor_(United_States)": 0.005318348340136739,
+        "NSA_warrantless_surveillance_(2001\u201307)": 0.005318343911096381,
+        "National_Security_Advisor_(India)": 0.0015955010128671505,
+        "National_Scrabble_Association": 0.001443544934681624,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Federal_government_of_the_United_States",
+       "score": 0.4559753204382981,
+       "start": 293,
+       "end": 294,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.3009396129731724,
+        "United_States_dollar": 0.16298277231713712,
+        "Billboard_Hot_100": 0.017655274739021284,
+        "American_English": 0.010864850967390796,
+        "Recording_Industry_Association_of_America": 0.007291287717693424,
+        "Us_(Peter_Gabriel_album)": 0.0014352930902696097,
+        "Federal_government_of_the_United_States": 0.4559753204382981,
+        "United_States_men's_national_soccer_team": 0.0008751815877540044,
+        "United_States_Armed_Forces": 0.0008404844287783194,
+        "U.S._state": 0.0008377032375394315,
+        "Billboard_charts": 0.0007905783567073946,
+        "United_States_Congress": 0.03951164014623818,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "National_Security_Agency",
+       "score": 0.9863242652439138,
+       "start": 787,
+       "end": 788,
+       "tokens": "NSA",
+       "labelScoreMap": {
+        "National_Security_Agency": 0.9863242652439138,
+        "National_Security_Advisor_(United_States)": 0.005318344868682189,
+        "NSA_warrantless_surveillance_(2001\u201307)": 0.005318343929397369,
+        "National_Security_Advisor_(India)": 0.001595501018357439,
+        "National_Scrabble_Association": 0.0014435449396490157,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609407256228951,
+       "start": 147,
+       "end": 148,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609407256228951,
+        "Google_Search": 0.1147366302326318,
+        "ITV3": 0.014777770447805372,
+        "Google_Maps": 0.0030019760261435686,
+        "Googleplex": 0.0016510736213935743,
+        "Google_Apps_for_Work": 0.001610142282198685,
+        "Google_Analytics": 0.0011598456617943555,
+        "Google_Chrome": 0.0010984389177546739,
+        "Google_App_Engine": 0.0010233971873825252,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409014411951,
+       "start": 53,
+       "end": 54,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "Google": 0.8609409014411951,
+        "Google_Search": 0.1147364622183583,
+        "ITV3": 0.014777772836271932,
+        "Google_Maps": 0.0030019650307777242,
+        "Googleplex": 0.0016510738882494,
+        "Google_Apps_for_Work": 0.0016101423006830045,
+        "Google_Analytics": 0.0011598458492545931,
+        "Google_Chrome": 0.0010984390824202365,
+        "Google_App_Engine": 0.0010233973527897474,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Gigaom",
+       "score": 0.9804941531858689,
+       "start": 38,
+       "end": 39,
+       "tokens": "Gigaom",
+       "labelScoreMap": {
+        "Gigaom": 0.9804941531858689,
+        "Esther_Dyson": 0.016905063948928104,
+        "Om_Malik": 0.002600782865202945,
+        "<unk_wid>": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_Kingdom",
+       "score": 0.8623627704918079,
+       "start": 327,
+       "end": 328,
+       "tokens": "UK",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.8623627704918079,
+        "6269131|England": 0.0011641182215795123
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409101640454,
+       "start": 22,
+       "end": 23,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510739018428886
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408928736305,
+       "start": 702,
+       "end": 703,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510738753073577
+       }
+      },
+      {
+       "label": "Federal_Trade_Commission",
+       "score": 0.9731322099802913,
+       "start": 294,
+       "end": 297,
+       "tokens": "Federal Trade Commission",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Wall_Street_Journal",
+       "score": 1.0,
+       "start": 268,
+       "end": 271,
+       "tokens": "Wall Street Journal",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Google",
+       "score": 0.860940841399729,
+       "start": 559,
+       "end": 560,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510737969742586
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408772949408,
+       "start": 333,
+       "end": 334,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510738511513671
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409113267262,
+       "start": 748,
+       "end": 749,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.001651073903580205
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947489739877992,
+       "start": 573,
+       "end": 574,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408964838144,
+       "start": 256,
+       "end": 257,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510738803516532
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409109100279,
+       "start": 770,
+       "end": 771,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510739029583642
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408982773356,
+       "start": 548,
+       "end": 549,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510738835867425
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.860940912992419,
+       "start": 783,
+       "end": 784,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510739061545252
+       }
+      },
+      {
+       "label": "Villa_Tugendhat",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Tugendhat",
+       "labelScoreMap": {
+        "6639889|Villa_Tugendhat": 1.0
+       }
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.9011709946461576,
+       "start": 320,
+       "end": 323,
+       "tokens": "District of Columbia",
+       "labelScoreMap": {
+        "4140963|Washington,_D.C.": 0.9011709946461576
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408423188518,
+       "start": 186,
+       "end": 187,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.001651073798732331
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409163338747,
+       "start": 6,
+       "end": 7,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.001651073911352991
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947489733487983,
+       "start": 32,
+       "end": 33,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.9176862826275725,
+       "start": 439,
+       "end": 440,
+       "tokens": "UK",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.9176862826275725,
+        "6269131|England": 0.0012311158862229475
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609407026917185,
+       "start": 337,
+       "end": 338,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510735862229995
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609405472339432,
+       "start": 165,
+       "end": 166,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510733513205305
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609397267849026,
+       "start": 427,
+       "end": 428,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510721060752007
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609408911700587,
+       "start": 733,
+       "end": 734,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510738726477495
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.475511803600339,
+       "start": 11,
+       "end": 12,
+       "tokens": "UK",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.475511803600339,
+        "6269131|England": 0.0006956184784430127
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.9173799069464313,
+       "start": 0,
+       "end": 1,
+       "tokens": "UK",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.9173799069464313,
+        "6269131|England": 0.0012307454087007834
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.856224649113747,
+       "start": 236,
+       "end": 237,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016439282619096617
+       }
+      },
+      {
+       "label": "National_Security_Agency",
+       "score": 0.9863242618012181,
+       "start": 366,
+       "end": 367,
+       "tokens": "NSA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Federal_government_of_the_United_States",
+       "score": 0.4559753204382981,
+       "start": 293,
+       "end": 294,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.3009396129731724
+       }
+      },
+      {
+       "label": "National_Security_Agency",
+       "score": 0.9863242652439138,
+       "start": 787,
+       "end": 788,
+       "tokens": "NSA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Google",
+       "score": 0.8609407256228951,
+       "start": 147,
+       "end": 148,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510736213935743
+       }
+      },
+      {
+       "label": "Google",
+       "score": 0.8609409014411951,
+       "start": 53,
+       "end": 54,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "6301403|Googleplex": 0.0016510738882494
+       }
+      },
+      {
+       "label": "Gigaom",
+       "score": 0.9804941531858689,
+       "start": 38,
+       "end": 39,
+       "tokens": "Gigaom",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

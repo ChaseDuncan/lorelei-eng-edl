@@ -1,0 +1,2008 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130314_F00012EEU.xml",
+ "text": "2013-03-14T02:49:24\n1st LD: White smoke seen above Sistine Chapel, signaling election of new pope\n1st LD: White smoke seen above Sistine Chapel, signaling election of new pope\nVATICAN, March 13 (Xinhua) -- White smoke rose on Wednesday from the chimney above the Sistine Chapel in the Vatican City, indicating a new pope has been elected.\nThe smoke came at 1808 GMT and the great bells of St Peter's basilica began ringing soon after, media reports said, signaling not only that a man has been elected as the new pope, but that he has accepted the role, chosen a name and donned his white vestments.\nThe new pope will be unveiled to the world from the central balcony of St. Peter's Basilica within an hour, media reports said.\nIt took the 115 cardinals five rounds of voting over two days to reach their decision, which required a two-thirds majority. The conclave came after the resignation of Pope Benedict XVI on February 28. Enditem",
+ "tokens": [
+  "2013-03-14T02:49:24",
+  "1st",
+  "LD",
+  ":",
+  "White",
+  "smoke",
+  "seen",
+  "above",
+  "Sistine",
+  "Chapel",
+  ",",
+  "signaling",
+  "election",
+  "of",
+  "new",
+  "pope",
+  "1st",
+  "LD",
+  ":",
+  "White",
+  "smoke",
+  "seen",
+  "above",
+  "Sistine",
+  "Chapel",
+  ",",
+  "signaling",
+  "election",
+  "of",
+  "new",
+  "pope",
+  "VATICAN",
+  ",",
+  "March",
+  "13",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "White",
+  "smoke",
+  "rose",
+  "on",
+  "Wednesday",
+  "from",
+  "the",
+  "chimney",
+  "above",
+  "the",
+  "Sistine",
+  "Chapel",
+  "in",
+  "the",
+  "Vatican",
+  "City",
+  ",",
+  "indicating",
+  "a",
+  "new",
+  "pope",
+  "has",
+  "been",
+  "elected",
+  ".",
+  "The",
+  "smoke",
+  "came",
+  "at",
+  "1808",
+  "GMT",
+  "and",
+  "the",
+  "great",
+  "bells",
+  "of",
+  "St",
+  "Peter",
+  "'s",
+  "basilica",
+  "began",
+  "ringing",
+  "soon",
+  "after",
+  ",",
+  "media",
+  "reports",
+  "said",
+  ",",
+  "signaling",
+  "not",
+  "only",
+  "that",
+  "a",
+  "man",
+  "has",
+  "been",
+  "elected",
+  "as",
+  "the",
+  "new",
+  "pope",
+  ",",
+  "but",
+  "that",
+  "he",
+  "has",
+  "accepted",
+  "the",
+  "role",
+  ",",
+  "chosen",
+  "a",
+  "name",
+  "and",
+  "donned",
+  "his",
+  "white",
+  "vestments",
+  ".",
+  "The",
+  "new",
+  "pope",
+  "will",
+  "be",
+  "unveiled",
+  "to",
+  "the",
+  "world",
+  "from",
+  "the",
+  "central",
+  "balcony",
+  "of",
+  "St.",
+  "Peter",
+  "'s",
+  "Basilica",
+  "within",
+  "an",
+  "hour",
+  ",",
+  "media",
+  "reports",
+  "said",
+  ".",
+  "It",
+  "took",
+  "the",
+  "115",
+  "cardinals",
+  "five",
+  "rounds",
+  "of",
+  "voting",
+  "over",
+  "two",
+  "days",
+  "to",
+  "reach",
+  "their",
+  "decision",
+  ",",
+  "which",
+  "required",
+  "a",
+  "two",
+  "-",
+  "thirds",
+  "majority",
+  ".",
+  "The",
+  "conclave",
+  "came",
+  "after",
+  "the",
+  "resignation",
+  "of",
+  "Pope",
+  "Benedict",
+  "XVI",
+  "on",
+  "February",
+  "28",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   64,
+   119,
+   145,
+   170,
+   184,
+   185
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Pope_Benedict_XVI",
+       "score": 1.0,
+       "start": 178,
+       "end": 180,
+       "tokens": "Benedict XVI"
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 1.0,
+       "start": 49,
+       "end": 51,
+       "tokens": "Sistine Chapel"
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 1.0,
+       "start": 8,
+       "end": 10,
+       "tokens": "Sistine Chapel"
+      },
+      {
+       "label": "Vatican_City",
+       "score": 1.0,
+       "start": 53,
+       "end": 55,
+       "tokens": "Vatican City"
+      },
+      {
+       "label": "Saint_Peter",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Peter"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "St._Peter's_Basilica",
+       "score": 1.0,
+       "start": 75,
+       "end": 79,
+       "tokens": "St Peter 's basilica"
+      },
+      {
+       "label": "St._Peter's_Basilica",
+       "score": 1.0,
+       "start": 133,
+       "end": 137,
+       "tokens": "St. Peter 's Basilica"
+      },
+      {
+       "label": "Saint_Peter",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Peter"
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 1.0,
+       "start": 23,
+       "end": 25,
+       "tokens": "Sistine Chapel"
+      },
+      {
+       "label": "Vatican_City",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "VATICAN"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 178,
+       "end": 180,
+       "tokens": "Benedict XVI"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 49,
+       "end": 51,
+       "tokens": "Sistine Chapel"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 8,
+       "end": 10,
+       "tokens": "Sistine Chapel"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 53,
+       "end": 55,
+       "tokens": "Vatican City"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Peter"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 75,
+       "end": 79,
+       "tokens": "St Peter 's basilica"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 133,
+       "end": 137,
+       "tokens": "St. Peter 's Basilica"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Peter"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 23,
+       "end": 25,
+       "tokens": "Sistine Chapel"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "VATICAN"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-03-14T02:49:24",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-03-14T02:49:24"
+      },
+      {
+       "label": "1st",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "1st"
+      },
+      {
+       "label": "LD",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "LD"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": ":"
+      },
+      {
+       "label": "White",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "White"
+      },
+      {
+       "label": "smoke",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "smoke"
+      },
+      {
+       "label": "seen",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "seen"
+      },
+      {
+       "label": "above",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "above"
+      },
+      {
+       "label": "Sistine",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Sistine"
+      },
+      {
+       "label": "Chapel",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Chapel"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": ","
+      },
+      {
+       "label": "signaling",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "signaling"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "election"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "of"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "new"
+      },
+      {
+       "label": "pope",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "pope"
+      },
+      {
+       "label": "1st",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "1st"
+      },
+      {
+       "label": "LD",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "LD"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": ":"
+      },
+      {
+       "label": "White",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "White"
+      },
+      {
+       "label": "smoke",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "smoke"
+      },
+      {
+       "label": "seen",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "seen"
+      },
+      {
+       "label": "above",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "above"
+      },
+      {
+       "label": "Sistine",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Sistine"
+      },
+      {
+       "label": "Chapel",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Chapel"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": ","
+      },
+      {
+       "label": "signaling",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "signaling"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "election"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "of"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "new"
+      },
+      {
+       "label": "pope",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "pope"
+      },
+      {
+       "label": "VATICAN",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "VATICAN"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": ","
+      },
+      {
+       "label": "March",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "March"
+      },
+      {
+       "label": "13",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "13"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "--"
+      },
+      {
+       "label": "White",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "White"
+      },
+      {
+       "label": "smoke",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "smoke"
+      },
+      {
+       "label": "rose",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "rose"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "on"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "the"
+      },
+      {
+       "label": "chimney",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "chimney"
+      },
+      {
+       "label": "above",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "above"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "the"
+      },
+      {
+       "label": "Sistine",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Sistine"
+      },
+      {
+       "label": "Chapel",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Chapel"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "the"
+      },
+      {
+       "label": "Vatican",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Vatican"
+      },
+      {
+       "label": "City",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "City"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": ","
+      },
+      {
+       "label": "indicating",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "indicating"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "a"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "new"
+      },
+      {
+       "label": "pope",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "pope"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "been"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "elected"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "The"
+      },
+      {
+       "label": "smoke",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "smoke"
+      },
+      {
+       "label": "came",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "came"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "at"
+      },
+      {
+       "label": "1808",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "1808"
+      },
+      {
+       "label": "GMT",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "GMT"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "the"
+      },
+      {
+       "label": "great",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "great"
+      },
+      {
+       "label": "bells",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "bells"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "of"
+      },
+      {
+       "label": "St",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "St"
+      },
+      {
+       "label": "Peter",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Peter"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "'s"
+      },
+      {
+       "label": "basilica",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "basilica"
+      },
+      {
+       "label": "began",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "began"
+      },
+      {
+       "label": "ringing",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "ringing"
+      },
+      {
+       "label": "soon",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "soon"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "after"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": ","
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "media"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "reports"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "said"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": ","
+      },
+      {
+       "label": "signaling",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "signaling"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "not"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "only"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "that"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "a"
+      },
+      {
+       "label": "man",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "man"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "been"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "elected"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "the"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "new"
+      },
+      {
+       "label": "pope",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "pope"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "but"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "he"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "has"
+      },
+      {
+       "label": "accepted",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "accepted"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "the"
+      },
+      {
+       "label": "role",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "role"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": ","
+      },
+      {
+       "label": "chosen",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "chosen"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "a"
+      },
+      {
+       "label": "name",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "name"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "and"
+      },
+      {
+       "label": "donned",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "donned"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "his"
+      },
+      {
+       "label": "white",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "white"
+      },
+      {
+       "label": "vestments",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "vestments"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "The"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "new"
+      },
+      {
+       "label": "pope",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "pope"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "be"
+      },
+      {
+       "label": "unveiled",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "unveiled"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "the"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "world"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "the"
+      },
+      {
+       "label": "central",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "central"
+      },
+      {
+       "label": "balcony",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "balcony"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "of"
+      },
+      {
+       "label": "St.",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "St."
+      },
+      {
+       "label": "Peter",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Peter"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "'s"
+      },
+      {
+       "label": "Basilica",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Basilica"
+      },
+      {
+       "label": "within",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "within"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "an"
+      },
+      {
+       "label": "hour",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "hour"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": ","
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "media"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "reports"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "It"
+      },
+      {
+       "label": "took",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "took"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "the"
+      },
+      {
+       "label": "115",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "115"
+      },
+      {
+       "label": "cardinals",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "cardinals"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "five"
+      },
+      {
+       "label": "rounds",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "rounds"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "of"
+      },
+      {
+       "label": "voting",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "voting"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "over"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "two"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "days"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "to"
+      },
+      {
+       "label": "reach",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "reach"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "their"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "decision"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "which"
+      },
+      {
+       "label": "required",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "required"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "a"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "two"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "-"
+      },
+      {
+       "label": "thirds",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "thirds"
+      },
+      {
+       "label": "majority",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "majority"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "The"
+      },
+      {
+       "label": "conclave",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "conclave"
+      },
+      {
+       "label": "came",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "came"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "the"
+      },
+      {
+       "label": "resignation",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "resignation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "of"
+      },
+      {
+       "label": "Pope",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Pope"
+      },
+      {
+       "label": "Benedict",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "Benedict"
+      },
+      {
+       "label": "XVI",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "XVI"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "on"
+      },
+      {
+       "label": "February",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "February"
+      },
+      {
+       "label": "28",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "28"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Pope_Benedict_XVI",
+       "score": 1.0,
+       "start": 178,
+       "end": 180,
+       "tokens": "Benedict XVI",
+       "labelScoreMap": {
+        "Pope_Benedict_XVI": 1.0,
+        "<unk_wid>": 6.74109052654192e-31
+       }
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 0.9171144881215895,
+       "start": 49,
+       "end": 51,
+       "tokens": "Sistine Chapel",
+       "labelScoreMap": {
+        "Sistine_Chapel": 0.9171144881215895,
+        "Sistine_Chapel_ceiling": 0.08157906111277964,
+        "Michelangelo": 0.0013064507656307574,
+        "<unk_wid>": 1.0869978292889666e-33
+       }
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 0.9282725765989608,
+       "start": 8,
+       "end": 10,
+       "tokens": "Sistine Chapel",
+       "labelScoreMap": {
+        "Sistine_Chapel": 0.9282725765989608,
+        "Sistine_Chapel_ceiling": 0.07040560612315407,
+        "Michelangelo": 0.001321817277885252,
+        "<unk_wid>": 5.843498204067548e-30
+       }
+      },
+      {
+       "label": "Vatican_City",
+       "score": 0.9612502421320973,
+       "start": 53,
+       "end": 55,
+       "tokens": "Vatican City",
+       "labelScoreMap": {
+        "Vatican_City": 0.9612502421320973,
+        "President_of_the_Pontifical_Commission_for_Vatican_City_State": 0.007432264647193676,
+        "Pope": 0.007659087982696707,
+        "Pontifical_Academy_of_Sciences": 0.006517217564459249,
+        "Corps_of_Gendarmerie_of_Vatican_City": 0.0053813460394118075,
+        "Roman_Curia": 0.004483563751834008,
+        "Holy_See": 0.007276277882307562,
+        "<unk_wid>": 5.174029356323453e-29
+       }
+      },
+      {
+       "label": "Saint_Peter",
+       "score": 0.4105872842601161,
+       "start": 134,
+       "end": 135,
+       "tokens": "Peter",
+       "labelScoreMap": {
+        "Saint_Peter": 0.4105872842601161,
+        "Peter_Hitchens": 0.03333402204902749,
+        "Peter_Sunde": 0.029034083703436013,
+        "Peter_DeLuise": 0.022198735554896144,
+        "Peter_Jackson": 0.020969093042834078,
+        "Peter_Fleming_(writer)": 0.013348022646956314,
+        "Peter_Hain": 0.013067040044416828,
+        "Aarhus": 0.01878453334733664,
+        "Peter_Scott": 0.02011513073259776,
+        "Piotr_Wiwczarek": 0.010090429619924192,
+        "Peter_the_Great": 0.384489257888999,
+        "Peter_Alexander_(Austrian_performer)": 0.008944492463094577,
+        "Peter_Sollett": 0.007942120004372033,
+        "Peter_Farrelly": 0.0070957546419928375,
+        "<unk_wid>": 1.316952133541094e-18
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816655107940861,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816655107940861,
+        "Xinhua_District,_Tainan": 0.0169834134310838,
+        "Xinhua_County": 0.0013510757748299482,
+        "<unk_wid>": 1.1847706225349774e-25
+       }
+      },
+      {
+       "label": "St._Peter's_Basilica",
+       "score": 0.8726132436117957,
+       "start": 75,
+       "end": 79,
+       "tokens": "St Peter 's basilica",
+       "labelScoreMap": {
+        "St._Peter's_Basilica": 0.8726132436117957,
+        "Saint_Peter": 0.02877727672904436,
+        "Old_St._Peter's_Basilica": 0.09860947965915985,
+        "<unk_wid>": 2.210673017453389e-24
+       }
+      },
+      {
+       "label": "St._Peter's_Basilica",
+       "score": 0.9301230053331322,
+       "start": 133,
+       "end": 137,
+       "tokens": "St. Peter 's Basilica",
+       "labelScoreMap": {
+        "St._Peter's_Basilica": 0.9301230053331322,
+        "Saint_Peter": 0.029657796588526807,
+        "Old_St._Peter's_Basilica": 0.040219198078341054,
+        "<unk_wid>": 7.009078276299976e-32
+       }
+      },
+      {
+       "label": "Saint_Peter",
+       "score": 0.42537304709660195,
+       "start": 76,
+       "end": 77,
+       "tokens": "Peter",
+       "labelScoreMap": {
+        "Saint_Peter": 0.42537304709660195,
+        "Peter_Hitchens": 0.033915704771397034,
+        "Peter_Sunde": 0.029467912966722718,
+        "Peter_DeLuise": 0.022530366835589385,
+        "Peter_Jackson": 0.019447376174841404,
+        "Peter_Fleming_(writer)": 0.016487070908081342,
+        "Peter_Hain": 0.016654867661723437,
+        "Aarhus": 0.013225686858652996,
+        "Peter_Scott": 0.016581605575341874,
+        "Piotr_Wiwczarek": 0.010241097782899538,
+        "Peter_the_Great": 0.37175960929168356,
+        "Peter_Alexander_(Austrian_performer)": 0.009053169062692448,
+        "Peter_Sollett": 0.008060730331639631,
+        "Peter_Farrelly": 0.0072017546821328245,
+        "<unk_wid>": 2.4210274621290326e-19
+       }
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 0.9290069060246082,
+       "start": 23,
+       "end": 25,
+       "tokens": "Sistine Chapel",
+       "labelScoreMap": {
+        "Sistine_Chapel": 0.9290069060246082,
+        "Sistine_Chapel_ceiling": 0.06967029571335426,
+        "Michelangelo": 0.001322798262037657,
+        "<unk_wid>": 9.167112233507654e-30
+       }
+      },
+      {
+       "label": "Holy_See",
+       "score": 0.4635925688357788,
+       "start": 31,
+       "end": 32,
+       "tokens": "VATICAN",
+       "labelScoreMap": {
+        "Vatican_City": 0.33414759226162066,
+        "Holy_See": 0.4635925688357788,
+        "Roman_Curia": 0.03185401205972111,
+        "Apostolic_Palace": 0.0338541711442824,
+        "Vatican_Museums": 0.01699456078526743,
+        "Catholic_Church": 0.011192275884722021,
+        "Orders,_decorations,_and_medals_of_the_Holy_See": 0.003344709945618626,
+        "Vatican_Library": 0.04598785519278635,
+        "Index_Librorum_Prohibitorum": 0.005040091972863749,
+        "St._Peter's_Basilica": 0.0039018320754549123,
+        "Vatican_Hill": 0.001976407417040883,
+        "Congregation_for_the_Doctrine_of_the_Faith": 0.036217161031997014,
+        "Codex_Vaticanus": 0.011896761392845975,
+        "<unk_wid>": 3.5192549348890816e-19
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Pope_Benedict_XVI",
+       "score": 1.0,
+       "start": 178,
+       "end": 180,
+       "tokens": "Benedict XVI",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 0.9171144881215895,
+       "start": 49,
+       "end": 51,
+       "tokens": "Sistine Chapel",
+       "labelScoreMap": {
+        "7778930|Sistine_Chapel": 0.9171144881215895
+       }
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 0.9282725765989608,
+       "start": 8,
+       "end": 10,
+       "tokens": "Sistine Chapel",
+       "labelScoreMap": {
+        "7778930|Sistine_Chapel": 0.9282725765989608
+       }
+      },
+      {
+       "label": "Vatican_City",
+       "score": 0.9612502421320973,
+       "start": 53,
+       "end": 55,
+       "tokens": "Vatican City",
+       "labelScoreMap": {
+        "6691831|Vatican_City": 0.9612502421320973
+       }
+      },
+      {
+       "label": "Saint_Peter",
+       "score": 0.4105872842601161,
+       "start": 134,
+       "end": 135,
+       "tokens": "Peter",
+       "labelScoreMap": {
+        "2624652|Aarhus": 0.01878453334733664
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816655107940861,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.0169834134310838,
+        "1788859|Xinhua_County": 0.0013510757748299482
+       }
+      },
+      {
+       "label": "St._Peter's_Basilica",
+       "score": 0.8726132436117957,
+       "start": 75,
+       "end": 79,
+       "tokens": "St Peter 's basilica",
+       "labelScoreMap": {
+        "6269268|St._Peter's_Basilica": 0.8726132436117957
+       }
+      },
+      {
+       "label": "St._Peter's_Basilica",
+       "score": 0.9301230053331322,
+       "start": 133,
+       "end": 137,
+       "tokens": "St. Peter 's Basilica",
+       "labelScoreMap": {
+        "6269268|St._Peter's_Basilica": 0.9301230053331322
+       }
+      },
+      {
+       "label": "Saint_Peter",
+       "score": 0.42537304709660195,
+       "start": 76,
+       "end": 77,
+       "tokens": "Peter",
+       "labelScoreMap": {
+        "2624652|Aarhus": 0.013225686858652996
+       }
+      },
+      {
+       "label": "Sistine_Chapel",
+       "score": 0.9290069060246082,
+       "start": 23,
+       "end": 25,
+       "tokens": "Sistine Chapel",
+       "labelScoreMap": {
+        "7778930|Sistine_Chapel": 0.9290069060246082
+       }
+      },
+      {
+       "label": "Holy_See",
+       "score": 0.4635925688357788,
+       "start": 31,
+       "end": 32,
+       "tokens": "VATICAN",
+       "labelScoreMap": {
+        "6691831|Vatican_City": 0.33414759226162066,
+        "6946427|Vatican_Museums": 0.01699456078526743,
+        "6269268|St._Peter's_Basilica": 0.0039018320754549123
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

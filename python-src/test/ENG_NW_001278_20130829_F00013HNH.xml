@@ -1,0 +1,4927 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130829_F00013HNH.xml",
+ "text": "2013-08-29T18:34:18\nChina Focus: Luxury mooncakes lose attraction amid frugality drive\nChina Focus: Luxury mooncakes lose attraction amid frugality drive\nBEIJING, Aug. 29 (Xinhua) -- Luxury mooncakes that used to raise eyebrows because of their cost have rarely been seen ahead of this year's Mid-Autumn Festival due to China's anti-extravagance campaign.\n\"We usually would have sold mooncakes worth half a million yuan by this time in previous years, but this year we have only netted tens of thousands of yuan,\" complained Li Aihua, who owns an online mooncake franchise shop in Chengdu, capital of southwest China's Sichuan Province.\n\"Few people are interested in mooncake gift packages worth 500 yuan (81 U.S. dollars) or above, while purchases by government organizations in large quantities are hardly seen anymore,\" Li said.\nThe unpopularity of the luxury mooncakes followed a meeting of the Communist Party of China (CPC) Central Commission for Discipline Inspection last week.\nThe CPC's top disciplinary arm called for efforts to fight the \"four forms of decadence\": formalism, bureaucratism, hedonism and extravagance.\nPractices like giving gifts or holding banquets using public funds around festivals, such as the forthcoming Mid-Autumn Festival which falls on Sept. 19 this year, must be restrained, according to a statement after the meeting.\nDisciplinary departments have been urged to tighten supervision and enforcement of discipline, alerting the entire Party by exposing and punishing violators.\nDisciplinary arms at provincial levels have banned the use of public funds to give gifts in a bid to improve the work style of government agencies.\n\"These measures are sort of an extension of the 'eight-point rule' announced earlier, and the mooncake market has been affected consequently,\" said Xiao Jinming, a Shandong University law professor.\nChina's CPC leadership, elected at a Party congress last November,introduced an \"eight-point\" rules to fight bureaucratism and formalism late last year, urging CPC officials to reduce pomp, ceremony, and bureaucratic visits and meetings.\nThe government should introduce more systematic and tangible measures so as to eradicate corruption behind extravagant behaviors, according to experts.\nXiao said the government needs to further prevent and punish corruption in the disguise of gift-giving.\nMore importantly, gift-giving using public funds must be stopped, said He Zengke, deputy director of the government innovation institute at Peking University.\n\"This requires stricter budget management, supervision and audit,\" He said. Enditem",
+ "tokens": [
+  "2013-08-29T18:34:18",
+  "China",
+  "Focus",
+  ":",
+  "Luxury",
+  "mooncakes",
+  "lose",
+  "attraction",
+  "amid",
+  "frugality",
+  "drive",
+  "China",
+  "Focus",
+  ":",
+  "Luxury",
+  "mooncakes",
+  "lose",
+  "attraction",
+  "amid",
+  "frugality",
+  "drive",
+  "BEIJING",
+  ",",
+  "Aug.",
+  "29",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "Luxury",
+  "mooncakes",
+  "that",
+  "used",
+  "to",
+  "raise",
+  "eyebrows",
+  "because",
+  "of",
+  "their",
+  "cost",
+  "have",
+  "rarely",
+  "been",
+  "seen",
+  "ahead",
+  "of",
+  "this",
+  "year",
+  "'s",
+  "Mid",
+  "-",
+  "Autumn",
+  "Festival",
+  "due",
+  "to",
+  "China",
+  "'s",
+  "anti",
+  "-",
+  "extravagance",
+  "campaign",
+  ".",
+  "\"",
+  "We",
+  "usually",
+  "would",
+  "have",
+  "sold",
+  "mooncakes",
+  "worth",
+  "half",
+  "a",
+  "million",
+  "yuan",
+  "by",
+  "this",
+  "time",
+  "in",
+  "previous",
+  "years",
+  ",",
+  "but",
+  "this",
+  "year",
+  "we",
+  "have",
+  "only",
+  "netted",
+  "tens",
+  "of",
+  "thousands",
+  "of",
+  "yuan",
+  ",",
+  "\"",
+  "complained",
+  "Li",
+  "Aihua",
+  ",",
+  "who",
+  "owns",
+  "an",
+  "online",
+  "mooncake",
+  "franchise",
+  "shop",
+  "in",
+  "Chengdu",
+  ",",
+  "capital",
+  "of",
+  "southwest",
+  "China",
+  "'s",
+  "Sichuan",
+  "Province",
+  ".",
+  "\"",
+  "Few",
+  "people",
+  "are",
+  "interested",
+  "in",
+  "mooncake",
+  "gift",
+  "packages",
+  "worth",
+  "500",
+  "yuan",
+  "(",
+  "81",
+  "U.S.",
+  "dollars",
+  ")",
+  "or",
+  "above",
+  ",",
+  "while",
+  "purchases",
+  "by",
+  "government",
+  "organizations",
+  "in",
+  "large",
+  "quantities",
+  "are",
+  "hardly",
+  "seen",
+  "anymore",
+  ",",
+  "\"",
+  "Li",
+  "said",
+  ".",
+  "The",
+  "unpopularity",
+  "of",
+  "the",
+  "luxury",
+  "mooncakes",
+  "followed",
+  "a",
+  "meeting",
+  "of",
+  "the",
+  "Communist",
+  "Party",
+  "of",
+  "China",
+  "(",
+  "CPC",
+  ")",
+  "Central",
+  "Commission",
+  "for",
+  "Discipline",
+  "Inspection",
+  "last",
+  "week",
+  ".",
+  "The",
+  "CPC",
+  "'s",
+  "top",
+  "disciplinary",
+  "arm",
+  "called",
+  "for",
+  "efforts",
+  "to",
+  "fight",
+  "the",
+  "\"",
+  "four",
+  "forms",
+  "of",
+  "decadence",
+  "\"",
+  ":",
+  "formalism",
+  ",",
+  "bureaucratism",
+  ",",
+  "hedonism",
+  "and",
+  "extravagance",
+  ".",
+  "Practices",
+  "like",
+  "giving",
+  "gifts",
+  "or",
+  "holding",
+  "banquets",
+  "using",
+  "public",
+  "funds",
+  "around",
+  "festivals",
+  ",",
+  "such",
+  "as",
+  "the",
+  "forthcoming",
+  "Mid",
+  "-",
+  "Autumn",
+  "Festival",
+  "which",
+  "falls",
+  "on",
+  "Sept.",
+  "19",
+  "this",
+  "year",
+  ",",
+  "must",
+  "be",
+  "restrained",
+  ",",
+  "according",
+  "to",
+  "a",
+  "statement",
+  "after",
+  "the",
+  "meeting",
+  ".",
+  "Disciplinary",
+  "departments",
+  "have",
+  "been",
+  "urged",
+  "to",
+  "tighten",
+  "supervision",
+  "and",
+  "enforcement",
+  "of",
+  "discipline",
+  ",",
+  "alerting",
+  "the",
+  "entire",
+  "Party",
+  "by",
+  "exposing",
+  "and",
+  "punishing",
+  "violators",
+  ".",
+  "Disciplinary",
+  "arms",
+  "at",
+  "provincial",
+  "levels",
+  "have",
+  "banned",
+  "the",
+  "use",
+  "of",
+  "public",
+  "funds",
+  "to",
+  "give",
+  "gifts",
+  "in",
+  "a",
+  "bid",
+  "to",
+  "improve",
+  "the",
+  "work",
+  "style",
+  "of",
+  "government",
+  "agencies",
+  ".",
+  "\"",
+  "These",
+  "measures",
+  "are",
+  "sort",
+  "of",
+  "an",
+  "extension",
+  "of",
+  "the",
+  "'",
+  "eight",
+  "-",
+  "point",
+  "rule",
+  "'",
+  "announced",
+  "earlier",
+  ",",
+  "and",
+  "the",
+  "mooncake",
+  "market",
+  "has",
+  "been",
+  "affected",
+  "consequently",
+  ",",
+  "\"",
+  "said",
+  "Xiao",
+  "Jinming",
+  ",",
+  "a",
+  "Shandong",
+  "University",
+  "law",
+  "professor",
+  ".",
+  "China",
+  "'s",
+  "CPC",
+  "leadership",
+  ",",
+  "elected",
+  "at",
+  "a",
+  "Party",
+  "congress",
+  "last",
+  "November,introduced",
+  "an",
+  "\"",
+  "eight",
+  "-",
+  "point",
+  "\"",
+  "rules",
+  "to",
+  "fight",
+  "bureaucratism",
+  "and",
+  "formalism",
+  "late",
+  "last",
+  "year",
+  ",",
+  "urging",
+  "CPC",
+  "officials",
+  "to",
+  "reduce",
+  "pomp",
+  ",",
+  "ceremony",
+  ",",
+  "and",
+  "bureaucratic",
+  "visits",
+  "and",
+  "meetings",
+  ".",
+  "The",
+  "government",
+  "should",
+  "introduce",
+  "more",
+  "systematic",
+  "and",
+  "tangible",
+  "measures",
+  "so",
+  "as",
+  "to",
+  "eradicate",
+  "corruption",
+  "behind",
+  "extravagant",
+  "behaviors",
+  ",",
+  "according",
+  "to",
+  "experts",
+  ".",
+  "Xiao",
+  "said",
+  "the",
+  "government",
+  "needs",
+  "to",
+  "further",
+  "prevent",
+  "and",
+  "punish",
+  "corruption",
+  "in",
+  "the",
+  "disguise",
+  "of",
+  "gift",
+  "-",
+  "giving",
+  ".",
+  "More",
+  "importantly",
+  ",",
+  "gift",
+  "-",
+  "giving",
+  "using",
+  "public",
+  "funds",
+  "must",
+  "be",
+  "stopped",
+  ",",
+  "said",
+  "He",
+  "Zengke",
+  ",",
+  "deputy",
+  "director",
+  "of",
+  "the",
+  "government",
+  "innovation",
+  "institute",
+  "at",
+  "Peking",
+  "University",
+  ".",
+  "\"",
+  "This",
+  "requires",
+  "stricter",
+  "budget",
+  "management",
+  ",",
+  "supervision",
+  "and",
+  "audit",
+  ",",
+  "\"",
+  "He",
+  "said",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   62,
+   117,
+   154,
+   180,
+   207,
+   248,
+   271,
+   298,
+   337,
+   380,
+   402,
+   421,
+   449,
+   464,
+   465
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Sichuan",
+       "score": 1.0,
+       "start": 114,
+       "end": 116,
+       "tokens": "Sichuan Province"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 328,
+       "end": 330,
+       "tokens": "Xiao Jinming"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "CPC"
+      },
+      {
+       "label": "Peking_University",
+       "score": 1.0,
+       "start": 446,
+       "end": 448,
+       "tokens": "Peking University"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 96,
+       "end": 98,
+       "tokens": "Li Aihua"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "China"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Chengdu",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Chengdu"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 165,
+       "end": 169,
+       "tokens": "Communist Party of China"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "CPC"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "China"
+      },
+      {
+       "label": "Beijing",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "China"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Xiao"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Li"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "China"
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 172,
+       "end": 177,
+       "tokens": "Central Commission for Discipline Inspection"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "He"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 435,
+       "end": 437,
+       "tokens": "He Zengke"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "China"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 111,
+       "end": 113,
+       "tokens": "southwest China"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "CPC"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "China"
+      },
+      {
+       "label": "Shandong_University",
+       "score": 1.0,
+       "start": 332,
+       "end": 334,
+       "tokens": "Shandong University"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "CPC"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 114,
+       "end": 116,
+       "tokens": "Sichuan Province"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 328,
+       "end": 330,
+       "tokens": "Xiao Jinming"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "CPC"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 446,
+       "end": 448,
+       "tokens": "Peking University"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 96,
+       "end": 98,
+       "tokens": "Li Aihua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "U.S."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Chengdu"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 165,
+       "end": 169,
+       "tokens": "Communist Party of China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "CPC"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "China"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Xiao"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Li"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 172,
+       "end": 177,
+       "tokens": "Central Commission for Discipline Inspection"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "He"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 435,
+       "end": 437,
+       "tokens": "He Zengke"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "China"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 111,
+       "end": 113,
+       "tokens": "southwest China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "CPC"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 332,
+       "end": 334,
+       "tokens": "Shandong University"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "CPC"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-08-29T18:34:18",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-08-29T18:34:18"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "China"
+      },
+      {
+       "label": "Focus",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Focus"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": ":"
+      },
+      {
+       "label": "Luxury",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Luxury"
+      },
+      {
+       "label": "mooncakes",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "mooncakes"
+      },
+      {
+       "label": "lose",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "lose"
+      },
+      {
+       "label": "attraction",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "attraction"
+      },
+      {
+       "label": "amid",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "amid"
+      },
+      {
+       "label": "frugality",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "frugality"
+      },
+      {
+       "label": "drive",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "drive"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "China"
+      },
+      {
+       "label": "Focus",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Focus"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": ":"
+      },
+      {
+       "label": "Luxury",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "Luxury"
+      },
+      {
+       "label": "mooncakes",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "mooncakes"
+      },
+      {
+       "label": "lose",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "lose"
+      },
+      {
+       "label": "attraction",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "attraction"
+      },
+      {
+       "label": "amid",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "amid"
+      },
+      {
+       "label": "frugality",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "frugality"
+      },
+      {
+       "label": "drive",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "drive"
+      },
+      {
+       "label": "BEIJING",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": ","
+      },
+      {
+       "label": "Aug.",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Aug."
+      },
+      {
+       "label": "29",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "29"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "--"
+      },
+      {
+       "label": "Luxury",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Luxury"
+      },
+      {
+       "label": "mooncakes",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "mooncakes"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "that"
+      },
+      {
+       "label": "used",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "used"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "to"
+      },
+      {
+       "label": "raise",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "raise"
+      },
+      {
+       "label": "eyebrows",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "eyebrows"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "because"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "of"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "their"
+      },
+      {
+       "label": "cost",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "cost"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "have"
+      },
+      {
+       "label": "rarely",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "rarely"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "been"
+      },
+      {
+       "label": "seen",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "seen"
+      },
+      {
+       "label": "ahead",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "ahead"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "of"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "this"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "year"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "'s"
+      },
+      {
+       "label": "Mid",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Mid"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "-"
+      },
+      {
+       "label": "Autumn",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Autumn"
+      },
+      {
+       "label": "Festival",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Festival"
+      },
+      {
+       "label": "due",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "due"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "to"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "China"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "'s"
+      },
+      {
+       "label": "anti",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "anti"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "-"
+      },
+      {
+       "label": "extravagance",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "extravagance"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "campaign"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "\""
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "We"
+      },
+      {
+       "label": "usually",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "usually"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "would"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "have"
+      },
+      {
+       "label": "sold",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "sold"
+      },
+      {
+       "label": "mooncakes",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "mooncakes"
+      },
+      {
+       "label": "worth",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "worth"
+      },
+      {
+       "label": "half",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "half"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "a"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "million"
+      },
+      {
+       "label": "yuan",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "yuan"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "by"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "this"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "time"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "in"
+      },
+      {
+       "label": "previous",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "previous"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "years"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "but"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "this"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "year"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "we"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "have"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "only"
+      },
+      {
+       "label": "netted",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "netted"
+      },
+      {
+       "label": "tens",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "tens"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "of"
+      },
+      {
+       "label": "thousands",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "thousands"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "of"
+      },
+      {
+       "label": "yuan",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "yuan"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "\""
+      },
+      {
+       "label": "complained",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "complained"
+      },
+      {
+       "label": "Li",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Li"
+      },
+      {
+       "label": "Aihua",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "Aihua"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "who"
+      },
+      {
+       "label": "owns",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "owns"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "an"
+      },
+      {
+       "label": "online",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "online"
+      },
+      {
+       "label": "mooncake",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "mooncake"
+      },
+      {
+       "label": "franchise",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "franchise"
+      },
+      {
+       "label": "shop",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "shop"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "in"
+      },
+      {
+       "label": "Chengdu",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Chengdu"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": ","
+      },
+      {
+       "label": "capital",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "capital"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "of"
+      },
+      {
+       "label": "southwest",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "southwest"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "China"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "'s"
+      },
+      {
+       "label": "Sichuan",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Sichuan"
+      },
+      {
+       "label": "Province",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Province"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "\""
+      },
+      {
+       "label": "Few",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "Few"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "people"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "are"
+      },
+      {
+       "label": "interested",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "interested"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "in"
+      },
+      {
+       "label": "mooncake",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "mooncake"
+      },
+      {
+       "label": "gift",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "gift"
+      },
+      {
+       "label": "packages",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "packages"
+      },
+      {
+       "label": "worth",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "worth"
+      },
+      {
+       "label": "500",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "500"
+      },
+      {
+       "label": "yuan",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "yuan"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "("
+      },
+      {
+       "label": "81",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "81"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "U.S."
+      },
+      {
+       "label": "dollars",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "dollars"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": ")"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "or"
+      },
+      {
+       "label": "above",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "above"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": ","
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "while"
+      },
+      {
+       "label": "purchases",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "purchases"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "by"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "government"
+      },
+      {
+       "label": "organizations",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "organizations"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "in"
+      },
+      {
+       "label": "large",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "large"
+      },
+      {
+       "label": "quantities",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "quantities"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "are"
+      },
+      {
+       "label": "hardly",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "hardly"
+      },
+      {
+       "label": "seen",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "seen"
+      },
+      {
+       "label": "anymore",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "anymore"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "\""
+      },
+      {
+       "label": "Li",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Li"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "The"
+      },
+      {
+       "label": "unpopularity",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "unpopularity"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "the"
+      },
+      {
+       "label": "luxury",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "luxury"
+      },
+      {
+       "label": "mooncakes",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "mooncakes"
+      },
+      {
+       "label": "followed",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "followed"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "a"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "meeting"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "the"
+      },
+      {
+       "label": "Communist",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "Communist"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "Party"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "of"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "China"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "("
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "CPC"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": ")"
+      },
+      {
+       "label": "Central",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "Central"
+      },
+      {
+       "label": "Commission",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "Commission"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "for"
+      },
+      {
+       "label": "Discipline",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "Discipline"
+      },
+      {
+       "label": "Inspection",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "Inspection"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "last"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "week"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "The"
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "CPC"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "'s"
+      },
+      {
+       "label": "top",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "top"
+      },
+      {
+       "label": "disciplinary",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "disciplinary"
+      },
+      {
+       "label": "arm",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "arm"
+      },
+      {
+       "label": "called",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "called"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "for"
+      },
+      {
+       "label": "efforts",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "efforts"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "to"
+      },
+      {
+       "label": "fight",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "fight"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "the"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "\""
+      },
+      {
+       "label": "four",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "four"
+      },
+      {
+       "label": "forms",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "forms"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "of"
+      },
+      {
+       "label": "decadence",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "decadence"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "\""
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": ":"
+      },
+      {
+       "label": "formalism",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "formalism"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": ","
+      },
+      {
+       "label": "bureaucratism",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "bureaucratism"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": ","
+      },
+      {
+       "label": "hedonism",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "hedonism"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "and"
+      },
+      {
+       "label": "extravagance",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "extravagance"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "."
+      },
+      {
+       "label": "Practices",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Practices"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "like"
+      },
+      {
+       "label": "giving",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "giving"
+      },
+      {
+       "label": "gifts",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "gifts"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "or"
+      },
+      {
+       "label": "holding",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "holding"
+      },
+      {
+       "label": "banquets",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "banquets"
+      },
+      {
+       "label": "using",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "using"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "public"
+      },
+      {
+       "label": "funds",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "funds"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "around"
+      },
+      {
+       "label": "festivals",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "festivals"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": ","
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "such"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "the"
+      },
+      {
+       "label": "forthcoming",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "forthcoming"
+      },
+      {
+       "label": "Mid",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "Mid"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "-"
+      },
+      {
+       "label": "Autumn",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "Autumn"
+      },
+      {
+       "label": "Festival",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Festival"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "which"
+      },
+      {
+       "label": "falls",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "falls"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "on"
+      },
+      {
+       "label": "Sept.",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "Sept."
+      },
+      {
+       "label": "19",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "19"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "this"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "year"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": ","
+      },
+      {
+       "label": "must",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "must"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "be"
+      },
+      {
+       "label": "restrained",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "restrained"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "a"
+      },
+      {
+       "label": "statement",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "statement"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "the"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "meeting"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "."
+      },
+      {
+       "label": "Disciplinary",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "Disciplinary"
+      },
+      {
+       "label": "departments",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "departments"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "been"
+      },
+      {
+       "label": "urged",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "urged"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "to"
+      },
+      {
+       "label": "tighten",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "tighten"
+      },
+      {
+       "label": "supervision",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "supervision"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "and"
+      },
+      {
+       "label": "enforcement",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "enforcement"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "of"
+      },
+      {
+       "label": "discipline",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "discipline"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": ","
+      },
+      {
+       "label": "alerting",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "alerting"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "the"
+      },
+      {
+       "label": "entire",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "entire"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "Party"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "by"
+      },
+      {
+       "label": "exposing",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "exposing"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "and"
+      },
+      {
+       "label": "punishing",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "punishing"
+      },
+      {
+       "label": "violators",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "violators"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "."
+      },
+      {
+       "label": "Disciplinary",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Disciplinary"
+      },
+      {
+       "label": "arms",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "arms"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "at"
+      },
+      {
+       "label": "provincial",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "provincial"
+      },
+      {
+       "label": "levels",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "levels"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "have"
+      },
+      {
+       "label": "banned",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "banned"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "the"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "use"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "of"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "public"
+      },
+      {
+       "label": "funds",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "funds"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "to"
+      },
+      {
+       "label": "give",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "give"
+      },
+      {
+       "label": "gifts",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "gifts"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "a"
+      },
+      {
+       "label": "bid",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "bid"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "to"
+      },
+      {
+       "label": "improve",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "improve"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "the"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "work"
+      },
+      {
+       "label": "style",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "style"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "of"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "government"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "agencies"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "\""
+      },
+      {
+       "label": "These",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "These"
+      },
+      {
+       "label": "measures",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "measures"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "are"
+      },
+      {
+       "label": "sort",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "sort"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "of"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "an"
+      },
+      {
+       "label": "extension",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "extension"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "the"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "'"
+      },
+      {
+       "label": "eight",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "eight"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "-"
+      },
+      {
+       "label": "point",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "point"
+      },
+      {
+       "label": "rule",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "rule"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "'"
+      },
+      {
+       "label": "announced",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "announced"
+      },
+      {
+       "label": "earlier",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "earlier"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "the"
+      },
+      {
+       "label": "mooncake",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "mooncake"
+      },
+      {
+       "label": "market",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "market"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "been"
+      },
+      {
+       "label": "affected",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "affected"
+      },
+      {
+       "label": "consequently",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "consequently"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "\""
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "said"
+      },
+      {
+       "label": "Xiao",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "Xiao"
+      },
+      {
+       "label": "Jinming",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "Jinming"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "a"
+      },
+      {
+       "label": "Shandong",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Shandong"
+      },
+      {
+       "label": "University",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "University"
+      },
+      {
+       "label": "law",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "law"
+      },
+      {
+       "label": "professor",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "professor"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "."
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "China"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "'s"
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "CPC"
+      },
+      {
+       "label": "leadership",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "leadership"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": ","
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "elected"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "a"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "Party"
+      },
+      {
+       "label": "congress",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "congress"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "last"
+      },
+      {
+       "label": "November,introduced",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "November,introduced"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "an"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "\""
+      },
+      {
+       "label": "eight",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "eight"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "-"
+      },
+      {
+       "label": "point",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "point"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "\""
+      },
+      {
+       "label": "rules",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "rules"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "to"
+      },
+      {
+       "label": "fight",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "fight"
+      },
+      {
+       "label": "bureaucratism",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "bureaucratism"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "and"
+      },
+      {
+       "label": "formalism",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "formalism"
+      },
+      {
+       "label": "late",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "late"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "last"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "year"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": ","
+      },
+      {
+       "label": "urging",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "urging"
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "CPC"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "officials"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "to"
+      },
+      {
+       "label": "reduce",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "reduce"
+      },
+      {
+       "label": "pomp",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "pomp"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": ","
+      },
+      {
+       "label": "ceremony",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "ceremony"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "and"
+      },
+      {
+       "label": "bureaucratic",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "bureaucratic"
+      },
+      {
+       "label": "visits",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "visits"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "and"
+      },
+      {
+       "label": "meetings",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "meetings"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "The"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "government"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "should"
+      },
+      {
+       "label": "introduce",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "introduce"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "more"
+      },
+      {
+       "label": "systematic",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "systematic"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "and"
+      },
+      {
+       "label": "tangible",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "tangible"
+      },
+      {
+       "label": "measures",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "measures"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "so"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "as"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "to"
+      },
+      {
+       "label": "eradicate",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "eradicate"
+      },
+      {
+       "label": "corruption",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "corruption"
+      },
+      {
+       "label": "behind",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "behind"
+      },
+      {
+       "label": "extravagant",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "extravagant"
+      },
+      {
+       "label": "behaviors",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "behaviors"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "to"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "experts"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "."
+      },
+      {
+       "label": "Xiao",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Xiao"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "the"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "government"
+      },
+      {
+       "label": "needs",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "needs"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "to"
+      },
+      {
+       "label": "further",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "further"
+      },
+      {
+       "label": "prevent",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "prevent"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "and"
+      },
+      {
+       "label": "punish",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "punish"
+      },
+      {
+       "label": "corruption",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "corruption"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "the"
+      },
+      {
+       "label": "disguise",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "disguise"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "of"
+      },
+      {
+       "label": "gift",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "gift"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "-"
+      },
+      {
+       "label": "giving",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "giving"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "."
+      },
+      {
+       "label": "More",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "More"
+      },
+      {
+       "label": "importantly",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "importantly"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": ","
+      },
+      {
+       "label": "gift",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "gift"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "-"
+      },
+      {
+       "label": "giving",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "giving"
+      },
+      {
+       "label": "using",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "using"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "public"
+      },
+      {
+       "label": "funds",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "funds"
+      },
+      {
+       "label": "must",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "must"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "be"
+      },
+      {
+       "label": "stopped",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "stopped"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "said"
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "He"
+      },
+      {
+       "label": "Zengke",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "Zengke"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": ","
+      },
+      {
+       "label": "deputy",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "deputy"
+      },
+      {
+       "label": "director",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "director"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "the"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "government"
+      },
+      {
+       "label": "innovation",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "innovation"
+      },
+      {
+       "label": "institute",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "institute"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "at"
+      },
+      {
+       "label": "Peking",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "Peking"
+      },
+      {
+       "label": "University",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "University"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "\""
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "This"
+      },
+      {
+       "label": "requires",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "requires"
+      },
+      {
+       "label": "stricter",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "stricter"
+      },
+      {
+       "label": "budget",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "budget"
+      },
+      {
+       "label": "management",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "management"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": ","
+      },
+      {
+       "label": "supervision",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "supervision"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "and"
+      },
+      {
+       "label": "audit",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "audit"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "\""
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "He"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Sichuan",
+       "score": 0.993220341798707,
+       "start": 114,
+       "end": 116,
+       "tokens": "Sichuan Province",
+       "labelScoreMap": {
+        "Sichuan": 0.993220341798707,
+        "2008_Sichuan_earthquake": 0.0067796582012931315,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 328,
+       "end": 330,
+       "tokens": "Xiao Jinming",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.3575226509780591,
+       "start": 181,
+       "end": 182,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.3575226509780591,
+        "Communist_Party_of_China": 0.3053505770605515,
+        "Amstrad_CPC": 0.044738180765220806,
+        "Conservative_Party_of_Canada": 0.25800279767004,
+        "Amstrad": 0.01135267567353326,
+        "CPC_Corporation": 0.0041154598629300305,
+        "Congressional_Progressive_Caucus": 0.004068067037114456,
+        "Canadian_Paralympic_Committee": 0.014849590952550883,
+        "<unk_wid>": 4.364936529193385e-24
+       }
+      },
+      {
+       "label": "Peking_University",
+       "score": 1.0,
+       "start": 446,
+       "end": 448,
+       "tokens": "Peking University",
+       "labelScoreMap": {
+        "Peking_University": 1.0,
+        "<unk_wid>": 1.9587719877126875e-37
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 96,
+       "end": 98,
+       "tokens": "Li Aihua",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.8613000666296525,
+       "start": 11,
+       "end": 12,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.8613000666296525,
+        "Taiwan": 0.07121476079810087,
+        "China_national_football_team": 0.010720196832722913,
+        "Emperor_of_China": 0.011441919652511085,
+        "Second_Sino-Japanese_War": 0.01764547348612611,
+        "China_men's_national_basketball_team": 0.0034567471033103998,
+        "People's_Liberation_Army": 0.0020357462893067246,
+        "China_Mi\u00e9ville": 0.0015977295696099083,
+        "China_national_rugby_union_team": 0.0015866587850291171,
+        "China_women's_national_football_team": 0.001512204519493655,
+        "Chinese_mythology": 0.0014553335305717808,
+        "A1_Team_China": 0.0014379088214287563,
+        "China_national_badminton_team": 0.0016412010138394412,
+        "China_national_cricket_team": 0.001306971516029086,
+        "Mainland_China": 0.00918251172496712,
+        "Traditional_Chinese_medicine": 0.0012670399297227794,
+        "China,_Maine": 0.0011975297975781334,
+        "<unk_wid>": 1.2004295629818697e-26
+       }
+      },
+      {
+       "label": "United_States_dollar",
+       "score": 0.5443891014889903,
+       "start": 131,
+       "end": 132,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.36197786183271585,
+        "United_States_dollar": 0.5443891014889903,
+        "Billboard_Hot_100": 0.02077132831772359,
+        "American_English": 0.012775036711090634,
+        "Recording_Industry_Association_of_America": 0.008572562198876104,
+        "Us_(Peter_Gabriel_album)": 0.0016877055482286175,
+        "Federal_government_of_the_United_States": 0.0016377132824092007,
+        "United_States_men's_national_soccer_team": 0.001029224672318726,
+        "United_States_Armed_Forces": 0.0009891386097887383,
+        "U.S._state": 0.04352854303462087,
+        "Billboard_charts": 0.0009296437993787984,
+        "United_States_Congress": 0.0017121405038585393,
+        "<unk_wid>": 5.780397079268208e-35
+       }
+      },
+      {
+       "label": "Chengdu",
+       "score": 0.9822209016594877,
+       "start": 107,
+       "end": 108,
+       "tokens": "Chengdu",
+       "labelScoreMap": {
+        "Chengdu": 0.9822209016594877,
+        "Chengdu_Metro": 0.005904196023840277,
+        "Chengdu_Aircraft_Industry_Group": 0.005378073521393828,
+        "Chengdu_Military_Region": 0.0036098334492068525,
+        "Chengdu_Shuangliu_International_Airport": 0.0028869953460713958,
+        "<unk_wid>": 8.090251327632004e-41
+       }
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 165,
+       "end": 169,
+       "tokens": "Communist Party of China",
+       "labelScoreMap": {
+        "Communist_Party_of_China": 1.0,
+        "<unk_wid>": 4.203895392974451e-45
+       }
+      },
+      {
+       "label": "Conservative_Party_of_Canada",
+       "score": 0.4582487085067627,
+       "start": 339,
+       "end": 340,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.3463969452136688,
+        "Communist_Party_of_China": 0.13342353678407412,
+        "Amstrad_CPC": 0.04339910652656208,
+        "Conservative_Party_of_Canada": 0.4582487085067627,
+        "Amstrad": 0.010849526164507772,
+        "CPC_Corporation": 0.003353879162456952,
+        "Congressional_Progressive_Caucus": 0.0022196144492769234,
+        "Canadian_Paralympic_Committee": 0.002108683192690619,
+        "<unk_wid>": 6.348106120459894e-35
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9773011702333915,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9773011702333915,
+        "Xinhua_District,_Tainan": 0.016958478561555128,
+        "Xinhua_County": 0.005740351205053201,
+        "<unk_wid>": 2.279285584826302e-21
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.883408066721239,
+       "start": 1,
+       "end": 2,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.883408066721239,
+        "Taiwan": 0.05344164898230171,
+        "China_national_football_team": 0.011103684850372098,
+        "Emperor_of_China": 0.010753020891916012,
+        "Second_Sino-Japanese_War": 0.012461955909207375,
+        "China_men's_national_basketball_team": 0.0035387627168578808,
+        "People's_Liberation_Army": 0.0026600083684885966,
+        "China_Mi\u00e9ville": 0.001635307837585521,
+        "China_national_rugby_union_team": 0.0016243199595397564,
+        "China_women's_national_football_team": 0.001551586882738588,
+        "Chinese_mythology": 0.0014851495855487413,
+        "A1_Team_China": 0.0014720456424100544,
+        "China_national_badminton_team": 0.0018321203334074774,
+        "China_national_cricket_team": 0.001338493308942766,
+        "Mainland_China": 0.009169302619427094,
+        "Traditional_Chinese_medicine": 0.0012989022084294536,
+        "China,_Maine": 0.001225623181587681,
+        "<unk_wid>": 1.1000015718793783e-26
+       }
+      },
+      {
+       "label": "Beijing",
+       "score": 0.9622066770494917,
+       "start": 21,
+       "end": 22,
+       "tokens": "BEIJING",
+       "labelScoreMap": {
+        "Beijing": 0.9622066770494917,
+        "China_Open_(tennis)": 0.010362028575099597,
+        "2008_Summer_Olympics": 0.007806769959177895,
+        "Beijing_Railway_Station": 0.004934672369674731,
+        "Beijing_dialect": 0.002410459668681661,
+        "2008_China_Open_(tennis)": 0.0023528207977296287,
+        "Beijing_Capital_International_Airport": 0.0021435116203500446,
+        "Forbidden_City": 0.002380935656379206,
+        "2010_China_Open_(tennis)": 0.001651073832930727,
+        "Beijing_Subway": 0.002327841126666817,
+        "2009_China_Open_(tennis)": 0.0014232093438182652,
+        "<unk_wid>": 4.7163660094819335e-21
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.8848293232534016,
+       "start": 55,
+       "end": 56,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.8848293232534016,
+        "Taiwan": 0.05383909661861314,
+        "China_national_football_team": 0.011170472747751879,
+        "Emperor_of_China": 0.011645506078337076,
+        "Second_Sino-Japanese_War": 0.015281671435023191,
+        "China_men's_national_basketball_team": 0.003544378820597652,
+        "People's_Liberation_Army": 0.00211296449294817,
+        "China_Mi\u00e9ville": 0.0016377559927369112,
+        "China_national_rugby_union_team": 0.0016267459817413,
+        "China_women's_national_football_team": 0.001576831741680282,
+        "Chinese_mythology": 0.0014850757792552519,
+        "A1_Team_China": 0.0014742525438952818,
+        "China_national_badminton_team": 0.0020815772633439307,
+        "China_national_cricket_team": 0.0013402321223757257,
+        "Mainland_China": 0.003833540729042246,
+        "Traditional_Chinese_medicine": 0.0012932201011174576,
+        "China,_Maine": 0.0012273542981389774,
+        "<unk_wid>": 2.672318018261087e-28
+       }
+      },
+      {
+       "label": "Xiao_(flute)",
+       "score": 0.48202616457724407,
+       "start": 402,
+       "end": 403,
+       "tokens": "Xiao",
+       "labelScoreMap": {
+        "Xiao_(flute)": 0.48202616457724407,
+        "King_Xiao_of_Zhou": 0.012874297538709901,
+        "Duke_Xiao_of_Qin": 0.003631770204174565,
+        "Xiao_Qiang": 0.05707574919358224,
+        "Nonprofit_organization": 0.0009902079586816526,
+        "Confucianism": 0.4434018105276076,
+        "<unk_wid>": 3.5792958169590913e-26
+       }
+      },
+      {
+       "label": "Lithium",
+       "score": 0.3929683442531588,
+       "start": 151,
+       "end": 152,
+       "tokens": "Li",
+       "labelScoreMap": {
+        "Lithium": 0.3929683442531588,
+        "Li_people": 0.04252032194992105,
+        "Long_Island_Rail_Road": 0.015040820745390426,
+        "Liberal_International": 0.027517369644595217,
+        "Province_of_Livorno": 0.00838975808149803,
+        "Limburgish_language": 0.01737157031761534,
+        "Li_Na": 0.005203096087235285,
+        "Nils_Liedholm": 0.004957958254321815,
+        "Lion": 0.006134639251269961,
+        "Li_Fang_(tennis)": 0.0033297763321424173,
+        "Beer": 0.004516173261605181,
+        "Li_River_(Guangxi)": 0.00263756363863892,
+        "Li_Keqiang": 0.03188043072991339,
+        "Li_District": 0.0029315763696748163,
+        "Li-Ning": 0.00636726144050491,
+        "Liechtenstein": 0.014920215705687854,
+        "Baroque": 0.021609925599797658,
+        "Weert": 0.0015769172096027984,
+        "Long_Island": 0.3721578399304168,
+        "Lithuania": 0.012606025916342264,
+        "Li_Ting_(tennis)": 0.0013350380709668712,
+        "King_Li_of_Zhou": 0.002105352860854403,
+        "Tsung-Dao_Lee": 0.0019220243488458993,
+        "<unk_wid>": 1.0248989494299961e-19
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9293276942664332,
+       "start": 112,
+       "end": 113,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9293276942664332,
+        "Taiwan": 0.021546052248450794,
+        "China_national_football_team": 0.011380212636466472,
+        "Emperor_of_China": 0.010277600148624291,
+        "Second_Sino-Japanese_War": 0.006138448248984075,
+        "China_men's_national_basketball_team": 0.00370921792968582,
+        "People's_Liberation_Army": 0.001991429373123624,
+        "China_Mi\u00e9ville": 0.0017139554996272695,
+        "China_national_rugby_union_team": 0.0017025541608598096,
+        "China_women's_national_football_team": 0.0016126793729569786,
+        "Chinese_mythology": 0.0015505429006842746,
+        "A1_Team_China": 0.0015429370811086947,
+        "China_national_badminton_team": 0.0016132621912806888,
+        "China_national_cricket_team": 0.0014023260686425341,
+        "Mainland_China": 0.001857441166381152,
+        "Traditional_Chinese_medicine": 0.0013491290587377652,
+        "China,_Maine": 0.0012845176479524933,
+        "<unk_wid>": 1.2203452640993103e-39
+       }
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 172,
+       "end": 177,
+       "tokens": "Central Commission for Discipline Inspection",
+       "labelScoreMap": {
+        "Central_Commission_for_Discipline_Inspection": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Helium",
+       "score": 0.3473004011683195,
+       "start": 461,
+       "end": 462,
+       "tokens": "He",
+       "labelScoreMap": {
+        "Helium": 0.3473004011683195,
+        "Hebrew_language": 0.04038550490830605,
+        "Higher_education": 0.036218728745750765,
+        "Hockey_East": 0.015833847084533288,
+        "John_Lott": 0.01095518626869385,
+        "Bill_Clinton": 0.011075792223735595,
+        "Gda\u0144sk": 0.01196841812410302,
+        "Otto_von_Bismarck": 0.02558709985543871,
+        "J._M._E._McTaggart": 0.010975300789250934,
+        "Prince_(musician)": 0.009847438140600734,
+        "Encyclopedia_of_Life": 0.10771175271587265,
+        "Germany": 0.014765456424492531,
+        "Shyne": 0.005955347135769307,
+        "Leonardo_da_Vinci": 0.008240315833107598,
+        "Paul_Potts": 0.004701548483544955,
+        "Jorge_Luis_Borges": 0.03145061925673564,
+        "Banksy": 0.0033129433799104022,
+        "Doctor_Fate": 0.004946310537174083,
+        "Li_Changchun": 0.04315945708393589,
+        "Daniel_Kahneman": 0.003424010880060802,
+        "Dianic_Wicca": 0.014614661711821297,
+        "Angelo_Reyes": 0.002571366851112764,
+        "Mani_(prophet)": 0.16221195344140446,
+        "Emperor_He_of_Han": 0.04080858991009503,
+        "Flying_Spaghetti_Monster": 0.0022943064277138945,
+        "Jagadish_Chandra_Bose": 0.015925881907701136,
+        "William_Shakespeare": 0.0021641598990544695,
+        "Jack_Thompson_(activist)": 0.002089705736966146,
+        "George_Orwell": 0.00209934541537281,
+        "Bomis": 0.007404549659421281
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 435,
+       "end": 437,
+       "tokens": "He Zengke",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.931532763869793,
+       "start": 337,
+       "end": 338,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.931532763869793,
+        "Taiwan": 0.019249990727340432,
+        "China_national_football_team": 0.011476343258121692,
+        "Emperor_of_China": 0.010299450376426253,
+        "Second_Sino-Japanese_War": 0.006194228035576323,
+        "China_men's_national_basketball_team": 0.0037173989068237726,
+        "People's_Liberation_Army": 0.0019967347183235755,
+        "China_Mi\u00e9ville": 0.001717737047959633,
+        "China_national_rugby_union_team": 0.001706310234212786,
+        "China_women's_national_football_team": 0.0016215916211552177,
+        "Chinese_mythology": 0.0015539642084802703,
+        "A1_Team_China": 0.001546341033090554,
+        "China_national_badminton_team": 0.001715060912482364,
+        "China_national_cricket_team": 0.001405420858833389,
+        "Mainland_China": 0.001627205416295901,
+        "Traditional_Chinese_medicine": 0.0013521073977551844,
+        "China,_Maine": 0.0012873513773298375,
+        "<unk_wid>": 7.120154249219823e-38
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 111,
+       "end": 113,
+       "tokens": "southwest China",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.35235251780320925,
+       "start": 170,
+       "end": 171,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.35235251780320925,
+        "Communist_Party_of_China": 0.24248814599817692,
+        "Amstrad_CPC": 0.04414494698737474,
+        "Conservative_Party_of_Canada": 0.339830403564169,
+        "Amstrad": 0.011035942197262557,
+        "CPC_Corporation": 0.0034965801164812786,
+        "Congressional_Progressive_Caucus": 0.0034476047679779243,
+        "Canadian_Paralympic_Committee": 0.0032038585653483237,
+        "<unk_wid>": 2.354339900517128e-36
+       }
+      },
+      {
+       "label": "People's_Liberation_Army",
+       "score": 0.4814156942255375,
+       "start": 168,
+       "end": 169,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.4780338636709609,
+        "Taiwan": 0.008176274290648862,
+        "China_national_football_team": 0.006238655983482878,
+        "Emperor_of_China": 0.005669388394560469,
+        "Second_Sino-Japanese_War": 0.00294506553198008,
+        "China_men's_national_basketball_team": 0.002033044562990139,
+        "People's_Liberation_Army": 0.4814156942255375,
+        "China_Mi\u00e9ville": 0.0009394477143985569,
+        "China_national_rugby_union_team": 0.0009331985145520443,
+        "China_women's_national_football_team": 0.0008811681455747456,
+        "Chinese_mythology": 0.0008498892737080703,
+        "A1_Team_China": 0.0008457135408887682,
+        "China_national_badminton_team": 0.0008454642244638808,
+        "China_national_cricket_team": 0.0007710868782058439,
+        "Mainland_China": 0.007977264695143036,
+        "Traditional_Chinese_medicine": 0.0007407147502663,
+        "China,_Maine": 0.0007040656026377767,
+        "<unk_wid>": 2.659836082044035e-31
+       }
+      },
+      {
+       "label": "Shandong_University",
+       "score": 1.0,
+       "start": 332,
+       "end": 334,
+       "tokens": "Shandong University",
+       "labelScoreMap": {
+        "Shandong_University": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Conservative_Party_of_Canada",
+       "score": 0.37146541105449515,
+       "start": 366,
+       "end": 367,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.3502521938090742,
+        "Communist_Party_of_China": 0.2056366438350427,
+        "Amstrad_CPC": 0.04388480982056733,
+        "Conservative_Party_of_Canada": 0.37146541105449515,
+        "Amstrad": 0.010972243708902416,
+        "CPC_Corporation": 0.003460717664848245,
+        "Congressional_Progressive_Caucus": 0.0035282755736975356,
+        "Canadian_Paralympic_Committee": 0.010799704533372381,
+        "<unk_wid>": 6.028379983481532e-28
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Sichuan",
+       "score": 0.993220341798707,
+       "start": 114,
+       "end": 116,
+       "tokens": "Sichuan Province",
+       "labelScoreMap": {
+        "1794299|Sichuan": 0.993220341798707
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 328,
+       "end": 330,
+       "tokens": "Xiao Jinming",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.3575226509780591,
+       "start": 181,
+       "end": 182,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Peking_University",
+       "score": 1.0,
+       "start": 446,
+       "end": 448,
+       "tokens": "Peking University",
+       "labelScoreMap": {
+        "8384762|Peking_University": 1.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 96,
+       "end": 98,
+       "tokens": "Li Aihua",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.8613000666296525,
+       "start": 11,
+       "end": 12,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.8613000666296525,
+        "1668284|Taiwan": 0.07121476079810087,
+        "4960817|China,_Maine": 0.0011975297975781334
+       }
+      },
+      {
+       "label": "United_States_dollar",
+       "score": 0.5443891014889903,
+       "start": 131,
+       "end": 132,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.36197786183271585
+       }
+      },
+      {
+       "label": "Chengdu",
+       "score": 0.9822209016594877,
+       "start": 107,
+       "end": 108,
+       "tokens": "Chengdu",
+       "labelScoreMap": {
+        "1815286|Chengdu": 0.9822209016594877,
+        "6301392|Chengdu_Shuangliu_International_Airport": 0.0028869953460713958
+       }
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 165,
+       "end": 169,
+       "tokens": "Communist Party of China",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Conservative_Party_of_Canada",
+       "score": 0.4582487085067627,
+       "start": 339,
+       "end": 340,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9773011702333915,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016958478561555128,
+        "1788859|Xinhua_County": 0.005740351205053201
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.883408066721239,
+       "start": 1,
+       "end": 2,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.883408066721239,
+        "1668284|Taiwan": 0.05344164898230171,
+        "4960817|China,_Maine": 0.001225623181587681
+       }
+      },
+      {
+       "label": "Beijing",
+       "score": 0.9622066770494917,
+       "start": 21,
+       "end": 22,
+       "tokens": "BEIJING",
+       "labelScoreMap": {
+        "2038349|Beijing": 0.9622066770494917,
+        "1816665|Beijing_Railway_Station": 0.004934672369674731,
+        "6301354|Beijing_Capital_International_Airport": 0.0021435116203500446,
+        "8594680|Forbidden_City": 0.002380935656379206
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.8848293232534016,
+       "start": 55,
+       "end": 56,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.8848293232534016,
+        "1668284|Taiwan": 0.05383909661861314,
+        "4960817|China,_Maine": 0.0012273542981389774
+       }
+      },
+      {
+       "label": "Xiao_(flute)",
+       "score": 0.48202616457724407,
+       "start": 402,
+       "end": 403,
+       "tokens": "Xiao",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Lithium",
+       "score": 0.3929683442531588,
+       "start": 151,
+       "end": 152,
+       "tokens": "Li",
+       "labelScoreMap": {
+        "3174658|Province_of_Livorno": 0.00838975808149803,
+        "1803667|Li_River_(Guangxi)": 0.00263756363863892,
+        "1152356|Li_District": 0.0029315763696748163,
+        "3042058|Liechtenstein": 0.014920215705687854,
+        "2744911|Weert": 0.0015769172096027984,
+        "5125123|Long_Island": 0.3721578399304168
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9293276942664332,
+       "start": 112,
+       "end": 113,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9293276942664332,
+        "1668284|Taiwan": 0.021546052248450794,
+        "4960817|China,_Maine": 0.0012845176479524933
+       }
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 172,
+       "end": 177,
+       "tokens": "Central Commission for Discipline Inspection",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Helium",
+       "score": 0.3473004011683195,
+       "start": 461,
+       "end": 462,
+       "tokens": "He",
+       "labelScoreMap": {
+        "7531002|Gda\u0144sk": 0.01196841812410302,
+        "2921044|Germany": 0.014765456424492531
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 435,
+       "end": 437,
+       "tokens": "He Zengke",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.931532763869793,
+       "start": 337,
+       "end": 338,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.931532763869793,
+        "1668284|Taiwan": 0.019249990727340432,
+        "4960817|China,_Maine": 0.0012873513773298375
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 111,
+       "end": 113,
+       "tokens": "southwest China",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.35235251780320925,
+       "start": 170,
+       "end": 171,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "People's_Liberation_Army",
+       "score": 0.4814156942255375,
+       "start": 168,
+       "end": 169,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.4780338636709609,
+        "1668284|Taiwan": 0.008176274290648862,
+        "4960817|China,_Maine": 0.0007040656026377767
+       }
+      },
+      {
+       "label": "Shandong_University",
+       "score": 1.0,
+       "start": 332,
+       "end": 334,
+       "tokens": "Shandong University",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Conservative_Party_of_Canada",
+       "score": 0.37146541105449515,
+       "start": 366,
+       "end": 367,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

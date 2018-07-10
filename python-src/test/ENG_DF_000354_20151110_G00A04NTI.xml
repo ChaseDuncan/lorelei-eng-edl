@@ -1,0 +1,1746 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_DF_000354_20151110_G00A04NTI.xml",
+ "text": "Oregon county lets sheriff ignore 'unconstitutional' gun laws\nhttp://www.foxnews.com/politics/2015.../?intcmp=hpbt1\nExcellent. Good for southern Oregon. \"All\" the communists and by far the most populous part of the state is the Wlllamette Valley from Eugene and north to Portland. Southern Oregon is like a whole other state. It's also the state that elected both Dennis Smith and Ron Wyden in the same election. It can be a wild card.\nJohn Adams said \"We are a Country of laws, not of men\"\nThe truth is that the ruling class gets to choose what laws will be enforced. Go after the guns but don't worry about sanctuary cities etc.\nThe sheriff is on the side of the Constitution, that's what should matter.",
+ "tokens": [
+  "Oregon",
+  "county",
+  "lets",
+  "sheriff",
+  "ignore",
+  "'",
+  "unconstitutional",
+  "'",
+  "gun",
+  "laws",
+  "http://www.foxnews.com/politics/2015.../?intcmp=hpbt1",
+  "Excellent",
+  ".",
+  "Good",
+  "for",
+  "southern",
+  "Oregon",
+  ".",
+  "\"",
+  "All",
+  "\"",
+  "the",
+  "communists",
+  "and",
+  "by",
+  "far",
+  "the",
+  "most",
+  "populous",
+  "part",
+  "of",
+  "the",
+  "state",
+  "is",
+  "the",
+  "Wlllamette",
+  "Valley",
+  "from",
+  "Eugene",
+  "and",
+  "north",
+  "to",
+  "Portland",
+  ".",
+  "Southern",
+  "Oregon",
+  "is",
+  "like",
+  "a",
+  "whole",
+  "other",
+  "state",
+  ".",
+  "It",
+  "'s",
+  "also",
+  "the",
+  "state",
+  "that",
+  "elected",
+  "both",
+  "Dennis",
+  "Smith",
+  "and",
+  "Ron",
+  "Wyden",
+  "in",
+  "the",
+  "same",
+  "election",
+  ".",
+  "It",
+  "can",
+  "be",
+  "a",
+  "wild",
+  "card",
+  ".",
+  "John",
+  "Adams",
+  "said",
+  "\"",
+  "We",
+  "are",
+  "a",
+  "Country",
+  "of",
+  "laws",
+  ",",
+  "not",
+  "of",
+  "men",
+  "\"",
+  "The",
+  "truth",
+  "is",
+  "that",
+  "the",
+  "ruling",
+  "class",
+  "gets",
+  "to",
+  "choose",
+  "what",
+  "laws",
+  "will",
+  "be",
+  "enforced",
+  ".",
+  "Go",
+  "after",
+  "the",
+  "guns",
+  "but",
+  "do",
+  "n't",
+  "worry",
+  "about",
+  "sanctuary",
+  "cities",
+  "etc.",
+  "The",
+  "sheriff",
+  "is",
+  "on",
+  "the",
+  "side",
+  "of",
+  "the",
+  "Constitution",
+  ",",
+  "that",
+  "'s",
+  "what",
+  "should",
+  "matter",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   13,
+   18,
+   44,
+   53,
+   71,
+   78,
+   109,
+   137
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Southern_Oregon",
+       "score": 1.0,
+       "start": 15,
+       "end": 17,
+       "tokens": "southern Oregon"
+      },
+      {
+       "label": "Willamette_Valley",
+       "score": 1.0,
+       "start": 35,
+       "end": 37,
+       "tokens": "Wlllamette Valley"
+      },
+      {
+       "label": "Ron_Wyden",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Ron Wyden"
+      },
+      {
+       "label": "John_Adams",
+       "score": 1.0,
+       "start": 78,
+       "end": 80,
+       "tokens": "John Adams"
+      },
+      {
+       "label": "Eugene,_Oregon",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Eugene"
+      },
+      {
+       "label": "Portland,_Oregon",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "Portland"
+      },
+      {
+       "label": "Southern_Oregon",
+       "score": 1.0,
+       "start": 44,
+       "end": 46,
+       "tokens": "Southern Oregon"
+      },
+      {
+       "label": "Denny_Smith",
+       "score": 1.0,
+       "start": 61,
+       "end": 63,
+       "tokens": "Dennis Smith"
+      },
+      {
+       "label": "Oregon",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Oregon"
+      },
+      {
+       "label": "Oregon",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Oregon"
+      },
+      {
+       "label": "Oregon",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Oregon"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 15,
+       "end": 17,
+       "tokens": "southern Oregon"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 35,
+       "end": 37,
+       "tokens": "Wlllamette Valley"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Ron Wyden"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 78,
+       "end": 80,
+       "tokens": "John Adams"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Eugene"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "Portland"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 44,
+       "end": 46,
+       "tokens": "Southern Oregon"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 61,
+       "end": 63,
+       "tokens": "Dennis Smith"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Oregon"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Oregon"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Oregon"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Oregon",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Oregon"
+      },
+      {
+       "label": "county",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "county"
+      },
+      {
+       "label": "lets",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "lets"
+      },
+      {
+       "label": "sheriff",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "sheriff"
+      },
+      {
+       "label": "ignore",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "ignore"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "'"
+      },
+      {
+       "label": "unconstitutional",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "unconstitutional"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "'"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "gun"
+      },
+      {
+       "label": "laws",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "laws"
+      },
+      {
+       "label": "http://www.foxnews.com/politics/2015.../?intcmp=hpbt1",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "http://www.foxnews.com/politics/2015.../?intcmp=hpbt1"
+      },
+      {
+       "label": "Excellent",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Excellent"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "."
+      },
+      {
+       "label": "Good",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Good"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "for"
+      },
+      {
+       "label": "southern",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "southern"
+      },
+      {
+       "label": "Oregon",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Oregon"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "\""
+      },
+      {
+       "label": "All",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "All"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "\""
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "the"
+      },
+      {
+       "label": "communists",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "communists"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "and"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "by"
+      },
+      {
+       "label": "far",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "far"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "the"
+      },
+      {
+       "label": "most",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "most"
+      },
+      {
+       "label": "populous",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "populous"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "the"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "state"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "the"
+      },
+      {
+       "label": "Wlllamette",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "Wlllamette"
+      },
+      {
+       "label": "Valley",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Valley"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "from"
+      },
+      {
+       "label": "Eugene",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Eugene"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "and"
+      },
+      {
+       "label": "north",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "north"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "to"
+      },
+      {
+       "label": "Portland",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "Portland"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "."
+      },
+      {
+       "label": "Southern",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Southern"
+      },
+      {
+       "label": "Oregon",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Oregon"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "is"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "like"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "a"
+      },
+      {
+       "label": "whole",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "whole"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "other"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "state"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "It"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "'s"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "also"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "the"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "state"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "that"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "elected"
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "both"
+      },
+      {
+       "label": "Dennis",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Dennis"
+      },
+      {
+       "label": "Smith",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Smith"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "and"
+      },
+      {
+       "label": "Ron",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Ron"
+      },
+      {
+       "label": "Wyden",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Wyden"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "the"
+      },
+      {
+       "label": "same",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "same"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "election"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "It"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "can"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "be"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "a"
+      },
+      {
+       "label": "wild",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "wild"
+      },
+      {
+       "label": "card",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "card"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "."
+      },
+      {
+       "label": "John",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "John"
+      },
+      {
+       "label": "Adams",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "Adams"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "said"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "\""
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "We"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "are"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "a"
+      },
+      {
+       "label": "Country",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Country"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "of"
+      },
+      {
+       "label": "laws",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "laws"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": ","
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "not"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "of"
+      },
+      {
+       "label": "men",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "men"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "\""
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "The"
+      },
+      {
+       "label": "truth",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "truth"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "the"
+      },
+      {
+       "label": "ruling",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "ruling"
+      },
+      {
+       "label": "class",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "class"
+      },
+      {
+       "label": "gets",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "gets"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "to"
+      },
+      {
+       "label": "choose",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "choose"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "what"
+      },
+      {
+       "label": "laws",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "laws"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "be"
+      },
+      {
+       "label": "enforced",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "enforced"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "."
+      },
+      {
+       "label": "Go",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Go"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "the"
+      },
+      {
+       "label": "guns",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "guns"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "but"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "n't"
+      },
+      {
+       "label": "worry",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "worry"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "about"
+      },
+      {
+       "label": "sanctuary",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "sanctuary"
+      },
+      {
+       "label": "cities",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "cities"
+      },
+      {
+       "label": "etc.",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "etc."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "The"
+      },
+      {
+       "label": "sheriff",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "sheriff"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "is"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "the"
+      },
+      {
+       "label": "side",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "side"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "the"
+      },
+      {
+       "label": "Constitution",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "Constitution"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": ","
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "that"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "'s"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "what"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "should"
+      },
+      {
+       "label": "matter",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "matter"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Southern_Oregon",
+       "score": 0.8852562296395465,
+       "start": 15,
+       "end": 17,
+       "tokens": "southern Oregon",
+       "labelScoreMap": {
+        "Southern_Oregon": 0.8852562296395465,
+        "Southern_Oregon_University": 0.07788706350228274,
+        "Southern_Oregon_AVA": 0.02781637510754607,
+        "Oregon": 0.0076495031752379155,
+        "Rogue_Valley": 0.0013908285753867057,
+        "<unk_wid>": 2.717383400211968e-40
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 35,
+       "end": 37,
+       "tokens": "Wlllamette Valley",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Ron_Wyden",
+       "score": 0.9979581367205501,
+       "start": 64,
+       "end": 66,
+       "tokens": "Ron Wyden",
+       "labelScoreMap": {
+        "Ron_Wyden": 0.9979581367205501,
+        "United_States_Senate_special_election_in_Oregon,_1996": 0.0020418632794499372,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "John_Adams",
+       "score": 0.8377019027905365,
+       "start": 78,
+       "end": 80,
+       "tokens": "John Adams",
+       "labelScoreMap": {
+        "John_Adams": 0.8377019027905365,
+        "John_Adams_(composer)": 0.10001559671468903,
+        "John_Adams_(miniseries)": 0.04078723624278303,
+        "John_Adams_(mutineer)": 0.009035434213068225,
+        "John_Adams_(book)": 0.0063792608232733335,
+        "USS_John_Adams_(1799)": 0.002972271675041239,
+        "Alien_and_Sedition_Acts": 0.002041190441938186,
+        "Boston_Massacre": 0.001067107098670422,
+        "<unk_wid>": 9.333008033809907e-31
+       }
+      },
+      {
+       "label": "Eugene,_Oregon",
+       "score": 0.8114132406489989,
+       "start": 38,
+       "end": 39,
+       "tokens": "Eugene",
+       "labelScoreMap": {
+        "Eugene,_Oregon": 0.8114132406489989,
+        "Eugene_(wrestler)": 0.11348116033739773,
+        "Eugene_(actress)": 0.03754810871559216,
+        "Eug\u00e8ne_de_Beauharnais": 0.007739713967879031,
+        "Careful_with_That_Axe,_Eugene": 0.007216765807258143,
+        "Prince_Eugene_of_Savoy": 0.0045067278205461175,
+        "Eugene_Kaspersky": 0.0028239499325856147,
+        "Eug\u00e8ne_Deloncle": 0.0020918139383274675,
+        "Eugene_O'Neill": 0.0020919002040113875,
+        "Eugene_Odum": 0.0018826369453284046,
+        "Eugene_Emeralds": 0.0017780444580277732,
+        "Eugene_H\u00fctz": 0.0016734489533936103,
+        "Seraphim_Rose": 0.0016734489521540372,
+        "Eug\u00e8ne_Boudin": 0.0016734543652382249,
+        "Eugenius": 0.001255083980067652,
+        "Eugene_Jarecki": 0.0011505009731939007,
+        "<unk_wid>": 3.2972032401149665e-30
+       }
+      },
+      {
+       "label": "Portland,_Oregon",
+       "score": 0.5668708911810983,
+       "start": 42,
+       "end": 43,
+       "tokens": "Portland",
+       "labelScoreMap": {
+        "Portland,_Oregon": 0.5668708911810983,
+        "Portland,_Maine": 0.24062900101173262,
+        "Isle_of_Portland": 0.020137668845614815,
+        "Portland_Trail_Blazers": 0.017956122557936074,
+        "Portland_International_Airport": 0.014103009421132915,
+        "Portland,_Victoria": 0.02554097435660946,
+        "Portland,_Indiana": 0.03197924477360917,
+        "Portland_Parish": 0.00974771018891839,
+        "Portland,_Connecticut": 0.007825878248516103,
+        "Portland,_Texas": 0.005698696632554801,
+        "Portland,_Pennsylvania": 0.005090102123889046,
+        "Portland,_Michigan": 0.004904842179592774,
+        "University_of_Portland": 0.004119385748896892,
+        "Portland,_Louisville": 0.004273403033260532,
+        "Portland_International_Raceway": 0.004541296646523383,
+        "Portland_Harbour": 0.004219228969241807,
+        "Portland,_Tennessee": 0.0036991418350772382,
+        "William_Cavendish-Bentinck,_3rd_Duke_of_Portland": 0.0033994939405017524,
+        "Richard_Weston,_1st_Earl_of_Portland": 0.0028793332148868388,
+        "USS_Portland_(CA-33)": 0.002499414401966714,
+        "Portland_metropolitan_area": 0.0026863043941781697,
+        "Portland,_New_York": 0.0024194394810933316,
+        "Timothy_Bentinck": 0.0023394561308548423,
+        "Portland,_Arkansas": 0.0022594727776723196,
+        "Portland_LumberJax": 0.0019795357515873108,
+        "Portland_Pirates": 0.0019795353989597734,
+        "Portland_Sea_Dogs": 0.0017819565784876698,
+        "Old_Town_Chinatown,_Portland,_Oregon": 0.00165995508289543,
+        "Portland_Beavers": 0.0016197759852434397,
+        "Portland_Fire": 0.0011597291074681097
+       }
+      },
+      {
+       "label": "Southern_Oregon",
+       "score": 0.8852571070705623,
+       "start": 44,
+       "end": 46,
+       "tokens": "Southern Oregon",
+       "labelScoreMap": {
+        "Southern_Oregon": 0.8852571070705623,
+        "Southern_Oregon_University": 0.07788616427799597,
+        "Southern_Oregon_AVA": 0.02781639833530185,
+        "Oregon": 0.007649509544398946,
+        "Rogue_Valley": 0.0013908207717410824,
+        "<unk_wid>": 6.744650208315742e-42
+       }
+      },
+      {
+       "label": "Dennis_Smith_(darts_player)",
+       "score": 0.6054637735871308,
+       "start": 61,
+       "end": 63,
+       "tokens": "Dennis Smith",
+       "labelScoreMap": {
+        "Dennis_Smith_(American_football)": 0.244007084678262,
+        "Dennis_Smith_(darts_player)": 0.6054637735871308,
+        "Dennis_Smith_(director)": 0.09525968970725592,
+        "Dennis_Alcapone": 0.03036448824960493,
+        "Denny_Smith": 0.020046722197131005,
+        "Denis_Smith_(footballer)": 0.0048582415806154265,
+        "<unk_wid>": 8.603983423569616e-46
+       }
+      },
+      {
+       "label": "Oregon",
+       "score": 0.8571694585392189,
+       "start": 0,
+       "end": 1,
+       "tokens": "Oregon",
+       "labelScoreMap": {
+        "Oregon": 0.8571694585392189,
+        "University_of_Oregon": 0.018935667372953102,
+        "Oregon_Ducks_football": 0.012859336238427364,
+        "Oregon_Trail": 0.019825691502836824,
+        "Oregon,_Missouri": 0.008675148685531651,
+        "Oregon,_Ohio": 0.007843461634059284,
+        "Oregon_wine": 0.007614995961430424,
+        "Oregon_(band)": 0.005628448170936213,
+        "Oregon,_Wisconsin": 0.007963212219596538,
+        "Oregon,_Illinois": 0.013113621148305719,
+        "Oregon_Air_National_Guard": 0.004686291628740741,
+        "Oregon_Ducks_men's_basketball": 0.0030472617593178316,
+        "Episcopal_Diocese_of_Oregon": 0.002642920572022478,
+        "Miss_Oregon_USA": 0.002618449365002155,
+        "Google_Maps": 0.002434954620665953,
+        "Oregon_County,_Missouri": 0.0023737376499781185,
+        "Oregon_Republican_Party": 0.002300323816668763,
+        "Oregon_Country": 0.0026025604425720396,
+        "Oregon_Legislative_Assembly": 0.0020169925722589967,
+        "Democratic_Party_of_Oregon": 0.0019210149551984832,
+        "United_States_District_Court_for_the_District_of_Oregon": 0.001823975715678536,
+        "Governor_of_Oregon": 0.0017741973556444275,
+        "United_States_Senate_election_in_Oregon,_2008": 0.0015294655237943486,
+        "Miss_Oregon_Teen_USA": 0.0015172350006622442,
+        "Miss_Oregon": 0.0014805275071911787,
+        "Oregon_Military_Department": 0.0014438213888687788,
+        "Oregon_Democratic_primary_elections,_2008": 0.0014438214062304812,
+        "USS_Oregon_(BB-3)": 0.0014193508061920294,
+        "Oregon_Supreme_Court": 0.0012940564400161839,
+        "<unk_wid>": 5.179111783365382e-29
+       }
+      },
+      {
+       "label": "Oregon",
+       "score": 0.8709934782121694,
+       "start": 16,
+       "end": 17,
+       "tokens": "Oregon",
+       "labelScoreMap": {
+        "Oregon": 0.8709934782121694,
+        "University_of_Oregon": 0.01914784421265986,
+        "Oregon_Ducks_football": 0.012943689495839888,
+        "Oregon_Trail": 0.010894289557399189,
+        "Oregon,_Missouri": 0.008792463335150574,
+        "Oregon,_Ohio": 0.007949181507522851,
+        "Oregon_wine": 0.007148080686218519,
+        "Oregon_(band)": 0.00570456206415999,
+        "Oregon,_Wisconsin": 0.005739426805040419,
+        "Oregon,_Illinois": 0.010468718672626267,
+        "Oregon_Air_National_Guard": 0.004749664599856969,
+        "Oregon_Ducks_men's_basketball": 0.0030879047786461634,
+        "Episcopal_Diocese_of_Oregon": 0.002678660971383873,
+        "Miss_Oregon_USA": 0.0026538588409714143,
+        "Google_Maps": 0.00246783779065231,
+        "Oregon_County,_Missouri": 0.0024058375368656813,
+        "Oregon_Republican_Party": 0.002331431145616895,
+        "Oregon_Country": 0.0020222981814325197,
+        "Oregon_Legislative_Assembly": 0.001984380101332019,
+        "Democratic_Party_of_Oregon": 0.0019469929764098501,
+        "United_States_District_Court_for_the_District_of_Oregon": 0.0018354062678081508,
+        "Governor_of_Oregon": 0.001798180193943037,
+        "United_States_Senate_election_in_Oregon,_2008": 0.0015501485941979225,
+        "Miss_Oregon_Teen_USA": 0.0015377526767979502,
+        "Miss_Oregon": 0.0015005443334878141,
+        "Oregon_Military_Department": 0.0014633462855605077,
+        "Oregon_Democratic_primary_elections,_2008": 0.0014633462855655225,
+        "USS_Oregon_(BB-3)": 0.0014385441573611503,
+        "Oregon_Supreme_Court": 0.001302129733323404,
+        "<unk_wid>": 1.025191751116594e-40
+       }
+      },
+      {
+       "label": "Oregon",
+       "score": 0.8662868526597216,
+       "start": 45,
+       "end": 46,
+       "tokens": "Oregon",
+       "labelScoreMap": {
+        "Oregon": 0.8662868526597216,
+        "University_of_Oregon": 0.01906261977796097,
+        "Oregon_Ducks_football": 0.012907144847616084,
+        "Oregon_Trail": 0.011252371439589555,
+        "Oregon,_Missouri": 0.008752496295444483,
+        "Oregon,_Ohio": 0.007913056068364387,
+        "Oregon_wine": 0.007194231381868487,
+        "Oregon_(band)": 0.005678631394983822,
+        "Oregon,_Wisconsin": 0.006236691216058157,
+        "Oregon,_Illinois": 0.014675799911435087,
+        "Oregon_Air_National_Guard": 0.004728074514574577,
+        "Oregon_Ducks_men's_basketball": 0.0030739002749987153,
+        "Episcopal_Diocese_of_Oregon": 0.0026664848444759035,
+        "Miss_Oregon_USA": 0.002641795454679354,
+        "Google_Maps": 0.002456620705909717,
+        "Oregon_County,_Missouri": 0.002394901556883007,
+        "Oregon_Republican_Party": 0.002320833387452001,
+        "Oregon_Country": 0.0020165047240393048,
+        "Oregon_Legislative_Assembly": 0.001976271044521274,
+        "Democratic_Party_of_Oregon": 0.0019381427210684696,
+        "United_States_District_Court_for_the_District_of_Oregon": 0.0018273269031153022,
+        "Governor_of_Oregon": 0.0017900063830414417,
+        "United_States_Senate_election_in_Oregon,_2008": 0.0015431022355096025,
+        "Miss_Oregon_Teen_USA": 0.0015307626650179595,
+        "Miss_Oregon": 0.001493723460392277,
+        "Oregon_Military_Department": 0.0014566944956278664,
+        "Oregon_Democratic_primary_elections,_2008": 0.0014566944956635112,
+        "USS_Oregon_(BB-3)": 0.0014320051241068117,
+        "Oregon_Supreme_Court": 0.0012962600158803648,
+        "<unk_wid>": 5.137944086165111e-37
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Southern_Oregon",
+       "score": 0.8852562296395465,
+       "start": 15,
+       "end": 17,
+       "tokens": "southern Oregon",
+       "labelScoreMap": {
+        "5753592|Southern_Oregon_University": 0.07788706350228274,
+        "5744337|Oregon": 0.0076495031752379155
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 35,
+       "end": 37,
+       "tokens": "Wlllamette Valley",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ron_Wyden",
+       "score": 0.9979581367205501,
+       "start": 64,
+       "end": 66,
+       "tokens": "Ron Wyden",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "John_Adams",
+       "score": 0.8377019027905365,
+       "start": 78,
+       "end": 80,
+       "tokens": "John Adams",
+       "labelScoreMap": {
+        "4931002|Boston_Massacre": 0.001067107098670422
+       }
+      },
+      {
+       "label": "Eugene,_Oregon",
+       "score": 0.8114132406489989,
+       "start": 38,
+       "end": 39,
+       "tokens": "Eugene",
+       "labelScoreMap": {
+        "5725846|Eugene,_Oregon": 0.8114132406489989
+       }
+      },
+      {
+       "label": "Portland,_Oregon",
+       "score": 0.5668708911810983,
+       "start": 42,
+       "end": 43,
+       "tokens": "Portland",
+       "labelScoreMap": {
+        "5746545|Portland,_Oregon": 0.5668708911810983,
+        "4975802|Portland,_Maine": 0.24062900101173262,
+        "2640034|Isle_of_Portland": 0.020137668845614815,
+        "5746563|Portland_International_Airport": 0.014103009421132915,
+        "2152667|Portland,_Victoria": 0.02554097435660946,
+        "4925037|Portland,_Indiana": 0.03197924477360917,
+        "3488997|Portland_Parish": 0.00974771018891839,
+        "4841001|Portland,_Connecticut": 0.007825878248516103,
+        "4720131|Portland,_Texas": 0.005698696632554801,
+        "5281274|Portland,_Pennsylvania": 0.005090102123889046,
+        "5006314|Portland,_Michigan": 0.004904842179592774,
+        "5758275|University_of_Portland": 0.004119385748896892,
+        "5746564|Portland_International_Raceway": 0.004541296646523383,
+        "2640031|Portland_Harbour": 0.004219228969241807,
+        "4650946|Portland,_Tennessee": 0.0036991418350772382,
+        "5132058|Portland,_New_York": 0.0024194394810933316,
+        "4127143|Portland,_Arkansas": 0.0022594727776723196
+       }
+      },
+      {
+       "label": "Southern_Oregon",
+       "score": 0.8852571070705623,
+       "start": 44,
+       "end": 46,
+       "tokens": "Southern Oregon",
+       "labelScoreMap": {
+        "5753592|Southern_Oregon_University": 0.07788616427799597,
+        "5744337|Oregon": 0.007649509544398946
+       }
+      },
+      {
+       "label": "Dennis_Smith_(darts_player)",
+       "score": 0.6054637735871308,
+       "start": 61,
+       "end": 63,
+       "tokens": "Dennis Smith",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Oregon",
+       "score": 0.8571694585392189,
+       "start": 0,
+       "end": 1,
+       "tokens": "Oregon",
+       "labelScoreMap": {
+        "5744337|Oregon": 0.8571694585392189,
+        "5758196|University_of_Oregon": 0.018935667372953102,
+        "4402011|Oregon,_Missouri": 0.008675148685531651,
+        "5165734|Oregon,_Ohio": 0.007843461634059284,
+        "5265785|Oregon,_Wisconsin": 0.007963212219596538,
+        "4904898|Oregon,_Illinois": 0.013113621148305719,
+        "4402012|Oregon_County,_Missouri": 0.0023737376499781185
+       }
+      },
+      {
+       "label": "Oregon",
+       "score": 0.8709934782121694,
+       "start": 16,
+       "end": 17,
+       "tokens": "Oregon",
+       "labelScoreMap": {
+        "5744337|Oregon": 0.8709934782121694,
+        "5758196|University_of_Oregon": 0.01914784421265986,
+        "4402011|Oregon,_Missouri": 0.008792463335150574,
+        "5165734|Oregon,_Ohio": 0.007949181507522851,
+        "5265785|Oregon,_Wisconsin": 0.005739426805040419,
+        "4904898|Oregon,_Illinois": 0.010468718672626267,
+        "4402012|Oregon_County,_Missouri": 0.0024058375368656813
+       }
+      },
+      {
+       "label": "Oregon",
+       "score": 0.8662868526597216,
+       "start": 45,
+       "end": 46,
+       "tokens": "Oregon",
+       "labelScoreMap": {
+        "5744337|Oregon": 0.8662868526597216,
+        "5758196|University_of_Oregon": 0.01906261977796097,
+        "4402011|Oregon,_Missouri": 0.008752496295444483,
+        "5165734|Oregon,_Ohio": 0.007913056068364387,
+        "5265785|Oregon,_Wisconsin": 0.006236691216058157,
+        "4904898|Oregon,_Illinois": 0.014675799911435087,
+        "4402012|Oregon_County,_Missouri": 0.002394901556883007
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

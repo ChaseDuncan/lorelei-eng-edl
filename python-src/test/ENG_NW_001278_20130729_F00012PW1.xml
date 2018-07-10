@@ -1,0 +1,2586 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130729_F00012PW1.xml",
+ "text": "2013-07-29T12:01:55\nAsiana crash victims' ashes returned to relatives\nAsiana crash victims' ashes returned to relatives\nHANGZHOU, July 29 (Xinhua) -- The ashes of three Chinese teenagers who died in a plane crash in San Francisco were sent to their hometown in east China's Zhejiang Province on Monday.\nTen relatives of the victims boarded a flight operated by China Eastern Airlines in San Francisco early Sunday and arrived at Shanghai Pudong International Airport at 5 p.m. Sunday before traveling to the city of Jiangshan, the victims' home.\nOn Monday, the victims' relatives went to the Jiangshan Municipal Funeral Parlor, where other relatives, local officials and representatives from the middle school they attended waited for their arrival.\nMemorial services and funerals for the three girls are scheduled for a later date, one of the relatives said.\nThe girls were aboard Asiana Airlines Flight 214 when it crashed at San Francisco International Airport on July 6. The crash killed one of the girls instantly, while another girl was run over by an ambulance. The third girl died six days later in a local hospital after sustaining critical injuries. Enditem",
+ "tokens": [
+  "2013-07-29T12:01:55",
+  "Asiana",
+  "crash",
+  "victims",
+  "'",
+  "ashes",
+  "returned",
+  "to",
+  "relatives",
+  "Asiana",
+  "crash",
+  "victims",
+  "'",
+  "ashes",
+  "returned",
+  "to",
+  "relatives",
+  "HANGZHOU",
+  ",",
+  "July",
+  "29",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "The",
+  "ashes",
+  "of",
+  "three",
+  "Chinese",
+  "teenagers",
+  "who",
+  "died",
+  "in",
+  "a",
+  "plane",
+  "crash",
+  "in",
+  "San",
+  "Francisco",
+  "were",
+  "sent",
+  "to",
+  "their",
+  "hometown",
+  "in",
+  "east",
+  "China",
+  "'s",
+  "Zhejiang",
+  "Province",
+  "on",
+  "Monday",
+  ".",
+  "Ten",
+  "relatives",
+  "of",
+  "the",
+  "victims",
+  "boarded",
+  "a",
+  "flight",
+  "operated",
+  "by",
+  "China",
+  "Eastern",
+  "Airlines",
+  "in",
+  "San",
+  "Francisco",
+  "early",
+  "Sunday",
+  "and",
+  "arrived",
+  "at",
+  "Shanghai",
+  "Pudong",
+  "International",
+  "Airport",
+  "at",
+  "5",
+  "p",
+  ".",
+  "m",
+  ".",
+  "Sunday",
+  "before",
+  "traveling",
+  "to",
+  "the",
+  "city",
+  "of",
+  "Jiangshan",
+  ",",
+  "the",
+  "victims",
+  "'",
+  "home",
+  ".",
+  "On",
+  "Monday",
+  ",",
+  "the",
+  "victims",
+  "'",
+  "relatives",
+  "went",
+  "to",
+  "the",
+  "Jiangshan",
+  "Municipal",
+  "Funeral",
+  "Parlor",
+  ",",
+  "where",
+  "other",
+  "relatives",
+  ",",
+  "local",
+  "officials",
+  "and",
+  "representatives",
+  "from",
+  "the",
+  "middle",
+  "school",
+  "they",
+  "attended",
+  "waited",
+  "for",
+  "their",
+  "arrival",
+  ".",
+  "Memorial",
+  "services",
+  "and",
+  "funerals",
+  "for",
+  "the",
+  "three",
+  "girls",
+  "are",
+  "scheduled",
+  "for",
+  "a",
+  "later",
+  "date",
+  ",",
+  "one",
+  "of",
+  "the",
+  "relatives",
+  "said",
+  ".",
+  "The",
+  "girls",
+  "were",
+  "aboard",
+  "Asiana",
+  "Airlines",
+  "Flight",
+  "214",
+  "when",
+  "it",
+  "crashed",
+  "at",
+  "San",
+  "Francisco",
+  "International",
+  "Airport",
+  "on",
+  "July",
+  "6",
+  ".",
+  "The",
+  "crash",
+  "killed",
+  "one",
+  "of",
+  "the",
+  "girls",
+  "instantly",
+  ",",
+  "while",
+  "another",
+  "girl",
+  "was",
+  "run",
+  "over",
+  "by",
+  "an",
+  "ambulance",
+  ".",
+  "The",
+  "third",
+  "girl",
+  "died",
+  "six",
+  "days",
+  "later",
+  "in",
+  "a",
+  "local",
+  "hospital",
+  "after",
+  "sustaining",
+  "critical",
+  "injuries",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   54,
+   85,
+   99,
+   133,
+   154,
+   174,
+   193,
+   209,
+   210
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "San_Francisco_International_Airport",
+       "score": 1.0,
+       "start": 166,
+       "end": 170,
+       "tokens": "San Francisco International Airport"
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Asiana"
+      },
+      {
+       "label": "Zhejiang",
+       "score": 1.0,
+       "start": 49,
+       "end": 51,
+       "tokens": "Zhejiang Province"
+      },
+      {
+       "label": "Shanghai_Pudong_International_Airport",
+       "score": 1.0,
+       "start": 75,
+       "end": 79,
+       "tokens": "Shanghai Pudong International Airport"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "China"
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Asiana"
+      },
+      {
+       "label": "Jiangshan",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Jiangshan"
+      },
+      {
+       "label": "China_Eastern_Airlines",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "China Eastern Airlines"
+      },
+      {
+       "label": "San_Francisco",
+       "score": 1.0,
+       "start": 166,
+       "end": 168,
+       "tokens": "San Francisco"
+      },
+      {
+       "label": "San_Francisco",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "San Francisco"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 158,
+       "end": 160,
+       "tokens": "Asiana Airlines"
+      },
+      {
+       "label": "Shanghai",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "Shanghai"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 109,
+       "end": 113,
+       "tokens": "Jiangshan Municipal Funeral Parlor"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Jiangshan",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Jiangshan"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "China"
+      },
+      {
+       "label": "Hangzhou",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "HANGZHOU"
+      },
+      {
+       "label": "San_Francisco",
+       "score": 1.0,
+       "start": 38,
+       "end": 40,
+       "tokens": "San Francisco"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 166,
+       "end": 170,
+       "tokens": "San Francisco International Airport"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Asiana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 49,
+       "end": 51,
+       "tokens": "Zhejiang Province"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 75,
+       "end": 79,
+       "tokens": "Shanghai Pudong International Airport"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Asiana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Jiangshan"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "China Eastern Airlines"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 166,
+       "end": 168,
+       "tokens": "San Francisco"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "San Francisco"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 158,
+       "end": 160,
+       "tokens": "Asiana Airlines"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "Shanghai"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 109,
+       "end": 113,
+       "tokens": "Jiangshan Municipal Funeral Parlor"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Jiangshan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "HANGZHOU"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 38,
+       "end": 40,
+       "tokens": "San Francisco"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-07-29T12:01:55",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-07-29T12:01:55"
+      },
+      {
+       "label": "Asiana",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Asiana"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "crash"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "victims"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "'"
+      },
+      {
+       "label": "ashes",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "ashes"
+      },
+      {
+       "label": "returned",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "returned"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "to"
+      },
+      {
+       "label": "relatives",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "relatives"
+      },
+      {
+       "label": "Asiana",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Asiana"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "crash"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "victims"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "'"
+      },
+      {
+       "label": "ashes",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "ashes"
+      },
+      {
+       "label": "returned",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "returned"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "to"
+      },
+      {
+       "label": "relatives",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "relatives"
+      },
+      {
+       "label": "HANGZHOU",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "HANGZHOU"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": ","
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "July"
+      },
+      {
+       "label": "29",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "29"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "--"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "The"
+      },
+      {
+       "label": "ashes",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "ashes"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "of"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "three"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "teenagers",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "teenagers"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "who"
+      },
+      {
+       "label": "died",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "died"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "a"
+      },
+      {
+       "label": "plane",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "plane"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "crash"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "in"
+      },
+      {
+       "label": "San",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "San"
+      },
+      {
+       "label": "Francisco",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Francisco"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "were"
+      },
+      {
+       "label": "sent",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "sent"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "to"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "their"
+      },
+      {
+       "label": "hometown",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "hometown"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "in"
+      },
+      {
+       "label": "east",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "east"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "China"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "'s"
+      },
+      {
+       "label": "Zhejiang",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Zhejiang"
+      },
+      {
+       "label": "Province",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Province"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "on"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Monday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "."
+      },
+      {
+       "label": "Ten",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "Ten"
+      },
+      {
+       "label": "relatives",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "relatives"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "the"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "victims"
+      },
+      {
+       "label": "boarded",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "boarded"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "a"
+      },
+      {
+       "label": "flight",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "flight"
+      },
+      {
+       "label": "operated",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "operated"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "by"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "China"
+      },
+      {
+       "label": "Eastern",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Eastern"
+      },
+      {
+       "label": "Airlines",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Airlines"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "in"
+      },
+      {
+       "label": "San",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "San"
+      },
+      {
+       "label": "Francisco",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "Francisco"
+      },
+      {
+       "label": "early",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "early"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "Sunday"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "and"
+      },
+      {
+       "label": "arrived",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "arrived"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "at"
+      },
+      {
+       "label": "Shanghai",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "Shanghai"
+      },
+      {
+       "label": "Pudong",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Pudong"
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "International"
+      },
+      {
+       "label": "Airport",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "Airport"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "at"
+      },
+      {
+       "label": "5",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "5"
+      },
+      {
+       "label": "p",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "p"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "."
+      },
+      {
+       "label": "m",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "m"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "."
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Sunday"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "before"
+      },
+      {
+       "label": "traveling",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "traveling"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "the"
+      },
+      {
+       "label": "city",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "city"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "of"
+      },
+      {
+       "label": "Jiangshan",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Jiangshan"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "the"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "victims"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "'"
+      },
+      {
+       "label": "home",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "home"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "."
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "On"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Monday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "the"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "victims"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "'"
+      },
+      {
+       "label": "relatives",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "relatives"
+      },
+      {
+       "label": "went",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "went"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "the"
+      },
+      {
+       "label": "Jiangshan",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Jiangshan"
+      },
+      {
+       "label": "Municipal",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "Municipal"
+      },
+      {
+       "label": "Funeral",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "Funeral"
+      },
+      {
+       "label": "Parlor",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Parlor"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": ","
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "where"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "other"
+      },
+      {
+       "label": "relatives",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "relatives"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": ","
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "local"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "officials"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "and"
+      },
+      {
+       "label": "representatives",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "representatives"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "the"
+      },
+      {
+       "label": "middle",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "middle"
+      },
+      {
+       "label": "school",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "school"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "they"
+      },
+      {
+       "label": "attended",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "attended"
+      },
+      {
+       "label": "waited",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "waited"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "for"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "their"
+      },
+      {
+       "label": "arrival",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "arrival"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "."
+      },
+      {
+       "label": "Memorial",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "Memorial"
+      },
+      {
+       "label": "services",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "services"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "and"
+      },
+      {
+       "label": "funerals",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "funerals"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "the"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "three"
+      },
+      {
+       "label": "girls",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "girls"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "are"
+      },
+      {
+       "label": "scheduled",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "scheduled"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "a"
+      },
+      {
+       "label": "later",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "later"
+      },
+      {
+       "label": "date",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "date"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": ","
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "the"
+      },
+      {
+       "label": "relatives",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "relatives"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "The"
+      },
+      {
+       "label": "girls",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "girls"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "were"
+      },
+      {
+       "label": "aboard",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "aboard"
+      },
+      {
+       "label": "Asiana",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Asiana"
+      },
+      {
+       "label": "Airlines",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "Airlines"
+      },
+      {
+       "label": "Flight",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "Flight"
+      },
+      {
+       "label": "214",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "214"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "when"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "it"
+      },
+      {
+       "label": "crashed",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "crashed"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "at"
+      },
+      {
+       "label": "San",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "San"
+      },
+      {
+       "label": "Francisco",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Francisco"
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "International"
+      },
+      {
+       "label": "Airport",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "Airport"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "on"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "July"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "6"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "The"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "crash"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "killed"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "the"
+      },
+      {
+       "label": "girls",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "girls"
+      },
+      {
+       "label": "instantly",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "instantly"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": ","
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "while"
+      },
+      {
+       "label": "another",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "another"
+      },
+      {
+       "label": "girl",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "girl"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "was"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "run"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "over"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "by"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "an"
+      },
+      {
+       "label": "ambulance",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "ambulance"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "The"
+      },
+      {
+       "label": "third",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "third"
+      },
+      {
+       "label": "girl",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "girl"
+      },
+      {
+       "label": "died",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "died"
+      },
+      {
+       "label": "six",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "six"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "days"
+      },
+      {
+       "label": "later",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "later"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "a"
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "local"
+      },
+      {
+       "label": "hospital",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "hospital"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "after"
+      },
+      {
+       "label": "sustaining",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "sustaining"
+      },
+      {
+       "label": "critical",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "critical"
+      },
+      {
+       "label": "injuries",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "injuries"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "San_Francisco_International_Airport",
+       "score": 0.9771626122301098,
+       "start": 166,
+       "end": 170,
+       "tokens": "San Francisco International Airport",
+       "labelScoreMap": {
+        "San_Francisco_International_Airport": 0.9771626122301098,
+        "San_Francisco_International_Airport_(BART_station)": 0.0228373877698902,
+        "<unk_wid>": 2.8648695500975296e-40
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 0.7325901200061431,
+       "start": 9,
+       "end": 10,
+       "tokens": "Asiana",
+       "labelScoreMap": {
+        "Asiana_Airlines": 0.7325901200061431,
+        "Diocese_of_Asia": 0.2674098799938568,
+        "<unk_wid>": 1.655141232561262e-30
+       }
+      },
+      {
+       "label": "Zhejiang",
+       "score": 0.9971533433225113,
+       "start": 49,
+       "end": 51,
+       "tokens": "Zhejiang Province",
+       "labelScoreMap": {
+        "Zhejiang": 0.9971533433225113,
+        "Zhoushan": 0.002846656677488754,
+        "<unk_wid>": 2.1997809852658365e-39
+       }
+      },
+      {
+       "label": "Shanghai_Pudong_International_Airport",
+       "score": 1.0,
+       "start": 75,
+       "end": 79,
+       "tokens": "Shanghai Pudong International Airport",
+       "labelScoreMap": {
+        "Shanghai_Pudong_International_Airport": 1.0,
+        "<unk_wid>": 1.202201277864315e-38
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.8464397238872572,
+       "start": 64,
+       "end": 65,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.8464397238872572,
+        "Taiwan": 0.06021024997825565,
+        "China_national_football_team": 0.011423077120550294,
+        "Emperor_of_China": 0.009420122531807877,
+        "Second_Sino-Japanese_War": 0.00493998848164488,
+        "China_men's_national_basketball_team": 0.003404438516981261,
+        "People's_Liberation_Army": 0.03444982633888022,
+        "China_Mi\u00e9ville": 0.0015718843034374357,
+        "China_national_rugby_union_team": 0.0015613046071017436,
+        "China_women's_national_football_team": 0.0015162309846076375,
+        "Chinese_mythology": 0.001421933208475411,
+        "A1_Team_China": 0.0014241969566670186,
+        "China_national_badminton_team": 0.0015439025114195844,
+        "China_national_cricket_team": 0.0012862362680017478,
+        "Mainland_China": 0.01691713429579098,
+        "Traditional_Chinese_medicine": 0.0012917976031735462,
+        "China,_Maine": 0.0011779524059473015,
+        "<unk_wid>": 7.280373598528645e-24
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 0.7325897746836397,
+       "start": 1,
+       "end": 2,
+       "tokens": "Asiana",
+       "labelScoreMap": {
+        "Asiana_Airlines": 0.7325897746836397,
+        "Diocese_of_Asia": 0.2674102253163602,
+        "<unk_wid>": 3.6213581478158555e-28
+       }
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Jiangshan",
+       "labelScoreMap": {
+        "China": 1.0,
+        "<unk_wid>": 4.871805186382674e-32
+       }
+      },
+      {
+       "label": "China_Eastern_Airlines",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "China Eastern Airlines",
+       "labelScoreMap": {
+        "China_Eastern_Airlines": 1.0,
+        "<unk_wid>": 8.1388544815067e-37
+       }
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.483731654746824,
+       "start": 166,
+       "end": 168,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "San_Francisco": 0.483731654746824,
+        "Francis_of_Assisi": 0.0019806766083303247,
+        "University_of_San_Francisco": 0.002172811747741879,
+        "San_Francisco_F.C.": 0.002267098903948451,
+        "San_Francisco_Giants": 0.002009264696095096,
+        "San_Francisco_49ers": 0.007001843639652285,
+        "San_Francisco_Mint": 0.007267645750266503,
+        "San_Francisco_International_Airport": 0.39169366971722597,
+        "San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)": 0.001165655102258068,
+        "San_Francisco,_C\u00f3rdoba": 0.0011057578563684494,
+        "Ed_Lee_(politician)": 0.0009168636658671254,
+        "Chinatown,_San_Francisco": 0.02400385843063129,
+        "1906_San_Francisco_earthquake": 0.0022597305849532652,
+        "San_Francisco_Dons_men's_basketball": 0.001131975937857616,
+        "San_Francisco,_Cebu": 0.0008108900227105952,
+        "Pacific_Coast_Championships": 0.000714169117416104,
+        "Golden_State_Warriors": 0.0007683011530348864,
+        "San_Francisco_Bay": 0.0678940608274724,
+        "Port_of_San_Francisco": 0.001104071491345687,
+        "<unk_wid>": 1.36711735459493e-22
+       }
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.9582358465816846,
+       "start": 68,
+       "end": 70,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "San_Francisco": 0.9582358465816846,
+        "Francis_of_Assisi": 0.0037492506105036407,
+        "University_of_San_Francisco": 0.0037408951450307996,
+        "San_Francisco_F.C.": 0.003251902189740378,
+        "San_Francisco_Giants": 0.003118757963969292,
+        "San_Francisco_49ers": 0.0029724513969254774,
+        "San_Francisco_Mint": 0.002533082740607964,
+        "San_Francisco_International_Airport": 0.002491379731266517,
+        "San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)": 0.0022167813992333336,
+        "San_Francisco,_C\u00f3rdoba": 0.0021289839499303354,
+        "Ed_Lee_(politician)": 0.0017436392981400632,
+        "Chinatown,_San_Francisco": 0.002471966814536453,
+        "1906_San_Francisco_earthquake": 0.0016437239938672022,
+        "San_Francisco_Dons_men's_basketball": 0.0015481519012033858,
+        "San_Francisco,_Cebu": 0.0015421078669496933,
+        "Pacific_Coast_Championships": 0.0013581077405844587,
+        "Golden_State_Warriors": 0.0012984903064179151,
+        "San_Francisco_Bay": 0.002729159608965573,
+        "Port_of_San_Francisco": 0.0012253207604428153,
+        "<unk_wid>": 2.7675708583954762e-27
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816620672574545,
+       "start": 22,
+       "end": 23,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816620672574545,
+        "Xinhua_District,_Tainan": 0.016984067005701507,
+        "Xinhua_County": 0.0013538657368439325,
+        "<unk_wid>": 1.9243995033205378e-20
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 158,
+       "end": 160,
+       "tokens": "Asiana Airlines",
+       "labelScoreMap": {
+        "Asiana_Airlines": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Shanghai",
+       "score": 0.47763054453794496,
+       "start": 75,
+       "end": 76,
+       "tokens": "Shanghai",
+       "labelScoreMap": {
+        "Shanghai": 0.47763054453794496,
+        "Shanghai_International_Circuit": 0.022546002387719276,
+        "Shanghai_Stock_Exchange": 0.0043427363098204885,
+        "Port_of_Shanghai": 0.003651370683523197,
+        "Shanghai_Masters_(tennis)": 0.0014592316700868374,
+        "Battle_of_Shanghai": 0.001809401990731798,
+        "Shanghai_Pudong_International_Airport": 0.4753673967201361,
+        "January_28_Incident": 0.0012963501897226492,
+        "Shanghai_Ghetto": 0.00205195131136605,
+        "Shanghai_Railway_Station": 0.0010341599454038375,
+        "Shanghai_cricket_team": 0.0009608964708509108,
+        "Shanghai_International_Film_Festival": 0.0008869944779697893,
+        "Shanghai_Metro": 0.004995436004014255,
+        "Shanghainese": 0.0007778576075975563,
+        "Shanghai_Campaign": 0.0006039881584399603,
+        "2010_Shanghai_Rolex_Masters": 0.000585681534672346,
+        "<unk_wid>": 2.311266684813366e-26
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 109,
+       "end": 113,
+       "tokens": "Jiangshan Municipal Funeral Parlor",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.29331048407268073,
+       "start": 29,
+       "end": 30,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.26082500919942603,
+        "China": 0.29331048407268073,
+        "Han_Chinese": 0.08984144959658899,
+        "Chinese_Americans": 0.021199959871153844,
+        "Overseas_Chinese": 0.01713568944064195,
+        "Malaysian_Chinese": 0.04340855894011215,
+        "Standard_Chinese": 0.007708729628014108,
+        "Chinese_Canadians": 0.008143406499177481,
+        "Chinese_Buddhist_canon": 0.005282591588433052,
+        "Chinese_Singaporeans": 0.01271129819864776,
+        "British_Chinese": 0.004335826878227346,
+        "Chinese_mythology": 0.003859647311876257,
+        "Traditional_Chinese_characters": 0.00899133194750291,
+        "Mandarin_Chinese": 0.005730993812449715,
+        "Thai_Chinese": 0.014924298133993902,
+        "Emperor_of_China": 0.003148861443097142,
+        "Chinese_Indonesians": 0.10445210556894165,
+        "Chinese_Filipino": 0.03723533670165078,
+        "Taiwan": 0.03104473284009956,
+        "Chinese_folk_religion": 0.0019583161935110517,
+        "Chinese_people_in_Myanmar": 0.006264884508762857,
+        "Chinese_New_Year": 0.001680293900841,
+        "Chinese_Wikipedia": 0.0012419669537508896,
+        "Traditional_Chinese_medicine": 0.0018521081650867707,
+        "Chinese_Australians": 0.011925009773800782,
+        "Chinese_Brazilians": 0.0009441197512837473,
+        "Chinese_people_in_Japan": 0.0008429890802474341,
+        "<unk_wid>": 3.737105546836133e-31
+       }
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Jiangshan",
+       "labelScoreMap": {
+        "China": 1.0,
+        "<unk_wid>": 1.1101667928871152e-17
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9320192170898334,
+       "start": 47,
+       "end": 48,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9320192170898334,
+        "Taiwan": 0.01843474411929938,
+        "China_national_football_team": 0.011566692548102362,
+        "Emperor_of_China": 0.01030005975078636,
+        "Second_Sino-Japanese_War": 0.006403696681432456,
+        "China_men's_national_basketball_team": 0.003803866507787076,
+        "People's_Liberation_Army": 0.001996745516913982,
+        "China_Mi\u00e9ville": 0.0017185739913790092,
+        "China_national_rugby_union_team": 0.0017071386190849291,
+        "China_women's_national_football_team": 0.0016543810114281053,
+        "Chinese_mythology": 0.0015547170469204612,
+        "A1_Team_China": 0.0015470917449625142,
+        "China_national_badminton_team": 0.0017886680909147694,
+        "China_national_cricket_team": 0.0014061021007096164,
+        "Mainland_China": 0.0014575676563279723,
+        "Traditional_Chinese_medicine": 0.0013527611474448437,
+        "China,_Maine": 0.0012879763766729323,
+        "<unk_wid>": 1.8276856896771646e-39
+       }
+      },
+      {
+       "label": "Hangzhou",
+       "score": 0.9815679834230049,
+       "start": 17,
+       "end": 18,
+       "tokens": "HANGZHOU",
+       "labelScoreMap": {
+        "Hangzhou": 0.9815679834230049,
+        "Hangzhou_dialect": 0.010797032443779466,
+        "Hangzhou_Metro": 0.004591952400153769,
+        "Hangzhou_Xiaoshan_International_Airport": 0.003043031733062074,
+        "<unk_wid>": 4.138430914336282e-25
+       }
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.9578584857355454,
+       "start": 38,
+       "end": 40,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "San_Francisco": 0.9578584857355454,
+        "Francis_of_Assisi": 0.003794027560494161,
+        "University_of_San_Francisco": 0.003749979355901385,
+        "San_Francisco_F.C.": 0.0032785422586869622,
+        "San_Francisco_Giants": 0.0031584551066167667,
+        "San_Francisco_49ers": 0.0029765396846312144,
+        "San_Francisco_Mint": 0.0025371116396025713,
+        "San_Francisco_International_Airport": 0.002500836582806621,
+        "San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)": 0.0022159454499261844,
+        "San_Francisco,_C\u00f3rdoba": 0.002118587189771887,
+        "Ed_Lee_(politician)": 0.0017429817712961895,
+        "Chinatown,_San_Francisco": 0.002308267792108016,
+        "1906_San_Francisco_earthquake": 0.001675571551651933,
+        "San_Francisco_Dons_men's_basketball": 0.0015503780679256773,
+        "San_Francisco,_Cebu": 0.0015415263374449824,
+        "Pacific_Coast_Championships": 0.0013575951901844167,
+        "Golden_State_Warriors": 0.001299591683181448,
+        "San_Francisco_Bay": 0.003163170649674541,
+        "Port_of_San_Francisco": 0.0011724063925494784,
+        "<unk_wid>": 6.3515563642451675e-28
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "San_Francisco_International_Airport",
+       "score": 0.9771626122301098,
+       "start": 166,
+       "end": 170,
+       "tokens": "San Francisco International Airport",
+       "labelScoreMap": {
+        "5391989|San_Francisco_International_Airport": 0.9771626122301098
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 0.7325901200061431,
+       "start": 9,
+       "end": 10,
+       "tokens": "Asiana",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Zhejiang",
+       "score": 0.9971533433225113,
+       "start": 49,
+       "end": 51,
+       "tokens": "Zhejiang Province",
+       "labelScoreMap": {
+        "1784764|Zhejiang": 0.9971533433225113
+       }
+      },
+      {
+       "label": "Shanghai_Pudong_International_Airport",
+       "score": 1.0,
+       "start": 75,
+       "end": 79,
+       "tokens": "Shanghai Pudong International Airport",
+       "labelScoreMap": {
+        "6301386|Shanghai_Pudong_International_Airport": 1.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.8464397238872572,
+       "start": 64,
+       "end": 65,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.8464397238872572,
+        "1668284|Taiwan": 0.06021024997825565,
+        "4960817|China,_Maine": 0.0011779524059473015
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 0.7325897746836397,
+       "start": 1,
+       "end": 2,
+       "tokens": "Asiana",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Jiangshan",
+       "labelScoreMap": {
+        "1814991|China": 1.0
+       }
+      },
+      {
+       "label": "China_Eastern_Airlines",
+       "score": 1.0,
+       "start": 64,
+       "end": 67,
+       "tokens": "China Eastern Airlines",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.483731654746824,
+       "start": 166,
+       "end": 168,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "5391997|San_Francisco": 0.483731654746824,
+        "5404904|University_of_San_Francisco": 0.002172811747741879,
+        "5379047|San_Francisco_Mint": 0.007267645750266503,
+        "5391989|San_Francisco_International_Airport": 0.39169366971722597,
+        "3837675|San_Francisco,_C\u00f3rdoba": 0.0011057578563684494,
+        "1690011|San_Francisco,_Cebu": 0.0008108900227105952,
+        "5391961|San_Francisco_Bay": 0.0678940608274724
+       }
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.9582358465816846,
+       "start": 68,
+       "end": 70,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "5391997|San_Francisco": 0.9582358465816846,
+        "5404904|University_of_San_Francisco": 0.0037408951450307996,
+        "5379047|San_Francisco_Mint": 0.002533082740607964,
+        "5391989|San_Francisco_International_Airport": 0.002491379731266517,
+        "3837675|San_Francisco,_C\u00f3rdoba": 0.0021289839499303354,
+        "1690011|San_Francisco,_Cebu": 0.0015421078669496933,
+        "5391961|San_Francisco_Bay": 0.002729159608965573
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816620672574545,
+       "start": 22,
+       "end": 23,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016984067005701507,
+        "1788859|Xinhua_County": 0.0013538657368439325
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 158,
+       "end": 160,
+       "tokens": "Asiana Airlines",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Shanghai",
+       "score": 0.47763054453794496,
+       "start": 75,
+       "end": 76,
+       "tokens": "Shanghai",
+       "labelScoreMap": {
+        "1796236|Shanghai": 0.47763054453794496,
+        "8394006|Shanghai_International_Circuit": 0.022546002387719276,
+        "6301386|Shanghai_Pudong_International_Airport": 0.4753673967201361
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 109,
+       "end": 113,
+       "tokens": "Jiangshan Municipal Funeral Parlor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.29331048407268073,
+       "start": 29,
+       "end": 30,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.29331048407268073,
+        "1668284|Taiwan": 0.03104473284009956
+       }
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Jiangshan",
+       "labelScoreMap": {
+        "1814991|China": 1.0
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9320192170898334,
+       "start": 47,
+       "end": 48,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9320192170898334,
+        "1668284|Taiwan": 0.01843474411929938,
+        "4960817|China,_Maine": 0.0012879763766729323
+       }
+      },
+      {
+       "label": "Hangzhou",
+       "score": 0.9815679834230049,
+       "start": 17,
+       "end": 18,
+       "tokens": "HANGZHOU",
+       "labelScoreMap": {
+        "1808926|Hangzhou": 0.9815679834230049,
+        "6301383|Hangzhou_Xiaoshan_International_Airport": 0.003043031733062074
+       }
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.9578584857355454,
+       "start": 38,
+       "end": 40,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "5391997|San_Francisco": 0.9578584857355454,
+        "5404904|University_of_San_Francisco": 0.003749979355901385,
+        "5379047|San_Francisco_Mint": 0.0025371116396025713,
+        "5391989|San_Francisco_International_Airport": 0.002500836582806621,
+        "3837675|San_Francisco,_C\u00f3rdoba": 0.002118587189771887,
+        "1690011|San_Francisco,_Cebu": 0.0015415263374449824,
+        "5391961|San_Francisco_Bay": 0.003163170649674541
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

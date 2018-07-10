@@ -1,0 +1,5355 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131221.0217.xml",
+ "text": "BLACKBERRY STAGGERS TO A DEEPER, $4.4 BILLION LOSS\nEDS: SUBS for complete writethru; NEW headline.) ; (This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nOTTAWA, Ontario - BlackBerry, the hobbled smartphone maker, reported more dire financial news Friday, posting a $4.4 billion loss and a 56 percent drop in revenue in its latest quarter. The company also outlined a sharp retreat from its once-core handset business by entering a partnership with the Asian contract manufacturer Foxconn.\nThe substantial loss, which follows one of nearly $1 billion in the previous quarter, again reflected the failure of the BlackBerry 10 line of phones, which were portrayed as a lifesaver for the company when introduced at the beginning of the year. The latest loss included a $2.7 billion write-down mainly related to BlackBerry 10 phones, including the Q10 and the Z10.\nOf the 4.3 million BlackBerrys bought by consumers and businesses during the quarter, 3.2 million were models that use the obsolete BlackBerry 7 operating system. The meager sales of the phone led revenue to plunge to $1.2 billion, compared with $2.7 billion in the same period a year ago.\nLast month, BlackBerry failed to find a buyer for the company and replaced Thorsten Heins, the chief executive, with John S. Chen, the former chairman of the software company Sybase. Chen has since fired several high-level executives at the company.\nBut the first real strategic change under Chen came Friday, when he announced the company\u2019s arrangement with Foxconn. BlackBerry, like other many other hardware companies including Apple, has long relied on Foxconn to manufacture phones. The new partnership appears to take the relationship to a new level.\nThe arrangement also seems to be a way for BlackBerry to effectively hand over some of its handset business without running afoul of Canadian foreign investment laws.\nIn a conference call with analysts, Chen said that BlackBerry would jointly develop and manufacture some phones with Foxconn. Because Foxconn will carry the inventory of those phones on its books, Chen said that BlackBerry would be shielded from large writedowns of unwanted handsets in the future.\nIn what seemed to be an even further distancing from the company\u2019s past, Chen was remarkably open to the idea of joining the competition.\n\u201cI would love to find a way to make our BlackBerry experience on the Android and the iOS,\u201d he said, referring to the two dominant mobile operating systems. \u201cIt\u2019s not without difficulties, as you all know. But it\u2019s something that we\u2019re very interested in trying.\u201d",
+ "tokens": [
+  "BLACKBERRY",
+  "STAGGERS",
+  "TO",
+  "A",
+  "DEEPER",
+  ",",
+  "$4.4",
+  "BILLION",
+  "LOSS",
+  "EDS",
+  ":",
+  "SUBS",
+  "for",
+  "complete",
+  "writethru",
+  ";",
+  "NEW",
+  "headline",
+  ".",
+  ")",
+  ";",
+  "(",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "OTTAWA",
+  ",",
+  "Ontario",
+  "-",
+  "BlackBerry",
+  ",",
+  "the",
+  "hobbled",
+  "smartphone",
+  "maker",
+  ",",
+  "reported",
+  "more",
+  "dire",
+  "financial",
+  "news",
+  "Friday",
+  ",",
+  "posting",
+  "a",
+  "$4.4",
+  "billion",
+  "loss",
+  "and",
+  "a",
+  "56",
+  "percent",
+  "drop",
+  "in",
+  "revenue",
+  "in",
+  "its",
+  "latest",
+  "quarter",
+  ".",
+  "The",
+  "company",
+  "also",
+  "outlined",
+  "a",
+  "sharp",
+  "retreat",
+  "from",
+  "its",
+  "once",
+  "-",
+  "core",
+  "handset",
+  "business",
+  "by",
+  "entering",
+  "a",
+  "partnership",
+  "with",
+  "the",
+  "Asian",
+  "contract",
+  "manufacturer",
+  "Foxconn",
+  ".",
+  "The",
+  "substantial",
+  "loss",
+  ",",
+  "which",
+  "follows",
+  "one",
+  "of",
+  "nearly",
+  "$1",
+  "billion",
+  "in",
+  "the",
+  "previous",
+  "quarter",
+  ",",
+  "again",
+  "reflected",
+  "the",
+  "failure",
+  "of",
+  "the",
+  "BlackBerry",
+  "10",
+  "line",
+  "of",
+  "phones",
+  ",",
+  "which",
+  "were",
+  "portrayed",
+  "as",
+  "a",
+  "lifesaver",
+  "for",
+  "the",
+  "company",
+  "when",
+  "introduced",
+  "at",
+  "the",
+  "beginning",
+  "of",
+  "the",
+  "year",
+  ".",
+  "The",
+  "latest",
+  "loss",
+  "included",
+  "a",
+  "$2.7",
+  "billion",
+  "write",
+  "-",
+  "down",
+  "mainly",
+  "related",
+  "to",
+  "BlackBerry",
+  "10",
+  "phones",
+  ",",
+  "including",
+  "the",
+  "Q10",
+  "and",
+  "the",
+  "Z10",
+  ".",
+  "Of",
+  "the",
+  "4.3",
+  "million",
+  "BlackBerrys",
+  "bought",
+  "by",
+  "consumers",
+  "and",
+  "businesses",
+  "during",
+  "the",
+  "quarter",
+  ",",
+  "3.2",
+  "million",
+  "were",
+  "models",
+  "that",
+  "use",
+  "the",
+  "obsolete",
+  "BlackBerry",
+  "7",
+  "operating",
+  "system",
+  ".",
+  "The",
+  "meager",
+  "sales",
+  "of",
+  "the",
+  "phone",
+  "led",
+  "revenue",
+  "to",
+  "plunge",
+  "to",
+  "$1.2",
+  "billion",
+  ",",
+  "compared",
+  "with",
+  "$2.7",
+  "billion",
+  "in",
+  "the",
+  "same",
+  "period",
+  "a",
+  "year",
+  "ago",
+  ".",
+  "Last",
+  "month",
+  ",",
+  "BlackBerry",
+  "failed",
+  "to",
+  "find",
+  "a",
+  "buyer",
+  "for",
+  "the",
+  "company",
+  "and",
+  "replaced",
+  "Thorsten",
+  "Heins",
+  ",",
+  "the",
+  "chief",
+  "executive",
+  ",",
+  "with",
+  "John",
+  "S.",
+  "Chen",
+  ",",
+  "the",
+  "former",
+  "chairman",
+  "of",
+  "the",
+  "software",
+  "company",
+  "Sybase",
+  ".",
+  "Chen",
+  "has",
+  "since",
+  "fired",
+  "several",
+  "high",
+  "-",
+  "level",
+  "executives",
+  "at",
+  "the",
+  "company",
+  ".",
+  "But",
+  "the",
+  "first",
+  "real",
+  "strategic",
+  "change",
+  "under",
+  "Chen",
+  "came",
+  "Friday",
+  ",",
+  "when",
+  "he",
+  "announced",
+  "the",
+  "company",
+  "\u2019s",
+  "arrangement",
+  "with",
+  "Foxconn",
+  ".",
+  "BlackBerry",
+  ",",
+  "like",
+  "other",
+  "many",
+  "other",
+  "hardware",
+  "companies",
+  "including",
+  "Apple",
+  ",",
+  "has",
+  "long",
+  "relied",
+  "on",
+  "Foxconn",
+  "to",
+  "manufacture",
+  "phones",
+  ".",
+  "The",
+  "new",
+  "partnership",
+  "appears",
+  "to",
+  "take",
+  "the",
+  "relationship",
+  "to",
+  "a",
+  "new",
+  "level",
+  ".",
+  "The",
+  "arrangement",
+  "also",
+  "seems",
+  "to",
+  "be",
+  "a",
+  "way",
+  "for",
+  "BlackBerry",
+  "to",
+  "effectively",
+  "hand",
+  "over",
+  "some",
+  "of",
+  "its",
+  "handset",
+  "business",
+  "without",
+  "running",
+  "afoul",
+  "of",
+  "Canadian",
+  "foreign",
+  "investment",
+  "laws",
+  ".",
+  "In",
+  "a",
+  "conference",
+  "call",
+  "with",
+  "analysts",
+  ",",
+  "Chen",
+  "said",
+  "that",
+  "BlackBerry",
+  "would",
+  "jointly",
+  "develop",
+  "and",
+  "manufacture",
+  "some",
+  "phones",
+  "with",
+  "Foxconn",
+  ".",
+  "Because",
+  "Foxconn",
+  "will",
+  "carry",
+  "the",
+  "inventory",
+  "of",
+  "those",
+  "phones",
+  "on",
+  "its",
+  "books",
+  ",",
+  "Chen",
+  "said",
+  "that",
+  "BlackBerry",
+  "would",
+  "be",
+  "shielded",
+  "from",
+  "large",
+  "writedowns",
+  "of",
+  "unwanted",
+  "handsets",
+  "in",
+  "the",
+  "future",
+  ".",
+  "In",
+  "what",
+  "seemed",
+  "to",
+  "be",
+  "an",
+  "even",
+  "further",
+  "distancing",
+  "from",
+  "the",
+  "company",
+  "\u2019s",
+  "past",
+  ",",
+  "Chen",
+  "was",
+  "remarkably",
+  "open",
+  "to",
+  "the",
+  "idea",
+  "of",
+  "joining",
+  "the",
+  "competition",
+  ".",
+  "\u201c",
+  "I",
+  "would",
+  "love",
+  "to",
+  "find",
+  "a",
+  "way",
+  "to",
+  "make",
+  "our",
+  "BlackBerry",
+  "experience",
+  "on",
+  "the",
+  "Android",
+  "and",
+  "the",
+  "iOS",
+  ",",
+  "\u201d",
+  "he",
+  "said",
+  ",",
+  "referring",
+  "to",
+  "the",
+  "two",
+  "dominant",
+  "mobile",
+  "operating",
+  "systems",
+  ".",
+  "\u201c",
+  "It",
+  "\u2019s",
+  "not",
+  "without",
+  "difficulties",
+  ",",
+  "as",
+  "you",
+  "all",
+  "know",
+  ".",
+  "But",
+  "it",
+  "\u2019s",
+  "something",
+  "that",
+  "we",
+  "\u2019re",
+  "very",
+  "interested",
+  "in",
+  "trying",
+  ".",
+  "\u201d"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   30,
+   85,
+   110,
+   156,
+   180,
+   207,
+   233,
+   268,
+   281,
+   302,
+   322,
+   335,
+   363,
+   384,
+   414,
+   441,
+   474,
+   486,
+   499
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "John_S._Chen",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "Chen"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "Apple"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "Canada",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "Canadian"
+      },
+      {
+       "label": "Asia",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Asian"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "Ottawa",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "OTTAWA"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "Sybase",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "Sybase"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 44,
+       "end": 46,
+       "tokens": "New York"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "BLACKBERRY"
+      },
+      {
+       "label": "John_S._Chen",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "Chen"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "John_S._Chen",
+       "score": 1.0,
+       "start": 255,
+       "end": 258,
+       "tokens": "John S. Chen"
+      },
+      {
+       "label": "John_S._Chen",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "Chen"
+      },
+      {
+       "label": "BlackBerry_Limited",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "John_S._Chen",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "Chen"
+      },
+      {
+       "label": "John_S._Chen",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "Chen"
+      },
+      {
+       "label": "Thorsten_Heins",
+       "score": 1.0,
+       "start": 247,
+       "end": 249,
+       "tokens": "Thorsten Heins"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "Chen"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "Canadian"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Asian"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "OTTAWA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "Sybase"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 44,
+       "end": 46,
+       "tokens": "New York"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "BLACKBERRY"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "Chen"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 255,
+       "end": 258,
+       "tokens": "John S. Chen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "Chen"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "Chen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "Chen"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 247,
+       "end": 249,
+       "tokens": "Thorsten Heins"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "BLACKBERRY",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "BLACKBERRY"
+      },
+      {
+       "label": "STAGGERS",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "STAGGERS"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "TO"
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "A"
+      },
+      {
+       "label": "DEEPER",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "DEEPER"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": ","
+      },
+      {
+       "label": "$4.4",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "$4.4"
+      },
+      {
+       "label": "BILLION",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "BILLION"
+      },
+      {
+       "label": "LOSS",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "LOSS"
+      },
+      {
+       "label": "EDS",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "EDS"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": ":"
+      },
+      {
+       "label": "SUBS",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "SUBS"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "for"
+      },
+      {
+       "label": "complete",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "complete"
+      },
+      {
+       "label": "writethru",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "writethru"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": ";"
+      },
+      {
+       "label": "NEW",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "NEW"
+      },
+      {
+       "label": "headline",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "headline"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": ";"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "("
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": ";"
+      },
+      {
+       "label": "OTTAWA",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "OTTAWA"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": ","
+      },
+      {
+       "label": "Ontario",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Ontario"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "-"
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "the"
+      },
+      {
+       "label": "hobbled",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "hobbled"
+      },
+      {
+       "label": "smartphone",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "smartphone"
+      },
+      {
+       "label": "maker",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "maker"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": ","
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "reported"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "more"
+      },
+      {
+       "label": "dire",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "dire"
+      },
+      {
+       "label": "financial",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "financial"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "news"
+      },
+      {
+       "label": "Friday",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Friday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": ","
+      },
+      {
+       "label": "posting",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "posting"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "a"
+      },
+      {
+       "label": "$4.4",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "$4.4"
+      },
+      {
+       "label": "billion",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "billion"
+      },
+      {
+       "label": "loss",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "loss"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "a"
+      },
+      {
+       "label": "56",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "56"
+      },
+      {
+       "label": "percent",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "percent"
+      },
+      {
+       "label": "drop",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "drop"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "in"
+      },
+      {
+       "label": "revenue",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "revenue"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "in"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "its"
+      },
+      {
+       "label": "latest",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "latest"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "quarter"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "company"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "also"
+      },
+      {
+       "label": "outlined",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "outlined"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "a"
+      },
+      {
+       "label": "sharp",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "sharp"
+      },
+      {
+       "label": "retreat",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "retreat"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "from"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "its"
+      },
+      {
+       "label": "once",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "once"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "-"
+      },
+      {
+       "label": "core",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "core"
+      },
+      {
+       "label": "handset",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "handset"
+      },
+      {
+       "label": "business",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "business"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "by"
+      },
+      {
+       "label": "entering",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "entering"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "a"
+      },
+      {
+       "label": "partnership",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "partnership"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "the"
+      },
+      {
+       "label": "Asian",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Asian"
+      },
+      {
+       "label": "contract",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "contract"
+      },
+      {
+       "label": "manufacturer",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "manufacturer"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "The"
+      },
+      {
+       "label": "substantial",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "substantial"
+      },
+      {
+       "label": "loss",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "loss"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "which"
+      },
+      {
+       "label": "follows",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "follows"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "of"
+      },
+      {
+       "label": "nearly",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "nearly"
+      },
+      {
+       "label": "$1",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "$1"
+      },
+      {
+       "label": "billion",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "billion"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "the"
+      },
+      {
+       "label": "previous",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "previous"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "quarter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": ","
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "again"
+      },
+      {
+       "label": "reflected",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "reflected"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "the"
+      },
+      {
+       "label": "failure",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "failure"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "the"
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "10",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "10"
+      },
+      {
+       "label": "line",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "line"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "of"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "phones"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "which"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "were"
+      },
+      {
+       "label": "portrayed",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "portrayed"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "a"
+      },
+      {
+       "label": "lifesaver",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "lifesaver"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "company"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "when"
+      },
+      {
+       "label": "introduced",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "introduced"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "the"
+      },
+      {
+       "label": "beginning",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "beginning"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "the"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "year"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "The"
+      },
+      {
+       "label": "latest",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "latest"
+      },
+      {
+       "label": "loss",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "loss"
+      },
+      {
+       "label": "included",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "included"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "a"
+      },
+      {
+       "label": "$2.7",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "$2.7"
+      },
+      {
+       "label": "billion",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "billion"
+      },
+      {
+       "label": "write",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "write"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "-"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "down"
+      },
+      {
+       "label": "mainly",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "mainly"
+      },
+      {
+       "label": "related",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "related"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "to"
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "10",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "10"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "phones"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "including"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "the"
+      },
+      {
+       "label": "Q10",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "Q10"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "the"
+      },
+      {
+       "label": "Z10",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "Z10"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "."
+      },
+      {
+       "label": "Of",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "Of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "the"
+      },
+      {
+       "label": "4.3",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "4.3"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "million"
+      },
+      {
+       "label": "BlackBerrys",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "BlackBerrys"
+      },
+      {
+       "label": "bought",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "bought"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "by"
+      },
+      {
+       "label": "consumers",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "consumers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "and"
+      },
+      {
+       "label": "businesses",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "businesses"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "during"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "the"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "quarter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": ","
+      },
+      {
+       "label": "3.2",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "3.2"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "million"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "were"
+      },
+      {
+       "label": "models",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "models"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "that"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "use"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "the"
+      },
+      {
+       "label": "obsolete",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "obsolete"
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "7",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "7"
+      },
+      {
+       "label": "operating",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "operating"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "system"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "The"
+      },
+      {
+       "label": "meager",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "meager"
+      },
+      {
+       "label": "sales",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "sales"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "the"
+      },
+      {
+       "label": "phone",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "phone"
+      },
+      {
+       "label": "led",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "led"
+      },
+      {
+       "label": "revenue",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "revenue"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "to"
+      },
+      {
+       "label": "plunge",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "plunge"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "to"
+      },
+      {
+       "label": "$1.2",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "$1.2"
+      },
+      {
+       "label": "billion",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "billion"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": ","
+      },
+      {
+       "label": "compared",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "compared"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "with"
+      },
+      {
+       "label": "$2.7",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "$2.7"
+      },
+      {
+       "label": "billion",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "billion"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "the"
+      },
+      {
+       "label": "same",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "same"
+      },
+      {
+       "label": "period",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "period"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "a"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "year"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "ago"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "."
+      },
+      {
+       "label": "Last",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "Last"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "month"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": ","
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "failed",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "failed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "to"
+      },
+      {
+       "label": "find",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "find"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "a"
+      },
+      {
+       "label": "buyer",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "buyer"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "company"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "and"
+      },
+      {
+       "label": "replaced",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "replaced"
+      },
+      {
+       "label": "Thorsten",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "Thorsten"
+      },
+      {
+       "label": "Heins",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "Heins"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "the"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "chief"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "executive"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "with"
+      },
+      {
+       "label": "John",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "John"
+      },
+      {
+       "label": "S.",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "S."
+      },
+      {
+       "label": "Chen",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "Chen"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "the"
+      },
+      {
+       "label": "former",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "former"
+      },
+      {
+       "label": "chairman",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "chairman"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "the"
+      },
+      {
+       "label": "software",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "software"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "company"
+      },
+      {
+       "label": "Sybase",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "Sybase"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "."
+      },
+      {
+       "label": "Chen",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "Chen"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "has"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "since"
+      },
+      {
+       "label": "fired",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "fired"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "several"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "high"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "-"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "level"
+      },
+      {
+       "label": "executives",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "executives"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "company"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "But"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "first"
+      },
+      {
+       "label": "real",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "real"
+      },
+      {
+       "label": "strategic",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "strategic"
+      },
+      {
+       "label": "change",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "change"
+      },
+      {
+       "label": "under",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "under"
+      },
+      {
+       "label": "Chen",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "Chen"
+      },
+      {
+       "label": "came",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "came"
+      },
+      {
+       "label": "Friday",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "Friday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": ","
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "when"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "he"
+      },
+      {
+       "label": "announced",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "announced"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "company"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "arrangement",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "arrangement"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "with"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "."
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": ","
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "like"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "other"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "many"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "other"
+      },
+      {
+       "label": "hardware",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "hardware"
+      },
+      {
+       "label": "companies",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "companies"
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "including"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "Apple"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": ","
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "has"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "long"
+      },
+      {
+       "label": "relied",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "relied"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "on"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "to"
+      },
+      {
+       "label": "manufacture",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "manufacture"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "phones"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "The"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "new"
+      },
+      {
+       "label": "partnership",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "partnership"
+      },
+      {
+       "label": "appears",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "appears"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "to"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "take"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "the"
+      },
+      {
+       "label": "relationship",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "relationship"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "a"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "new"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "level"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "The"
+      },
+      {
+       "label": "arrangement",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "arrangement"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "also"
+      },
+      {
+       "label": "seems",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "seems"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "be"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "a"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "way"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "for"
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "to"
+      },
+      {
+       "label": "effectively",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "effectively"
+      },
+      {
+       "label": "hand",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "hand"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "over"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "of"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "its"
+      },
+      {
+       "label": "handset",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "handset"
+      },
+      {
+       "label": "business",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "business"
+      },
+      {
+       "label": "without",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "without"
+      },
+      {
+       "label": "running",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "running"
+      },
+      {
+       "label": "afoul",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "afoul"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "of"
+      },
+      {
+       "label": "Canadian",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "Canadian"
+      },
+      {
+       "label": "foreign",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "foreign"
+      },
+      {
+       "label": "investment",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "investment"
+      },
+      {
+       "label": "laws",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "laws"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "In"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "a"
+      },
+      {
+       "label": "conference",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "conference"
+      },
+      {
+       "label": "call",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "call"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "with"
+      },
+      {
+       "label": "analysts",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "analysts"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": ","
+      },
+      {
+       "label": "Chen",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "Chen"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "that"
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "would"
+      },
+      {
+       "label": "jointly",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "jointly"
+      },
+      {
+       "label": "develop",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "develop"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "and"
+      },
+      {
+       "label": "manufacture",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "manufacture"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "some"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "phones"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "with"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "."
+      },
+      {
+       "label": "Because",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "Because"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "will"
+      },
+      {
+       "label": "carry",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "carry"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "the"
+      },
+      {
+       "label": "inventory",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "inventory"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "of"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "those"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "phones"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "on"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "its"
+      },
+      {
+       "label": "books",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "books"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": ","
+      },
+      {
+       "label": "Chen",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "Chen"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "that"
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "be"
+      },
+      {
+       "label": "shielded",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "shielded"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "from"
+      },
+      {
+       "label": "large",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "large"
+      },
+      {
+       "label": "writedowns",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "writedowns"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "of"
+      },
+      {
+       "label": "unwanted",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "unwanted"
+      },
+      {
+       "label": "handsets",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "handsets"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "the"
+      },
+      {
+       "label": "future",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "future"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "In"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "what"
+      },
+      {
+       "label": "seemed",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "seemed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "be"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "an"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "even"
+      },
+      {
+       "label": "further",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "further"
+      },
+      {
+       "label": "distancing",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "distancing"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "company"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "past",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "past"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": ","
+      },
+      {
+       "label": "Chen",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "Chen"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "was"
+      },
+      {
+       "label": "remarkably",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "remarkably"
+      },
+      {
+       "label": "open",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "open"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "the"
+      },
+      {
+       "label": "idea",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "idea"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "of"
+      },
+      {
+       "label": "joining",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "joining"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "the"
+      },
+      {
+       "label": "competition",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "competition"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "I"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "would"
+      },
+      {
+       "label": "love",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "love"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "to"
+      },
+      {
+       "label": "find",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "find"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "a"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "way"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "to"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "make"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "our"
+      },
+      {
+       "label": "BlackBerry",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "BlackBerry"
+      },
+      {
+       "label": "experience",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "experience"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "the"
+      },
+      {
+       "label": "Android",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "Android"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "the"
+      },
+      {
+       "label": "iOS",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "iOS"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "said"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": ","
+      },
+      {
+       "label": "referring",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "referring"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "the"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "two"
+      },
+      {
+       "label": "dominant",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "dominant"
+      },
+      {
+       "label": "mobile",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "mobile"
+      },
+      {
+       "label": "operating",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "operating"
+      },
+      {
+       "label": "systems",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "systems"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "It"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "not"
+      },
+      {
+       "label": "without",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "without"
+      },
+      {
+       "label": "difficulties",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "difficulties"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "as"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "you"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "all"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "know"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "But"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "it"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "something"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "we"
+      },
+      {
+       "label": "\u2019re",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "\u2019re"
+      },
+      {
+       "label": "very",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "very"
+      },
+      {
+       "label": "interested",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "interested"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "in"
+      },
+      {
+       "label": "trying",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "trying"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "\u201d"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Foxconn",
+       "score": 0.9984855354557788,
+       "start": 108,
+       "end": 109,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9984855354557788,
+        "Apple_Inc.": 0.0015144645442211218,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8198772631722332,
+       "start": 302,
+       "end": 303,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.8198772631722332,
+        "Blackberry": 0.15132821459859477,
+        "BlackBerry_OS": 0.024056926715978377,
+        "Judicial_Conference_of_the_United_States": 0.0047375955131937035,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ontario",
+       "score": 0.8568782447473469,
+       "start": 52,
+       "end": 53,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "Ontario": 0.8568782447473469,
+        "Ontario,_California": 0.11012262116210808,
+        "Ontario_County,_New_York": 0.006864469723391526,
+        "Lake_Ontario": 0.008197045425616003,
+        "Ontario,_Oregon": 0.004803180455876392,
+        "Diocese_of_Ontario": 0.002392728747959908,
+        "Ecclesiastical_Province_of_Ontario": 0.002383705372400848,
+        "Interstate_15_in_California": 0.001966418254731395,
+        "Ontario_International_Airport": 0.0017824627418655482,
+        "Ontario,_Ohio": 0.0013644474839202853,
+        "Ontario_(electoral_district)": 0.0012067213095613154,
+        "Ontario_Motor_Speedway": 0.0011147661867066578,
+        "Ontario,_New_York": 0.0009231883885153048,
+        "<unk_wid>": 3.805806619873228e-34
+       }
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.4811654718995854,
+       "start": 397,
+       "end": 398,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "Chen_(state)": 0.20200234695212496,
+        "Dog": 0.060772047504362374,
+        "Steve_Chen": 0.0453648605132721,
+        "Edison_Chen": 0.04652969432897028,
+        "Bruce_Chen": 0.028245954302782348,
+        "Oak": 0.025991571380622802,
+        "Chen_Shui-bian": 0.02324547773338053,
+        "Tarja_Turunen": 0.01497778580271148,
+        "Jiangling_County": 0.010699204411107287,
+        "Chen_Zhong": 0.010271369105377707,
+        "Zhu_Chen": 0.0068494095540365925,
+        "Chen_Guangcheng": 0.005993434854867237,
+        "Wei-Yin_Chen": 0.005139269486965601,
+        "Chen_Kun": 0.008169400487745051,
+        "Chen_Shih-hsin": 0.004280433787798308,
+        "Chen_Yi_(composer)": 0.010591387437782918,
+        "Chen_Szu-yuan": 0.003424781366988045,
+        "Anserinae": 0.003423759424402695,
+        "Caterpillar": 0.4811654718995854,
+        "Chen_Kaige": 0.0028623396651162236,
+        "<unk_wid>": 5.727040166864613e-40
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7936844718307972,
+       "start": 311,
+       "end": 312,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7936844718307972,
+        "Apple": 0.10720085058423559,
+        "Apple_Records": 0.041340436169952074,
+        "Apple_II_series": 0.02356324938178041,
+        "Apple_Corps": 0.005411955353290816,
+        "IPhone": 0.003475883173419598,
+        "Apple_II_Plus": 0.00329425462930107,
+        "Macintosh": 0.003942224540959913,
+        "Apple_(album)": 0.003142353339206651,
+        "IPad": 0.0022024989860047984,
+        "Apple_Store": 0.002144678608659444,
+        "Cashew": 0.002012631018406585,
+        "Mac_Mini": 0.0017088371686073073,
+        "Apple_III": 0.001196187772930238,
+        "Apple_I": 0.0010632802950670916,
+        "Malus": 0.0010537803314137663,
+        "ITunes": 0.0010347993427962817,
+        "Apple_TV": 0.0009970927918079926,
+        "Apple_Lisa": 0.001530534681363517,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8193418919862038,
+       "start": 202,
+       "end": 203,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.8193418919862038,
+        "Blackberry": 0.15125538527171095,
+        "BlackBerry_OS": 0.0246674072769343,
+        "Judicial_Conference_of_the_United_States": 0.0047353154651510335,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984807963277655,
+       "start": 317,
+       "end": 318,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9984807963277655,
+        "Apple_Inc.": 0.001519203672234465,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Canada",
+       "score": 0.9435383431622245,
+       "start": 358,
+       "end": 359,
+       "tokens": "Canadian",
+       "labelScoreMap": {
+        "Canada": 0.9435383431622245,
+        "Canadian_County,_Oklahoma": 0.019746090647824597,
+        "Canadian,_Texas": 0.007598295134162073,
+        "Canadian_(train)": 0.005901619194344604,
+        "Canadian_English": 0.005154142257115695,
+        "Arcade_Fire": 0.004484832619844863,
+        "Canadian_dollar": 0.0025390082609157193,
+        "Canoe": 0.002516706820001737,
+        "Canadian_River": 0.001952001755483298,
+        "Canadian_Grand_Prix": 0.001742289896462109,
+        "Royal_Canadian_Navy": 0.0016454861467210039,
+        "Canadian_Prairies": 0.0016132330490012678,
+        "Government_of_Canada": 0.0015679510558987196,
+        "<unk_wid>": 2.327390320597792e-37
+       }
+      },
+      {
+       "label": "Asia",
+       "score": 0.6506094644391547,
+       "start": 105,
+       "end": 106,
+       "tokens": "Asian",
+       "labelScoreMap": {
+        "Asia": 0.6506094644391547,
+        "Asian_people": 0.17285821192920997,
+        "Asian_Americans": 0.14624432335508114,
+        "British_Asian": 0.009822858628000416,
+        "Asian_Brazilians": 0.009547703105589295,
+        "Asian_elephant": 0.004567479201076274,
+        "Asian_Canadians": 0.0034944228138455357,
+        "Asian_Football_Confederation": 0.0028555365280427025,
+        "<unk_wid>": 3.3861399629163297e-35
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984863217028254,
+       "start": 300,
+       "end": 301,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9984863217028254,
+        "Apple_Inc.": 0.001513678297174559,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Ottawa",
+       "score": 0.8130392489174054,
+       "start": 50,
+       "end": 51,
+       "tokens": "OTTAWA",
+       "labelScoreMap": {
+        "Ottawa": 0.8130392489174054,
+        "Odawa": 0.03141013681805788,
+        "Ottawa,_Illinois": 0.03135298840233584,
+        "Ottawa_Macdonald\u2013Cartier_International_Airport": 0.015744772169124076,
+        "Ottawa,_Kansas": 0.010987191323212643,
+        "Ottawa_County,_Ohio": 0.008531973856551195,
+        "Ottawa_Senators": 0.008986355905850634,
+        "Ottawa,_Ohio": 0.007165400252260416,
+        "Ottawa_County,_Kansas": 0.006784071014735407,
+        "Ottawa_County,_Oklahoma": 0.00641865356359404,
+        "Ottawa_County,_Michigan": 0.006170175458147168,
+        "Anglican_Diocese_of_Ottawa": 0.004750444460645705,
+        "Ottawa_River": 0.00433860080109532,
+        "University_of_Ottawa": 0.01145735106570695,
+        "Outaouais": 0.003177552894879002,
+        "Ottawa_National_Forest": 0.0025738551410513706,
+        "Ottawa_City_Council": 0.0031755074196779813,
+        "Ottawa_River_(Lake_Erie)": 0.0021607397717401436,
+        "Ottawa_dialect": 0.002097182985238485,
+        "OC_Transpo": 0.004688121109420772,
+        "Ottawa_University": 0.005850118378969518,
+        "Ottawa_Fury_FC": 0.001350901678478865,
+        "Student_Federation_of_the_University_of_Ottawa": 0.0013186841970049387,
+        "Embassy_of_the_United_States,_Ottawa": 0.0011921036799200462,
+        "National_Capital_Region_(Canada)": 0.0011247385662074196,
+        "Ottawa_67's": 0.002229440344548384,
+        "Ottawa_(City_of)": 0.00101808671716164,
+        "Ottawa_Street_(Hamilton,_Ontario)": 0.0009056031069785134,
+        "<unk_wid>": 6.133369234560522e-38
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8198469177343598,
+       "start": 236,
+       "end": 237,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.8198469177343598,
+        "Blackberry": 0.15132408749840737,
+        "BlackBerry_OS": 0.02409152848949038,
+        "Judicial_Conference_of_the_United_States": 0.004737466277742458,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8198171414865209,
+       "start": 400,
+       "end": 401,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.8198171414865209,
+        "Blackberry": 0.1513200361913489,
+        "BlackBerry_OS": 0.02412548285614801,
+        "Judicial_Conference_of_the_United_States": 0.004737339465982258,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Sybase",
+       "score": 0.9668088010791746,
+       "start": 266,
+       "end": 267,
+       "tokens": "Sybase",
+       "labelScoreMap": {
+        "Sybase": 0.9668088010791746,
+        "Adaptive_Server_Enterprise": 0.021007612102404656,
+        "Sybase_IQ": 0.0049110249542947924,
+        "Microsoft_SQL_Server": 0.004147364165133051,
+        "SQL_Anywhere": 0.003125197698993093,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8194959777872217,
+       "start": 132,
+       "end": 133,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.8194959777872217,
+        "Blackberry": 0.15127634805655568,
+        "BlackBerry_OS": 0.024491702467405837,
+        "Judicial_Conference_of_the_United_States": 0.0047359716888168025,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8198787849549322,
+       "start": 54,
+       "end": 55,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.8198787849549322,
+        "Blackberry": 0.15132842151874862,
+        "BlackBerry_OS": 0.024055191532153783,
+        "Judicial_Conference_of_the_United_States": 0.004737601994165548,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8194934427186161,
+       "start": 169,
+       "end": 170,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.8194934427186161,
+        "Blackberry": 0.15127600166773375,
+        "BlackBerry_OS": 0.024494594721587246,
+        "Judicial_Conference_of_the_United_States": 0.004735960892062669,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8197581260010638,
+       "start": 452,
+       "end": 453,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.8197581260010638,
+        "Blackberry": 0.15131200898138641,
+        "BlackBerry_OS": 0.024192776887505724,
+        "Judicial_Conference_of_the_United_States": 0.004737088130043879,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984468512667428,
+       "start": 385,
+       "end": 386,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9984468512667428,
+        "Apple_Inc.": 0.0015531487332571946,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.502640009846727,
+       "start": 44,
+       "end": 46,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.32955812703417187,
+        "New_York_City": 0.1523734901045209,
+        "New_York_(magazine)": 0.502640009846727,
+        "New_York_(film)": 0.0023245383392486887,
+        "Province_of_New_York": 0.0019311501632932847,
+        "New_York_Knicks": 0.0018617389395808443,
+        "Manhattan": 0.0018473031580459064,
+        "New_York_metropolitan_area": 0.0013063234197808898,
+        "New_York's_at-large_congressional_seat": 0.001213810098560926,
+        "Eastern_Air_Defense_Sector": 0.0008898467390797657,
+        "New_York_Air_National_Guard": 0.0008078034001053712,
+        "Peekskill,_New_York": 0.0006899980202943945,
+        "New_York_Liberty": 0.0006819098994385453,
+        "New_York_Yankees": 0.000643310673749049,
+        "September_11_attacks": 0.0006184754828059854,
+        "New_York_GAA": 0.0006121646805966199,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8196321956744194,
+       "start": 0,
+       "end": 1,
+       "tokens": "BLACKBERRY",
+       "labelScoreMap": {
+        "BlackBerry": 0.8196321956744194,
+        "Blackberry": 0.151295494736996,
+        "BlackBerry_OS": 0.02433575762761299,
+        "Judicial_Conference_of_the_United_States": 0.004736551960971572,
+        "<unk_wid>": 3.689447803240855e-36
+       }
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.35972777226739955,
+       "start": 268,
+       "end": 269,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "Chen_(state)": 0.20234637025396535,
+        "Dog": 0.06087251349269518,
+        "Steve_Chen": 0.04544006883839438,
+        "Edison_Chen": 0.057035206419853456,
+        "Bruce_Chen": 0.028292840692770677,
+        "Oak": 0.025054785961367204,
+        "Chen_Shui-bian": 0.03726782032251677,
+        "Tarja_Turunen": 0.015918676018036006,
+        "Jiangling_County": 0.010748307738749694,
+        "Chen_Zhong": 0.010289510700311899,
+        "Zhu_Chen": 0.006980545526638561,
+        "Chen_Guangcheng": 0.006045503562059635,
+        "Wei-Yin_Chen": 0.005199311676261186,
+        "Chen_Kun": 0.036044330528453454,
+        "Chen_Shih-hsin": 0.004292773502257339,
+        "Chen_Yi_(composer)": 0.07628060080705781,
+        "Chen_Szu-yuan": 0.0034789460910355442,
+        "Anserinae": 0.0034294515470781016,
+        "Caterpillar": 0.35972777226739955,
+        "Chen_Kaige": 0.00525466405309824,
+        "<unk_wid>": 6.512418712269538e-32
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.819879386617521,
+       "start": 373,
+       "end": 374,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.819879386617521,
+        "Blackberry": 0.151328503526625,
+        "BlackBerry_OS": 0.024054505299279525,
+        "Judicial_Conference_of_the_United_States": 0.004737604556574362,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "John_S._Chen",
+       "score": 1.0,
+       "start": 255,
+       "end": 258,
+       "tokens": "John S. Chen",
+       "labelScoreMap": {
+        "John_S._Chen": 1.0,
+        "<unk_wid>": 1.291296534875319e-41
+       }
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.47418289645517164,
+       "start": 370,
+       "end": 371,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "Chen_(state)": 0.20201849481625114,
+        "Dog": 0.060776683011526014,
+        "Steve_Chen": 0.045368546786981094,
+        "Edison_Chen": 0.04615083199591447,
+        "Bruce_Chen": 0.02824824942115671,
+        "Oak": 0.025355269120647735,
+        "Chen_Shui-bian": 0.026938375711602403,
+        "Tarja_Turunen": 0.014776151191319666,
+        "Jiangling_County": 0.010747454894202042,
+        "Chen_Zhong": 0.010272141645840904,
+        "Zhu_Chen": 0.006851045630063777,
+        "Chen_Guangcheng": 0.005995848068637929,
+        "Wei-Yin_Chen": 0.005140186878889987,
+        "Chen_Kun": 0.009597699232824228,
+        "Chen_Shih-hsin": 0.004280417849389674,
+        "Chen_Yi_(composer)": 0.012323573935097231,
+        "Chen_Szu-yuan": 0.003424701354201482,
+        "Anserinae": 0.003424037571926922,
+        "Caterpillar": 0.47418289645517164,
+        "Chen_Kaige": 0.004127394428354882,
+        "<unk_wid>": 1.6596687475612842e-41
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.819813309803936,
+       "start": 344,
+       "end": 345,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {
+        "BlackBerry": 0.819813309803936,
+        "Blackberry": 0.15131951740907365,
+        "BlackBerry_OS": 0.024129849638864526,
+        "Judicial_Conference_of_the_United_States": 0.004737323148125788,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.998482889361582,
+       "start": 382,
+       "end": 383,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.998482889361582,
+        "Apple_Inc.": 0.0015171106384179673,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.31739523030201616,
+       "start": 288,
+       "end": 289,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "Chen_(state)": 0.20270931007556842,
+        "Dog": 0.060976324175450645,
+        "Steve_Chen": 0.04551751136840674,
+        "Edison_Chen": 0.06816340732968912,
+        "Bruce_Chen": 0.02834114952009667,
+        "Oak": 0.02584664698851073,
+        "Chen_Shui-bian": 0.05640638697295975,
+        "Tarja_Turunen": 0.01571855272003271,
+        "Jiangling_County": 0.011065284028069299,
+        "Chen_Zhong": 0.010306458518842892,
+        "Zhu_Chen": 0.00705690690647305,
+        "Chen_Guangcheng": 0.006600205563944107,
+        "Wei-Yin_Chen": 0.005208978110637206,
+        "Chen_Kun": 0.030680520254924806,
+        "Chen_Shih-hsin": 0.004296975018505597,
+        "Chen_Yi_(composer)": 0.09033552142806574,
+        "Chen_Szu-yuan": 0.0034635710770725,
+        "Anserinae": 0.003435357969501761,
+        "Caterpillar": 0.31739523030201616,
+        "Chen_Kaige": 0.006475701671232262,
+        "<unk_wid>": 2.5609098057307553e-30
+       }
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.4459137684324398,
+       "start": 429,
+       "end": 430,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "Chen_(state)": 0.20207458594782168,
+        "Dog": 0.06078628964619664,
+        "Steve_Chen": 0.045375687572387906,
+        "Edison_Chen": 0.04602767365102177,
+        "Bruce_Chen": 0.02825269876006166,
+        "Oak": 0.025094989984986348,
+        "Chen_Shui-bian": 0.029457177708049943,
+        "Tarja_Turunen": 0.014799189182090325,
+        "Jiangling_County": 0.01062323468454719,
+        "Chen_Zhong": 0.010274037691617078,
+        "Zhu_Chen": 0.006884539509740838,
+        "Chen_Guangcheng": 0.006010945416287963,
+        "Wei-Yin_Chen": 0.005145481679338531,
+        "Chen_Kun": 0.01679787188820251,
+        "Chen_Shih-hsin": 0.004282601226990862,
+        "Chen_Yi_(composer)": 0.032444172420300864,
+        "Chen_Szu-yuan": 0.003433082647867762,
+        "Anserinae": 0.0034245791512567633,
+        "Caterpillar": 0.4459137684324398,
+        "Chen_Kaige": 0.0028973927987936297,
+        "<unk_wid>": 1.1771478773616981e-35
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 247,
+       "end": 249,
+       "tokens": "Thorsten Heins",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Foxconn",
+       "score": 0.9984855354557788,
+       "start": 108,
+       "end": 109,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8198772631722332,
+       "start": 302,
+       "end": 303,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ontario",
+       "score": 0.8568782447473469,
+       "start": 52,
+       "end": 53,
+       "tokens": "Ontario",
+       "labelScoreMap": {
+        "6093943|Ontario": 0.8568782447473469,
+        "5379439|Ontario,_California": 0.11012262116210808,
+        "5129891|Ontario_County,_New_York": 0.006864469723391526,
+        "6048611|Lake_Ontario": 0.008197045425616003,
+        "5744166|Ontario,_Oregon": 0.004803180455876392,
+        "5379449|Ontario_International_Airport": 0.0017824627418655482,
+        "5165664|Ontario,_Ohio": 0.0013644474839202853,
+        "5379451|Ontario_Motor_Speedway": 0.0011147661867066578,
+        "5129887|Ontario,_New_York": 0.0009231883885153048
+       }
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.4811654718995854,
+       "start": 397,
+       "end": 398,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "1806303|Jiangling_County": 0.010699204411107287
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7936844718307972,
+       "start": 311,
+       "end": 312,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8193418919862038,
+       "start": 202,
+       "end": 203,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984807963277655,
+       "start": 317,
+       "end": 318,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Canada",
+       "score": 0.9435383431622245,
+       "start": 358,
+       "end": 359,
+       "tokens": "Canadian",
+       "labelScoreMap": {
+        "6251999|Canada": 0.9435383431622245,
+        "4532136|Canadian_County,_Oklahoma": 0.019746090647824597,
+        "5518214|Canadian,_Texas": 0.007598295134162073,
+        "4532141|Canadian_River": 0.001952001755483298
+       }
+      },
+      {
+       "label": "Asia",
+       "score": 0.6506094644391547,
+       "start": 105,
+       "end": 106,
+       "tokens": "Asian",
+       "labelScoreMap": {
+        "6255147|Asia": 0.6506094644391547
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984863217028254,
+       "start": 300,
+       "end": 301,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ottawa",
+       "score": 0.8130392489174054,
+       "start": 50,
+       "end": 51,
+       "tokens": "OTTAWA",
+       "labelScoreMap": {
+        "6094817|Ottawa": 0.8130392489174054,
+        "4905006|Ottawa,_Illinois": 0.03135298840233584,
+        "6296246|Ottawa_Macdonald\u2013Cartier_International_Airport": 0.015744772169124076,
+        "4276816|Ottawa,_Kansas": 0.010987191323212643,
+        "5165803|Ottawa_County,_Ohio": 0.008531973856551195,
+        "5165801|Ottawa,_Ohio": 0.007165400252260416,
+        "4276817|Ottawa_County,_Kansas": 0.006784071014735407,
+        "4547357|Ottawa_County,_Oklahoma": 0.00641865356359404,
+        "5004681|Ottawa_County,_Michigan": 0.006170175458147168,
+        "6094832|Ottawa_River": 0.00433860080109532,
+        "7626283|University_of_Ottawa": 0.01145735106570695,
+        "6095306|Outaouais": 0.003177552894879002,
+        "4276825|Ottawa_University": 0.005850118378969518,
+        "6086254|National_Capital_Region_(Canada)": 0.0011247385662074196
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8198469177343598,
+       "start": 236,
+       "end": 237,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8198171414865209,
+       "start": 400,
+       "end": 401,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Sybase",
+       "score": 0.9668088010791746,
+       "start": 266,
+       "end": 267,
+       "tokens": "Sybase",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8194959777872217,
+       "start": 132,
+       "end": 133,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8198787849549322,
+       "start": 54,
+       "end": 55,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8194934427186161,
+       "start": 169,
+       "end": 170,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8197581260010638,
+       "start": 452,
+       "end": 453,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984468512667428,
+       "start": 385,
+       "end": 386,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.502640009846727,
+       "start": 44,
+       "end": 46,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.32955812703417187,
+        "5128581|New_York_City": 0.1523734901045209,
+        "5128594|Manhattan": 0.0018473031580459064,
+        "5130831|Peekskill,_New_York": 0.0006899980202943945
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.8196321956744194,
+       "start": 0,
+       "end": 1,
+       "tokens": "BLACKBERRY",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.35972777226739955,
+       "start": 268,
+       "end": 269,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "1806303|Jiangling_County": 0.010748307738749694
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.819879386617521,
+       "start": 373,
+       "end": 374,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "John_S._Chen",
+       "score": 1.0,
+       "start": 255,
+       "end": 258,
+       "tokens": "John S. Chen",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.47418289645517164,
+       "start": 370,
+       "end": 371,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "1806303|Jiangling_County": 0.010747454894202042
+       }
+      },
+      {
+       "label": "BlackBerry",
+       "score": 0.819813309803936,
+       "start": 344,
+       "end": 345,
+       "tokens": "BlackBerry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.998482889361582,
+       "start": 382,
+       "end": 383,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.31739523030201616,
+       "start": 288,
+       "end": 289,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "1806303|Jiangling_County": 0.011065284028069299
+       }
+      },
+      {
+       "label": "Caterpillar",
+       "score": 0.4459137684324398,
+       "start": 429,
+       "end": 430,
+       "tokens": "Chen",
+       "labelScoreMap": {
+        "1806303|Jiangling_County": 0.01062323468454719
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 247,
+       "end": 249,
+       "tokens": "Thorsten Heins",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

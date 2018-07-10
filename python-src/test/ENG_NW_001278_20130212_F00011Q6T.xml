@@ -1,0 +1,4776 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130212_F00011Q6T.xml",
+ "text": "2013-02-12T14:44:59\n2nd LD Writethru: S. Korean gov't condemns DPRK nuke test, steps up surveillance\n2nd LD Writethru: S. Korean gov't condemns DPRK nuke test, steps up surveillance\nSEOUL, Feb. 12 (Xinhua) -- The South Korean government condemned the nuclear test conducted by the Democratic People's Republic of Korea (DPRK) Tuesday, calling it a \"clear violation\" of UN resolutions.\n\"North Korea (DPRK) will not be able to avoid being held accountable for (the test),\" national security adviser Chun Yung-Woo told reporters after an emergency security meeting presided over by President Lee Myung-bak.\n\"In accordance with our consistent and firm principle that we will not tolerate North Korea's nuclear tests, the government will seek all measures, including those at the level of UN Security Council, to deter North Korea's nuclear ambition,\" Chun said, calling the test a \"threat\" to regional stability.\nPresident-elect Park Geun-hye, who replaces Lee later this month, \"strongly condemned\" the test and vowed to make joint efforts with the international community to denuclearize the DPRK, Park's spokeswoman Cho Yoon-sun told reporters.\nThe underground nuclear test, which the DPRK claimed successful, was carried out at 11:57 a.m. local time (0257 GMT) in the DPRK's Kilju County, North Hamkyung Province.\nAn artificial earthquake with a magnitude of 4.9 was detected from the town, where the DPRK's nuclear test facility is located.\nSouth Korea's military was immediately put on heightened alert to deter potential cross-border provocations, while the South Korean and U.S. forces upgraded their border surveillance level.\nThe Defense Ministry, which estimated the explosion from the test at 6to 7 kilotons, is keeping an eye on the developments in the DPRK to monitor potential signs of additional nuclear or missile tests.\nPyongyang recently vowed to proceed with missile and nuclear tests targeting the United States, its \"sworn enemy,\" to protest the UN condemnation over its Dec. 12 rocket launch.\nPyongyang conducted similar nuclear tests in 2006 and 2009. EnditemRA",
+ "tokens": [
+  "2013-02-12T14:44:59",
+  "2nd",
+  "LD",
+  "Writethru",
+  ":",
+  "S.",
+  "Korean",
+  "gov't",
+  "condemns",
+  "DPRK",
+  "nuke",
+  "test",
+  ",",
+  "steps",
+  "up",
+  "surveillance",
+  "2nd",
+  "LD",
+  "Writethru",
+  ":",
+  "S.",
+  "Korean",
+  "gov't",
+  "condemns",
+  "DPRK",
+  "nuke",
+  "test",
+  ",",
+  "steps",
+  "up",
+  "surveillance",
+  "SEOUL",
+  ",",
+  "Feb.",
+  "12",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "The",
+  "South",
+  "Korean",
+  "government",
+  "condemned",
+  "the",
+  "nuclear",
+  "test",
+  "conducted",
+  "by",
+  "the",
+  "Democratic",
+  "People",
+  "'s",
+  "Republic",
+  "of",
+  "Korea",
+  "(",
+  "DPRK",
+  ")",
+  "Tuesday",
+  ",",
+  "calling",
+  "it",
+  "a",
+  "\"",
+  "clear",
+  "violation",
+  "\"",
+  "of",
+  "UN",
+  "resolutions",
+  ".",
+  "\"",
+  "North",
+  "Korea",
+  "(",
+  "DPRK",
+  ")",
+  "will",
+  "not",
+  "be",
+  "able",
+  "to",
+  "avoid",
+  "being",
+  "held",
+  "accountable",
+  "for",
+  "(",
+  "the",
+  "test",
+  ")",
+  ",",
+  "\"",
+  "national",
+  "security",
+  "adviser",
+  "Chun",
+  "Yung",
+  "-",
+  "Woo",
+  "told",
+  "reporters",
+  "after",
+  "an",
+  "emergency",
+  "security",
+  "meeting",
+  "presided",
+  "over",
+  "by",
+  "President",
+  "Lee",
+  "Myung",
+  "-",
+  "bak",
+  ".",
+  "\"",
+  "In",
+  "accordance",
+  "with",
+  "our",
+  "consistent",
+  "and",
+  "firm",
+  "principle",
+  "that",
+  "we",
+  "will",
+  "not",
+  "tolerate",
+  "North",
+  "Korea",
+  "'s",
+  "nuclear",
+  "tests",
+  ",",
+  "the",
+  "government",
+  "will",
+  "seek",
+  "all",
+  "measures",
+  ",",
+  "including",
+  "those",
+  "at",
+  "the",
+  "level",
+  "of",
+  "UN",
+  "Security",
+  "Council",
+  ",",
+  "to",
+  "deter",
+  "North",
+  "Korea",
+  "'s",
+  "nuclear",
+  "ambition",
+  ",",
+  "\"",
+  "Chun",
+  "said",
+  ",",
+  "calling",
+  "the",
+  "test",
+  "a",
+  "\"",
+  "threat",
+  "\"",
+  "to",
+  "regional",
+  "stability",
+  ".",
+  "President",
+  "-",
+  "elect",
+  "Park",
+  "Geun",
+  "-",
+  "hye",
+  ",",
+  "who",
+  "replaces",
+  "Lee",
+  "later",
+  "this",
+  "month",
+  ",",
+  "\"",
+  "strongly",
+  "condemned",
+  "\"",
+  "the",
+  "test",
+  "and",
+  "vowed",
+  "to",
+  "make",
+  "joint",
+  "efforts",
+  "with",
+  "the",
+  "international",
+  "community",
+  "to",
+  "denuclearize",
+  "the",
+  "DPRK",
+  ",",
+  "Park",
+  "'s",
+  "spokeswoman",
+  "Cho",
+  "Yoon",
+  "-",
+  "sun",
+  "told",
+  "reporters",
+  ".",
+  "The",
+  "underground",
+  "nuclear",
+  "test",
+  ",",
+  "which",
+  "the",
+  "DPRK",
+  "claimed",
+  "successful",
+  ",",
+  "was",
+  "carried",
+  "out",
+  "at",
+  "11:57",
+  "a",
+  ".",
+  "m",
+  ".",
+  "local",
+  "time",
+  "(",
+  "0257",
+  "GMT",
+  ")",
+  "in",
+  "the",
+  "DPRK",
+  "'s",
+  "Kilju",
+  "County",
+  ",",
+  "North",
+  "Hamkyung",
+  "Province",
+  ".",
+  "An",
+  "artificial",
+  "earthquake",
+  "with",
+  "a",
+  "magnitude",
+  "of",
+  "4.9",
+  "was",
+  "detected",
+  "from",
+  "the",
+  "town",
+  ",",
+  "where",
+  "the",
+  "DPRK",
+  "'s",
+  "nuclear",
+  "test",
+  "facility",
+  "is",
+  "located",
+  ".",
+  "South",
+  "Korea",
+  "'s",
+  "military",
+  "was",
+  "immediately",
+  "put",
+  "on",
+  "heightened",
+  "alert",
+  "to",
+  "deter",
+  "potential",
+  "cross",
+  "-",
+  "border",
+  "provocations",
+  ",",
+  "while",
+  "the",
+  "South",
+  "Korean",
+  "and",
+  "U.S.",
+  "forces",
+  "upgraded",
+  "their",
+  "border",
+  "surveillance",
+  "level",
+  ".",
+  "The",
+  "Defense",
+  "Ministry",
+  ",",
+  "which",
+  "estimated",
+  "the",
+  "explosion",
+  "from",
+  "the",
+  "test",
+  "at",
+  "6to",
+  "7",
+  "kilotons",
+  ",",
+  "is",
+  "keeping",
+  "an",
+  "eye",
+  "on",
+  "the",
+  "developments",
+  "in",
+  "the",
+  "DPRK",
+  "to",
+  "monitor",
+  "potential",
+  "signs",
+  "of",
+  "additional",
+  "nuclear",
+  "or",
+  "missile",
+  "tests",
+  ".",
+  "Pyongyang",
+  "recently",
+  "vowed",
+  "to",
+  "proceed",
+  "with",
+  "missile",
+  "and",
+  "nuclear",
+  "tests",
+  "targeting",
+  "the",
+  "United",
+  "States",
+  ",",
+  "its",
+  "\"",
+  "sworn",
+  "enemy",
+  ",",
+  "\"",
+  "to",
+  "protest",
+  "the",
+  "UN",
+  "condemnation",
+  "over",
+  "its",
+  "Dec.",
+  "12",
+  "rocket",
+  "launch",
+  ".",
+  "Pyongyang",
+  "conducted",
+  "similar",
+  "nuclear",
+  "tests",
+  "in",
+  "2006",
+  "and",
+  "2009",
+  ".",
+  "EnditemRA"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   72,
+   117,
+   177,
+   223,
+   243,
+   260,
+   284,
+   315,
+   352,
+   385,
+   395,
+   396
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "UN"
+      },
+      {
+       "label": "Park_Geun-hye",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Park"
+      },
+      {
+       "label": "Pyongyang",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Pyongyang"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 156,
+       "end": 158,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "U.S."
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 73,
+       "end": 75,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "Chun_Yung-woo",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Chun"
+      },
+      {
+       "label": "Seoul",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "SEOUL"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 20,
+       "end": 22,
+       "tokens": "S. Korean"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 284,
+       "end": 286,
+       "tokens": "South Korea"
+      },
+      {
+       "label": "Park_Geun-hye",
+       "score": 1.0,
+       "start": 180,
+       "end": 184,
+       "tokens": "Park Geun - hye"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 5,
+       "end": 7,
+       "tokens": "S. Korean"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 40,
+       "end": 42,
+       "tokens": "South Korean"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 256,
+       "end": 259,
+       "tokens": "North Hamkyung Province"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "Kilju_County",
+       "score": 1.0,
+       "start": 253,
+       "end": 255,
+       "tokens": "Kilju County"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 304,
+       "end": 306,
+       "tokens": "South Korean"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 364,
+       "end": 366,
+       "tokens": "United States"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "UN"
+      },
+      {
+       "label": "Chun_Yung-woo",
+       "score": 1.0,
+       "start": 97,
+       "end": 101,
+       "tokens": "Chun Yung - Woo"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "UN"
+      },
+      {
+       "label": "Ministry_of_National_Defense_(South_Korea)",
+       "score": 1.0,
+       "start": 316,
+       "end": 318,
+       "tokens": "Defense Ministry"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 131,
+       "end": 133,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "United_Nations_Security_Council",
+       "score": 1.0,
+       "start": 150,
+       "end": 153,
+       "tokens": "UN Security Council"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 50,
+       "end": 56,
+       "tokens": "Democratic People 's Republic of Korea"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "Lee_Myung-bak",
+       "score": 1.0,
+       "start": 112,
+       "end": 116,
+       "tokens": "Lee Myung - bak"
+      },
+      {
+       "label": "Lee_Myung-bak",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "Lee"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "Pyongyang",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "Pyongyang"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 216,
+       "end": 220,
+       "tokens": "Cho Yoon - sun"
+      },
+      {
+       "label": "North_Korea",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "DPRK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "UN"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Park"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Pyongyang"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 156,
+       "end": 158,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "U.S."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 73,
+       "end": 75,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Chun"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "SEOUL"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 20,
+       "end": 22,
+       "tokens": "S. Korean"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 284,
+       "end": 286,
+       "tokens": "South Korea"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 180,
+       "end": 184,
+       "tokens": "Park Geun - hye"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 5,
+       "end": 7,
+       "tokens": "S. Korean"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 40,
+       "end": 42,
+       "tokens": "South Korean"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 256,
+       "end": 259,
+       "tokens": "North Hamkyung Province"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 253,
+       "end": 255,
+       "tokens": "Kilju County"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 304,
+       "end": 306,
+       "tokens": "South Korean"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 364,
+       "end": 366,
+       "tokens": "United States"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "UN"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 97,
+       "end": 101,
+       "tokens": "Chun Yung - Woo"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "UN"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 316,
+       "end": 318,
+       "tokens": "Defense Ministry"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 131,
+       "end": 133,
+       "tokens": "North Korea"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 150,
+       "end": 153,
+       "tokens": "UN Security Council"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 50,
+       "end": 56,
+       "tokens": "Democratic People 's Republic of Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 112,
+       "end": 116,
+       "tokens": "Lee Myung - bak"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "Lee"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "Pyongyang"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 216,
+       "end": 220,
+       "tokens": "Cho Yoon - sun"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "DPRK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-02-12T14:44:59",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-02-12T14:44:59"
+      },
+      {
+       "label": "2nd",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "2nd"
+      },
+      {
+       "label": "LD",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "LD"
+      },
+      {
+       "label": "Writethru",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "Writethru"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": ":"
+      },
+      {
+       "label": "S.",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "S."
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Korean"
+      },
+      {
+       "label": "gov't",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "gov't"
+      },
+      {
+       "label": "condemns",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "condemns"
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "nuke",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "nuke"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "test"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": ","
+      },
+      {
+       "label": "steps",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "steps"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "up"
+      },
+      {
+       "label": "surveillance",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "surveillance"
+      },
+      {
+       "label": "2nd",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "2nd"
+      },
+      {
+       "label": "LD",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "LD"
+      },
+      {
+       "label": "Writethru",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Writethru"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ":"
+      },
+      {
+       "label": "S.",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "S."
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Korean"
+      },
+      {
+       "label": "gov't",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "gov't"
+      },
+      {
+       "label": "condemns",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "condemns"
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "nuke",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "nuke"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "test"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": ","
+      },
+      {
+       "label": "steps",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "steps"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "up"
+      },
+      {
+       "label": "surveillance",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "surveillance"
+      },
+      {
+       "label": "SEOUL",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "SEOUL"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": ","
+      },
+      {
+       "label": "Feb.",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Feb."
+      },
+      {
+       "label": "12",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "12"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "--"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "The"
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "South"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "Korean"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "government"
+      },
+      {
+       "label": "condemned",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "condemned"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "the"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "test"
+      },
+      {
+       "label": "conducted",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "conducted"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "the"
+      },
+      {
+       "label": "Democratic",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "People",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "People"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "'s"
+      },
+      {
+       "label": "Republic",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Republic"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "of"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Korea"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "("
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "DPRK"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": ")"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": ","
+      },
+      {
+       "label": "calling",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "calling"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "it"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "a"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "\""
+      },
+      {
+       "label": "clear",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "clear"
+      },
+      {
+       "label": "violation",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "violation"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "\""
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "of"
+      },
+      {
+       "label": "UN",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "UN"
+      },
+      {
+       "label": "resolutions",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "resolutions"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "\""
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Korea"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "("
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "DPRK"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": ")"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "will"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "not"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "be"
+      },
+      {
+       "label": "able",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "able"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "to"
+      },
+      {
+       "label": "avoid",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "avoid"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "being"
+      },
+      {
+       "label": "held",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "held"
+      },
+      {
+       "label": "accountable",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "accountable"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "for"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "("
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "the"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "test"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": ")"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "\""
+      },
+      {
+       "label": "national",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "national"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "security"
+      },
+      {
+       "label": "adviser",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "adviser"
+      },
+      {
+       "label": "Chun",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "Chun"
+      },
+      {
+       "label": "Yung",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "Yung"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "-"
+      },
+      {
+       "label": "Woo",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Woo"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "told"
+      },
+      {
+       "label": "reporters",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "reporters"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "after"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "an"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "emergency"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "security"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "meeting"
+      },
+      {
+       "label": "presided",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "presided"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "over"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "by"
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "President"
+      },
+      {
+       "label": "Lee",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Lee"
+      },
+      {
+       "label": "Myung",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "Myung"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "-"
+      },
+      {
+       "label": "bak",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "bak"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "\""
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "In"
+      },
+      {
+       "label": "accordance",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "accordance"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "with"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "our"
+      },
+      {
+       "label": "consistent",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "consistent"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "and"
+      },
+      {
+       "label": "firm",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "firm"
+      },
+      {
+       "label": "principle",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "principle"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "we"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "will"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "not"
+      },
+      {
+       "label": "tolerate",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "tolerate"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Korea"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "'s"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "tests",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "tests"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "the"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "government"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "will"
+      },
+      {
+       "label": "seek",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "seek"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "all"
+      },
+      {
+       "label": "measures",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "measures"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "including"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "those"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "the"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "level"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "of"
+      },
+      {
+       "label": "UN",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "UN"
+      },
+      {
+       "label": "Security",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Security"
+      },
+      {
+       "label": "Council",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "Council"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": ","
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "to"
+      },
+      {
+       "label": "deter",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "deter"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "North"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "Korea"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "'s"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "ambition",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "ambition"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "\""
+      },
+      {
+       "label": "Chun",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Chun"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "said"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": ","
+      },
+      {
+       "label": "calling",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "calling"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "the"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "test"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "a"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "\""
+      },
+      {
+       "label": "threat",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "threat"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "\""
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "to"
+      },
+      {
+       "label": "regional",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "regional"
+      },
+      {
+       "label": "stability",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "stability"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "."
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "President"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "-"
+      },
+      {
+       "label": "elect",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "elect"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "Park"
+      },
+      {
+       "label": "Geun",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "Geun"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "-"
+      },
+      {
+       "label": "hye",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "hye"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "who"
+      },
+      {
+       "label": "replaces",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "replaces"
+      },
+      {
+       "label": "Lee",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "Lee"
+      },
+      {
+       "label": "later",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "later"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "this"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "month"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "\""
+      },
+      {
+       "label": "strongly",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "strongly"
+      },
+      {
+       "label": "condemned",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "condemned"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "\""
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "the"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "test"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "and"
+      },
+      {
+       "label": "vowed",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "vowed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "to"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "make"
+      },
+      {
+       "label": "joint",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "joint"
+      },
+      {
+       "label": "efforts",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "efforts"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "the"
+      },
+      {
+       "label": "international",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "international"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "community"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "to"
+      },
+      {
+       "label": "denuclearize",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "denuclearize"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "the"
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "DPRK"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": ","
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Park"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "'s"
+      },
+      {
+       "label": "spokeswoman",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "spokeswoman"
+      },
+      {
+       "label": "Cho",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "Cho"
+      },
+      {
+       "label": "Yoon",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "Yoon"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "-"
+      },
+      {
+       "label": "sun",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "sun"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "told"
+      },
+      {
+       "label": "reporters",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "reporters"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "The"
+      },
+      {
+       "label": "underground",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "underground"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "test"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "which"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "the"
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "claimed",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "claimed"
+      },
+      {
+       "label": "successful",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "successful"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": ","
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "was"
+      },
+      {
+       "label": "carried",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "carried"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "out"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "at"
+      },
+      {
+       "label": "11:57",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "11:57"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "a"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "."
+      },
+      {
+       "label": "m",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "m"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "."
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "local"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "time"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "("
+      },
+      {
+       "label": "0257",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "0257"
+      },
+      {
+       "label": "GMT",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "GMT"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": ")"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "the"
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "'s"
+      },
+      {
+       "label": "Kilju",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "Kilju"
+      },
+      {
+       "label": "County",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "County"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": ","
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "North"
+      },
+      {
+       "label": "Hamkyung",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "Hamkyung"
+      },
+      {
+       "label": "Province",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "Province"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "."
+      },
+      {
+       "label": "An",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "An"
+      },
+      {
+       "label": "artificial",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "artificial"
+      },
+      {
+       "label": "earthquake",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "earthquake"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "a"
+      },
+      {
+       "label": "magnitude",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "magnitude"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "of"
+      },
+      {
+       "label": "4.9",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "4.9"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "was"
+      },
+      {
+       "label": "detected",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "detected"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "the"
+      },
+      {
+       "label": "town",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "town"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": ","
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "where"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "the"
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "'s"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "test"
+      },
+      {
+       "label": "facility",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "facility"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "is"
+      },
+      {
+       "label": "located",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "located"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "."
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "South"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "Korea"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "'s"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "military"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "was"
+      },
+      {
+       "label": "immediately",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "immediately"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "put"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "on"
+      },
+      {
+       "label": "heightened",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "heightened"
+      },
+      {
+       "label": "alert",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "alert"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "to"
+      },
+      {
+       "label": "deter",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "deter"
+      },
+      {
+       "label": "potential",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "potential"
+      },
+      {
+       "label": "cross",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "cross"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "-"
+      },
+      {
+       "label": "border",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "border"
+      },
+      {
+       "label": "provocations",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "provocations"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": ","
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "while"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "the"
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "South"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Korean"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "and"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "U.S."
+      },
+      {
+       "label": "forces",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "forces"
+      },
+      {
+       "label": "upgraded",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "upgraded"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "their"
+      },
+      {
+       "label": "border",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "border"
+      },
+      {
+       "label": "surveillance",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "surveillance"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "level"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "The"
+      },
+      {
+       "label": "Defense",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Defense"
+      },
+      {
+       "label": "Ministry",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Ministry"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "which"
+      },
+      {
+       "label": "estimated",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "estimated"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "the"
+      },
+      {
+       "label": "explosion",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "explosion"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "the"
+      },
+      {
+       "label": "test",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "test"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "at"
+      },
+      {
+       "label": "6to",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "6to"
+      },
+      {
+       "label": "7",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "7"
+      },
+      {
+       "label": "kilotons",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "kilotons"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "is"
+      },
+      {
+       "label": "keeping",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "keeping"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "an"
+      },
+      {
+       "label": "eye",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "eye"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "the"
+      },
+      {
+       "label": "developments",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "developments"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "the"
+      },
+      {
+       "label": "DPRK",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "DPRK"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "to"
+      },
+      {
+       "label": "monitor",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "monitor"
+      },
+      {
+       "label": "potential",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "potential"
+      },
+      {
+       "label": "signs",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "signs"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "of"
+      },
+      {
+       "label": "additional",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "additional"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "or"
+      },
+      {
+       "label": "missile",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "missile"
+      },
+      {
+       "label": "tests",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "tests"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "."
+      },
+      {
+       "label": "Pyongyang",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "Pyongyang"
+      },
+      {
+       "label": "recently",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "recently"
+      },
+      {
+       "label": "vowed",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "vowed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "to"
+      },
+      {
+       "label": "proceed",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "proceed"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "with"
+      },
+      {
+       "label": "missile",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "missile"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "and"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "tests",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "tests"
+      },
+      {
+       "label": "targeting",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "targeting"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "United"
+      },
+      {
+       "label": "States",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "States"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": ","
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "its"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "\""
+      },
+      {
+       "label": "sworn",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "sworn"
+      },
+      {
+       "label": "enemy",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "enemy"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "\""
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "to"
+      },
+      {
+       "label": "protest",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "protest"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "the"
+      },
+      {
+       "label": "UN",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "UN"
+      },
+      {
+       "label": "condemnation",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "condemnation"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "over"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "its"
+      },
+      {
+       "label": "Dec.",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "Dec."
+      },
+      {
+       "label": "12",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "12"
+      },
+      {
+       "label": "rocket",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "rocket"
+      },
+      {
+       "label": "launch",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "launch"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "."
+      },
+      {
+       "label": "Pyongyang",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "Pyongyang"
+      },
+      {
+       "label": "conducted",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "conducted"
+      },
+      {
+       "label": "similar",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "similar"
+      },
+      {
+       "label": "nuclear",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "nuclear"
+      },
+      {
+       "label": "tests",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "tests"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "in"
+      },
+      {
+       "label": "2006",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "2006"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "and"
+      },
+      {
+       "label": "2009",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "2009"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "."
+      },
+      {
+       "label": "EnditemRA",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "EnditemRA"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_Nations",
+       "score": 0.800111828706997,
+       "start": 69,
+       "end": 70,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "United_Nations": 0.800111828706997,
+        "Flour": 0.017135029586455634,
+        "National_Unity_(Peru)": 0.007372509054780501,
+        "United_States_Ambassador_to_the_United_Nations": 0.16768406038554576,
+        "Civic_Center,_San_Francisco": 0.0018228690287135547,
+        "Paolo_Borsellino": 0.001701348996759071,
+        "University_of_Natal": 0.0014988058172450834,
+        "Place_de_la_Concorde": 0.0014582991400791136,
+        "Srebrenica_massacre": 0.0012152492834241152,
+        "<unk_wid>": 7.644604038812043e-42
+       }
+      },
+      {
+       "label": "Park_Avenue",
+       "score": 0.14719902172360738,
+       "start": 213,
+       "end": 214,
+       "tokens": "Park",
+       "labelScoreMap": {
+        "Park_County,_Montana": 0.11872539533053666,
+        "Park_County,_Colorado": 0.061022623488677166,
+        "Park_County,_Wyoming": 0.055121875461994894,
+        "Park_Ji-sung": 0.03840110007678724,
+        "Silver_Falls_State_Park": 0.026434300225442207,
+        "Olympic_National_Park": 0.029507516632912123,
+        "Brad_Park": 0.019332318598406093,
+        "Croke_Park": 0.016973669467214517,
+        "Sequoia_National_Park": 0.02205691259122711,
+        "Disney_California_Adventure": 0.044751464421554435,
+        "Steve_Park": 0.010522250232290588,
+        "Park_University": 0.011005033352071886,
+        "Park_Chu-young": 0.010126765919006084,
+        "Park_G\u00fcell": 0.009266561279410022,
+        "Mayer_Amschel_Rothschild": 0.007759249918241621,
+        "Fontainebleau": 0.010016533528127763,
+        "Keith_Park": 0.007430532006495838,
+        "Chan_Ho_Park": 0.006181768492397612,
+        "Park_Avenue": 0.14719902172360738,
+        "Muskau_Park": 0.005786364469314272,
+        "Park_River_(Connecticut)": 0.00539305088994406,
+        "Park_Sung-hee": 0.005391838794917304,
+        "Central_Park": 0.13964540847520676,
+        "Park_Chan-wook": 0.01630007357843585,
+        "Park_Chung-hee": 0.03299254392310097,
+        "Mungo_Park_(explorer)": 0.005192190796416149,
+        "Washington_Square_Park": 0.05447285700075068,
+        "Prospect_Park_(Brooklyn)": 0.07214601123252692,
+        "Carshalton_Park": 0.003156231357230707,
+        "Gordon_Square": 0.007688536735755052
+       }
+      },
+      {
+       "label": "Pyongyang",
+       "score": 0.9932658065124609,
+       "start": 385,
+       "end": 386,
+       "tokens": "Pyongyang",
+       "labelScoreMap": {
+        "Pyongyang": 0.9932658065124609,
+        "Pyongyang_Station": 0.0036425873568808206,
+        "North_Korea": 0.003091606130652408,
+        "<unk_wid>": 1.4887839931444404e-16
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.6546779682301229,
+       "start": 9,
+       "end": 10,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.6546779682301229,
+        "Korean_People's_Army": 0.3453220317691,
+        "<unk_wid>": 2.770222025159809e-14
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9668227776224497,
+       "start": 230,
+       "end": 231,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.9668227776224497,
+        "Korean_People's_Army": 0.03317722237755026,
+        "<unk_wid>": 1.361124253050263e-17
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.919403546111814,
+       "start": 156,
+       "end": 158,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.919403546111814,
+        "North_Korea_national_football_team": 0.03705755216730082,
+        "Workers'_Party_of_Korea": 0.016462023687856993,
+        "North_Korea_women's_national_football_team": 0.006968300539876003,
+        "Korean_People's_Army": 0.0055634592477821,
+        "Pyongyang": 0.0049994456743770975,
+        "Supreme_People's_Assembly": 0.0028484346129141547,
+        "North_Korea_men's_national_ice_hockey_team": 0.002725812660064596,
+        "Axe_murder_incident": 0.00202132423771841,
+        "Eternal_President_of_the_Republic": 0.0019501010602958032,
+        "<unk_wid>": 6.684773918471546e-21
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816672417993892,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816672417993892,
+        "Xinhua_District,_Tainan": 0.016981920993432067,
+        "Xinhua_County": 0.0013508372071786077,
+        "<unk_wid>": 1.1663209274728658e-27
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.5467111161288006,
+       "start": 307,
+       "end": 308,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.5467111161288006,
+        "United_States_dollar": 0.2029654804184154,
+        "Billboard_Hot_100": 0.022490536725408246,
+        "American_English": 0.013659132254295079,
+        "Recording_Industry_Association_of_America": 0.00916313036374841,
+        "Us_(Peter_Gabriel_album)": 0.001794713376718072,
+        "Federal_government_of_the_United_States": 0.017479757412723236,
+        "United_States_men's_national_soccer_team": 0.0011006111792742493,
+        "United_States_Armed_Forces": 0.0016764870829710544,
+        "U.S._state": 0.1289756347835802,
+        "Billboard_charts": 0.0009886984376828963,
+        "United_States_Congress": 0.05299470183638251,
+        "<unk_wid>": 2.4015876691792083e-28
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.912059817031138,
+       "start": 73,
+       "end": 75,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.912059817031138,
+        "North_Korea_national_football_team": 0.03691019275984159,
+        "Workers'_Party_of_Korea": 0.02280743636872415,
+        "North_Korea_women's_national_football_team": 0.006946962025835892,
+        "Korean_People's_Army": 0.005590644419533921,
+        "Pyongyang": 0.006154872878058512,
+        "Supreme_People's_Assembly": 0.002830080828046705,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027060552539383462,
+        "Axe_murder_incident": 0.0020065709475652156,
+        "Eternal_President_of_the_Republic": 0.001987367487317813,
+        "<unk_wid>": 3.659343025715444e-20
+       }
+      },
+      {
+       "label": "Chun_Doo-hwan",
+       "score": 0.4624653387073423,
+       "start": 163,
+       "end": 164,
+       "tokens": "Chun",
+       "labelScoreMap": {
+        "Zaifeng,_Prince_Chun": 0.3450563217366399,
+        "Chun_Doo-hwan": 0.4624653387073423,
+        "Carl_Chun": 0.0803931949855276,
+        "Wu_Chun": 0.0286027725514422,
+        "Kona_District,_Hawaii": 0.0036531023234358073,
+        "Park_Chung-hee": 0.07590004896911952,
+        "Bruce_Lee": 0.003929220726492722,
+        "<unk_wid>": 1.1969722992332408e-21
+       }
+      },
+      {
+       "label": "Seoul",
+       "score": 0.7234040095585074,
+       "start": 31,
+       "end": 32,
+       "tokens": "SEOUL",
+       "labelScoreMap": {
+        "Seoul": 0.7234040095585074,
+        "Korea_Open_(tennis)": 0.0032301253381158235,
+        "Seoul_Station": 0.0735598902082093,
+        "FC_Seoul": 0.01490529382260634,
+        "Gyeonggi_dialect": 0.0028341839691318617,
+        "1988_Summer_Olympics": 0.002601948613972741,
+        "Seoul_Capital_Area": 0.07410398165184809,
+        "Incheon_International_Airport": 0.04944977858789629,
+        "Seoul_Metropolitan_Subway": 0.05488418221850421,
+        "Embassy_of_the_United_States,_Seoul": 0.0010266060312050167,
+        "<unk_wid>": 8.237269640571159e-17
+       }
+      },
+      {
+       "label": "Kim_Sun-il",
+       "score": 0.6059568184056722,
+       "start": 20,
+       "end": 22,
+       "tokens": "S. Korean",
+       "labelScoreMap": {
+        "Kim_Sun-il": 0.6059568184056722,
+        "South_Korea": 0.26361268123036197,
+        "Vietnam_War": 0.13043050036396578,
+        "<unk_wid>": 2.3837479046537834e-19
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9901357820956296,
+       "start": 340,
+       "end": 341,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.9901357820956296,
+        "Korean_People's_Army": 0.009864217904370429,
+        "<unk_wid>": 6.005212892444703e-19
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.9076529411853124,
+       "start": 284,
+       "end": 286,
+       "tokens": "South Korea",
+       "labelScoreMap": {
+        "South_Korea": 0.9076529411853124,
+        "South_Korea_national_football_team": 0.04440037672359495,
+        "Republic_of_Korea_Armed_Forces": 0.005141737319642045,
+        "South_Korea_men's_national_volleyball_team": 0.002709596904057244,
+        "United_States_Forces_Korea": 0.0026349669656328617,
+        "Korean_Basketball_League": 0.0024071763804678578,
+        "Gaon_Music_Chart": 0.0022400244421363065,
+        "South_Korea_women's_national_volleyball_team": 0.0021531474803268653,
+        "South_Korea_national_rugby_union_team": 0.002129053558021063,
+        "Korea_Football_Association": 0.001874946781364535,
+        "South_Korea_men's_national_ice_hockey_team": 0.0018507405577962892,
+        "South_Korea_women's_national_football_team": 0.001669356114589015,
+        "Tesco": 0.001548334258771582,
+        "South_Korea_women's_national_handball_team": 0.0014516703257434237,
+        "Korean_War": 0.020135931002543503,
+        "<unk_wid>": 3.042120686016143e-27
+       }
+      },
+      {
+       "label": "Park_Geun-hye",
+       "score": 0.9999999999999098,
+       "start": 180,
+       "end": 184,
+       "tokens": "Park Geun - hye",
+       "labelScoreMap": {
+        "Park_Geun-hye": 0.9999999999999098,
+        "<unk_wid>": 3.0625134776090197e-15
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9861951660959594,
+       "start": 251,
+       "end": 252,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.9861951660959594,
+        "Korean_People's_Army": 0.013804833904040581,
+        "<unk_wid>": 6.97083886721301e-26
+       }
+      },
+      {
+       "label": "Kim_Sun-il",
+       "score": 0.6119307172938044,
+       "start": 5,
+       "end": 7,
+       "tokens": "S. Korean",
+       "labelScoreMap": {
+        "Kim_Sun-il": 0.6119307172938044,
+        "South_Korea": 0.26145149597333744,
+        "Vietnam_War": 0.1266177867328581,
+        "<unk_wid>": 2.932054707612386e-20
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.7573932206611876,
+       "start": 40,
+       "end": 42,
+       "tokens": "South Korean",
+       "labelScoreMap": {
+        "South_Korea": 0.7573932206611876,
+        "Korean_Canadians": 0.021880557341802526,
+        "Koreans": 0.11367943362174199,
+        "Girls'_Generation": 0.014538266393953581,
+        "Korea": 0.09134450079116888,
+        "South_Korea_national_football_team": 0.0011640211901454004,
+        "<unk_wid>": 1.6192253822675298e-25
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 256,
+       "end": 259,
+       "tokens": "North Hamkyung Province",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9061601855306267,
+       "start": 24,
+       "end": 25,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.9061601855306267,
+        "Korean_People's_Army": 0.09383981444525112,
+        "<unk_wid>": 8.615551237074194e-13
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 253,
+       "end": 255,
+       "tokens": "Kilju County",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.8157323271922956,
+       "start": 304,
+       "end": 306,
+       "tokens": "South Korean",
+       "labelScoreMap": {
+        "South_Korea": 0.8157323271922956,
+        "Korean_Canadians": 0.023387305209796896,
+        "Koreans": 0.10989189523911724,
+        "Girls'_Generation": 0.0155379360871744,
+        "Korea": 0.03422839323801811,
+        "South_Korea_national_football_team": 0.0012221430335978283,
+        "<unk_wid>": 1.686501976273266e-25
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9866182439934222,
+       "start": 276,
+       "end": 277,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.9866182439934222,
+        "Korean_People's_Army": 0.013381756006577641,
+        "<unk_wid>": 3.653458345957067e-19
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.972732451316694,
+       "start": 364,
+       "end": 366,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "United_States": 0.972732451316694,
+        "United_States_men's_national_soccer_team": 0.011235243006319716,
+        "United_States_men's_national_ice_hockey_team": 0.0032600370295145405,
+        "United_States_women's_national_soccer_team": 0.0022544166689623117,
+        "United_States_national_cricket_team": 0.001986717064990179,
+        "United_States_men's_national_basketball_team": 0.0019521819507471194,
+        "United_States_Armed_Forces": 0.001969243237890528,
+        "United_States_national_rugby_union_team": 0.0017071585337241491,
+        "United_States_Davis_Cup_team": 0.0016226962401543878,
+        "United_States_Soccer_Federation": 0.0012798549510026856,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.834176706682668,
+       "start": 376,
+       "end": 377,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "United_Nations": 0.834176706682668,
+        "Flour": 0.017826385611218225,
+        "National_Unity_(Peru)": 0.007669972830768907,
+        "United_States_Ambassador_to_the_United_Nations": 0.13231982427149291,
+        "Civic_Center,_San_Francisco": 0.001896417862980126,
+        "Paolo_Borsellino": 0.0017699942172290292,
+        "University_of_Natal": 0.0015592789216150361,
+        "Place_de_la_Concorde": 0.001517137900284705,
+        "Srebrenica_massacre": 0.0012642817017434155,
+        "<unk_wid>": 4.4664658304386e-32
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 97,
+       "end": 101,
+       "tokens": "Chun Yung - Woo",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9082369254464625,
+       "start": 150,
+       "end": 151,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "United_Nations": 0.9082369254464625,
+        "Flour": 0.019329458124041115,
+        "National_Unity_(Peru)": 0.008332506282541037,
+        "United_States_Ambassador_to_the_United_Nations": 0.05540136340858692,
+        "Civic_Center,_San_Francisco": 0.002073751094033703,
+        "Paolo_Borsellino": 0.0019192353319785326,
+        "University_of_Natal": 0.0016908034961606124,
+        "Place_de_la_Concorde": 0.0016450591131876122,
+        "Srebrenica_massacre": 0.0013708977030079986,
+        "<unk_wid>": 3.143049770449461e-25
+       }
+      },
+      {
+       "label": "Ministry_of_Defence_(United_Kingdom)",
+       "score": 0.3302960636661946,
+       "start": 316,
+       "end": 318,
+       "tokens": "Defense Ministry",
+       "labelScoreMap": {
+        "Defence_minister": 0.3263473643796361,
+        "Ministry_of_Defense_(Israel)": 0.13313145727317852,
+        "Ministry_of_Defence_(Russia)": 0.044128867108151795,
+        "Ministry_of_Defence_(Iraq)": 0.017909598640908166,
+        "Ministry_of_Defence_(Netherlands)": 0.011913502814817777,
+        "Minister_for_Defence_(Australia)": 0.07255111920516341,
+        "Ministry_of_Defence_(Malaysia)": 0.013134605106148419,
+        "Ministry_of_National_Defense_of_the_People's_Republic_of_China": 0.004853670609498939,
+        "Minister_of_Defence_(France)": 0.004177660714267113,
+        "Ministry_of_Defence_(Somalia)": 0.003966739047212863,
+        "Ministry_of_the_Reichswehr": 0.024646799374460973,
+        "Ministry_of_Defence_(Brazil)": 0.0039735580379423605,
+        "Ministry_of_National_Defence_(Romania)": 0.0021829313560257995,
+        "Egyptian_Army": 0.0046981323162745775,
+        "Ministry_of_Defence_(United_Kingdom)": 0.3302960636661946,
+        "Ministry_of_Defence_and_Armed_Forces_Logistics_(Iran)": 0.0020879303501186264,
+        "<unk_wid>": 2.103263442343138e-35
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9196792867120256,
+       "start": 131,
+       "end": 133,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9196792867120256,
+        "North_Korea_national_football_team": 0.03709767991896474,
+        "Workers'_Party_of_Korea": 0.01663766264993181,
+        "North_Korea_women's_national_football_team": 0.006993667902349784,
+        "Korean_People's_Army": 0.005450720998968583,
+        "Pyongyang": 0.004628021918974556,
+        "Supreme_People's_Assembly": 0.002849033758851796,
+        "North_Korea_men's_national_ice_hockey_team": 0.0027264975792771727,
+        "Axe_murder_incident": 0.002021875497561888,
+        "Eternal_President_of_the_Republic": 0.0019155530630940323,
+        "<unk_wid>": 1.4438565080819024e-22
+       }
+      },
+      {
+       "label": "United_Nations_Security_Council",
+       "score": 0.9981013140296122,
+       "start": 150,
+       "end": 153,
+       "tokens": "UN Security Council",
+       "labelScoreMap": {
+        "United_Nations_Security_Council": 0.9981013140296122,
+        "United_Nations": 0.001898685970387827,
+        "<unk_wid>": 6.7933239295684676e-34
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9939045697572764,
+       "start": 50,
+       "end": 56,
+       "tokens": "Democratic People 's Republic of Korea",
+       "labelScoreMap": {
+        "North_Korea": 0.9939045697572764,
+        "Korean_People's_Army": 0.006095430242723598,
+        "<unk_wid>": 3.1191052394674448e-30
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.985840893063802,
+       "start": 76,
+       "end": 77,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.985840893063802,
+        "Korean_People's_Army": 0.01415910693619802,
+        "<unk_wid>": 2.427358248069944e-18
+       }
+      },
+      {
+       "label": "Lee_Myung-bak",
+       "score": 0.9896860489866207,
+       "start": 112,
+       "end": 116,
+       "tokens": "Lee Myung - bak",
+       "labelScoreMap": {
+        "Lee_Myung-bak": 0.9896860489866207,
+        "President_of_South_Korea": 0.010313951013379272,
+        "<unk_wid>": 1.6850588049687636e-25
+       }
+      },
+      {
+       "label": "Robert_E._Lee",
+       "score": 0.1765647813167646,
+       "start": 187,
+       "end": 188,
+       "tokens": "Lee",
+       "labelScoreMap": {
+        "Lee_(jeans)": 0.06827357041045853,
+        "Lee_County,_Florida": 0.04346964546421626,
+        "Robert_E._Lee": 0.1765647813167646,
+        "Lee_County,_Illinois": 0.02657720627986285,
+        "Lee_County,_Kentucky": 0.023754096430225743,
+        "Lee_County,_Georgia": 0.022627615405914722,
+        "Lee_County,_Virginia": 0.02036691810245739,
+        "Lee_County,_Alabama": 0.019284507454819584,
+        "Yuan_T._Lee": 0.03439498836201952,
+        "Lee,_New_Hampshire": 0.016676595388126575,
+        "Lee_County,_North_Carolina": 0.015025447722535664,
+        "Lee_County,_Mississippi": 0.014635639275051845,
+        "Lee,_Massachusetts": 0.014502278082159493,
+        "Lee,_London": 0.014200824433797422,
+        "Lee,_Maine": 0.014156986916527526,
+        "Cliff_Lee": 0.012898147947224206,
+        "Lee_County,_Iowa": 0.012550167770754841,
+        "Lee_County,_Arkansas": 0.010856567415961298,
+        "Harper_Lee": 0.0884714722094538,
+        "Lee_County,_South_Carolina": 0.010769717215920776,
+        "Bruce_Lee": 0.09988709507634676,
+        "Lee_MacPhail": 0.009814491190784671,
+        "Charles_Lee_(attorney_general)": 0.008511529079969367,
+        "Lee_County,_Texas": 0.007995218867793152,
+        "Tsung-Dao_Lee": 0.01525768091505608,
+        "Richard_Henry_Lee": 0.16905330307546726,
+        "Gordon_Lee_(footballer)": 0.007687696431888038,
+        "River_Lee": 0.0074693332630521685,
+        "Lee_Chung-yong": 0.0070352814076424805,
+        "Colin_Lee": 0.007231197087747563
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.8314486318664319,
+       "start": 57,
+       "end": 58,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.8314486318664319,
+        "Korean_People's_Army": 0.1685513681335681,
+        "<unk_wid>": 1.4036278811639297e-20
+       }
+      },
+      {
+       "label": "Pyongyang",
+       "score": 0.9932880610478236,
+       "start": 352,
+       "end": 353,
+       "tokens": "Pyongyang",
+       "labelScoreMap": {
+        "Pyongyang": 0.9932880610478236,
+        "Pyongyang_Station": 0.003642439864736546,
+        "North_Korea": 0.0030694990874398633,
+        "<unk_wid>": 1.105875139705987e-17
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 216,
+       "end": 220,
+       "tokens": "Cho Yoon - sun",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9304047685355313,
+       "start": 211,
+       "end": 212,
+       "tokens": "DPRK",
+       "labelScoreMap": {
+        "North_Korea": 0.9304047685355313,
+        "Korean_People's_Army": 0.06959523146445723,
+        "<unk_wid>": 3.808705468671614e-16
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_Nations",
+       "score": 0.800111828706997,
+       "start": 69,
+       "end": 70,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.0018228690287135547,
+        "6452721|Place_de_la_Concorde": 0.0014582991400791136
+       }
+      },
+      {
+       "label": "Park_Avenue",
+       "score": 0.14719902172360738,
+       "start": 213,
+       "end": 214,
+       "tokens": "Park",
+       "labelScoreMap": {
+        "5670652|Park_County,_Montana": 0.11872539533053666,
+        "5433959|Park_County,_Colorado": 0.061022623488677166,
+        "5834587|Park_County,_Wyoming": 0.055121875461994894,
+        "5751976|Silver_Falls_State_Park": 0.026434300225442207,
+        "2965008|Croke_Park": 0.016973669467214517,
+        "5394465|Sequoia_National_Park": 0.02205691259122711,
+        "6452739|Park_G\u00fcell": 0.009266561279410022,
+        "3018074|Fontainebleau": 0.010016533528127763,
+        "4840361|Park_River_(Connecticut)": 0.00539305088994406,
+        "5112085|Central_Park": 0.13964540847520676,
+        "5143338|Washington_Square_Park": 0.05447285700075068,
+        "7303376|Prospect_Park_(Brooklyn)": 0.07214601123252692
+       }
+      },
+      {
+       "label": "Pyongyang",
+       "score": 0.9932658065124609,
+       "start": 385,
+       "end": 386,
+       "tokens": "Pyongyang",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.9932658065124609
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.6546779682301229,
+       "start": 9,
+       "end": 10,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9668227776224497,
+       "start": 230,
+       "end": 231,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.919403546111814,
+       "start": 156,
+       "end": 158,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.0049994456743770975
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816672417993892,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016981920993432067,
+        "1788859|Xinhua_County": 0.0013508372071786077
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.5467111161288006,
+       "start": 307,
+       "end": 308,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.5467111161288006
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.912059817031138,
+       "start": 73,
+       "end": 75,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.006154872878058512
+       }
+      },
+      {
+       "label": "Chun_Doo-hwan",
+       "score": 0.4624653387073423,
+       "start": 163,
+       "end": 164,
+       "tokens": "Chun",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Seoul",
+       "score": 0.7234040095585074,
+       "start": 31,
+       "end": 32,
+       "tokens": "SEOUL",
+       "labelScoreMap": {
+        "1835848|Seoul": 0.7234040095585074,
+        "1897353|Seoul_Station": 0.0735598902082093,
+        "6300433|Incheon_International_Airport": 0.04944977858789629
+       }
+      },
+      {
+       "label": "Kim_Sun-il",
+       "score": 0.6059568184056722,
+       "start": 20,
+       "end": 22,
+       "tokens": "S. Korean",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9901357820956296,
+       "start": 340,
+       "end": 341,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.9076529411853124,
+       "start": 284,
+       "end": 286,
+       "tokens": "South Korea",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Park_Geun-hye",
+       "score": 0.9999999999999098,
+       "start": 180,
+       "end": 184,
+       "tokens": "Park Geun - hye",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9861951660959594,
+       "start": 251,
+       "end": 252,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kim_Sun-il",
+       "score": 0.6119307172938044,
+       "start": 5,
+       "end": 7,
+       "tokens": "S. Korean",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.7573932206611876,
+       "start": 40,
+       "end": 42,
+       "tokens": "South Korean",
+       "labelScoreMap": {
+        "1835841|Korea": 0.09134450079116888
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 256,
+       "end": 259,
+       "tokens": "North Hamkyung Province",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9061601855306267,
+       "start": 24,
+       "end": 25,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 253,
+       "end": 255,
+       "tokens": "Kilju County",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.8157323271922956,
+       "start": 304,
+       "end": 306,
+       "tokens": "South Korean",
+       "labelScoreMap": {
+        "1835841|Korea": 0.03422839323801811
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9866182439934222,
+       "start": 276,
+       "end": 277,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.972732451316694,
+       "start": 364,
+       "end": 366,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "6252001|United_States": 0.972732451316694
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.834176706682668,
+       "start": 376,
+       "end": 377,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.001896417862980126,
+        "6452721|Place_de_la_Concorde": 0.001517137900284705
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 97,
+       "end": 101,
+       "tokens": "Chun Yung - Woo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9082369254464625,
+       "start": 150,
+       "end": 151,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.002073751094033703,
+        "6452721|Place_de_la_Concorde": 0.0016450591131876122
+       }
+      },
+      {
+       "label": "Ministry_of_Defence_(United_Kingdom)",
+       "score": 0.3302960636661946,
+       "start": 316,
+       "end": 318,
+       "tokens": "Defense Ministry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9196792867120256,
+       "start": 131,
+       "end": 133,
+       "tokens": "North Korea",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.004628021918974556
+       }
+      },
+      {
+       "label": "United_Nations_Security_Council",
+       "score": 0.9981013140296122,
+       "start": 150,
+       "end": 153,
+       "tokens": "UN Security Council",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9939045697572764,
+       "start": 50,
+       "end": 56,
+       "tokens": "Democratic People 's Republic of Korea",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.985840893063802,
+       "start": 76,
+       "end": 77,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Lee_Myung-bak",
+       "score": 0.9896860489866207,
+       "start": 112,
+       "end": 116,
+       "tokens": "Lee Myung - bak",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Robert_E._Lee",
+       "score": 0.1765647813167646,
+       "start": 187,
+       "end": 188,
+       "tokens": "Lee",
+       "labelScoreMap": {
+        "4161743|Lee_County,_Florida": 0.04346964546421626,
+        "4899519|Lee_County,_Illinois": 0.02657720627986285,
+        "4297704|Lee_County,_Kentucky": 0.023754096430225743,
+        "4205331|Lee_County,_Georgia": 0.022627615405914722,
+        "4769028|Lee_County,_Virginia": 0.02036691810245739,
+        "4072098|Lee_County,_Alabama": 0.019284507454819584,
+        "5088619|Lee,_New_Hampshire": 0.016676595388126575,
+        "4475520|Lee_County,_North_Carolina": 0.015025447722535664,
+        "4433190|Lee_County,_Mississippi": 0.014635639275051845,
+        "4941797|Lee,_Massachusetts": 0.014502278082159493,
+        "4969317|Lee,_Maine": 0.014156986916527526,
+        "4864395|Lee_County,_Iowa": 0.012550167770754841,
+        "4118578|Lee_County,_Arkansas": 0.010856567415961298,
+        "4584845|Lee_County,_South_Carolina": 0.010769717215920776,
+        "4705758|Lee_County,_Texas": 0.007995218867793152
+       }
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.8314486318664319,
+       "start": 57,
+       "end": 58,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pyongyang",
+       "score": 0.9932880610478236,
+       "start": 352,
+       "end": 353,
+       "tokens": "Pyongyang",
+       "labelScoreMap": {
+        "1871859|Pyongyang": 0.9932880610478236
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 216,
+       "end": 220,
+       "tokens": "Cho Yoon - sun",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Korea",
+       "score": 0.9304047685355313,
+       "start": 211,
+       "end": 212,
+       "tokens": "DPRK",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

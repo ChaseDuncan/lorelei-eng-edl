@@ -1,0 +1,4123 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_DF_001503_20131004_G00A0AJ0V.xml",
+ "text": "Obamacare\nThis article says Obamacare means people would be entitled to purchase healthcare and then says people would be compelled to purchase healthcare. Which is correct?\nhttp://www.bbc.co.uk/news/world-us-canada-24353675\nMany people previously couldn't get coverage due to pre-existing conditions. They now cannot be denied coverage. However they do have to buy insurance if they are not covered under an employer scheme or similar. There are subsidies for the low-paid.\nThe bill is a compromise which keeps insurance companies happy.\nThe current (pre-Obamacare) set-up means that uninsured people present at emergency rooms. If they cannot pay the hospital bill, they are driving up the costs for others. But some who are used to this arrangement prefer it to having to pay something. Also they are fed a lot of scare stories about 'socialized medicine' and how it will kill you.\nIt is compulsory and it isn't. I think this explains it quite well: Obamacare explained\nBasically, if you are not covered by your employer, you will have to purchase it if your income is above a certain level.\nIt is compulsory and it isn't. I think this explains it quite well: Obamacare explained\nBasically, if you are not covered by your employer, you will have to purchase it if your income is above a certain level.\nThat sounds reasonable and is long overdue.\nIt's good that Obama is finally showing some backbone on something.\nhttp://www.newyorker.com/online/blog...obamacare.html\nhttp://www.newyorker.com/online/blog...obamacare.html\nLet's not forget some things though. The US Government \"shutdown\" orchestrated by the fringe Tea Party loonies is really a manifestation of the whole gamut of problems inherent in the present day US.\nBut, on the bright side for the US, the Tea Party loonies are still fringe.\nIn Canada they're the government.\nObamacare will ruin the American healthcare system...\nThe USA presently leads the world in it's innovative, ground breaking approaches to health care, an example of which can be seen here, in this effective, if somewhat unconventional, postnatal depression counseling session.\nObamacare will ruin the American healthcare system...\nThe USA presently leads the world in it's innovative, ground breaking approaches to health care, an example of which can be seen here, in this effective, if somewhat unconventional, postnatal depression counseling session.\nhttp://news.bbcimg.co.uk/media/image...2_70268826.jpg\nThat pretty much sums it up.",
+ "tokens": [
+  "Obamacare",
+  "This",
+  "article",
+  "says",
+  "Obamacare",
+  "means",
+  "people",
+  "would",
+  "be",
+  "entitled",
+  "to",
+  "purchase",
+  "healthcare",
+  "and",
+  "then",
+  "says",
+  "people",
+  "would",
+  "be",
+  "compelled",
+  "to",
+  "purchase",
+  "healthcare",
+  ".",
+  "Which",
+  "is",
+  "correct",
+  "?",
+  "http://www.bbc.co.uk/news/world-us-canada-24353675",
+  "Many",
+  "people",
+  "previously",
+  "could",
+  "n't",
+  "get",
+  "coverage",
+  "due",
+  "to",
+  "pre",
+  "-",
+  "existing",
+  "conditions",
+  ".",
+  "They",
+  "now",
+  "cannot",
+  "be",
+  "denied",
+  "coverage",
+  ".",
+  "However",
+  "they",
+  "do",
+  "have",
+  "to",
+  "buy",
+  "insurance",
+  "if",
+  "they",
+  "are",
+  "not",
+  "covered",
+  "under",
+  "an",
+  "employer",
+  "scheme",
+  "or",
+  "similar",
+  ".",
+  "There",
+  "are",
+  "subsidies",
+  "for",
+  "the",
+  "low",
+  "-",
+  "paid",
+  ".",
+  "The",
+  "bill",
+  "is",
+  "a",
+  "compromise",
+  "which",
+  "keeps",
+  "insurance",
+  "companies",
+  "happy",
+  ".",
+  "The",
+  "current",
+  "(",
+  "pre",
+  "-",
+  "Obamacare",
+  ")",
+  "set",
+  "-",
+  "up",
+  "means",
+  "that",
+  "uninsured",
+  "people",
+  "present",
+  "at",
+  "emergency",
+  "rooms",
+  ".",
+  "If",
+  "they",
+  "cannot",
+  "pay",
+  "the",
+  "hospital",
+  "bill",
+  ",",
+  "they",
+  "are",
+  "driving",
+  "up",
+  "the",
+  "costs",
+  "for",
+  "others",
+  ".",
+  "But",
+  "some",
+  "who",
+  "are",
+  "used",
+  "to",
+  "this",
+  "arrangement",
+  "prefer",
+  "it",
+  "to",
+  "having",
+  "to",
+  "pay",
+  "something",
+  ".",
+  "Also",
+  "they",
+  "are",
+  "fed",
+  "a",
+  "lot",
+  "of",
+  "scare",
+  "stories",
+  "about",
+  "'",
+  "socialized",
+  "medicine",
+  "'",
+  "and",
+  "how",
+  "it",
+  "will",
+  "kill",
+  "you",
+  ".",
+  "It",
+  "is",
+  "compulsory",
+  "and",
+  "it",
+  "isn't",
+  ".",
+  "I",
+  "think",
+  "this",
+  "explains",
+  "it",
+  "quite",
+  "well",
+  ":",
+  "Obamacare",
+  "explained",
+  "Basically",
+  ",",
+  "if",
+  "you",
+  "are",
+  "not",
+  "covered",
+  "by",
+  "your",
+  "employer",
+  ",",
+  "you",
+  "will",
+  "have",
+  "to",
+  "purchase",
+  "it",
+  "if",
+  "your",
+  "income",
+  "is",
+  "above",
+  "a",
+  "certain",
+  "level",
+  ".",
+  "It",
+  "is",
+  "compulsory",
+  "and",
+  "it",
+  "isn't",
+  ".",
+  "I",
+  "think",
+  "this",
+  "explains",
+  "it",
+  "quite",
+  "well",
+  ":",
+  "Obamacare",
+  "explained",
+  "Basically",
+  ",",
+  "if",
+  "you",
+  "are",
+  "not",
+  "covered",
+  "by",
+  "your",
+  "employer",
+  ",",
+  "you",
+  "will",
+  "have",
+  "to",
+  "purchase",
+  "it",
+  "if",
+  "your",
+  "income",
+  "is",
+  "above",
+  "a",
+  "certain",
+  "level",
+  ".",
+  "That",
+  "sounds",
+  "reasonable",
+  "and",
+  "is",
+  "long",
+  "overdue",
+  ".",
+  "It",
+  "'s",
+  "good",
+  "that",
+  "Obama",
+  "is",
+  "finally",
+  "showing",
+  "some",
+  "backbone",
+  "on",
+  "something",
+  ".",
+  "http://www.newyorker.com/online/blog...obamacare.html",
+  "http://www.newyorker.com/online/blog...obamacare.html",
+  "Let",
+  "'s",
+  "not",
+  "forget",
+  "some",
+  "things",
+  "though",
+  ".",
+  "The",
+  "US",
+  "Government",
+  "\"",
+  "shutdown",
+  "\"",
+  "orchestrated",
+  "by",
+  "the",
+  "fringe",
+  "Tea",
+  "Party",
+  "loonies",
+  "is",
+  "really",
+  "a",
+  "manifestation",
+  "of",
+  "the",
+  "whole",
+  "gamut",
+  "of",
+  "problems",
+  "inherent",
+  "in",
+  "the",
+  "present",
+  "day",
+  "US",
+  ".",
+  "But",
+  ",",
+  "on",
+  "the",
+  "bright",
+  "side",
+  "for",
+  "the",
+  "US",
+  ",",
+  "the",
+  "Tea",
+  "Party",
+  "loonies",
+  "are",
+  "still",
+  "fringe",
+  ".",
+  "In",
+  "Canada",
+  "they",
+  "'re",
+  "the",
+  "government",
+  ".",
+  "Obamacare",
+  "will",
+  "ruin",
+  "the",
+  "American",
+  "healthcare",
+  "system",
+  "...",
+  "The",
+  "USA",
+  "presently",
+  "leads",
+  "the",
+  "world",
+  "in",
+  "it",
+  "'s",
+  "innovative",
+  ",",
+  "ground",
+  "breaking",
+  "approaches",
+  "to",
+  "health",
+  "care",
+  ",",
+  "an",
+  "example",
+  "of",
+  "which",
+  "can",
+  "be",
+  "seen",
+  "here",
+  ",",
+  "in",
+  "this",
+  "effective",
+  ",",
+  "if",
+  "somewhat",
+  "unconventional",
+  ",",
+  "postnatal",
+  "depression",
+  "counseling",
+  "session",
+  ".",
+  "Obamacare",
+  "will",
+  "ruin",
+  "the",
+  "American",
+  "healthcare",
+  "system",
+  "...",
+  "The",
+  "USA",
+  "presently",
+  "leads",
+  "the",
+  "world",
+  "in",
+  "it",
+  "'s",
+  "innovative",
+  ",",
+  "ground",
+  "breaking",
+  "approaches",
+  "to",
+  "health",
+  "care",
+  ",",
+  "an",
+  "example",
+  "of",
+  "which",
+  "can",
+  "be",
+  "seen",
+  "here",
+  ",",
+  "in",
+  "this",
+  "effective",
+  ",",
+  "if",
+  "somewhat",
+  "unconventional",
+  ",",
+  "postnatal",
+  "depression",
+  "counseling",
+  "session",
+  ".",
+  "http://news.bbcimg.co.uk/media/image...2_70268826.jpg",
+  "That",
+  "pretty",
+  "much",
+  "sums",
+  "it",
+  "up",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   24,
+   28,
+   43,
+   50,
+   69,
+   78,
+   89,
+   108,
+   125,
+   141,
+   162,
+   169,
+   205,
+   212,
+   248,
+   256,
+   269,
+   279,
+   309,
+   327,
+   334,
+   382,
+   430,
+   438
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "US"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "US"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "US"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "Canada",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "Canada"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "USA"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "American"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "Obama"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Obamacare"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "US"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "US"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "US"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "Canada"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "USA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "American"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "Obama"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Obamacare"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Obamacare",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "article"
+      },
+      {
+       "label": "says",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "says"
+      },
+      {
+       "label": "Obamacare",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "means",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "means"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "people"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "be"
+      },
+      {
+       "label": "entitled",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "entitled"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "to"
+      },
+      {
+       "label": "purchase",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "purchase"
+      },
+      {
+       "label": "healthcare",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "healthcare"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "and"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "then"
+      },
+      {
+       "label": "says",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "says"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "people"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "be"
+      },
+      {
+       "label": "compelled",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "compelled"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "to"
+      },
+      {
+       "label": "purchase",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "purchase"
+      },
+      {
+       "label": "healthcare",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "healthcare"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "."
+      },
+      {
+       "label": "Which",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Which"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "is"
+      },
+      {
+       "label": "correct",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "correct"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "?"
+      },
+      {
+       "label": "http://www.bbc.co.uk/news/world-us-canada-24353675",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "http://www.bbc.co.uk/news/world-us-canada-24353675"
+      },
+      {
+       "label": "Many",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Many"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "people"
+      },
+      {
+       "label": "previously",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "previously"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "could"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "n't"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "get"
+      },
+      {
+       "label": "coverage",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "coverage"
+      },
+      {
+       "label": "due",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "due"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "to"
+      },
+      {
+       "label": "pre",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "pre"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "-"
+      },
+      {
+       "label": "existing",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "existing"
+      },
+      {
+       "label": "conditions",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "conditions"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "."
+      },
+      {
+       "label": "They",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "They"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "now"
+      },
+      {
+       "label": "cannot",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "cannot"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "be"
+      },
+      {
+       "label": "denied",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "denied"
+      },
+      {
+       "label": "coverage",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "coverage"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "."
+      },
+      {
+       "label": "However",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "However"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "they"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "do"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "have"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "to"
+      },
+      {
+       "label": "buy",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "buy"
+      },
+      {
+       "label": "insurance",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "insurance"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "if"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "they"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "are"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "not"
+      },
+      {
+       "label": "covered",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "covered"
+      },
+      {
+       "label": "under",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "under"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "an"
+      },
+      {
+       "label": "employer",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "employer"
+      },
+      {
+       "label": "scheme",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "scheme"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "or"
+      },
+      {
+       "label": "similar",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "similar"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "."
+      },
+      {
+       "label": "There",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "There"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "are"
+      },
+      {
+       "label": "subsidies",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "subsidies"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "the"
+      },
+      {
+       "label": "low",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "low"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "-"
+      },
+      {
+       "label": "paid",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "paid"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "The"
+      },
+      {
+       "label": "bill",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "bill"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "a"
+      },
+      {
+       "label": "compromise",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "compromise"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "which"
+      },
+      {
+       "label": "keeps",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "keeps"
+      },
+      {
+       "label": "insurance",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "insurance"
+      },
+      {
+       "label": "companies",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "companies"
+      },
+      {
+       "label": "happy",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "happy"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "The"
+      },
+      {
+       "label": "current",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "current"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "("
+      },
+      {
+       "label": "pre",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "pre"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "-"
+      },
+      {
+       "label": "Obamacare",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": ")"
+      },
+      {
+       "label": "set",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "set"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "-"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "up"
+      },
+      {
+       "label": "means",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "means"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "that"
+      },
+      {
+       "label": "uninsured",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "uninsured"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "people"
+      },
+      {
+       "label": "present",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "present"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "at"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "emergency"
+      },
+      {
+       "label": "rooms",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "rooms"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "If"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "they"
+      },
+      {
+       "label": "cannot",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "cannot"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "pay"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "the"
+      },
+      {
+       "label": "hospital",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "hospital"
+      },
+      {
+       "label": "bill",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "bill"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": ","
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "they"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "are"
+      },
+      {
+       "label": "driving",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "driving"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "up"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "the"
+      },
+      {
+       "label": "costs",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "costs"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "for"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "others"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "But"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "some"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "who"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "are"
+      },
+      {
+       "label": "used",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "used"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "to"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "this"
+      },
+      {
+       "label": "arrangement",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "arrangement"
+      },
+      {
+       "label": "prefer",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "prefer"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "it"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "to"
+      },
+      {
+       "label": "having",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "having"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "to"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "pay"
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "something"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "."
+      },
+      {
+       "label": "Also",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Also"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "they"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "are"
+      },
+      {
+       "label": "fed",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "fed"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "a"
+      },
+      {
+       "label": "lot",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "lot"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "of"
+      },
+      {
+       "label": "scare",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "scare"
+      },
+      {
+       "label": "stories",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "stories"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "about"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "'"
+      },
+      {
+       "label": "socialized",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "socialized"
+      },
+      {
+       "label": "medicine",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "medicine"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "'"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "and"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "how"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "it"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "will"
+      },
+      {
+       "label": "kill",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "kill"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "you"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "is"
+      },
+      {
+       "label": "compulsory",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "compulsory"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "and"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "it"
+      },
+      {
+       "label": "isn't",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "isn't"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "I"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "think"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "this"
+      },
+      {
+       "label": "explains",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "explains"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "it"
+      },
+      {
+       "label": "quite",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "quite"
+      },
+      {
+       "label": "well",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "well"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": ":"
+      },
+      {
+       "label": "Obamacare",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "explained",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "explained"
+      },
+      {
+       "label": "Basically",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "Basically"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": ","
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "if"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "you"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "are"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "not"
+      },
+      {
+       "label": "covered",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "covered"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "by"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "your"
+      },
+      {
+       "label": "employer",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "employer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": ","
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "you"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "will"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "have"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "to"
+      },
+      {
+       "label": "purchase",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "purchase"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "it"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "if"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "your"
+      },
+      {
+       "label": "income",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "income"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "is"
+      },
+      {
+       "label": "above",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "above"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "a"
+      },
+      {
+       "label": "certain",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "certain"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "level"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "is"
+      },
+      {
+       "label": "compulsory",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "compulsory"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "and"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "it"
+      },
+      {
+       "label": "isn't",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "isn't"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "I"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "think"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "this"
+      },
+      {
+       "label": "explains",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "explains"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "it"
+      },
+      {
+       "label": "quite",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "quite"
+      },
+      {
+       "label": "well",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "well"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": ":"
+      },
+      {
+       "label": "Obamacare",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "explained",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "explained"
+      },
+      {
+       "label": "Basically",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "Basically"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": ","
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "if"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "you"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "are"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "not"
+      },
+      {
+       "label": "covered",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "covered"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "by"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "your"
+      },
+      {
+       "label": "employer",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "employer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": ","
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "you"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "will"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "have"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "to"
+      },
+      {
+       "label": "purchase",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "purchase"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "it"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "if"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "your"
+      },
+      {
+       "label": "income",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "income"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "is"
+      },
+      {
+       "label": "above",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "above"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "a"
+      },
+      {
+       "label": "certain",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "certain"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "level"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "."
+      },
+      {
+       "label": "That",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "That"
+      },
+      {
+       "label": "sounds",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "sounds"
+      },
+      {
+       "label": "reasonable",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "reasonable"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "and"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "is"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "long"
+      },
+      {
+       "label": "overdue",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "overdue"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "It"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "'s"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "good"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "that"
+      },
+      {
+       "label": "Obama",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "Obama"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "is"
+      },
+      {
+       "label": "finally",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "finally"
+      },
+      {
+       "label": "showing",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "showing"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "some"
+      },
+      {
+       "label": "backbone",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "backbone"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "on"
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "something"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "."
+      },
+      {
+       "label": "http://www.newyorker.com/online/blog...obamacare.html",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "http://www.newyorker.com/online/blog...obamacare.html"
+      },
+      {
+       "label": "http://www.newyorker.com/online/blog...obamacare.html",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "http://www.newyorker.com/online/blog...obamacare.html"
+      },
+      {
+       "label": "Let",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Let"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "'s"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "not"
+      },
+      {
+       "label": "forget",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "forget"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "some"
+      },
+      {
+       "label": "things",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "things"
+      },
+      {
+       "label": "though",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "though"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "The"
+      },
+      {
+       "label": "US",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "US"
+      },
+      {
+       "label": "Government",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Government"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "\""
+      },
+      {
+       "label": "shutdown",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "shutdown"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "\""
+      },
+      {
+       "label": "orchestrated",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "orchestrated"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "the"
+      },
+      {
+       "label": "fringe",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "fringe"
+      },
+      {
+       "label": "Tea",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Tea"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "Party"
+      },
+      {
+       "label": "loonies",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "loonies"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "is"
+      },
+      {
+       "label": "really",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "really"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "a"
+      },
+      {
+       "label": "manifestation",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "manifestation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "the"
+      },
+      {
+       "label": "whole",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "whole"
+      },
+      {
+       "label": "gamut",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "gamut"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "of"
+      },
+      {
+       "label": "problems",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "problems"
+      },
+      {
+       "label": "inherent",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "inherent"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "the"
+      },
+      {
+       "label": "present",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "present"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "day"
+      },
+      {
+       "label": "US",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "US"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "But"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": ","
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "the"
+      },
+      {
+       "label": "bright",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "bright"
+      },
+      {
+       "label": "side",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "side"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "the"
+      },
+      {
+       "label": "US",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "US"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "the"
+      },
+      {
+       "label": "Tea",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "Tea"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Party"
+      },
+      {
+       "label": "loonies",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "loonies"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "are"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "still"
+      },
+      {
+       "label": "fringe",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "fringe"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "In"
+      },
+      {
+       "label": "Canada",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "Canada"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "they"
+      },
+      {
+       "label": "'re",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "'re"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "the"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "government"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "."
+      },
+      {
+       "label": "Obamacare",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "will"
+      },
+      {
+       "label": "ruin",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "ruin"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "the"
+      },
+      {
+       "label": "American",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "American"
+      },
+      {
+       "label": "healthcare",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "healthcare"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "system"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "..."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "The"
+      },
+      {
+       "label": "USA",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "USA"
+      },
+      {
+       "label": "presently",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "presently"
+      },
+      {
+       "label": "leads",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "leads"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "the"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "world"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "in"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "'s"
+      },
+      {
+       "label": "innovative",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "innovative"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": ","
+      },
+      {
+       "label": "ground",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "ground"
+      },
+      {
+       "label": "breaking",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "breaking"
+      },
+      {
+       "label": "approaches",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "approaches"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "to"
+      },
+      {
+       "label": "health",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "health"
+      },
+      {
+       "label": "care",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "care"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "an"
+      },
+      {
+       "label": "example",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "example"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "of"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "which"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "can"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "be"
+      },
+      {
+       "label": "seen",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "seen"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "here"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "in"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "this"
+      },
+      {
+       "label": "effective",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "effective"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": ","
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "if"
+      },
+      {
+       "label": "somewhat",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "somewhat"
+      },
+      {
+       "label": "unconventional",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "unconventional"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": ","
+      },
+      {
+       "label": "postnatal",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "postnatal"
+      },
+      {
+       "label": "depression",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "depression"
+      },
+      {
+       "label": "counseling",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "counseling"
+      },
+      {
+       "label": "session",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "session"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "."
+      },
+      {
+       "label": "Obamacare",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "Obamacare"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "will"
+      },
+      {
+       "label": "ruin",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "ruin"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "the"
+      },
+      {
+       "label": "American",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "American"
+      },
+      {
+       "label": "healthcare",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "healthcare"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "system"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "..."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "The"
+      },
+      {
+       "label": "USA",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "USA"
+      },
+      {
+       "label": "presently",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "presently"
+      },
+      {
+       "label": "leads",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "leads"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "the"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "world"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "in"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "'s"
+      },
+      {
+       "label": "innovative",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "innovative"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": ","
+      },
+      {
+       "label": "ground",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "ground"
+      },
+      {
+       "label": "breaking",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "breaking"
+      },
+      {
+       "label": "approaches",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "approaches"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "to"
+      },
+      {
+       "label": "health",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "health"
+      },
+      {
+       "label": "care",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "care"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "an"
+      },
+      {
+       "label": "example",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "example"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "of"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "which"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "can"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "be"
+      },
+      {
+       "label": "seen",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "seen"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "here"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "in"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "this"
+      },
+      {
+       "label": "effective",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "effective"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": ","
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "if"
+      },
+      {
+       "label": "somewhat",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "somewhat"
+      },
+      {
+       "label": "unconventional",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "unconventional"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": ","
+      },
+      {
+       "label": "postnatal",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "postnatal"
+      },
+      {
+       "label": "depression",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "depression"
+      },
+      {
+       "label": "counseling",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "counseling"
+      },
+      {
+       "label": "session",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "session"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "."
+      },
+      {
+       "label": "http://news.bbcimg.co.uk/media/image...2_70268826.jpg",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "http://news.bbcimg.co.uk/media/image...2_70268826.jpg"
+      },
+      {
+       "label": "That",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "That"
+      },
+      {
+       "label": "pretty",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "pretty"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "much"
+      },
+      {
+       "label": "sums",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "sums"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "it"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "up"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.9775717608198006,
+       "start": 334,
+       "end": 335,
+       "tokens": "Obamacare",
+       "labelScoreMap": {
+        "Patient_Protection_and_Affordable_Care_Act": 0.9775717608198006,
+        "America's_Affordable_Health_Choices_Act_of_2009": 0.02242823918019942,
+        "<unk_wid>": 1.5513635179022827e-31
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.7043429050566336,
+       "start": 317,
+       "end": 318,
+       "tokens": "US",
+       "labelScoreMap": {
+        "United_States": 0.7043429050566336,
+        "United_States_dollar": 0.22602699238246585,
+        "Billboard_Hot_100": 0.02490061811999787,
+        "American_English": 0.01532221766733316,
+        "Recording_Industry_Association_of_America": 0.010282039887634781,
+        "Us_(Peter_Gabriel_album)": 0.0020243050276112684,
+        "Federal_government_of_the_United_States": 0.0017691668913695508,
+        "United_States_men's_national_soccer_team": 0.001234366218672502,
+        "United_States_Armed_Forces": 0.0011849591972685185,
+        "U.S._state": 0.010828383907910676,
+        "Billboard_charts": 0.0011150131504916885,
+        "United_States_Congress": 0.0009690324926105539,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.9145278215824691,
+       "start": 177,
+       "end": 178,
+       "tokens": "Obamacare",
+       "labelScoreMap": {
+        "Patient_Protection_and_Affordable_Care_Act": 0.9145278215824691,
+        "America's_Affordable_Health_Choices_Act_of_2009": 0.08547217841753084,
+        "<unk_wid>": 3.760611936079303e-36
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6747805343781056,
+       "start": 280,
+       "end": 281,
+       "tokens": "US",
+       "labelScoreMap": {
+        "United_States": 0.6747805343781056,
+        "United_States_dollar": 0.22167406906006482,
+        "Billboard_Hot_100": 0.024371351428417905,
+        "American_English": 0.014996941671449123,
+        "Recording_Industry_Association_of_America": 0.010063267839173879,
+        "Us_(Peter_Gabriel_album)": 0.0019812336538925384,
+        "Federal_government_of_the_United_States": 0.0017992470138173968,
+        "United_States_men's_national_soccer_team": 0.0012081376439525907,
+        "United_States_Armed_Forces": 0.001159751571714336,
+        "U.S._state": 0.0458767311638737,
+        "Billboard_charts": 0.0010912888883949869,
+        "United_States_Congress": 0.0009974456871427997,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.703494877982555,
+       "start": 307,
+       "end": 308,
+       "tokens": "US",
+       "labelScoreMap": {
+        "United_States": 0.703494877982555,
+        "United_States_dollar": 0.22589376398293942,
+        "Billboard_Hot_100": 0.02488539113987144,
+        "American_English": 0.015312845081724006,
+        "Recording_Industry_Association_of_America": 0.010275745576872409,
+        "Us_(Peter_Gabriel_album)": 0.002023065821200352,
+        "Federal_government_of_the_United_States": 0.001765304380408452,
+        "United_States_men's_national_soccer_team": 0.0012335996749949683,
+        "United_States_Armed_Forces": 0.0011842325825839326,
+        "U.S._state": 0.011902044113878896,
+        "Billboard_charts": 0.001114330579718863,
+        "United_States_Congress": 0.0009147990832520605,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.8835020419108961,
+       "start": 94,
+       "end": 95,
+       "tokens": "Obamacare",
+       "labelScoreMap": {
+        "Patient_Protection_and_Affordable_Care_Act": 0.8835020419108961,
+        "America's_Affordable_Health_Choices_Act_of_2009": 0.11649795808910388,
+        "<unk_wid>": 1.1138015743923184e-36
+       }
+      },
+      {
+       "label": "Canada",
+       "score": 0.9466570505890441,
+       "start": 328,
+       "end": 329,
+       "tokens": "Canada",
+       "labelScoreMap": {
+        "Canada": 0.9466570505890441,
+        "Canada_men's_national_soccer_team": 0.010888505978493371,
+        "Canada_men's_national_ice_hockey_team": 0.008101439558241774,
+        "Canada_national_cricket_team": 0.007738295364757166,
+        "Canada_(New_France)": 0.004622782453380939,
+        "Canada_national_rugby_union_team": 0.0045596899347903124,
+        "Canadian_English": 0.002592034708081869,
+        "Canada_men's_national_basketball_team": 0.002462757101919714,
+        "Canada_women's_national_soccer_team": 0.0023180728667514627,
+        "Music_Canada": 0.0019235349866854271,
+        "Canada_men's_national_junior_ice_hockey_team": 0.0017910963682869379,
+        "Canadian_Armed_Forces": 0.0017501723600057174,
+        "Canadian_Soccer_Association": 0.001715415243235383,
+        "Canadian_Soccer_League": 0.001639732184479681,
+        "A1_Team_Canada": 0.001239420301845865,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.953283254109389,
+       "start": 0,
+       "end": 1,
+       "tokens": "Obamacare",
+       "labelScoreMap": {
+        "Patient_Protection_and_Affordable_Care_Act": 0.953283254109389,
+        "America's_Affordable_Health_Choices_Act_of_2009": 0.04671674589061109,
+        "<unk_wid>": 3.0333324670570455e-39
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9279315884881065,
+       "start": 343,
+       "end": 344,
+       "tokens": "USA",
+       "labelScoreMap": {
+        "United_States": 0.9279315884881065,
+        "United_States_men's_national_soccer_team": 0.010389339948271657,
+        "United_States_Soccer_Federation": 0.003882861012163369,
+        "USA_Network": 0.003824515679584761,
+        "2006_United_States_Grand_Prix": 0.003379015095284259,
+        "United_States_Army": 0.003160642451415316,
+        "2007_United_States_Grand_Prix": 0.0030066101978594322,
+        "1959_United_States_Grand_Prix": 0.0029080336951735103,
+        "United_States_national_cricket_team": 0.002873978487777748,
+        "United_States_men's_national_basketball_team": 0.002699980507841848,
+        "2005_United_States_Grand_Prix": 0.0025192083359472993,
+        "Miss_USA": 0.00235491000435158,
+        "1989_United_States_Grand_Prix": 0.0022179981763720573,
+        "1974_United_States_Grand_Prix": 0.002108460445621162,
+        "1978_United_States_Grand_Prix": 0.0020646473976379336,
+        "1976_United_States_Grand_Prix": 0.001982502103128919,
+        "2004_United_States_Grand_Prix": 0.001982502103128919,
+        "Episcopal_Church_(United_States)": 0.001960681040464826,
+        "1975_United_States_Grand_Prix": 0.0019441697816331507,
+        "Usa,_\u014cita": 0.001812730862593428,
+        "1960_United_States_Grand_Prix": 0.0017853490977570755,
+        "1973_United_States_Grand_Prix": 0.001659390830234815,
+        "United_States_national_rugby_union_team": 0.001624749450692346,
+        "United_States_men's_national_ice_hockey_team": 0.001625781751816207,
+        "1961_United_States_Grand_Prix": 0.0015498530245139383,
+        "1966_United_States_Grand_Prix": 0.0014677077300049243,
+        "A1_Team_USA": 0.001380082571629543,
+        "2001_United_States_Grand_Prix": 0.0013198483491638057,
+        "United_States_women's_national_soccer_team": 0.001295875447019538,
+        "1969_United_States_Grand_Prix": 0.0012869859328099881
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9029917817300875,
+       "start": 338,
+       "end": 339,
+       "tokens": "American",
+       "labelScoreMap": {
+        "United_States": 0.9029917817300875,
+        "Americans": 0.048249518443385216,
+        "Americas": 0.009812700287987105,
+        "American_English": 0.006288040518177668,
+        "American_football": 0.004988176249364016,
+        "Guy_Fawkes": 0.004890191002231128,
+        "Cuisine_of_the_United_States": 0.004660642894728862,
+        "Christmas": 0.0039633877426565696,
+        "American_Revolution": 0.002987615780575074,
+        "American_Airlines": 0.002543054066219057,
+        "North_America": 0.002239017438466798,
+        "American_frontier": 0.0015220622887006322,
+        "Know_Nothing": 0.0012847064030685705,
+        "American_University": 0.0012093578217414371,
+        "American_League": 0.0012055985346867428,
+        "American_Canadian": 0.0011641487979234385,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9325726278358054,
+       "start": 260,
+       "end": 261,
+       "tokens": "Obama",
+       "labelScoreMap": {
+        "Barack_Obama": 0.9325726278358054,
+        "Obama,_Fukui": 0.04555022986987448,
+        "Osama_bin_Laden": 0.009918568373567077,
+        "Sonia_Sotomayor": 0.007192133035707362,
+        "Barack_Obama_presidential_campaign,_2008": 0.002463081126372167,
+        "2011_State_of_the_Union_Address": 0.0012691963754663674,
+        "United_States_presidential_election,_2008": 0.0010341633832070536,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.9428296836073621,
+       "start": 4,
+       "end": 5,
+       "tokens": "Obamacare",
+       "labelScoreMap": {
+        "Patient_Protection_and_Affordable_Care_Act": 0.9428296836073621,
+        "America's_Affordable_Health_Choices_Act_of_2009": 0.05717031639263792,
+        "<unk_wid>": 3.9039997819963748e-31
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.9775717608198006,
+       "start": 334,
+       "end": 335,
+       "tokens": "Obamacare",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.7043429050566336,
+       "start": 317,
+       "end": 318,
+       "tokens": "US",
+       "labelScoreMap": {
+        "6252001|United_States": 0.7043429050566336
+       }
+      },
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.9145278215824691,
+       "start": 177,
+       "end": 178,
+       "tokens": "Obamacare",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.6747805343781056,
+       "start": 280,
+       "end": 281,
+       "tokens": "US",
+       "labelScoreMap": {
+        "6252001|United_States": 0.6747805343781056
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.703494877982555,
+       "start": 307,
+       "end": 308,
+       "tokens": "US",
+       "labelScoreMap": {
+        "6252001|United_States": 0.703494877982555
+       }
+      },
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.8835020419108961,
+       "start": 94,
+       "end": 95,
+       "tokens": "Obamacare",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Canada",
+       "score": 0.9466570505890441,
+       "start": 328,
+       "end": 329,
+       "tokens": "Canada",
+       "labelScoreMap": {
+        "6251999|Canada": 0.9466570505890441
+       }
+      },
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.953283254109389,
+       "start": 0,
+       "end": 1,
+       "tokens": "Obamacare",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.9279315884881065,
+       "start": 343,
+       "end": 344,
+       "tokens": "USA",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9279315884881065,
+        "1907321|Usa,_\u014cita": 0.001812730862593428
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9029917817300875,
+       "start": 338,
+       "end": 339,
+       "tokens": "American",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9029917817300875,
+        "10861432|Americas": 0.009812700287987105,
+        "6255149|North_America": 0.002239017438466798,
+        "4137534|American_University": 0.0012093578217414371
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9325726278358054,
+       "start": 260,
+       "end": 261,
+       "tokens": "Obama",
+       "labelScoreMap": {
+        "1854849|Obama,_Fukui": 0.04555022986987448
+       }
+      },
+      {
+       "label": "Patient_Protection_and_Affordable_Care_Act",
+       "score": 0.9428296836073621,
+       "start": 4,
+       "end": 5,
+       "tokens": "Obamacare",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

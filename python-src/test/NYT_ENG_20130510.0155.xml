@@ -1,0 +1,5074 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130510.0155.xml",
+ "text": "PAKISTAN ORDERS NEW YORK TIMES REPORTER TO LEAVE\nPakistan\u2019s Interior Ministry has ordered the expulsion of The New York Times bureau chief in Islamabad on the eve of national elections, the newspaper said Friday. The Times has strongly protested the move and is seeking his reinstatement.\nThe ministry gave no explanation for the expulsion order, which was delivered via a two-sentence letter by police officers to the bureau chief, Declan Walsh, at 12:30 a.m. Thursday local time at his home.\n\u201cIt is informed that your visa is hereby canceled in view of your undesirable activities,\u201d the order stated. \u201cYou are therefore advised to leave the country within 72 hours.\u201d The timing of the order means Walsh must exit Pakistan on the night of the elections.\nWalsh, 39, is a veteran correspondent who has lived and worked in Pakistan for nine years, most of it for The Guardian newspaper of Britain. He was hired by the Times in January 2012 and has written extensively about the country\u2019s violent political convulsions, Islamist insurgency and sometimes tense relations with the United States, which has been conducting drone attacks on militants in Pakistan\u2019s border areas with Afghanistan.\nIn a letter of protest to Pakistan\u2019s interior minister, Malik Muhammad Habib Khan, Jill Abramson, the newspaper\u2019s executive editor, expressed concern about the order, describing Walsh as a \u201creporter of integrity who has at all times offered balanced, nuanced and factual reporting on Pakistan.\u201d She asked the minister to reinstate Walsh\u2019s visa.\nThe accusation of undesirable activities, she wrote, \u201cis vague and unsupported, and Mr. Walsh has received no further explanation of any alleged wrongdoing.\u201d\nWalsh said the circumstances of the expulsion order\u2019s delivery were highly unusual. He had been on a social visit Thursday evening, he said, when he received a phone call from an unrecognized number advising him to \u201ccome home now.\u201d Walsh arrived to find a half-dozen police officers and a plainclothes officer waiting outside. The plainclothes officer handed him the letter and asked him to sign for it.\n\u201cI opened the letter in front of him because I knew it was something serious,\u201d he said. \u201cThis was a complete bolt from the blue. I had no inclination that anything of this sort was coming.\u201d",
+ "tokens": [
+  "PAKISTAN",
+  "ORDERS",
+  "NEW",
+  "YORK",
+  "TIMES",
+  "REPORTER",
+  "TO",
+  "LEAVE",
+  "Pakistan",
+  "\u2019s",
+  "Interior",
+  "Ministry",
+  "has",
+  "ordered",
+  "the",
+  "expulsion",
+  "of",
+  "The",
+  "New",
+  "York",
+  "Times",
+  "bureau",
+  "chief",
+  "in",
+  "Islamabad",
+  "on",
+  "the",
+  "eve",
+  "of",
+  "national",
+  "elections",
+  ",",
+  "the",
+  "newspaper",
+  "said",
+  "Friday",
+  ".",
+  "The",
+  "Times",
+  "has",
+  "strongly",
+  "protested",
+  "the",
+  "move",
+  "and",
+  "is",
+  "seeking",
+  "his",
+  "reinstatement",
+  ".",
+  "The",
+  "ministry",
+  "gave",
+  "no",
+  "explanation",
+  "for",
+  "the",
+  "expulsion",
+  "order",
+  ",",
+  "which",
+  "was",
+  "delivered",
+  "via",
+  "a",
+  "two",
+  "-",
+  "sentence",
+  "letter",
+  "by",
+  "police",
+  "officers",
+  "to",
+  "the",
+  "bureau",
+  "chief",
+  ",",
+  "Declan",
+  "Walsh",
+  ",",
+  "at",
+  "12:30",
+  "a",
+  ".",
+  "m",
+  ".",
+  "Thursday",
+  "local",
+  "time",
+  "at",
+  "his",
+  "home",
+  ".",
+  "\u201c",
+  "It",
+  "is",
+  "informed",
+  "that",
+  "your",
+  "visa",
+  "is",
+  "hereby",
+  "canceled",
+  "in",
+  "view",
+  "of",
+  "your",
+  "undesirable",
+  "activities",
+  ",",
+  "\u201d",
+  "the",
+  "order",
+  "stated",
+  ".",
+  "\u201c",
+  "You",
+  "are",
+  "therefore",
+  "advised",
+  "to",
+  "leave",
+  "the",
+  "country",
+  "within",
+  "72",
+  "hours",
+  ".",
+  "\u201d",
+  "The",
+  "timing",
+  "of",
+  "the",
+  "order",
+  "means",
+  "Walsh",
+  "must",
+  "exit",
+  "Pakistan",
+  "on",
+  "the",
+  "night",
+  "of",
+  "the",
+  "elections",
+  ".",
+  "Walsh",
+  ",",
+  "39",
+  ",",
+  "is",
+  "a",
+  "veteran",
+  "correspondent",
+  "who",
+  "has",
+  "lived",
+  "and",
+  "worked",
+  "in",
+  "Pakistan",
+  "for",
+  "nine",
+  "years",
+  ",",
+  "most",
+  "of",
+  "it",
+  "for",
+  "The",
+  "Guardian",
+  "newspaper",
+  "of",
+  "Britain",
+  ".",
+  "He",
+  "was",
+  "hired",
+  "by",
+  "the",
+  "Times",
+  "in",
+  "January",
+  "2012",
+  "and",
+  "has",
+  "written",
+  "extensively",
+  "about",
+  "the",
+  "country",
+  "\u2019s",
+  "violent",
+  "political",
+  "convulsions",
+  ",",
+  "Islamist",
+  "insurgency",
+  "and",
+  "sometimes",
+  "tense",
+  "relations",
+  "with",
+  "the",
+  "United",
+  "States",
+  ",",
+  "which",
+  "has",
+  "been",
+  "conducting",
+  "drone",
+  "attacks",
+  "on",
+  "militants",
+  "in",
+  "Pakistan",
+  "\u2019s",
+  "border",
+  "areas",
+  "with",
+  "Afghanistan",
+  ".",
+  "In",
+  "a",
+  "letter",
+  "of",
+  "protest",
+  "to",
+  "Pakistan",
+  "\u2019s",
+  "interior",
+  "minister",
+  ",",
+  "Malik",
+  "Muhammad",
+  "Habib",
+  "Khan",
+  ",",
+  "Jill",
+  "Abramson",
+  ",",
+  "the",
+  "newspaper",
+  "\u2019s",
+  "executive",
+  "editor",
+  ",",
+  "expressed",
+  "concern",
+  "about",
+  "the",
+  "order",
+  ",",
+  "describing",
+  "Walsh",
+  "as",
+  "a",
+  "\u201c",
+  "reporter",
+  "of",
+  "integrity",
+  "who",
+  "has",
+  "at",
+  "all",
+  "times",
+  "offered",
+  "balanced",
+  ",",
+  "nuanced",
+  "and",
+  "factual",
+  "reporting",
+  "on",
+  "Pakistan",
+  ".",
+  "\u201d",
+  "She",
+  "asked",
+  "the",
+  "minister",
+  "to",
+  "reinstate",
+  "Walsh",
+  "\u2019s",
+  "visa",
+  ".",
+  "The",
+  "accusation",
+  "of",
+  "undesirable",
+  "activities",
+  ",",
+  "she",
+  "wrote",
+  ",",
+  "\u201c",
+  "is",
+  "vague",
+  "and",
+  "unsupported",
+  ",",
+  "and",
+  "Mr.",
+  "Walsh",
+  "has",
+  "received",
+  "no",
+  "further",
+  "explanation",
+  "of",
+  "any",
+  "alleged",
+  "wrongdoing",
+  ".",
+  "\u201d",
+  "Walsh",
+  "said",
+  "the",
+  "circumstances",
+  "of",
+  "the",
+  "expulsion",
+  "order",
+  "\u2019s",
+  "delivery",
+  "were",
+  "highly",
+  "unusual",
+  ".",
+  "He",
+  "had",
+  "been",
+  "on",
+  "a",
+  "social",
+  "visit",
+  "Thursday",
+  "evening",
+  ",",
+  "he",
+  "said",
+  ",",
+  "when",
+  "he",
+  "received",
+  "a",
+  "phone",
+  "call",
+  "from",
+  "an",
+  "unrecognized",
+  "number",
+  "advising",
+  "him",
+  "to",
+  "\u201c",
+  "come",
+  "home",
+  "now",
+  ".",
+  "\u201d",
+  "Walsh",
+  "arrived",
+  "to",
+  "find",
+  "a",
+  "half",
+  "-",
+  "dozen",
+  "police",
+  "officers",
+  "and",
+  "a",
+  "plainclothes",
+  "officer",
+  "waiting",
+  "outside",
+  ".",
+  "The",
+  "plainclothes",
+  "officer",
+  "handed",
+  "him",
+  "the",
+  "letter",
+  "and",
+  "asked",
+  "him",
+  "to",
+  "sign",
+  "for",
+  "it",
+  ".",
+  "\u201c",
+  "I",
+  "opened",
+  "the",
+  "letter",
+  "in",
+  "front",
+  "of",
+  "him",
+  "because",
+  "I",
+  "knew",
+  "it",
+  "was",
+  "something",
+  "serious",
+  ",",
+  "\u201d",
+  "he",
+  "said",
+  ".",
+  "\u201c",
+  "This",
+  "was",
+  "a",
+  "complete",
+  "bolt",
+  "from",
+  "the",
+  "blue",
+  ".",
+  "I",
+  "had",
+  "no",
+  "inclination",
+  "that",
+  "anything",
+  "of",
+  "this",
+  "sort",
+  "was",
+  "coming",
+  ".",
+  "\u201d"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   37,
+   50,
+   86,
+   93,
+   115,
+   146,
+   175,
+   223,
+   288,
+   331,
+   380,
+   395,
+   416,
+   426,
+   439
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Times"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "Jill_Abramson",
+       "score": 1.0,
+       "start": 239,
+       "end": 241,
+       "tokens": "Jill Abramson"
+      },
+      {
+       "label": "Afghanistan",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Afghanistan"
+      },
+      {
+       "label": "Declan_Walsh_(journalist)",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "PAKISTAN"
+      },
+      {
+       "label": "Declan_Walsh_(journalist)",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "Declan_Walsh_(journalist)",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 2,
+       "end": 5,
+       "tokens": "NEW YORK TIMES"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 2,
+       "end": 4,
+       "tokens": "NEW YORK"
+      },
+      {
+       "label": "Declan_Walsh_(journalist)",
+       "score": 1.0,
+       "start": 77,
+       "end": 79,
+       "tokens": "Declan Walsh"
+      },
+      {
+       "label": "Declan_Walsh_(journalist)",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "Ministry_of_Interior_and_Narcotics_Control",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "interior"
+      },
+      {
+       "label": "Declan_Walsh_(journalist)",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "Britain"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 18,
+       "end": 20,
+       "tokens": "New York"
+      },
+      {
+       "label": "Ministry_of_Interior_and_Narcotics_Control",
+       "score": 1.0,
+       "start": 10,
+       "end": 12,
+       "tokens": "Interior Ministry"
+      },
+      {
+       "label": "Declan_Walsh_(journalist)",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "Times"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "Malik_Habib",
+       "score": 1.0,
+       "start": 234,
+       "end": 238,
+       "tokens": "Malik Muhammad Habib Khan"
+      },
+      {
+       "label": "Islamabad",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Islamabad"
+      },
+      {
+       "label": "Declan_Walsh_(journalist)",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 204,
+       "end": 206,
+       "tokens": "United States"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 18,
+       "end": 21,
+       "tokens": "New York Times"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "Pakistan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Times"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 239,
+       "end": 241,
+       "tokens": "Jill Abramson"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Afghanistan"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "PAKISTAN"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 2,
+       "end": 5,
+       "tokens": "NEW YORK TIMES"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 2,
+       "end": 4,
+       "tokens": "NEW YORK"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 77,
+       "end": 79,
+       "tokens": "Declan Walsh"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "interior"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "Britain"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 18,
+       "end": 20,
+       "tokens": "New York"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 10,
+       "end": 12,
+       "tokens": "Interior Ministry"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "Times"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 234,
+       "end": 238,
+       "tokens": "Malik Muhammad Habib Khan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Islamabad"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 204,
+       "end": 206,
+       "tokens": "United States"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 18,
+       "end": 21,
+       "tokens": "New York Times"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "Pakistan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PAKISTAN",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "PAKISTAN"
+      },
+      {
+       "label": "ORDERS",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "ORDERS"
+      },
+      {
+       "label": "NEW",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "NEW"
+      },
+      {
+       "label": "YORK",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "YORK"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "REPORTER",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "REPORTER"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "TO"
+      },
+      {
+       "label": "LEAVE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "LEAVE"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "Interior",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Interior"
+      },
+      {
+       "label": "Ministry",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Ministry"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "has"
+      },
+      {
+       "label": "ordered",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "ordered"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "the"
+      },
+      {
+       "label": "expulsion",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "expulsion"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "of"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "The"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Times"
+      },
+      {
+       "label": "bureau",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "bureau"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "chief"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "in"
+      },
+      {
+       "label": "Islamabad",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Islamabad"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "the"
+      },
+      {
+       "label": "eve",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "eve"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "of"
+      },
+      {
+       "label": "national",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "national"
+      },
+      {
+       "label": "elections",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "elections"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "the"
+      },
+      {
+       "label": "newspaper",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "newspaper"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "said"
+      },
+      {
+       "label": "Friday",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "Friday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "The"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Times"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "has"
+      },
+      {
+       "label": "strongly",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "strongly"
+      },
+      {
+       "label": "protested",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "protested"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "the"
+      },
+      {
+       "label": "move",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "move"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "and"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "is"
+      },
+      {
+       "label": "seeking",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "seeking"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "his"
+      },
+      {
+       "label": "reinstatement",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "reinstatement"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "The"
+      },
+      {
+       "label": "ministry",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "ministry"
+      },
+      {
+       "label": "gave",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "gave"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "no"
+      },
+      {
+       "label": "explanation",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "explanation"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "the"
+      },
+      {
+       "label": "expulsion",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "expulsion"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "order"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "which"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "was"
+      },
+      {
+       "label": "delivered",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "delivered"
+      },
+      {
+       "label": "via",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "via"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "a"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "two"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "-"
+      },
+      {
+       "label": "sentence",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "sentence"
+      },
+      {
+       "label": "letter",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "letter"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "by"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "police"
+      },
+      {
+       "label": "officers",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "officers"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "the"
+      },
+      {
+       "label": "bureau",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "bureau"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "chief"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": ","
+      },
+      {
+       "label": "Declan",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "Declan"
+      },
+      {
+       "label": "Walsh",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "Walsh"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": ","
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "at"
+      },
+      {
+       "label": "12:30",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "12:30"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "a"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "."
+      },
+      {
+       "label": "m",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "m"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "."
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "Thursday"
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "local"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "time"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "at"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "his"
+      },
+      {
+       "label": "home",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "home"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "is"
+      },
+      {
+       "label": "informed",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "informed"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "that"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "your"
+      },
+      {
+       "label": "visa",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "visa"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "is"
+      },
+      {
+       "label": "hereby",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "hereby"
+      },
+      {
+       "label": "canceled",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "canceled"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "in"
+      },
+      {
+       "label": "view",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "view"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "of"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "your"
+      },
+      {
+       "label": "undesirable",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "undesirable"
+      },
+      {
+       "label": "activities",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "activities"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "the"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "order"
+      },
+      {
+       "label": "stated",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "stated"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "You",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "You"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "are"
+      },
+      {
+       "label": "therefore",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "therefore"
+      },
+      {
+       "label": "advised",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "advised"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "to"
+      },
+      {
+       "label": "leave",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "leave"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "country"
+      },
+      {
+       "label": "within",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "within"
+      },
+      {
+       "label": "72",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "72"
+      },
+      {
+       "label": "hours",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "hours"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "The"
+      },
+      {
+       "label": "timing",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "timing"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "the"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "order"
+      },
+      {
+       "label": "means",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "means"
+      },
+      {
+       "label": "Walsh",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "must",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "must"
+      },
+      {
+       "label": "exit",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "exit"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "the"
+      },
+      {
+       "label": "night",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "night"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "the"
+      },
+      {
+       "label": "elections",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "elections"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "."
+      },
+      {
+       "label": "Walsh",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "Walsh"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": ","
+      },
+      {
+       "label": "39",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "39"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "a"
+      },
+      {
+       "label": "veteran",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "veteran"
+      },
+      {
+       "label": "correspondent",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "correspondent"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "who"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "has"
+      },
+      {
+       "label": "lived",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "lived"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "and"
+      },
+      {
+       "label": "worked",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "worked"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "in"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "for"
+      },
+      {
+       "label": "nine",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "nine"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "years"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": ","
+      },
+      {
+       "label": "most",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "most"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "of"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "it"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "for"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "The"
+      },
+      {
+       "label": "Guardian",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "Guardian"
+      },
+      {
+       "label": "newspaper",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "newspaper"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "of"
+      },
+      {
+       "label": "Britain",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "Britain"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "He"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "was"
+      },
+      {
+       "label": "hired",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "hired"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "the"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "Times"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "in"
+      },
+      {
+       "label": "January",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "January"
+      },
+      {
+       "label": "2012",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "2012"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "and"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "has"
+      },
+      {
+       "label": "written",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "written"
+      },
+      {
+       "label": "extensively",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "extensively"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "about"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "country"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "violent",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "violent"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "political"
+      },
+      {
+       "label": "convulsions",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "convulsions"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": ","
+      },
+      {
+       "label": "Islamist",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "Islamist"
+      },
+      {
+       "label": "insurgency",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "insurgency"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "and"
+      },
+      {
+       "label": "sometimes",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "sometimes"
+      },
+      {
+       "label": "tense",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "tense"
+      },
+      {
+       "label": "relations",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "relations"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "United"
+      },
+      {
+       "label": "States",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "States"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "which"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "been"
+      },
+      {
+       "label": "conducting",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "conducting"
+      },
+      {
+       "label": "drone",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "drone"
+      },
+      {
+       "label": "attacks",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "attacks"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "on"
+      },
+      {
+       "label": "militants",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "militants"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "in"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "border",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "border"
+      },
+      {
+       "label": "areas",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "areas"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "with"
+      },
+      {
+       "label": "Afghanistan",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Afghanistan"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "In"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "a"
+      },
+      {
+       "label": "letter",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "letter"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "of"
+      },
+      {
+       "label": "protest",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "protest"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "to"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "interior",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "interior"
+      },
+      {
+       "label": "minister",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "minister"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": ","
+      },
+      {
+       "label": "Malik",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "Malik"
+      },
+      {
+       "label": "Muhammad",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "Muhammad"
+      },
+      {
+       "label": "Habib",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "Habib"
+      },
+      {
+       "label": "Khan",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "Khan"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": ","
+      },
+      {
+       "label": "Jill",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "Jill"
+      },
+      {
+       "label": "Abramson",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "Abramson"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "the"
+      },
+      {
+       "label": "newspaper",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "newspaper"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "executive"
+      },
+      {
+       "label": "editor",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "editor"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": ","
+      },
+      {
+       "label": "expressed",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "expressed"
+      },
+      {
+       "label": "concern",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "concern"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "about"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "the"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "order"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": ","
+      },
+      {
+       "label": "describing",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "describing"
+      },
+      {
+       "label": "Walsh",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "a"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "reporter",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "reporter"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "of"
+      },
+      {
+       "label": "integrity",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "integrity"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "who"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "has"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "at"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "all"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "times"
+      },
+      {
+       "label": "offered",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "offered"
+      },
+      {
+       "label": "balanced",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "balanced"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": ","
+      },
+      {
+       "label": "nuanced",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "nuanced"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "and"
+      },
+      {
+       "label": "factual",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "factual"
+      },
+      {
+       "label": "reporting",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "reporting"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "on"
+      },
+      {
+       "label": "Pakistan",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "Pakistan"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "She"
+      },
+      {
+       "label": "asked",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "asked"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "the"
+      },
+      {
+       "label": "minister",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "minister"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "to"
+      },
+      {
+       "label": "reinstate",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "reinstate"
+      },
+      {
+       "label": "Walsh",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "visa",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "visa"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "The"
+      },
+      {
+       "label": "accusation",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "accusation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "of"
+      },
+      {
+       "label": "undesirable",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "undesirable"
+      },
+      {
+       "label": "activities",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "activities"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": ","
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "she"
+      },
+      {
+       "label": "wrote",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "wrote"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": ","
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "is"
+      },
+      {
+       "label": "vague",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "vague"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "and"
+      },
+      {
+       "label": "unsupported",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "unsupported"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "and"
+      },
+      {
+       "label": "Mr.",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "Mr."
+      },
+      {
+       "label": "Walsh",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "has"
+      },
+      {
+       "label": "received",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "received"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "no"
+      },
+      {
+       "label": "further",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "further"
+      },
+      {
+       "label": "explanation",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "explanation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "of"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "any"
+      },
+      {
+       "label": "alleged",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "alleged"
+      },
+      {
+       "label": "wrongdoing",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "wrongdoing"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Walsh",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "the"
+      },
+      {
+       "label": "circumstances",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "circumstances"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "the"
+      },
+      {
+       "label": "expulsion",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "expulsion"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "order"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "delivery",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "delivery"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "were"
+      },
+      {
+       "label": "highly",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "highly"
+      },
+      {
+       "label": "unusual",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "unusual"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "He"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "been"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "a"
+      },
+      {
+       "label": "social",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "social"
+      },
+      {
+       "label": "visit",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "visit"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "Thursday"
+      },
+      {
+       "label": "evening",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "evening"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": ","
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "said"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": ","
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "when"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "he"
+      },
+      {
+       "label": "received",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "received"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "a"
+      },
+      {
+       "label": "phone",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "phone"
+      },
+      {
+       "label": "call",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "call"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "from"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "an"
+      },
+      {
+       "label": "unrecognized",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "unrecognized"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "number"
+      },
+      {
+       "label": "advising",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "advising"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "him"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "to"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "come",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "come"
+      },
+      {
+       "label": "home",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "home"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "now"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Walsh",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "Walsh"
+      },
+      {
+       "label": "arrived",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "arrived"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "to"
+      },
+      {
+       "label": "find",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "find"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "a"
+      },
+      {
+       "label": "half",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "half"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "-"
+      },
+      {
+       "label": "dozen",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "dozen"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "police"
+      },
+      {
+       "label": "officers",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "officers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "a"
+      },
+      {
+       "label": "plainclothes",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "plainclothes"
+      },
+      {
+       "label": "officer",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "officer"
+      },
+      {
+       "label": "waiting",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "waiting"
+      },
+      {
+       "label": "outside",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "outside"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "The"
+      },
+      {
+       "label": "plainclothes",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "plainclothes"
+      },
+      {
+       "label": "officer",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "officer"
+      },
+      {
+       "label": "handed",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "handed"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "him"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "the"
+      },
+      {
+       "label": "letter",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "letter"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "and"
+      },
+      {
+       "label": "asked",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "asked"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "him"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "to"
+      },
+      {
+       "label": "sign",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "sign"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "for"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "it"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "I"
+      },
+      {
+       "label": "opened",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "opened"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "the"
+      },
+      {
+       "label": "letter",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "letter"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "in"
+      },
+      {
+       "label": "front",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "front"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "of"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "him"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "because"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "I"
+      },
+      {
+       "label": "knew",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "knew"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "was"
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "something"
+      },
+      {
+       "label": "serious",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "serious"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "This"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "a"
+      },
+      {
+       "label": "complete",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "complete"
+      },
+      {
+       "label": "bolt",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "bolt"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "the"
+      },
+      {
+       "label": "blue",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "blue"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "I"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "had"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "no"
+      },
+      {
+       "label": "inclination",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "inclination"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "that"
+      },
+      {
+       "label": "anything",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "anything"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "of"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "this"
+      },
+      {
+       "label": "sort",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "sort"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "was"
+      },
+      {
+       "label": "coming",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "coming"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "\u201d"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "The_Times",
+       "score": 0.43404054417333415,
+       "start": 38,
+       "end": 39,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.43404054417333415,
+        "Time_(magazine)": 0.04038459323317293,
+        "Dot-com_bubble": 0.023614800994082936,
+        "Barack_Obama": 0.023265825625380696,
+        "The_New_York_Times": 0.058425654348853405,
+        "The_Washington_Times": 0.07553384624651954,
+        "1982_Lebanon_War": 0.005583846547481226,
+        "Kent_State_shootings": 0.004536833095705213,
+        "Lojban": 0.004425138100961038,
+        "Great_Depression": 0.004189504151084143,
+        "New_York_Times_Co._v._Sullivan": 0.003209874397001922,
+        "Times_Square": 0.03571176520264645,
+        "Flesh-n-Bone": 0.0029082263412587655,
+        "Dilawar_(torture_victim)": 0.002559239180303521,
+        "Nonprofit_organization": 0.0025592391803033756,
+        "Charles_Stuart_(murderer)": 0.0023265810730082794,
+        "Texas_v._Johnson": 0.002093922965830708,
+        "Times_Union_Center": 0.0020939290029971117,
+        "Cultural_Revolution": 0.0019775969166103595,
+        "National_Basketball_Association": 0.0017452683452990657,
+        "With_Teeth": 0.001744936261248055,
+        "Encore_(Eminem_album)": 0.0016286067568172587,
+        "Los_Angeles_Times": 0.2556557803467346,
+        "Banksy": 0.0015122776974519946,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.0015122777091393057,
+        "Yom_Kippur_War": 0.0015122857712545025,
+        "Snow_Crash": 0.0013959542098884424,
+        "Namco_Museum": 0.001279906866338826,
+        "United_States_presidential_election,_2004": 0.0012921256592415007,
+        "XFL": 0.00127961960005052
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.9261837650345346,
+       "start": 229,
+       "end": 230,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "Pakistan": 0.9261837650345346,
+        "Pakistan_national_cricket_team": 0.038870688619000865,
+        "Pakistan_national_football_team": 0.011872763170119682,
+        "Cartoon_Network_(Pakistan)": 0.0029567332473243862,
+        "Government_of_Pakistan": 0.0027572526447688117,
+        "Dominion_of_Pakistan": 0.002706633927129249,
+        "Church_of_Pakistan": 0.0023707125867361263,
+        "Pakistan_national_rugby_union_team": 0.0021176645177480935,
+        "United_States_Ambassador_to_Pakistan": 0.0020751306084924558,
+        "Communist_Party_of_Pakistan": 0.0019977893540491045,
+        "A1_Team_Pakistan": 0.0017647107991577958,
+        "Himalayan_salt": 0.0014850212189693862,
+        "Pakistan_women's_national_cricket_team": 0.0015026182181471068,
+        "Pakistan_Rugby_Union": 0.001338516053822321,
+        "<unk_wid>": 3.3781318809609396e-38
+       }
+      },
+      {
+       "label": "Jill_Abramson",
+       "score": 1.0,
+       "start": 239,
+       "end": 241,
+       "tokens": "Jill Abramson",
+       "labelScoreMap": {
+        "Jill_Abramson": 1.0,
+        "<unk_wid>": 1.1466322267421285e-38
+       }
+      },
+      {
+       "label": "Afghanistan",
+       "score": 0.8914978715762003,
+       "start": 221,
+       "end": 222,
+       "tokens": "Afghanistan",
+       "labelScoreMap": {
+        "Afghanistan": 0.8914978715762003,
+        "War_in_Afghanistan_(2001\u201314)": 0.06407135681572934,
+        "Afghanistan_national_football_team": 0.012250943336063034,
+        "Soviet\u2013Afghan_War": 0.010097222375543556,
+        "Afghanistan_national_cricket_team": 0.012542852849844358,
+        "United_States_Ambassador_to_Afghanistan": 0.002030844110571931,
+        "Democratic_Republic_of_Afghanistan": 0.0020458995338073936,
+        "Deobandi": 0.0017534983149323066,
+        "International_Security_Assistance_Force": 0.0012738097545545975,
+        "First_Anglo-Afghan_War": 0.001323441619874928,
+        "Operation_Enduring_Freedom": 0.0011122597128783004,
+        "<unk_wid>": 7.251927881845966e-43
+       }
+      },
+      {
+       "label": "Thomas_J._Walsh",
+       "score": 0.12438862619864474,
+       "start": 135,
+       "end": 136,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "David_I._Walsh": 0.06819238834117351,
+        "Donnie_Walsh": 0.06367457128402067,
+        "Raoul_Walsh": 0.09324672486581356,
+        "Steve_Walsh_(American_football)": 0.05545176203576008,
+        "Bill_Walsh_(American_football_coach)": 0.05760161995957885,
+        "Kerri_Walsh_Jennings": 0.04831777526567794,
+        "Sharon_Walsh": 0.04693959096616184,
+        "Walsh_County,_North_Dakota": 0.02722282841251064,
+        "Ed_Walsh": 0.029950163526393337,
+        "Adam_Walsh_(American_football)": 0.016069482460963666,
+        "Walsh_University": 0.014158658793768718,
+        "Frank_Walsh": 0.0167073478758061,
+        "Paul_Walsh": 0.016352950195523908,
+        "Courtney_Walsh": 0.09160846122115814,
+        "Rodolfo_Walsh": 0.027902230751160162,
+        "Joe_Walsh": 0.040809945375602126,
+        "John_Walsh_(printer)": 0.01225403782472971,
+        "Bradley_Walsh": 0.010746947015301832,
+        "Thomas_J._Walsh": 0.12438862619864474,
+        "Round_Rock_Independent_School_District": 0.003333307166454274,
+        "Tim_Walsh_(American_football)": 0.022196224173229178,
+        "Louis_Walsh": 0.017571161388051353,
+        "Neale_Donald_Walsch": 0.004047574545927788,
+        "Davy_Walsh": 0.06384139543125582,
+        "Mickey_Walsh": 0.00250281613605375,
+        "Steve_Walsh_(footballer)": 0.00399681667738637,
+        "Mark_Walsh_(darts_player)": 0.020914592111892002,
+        "<unk_wid>": 1.6188019270253833e-18
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.5444808200737116,
+       "start": 0,
+       "end": 1,
+       "tokens": "PAKISTAN",
+       "labelScoreMap": {
+        "Pakistan": 0.5444808200737116,
+        "Pakistan_national_cricket_team": 0.03757939910249637,
+        "Pakistan_national_football_team": 0.007888191105879636,
+        "Cartoon_Network_(Pakistan)": 0.0018409590356374898,
+        "Government_of_Pakistan": 0.2431185158279401,
+        "Dominion_of_Pakistan": 0.05821520767200215,
+        "Church_of_Pakistan": 0.001541463425526039,
+        "Pakistan_national_rugby_union_team": 0.0013185286039249355,
+        "United_States_Ambassador_to_Pakistan": 0.0013141085471341434,
+        "Communist_Party_of_Pakistan": 0.09780999722281837,
+        "A1_Team_Pakistan": 0.0013679018509177225,
+        "Himalayan_salt": 0.0009246244363856471,
+        "Pakistan_women's_national_cricket_team": 0.0017668770831328496,
+        "Pakistan_Rugby_Union": 0.0008334060124928243,
+        "<unk_wid>": 2.9542837678994745e-23
+       }
+      },
+      {
+       "label": "Davy_Walsh",
+       "score": 0.17694038267521128,
+       "start": 317,
+       "end": 318,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "David_I._Walsh": 0.06747125771807091,
+        "Donnie_Walsh": 0.06303839594455356,
+        "Raoul_Walsh": 0.10310979323406765,
+        "Steve_Walsh_(American_football)": 0.05519397952628145,
+        "Bill_Walsh_(American_football_coach)": 0.046358237546510306,
+        "Kerri_Walsh_Jennings": 0.04155253704025692,
+        "Sharon_Walsh": 0.038627054974541816,
+        "Walsh_County,_North_Dakota": 0.025166731695369413,
+        "Ed_Walsh": 0.02457785792802289,
+        "Adam_Walsh_(American_football)": 0.015964481587187756,
+        "Walsh_University": 0.013887620594444,
+        "Frank_Walsh": 0.014992586306585048,
+        "Paul_Walsh": 0.01369947107577987,
+        "Courtney_Walsh": 0.0869507117656466,
+        "Rodolfo_Walsh": 0.03551908799163911,
+        "Joe_Walsh": 0.01953410553786892,
+        "John_Walsh_(printer)": 0.008956962383348602,
+        "Bradley_Walsh": 0.007061448457411072,
+        "Thomas_J._Walsh": 0.08055584728308784,
+        "Round_Rock_Independent_School_District": 0.003293089564421265,
+        "Tim_Walsh_(American_football)": 0.018153909117414446,
+        "Louis_Walsh": 0.017412188821552748,
+        "Neale_Donald_Walsch": 0.0032898040184142744,
+        "Davy_Walsh": 0.17694038267521128,
+        "Mickey_Walsh": 0.0021954736129311484,
+        "Steve_Walsh_(footballer)": 0.0027572919505914105,
+        "Mark_Walsh_(darts_player)": 0.01373969164878962,
+        "<unk_wid>": 3.8271530979770184e-21
+       }
+      },
+      {
+       "label": "Raoul_Walsh",
+       "score": 0.11492700979758683,
+       "start": 146,
+       "end": 147,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "David_I._Walsh": 0.06867654756081663,
+        "Donnie_Walsh": 0.06330185699898802,
+        "Raoul_Walsh": 0.11492700979758683,
+        "Steve_Walsh_(American_football)": 0.05563305474386457,
+        "Bill_Walsh_(American_football_coach)": 0.04956672696223241,
+        "Kerri_Walsh_Jennings": 0.04275171019460596,
+        "Sharon_Walsh": 0.03826500732708083,
+        "Walsh_County,_North_Dakota": 0.0749191631420637,
+        "Ed_Walsh": 0.0430493731873745,
+        "Adam_Walsh_(American_football)": 0.016199600803460914,
+        "Walsh_University": 0.01781131825732136,
+        "Frank_Walsh": 0.023541894602963475,
+        "Paul_Walsh": 0.017159725985352144,
+        "Courtney_Walsh": 0.07439382634024554,
+        "Rodolfo_Walsh": 0.016384902041449826,
+        "Joe_Walsh": 0.03936449179519432,
+        "John_Walsh_(printer)": 0.06859544496245298,
+        "Bradley_Walsh": 0.01779785578393375,
+        "Thomas_J._Walsh": 0.050788281065346164,
+        "Round_Rock_Independent_School_District": 0.004011935239030947,
+        "Tim_Walsh_(American_football)": 0.022397212142038853,
+        "Louis_Walsh": 0.014205600921289448,
+        "Neale_Donald_Walsch": 0.006477796698865247,
+        "Davy_Walsh": 0.028835385287773043,
+        "Mickey_Walsh": 0.00281502028809789,
+        "Steve_Walsh_(footballer)": 0.005236934025757622,
+        "Mark_Walsh_(darts_player)": 0.02289232384481296,
+        "<unk_wid>": 5.053841241367347e-19
+       }
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938161989293148,
+       "start": 2,
+       "end": 5,
+       "tokens": "NEW YORK TIMES",
+       "labelScoreMap": {
+        "The_New_York_Times": 0.9938161989293148,
+        "The_New_York_Times_Building": 0.003055333362042918,
+        "United_States_v._Libby": 0.001768914282995454,
+        "Jayson_Blair": 0.0013595534256467766,
+        "<unk_wid>": 2.5995383387590615e-29
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.40404621558350956,
+       "start": 2,
+       "end": 4,
+       "tokens": "NEW YORK",
+       "labelScoreMap": {
+        "New_York": 0.3298661333536024,
+        "New_York_City": 0.15497568503724857,
+        "New_York_(magazine)": 0.40404621558350956,
+        "New_York_(film)": 0.0025263795396394586,
+        "Province_of_New_York": 0.001942606141416253,
+        "New_York_Knicks": 0.005599671030022423,
+        "Manhattan": 0.001938254747947998,
+        "New_York_metropolitan_area": 0.0038063531569945113,
+        "New_York's_at-large_congressional_seat": 0.0012142105289956488,
+        "Eastern_Air_Defense_Sector": 0.0009646047408014294,
+        "New_York_Air_National_Guard": 0.05716755056880054,
+        "Peekskill,_New_York": 0.0006902299308298387,
+        "New_York_Liberty": 0.020906431799771474,
+        "New_York_Yankees": 0.012221879717438702,
+        "September_11_attacks": 0.0012382702747168548,
+        "New_York_GAA": 0.0008955238482644072,
+        "<unk_wid>": 2.2196150634956422e-27
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 77,
+       "end": 79,
+       "tokens": "Declan Walsh",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Thomas_J._Walsh",
+       "score": 0.11053876319374131,
+       "start": 363,
+       "end": 364,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "David_I._Walsh": 0.06802180721220966,
+        "Donnie_Walsh": 0.06383538835624468,
+        "Raoul_Walsh": 0.09341330571846446,
+        "Steve_Walsh_(American_football)": 0.0553920445684996,
+        "Bill_Walsh_(American_football_coach)": 0.05058548739537157,
+        "Kerri_Walsh_Jennings": 0.050695439796230875,
+        "Sharon_Walsh": 0.04467603010416086,
+        "Walsh_County,_North_Dakota": 0.025419747537986304,
+        "Ed_Walsh": 0.027961754946838654,
+        "Adam_Walsh_(American_football)": 0.01600362533997449,
+        "Walsh_University": 0.013966067297746467,
+        "Frank_Walsh": 0.015731444921008635,
+        "Paul_Walsh": 0.014656118676741605,
+        "Courtney_Walsh": 0.08806353214509013,
+        "Rodolfo_Walsh": 0.03233220457045907,
+        "Joe_Walsh": 0.04014336459155644,
+        "John_Walsh_(printer)": 0.009978961652383296,
+        "Bradley_Walsh": 0.009913610093304274,
+        "Thomas_J._Walsh": 0.11053876319374131,
+        "Round_Rock_Independent_School_District": 0.003303913403276021,
+        "Tim_Walsh_(American_football)": 0.022148264131408767,
+        "Louis_Walsh": 0.016572763984161284,
+        "Neale_Donald_Walsch": 0.0037385138901218085,
+        "Davy_Walsh": 0.10047381551075561,
+        "Mickey_Walsh": 0.0023104002352668787,
+        "Steve_Walsh_(footballer)": 0.003386618851935043,
+        "Mark_Walsh_(darts_player)": 0.01673701187506197,
+        "<unk_wid>": 3.262714159524812e-19
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.9229915038247188,
+       "start": 275,
+       "end": 276,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "Pakistan": 0.9229915038247188,
+        "Pakistan_national_cricket_team": 0.03946562395740829,
+        "Pakistan_national_football_team": 0.012184425976023107,
+        "Cartoon_Network_(Pakistan)": 0.0029474084406890606,
+        "Government_of_Pakistan": 0.0038937028058867148,
+        "Dominion_of_Pakistan": 0.0029794351520860836,
+        "Church_of_Pakistan": 0.0023632359445848574,
+        "Pakistan_national_rugby_union_team": 0.0021109859267172903,
+        "United_States_Ambassador_to_Pakistan": 0.0020836183436914067,
+        "Communist_Party_of_Pakistan": 0.0019914911956181577,
+        "A1_Team_Pakistan": 0.001759145523555778,
+        "Himalayan_salt": 0.0014803378287013386,
+        "Pakistan_women's_national_cricket_team": 0.002414790375646643,
+        "Pakistan_Rugby_Union": 0.001334294704672594,
+        "<unk_wid>": 2.9190923585510226e-30
+       }
+      },
+      {
+       "label": "Alaska_Interior",
+       "score": 0.1272820904912925,
+       "start": 231,
+       "end": 232,
+       "tokens": "interior",
+       "labelScoreMap": {
+        "Alaska_Interior": 0.1272820904912925,
+        "United_States_Department_of_the_Interior": 0.04777235718018705,
+        "Ministry_of_the_Interior_(Peru)": 0.04210747184464571,
+        "British_Columbia_Interior": 0.04929591144252811,
+        "Ministry_of_Internal_Affairs_(Romania)": 0.11891857288711402,
+        "Cundinamarca_Department": 0.027045091555186276,
+        "Ministry_of_the_Interior_and_Public_Security_(Chile)": 0.03770979635718094,
+        "Interior_ministry": 0.09152469712018543,
+        "Interior_Plateau": 0.02502168918498665,
+        "United_States_Secretary_of_the_Interior": 0.018578514492731093,
+        "Hair": 0.01024911683653666,
+        "Minister_of_the_Interior_(France)": 0.07729889674429569,
+        "Ministry_of_the_Interior_and_Administrative_Reconstruction": 0.060201339252161534,
+        "Ministry_of_the_Interior_(Taiwan)": 0.058751264055159125,
+        "United_States_Capitol": 0.008996612476236728,
+        "Ministry_of_the_Interior_(Croatia)": 0.08071537761424483,
+        "Great_Pyramid_of_Giza": 0.007955814689457356,
+        "Pantheon,_Rome": 0.00797753745381394,
+        "Florence_Cathedral": 0.006242500865960571,
+        "Palace_of_Westminster": 0.0066791546229165765,
+        "Federal_Ministry_of_the_Interior_(Germany)": 0.024876345763883815,
+        "Ministry_of_Interior_(Thailand)": 0.024314713013254007,
+        "Ministry_of_Interior_(Cambodia)": 0.0044560418708121455,
+        "Reims_Cathedral": 0.004118146091038218,
+        "Basilica_of_San_Zeno,_Verona": 0.004061012190762548,
+        "Florence_Baptistery": 0.0035428676755344486,
+        "Top_Design": 0.003119602111316364,
+        "Austrian_Parliament_Building": 0.014551597957146849,
+        "Buenos_Aires_Metropolitan_Cathedral": 0.0041569706414792485,
+        "Alfredo_P\u00e9rez_Rubalcaba": 0.0024788955179513984
+       }
+      },
+      {
+       "label": "Courtney_Walsh",
+       "score": 0.12425993836871904,
+       "start": 284,
+       "end": 285,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "David_I._Walsh": 0.06802626740956497,
+        "Donnie_Walsh": 0.06330824782288451,
+        "Raoul_Walsh": 0.0796753877852376,
+        "Steve_Walsh_(American_football)": 0.0553116873863056,
+        "Bill_Walsh_(American_football_coach)": 0.05038903745538307,
+        "Kerri_Walsh_Jennings": 0.048542808978250446,
+        "Sharon_Walsh": 0.04885228971041549,
+        "Walsh_County,_North_Dakota": 0.0244136931973696,
+        "Ed_Walsh": 0.029276201173427153,
+        "Adam_Walsh_(American_football)": 0.015956521090595914,
+        "Walsh_University": 0.013863653668840585,
+        "Frank_Walsh": 0.014483540189823585,
+        "Paul_Walsh": 0.014197407035239282,
+        "Courtney_Walsh": 0.12425993836871904,
+        "Rodolfo_Walsh": 0.03266778958513741,
+        "Joe_Walsh": 0.028361347837662507,
+        "John_Walsh_(printer)": 0.007330133646023105,
+        "Bradley_Walsh": 0.007599589599679249,
+        "Thomas_J._Walsh": 0.1192400825379646,
+        "Round_Rock_Independent_School_District": 0.003286407732770127,
+        "Tim_Walsh_(American_football)": 0.027679054936350322,
+        "Louis_Walsh": 0.010868534483870802,
+        "Neale_Donald_Walsch": 0.002959457594201996,
+        "Davy_Walsh": 0.09294763195709754,
+        "Mickey_Walsh": 0.0021733964294062018,
+        "Steve_Walsh_(footballer)": 0.0027768112938480363,
+        "Mark_Walsh_(darts_player)": 0.01155308109393123,
+        "<unk_wid>": 5.967149820544705e-22
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.5967288405021477,
+       "start": 173,
+       "end": 174,
+       "tokens": "Britain",
+       "labelScoreMap": {
+        "United_Kingdom": 0.5967288405021477,
+        "Great_Britain": 0.14422399197811356,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.07615216961439893,
+        "Kingdom_of_Great_Britain": 0.05923398092767649,
+        "Roman_Britain": 0.05303415185791278,
+        "British_Empire": 0.022729757632995964,
+        "Battle_of_Britain": 0.006275442488785453,
+        "Esperanto_Association_of_Britain": 0.0023792305568414384,
+        "British_English": 0.004724064379633664,
+        "England": 0.027102843174046,
+        "Anglo-Russian_War_(1807\u201312)": 0.001380212539675181,
+        "Planned_French_invasion_of_Britain_(1759)": 0.0010825030122787798,
+        "Jewish_insurgency_in_Mandatory_Palestine": 0.0010009219279595214,
+        "British_Isles": 0.0019001456347219876,
+        "Acts_of_Union_1707": 0.0012149121151055688,
+        "Death_of_Jean_Charles_de_Menezes": 0.0008368316577067353,
+        "<unk_wid>": 4.3270495631949506e-27
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.49936865682000847,
+       "start": 18,
+       "end": 20,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.3298974977696195,
+        "New_York_City": 0.15408185003955818,
+        "New_York_(magazine)": 0.49936865682000847,
+        "New_York_(film)": 0.002326434230435137,
+        "Province_of_New_York": 0.0019365069151044704,
+        "New_York_Knicks": 0.0018714353417536315,
+        "Manhattan": 0.0018559021378957874,
+        "New_York_metropolitan_area": 0.001686674021822172,
+        "New_York's_at-large_congressional_seat": 0.0012147685146274277,
+        "Eastern_Air_Defense_Sector": 0.0008905559034283275,
+        "New_York_Air_National_Guard": 0.0008207679493653288,
+        "Peekskill,_New_York": 0.0006905429033407661,
+        "New_York_Liberty": 0.0010799321803840526,
+        "New_York_Yankees": 0.0010374900572637242,
+        "September_11_attacks": 0.000627394135788786,
+        "New_York_GAA": 0.000613591079604204,
+        "<unk_wid>": 2.933274930566177e-33
+       }
+      },
+      {
+       "label": "Interior_ministry",
+       "score": 0.4262795102602761,
+       "start": 10,
+       "end": 12,
+       "tokens": "Interior Ministry",
+       "labelScoreMap": {
+        "Interior_ministry": 0.4262795102602761,
+        "Ministry_of_Interior_(Iraq)": 0.08735000674058331,
+        "Ministry_of_Internal_Affairs_(Russia)": 0.17005783962438595,
+        "Minister_of_the_Interior_(France)": 0.01916389241863487,
+        "Ministry_of_Internal_Affairs_(Romania)": 0.09915090293035594,
+        "Ministry_of_Interior_(Thailand)": 0.04309408388689664,
+        "Ministry_of_Interior_(Egypt)": 0.011998970673471098,
+        "Ministry_of_Interior_and_Narcotics_Control_(Pakistan)": 0.0276817823888593,
+        "Interior_Minister_of_the_Palestinian_National_Authority": 0.004982396742502847,
+        "Ministry_of_the_Interior_and_Public_Security_(Chile)": 0.003587906698543573,
+        "Federal_Ministry_of_the_Interior_(Germany)": 0.008389654462543897,
+        "Ministry_of_the_Interior_(Croatia)": 0.04783425914814674,
+        "Ministry_of_Interior_and_Administration_(Poland)": 0.0019966358553430022,
+        "Secretariat_of_the_Interior_(Mexico)": 0.04681025567687089,
+        "Minister_of_the_Interior_(Canada)": 0.0016219024925859006,
+        "<unk_wid>": 1.938857654744565e-30
+       }
+      },
+      {
+       "label": "John_Walsh_(printer)",
+       "score": 0.2361714027151445,
+       "start": 255,
+       "end": 256,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "David_I._Walsh": 0.0676356689037432,
+        "Donnie_Walsh": 0.06312383015109835,
+        "Raoul_Walsh": 0.18115260075533013,
+        "Steve_Walsh_(American_football)": 0.05555839825422588,
+        "Bill_Walsh_(American_football_coach)": 0.04039959156567476,
+        "Kerri_Walsh_Jennings": 0.033616528352916474,
+        "Sharon_Walsh": 0.02730608014718446,
+        "Walsh_County,_North_Dakota": 0.025084643698361216,
+        "Ed_Walsh": 0.023218787652380043,
+        "Adam_Walsh_(American_football)": 0.016077241027880492,
+        "Walsh_University": 0.013971114644435468,
+        "Frank_Walsh": 0.014484675361710149,
+        "Paul_Walsh": 0.013327381586823315,
+        "Courtney_Walsh": 0.022499384644137567,
+        "Rodolfo_Walsh": 0.009154054803016162,
+        "Joe_Walsh": 0.015313956323200944,
+        "John_Walsh_(printer)": 0.2361714027151445,
+        "Bradley_Walsh": 0.020679962235673005,
+        "Thomas_J._Walsh": 0.013248811933796808,
+        "Round_Rock_Independent_School_District": 0.0033102797476366077,
+        "Tim_Walsh_(American_football)": 0.005591736931455757,
+        "Louis_Walsh": 0.05070704714515862,
+        "Neale_Donald_Walsch": 0.004053039631486174,
+        "Davy_Walsh": 0.03268494687009613,
+        "Mickey_Walsh": 0.0021474374528834598,
+        "Steve_Walsh_(footballer)": 0.002039784969817417,
+        "Mark_Walsh_(darts_player)": 0.007441612494732852,
+        "<unk_wid>": 6.953056923583751e-30
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.8856624618166535,
+       "start": 8,
+       "end": 9,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "Pakistan": 0.8856624618166535,
+        "Pakistan_national_cricket_team": 0.05003538528104892,
+        "Pakistan_national_football_team": 0.019135871854589658,
+        "Cartoon_Network_(Pakistan)": 0.0028384114799509027,
+        "Government_of_Pakistan": 0.00923611993784968,
+        "Dominion_of_Pakistan": 0.0063713036878214665,
+        "Church_of_Pakistan": 0.0022758423458891773,
+        "Pakistan_national_rugby_union_team": 0.0020329203824559663,
+        "United_States_Ambassador_to_Pakistan": 0.0021895264049990922,
+        "Communist_Party_of_Pakistan": 0.0019486538749203055,
+        "A1_Team_Pakistan": 0.001697099793539184,
+        "Himalayan_salt": 0.0014255940361046578,
+        "Pakistan_women's_national_cricket_team": 0.013865857427726409,
+        "Pakistan_Rugby_Union": 0.001284951676450926,
+        "<unk_wid>": 2.551816940037264e-23
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.42901771348922413,
+       "start": 180,
+       "end": 181,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.42901771348922413,
+        "Time_(magazine)": 0.0402428669722712,
+        "Dot-com_bubble": 0.023497114385983304,
+        "Barack_Obama": 0.02315012865748743,
+        "The_New_York_Times": 0.1218835928708083,
+        "The_Washington_Times": 0.10836412735679972,
+        "1982_Lebanon_War": 0.00555601375624651,
+        "Kent_State_shootings": 0.004514209912722797,
+        "Lojban": 0.004398838807070685,
+        "Great_Depression": 0.004172968358025246,
+        "New_York_Times_Co._v._Sullivan": 0.0037690695580486055,
+        "Times_Square": 0.06141909650946033,
+        "Flesh-n-Bone": 0.0028937243020319007,
+        "Dilawar_(torture_victim)": 0.002546477385740282,
+        "Nonprofit_organization": 0.002546477385732929,
+        "Charles_Stuart_(murderer)": 0.002314979441800412,
+        "Texas_v._Johnson": 0.002083481500190621,
+        "Times_Union_Center": 0.002083820792342113,
+        "Cultural_Revolution": 0.0019677464200657923,
+        "National_Basketball_Association": 0.0017475685783777672,
+        "With_Teeth": 0.00173623490855363,
+        "Encore_(Eminem_album)": 0.001620485858031017,
+        "Los_Angeles_Times": 0.13871646666664242,
+        "Banksy": 0.0015047366370240034,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.0015047370565152934,
+        "Yom_Kippur_War": 0.0015047457869857082,
+        "Snow_Crash": 0.001389018431737399,
+        "Namco_Museum": 0.001301839917800158,
+        "United_States_presidential_election,_2004": 0.001278479441398976,
+        "XFL": 0.0012732388548814635
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.9240509620417131,
+       "start": 138,
+       "end": 139,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "Pakistan": 0.9240509620417131,
+        "Pakistan_national_cricket_team": 0.040478637079284424,
+        "Pakistan_national_football_team": 0.012003933019994495,
+        "Cartoon_Network_(Pakistan)": 0.0029505150950954176,
+        "Government_of_Pakistan": 0.0028569353740554373,
+        "Dominion_of_Pakistan": 0.0028027570189851124,
+        "Church_of_Pakistan": 0.0023657268641421904,
+        "Pakistan_national_rugby_union_team": 0.002113210967414069,
+        "United_States_Ambassador_to_Pakistan": 0.002080327560418298,
+        "Communist_Party_of_Pakistan": 0.0019935923408128365,
+        "A1_Team_Pakistan": 0.0017609996803643942,
+        "Himalayan_salt": 0.001481898147920905,
+        "Pakistan_women's_national_cricket_team": 0.0017248037196165317,
+        "Pakistan_Rugby_Union": 0.0013357010901825957,
+        "<unk_wid>": 7.196121786034573e-36
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 234,
+       "end": 238,
+       "tokens": "Malik Muhammad Habib Khan",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Islamabad",
+       "score": 0.9824920835313942,
+       "start": 24,
+       "end": 25,
+       "tokens": "Islamabad",
+       "labelScoreMap": {
+        "Islamabad": 0.9824920835313942,
+        "Islamabad_Capital_Territory": 0.009832493281199634,
+        "Islamabad_Stock_Exchange": 0.004709543089035139,
+        "Embassy_of_the_United_States,_Islamabad": 0.0016284626560134127,
+        "Benazir_Bhutto_International_Airport": 0.00133741744235768,
+        "<unk_wid>": 5.9582688115823764e-34
+       }
+      },
+      {
+       "label": "Raoul_Walsh",
+       "score": 0.15791433799148885,
+       "start": 305,
+       "end": 306,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "David_I._Walsh": 0.0678866406107113,
+        "Donnie_Walsh": 0.06483350293615885,
+        "Raoul_Walsh": 0.15791433799148885,
+        "Steve_Walsh_(American_football)": 0.05565922123175444,
+        "Bill_Walsh_(American_football_coach)": 0.04179582088689487,
+        "Kerri_Walsh_Jennings": 0.04868131766699739,
+        "Sharon_Walsh": 0.036841021638153726,
+        "Walsh_County,_North_Dakota": 0.025221212319153627,
+        "Ed_Walsh": 0.029467254095396616,
+        "Adam_Walsh_(American_football)": 0.01606089748995923,
+        "Walsh_University": 0.01396072254555054,
+        "Frank_Walsh": 0.01598889199530413,
+        "Paul_Walsh": 0.01350255513500965,
+        "Courtney_Walsh": 0.04709773509405447,
+        "Rodolfo_Walsh": 0.020711653180569962,
+        "Joe_Walsh": 0.05932500173691552,
+        "John_Walsh_(printer)": 0.01726549435647473,
+        "Bradley_Walsh": 0.025308586973555293,
+        "Thomas_J._Walsh": 0.044501437995346046,
+        "Round_Rock_Independent_School_District": 0.0033146676572977742,
+        "Tim_Walsh_(American_football)": 0.016707230064048173,
+        "Louis_Walsh": 0.015668727053161087,
+        "Neale_Donald_Walsch": 0.0035516013936571743,
+        "Davy_Walsh": 0.14341120609879232,
+        "Mickey_Walsh": 0.0021397548917212413,
+        "Steve_Walsh_(footballer)": 0.0022412998462676085,
+        "Mark_Walsh_(darts_player)": 0.010942207115605115,
+        "<unk_wid>": 5.966407187551512e-23
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.927180833040784,
+       "start": 160,
+       "end": 161,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "Pakistan": 0.927180833040784,
+        "Pakistan_national_cricket_team": 0.03813330741076646,
+        "Pakistan_national_football_team": 0.011833054748578474,
+        "Cartoon_Network_(Pakistan)": 0.0029596403852649943,
+        "Government_of_Pakistan": 0.0026882157328939637,
+        "Dominion_of_Pakistan": 0.002668255299330189,
+        "Church_of_Pakistan": 0.0023730435337410392,
+        "Pakistan_national_rugby_union_team": 0.002119746661232155,
+        "United_States_Ambassador_to_Pakistan": 0.002073139715315196,
+        "Communist_Party_of_Pakistan": 0.001999753576093218,
+        "A1_Team_Pakistan": 0.0017664459056090252,
+        "Himalayan_salt": 0.0014864813309129242,
+        "Pakistan_women's_national_cricket_team": 0.001378250541446102,
+        "Pakistan_Rugby_Union": 0.0013398321180319354,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9725677070568378,
+       "start": 204,
+       "end": 206,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "United_States": 0.9725677070568378,
+        "United_States_men's_national_soccer_team": 0.01123776753112115,
+        "United_States_men's_national_ice_hockey_team": 0.0032758839572676053,
+        "United_States_women's_national_soccer_team": 0.002262258733088568,
+        "United_States_national_cricket_team": 0.0020428548146505764,
+        "United_States_men's_national_basketball_team": 0.001957231197840808,
+        "United_States_Armed_Forces": 0.001969955101783694,
+        "United_States_national_rugby_union_team": 0.0017119599480542836,
+        "United_States_Davis_Cup_team": 0.0016947356750926315,
+        "United_States_Soccer_Federation": 0.0012796459842631057,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938162368906117,
+       "start": 18,
+       "end": 21,
+       "tokens": "New York Times",
+       "labelScoreMap": {
+        "The_New_York_Times": 0.9938162368906117,
+        "The_New_York_Times_Building": 0.003055333440627336,
+        "United_States_v._Libby": 0.001768876191758439,
+        "Jayson_Blair": 0.0013595534770025083,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.9238319109080848,
+       "start": 216,
+       "end": 217,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "Pakistan": 0.9238319109080848,
+        "Pakistan_national_cricket_team": 0.04017699438637429,
+        "Pakistan_national_football_team": 0.012044128554082106,
+        "Cartoon_Network_(Pakistan)": 0.0029498719064738393,
+        "Government_of_Pakistan": 0.003025948660395769,
+        "Dominion_of_Pakistan": 0.0030792747048839103,
+        "Church_of_Pakistan": 0.0023652111546639204,
+        "Pakistan_national_rugby_union_team": 0.002112750304375438,
+        "United_States_Ambassador_to_Pakistan": 0.002096126136721324,
+        "Communist_Party_of_Pakistan": 0.00199320158618171,
+        "A1_Team_Pakistan": 0.00176061606659062,
+        "Himalayan_salt": 0.0014815751060125067,
+        "Pakistan_women's_national_cricket_team": 0.0017469806070995123,
+        "Pakistan_Rugby_Union": 0.0013354099180599855,
+        "<unk_wid>": 8.333806531940863e-34
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "The_Times",
+       "score": 0.43404054417333415,
+       "start": 38,
+       "end": 39,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.03571176520264645,
+        "7180805|Times_Union_Center": 0.0020939290029971117
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.9261837650345346,
+       "start": 229,
+       "end": 230,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "1168579|Pakistan": 0.9261837650345346
+       }
+      },
+      {
+       "label": "Jill_Abramson",
+       "score": 1.0,
+       "start": 239,
+       "end": 241,
+       "tokens": "Jill Abramson",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Afghanistan",
+       "score": 0.8914978715762003,
+       "start": 221,
+       "end": 222,
+       "tokens": "Afghanistan",
+       "labelScoreMap": {
+        "1149361|Afghanistan": 0.8914978715762003
+       }
+      },
+      {
+       "label": "Thomas_J._Walsh",
+       "score": 0.12438862619864474,
+       "start": 135,
+       "end": 136,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "5062384|Walsh_County,_North_Dakota": 0.02722282841251064
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.5444808200737116,
+       "start": 0,
+       "end": 1,
+       "tokens": "PAKISTAN",
+       "labelScoreMap": {
+        "1168579|Pakistan": 0.5444808200737116
+       }
+      },
+      {
+       "label": "Davy_Walsh",
+       "score": 0.17694038267521128,
+       "start": 317,
+       "end": 318,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "5062384|Walsh_County,_North_Dakota": 0.025166731695369413
+       }
+      },
+      {
+       "label": "Raoul_Walsh",
+       "score": 0.11492700979758683,
+       "start": 146,
+       "end": 147,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "5062384|Walsh_County,_North_Dakota": 0.0749191631420637
+       }
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938161989293148,
+       "start": 2,
+       "end": 5,
+       "tokens": "NEW YORK TIMES",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.40404621558350956,
+       "start": 2,
+       "end": 4,
+       "tokens": "NEW YORK",
+       "labelScoreMap": {
+        "5128638|New_York": 0.3298661333536024,
+        "5128581|New_York_City": 0.15497568503724857,
+        "5128594|Manhattan": 0.001938254747947998,
+        "5130831|Peekskill,_New_York": 0.0006902299308298387
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 77,
+       "end": 79,
+       "tokens": "Declan Walsh",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Thomas_J._Walsh",
+       "score": 0.11053876319374131,
+       "start": 363,
+       "end": 364,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "5062384|Walsh_County,_North_Dakota": 0.025419747537986304
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.9229915038247188,
+       "start": 275,
+       "end": 276,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "1168579|Pakistan": 0.9229915038247188
+       }
+      },
+      {
+       "label": "Alaska_Interior",
+       "score": 0.1272820904912925,
+       "start": 231,
+       "end": 232,
+       "tokens": "interior",
+       "labelScoreMap": {
+        "3685413|Cundinamarca_Department": 0.027045091555186276,
+        "5983545|Interior_Plateau": 0.02502168918498665,
+        "4140827|United_States_Capitol": 0.008996612476236728,
+        "356475|Great_Pyramid_of_Giza": 0.007955814689457356,
+        "6619450|Pantheon,_Rome": 0.00797753745381394,
+        "7302742|Florence_Cathedral": 0.006242500865960571,
+        "6930645|Palace_of_Westminster": 0.0066791546229165765,
+        "6697946|Florence_Baptistery": 0.0035428676755344486,
+        "6957101|Buenos_Aires_Metropolitan_Cathedral": 0.0041569706414792485
+       }
+      },
+      {
+       "label": "Courtney_Walsh",
+       "score": 0.12425993836871904,
+       "start": 284,
+       "end": 285,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "5062384|Walsh_County,_North_Dakota": 0.0244136931973696
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.5967288405021477,
+       "start": 173,
+       "end": 174,
+       "tokens": "Britain",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.5967288405021477,
+        "8378485|Roman_Britain": 0.05303415185791278,
+        "6269131|England": 0.027102843174046,
+        "2654669|British_Isles": 0.0019001456347219876
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.49936865682000847,
+       "start": 18,
+       "end": 20,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.3298974977696195,
+        "5128581|New_York_City": 0.15408185003955818,
+        "5128594|Manhattan": 0.0018559021378957874,
+        "5130831|Peekskill,_New_York": 0.0006905429033407661
+       }
+      },
+      {
+       "label": "Interior_ministry",
+       "score": 0.4262795102602761,
+       "start": 10,
+       "end": 12,
+       "tokens": "Interior Ministry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "John_Walsh_(printer)",
+       "score": 0.2361714027151445,
+       "start": 255,
+       "end": 256,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "5062384|Walsh_County,_North_Dakota": 0.025084643698361216
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.8856624618166535,
+       "start": 8,
+       "end": 9,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "1168579|Pakistan": 0.8856624618166535
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.42901771348922413,
+       "start": 180,
+       "end": 181,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.06141909650946033,
+        "7180805|Times_Union_Center": 0.002083820792342113
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.9240509620417131,
+       "start": 138,
+       "end": 139,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "1168579|Pakistan": 0.9240509620417131
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 234,
+       "end": 238,
+       "tokens": "Malik Muhammad Habib Khan",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Islamabad",
+       "score": 0.9824920835313942,
+       "start": 24,
+       "end": 25,
+       "tokens": "Islamabad",
+       "labelScoreMap": {
+        "1176615|Islamabad": 0.9824920835313942,
+        "1162015|Islamabad_Capital_Territory": 0.009832493281199634,
+        "6300119|Benazir_Bhutto_International_Airport": 0.00133741744235768
+       }
+      },
+      {
+       "label": "Raoul_Walsh",
+       "score": 0.15791433799148885,
+       "start": 305,
+       "end": 306,
+       "tokens": "Walsh",
+       "labelScoreMap": {
+        "5062384|Walsh_County,_North_Dakota": 0.025221212319153627
+       }
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.927180833040784,
+       "start": 160,
+       "end": 161,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "1168579|Pakistan": 0.927180833040784
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9725677070568378,
+       "start": 204,
+       "end": 206,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9725677070568378
+       }
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938162368906117,
+       "start": 18,
+       "end": 21,
+       "tokens": "New York Times",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pakistan",
+       "score": 0.9238319109080848,
+       "start": 216,
+       "end": 217,
+       "tokens": "Pakistan",
+       "labelScoreMap": {
+        "1168579|Pakistan": 0.9238319109080848
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4467 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131211.0176.xml",
+ "text": "ALARM, BUT INACTION, IN MOMENTS BEFORE ASIANA AIRLINES CRASH\nThis article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nWASHINGTON - In the minutes before Asiana Airlines flight 214 crashed at San Francisco International Airport on July 6, 1 of the 3 pilots in the cockpit called out three times that the plane was descending too fast. But none of the pilots noticed that they were flying the plane too slowly until shortly before it hit the sea wall at the end of runway 28 Left.\nDocuments released Wednesday by the National Transportation Safety Board, which held a daylong hearing on the crash, show that inexperience and Korean culture played a role in the way the pilots handled the landing.\nThe captain, Lee Kang Kuk, who was flying the plane, told investigators that any of the three pilots could have decided to break off the approach, but for \u201cthe low-level people,\u201d including himself because he was being supervised by an instructor pilot, \u201cit\u2019s very hard,\u201d he said.\nHe also said that as the plane approached he was momentarily blinded by a bright light on the runway, possibly a reflection of the sun, but that he would not wear sunglasses because among Koreans that would be impolite.\nThe documents indicated that there was confusion among the crew about how the Boeing 777\u2019s auto throttles worked. Lee had just 35 hours experience in that model, and in an interview with investigators he appeared to have confused some details of the automation system with that of the Airbus A320, with which he had extensive experience.\nThe first mention that the plane was descending too fast came about a minute before impact, in English, which the crew was using on approach, according to a transcript of the flight data recorder. The second mention was also in English, but the third, about nine seconds after the first, was in Korean, a clue in the transcript about the intensity of the comment.\nNo one said the plane was too low until the last 30 seconds of the flight. Three seconds before impact, Lee made a comment indicating an attempt to re-engage the engines and abort the approach. The plane was then at an altitude of less than 30 feet.\nThe 777 hit the sea wall, breaking off the back of the fuselage. Despite a dramatic cartwheel and then a cloud of dust and smoke, only three passengers died.",
+ "tokens": [
+  "ALARM",
+  ",",
+  "BUT",
+  "INACTION",
+  ",",
+  "IN",
+  "MOMENTS",
+  "BEFORE",
+  "ASIANA",
+  "AIRLINES",
+  "CRASH",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "WASHINGTON",
+  "-",
+  "In",
+  "the",
+  "minutes",
+  "before",
+  "Asiana",
+  "Airlines",
+  "flight",
+  "214",
+  "crashed",
+  "at",
+  "San",
+  "Francisco",
+  "International",
+  "Airport",
+  "on",
+  "July",
+  "6",
+  ",",
+  "1",
+  "of",
+  "the",
+  "3",
+  "pilots",
+  "in",
+  "the",
+  "cockpit",
+  "called",
+  "out",
+  "three",
+  "times",
+  "that",
+  "the",
+  "plane",
+  "was",
+  "descending",
+  "too",
+  "fast",
+  ".",
+  "But",
+  "none",
+  "of",
+  "the",
+  "pilots",
+  "noticed",
+  "that",
+  "they",
+  "were",
+  "flying",
+  "the",
+  "plane",
+  "too",
+  "slowly",
+  "until",
+  "shortly",
+  "before",
+  "it",
+  "hit",
+  "the",
+  "sea",
+  "wall",
+  "at",
+  "the",
+  "end",
+  "of",
+  "runway",
+  "28",
+  "Left",
+  ".",
+  "Documents",
+  "released",
+  "Wednesday",
+  "by",
+  "the",
+  "National",
+  "Transportation",
+  "Safety",
+  "Board",
+  ",",
+  "which",
+  "held",
+  "a",
+  "daylong",
+  "hearing",
+  "on",
+  "the",
+  "crash",
+  ",",
+  "show",
+  "that",
+  "inexperience",
+  "and",
+  "Korean",
+  "culture",
+  "played",
+  "a",
+  "role",
+  "in",
+  "the",
+  "way",
+  "the",
+  "pilots",
+  "handled",
+  "the",
+  "landing",
+  ".",
+  "The",
+  "captain",
+  ",",
+  "Lee",
+  "Kang",
+  "Kuk",
+  ",",
+  "who",
+  "was",
+  "flying",
+  "the",
+  "plane",
+  ",",
+  "told",
+  "investigators",
+  "that",
+  "any",
+  "of",
+  "the",
+  "three",
+  "pilots",
+  "could",
+  "have",
+  "decided",
+  "to",
+  "break",
+  "off",
+  "the",
+  "approach",
+  ",",
+  "but",
+  "for",
+  "\u201c",
+  "the",
+  "low",
+  "-",
+  "level",
+  "people",
+  ",",
+  "\u201d",
+  "including",
+  "himself",
+  "because",
+  "he",
+  "was",
+  "being",
+  "supervised",
+  "by",
+  "an",
+  "instructor",
+  "pilot",
+  ",",
+  "\u201c",
+  "it",
+  "\u2019s",
+  "very",
+  "hard",
+  ",",
+  "\u201d",
+  "he",
+  "said",
+  ".",
+  "He",
+  "also",
+  "said",
+  "that",
+  "as",
+  "the",
+  "plane",
+  "approached",
+  "he",
+  "was",
+  "momentarily",
+  "blinded",
+  "by",
+  "a",
+  "bright",
+  "light",
+  "on",
+  "the",
+  "runway",
+  ",",
+  "possibly",
+  "a",
+  "reflection",
+  "of",
+  "the",
+  "sun",
+  ",",
+  "but",
+  "that",
+  "he",
+  "would",
+  "not",
+  "wear",
+  "sunglasses",
+  "because",
+  "among",
+  "Koreans",
+  "that",
+  "would",
+  "be",
+  "impolite",
+  ".",
+  "The",
+  "documents",
+  "indicated",
+  "that",
+  "there",
+  "was",
+  "confusion",
+  "among",
+  "the",
+  "crew",
+  "about",
+  "how",
+  "the",
+  "Boeing",
+  "777",
+  "\u2019",
+  "s",
+  "auto",
+  "throttles",
+  "worked",
+  ".",
+  "Lee",
+  "had",
+  "just",
+  "35",
+  "hours",
+  "experience",
+  "in",
+  "that",
+  "model",
+  ",",
+  "and",
+  "in",
+  "an",
+  "interview",
+  "with",
+  "investigators",
+  "he",
+  "appeared",
+  "to",
+  "have",
+  "confused",
+  "some",
+  "details",
+  "of",
+  "the",
+  "automation",
+  "system",
+  "with",
+  "that",
+  "of",
+  "the",
+  "Airbus",
+  "A320",
+  ",",
+  "with",
+  "which",
+  "he",
+  "had",
+  "extensive",
+  "experience",
+  ".",
+  "The",
+  "first",
+  "mention",
+  "that",
+  "the",
+  "plane",
+  "was",
+  "descending",
+  "too",
+  "fast",
+  "came",
+  "about",
+  "a",
+  "minute",
+  "before",
+  "impact",
+  ",",
+  "in",
+  "English",
+  ",",
+  "which",
+  "the",
+  "crew",
+  "was",
+  "using",
+  "on",
+  "approach",
+  ",",
+  "according",
+  "to",
+  "a",
+  "transcript",
+  "of",
+  "the",
+  "flight",
+  "data",
+  "recorder",
+  ".",
+  "The",
+  "second",
+  "mention",
+  "was",
+  "also",
+  "in",
+  "English",
+  ",",
+  "but",
+  "the",
+  "third",
+  ",",
+  "about",
+  "nine",
+  "seconds",
+  "after",
+  "the",
+  "first",
+  ",",
+  "was",
+  "in",
+  "Korean",
+  ",",
+  "a",
+  "clue",
+  "in",
+  "the",
+  "transcript",
+  "about",
+  "the",
+  "intensity",
+  "of",
+  "the",
+  "comment",
+  ".",
+  "No",
+  "one",
+  "said",
+  "the",
+  "plane",
+  "was",
+  "too",
+  "low",
+  "until",
+  "the",
+  "last",
+  "30",
+  "seconds",
+  "of",
+  "the",
+  "flight",
+  ".",
+  "Three",
+  "seconds",
+  "before",
+  "impact",
+  ",",
+  "Lee",
+  "made",
+  "a",
+  "comment",
+  "indicating",
+  "an",
+  "attempt",
+  "to",
+  "re",
+  "-",
+  "engage",
+  "the",
+  "engines",
+  "and",
+  "abort",
+  "the",
+  "approach",
+  ".",
+  "The",
+  "plane",
+  "was",
+  "then",
+  "at",
+  "an",
+  "altitude",
+  "of",
+  "less",
+  "than",
+  "30",
+  "feet",
+  ".",
+  "The",
+  "777",
+  "hit",
+  "the",
+  "sea",
+  "wall",
+  ",",
+  "breaking",
+  "off",
+  "the",
+  "back",
+  "of",
+  "the",
+  "fuselage",
+  ".",
+  "Despite",
+  "a",
+  "dramatic",
+  "cartwheel",
+  "and",
+  "then",
+  "a",
+  "cloud",
+  "of",
+  "dust",
+  "and",
+  "smoke",
+  ",",
+  "only",
+  "three",
+  "passengers",
+  "died",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   19,
+   79,
+   109,
+   146,
+   208,
+   250,
+   271,
+   312,
+   350,
+   385,
+   402,
+   425,
+   438,
+   453,
+   471
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 149,
+       "end": 152,
+       "tokens": "Lee Kang Kuk"
+      },
+      {
+       "label": "San_Francisco",
+       "score": 1.0,
+       "start": 51,
+       "end": 53,
+       "tokens": "San Francisco"
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 8,
+       "end": 10,
+       "tokens": "ASIANA AIRLINES"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 105,
+       "end": 108,
+       "tokens": "runway 28 Left"
+      },
+      {
+       "label": "National_Transportation_Safety_Board",
+       "score": 1.0,
+       "start": 114,
+       "end": 118,
+       "tokens": "National Transportation Safety Board"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "Lee"
+      },
+      {
+       "label": "San_Francisco_International_Airport_station",
+       "score": 1.0,
+       "start": 51,
+       "end": 55,
+       "tokens": "San Francisco International Airport"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 33,
+       "end": 35,
+       "tokens": "New York"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Lee"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Korean"
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 45,
+       "end": 47,
+       "tokens": "Asiana Airlines"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 149,
+       "end": 152,
+       "tokens": "Lee Kang Kuk"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 51,
+       "end": 53,
+       "tokens": "San Francisco"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 8,
+       "end": 10,
+       "tokens": "ASIANA AIRLINES"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 105,
+       "end": 108,
+       "tokens": "runway 28 Left"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 114,
+       "end": 118,
+       "tokens": "National Transportation Safety Board"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "Lee"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 51,
+       "end": 55,
+       "tokens": "San Francisco International Airport"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 33,
+       "end": 35,
+       "tokens": "New York"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Lee"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Korean"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 45,
+       "end": 47,
+       "tokens": "Asiana Airlines"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ALARM",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "ALARM"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": ","
+      },
+      {
+       "label": "BUT",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "BUT"
+      },
+      {
+       "label": "INACTION",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "INACTION"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": ","
+      },
+      {
+       "label": "IN",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "IN"
+      },
+      {
+       "label": "MOMENTS",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "MOMENTS"
+      },
+      {
+       "label": "BEFORE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "BEFORE"
+      },
+      {
+       "label": "ASIANA",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "ASIANA"
+      },
+      {
+       "label": "AIRLINES",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "AIRLINES"
+      },
+      {
+       "label": "CRASH",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "CRASH"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": ";"
+      },
+      {
+       "label": "WASHINGTON",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "-"
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "In"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "the"
+      },
+      {
+       "label": "minutes",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "minutes"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "before"
+      },
+      {
+       "label": "Asiana",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Asiana"
+      },
+      {
+       "label": "Airlines",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Airlines"
+      },
+      {
+       "label": "flight",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "flight"
+      },
+      {
+       "label": "214",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "214"
+      },
+      {
+       "label": "crashed",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "crashed"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "at"
+      },
+      {
+       "label": "San",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "San"
+      },
+      {
+       "label": "Francisco",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Francisco"
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "International"
+      },
+      {
+       "label": "Airport",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "Airport"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "on"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "July"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "6"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": ","
+      },
+      {
+       "label": "1",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "1"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "the"
+      },
+      {
+       "label": "3",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "3"
+      },
+      {
+       "label": "pilots",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "pilots"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "the"
+      },
+      {
+       "label": "cockpit",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "cockpit"
+      },
+      {
+       "label": "called",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "called"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "out"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "three"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "times"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "the"
+      },
+      {
+       "label": "plane",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "plane"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "was"
+      },
+      {
+       "label": "descending",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "descending"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "too"
+      },
+      {
+       "label": "fast",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "fast"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "But"
+      },
+      {
+       "label": "none",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "none"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "the"
+      },
+      {
+       "label": "pilots",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "pilots"
+      },
+      {
+       "label": "noticed",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "noticed"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "that"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "they"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "were"
+      },
+      {
+       "label": "flying",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "flying"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "the"
+      },
+      {
+       "label": "plane",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "plane"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "too"
+      },
+      {
+       "label": "slowly",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "slowly"
+      },
+      {
+       "label": "until",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "until"
+      },
+      {
+       "label": "shortly",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "shortly"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "before"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "it"
+      },
+      {
+       "label": "hit",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "hit"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "the"
+      },
+      {
+       "label": "sea",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "sea"
+      },
+      {
+       "label": "wall",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "wall"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "the"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "end"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "of"
+      },
+      {
+       "label": "runway",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "runway"
+      },
+      {
+       "label": "28",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "28"
+      },
+      {
+       "label": "Left",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Left"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "."
+      },
+      {
+       "label": "Documents",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Documents"
+      },
+      {
+       "label": "released",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "released"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "the"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "National"
+      },
+      {
+       "label": "Transportation",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Transportation"
+      },
+      {
+       "label": "Safety",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "Safety"
+      },
+      {
+       "label": "Board",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Board"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "which"
+      },
+      {
+       "label": "held",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "held"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "a"
+      },
+      {
+       "label": "daylong",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "daylong"
+      },
+      {
+       "label": "hearing",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "hearing"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "the"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "crash"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": ","
+      },
+      {
+       "label": "show",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "show"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "that"
+      },
+      {
+       "label": "inexperience",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "inexperience"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "and"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Korean"
+      },
+      {
+       "label": "culture",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "culture"
+      },
+      {
+       "label": "played",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "played"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "a"
+      },
+      {
+       "label": "role",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "role"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "the"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "way"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "the"
+      },
+      {
+       "label": "pilots",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "pilots"
+      },
+      {
+       "label": "handled",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "handled"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "the"
+      },
+      {
+       "label": "landing",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "landing"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "The"
+      },
+      {
+       "label": "captain",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "captain"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": ","
+      },
+      {
+       "label": "Lee",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "Lee"
+      },
+      {
+       "label": "Kang",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Kang"
+      },
+      {
+       "label": "Kuk",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Kuk"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "who"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "was"
+      },
+      {
+       "label": "flying",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "flying"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "the"
+      },
+      {
+       "label": "plane",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "plane"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": ","
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "told"
+      },
+      {
+       "label": "investigators",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "investigators"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "that"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "any"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "the"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "three"
+      },
+      {
+       "label": "pilots",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "pilots"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "could"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "have"
+      },
+      {
+       "label": "decided",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "decided"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "to"
+      },
+      {
+       "label": "break",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "break"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "off"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "the"
+      },
+      {
+       "label": "approach",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "approach"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "but"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "for"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "the"
+      },
+      {
+       "label": "low",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "low"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "-"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "level"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "people"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "including"
+      },
+      {
+       "label": "himself",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "himself"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "because"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "was"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "being"
+      },
+      {
+       "label": "supervised",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "supervised"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "by"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "an"
+      },
+      {
+       "label": "instructor",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "instructor"
+      },
+      {
+       "label": "pilot",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "pilot"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": ","
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "it"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "very",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "very"
+      },
+      {
+       "label": "hard",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "hard"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "He"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "also"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "that"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "the"
+      },
+      {
+       "label": "plane",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "plane"
+      },
+      {
+       "label": "approached",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "approached"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "was"
+      },
+      {
+       "label": "momentarily",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "momentarily"
+      },
+      {
+       "label": "blinded",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "blinded"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "a"
+      },
+      {
+       "label": "bright",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "bright"
+      },
+      {
+       "label": "light",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "light"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "the"
+      },
+      {
+       "label": "runway",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "runway"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": ","
+      },
+      {
+       "label": "possibly",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "possibly"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "a"
+      },
+      {
+       "label": "reflection",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "reflection"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "the"
+      },
+      {
+       "label": "sun",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "sun"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "but"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "he"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "would"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "not"
+      },
+      {
+       "label": "wear",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "wear"
+      },
+      {
+       "label": "sunglasses",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "sunglasses"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "because"
+      },
+      {
+       "label": "among",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "among"
+      },
+      {
+       "label": "Koreans",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "Koreans"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "be"
+      },
+      {
+       "label": "impolite",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "impolite"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "The"
+      },
+      {
+       "label": "documents",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "documents"
+      },
+      {
+       "label": "indicated",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "indicated"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "that"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "there"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "was"
+      },
+      {
+       "label": "confusion",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "confusion"
+      },
+      {
+       "label": "among",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "among"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "the"
+      },
+      {
+       "label": "crew",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "crew"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "about"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "how"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "the"
+      },
+      {
+       "label": "Boeing",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Boeing"
+      },
+      {
+       "label": "777",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "777"
+      },
+      {
+       "label": "\u2019",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "\u2019"
+      },
+      {
+       "label": "s",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "s"
+      },
+      {
+       "label": "auto",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "auto"
+      },
+      {
+       "label": "throttles",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "throttles"
+      },
+      {
+       "label": "worked",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "worked"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "."
+      },
+      {
+       "label": "Lee",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "Lee"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "had"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "just"
+      },
+      {
+       "label": "35",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "35"
+      },
+      {
+       "label": "hours",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "hours"
+      },
+      {
+       "label": "experience",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "experience"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "in"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "that"
+      },
+      {
+       "label": "model",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "model"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "and"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "in"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "an"
+      },
+      {
+       "label": "interview",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "interview"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "with"
+      },
+      {
+       "label": "investigators",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "investigators"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "he"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "appeared"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "have"
+      },
+      {
+       "label": "confused",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "confused"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "some"
+      },
+      {
+       "label": "details",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "details"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "the"
+      },
+      {
+       "label": "automation",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "automation"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "system"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "with"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "that"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "the"
+      },
+      {
+       "label": "Airbus",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Airbus"
+      },
+      {
+       "label": "A320",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "A320"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "with"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "which"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "he"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "had"
+      },
+      {
+       "label": "extensive",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "extensive"
+      },
+      {
+       "label": "experience",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "experience"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "The"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "first"
+      },
+      {
+       "label": "mention",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "mention"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "the"
+      },
+      {
+       "label": "plane",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "plane"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "was"
+      },
+      {
+       "label": "descending",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "descending"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "too"
+      },
+      {
+       "label": "fast",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "fast"
+      },
+      {
+       "label": "came",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "came"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "about"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "a"
+      },
+      {
+       "label": "minute",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "minute"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "before"
+      },
+      {
+       "label": "impact",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "impact"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "in"
+      },
+      {
+       "label": "English",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "English"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "which"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "the"
+      },
+      {
+       "label": "crew",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "crew"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "was"
+      },
+      {
+       "label": "using",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "using"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "on"
+      },
+      {
+       "label": "approach",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "approach"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "a"
+      },
+      {
+       "label": "transcript",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "transcript"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "the"
+      },
+      {
+       "label": "flight",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "flight"
+      },
+      {
+       "label": "data",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "data"
+      },
+      {
+       "label": "recorder",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "recorder"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "The"
+      },
+      {
+       "label": "second",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "second"
+      },
+      {
+       "label": "mention",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "mention"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "was"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "also"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "in"
+      },
+      {
+       "label": "English",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "English"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "but"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "the"
+      },
+      {
+       "label": "third",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "third"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": ","
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "about"
+      },
+      {
+       "label": "nine",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "nine"
+      },
+      {
+       "label": "seconds",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "seconds"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "first"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": ","
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "was"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "in"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "Korean"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "a"
+      },
+      {
+       "label": "clue",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "clue"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "the"
+      },
+      {
+       "label": "transcript",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "transcript"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "about"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "the"
+      },
+      {
+       "label": "intensity",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "intensity"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "the"
+      },
+      {
+       "label": "comment",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "comment"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "."
+      },
+      {
+       "label": "No",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "No"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "one"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "the"
+      },
+      {
+       "label": "plane",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "plane"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "was"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "too"
+      },
+      {
+       "label": "low",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "low"
+      },
+      {
+       "label": "until",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "until"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "the"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "last"
+      },
+      {
+       "label": "30",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "30"
+      },
+      {
+       "label": "seconds",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "seconds"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "the"
+      },
+      {
+       "label": "flight",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "flight"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "."
+      },
+      {
+       "label": "Three",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Three"
+      },
+      {
+       "label": "seconds",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "seconds"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "before"
+      },
+      {
+       "label": "impact",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "impact"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": ","
+      },
+      {
+       "label": "Lee",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "Lee"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "made"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "a"
+      },
+      {
+       "label": "comment",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "comment"
+      },
+      {
+       "label": "indicating",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "indicating"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "an"
+      },
+      {
+       "label": "attempt",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "attempt"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "to"
+      },
+      {
+       "label": "re",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "re"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "-"
+      },
+      {
+       "label": "engage",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "engage"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "the"
+      },
+      {
+       "label": "engines",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "engines"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "and"
+      },
+      {
+       "label": "abort",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "abort"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "the"
+      },
+      {
+       "label": "approach",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "approach"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "The"
+      },
+      {
+       "label": "plane",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "plane"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "was"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "then"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "at"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "an"
+      },
+      {
+       "label": "altitude",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "altitude"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "of"
+      },
+      {
+       "label": "less",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "less"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "than"
+      },
+      {
+       "label": "30",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "30"
+      },
+      {
+       "label": "feet",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "feet"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "The"
+      },
+      {
+       "label": "777",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "777"
+      },
+      {
+       "label": "hit",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "hit"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "the"
+      },
+      {
+       "label": "sea",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "sea"
+      },
+      {
+       "label": "wall",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "wall"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": ","
+      },
+      {
+       "label": "breaking",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "breaking"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "off"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "the"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "back"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "the"
+      },
+      {
+       "label": "fuselage",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "fuselage"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "."
+      },
+      {
+       "label": "Despite",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "Despite"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "a"
+      },
+      {
+       "label": "dramatic",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "dramatic"
+      },
+      {
+       "label": "cartwheel",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "cartwheel"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "and"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "then"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "a"
+      },
+      {
+       "label": "cloud",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "cloud"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "of"
+      },
+      {
+       "label": "dust",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "dust"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "and"
+      },
+      {
+       "label": "smoke",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "smoke"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": ","
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "only"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "three"
+      },
+      {
+       "label": "passengers",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "passengers"
+      },
+      {
+       "label": "died",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "died"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 149,
+       "end": 152,
+       "tokens": "Lee Kang Kuk",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.48192348699756615,
+       "start": 51,
+       "end": 53,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "San_Francisco": 0.48192348699756615,
+        "Francis_of_Assisi": 0.001963370209864933,
+        "University_of_San_Francisco": 0.0019806309576935626,
+        "San_Francisco_F.C.": 0.0016784199690931428,
+        "San_Francisco_Giants": 0.0016476583031797647,
+        "San_Francisco_49ers": 0.0022056486801696534,
+        "San_Francisco_Mint": 0.005862741352820293,
+        "San_Francisco_International_Airport": 0.3964302479654288,
+        "San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)": 0.001161648104706564,
+        "San_Francisco,_C\u00f3rdoba": 0.0011019573263812343,
+        "Ed_Lee_(politician)": 0.0009137118813308836,
+        "Chinatown,_San_Francisco": 0.00966058488585161,
+        "1906_San_Francisco_earthquake": 0.0018646659061397307,
+        "San_Francisco_Dons_men's_basketball": 0.0008265740868846718,
+        "San_Francisco,_Cebu": 0.0008081025439423803,
+        "Pacific_Coast_Championships": 0.0007116852450748082,
+        "Golden_State_Warriors": 0.0007003074429952492,
+        "San_Francisco_Bay": 0.08739332688329614,
+        "Port_of_San_Francisco": 0.0011652312575803326,
+        "<unk_wid>": 7.522657838696591e-23
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 8,
+       "end": 10,
+       "tokens": "ASIANA AIRLINES",
+       "labelScoreMap": {
+        "Asiana_Airlines": 1.0,
+        "<unk_wid>": 2.5438261532155817e-24
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 105,
+       "end": 108,
+       "tokens": "runway 28 Left",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "National_Transportation_Safety_Board",
+       "score": 0.9987169578309036,
+       "start": 114,
+       "end": 118,
+       "tokens": "National Transportation Safety Board",
+       "labelScoreMap": {
+        "National_Transportation_Safety_Board": 0.9987169578309036,
+        "Exxon_Valdez_oil_spill": 0.0012830421690963596,
+        "<unk_wid>": 9.93645382823178e-44
+       }
+      },
+      {
+       "label": "Robert_E._Lee",
+       "score": 0.3405422831991607,
+       "start": 407,
+       "end": 408,
+       "tokens": "Lee",
+       "labelScoreMap": {
+        "Lee_(jeans)": 0.06924100653016857,
+        "Lee_County,_Florida": 0.052830233083520486,
+        "Robert_E._Lee": 0.3405422831991607,
+        "Lee_County,_Illinois": 0.02708080137657239,
+        "Lee_County,_Kentucky": 0.024022542235061253,
+        "Lee_County,_Georgia": 0.023298964844401478,
+        "Lee_County,_Virginia": 0.02069010144955961,
+        "Lee_County,_Alabama": 0.019604395396735436,
+        "Yuan_T._Lee": 0.019975244971769113,
+        "Lee,_New_Hampshire": 0.016950737180849215,
+        "Lee_County,_North_Carolina": 0.015515502251783666,
+        "Lee_County,_Mississippi": 0.014899691113364815,
+        "Lee,_Massachusetts": 0.015155908231439147,
+        "Lee,_London": 0.015327880772206362,
+        "Lee,_Maine": 0.014315965284761216,
+        "Cliff_Lee": 0.02155617479032083,
+        "Lee_County,_Iowa": 0.012803165016593586,
+        "Lee_County,_Arkansas": 0.01113346394197647,
+        "Harper_Lee": 0.04057391995895683,
+        "Lee_County,_South_Carolina": 0.010966064592557426,
+        "Bruce_Lee": 0.041151237097906614,
+        "Lee_MacPhail": 0.03206519324924971,
+        "Charles_Lee_(attorney_general)": 0.00860792813831063,
+        "Lee_County,_Texas": 0.008228954255256868,
+        "Tsung-Dao_Lee": 0.009076033428807835,
+        "Richard_Henry_Lee": 0.06704636385681396,
+        "Gordon_Lee_(footballer)": 0.009857796238709927,
+        "River_Lee": 0.008651696808752754,
+        "Lee_Chung-yong": 0.00985095860474104,
+        "Colin_Lee": 0.018979792099692167
+       }
+      },
+      {
+       "label": "San_Francisco_International_Airport",
+       "score": 0.9771627911022367,
+       "start": 51,
+       "end": 55,
+       "tokens": "San Francisco International Airport",
+       "labelScoreMap": {
+        "San_Francisco_International_Airport": 0.9771627911022367,
+        "San_Francisco_International_Airport_(BART_station)": 0.02283720889776317,
+        "<unk_wid>": 2.0805641678151357e-40
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.49804076965829114,
+       "start": 33,
+       "end": 35,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.33042438549402736,
+        "New_York_City": 0.1558627694196559,
+        "New_York_(magazine)": 0.49804076965829114,
+        "New_York_(film)": 0.002328768893025436,
+        "Province_of_New_York": 0.0019346805891378102,
+        "New_York_Knicks": 0.0018671593001097827,
+        "Manhattan": 0.00185156778067818,
+        "New_York_metropolitan_area": 0.0013551572118601636,
+        "New_York's_at-large_congressional_seat": 0.0012160191766382397,
+        "Eastern_Air_Defense_Sector": 0.0008914662216775248,
+        "New_York_Air_National_Guard": 0.0008092738233168013,
+        "Peekskill,_New_York": 0.0006912538202060093,
+        "New_York_Liberty": 0.0008136294837106373,
+        "New_York_Yankees": 0.0006800416445483211,
+        "September_11_attacks": 0.0006197752092943832,
+        "New_York_GAA": 0.0006132822738222033,
+        "<unk_wid>": 7.568008009222706e-35
+       }
+      },
+      {
+       "label": "Robert_E._Lee",
+       "score": 0.43039139741137944,
+       "start": 271,
+       "end": 272,
+       "tokens": "Lee",
+       "labelScoreMap": {
+        "Lee_(jeans)": 0.06969900726552995,
+        "Lee_County,_Florida": 0.06366372440057994,
+        "Robert_E._Lee": 0.43039139741137944,
+        "Lee_County,_Illinois": 0.027410570233619133,
+        "Lee_County,_Kentucky": 0.024184056748125553,
+        "Lee_County,_Georgia": 0.02316478097535475,
+        "Lee_County,_Virginia": 0.020821081231133683,
+        "Lee_County,_Alabama": 0.019769017894084966,
+        "Yuan_T._Lee": 0.0194203352331128,
+        "Lee,_New_Hampshire": 0.01700515480957999,
+        "Lee_County,_North_Carolina": 0.01573695833702956,
+        "Lee_County,_Mississippi": 0.01510364988106655,
+        "Lee,_Massachusetts": 0.015102125887989228,
+        "Lee,_London": 0.014763422035036665,
+        "Lee,_Maine": 0.01440857521962688,
+        "Cliff_Lee": 0.016961872000471518,
+        "Lee_County,_Iowa": 0.013009214840858837,
+        "Lee_County,_Arkansas": 0.011177749178397199,
+        "Harper_Lee": 0.019528052872225216,
+        "Lee_County,_South_Carolina": 0.010991177413684328,
+        "Bruce_Lee": 0.021081945501669353,
+        "Lee_MacPhail": 0.022541835583516853,
+        "Charles_Lee_(attorney_general)": 0.008663344889942672,
+        "Lee_County,_Texas": 0.00830501409483324,
+        "Tsung-Dao_Lee": 0.008504024605949886,
+        "Richard_Henry_Lee": 0.02592021652424279,
+        "Gordon_Lee_(footballer)": 0.008948456923843679,
+        "River_Lee": 0.011296040413275503,
+        "Lee_Chung-yong": 0.008086497388792819,
+        "Colin_Lee": 0.014340700205046939
+       }
+      },
+      {
+       "label": "Korean_language",
+       "score": 0.3168335990883943,
+       "start": 132,
+       "end": 133,
+       "tokens": "Korean",
+       "labelScoreMap": {
+        "Korean_language": 0.3168335990883943,
+        "Korea": 0.12893837806549985,
+        "Koreans": 0.1115689162249487,
+        "South_Korea": 0.06688614362877929,
+        "Korean_War": 0.027073021120412714,
+        "Hangul": 0.012066741958032966,
+        "Korean_Americans": 0.27352751531830966,
+        "Koreans_in_China": 0.043490461622052314,
+        "An_Jung-geun": 0.002932197600988991,
+        "Korean_Brazilians": 0.0022871165628271226,
+        "Seoul_Broadcasting_System": 0.0021616279878487092,
+        "The_Battle_for_Wesnoth": 0.0016566925339426529,
+        "Korean_Australians": 0.001422115501193705,
+        "Tiv_people": 0.0023235282041588006,
+        "Hyundai_Accent": 0.0011628376435754405,
+        "Koreans_in_the_Philippines": 0.0011142370339470786,
+        "Korean_Grand_Prix": 0.0008363387506449929,
+        "Korean_Canadians": 0.0037185311544426754,
+        "<unk_wid>": 2.2138950918940588e-23
+       }
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.631853725035234,
+       "start": 39,
+       "end": 40,
+       "tokens": "WASHINGTON",
+       "labelScoreMap": {
+        "Washington,_D.C.": 0.631853725035234,
+        "George_Washington": 0.047791454815979524,
+        "University_of_Washington": 0.036243239862720815,
+        "Washington,_Pennsylvania": 0.016914924236366105,
+        "Washington_County,_New_York": 0.01573157651794038,
+        "Washington_County,_Pennsylvania": 0.014338083053291852,
+        "Washington_Huskies_football": 0.01413531883850904,
+        "Washington_County,_Nebraska": 0.013005508461393348,
+        "Washington_(footballer)": 0.012868238166073022,
+        "Washington_County,_Oregon": 0.01279972676308896,
+        "Washington,_Tyne_and_Wear": 0.012393108969723102,
+        "Washington_County,_Iowa": 0.012810535761411076,
+        "Washington_County,_Wisconsin": 0.012153599259920166,
+        "Washington,_Oklahoma": 0.010138641525439761,
+        "Washington_County,_Maine": 0.010228500750106851,
+        "Washington_County,_Illinois": 0.009281445375735553,
+        "Washington,_Indiana": 0.009798838712867545,
+        "Washington_Wizards": 0.008319330590619888,
+        "Washington_County,_Ohio": 0.008539077143323769,
+        "Washington_County,_Tennessee": 0.011401695365940767,
+        "Washington_County,_Florida": 0.00813786051178372,
+        "Washington_National_Guard": 0.007599048332940866,
+        "Washington,_Utah": 0.008087903181110167,
+        "Washington_Capitals": 0.007398889335544642,
+        "Washington_County,_Rhode_Island": 0.007156630228817961,
+        "Washington_County,_Utah": 0.0072695414803171515,
+        "Washington_County,_Colorado": 0.007092338417024837,
+        "Washington_County,_Maryland": 0.007360494898677578,
+        "Washington,_Georgia": 0.006552430785519002,
+        "Washington_County,_Minnesota": 0.012598293622578319
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 45,
+       "end": 47,
+       "tokens": "Asiana Airlines",
+       "labelScoreMap": {
+        "Asiana_Airlines": 1.0,
+        "<unk_wid>": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 149,
+       "end": 152,
+       "tokens": "Lee Kang Kuk",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.48192348699756615,
+       "start": 51,
+       "end": 53,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "5391997|San_Francisco": 0.48192348699756615,
+        "5404904|University_of_San_Francisco": 0.0019806309576935626,
+        "5379047|San_Francisco_Mint": 0.005862741352820293,
+        "5391989|San_Francisco_International_Airport": 0.3964302479654288,
+        "3837675|San_Francisco,_C\u00f3rdoba": 0.0011019573263812343,
+        "1690011|San_Francisco,_Cebu": 0.0008081025439423803,
+        "5391961|San_Francisco_Bay": 0.08739332688329614
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 8,
+       "end": 10,
+       "tokens": "ASIANA AIRLINES",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 105,
+       "end": 108,
+       "tokens": "runway 28 Left",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Transportation_Safety_Board",
+       "score": 0.9987169578309036,
+       "start": 114,
+       "end": 118,
+       "tokens": "National Transportation Safety Board",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Robert_E._Lee",
+       "score": 0.3405422831991607,
+       "start": 407,
+       "end": 408,
+       "tokens": "Lee",
+       "labelScoreMap": {
+        "4161743|Lee_County,_Florida": 0.052830233083520486,
+        "4899519|Lee_County,_Illinois": 0.02708080137657239,
+        "4297704|Lee_County,_Kentucky": 0.024022542235061253,
+        "4205331|Lee_County,_Georgia": 0.023298964844401478,
+        "4769028|Lee_County,_Virginia": 0.02069010144955961,
+        "4072098|Lee_County,_Alabama": 0.019604395396735436,
+        "5088619|Lee,_New_Hampshire": 0.016950737180849215,
+        "4475520|Lee_County,_North_Carolina": 0.015515502251783666,
+        "4433190|Lee_County,_Mississippi": 0.014899691113364815,
+        "4941797|Lee,_Massachusetts": 0.015155908231439147,
+        "4969317|Lee,_Maine": 0.014315965284761216,
+        "4864395|Lee_County,_Iowa": 0.012803165016593586,
+        "4118578|Lee_County,_Arkansas": 0.01113346394197647,
+        "4584845|Lee_County,_South_Carolina": 0.010966064592557426,
+        "4705758|Lee_County,_Texas": 0.008228954255256868
+       }
+      },
+      {
+       "label": "San_Francisco_International_Airport",
+       "score": 0.9771627911022367,
+       "start": 51,
+       "end": 55,
+       "tokens": "San Francisco International Airport",
+       "labelScoreMap": {
+        "5391989|San_Francisco_International_Airport": 0.9771627911022367
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.49804076965829114,
+       "start": 33,
+       "end": 35,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.33042438549402736,
+        "5128581|New_York_City": 0.1558627694196559,
+        "5128594|Manhattan": 0.00185156778067818,
+        "5130831|Peekskill,_New_York": 0.0006912538202060093
+       }
+      },
+      {
+       "label": "Robert_E._Lee",
+       "score": 0.43039139741137944,
+       "start": 271,
+       "end": 272,
+       "tokens": "Lee",
+       "labelScoreMap": {
+        "4161743|Lee_County,_Florida": 0.06366372440057994,
+        "4899519|Lee_County,_Illinois": 0.027410570233619133,
+        "4297704|Lee_County,_Kentucky": 0.024184056748125553,
+        "4205331|Lee_County,_Georgia": 0.02316478097535475,
+        "4769028|Lee_County,_Virginia": 0.020821081231133683,
+        "4072098|Lee_County,_Alabama": 0.019769017894084966,
+        "5088619|Lee,_New_Hampshire": 0.01700515480957999,
+        "4475520|Lee_County,_North_Carolina": 0.01573695833702956,
+        "4433190|Lee_County,_Mississippi": 0.01510364988106655,
+        "4941797|Lee,_Massachusetts": 0.015102125887989228,
+        "4969317|Lee,_Maine": 0.01440857521962688,
+        "4864395|Lee_County,_Iowa": 0.013009214840858837,
+        "4118578|Lee_County,_Arkansas": 0.011177749178397199,
+        "4584845|Lee_County,_South_Carolina": 0.010991177413684328,
+        "4705758|Lee_County,_Texas": 0.00830501409483324
+       }
+      },
+      {
+       "label": "Korean_language",
+       "score": 0.3168335990883943,
+       "start": 132,
+       "end": 133,
+       "tokens": "Korean",
+       "labelScoreMap": {
+        "1835841|Korea": 0.12893837806549985
+       }
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.631853725035234,
+       "start": 39,
+       "end": 40,
+       "tokens": "WASHINGTON",
+       "labelScoreMap": {
+        "4140963|Washington,_D.C.": 0.631853725035234,
+        "5814448|University_of_Washington": 0.036243239862720815,
+        "5218069|Washington,_Pennsylvania": 0.016914924236366105,
+        "5143303|Washington_County,_New_York": 0.01573157651794038,
+        "5218076|Washington_County,_Pennsylvania": 0.014338083053291852,
+        "5081383|Washington_County,_Nebraska": 0.013005508461393348,
+        "5759333|Washington_County,_Oregon": 0.01279972676308896,
+        "2634715|Washington,_Tyne_and_Wear": 0.012393108969723102,
+        "4880748|Washington_County,_Iowa": 0.012810535761411076,
+        "5277887|Washington_County,_Wisconsin": 0.012153599259920166,
+        "4554703|Washington,_Oklahoma": 0.010138641525439761,
+        "4982182|Washington_County,_Maine": 0.010228500750106851,
+        "4252486|Washington_County,_Illinois": 0.009281445375735553,
+        "4266586|Washington,_Indiana": 0.009798838712867545,
+        "4527654|Washington_County,_Ohio": 0.008539077143323769,
+        "4665975|Washington_County,_Tennessee": 0.011401695365940767,
+        "4177485|Washington_County,_Florida": 0.00813786051178372,
+        "5549222|Washington,_Utah": 0.008087903181110167,
+        "5225535|Washington_County,_Rhode_Island": 0.007156630228817961,
+        "5549225|Washington_County,_Utah": 0.0072695414803171515,
+        "5443305|Washington_County,_Colorado": 0.007092338417024837,
+        "4372777|Washington_County,_Maryland": 0.007360494898677578,
+        "4229546|Washington,_Georgia": 0.006552430785519002,
+        "5051936|Washington_County,_Minnesota": 0.012598293622578319
+       }
+      },
+      {
+       "label": "Asiana_Airlines",
+       "score": 1.0,
+       "start": 45,
+       "end": 47,
+       "tokens": "Asiana Airlines",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

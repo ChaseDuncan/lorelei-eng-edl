@@ -1,0 +1,3776 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130621.0120.xml",
+ "text": "MANCHIN HAS RETORT FOR NRA IN NEW AD\nSen. Joe Manchin III of West Virginia, an A-rated National Rifle Association member who has angered gun rights groups by pushing for stronger background checks, is back on television with a rifle in his hands.\nBut Manchin, a Democrat who appeared in a 2010 campaign commercial that showed him firing a bullet through a piece of environmental legislation, is taking aim at the NRA this time, at least in the figurative sense.\nIn a new commercial, the senator, who is not up for re-election until 2018, tries to turn the tables on the NRA, which has accused him of walking away from his commitment to honor the Second Amendment.\n\u201cWest Virginia, you know me. I haven\u2019t changed,\u201d said Manchin, who was governor of the state before he was elected senator. \u201cNow I believe that we can protect the Second Amendment and make our community safer. I think most law-abiding gun owners agree with me.\u201d\nHe says defiantly that he does not march in lock step with the NRA\u2019s Washington leadership.\nThe ad is rich with imagery that is meant to resonate in West Virginia\u2019s sports-shooting culture. Manchin is shown strolling through a field, aiming the rifle and polishing it as he sits in the back of a pickup truck.\nThe ad is a direct response to an NRA television campaign against Manchin. The gun group has been running an ad in West Virginia accusing Manchin of siding with President Barack Obama and Mayor Michael R. Bloomberg of New York, an ardent proponent of gun control who has been waging his own campaign against senators who do not support gun control.\nA Manchin campaign aide said that the ad buy was about $100,000, enough to rival the NRA\u2019s campaign.",
+ "tokens": [
+  "MANCHIN",
+  "HAS",
+  "RETORT",
+  "FOR",
+  "NRA",
+  "IN",
+  "NEW",
+  "AD",
+  "Sen.",
+  "Joe",
+  "Manchin",
+  "III",
+  "of",
+  "West",
+  "Virginia",
+  ",",
+  "an",
+  "A",
+  "-",
+  "rated",
+  "National",
+  "Rifle",
+  "Association",
+  "member",
+  "who",
+  "has",
+  "angered",
+  "gun",
+  "rights",
+  "groups",
+  "by",
+  "pushing",
+  "for",
+  "stronger",
+  "background",
+  "checks",
+  ",",
+  "is",
+  "back",
+  "on",
+  "television",
+  "with",
+  "a",
+  "rifle",
+  "in",
+  "his",
+  "hands",
+  ".",
+  "But",
+  "Manchin",
+  ",",
+  "a",
+  "Democrat",
+  "who",
+  "appeared",
+  "in",
+  "a",
+  "2010",
+  "campaign",
+  "commercial",
+  "that",
+  "showed",
+  "him",
+  "firing",
+  "a",
+  "bullet",
+  "through",
+  "a",
+  "piece",
+  "of",
+  "environmental",
+  "legislation",
+  ",",
+  "is",
+  "taking",
+  "aim",
+  "at",
+  "the",
+  "NRA",
+  "this",
+  "time",
+  ",",
+  "at",
+  "least",
+  "in",
+  "the",
+  "figurative",
+  "sense",
+  ".",
+  "In",
+  "a",
+  "new",
+  "commercial",
+  ",",
+  "the",
+  "senator",
+  ",",
+  "who",
+  "is",
+  "not",
+  "up",
+  "for",
+  "re",
+  "-",
+  "election",
+  "until",
+  "2018",
+  ",",
+  "tries",
+  "to",
+  "turn",
+  "the",
+  "tables",
+  "on",
+  "the",
+  "NRA",
+  ",",
+  "which",
+  "has",
+  "accused",
+  "him",
+  "of",
+  "walking",
+  "away",
+  "from",
+  "his",
+  "commitment",
+  "to",
+  "honor",
+  "the",
+  "Second",
+  "Amendment",
+  ".",
+  "\u201c",
+  "West",
+  "Virginia",
+  ",",
+  "you",
+  "know",
+  "me",
+  ".",
+  "I",
+  "have",
+  "n\u2019t",
+  "changed",
+  ",",
+  "\u201d",
+  "said",
+  "Manchin",
+  ",",
+  "who",
+  "was",
+  "governor",
+  "of",
+  "the",
+  "state",
+  "before",
+  "he",
+  "was",
+  "elected",
+  "senator",
+  ".",
+  "\u201c",
+  "Now",
+  "I",
+  "believe",
+  "that",
+  "we",
+  "can",
+  "protect",
+  "the",
+  "Second",
+  "Amendment",
+  "and",
+  "make",
+  "our",
+  "community",
+  "safer",
+  ".",
+  "I",
+  "think",
+  "most",
+  "law",
+  "-",
+  "abiding",
+  "gun",
+  "owners",
+  "agree",
+  "with",
+  "me",
+  ".",
+  "\u201d",
+  "He",
+  "says",
+  "defiantly",
+  "that",
+  "he",
+  "does",
+  "not",
+  "march",
+  "in",
+  "lock",
+  "step",
+  "with",
+  "the",
+  "NRA",
+  "\u2019s",
+  "Washington",
+  "leadership",
+  ".",
+  "The",
+  "ad",
+  "is",
+  "rich",
+  "with",
+  "imagery",
+  "that",
+  "is",
+  "meant",
+  "to",
+  "resonate",
+  "in",
+  "West",
+  "Virginia",
+  "\u2019s",
+  "sports",
+  "-",
+  "shooting",
+  "culture",
+  ".",
+  "Manchin",
+  "is",
+  "shown",
+  "strolling",
+  "through",
+  "a",
+  "field",
+  ",",
+  "aiming",
+  "the",
+  "rifle",
+  "and",
+  "polishing",
+  "it",
+  "as",
+  "he",
+  "sits",
+  "in",
+  "the",
+  "back",
+  "of",
+  "a",
+  "pickup",
+  "truck",
+  ".",
+  "The",
+  "ad",
+  "is",
+  "a",
+  "direct",
+  "response",
+  "to",
+  "an",
+  "NRA",
+  "television",
+  "campaign",
+  "against",
+  "Manchin",
+  ".",
+  "The",
+  "gun",
+  "group",
+  "has",
+  "been",
+  "running",
+  "an",
+  "ad",
+  "in",
+  "West",
+  "Virginia",
+  "accusing",
+  "Manchin",
+  "of",
+  "siding",
+  "with",
+  "President",
+  "Barack",
+  "Obama",
+  "and",
+  "Mayor",
+  "Michael",
+  "R.",
+  "Bloomberg",
+  "of",
+  "New",
+  "York",
+  ",",
+  "an",
+  "ardent",
+  "proponent",
+  "of",
+  "gun",
+  "control",
+  "who",
+  "has",
+  "been",
+  "waging",
+  "his",
+  "own",
+  "campaign",
+  "against",
+  "senators",
+  "who",
+  "do",
+  "not",
+  "support",
+  "gun",
+  "control",
+  ".",
+  "A",
+  "Manchin",
+  "campaign",
+  "aide",
+  "said",
+  "that",
+  "the",
+  "ad",
+  "buy",
+  "was",
+  "about",
+  "$100,000",
+  ",",
+  "enough",
+  "to",
+  "rival",
+  "the",
+  "NRA",
+  "\u2019s",
+  "campaign",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   48,
+   89,
+   133,
+   141,
+   162,
+   179,
+   210,
+   230,
+   255,
+   269,
+   319,
+   340
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "National_Rifle_Association",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "NRA"
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Washington"
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 1.0,
+       "start": 20,
+       "end": 23,
+       "tokens": "National Rifle Association"
+      },
+      {
+       "label": "West_Virginia",
+       "score": 1.0,
+       "start": 278,
+       "end": 280,
+       "tokens": "West Virginia"
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 9,
+       "end": 12,
+       "tokens": "Joe Manchin III"
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "West_Virginia",
+       "score": 1.0,
+       "start": 13,
+       "end": 15,
+       "tokens": "West Virginia"
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "Michael_Bloomberg",
+       "score": 1.0,
+       "start": 290,
+       "end": 293,
+       "tokens": "Michael R. Bloomberg"
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "NRA"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 294,
+       "end": 296,
+       "tokens": "New York"
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "MANCHIN"
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "NRA"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 286,
+       "end": 288,
+       "tokens": "Barack Obama"
+      },
+      {
+       "label": "West_Virginia",
+       "score": 1.0,
+       "start": 222,
+       "end": 224,
+       "tokens": "West Virginia"
+      },
+      {
+       "label": "West_Virginia",
+       "score": 1.0,
+       "start": 134,
+       "end": 136,
+       "tokens": "West Virginia"
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "NRA"
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "NRA"
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "NRA"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "NRA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Washington"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 20,
+       "end": 23,
+       "tokens": "National Rifle Association"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 278,
+       "end": 280,
+       "tokens": "West Virginia"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 9,
+       "end": 12,
+       "tokens": "Joe Manchin III"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 13,
+       "end": 15,
+       "tokens": "West Virginia"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 290,
+       "end": 293,
+       "tokens": "Michael R. Bloomberg"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "NRA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 294,
+       "end": 296,
+       "tokens": "New York"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "MANCHIN"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "NRA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 286,
+       "end": 288,
+       "tokens": "Barack Obama"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 222,
+       "end": 224,
+       "tokens": "West Virginia"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 134,
+       "end": 136,
+       "tokens": "West Virginia"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "NRA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "NRA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "NRA"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "MANCHIN",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "MANCHIN"
+      },
+      {
+       "label": "HAS",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "HAS"
+      },
+      {
+       "label": "RETORT",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "RETORT"
+      },
+      {
+       "label": "FOR",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "FOR"
+      },
+      {
+       "label": "NRA",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "NRA"
+      },
+      {
+       "label": "IN",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "IN"
+      },
+      {
+       "label": "NEW",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "NEW"
+      },
+      {
+       "label": "AD",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "AD"
+      },
+      {
+       "label": "Sen.",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Sen."
+      },
+      {
+       "label": "Joe",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Joe"
+      },
+      {
+       "label": "Manchin",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "III",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "III"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "of"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "West"
+      },
+      {
+       "label": "Virginia",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "Virginia"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "an"
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "A"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "-"
+      },
+      {
+       "label": "rated",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "rated"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "National"
+      },
+      {
+       "label": "Rifle",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Rifle"
+      },
+      {
+       "label": "Association",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "Association"
+      },
+      {
+       "label": "member",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "member"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "who"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "has"
+      },
+      {
+       "label": "angered",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "angered"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "gun"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "rights"
+      },
+      {
+       "label": "groups",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "groups"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "by"
+      },
+      {
+       "label": "pushing",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "pushing"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "for"
+      },
+      {
+       "label": "stronger",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "stronger"
+      },
+      {
+       "label": "background",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "background"
+      },
+      {
+       "label": "checks",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "checks"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "is"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "back"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "on"
+      },
+      {
+       "label": "television",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "television"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "a"
+      },
+      {
+       "label": "rifle",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "rifle"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "in"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "his"
+      },
+      {
+       "label": "hands",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "hands"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "But"
+      },
+      {
+       "label": "Manchin",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Manchin"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "a"
+      },
+      {
+       "label": "Democrat",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Democrat"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "who"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "appeared"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "a"
+      },
+      {
+       "label": "2010",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "2010"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "campaign"
+      },
+      {
+       "label": "commercial",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "commercial"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "that"
+      },
+      {
+       "label": "showed",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "showed"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "him"
+      },
+      {
+       "label": "firing",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "firing"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "a"
+      },
+      {
+       "label": "bullet",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "bullet"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "through"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "a"
+      },
+      {
+       "label": "piece",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "piece"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "of"
+      },
+      {
+       "label": "environmental",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "environmental"
+      },
+      {
+       "label": "legislation",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "legislation"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "is"
+      },
+      {
+       "label": "taking",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "taking"
+      },
+      {
+       "label": "aim",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "aim"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "the"
+      },
+      {
+       "label": "NRA",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "NRA"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "this"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "time"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": ","
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "at"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "least"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "the"
+      },
+      {
+       "label": "figurative",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "figurative"
+      },
+      {
+       "label": "sense",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "sense"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "In"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "a"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "new"
+      },
+      {
+       "label": "commercial",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "commercial"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "the"
+      },
+      {
+       "label": "senator",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "senator"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "who"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "is"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "not"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "up"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "for"
+      },
+      {
+       "label": "re",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "re"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "-"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "election"
+      },
+      {
+       "label": "until",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "until"
+      },
+      {
+       "label": "2018",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "2018"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": ","
+      },
+      {
+       "label": "tries",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "tries"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "to"
+      },
+      {
+       "label": "turn",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "turn"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "the"
+      },
+      {
+       "label": "tables",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "tables"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "the"
+      },
+      {
+       "label": "NRA",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "NRA"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "which"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "has"
+      },
+      {
+       "label": "accused",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "accused"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "him"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "of"
+      },
+      {
+       "label": "walking",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "walking"
+      },
+      {
+       "label": "away",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "away"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "from"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "his"
+      },
+      {
+       "label": "commitment",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "commitment"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "to"
+      },
+      {
+       "label": "honor",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "honor"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "the"
+      },
+      {
+       "label": "Second",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "Second"
+      },
+      {
+       "label": "Amendment",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "Amendment"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "West"
+      },
+      {
+       "label": "Virginia",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Virginia"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": ","
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "you"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "know"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "me"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "have"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "changed",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "changed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "said"
+      },
+      {
+       "label": "Manchin",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "Manchin"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "who"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "was"
+      },
+      {
+       "label": "governor",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "governor"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "the"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "state"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "before"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "was"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "elected"
+      },
+      {
+       "label": "senator",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "senator"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "Now",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Now"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "I"
+      },
+      {
+       "label": "believe",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "believe"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "we"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "can"
+      },
+      {
+       "label": "protect",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "protect"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "the"
+      },
+      {
+       "label": "Second",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "Second"
+      },
+      {
+       "label": "Amendment",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "Amendment"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "and"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "make"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "our"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "community"
+      },
+      {
+       "label": "safer",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "safer"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "I"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "think"
+      },
+      {
+       "label": "most",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "most"
+      },
+      {
+       "label": "law",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "law"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "-"
+      },
+      {
+       "label": "abiding",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "abiding"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "gun"
+      },
+      {
+       "label": "owners",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "owners"
+      },
+      {
+       "label": "agree",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "agree"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "with"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "me"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "He"
+      },
+      {
+       "label": "says",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "says"
+      },
+      {
+       "label": "defiantly",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "defiantly"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "he"
+      },
+      {
+       "label": "does",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "does"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "not"
+      },
+      {
+       "label": "march",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "march"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "in"
+      },
+      {
+       "label": "lock",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "lock"
+      },
+      {
+       "label": "step",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "step"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "the"
+      },
+      {
+       "label": "NRA",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "NRA"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "Washington",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Washington"
+      },
+      {
+       "label": "leadership",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "leadership"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "The"
+      },
+      {
+       "label": "ad",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "ad"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "is"
+      },
+      {
+       "label": "rich",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "rich"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "with"
+      },
+      {
+       "label": "imagery",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "imagery"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "that"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "is"
+      },
+      {
+       "label": "meant",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "meant"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "to"
+      },
+      {
+       "label": "resonate",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "resonate"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "in"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "West"
+      },
+      {
+       "label": "Virginia",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "Virginia"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "sports",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "sports"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "-"
+      },
+      {
+       "label": "shooting",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "shooting"
+      },
+      {
+       "label": "culture",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "culture"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "."
+      },
+      {
+       "label": "Manchin",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "is"
+      },
+      {
+       "label": "shown",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "shown"
+      },
+      {
+       "label": "strolling",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "strolling"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "through"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "a"
+      },
+      {
+       "label": "field",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "field"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": ","
+      },
+      {
+       "label": "aiming",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "aiming"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "the"
+      },
+      {
+       "label": "rifle",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "rifle"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "and"
+      },
+      {
+       "label": "polishing",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "polishing"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "it"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "as"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "he"
+      },
+      {
+       "label": "sits",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "sits"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "the"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "back"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "a"
+      },
+      {
+       "label": "pickup",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "pickup"
+      },
+      {
+       "label": "truck",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "truck"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "The"
+      },
+      {
+       "label": "ad",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "ad"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "a"
+      },
+      {
+       "label": "direct",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "direct"
+      },
+      {
+       "label": "response",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "response"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "to"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "an"
+      },
+      {
+       "label": "NRA",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "NRA"
+      },
+      {
+       "label": "television",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "television"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "campaign"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "against"
+      },
+      {
+       "label": "Manchin",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "Manchin"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "The"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "gun"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "group"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "been"
+      },
+      {
+       "label": "running",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "running"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "an"
+      },
+      {
+       "label": "ad",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "ad"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "in"
+      },
+      {
+       "label": "West",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "West"
+      },
+      {
+       "label": "Virginia",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "Virginia"
+      },
+      {
+       "label": "accusing",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "accusing"
+      },
+      {
+       "label": "Manchin",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "of"
+      },
+      {
+       "label": "siding",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "siding"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "with"
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "President"
+      },
+      {
+       "label": "Barack",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "Barack"
+      },
+      {
+       "label": "Obama",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "Obama"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "and"
+      },
+      {
+       "label": "Mayor",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Mayor"
+      },
+      {
+       "label": "Michael",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "Michael"
+      },
+      {
+       "label": "R.",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "R."
+      },
+      {
+       "label": "Bloomberg",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "Bloomberg"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "of"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "York"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "an"
+      },
+      {
+       "label": "ardent",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "ardent"
+      },
+      {
+       "label": "proponent",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "proponent"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "of"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "gun"
+      },
+      {
+       "label": "control",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "control"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "who"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "been"
+      },
+      {
+       "label": "waging",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "waging"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "his"
+      },
+      {
+       "label": "own",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "own"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "campaign"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "against"
+      },
+      {
+       "label": "senators",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "senators"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "who"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "do"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "not"
+      },
+      {
+       "label": "support",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "support"
+      },
+      {
+       "label": "gun",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "gun"
+      },
+      {
+       "label": "control",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "control"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "A"
+      },
+      {
+       "label": "Manchin",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "Manchin"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "campaign"
+      },
+      {
+       "label": "aide",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "aide"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "the"
+      },
+      {
+       "label": "ad",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "ad"
+      },
+      {
+       "label": "buy",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "buy"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "was"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "about"
+      },
+      {
+       "label": "$100,000",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "$100,000"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": ","
+      },
+      {
+       "label": "enough",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "enough"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "to"
+      },
+      {
+       "label": "rival",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "rival"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "the"
+      },
+      {
+       "label": "NRA",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "NRA"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "campaign",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "campaign"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.7032571814443739,
+       "start": 4,
+       "end": 5,
+       "tokens": "NRA",
+       "labelScoreMap": {
+        "National_Rifle_Association": 0.7032571814443739,
+        "National_Recovery_Administration": 0.09199019934903369,
+        "National_Resistance_Army": 0.029076704319502454,
+        "National_Revolutionary_Army": 0.06600254963623527,
+        "National_Industrial_Recovery_Act": 0.014716419070778388,
+        "National_Roads_Authority": 0.09114446863691052,
+        "National_Rifle_Association_of_the_United_Kingdom": 0.0038124775431659288,
+        "<unk_wid>": 3.1991230715664137e-37
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Manchin",
+       "labelScoreMap": {
+        "Joe_Manchin": 1.0,
+        "<unk_wid>": 7.275048369715008e-39
+       }
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.6160563746475551,
+       "start": 207,
+       "end": 208,
+       "tokens": "Washington",
+       "labelScoreMap": {
+        "Washington,_D.C.": 0.6160563746475551,
+        "George_Washington": 0.05212967219212994,
+        "University_of_Washington": 0.04779325731906778,
+        "Washington,_Pennsylvania": 0.016673675860918332,
+        "Washington_County,_New_York": 0.017638949265304005,
+        "Washington_County,_Pennsylvania": 0.016610532612421326,
+        "Washington_Huskies_football": 0.014048695140555649,
+        "Washington_County,_Nebraska": 0.012885050880757682,
+        "Washington_(footballer)": 0.01275880437437375,
+        "Washington_County,_Oregon": 0.012946894889029897,
+        "Washington,_Tyne_and_Wear": 0.012262194246325197,
+        "Washington_County,_Iowa": 0.01233090755682124,
+        "Washington_County,_Wisconsin": 0.011914079349549512,
+        "Washington,_Oklahoma": 0.01005238669788382,
+        "Washington_County,_Maine": 0.0099013696181778,
+        "Washington_County,_Illinois": 0.009320452251575129,
+        "Washington,_Indiana": 0.009143153542864749,
+        "Washington_Wizards": 0.00825065497736311,
+        "Washington_County,_Ohio": 0.008322416881463185,
+        "Washington_County,_Tennessee": 0.008096607796556734,
+        "Washington_County,_Florida": 0.007759355314399018,
+        "Washington_National_Guard": 0.007487335309384,
+        "Washington,_Utah": 0.007334367304496818,
+        "Washington_Capitals": 0.0072050098807436075,
+        "Washington_County,_Rhode_Island": 0.00710962821360984,
+        "Washington_County,_Utah": 0.007091751936802514,
+        "Washington_County,_Colorado": 0.008251712384744163,
+        "Washington_County,_Maryland": 0.00977107989423622,
+        "Washington,_Georgia": 0.0069616178578092176,
+        "Washington_County,_Minnesota": 0.011892011803080877
+       }
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.9588842982318543,
+       "start": 20,
+       "end": 23,
+       "tokens": "National Rifle Association",
+       "labelScoreMap": {
+        "National_Rifle_Association": 0.9588842982318543,
+        "National_Rifle_Association_of_the_United_Kingdom": 0.041115701768145656,
+        "<unk_wid>": 1.4960044698681247e-41
+       }
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.8711927060145072,
+       "start": 278,
+       "end": 280,
+       "tokens": "West Virginia",
+       "labelScoreMap": {
+        "West_Virginia": 0.8711927060145072,
+        "West_Virginia_University": 0.0305521876985611,
+        "West_Virginia_Mountaineers_football": 0.02739322326786334,
+        "West_Virginia_Mountaineers_men's_basketball": 0.012018673846895082,
+        "West_Virginia_Air_National_Guard": 0.009555349572327653,
+        "West_Virginia_gubernatorial_special_election,_2011": 0.006440048870384405,
+        "USS_West_Virginia_(BB-48)": 0.005680848442046483,
+        "West_Virginia_Lottery": 0.00510491030711346,
+        "West_Virginia_National_Guard": 0.004398080366705986,
+        "West_Virginia_Democratic_Party": 0.004371895051915448,
+        "West_Virginia_Republican_Party": 0.003953034037299627,
+        "Episcopal_Diocese_of_West_Virginia": 0.0039006773662097227,
+        "West_Virginia_Legislature": 0.002853665897903872,
+        "West_Virginia_Governor's_Mansion": 0.0026702658203358836,
+        "Supreme_Court_of_Appeals_of_West_Virginia": 0.0025919680671135353,
+        "West_Virginia_State_Police": 0.0018848916071821317,
+        "Spruce_Knob": 0.0016230964189938644,
+        "West_Virginia_Department_of_Transportation": 0.0013614376423397143,
+        "Charleston,_West_Virginia": 0.0013011533544540835,
+        "West_Virginia_State_Capitol": 0.001151886349847622,
+        "<unk_wid>": 2.7544819251164526e-38
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "Manchin",
+       "labelScoreMap": {
+        "Joe_Manchin": 1.0,
+        "<unk_wid>": 2.1987327671557257e-35
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 9,
+       "end": 12,
+       "tokens": "Joe Manchin III",
+       "labelScoreMap": {
+        "Joe_Manchin": 1.0,
+        "<unk_wid>": 6.445972935894159e-44
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Manchin",
+       "labelScoreMap": {
+        "Joe_Manchin": 1.0,
+        "<unk_wid>": 4.5953164438088935e-34
+       }
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.8708642110426921,
+       "start": 13,
+       "end": 15,
+       "tokens": "West Virginia",
+       "labelScoreMap": {
+        "West_Virginia": 0.8708642110426921,
+        "West_Virginia_University": 0.030653948281883336,
+        "West_Virginia_Mountaineers_football": 0.027440919632142794,
+        "West_Virginia_Mountaineers_men's_basketball": 0.012026085992723177,
+        "West_Virginia_Air_National_Guard": 0.009552354426763663,
+        "West_Virginia_gubernatorial_special_election,_2011": 0.006438030220285628,
+        "USS_West_Virginia_(BB-48)": 0.005679067766458354,
+        "West_Virginia_Lottery": 0.005103310159679173,
+        "West_Virginia_National_Guard": 0.004396712121440869,
+        "West_Virginia_Democratic_Party": 0.004370524681522606,
+        "West_Virginia_Republican_Party": 0.003951794948480993,
+        "Episcopal_Diocese_of_West_Virginia": 0.0038995563238900127,
+        "West_Virginia_Legislature": 0.0028823351964241727,
+        "West_Virginia_Governor's_Mansion": 0.0026694288185589495,
+        "Supreme_Court_of_Appeals_of_West_Virginia": 0.002596754775231037,
+        "West_Virginia_State_Police": 0.001884306289137106,
+        "Spruce_Knob": 0.0016225897570849464,
+        "West_Virginia_Department_of_Transportation": 0.001374480124413089,
+        "Charleston,_West_Virginia": 0.001441781611193738,
+        "West_Virginia_State_Capitol": 0.001151807829994225,
+        "<unk_wid>": 4.219076682588648e-31
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Manchin",
+       "labelScoreMap": {
+        "Joe_Manchin": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "Manchin",
+       "labelScoreMap": {
+        "Joe_Manchin": 1.0,
+        "<unk_wid>": 1.3399377365267285e-27
+       }
+      },
+      {
+       "label": "Michael_Bloomberg",
+       "score": 1.0,
+       "start": 290,
+       "end": 293,
+       "tokens": "Michael R. Bloomberg",
+       "labelScoreMap": {
+        "Michael_Bloomberg": 1.0,
+        "<unk_wid>": 2.1086739291159847e-41
+       }
+      },
+      {
+       "label": "National_Roads_Authority",
+       "score": 0.45701615458375927,
+       "start": 263,
+       "end": 264,
+       "tokens": "NRA",
+       "labelScoreMap": {
+        "National_Rifle_Association": 0.43208695343937664,
+        "National_Recovery_Administration": 0.06401289632654936,
+        "National_Resistance_Army": 0.024056758091791957,
+        "National_Revolutionary_Army": 0.010635586589414448,
+        "National_Industrial_Recovery_Act": 0.008880972936032157,
+        "National_Roads_Authority": 0.45701615458375927,
+        "National_Rifle_Association_of_the_United_Kingdom": 0.0033106780330761725,
+        "<unk_wid>": 9.466159510564191e-29
+       }
+      },
+      {
+       "label": "New_York",
+       "score": 0.6858909784081214,
+       "start": 294,
+       "end": 296,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.6858909784081214,
+        "New_York_City": 0.23176660743546768,
+        "New_York_(magazine)": 0.009364849868987009,
+        "New_York_(film)": 0.003288036466243743,
+        "Province_of_New_York": 0.038477837702535024,
+        "New_York_Knicks": 0.0026334530712911067,
+        "Manhattan": 0.013281494745577853,
+        "New_York_metropolitan_area": 0.006331889248148166,
+        "New_York's_at-large_congressional_seat": 0.0017169223744275901,
+        "Eastern_Air_Defense_Sector": 0.0012586990205922088,
+        "New_York_Air_National_Guard": 0.0011438135101749917,
+        "Peekskill,_New_York": 0.0011098110119534587,
+        "New_York_Liberty": 0.0009647757614531436,
+        "New_York_Yankees": 0.0010010930392335199,
+        "September_11_attacks": 0.000875153104365824,
+        "New_York_GAA": 0.0008945852314273688,
+        "<unk_wid>": 1.1133760893259472e-21
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "MANCHIN",
+       "labelScoreMap": {
+        "Joe_Manchin": 1.0,
+        "<unk_wid>": 1.5706886455394295e-32
+       }
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.44214150601685664,
+       "start": 205,
+       "end": 206,
+       "tokens": "NRA",
+       "labelScoreMap": {
+        "National_Rifle_Association": 0.44214150601685664,
+        "National_Recovery_Administration": 0.06421616700113578,
+        "National_Resistance_Army": 0.024582272890033566,
+        "National_Revolutionary_Army": 0.015225483008693733,
+        "National_Industrial_Recovery_Act": 0.007939415888536173,
+        "National_Roads_Authority": 0.44132978326336164,
+        "National_Rifle_Association_of_the_United_Kingdom": 0.004565371931382403,
+        "<unk_wid>": 1.8441312970704876e-30
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9948074069671713,
+       "start": 286,
+       "end": 288,
+       "tokens": "Barack Obama",
+       "labelScoreMap": {
+        "Barack_Obama": 0.9948074069671713,
+        "2009_Nobel_Peace_Prize": 0.0024431951667570413,
+        "Barack_Obama_presidential_campaign,_2008": 0.0017110444136175542,
+        "Barack_Obama_Sr.": 0.0010383534524541103,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.8712214961059925,
+       "start": 222,
+       "end": 224,
+       "tokens": "West Virginia",
+       "labelScoreMap": {
+        "West_Virginia": 0.8712214961059925,
+        "West_Virginia_University": 0.03055226825058827,
+        "West_Virginia_Mountaineers_football": 0.02738977485051656,
+        "West_Virginia_Mountaineers_men's_basketball": 0.012018462422426927,
+        "West_Virginia_Air_National_Guard": 0.009555612626747124,
+        "West_Virginia_gubernatorial_special_election,_2011": 0.006440226162029555,
+        "USS_West_Virginia_(BB-48)": 0.005681004833229403,
+        "West_Virginia_Lottery": 0.005105050842995233,
+        "West_Virginia_National_Guard": 0.0043982013259135635,
+        "West_Virginia_Democratic_Party": 0.004372015408206341,
+        "West_Virginia_Republican_Party": 0.003953142862546442,
+        "Episcopal_Diocese_of_West_Virginia": 0.003900782939339365,
+        "West_Virginia_Legislature": 0.0028536060303519266,
+        "West_Virginia_Governor's_Mansion": 0.00267033933155137,
+        "Supreme_Court_of_Appeals_of_West_Virginia": 0.002591813306033107,
+        "West_Virginia_State_Police": 0.001884943429780368,
+        "Spruce_Knob": 0.0016231410613016604,
+        "West_Virginia_Department_of_Transportation": 0.0013613611994039588,
+        "Charleston,_West_Virginia": 0.0012748475789130128,
+        "West_Virginia_State_Capitol": 0.0011519094321334948,
+        "<unk_wid>": 3.152146332028637e-40
+       }
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.8712286842907296,
+       "start": 134,
+       "end": 136,
+       "tokens": "West Virginia",
+       "labelScoreMap": {
+        "West_Virginia": 0.8712286842907296,
+        "West_Virginia_University": 0.03055292348747878,
+        "West_Virginia_Mountaineers_football": 0.02739150847911426,
+        "West_Virginia_Mountaineers_men's_basketball": 0.012018996729414281,
+        "West_Virginia_Air_National_Guard": 0.009555678480305781,
+        "West_Virginia_gubernatorial_special_election,_2011": 0.00644027054555592,
+        "USS_West_Virginia_(BB-48)": 0.005681043984501811,
+        "West_Virginia_Lottery": 0.005105086025014157,
+        "West_Virginia_National_Guard": 0.004398231661991524,
+        "West_Virginia_Democratic_Party": 0.004372045538432333,
+        "West_Virginia_Republican_Party": 0.003953170106064923,
+        "Episcopal_Diocese_of_West_Virginia": 0.003900810379925894,
+        "West_Virginia_Legislature": 0.0028536514457958287,
+        "West_Virginia_Governor's_Mansion": 0.0026703577344883407,
+        "Supreme_Court_of_Appeals_of_West_Virginia": 0.0025918620462796506,
+        "West_Virginia_State_Police": 0.0018849564343891793,
+        "Spruce_Knob": 0.0016231522445667652,
+        "West_Virginia_Department_of_Transportation": 0.0013613954349377814,
+        "Charleston,_West_Virginia": 0.001264256934326605,
+        "West_Virginia_State_Capitol": 0.0011519180166861846,
+        "<unk_wid>": 2.2457271984502936e-39
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "Manchin",
+       "labelScoreMap": {
+        "Joe_Manchin": 1.0,
+        "<unk_wid>": 6.311756568981128e-39
+       }
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.47788174100032965,
+       "start": 78,
+       "end": 79,
+       "tokens": "NRA",
+       "labelScoreMap": {
+        "National_Rifle_Association": 0.47788174100032965,
+        "National_Recovery_Administration": 0.07078958548442614,
+        "National_Resistance_Army": 0.023472612591766515,
+        "National_Revolutionary_Army": 0.023674802098034724,
+        "National_Industrial_Recovery_Act": 0.01622524227426971,
+        "National_Roads_Authority": 0.38355608386248335,
+        "National_Rifle_Association_of_the_United_Kingdom": 0.004399932688689984,
+        "<unk_wid>": 6.457751339943558e-32
+       }
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.509023549102317,
+       "start": 115,
+       "end": 116,
+       "tokens": "NRA",
+       "labelScoreMap": {
+        "National_Rifle_Association": 0.509023549102317,
+        "National_Recovery_Administration": 0.0828686756130747,
+        "National_Resistance_Army": 0.02395870018513097,
+        "National_Revolutionary_Army": 0.030168520049288307,
+        "National_Industrial_Recovery_Act": 0.010647601922975829,
+        "National_Roads_Authority": 0.33779289965804166,
+        "National_Rifle_Association_of_the_United_Kingdom": 0.005540053469171579,
+        "<unk_wid>": 5.733443870201841e-38
+       }
+      },
+      {
+       "label": "National_Roads_Authority",
+       "score": 0.4775093172323599,
+       "start": 336,
+       "end": 337,
+       "tokens": "NRA",
+       "labelScoreMap": {
+        "National_Rifle_Association": 0.4339274471393022,
+        "National_Recovery_Administration": 0.04895007097553371,
+        "National_Resistance_Army": 0.020406302181493165,
+        "National_Revolutionary_Army": 0.010471799094147713,
+        "National_Industrial_Recovery_Act": 0.007033995059375878,
+        "National_Roads_Authority": 0.4775093172323599,
+        "National_Rifle_Association_of_the_United_Kingdom": 0.0017010683177873826,
+        "<unk_wid>": 2.0324735269177947e-33
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.7032571814443739,
+       "start": 4,
+       "end": 5,
+       "tokens": "NRA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Manchin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.6160563746475551,
+       "start": 207,
+       "end": 208,
+       "tokens": "Washington",
+       "labelScoreMap": {
+        "4140963|Washington,_D.C.": 0.6160563746475551,
+        "5814448|University_of_Washington": 0.04779325731906778,
+        "5218069|Washington,_Pennsylvania": 0.016673675860918332,
+        "5143303|Washington_County,_New_York": 0.017638949265304005,
+        "5218076|Washington_County,_Pennsylvania": 0.016610532612421326,
+        "5081383|Washington_County,_Nebraska": 0.012885050880757682,
+        "5759333|Washington_County,_Oregon": 0.012946894889029897,
+        "2634715|Washington,_Tyne_and_Wear": 0.012262194246325197,
+        "4880748|Washington_County,_Iowa": 0.01233090755682124,
+        "5277887|Washington_County,_Wisconsin": 0.011914079349549512,
+        "4554703|Washington,_Oklahoma": 0.01005238669788382,
+        "4982182|Washington_County,_Maine": 0.0099013696181778,
+        "4252486|Washington_County,_Illinois": 0.009320452251575129,
+        "4266586|Washington,_Indiana": 0.009143153542864749,
+        "4527654|Washington_County,_Ohio": 0.008322416881463185,
+        "4665975|Washington_County,_Tennessee": 0.008096607796556734,
+        "4177485|Washington_County,_Florida": 0.007759355314399018,
+        "5549222|Washington,_Utah": 0.007334367304496818,
+        "5225535|Washington_County,_Rhode_Island": 0.00710962821360984,
+        "5549225|Washington_County,_Utah": 0.007091751936802514,
+        "5443305|Washington_County,_Colorado": 0.008251712384744163,
+        "4372777|Washington_County,_Maryland": 0.00977107989423622,
+        "4229546|Washington,_Georgia": 0.0069616178578092176,
+        "5051936|Washington_County,_Minnesota": 0.011892011803080877
+       }
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.9588842982318543,
+       "start": 20,
+       "end": 23,
+       "tokens": "National Rifle Association",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.8711927060145072,
+       "start": 278,
+       "end": 280,
+       "tokens": "West Virginia",
+       "labelScoreMap": {
+        "4826850|West_Virginia": 0.8711927060145072,
+        "4823161|Spruce_Knob": 0.0016230964189938644,
+        "4801859|Charleston,_West_Virginia": 0.0013011533544540835
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "Manchin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 9,
+       "end": 12,
+       "tokens": "Joe Manchin III",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Manchin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.8708642110426921,
+       "start": 13,
+       "end": 15,
+       "tokens": "West Virginia",
+       "labelScoreMap": {
+        "4826850|West_Virginia": 0.8708642110426921,
+        "4823161|Spruce_Knob": 0.0016225897570849464,
+        "4801859|Charleston,_West_Virginia": 0.001441781611193738
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Manchin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "Manchin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Michael_Bloomberg",
+       "score": 1.0,
+       "start": 290,
+       "end": 293,
+       "tokens": "Michael R. Bloomberg",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Roads_Authority",
+       "score": 0.45701615458375927,
+       "start": 263,
+       "end": 264,
+       "tokens": "NRA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York",
+       "score": 0.6858909784081214,
+       "start": 294,
+       "end": 296,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.6858909784081214,
+        "5128581|New_York_City": 0.23176660743546768,
+        "5128594|Manhattan": 0.013281494745577853,
+        "5130831|Peekskill,_New_York": 0.0011098110119534587
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "MANCHIN",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.44214150601685664,
+       "start": 205,
+       "end": 206,
+       "tokens": "NRA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9948074069671713,
+       "start": 286,
+       "end": 288,
+       "tokens": "Barack Obama",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.8712214961059925,
+       "start": 222,
+       "end": 224,
+       "tokens": "West Virginia",
+       "labelScoreMap": {
+        "4826850|West_Virginia": 0.8712214961059925,
+        "4823161|Spruce_Knob": 0.0016231410613016604,
+        "4801859|Charleston,_West_Virginia": 0.0012748475789130128
+       }
+      },
+      {
+       "label": "West_Virginia",
+       "score": 0.8712286842907296,
+       "start": 134,
+       "end": 136,
+       "tokens": "West Virginia",
+       "labelScoreMap": {
+        "4826850|West_Virginia": 0.8712286842907296,
+        "4823161|Spruce_Knob": 0.0016231522445667652,
+        "4801859|Charleston,_West_Virginia": 0.001264256934326605
+       }
+      },
+      {
+       "label": "Joe_Manchin",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "Manchin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.47788174100032965,
+       "start": 78,
+       "end": 79,
+       "tokens": "NRA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Rifle_Association",
+       "score": 0.509023549102317,
+       "start": 115,
+       "end": 116,
+       "tokens": "NRA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Roads_Authority",
+       "score": 0.4775093172323599,
+       "start": 336,
+       "end": 337,
+       "tokens": "NRA",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

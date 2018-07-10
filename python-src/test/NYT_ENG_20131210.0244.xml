@@ -1,0 +1,4739 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131210.0244.xml",
+ "text": "U.N. TO DELIVER AID TO SYRIA VIA IRAQ\nGENEVA - U.N. relief agencies are preparing to make their first deliveries of aid from Iraq to Syria this week but it remains unclear whether this will prove a regular channel of assistance, the U.N. refugee agency said Tuesday.\nAn airlift of 12 flights using Russian-built Ilyushin cargo aircraft is to start Thursday and last until Sunday delivering food and other assistance from Iraq to Kurdish areas of Syria\u2019s northeastern Hassakeh province, according to Amin Awad, the director of the Middle East and North Africa bureau at the Office of the U.N. High Commissioner for Refugees.\nRelief agencies believe there are 50,000 to 60,000 people in need of assistance in Hassakeh, where conflict has obstructed access by humanitarian agencies.\n\u201cIt\u2019s certainly a welcome development for us, the humanitarian conditions there are getting worse,\u201d said Adrian Edwards, a spokesman for the refugee agency, citing U.N. estimates that 6.5 million people inside Syria have been driven from their homes by fighting.\nIn addition to the security challenges in delivering assistance to areas of conflict, international aid agencies have complained of bureaucratic obstacles and delays from the government in Damascus in obtaining approval for relief convoys destined for populations trapped by fighting, and the agencies have pushed for more cross-border access from neighboring countries.\nThe high commissioner for refugees, Ant\u00f3nio Guterres, is to meet Anne Richard, the U.S. assistant secretary of state for population, refugees, and migration, and officials from aid agencies in Geneva on Wednesday at the start of a two-day meeting. The gathering is aimed at bolstering international support for close to 29 million people around the world reportedly displaced by conflict and more than 30 million displaced by other disasters.\nGuterres is expected to tell participants the number of people displaced by conflicts has risen in 2013, particularly in Syria, the Central African Republic and the Democratic Republic of Congo. He is also expected to warn that climate change is likely to add significantly to the scale and complexity of population displacements.",
+ "tokens": [
+  "U.N.",
+  "TO",
+  "DELIVER",
+  "AID",
+  "TO",
+  "SYRIA",
+  "VIA",
+  "IRAQ",
+  "GENEVA",
+  "-",
+  "U.N.",
+  "relief",
+  "agencies",
+  "are",
+  "preparing",
+  "to",
+  "make",
+  "their",
+  "first",
+  "deliveries",
+  "of",
+  "aid",
+  "from",
+  "Iraq",
+  "to",
+  "Syria",
+  "this",
+  "week",
+  "but",
+  "it",
+  "remains",
+  "unclear",
+  "whether",
+  "this",
+  "will",
+  "prove",
+  "a",
+  "regular",
+  "channel",
+  "of",
+  "assistance",
+  ",",
+  "the",
+  "U.N.",
+  "refugee",
+  "agency",
+  "said",
+  "Tuesday",
+  ".",
+  "An",
+  "airlift",
+  "of",
+  "12",
+  "flights",
+  "using",
+  "Russian",
+  "-",
+  "built",
+  "Ilyushin",
+  "cargo",
+  "aircraft",
+  "is",
+  "to",
+  "start",
+  "Thursday",
+  "and",
+  "last",
+  "until",
+  "Sunday",
+  "delivering",
+  "food",
+  "and",
+  "other",
+  "assistance",
+  "from",
+  "Iraq",
+  "to",
+  "Kurdish",
+  "areas",
+  "of",
+  "Syria",
+  "\u2019s",
+  "northeastern",
+  "Hassakeh",
+  "province",
+  ",",
+  "according",
+  "to",
+  "Amin",
+  "Awad",
+  ",",
+  "the",
+  "director",
+  "of",
+  "the",
+  "Middle",
+  "East",
+  "and",
+  "North",
+  "Africa",
+  "bureau",
+  "at",
+  "the",
+  "Office",
+  "of",
+  "the",
+  "U.N.",
+  "High",
+  "Commissioner",
+  "for",
+  "Refugees",
+  ".",
+  "Relief",
+  "agencies",
+  "believe",
+  "there",
+  "are",
+  "50,000",
+  "to",
+  "60,000",
+  "people",
+  "in",
+  "need",
+  "of",
+  "assistance",
+  "in",
+  "Hassakeh",
+  ",",
+  "where",
+  "conflict",
+  "has",
+  "obstructed",
+  "access",
+  "by",
+  "humanitarian",
+  "agencies",
+  ".",
+  "\u201c",
+  "It",
+  "\u2019s",
+  "certainly",
+  "a",
+  "welcome",
+  "development",
+  "for",
+  "us",
+  ",",
+  "the",
+  "humanitarian",
+  "conditions",
+  "there",
+  "are",
+  "getting",
+  "worse",
+  ",",
+  "\u201d",
+  "said",
+  "Adrian",
+  "Edwards",
+  ",",
+  "a",
+  "spokesman",
+  "for",
+  "the",
+  "refugee",
+  "agency",
+  ",",
+  "citing",
+  "U.N.",
+  "estimates",
+  "that",
+  "6.5",
+  "million",
+  "people",
+  "inside",
+  "Syria",
+  "have",
+  "been",
+  "driven",
+  "from",
+  "their",
+  "homes",
+  "by",
+  "fighting",
+  ".",
+  "In",
+  "addition",
+  "to",
+  "the",
+  "security",
+  "challenges",
+  "in",
+  "delivering",
+  "assistance",
+  "to",
+  "areas",
+  "of",
+  "conflict",
+  ",",
+  "international",
+  "aid",
+  "agencies",
+  "have",
+  "complained",
+  "of",
+  "bureaucratic",
+  "obstacles",
+  "and",
+  "delays",
+  "from",
+  "the",
+  "government",
+  "in",
+  "Damascus",
+  "in",
+  "obtaining",
+  "approval",
+  "for",
+  "relief",
+  "convoys",
+  "destined",
+  "for",
+  "populations",
+  "trapped",
+  "by",
+  "fighting",
+  ",",
+  "and",
+  "the",
+  "agencies",
+  "have",
+  "pushed",
+  "for",
+  "more",
+  "cross",
+  "-",
+  "border",
+  "access",
+  "from",
+  "neighboring",
+  "countries",
+  ".",
+  "The",
+  "high",
+  "commissioner",
+  "for",
+  "refugees",
+  ",",
+  "Ant\u00f3nio",
+  "Guterres",
+  ",",
+  "is",
+  "to",
+  "meet",
+  "Anne",
+  "Richard",
+  ",",
+  "the",
+  "U.S.",
+  "assistant",
+  "secretary",
+  "of",
+  "state",
+  "for",
+  "population",
+  ",",
+  "refugees",
+  ",",
+  "and",
+  "migration",
+  ",",
+  "and",
+  "officials",
+  "from",
+  "aid",
+  "agencies",
+  "in",
+  "Geneva",
+  "on",
+  "Wednesday",
+  "at",
+  "the",
+  "start",
+  "of",
+  "a",
+  "two",
+  "-",
+  "day",
+  "meeting",
+  ".",
+  "The",
+  "gathering",
+  "is",
+  "aimed",
+  "at",
+  "bolstering",
+  "international",
+  "support",
+  "for",
+  "close",
+  "to",
+  "29",
+  "million",
+  "people",
+  "around",
+  "the",
+  "world",
+  "reportedly",
+  "displaced",
+  "by",
+  "conflict",
+  "and",
+  "more",
+  "than",
+  "30",
+  "million",
+  "displaced",
+  "by",
+  "other",
+  "disasters",
+  ".",
+  "Guterres",
+  "is",
+  "expected",
+  "to",
+  "tell",
+  "participants",
+  "the",
+  "number",
+  "of",
+  "people",
+  "displaced",
+  "by",
+  "conflicts",
+  "has",
+  "risen",
+  "in",
+  "2013",
+  ",",
+  "particularly",
+  "in",
+  "Syria",
+  ",",
+  "the",
+  "Central",
+  "African",
+  "Republic",
+  "and",
+  "the",
+  "Democratic",
+  "Republic",
+  "of",
+  "Congo",
+  ".",
+  "He",
+  "is",
+  "also",
+  "expected",
+  "to",
+  "warn",
+  "that",
+  "climate",
+  "change",
+  "is",
+  "likely",
+  "to",
+  "add",
+  "significantly",
+  "to",
+  "the",
+  "scale",
+  "and",
+  "complexity",
+  "of",
+  "population",
+  "displacements",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   49,
+   112,
+   137,
+   185,
+   242,
+   290,
+   321,
+   354,
+   377
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "North_Africa",
+       "score": 1.0,
+       "start": 98,
+       "end": 100,
+       "tokens": "North Africa"
+      },
+      {
+       "label": "Iraq",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "IRAQ"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "Syria"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "U.N."
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 1.0,
+       "start": 43,
+       "end": 46,
+       "tokens": "U.N. refugee agency"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 157,
+       "end": 159,
+       "tokens": "Adrian Edwards"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 254,
+       "end": 256,
+       "tokens": "Anne Richard"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 264,
+       "end": 270,
+       "tokens": "population , refugees , and migration"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Hassakeh"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "Syria"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Africa"
+      },
+      {
+       "label": "Ant\u00f3nio_Guterres",
+       "score": 1.0,
+       "start": 248,
+       "end": 250,
+       "tokens": "Ant\u00f3nio Guterres"
+      },
+      {
+       "label": "Middle_East",
+       "score": 1.0,
+       "start": 95,
+       "end": 97,
+       "tokens": "Middle East"
+      },
+      {
+       "label": "United_States_Department_of_State",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "state"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 88,
+       "end": 90,
+       "tokens": "Amin Awad"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "U.N."
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "Syria"
+      },
+      {
+       "label": "Geneva",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Geneva"
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 1.0,
+       "start": 164,
+       "end": 166,
+       "tokens": "refugee agency"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Hassakeh"
+      },
+      {
+       "label": "Geneva",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "GENEVA"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "SYRIA"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "U.N."
+      },
+      {
+       "label": "Damascus",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Damascus"
+      },
+      {
+       "label": "Ilyushin",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Ilyushin"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "U.N."
+      },
+      {
+       "label": "Central_African_Republic",
+       "score": 1.0,
+       "start": 344,
+       "end": 347,
+       "tokens": "Central African Republic"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "U.N."
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "African"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "Syria"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Democratic_Republic_of_the_Congo",
+       "score": 1.0,
+       "start": 349,
+       "end": 353,
+       "tokens": "Democratic Republic of Congo"
+      },
+      {
+       "label": "Iraq",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "Iraq"
+      },
+      {
+       "label": "Ant\u00f3nio_Guterres",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Guterres"
+      },
+      {
+       "label": "Iraq",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Iraq"
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 1.0,
+       "start": 103,
+       "end": 111,
+       "tokens": "Office of the U.N. High Commissioner for Refugees"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 98,
+       "end": 100,
+       "tokens": "North Africa"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "IRAQ"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "Syria"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "U.N."
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 43,
+       "end": 46,
+       "tokens": "U.N. refugee agency"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 157,
+       "end": 159,
+       "tokens": "Adrian Edwards"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 254,
+       "end": 256,
+       "tokens": "Anne Richard"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 264,
+       "end": 270,
+       "tokens": "population , refugees , and migration"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Hassakeh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "Syria"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Africa"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 248,
+       "end": 250,
+       "tokens": "Ant\u00f3nio Guterres"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 95,
+       "end": 97,
+       "tokens": "Middle East"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "state"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 88,
+       "end": 90,
+       "tokens": "Amin Awad"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "U.N."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "Syria"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Geneva"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 164,
+       "end": 166,
+       "tokens": "refugee agency"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Hassakeh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "GENEVA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "SYRIA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "U.N."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Damascus"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Ilyushin"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "U.N."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 344,
+       "end": 347,
+       "tokens": "Central African Republic"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "U.N."
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "African"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "Syria"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "U.S."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 349,
+       "end": 353,
+       "tokens": "Democratic Republic of Congo"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "Iraq"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Guterres"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Iraq"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 103,
+       "end": 111,
+       "tokens": "Office of the U.N. High Commissioner for Refugees"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "U.N.",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "U.N."
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "TO"
+      },
+      {
+       "label": "DELIVER",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "DELIVER"
+      },
+      {
+       "label": "AID",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "AID"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TO"
+      },
+      {
+       "label": "SYRIA",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "SYRIA"
+      },
+      {
+       "label": "VIA",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "VIA"
+      },
+      {
+       "label": "IRAQ",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "IRAQ"
+      },
+      {
+       "label": "GENEVA",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "GENEVA"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "-"
+      },
+      {
+       "label": "U.N.",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "U.N."
+      },
+      {
+       "label": "relief",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "relief"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "agencies"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "are"
+      },
+      {
+       "label": "preparing",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "preparing"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "to"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "make"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "their"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "first"
+      },
+      {
+       "label": "deliveries",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "deliveries"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "of"
+      },
+      {
+       "label": "aid",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "aid"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "from"
+      },
+      {
+       "label": "Iraq",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Iraq"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "to"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "Syria"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "this"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "week"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "but"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "it"
+      },
+      {
+       "label": "remains",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "remains"
+      },
+      {
+       "label": "unclear",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "unclear"
+      },
+      {
+       "label": "whether",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "whether"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "this"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "will"
+      },
+      {
+       "label": "prove",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "prove"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "a"
+      },
+      {
+       "label": "regular",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "regular"
+      },
+      {
+       "label": "channel",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "channel"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "of"
+      },
+      {
+       "label": "assistance",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "assistance"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "the"
+      },
+      {
+       "label": "U.N.",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "U.N."
+      },
+      {
+       "label": "refugee",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "refugee"
+      },
+      {
+       "label": "agency",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "agency"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "said"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "."
+      },
+      {
+       "label": "An",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "An"
+      },
+      {
+       "label": "airlift",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "airlift"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "of"
+      },
+      {
+       "label": "12",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "12"
+      },
+      {
+       "label": "flights",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "flights"
+      },
+      {
+       "label": "using",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "using"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "-"
+      },
+      {
+       "label": "built",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "built"
+      },
+      {
+       "label": "Ilyushin",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Ilyushin"
+      },
+      {
+       "label": "cargo",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "cargo"
+      },
+      {
+       "label": "aircraft",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "aircraft"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "is"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "to"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "start"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Thursday"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "and"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "last"
+      },
+      {
+       "label": "until",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "until"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Sunday"
+      },
+      {
+       "label": "delivering",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "delivering"
+      },
+      {
+       "label": "food",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "food"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "and"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "other"
+      },
+      {
+       "label": "assistance",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "assistance"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "from"
+      },
+      {
+       "label": "Iraq",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "Iraq"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "to"
+      },
+      {
+       "label": "Kurdish",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "Kurdish"
+      },
+      {
+       "label": "areas",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "areas"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "of"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "Syria"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "northeastern",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "northeastern"
+      },
+      {
+       "label": "Hassakeh",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Hassakeh"
+      },
+      {
+       "label": "province",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "province"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "to"
+      },
+      {
+       "label": "Amin",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Amin"
+      },
+      {
+       "label": "Awad",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "Awad"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "the"
+      },
+      {
+       "label": "director",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "director"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "the"
+      },
+      {
+       "label": "Middle",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "Middle"
+      },
+      {
+       "label": "East",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "East"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "and"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "North"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Africa"
+      },
+      {
+       "label": "bureau",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "bureau"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "the"
+      },
+      {
+       "label": "Office",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Office"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "the"
+      },
+      {
+       "label": "U.N.",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "U.N."
+      },
+      {
+       "label": "High",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "High"
+      },
+      {
+       "label": "Commissioner",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Commissioner"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "for"
+      },
+      {
+       "label": "Refugees",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "Refugees"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "."
+      },
+      {
+       "label": "Relief",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Relief"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "agencies"
+      },
+      {
+       "label": "believe",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "believe"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "there"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "are"
+      },
+      {
+       "label": "50,000",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "50,000"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "to"
+      },
+      {
+       "label": "60,000",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "60,000"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "people"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "in"
+      },
+      {
+       "label": "need",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "need"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "of"
+      },
+      {
+       "label": "assistance",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "assistance"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "in"
+      },
+      {
+       "label": "Hassakeh",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Hassakeh"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": ","
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "where"
+      },
+      {
+       "label": "conflict",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "conflict"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "has"
+      },
+      {
+       "label": "obstructed",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "obstructed"
+      },
+      {
+       "label": "access",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "access"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "by"
+      },
+      {
+       "label": "humanitarian",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "humanitarian"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "agencies"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "It"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "certainly",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "certainly"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "a"
+      },
+      {
+       "label": "welcome",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "welcome"
+      },
+      {
+       "label": "development",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "development"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "for"
+      },
+      {
+       "label": "us",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "us"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "the"
+      },
+      {
+       "label": "humanitarian",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "humanitarian"
+      },
+      {
+       "label": "conditions",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "conditions"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "there"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "are"
+      },
+      {
+       "label": "getting",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "getting"
+      },
+      {
+       "label": "worse",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "worse"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "said"
+      },
+      {
+       "label": "Adrian",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "Adrian"
+      },
+      {
+       "label": "Edwards",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Edwards"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "a"
+      },
+      {
+       "label": "spokesman",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "spokesman"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "the"
+      },
+      {
+       "label": "refugee",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "refugee"
+      },
+      {
+       "label": "agency",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "agency"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": ","
+      },
+      {
+       "label": "citing",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "citing"
+      },
+      {
+       "label": "U.N.",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "U.N."
+      },
+      {
+       "label": "estimates",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "estimates"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "that"
+      },
+      {
+       "label": "6.5",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "6.5"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "million"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "people"
+      },
+      {
+       "label": "inside",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "inside"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "Syria"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "been"
+      },
+      {
+       "label": "driven",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "driven"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "from"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "their"
+      },
+      {
+       "label": "homes",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "homes"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "by"
+      },
+      {
+       "label": "fighting",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "fighting"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "In"
+      },
+      {
+       "label": "addition",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "addition"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "the"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "security"
+      },
+      {
+       "label": "challenges",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "challenges"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "in"
+      },
+      {
+       "label": "delivering",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "delivering"
+      },
+      {
+       "label": "assistance",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "assistance"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "to"
+      },
+      {
+       "label": "areas",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "areas"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "of"
+      },
+      {
+       "label": "conflict",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "conflict"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": ","
+      },
+      {
+       "label": "international",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "international"
+      },
+      {
+       "label": "aid",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "aid"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "agencies"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "have"
+      },
+      {
+       "label": "complained",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "complained"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "of"
+      },
+      {
+       "label": "bureaucratic",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "bureaucratic"
+      },
+      {
+       "label": "obstacles",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "obstacles"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "and"
+      },
+      {
+       "label": "delays",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "delays"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "the"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "government"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "in"
+      },
+      {
+       "label": "Damascus",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Damascus"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "in"
+      },
+      {
+       "label": "obtaining",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "obtaining"
+      },
+      {
+       "label": "approval",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "approval"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "for"
+      },
+      {
+       "label": "relief",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "relief"
+      },
+      {
+       "label": "convoys",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "convoys"
+      },
+      {
+       "label": "destined",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "destined"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "for"
+      },
+      {
+       "label": "populations",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "populations"
+      },
+      {
+       "label": "trapped",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "trapped"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "by"
+      },
+      {
+       "label": "fighting",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "fighting"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "the"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "agencies"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "have"
+      },
+      {
+       "label": "pushed",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "pushed"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "for"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "more"
+      },
+      {
+       "label": "cross",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "cross"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "-"
+      },
+      {
+       "label": "border",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "border"
+      },
+      {
+       "label": "access",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "access"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "from"
+      },
+      {
+       "label": "neighboring",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "neighboring"
+      },
+      {
+       "label": "countries",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "countries"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "The"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "high"
+      },
+      {
+       "label": "commissioner",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "commissioner"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "for"
+      },
+      {
+       "label": "refugees",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "refugees"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": ","
+      },
+      {
+       "label": "Ant\u00f3nio",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "Ant\u00f3nio"
+      },
+      {
+       "label": "Guterres",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "Guterres"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "is"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "to"
+      },
+      {
+       "label": "meet",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "meet"
+      },
+      {
+       "label": "Anne",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "Anne"
+      },
+      {
+       "label": "Richard",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "Richard"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "the"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "U.S."
+      },
+      {
+       "label": "assistant",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "assistant"
+      },
+      {
+       "label": "secretary",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "secretary"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "of"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "state"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "for"
+      },
+      {
+       "label": "population",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "population"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": ","
+      },
+      {
+       "label": "refugees",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "refugees"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "and"
+      },
+      {
+       "label": "migration",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "migration"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "and"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "officials"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "from"
+      },
+      {
+       "label": "aid",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "aid"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "agencies"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "in"
+      },
+      {
+       "label": "Geneva",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Geneva"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "on"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "the"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "start"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "a"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "two"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "-"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "day"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "meeting"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "The"
+      },
+      {
+       "label": "gathering",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "gathering"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "is"
+      },
+      {
+       "label": "aimed",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "aimed"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "at"
+      },
+      {
+       "label": "bolstering",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "bolstering"
+      },
+      {
+       "label": "international",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "international"
+      },
+      {
+       "label": "support",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "support"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "for"
+      },
+      {
+       "label": "close",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "close"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "to"
+      },
+      {
+       "label": "29",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "29"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "million"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "people"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "around"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "the"
+      },
+      {
+       "label": "world",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "world"
+      },
+      {
+       "label": "reportedly",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "reportedly"
+      },
+      {
+       "label": "displaced",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "displaced"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "by"
+      },
+      {
+       "label": "conflict",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "conflict"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "and"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "than"
+      },
+      {
+       "label": "30",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "30"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "million"
+      },
+      {
+       "label": "displaced",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "displaced"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "by"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "other"
+      },
+      {
+       "label": "disasters",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "disasters"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "."
+      },
+      {
+       "label": "Guterres",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Guterres"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "is"
+      },
+      {
+       "label": "expected",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "expected"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "to"
+      },
+      {
+       "label": "tell",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "tell"
+      },
+      {
+       "label": "participants",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "participants"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "the"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "number"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "of"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "people"
+      },
+      {
+       "label": "displaced",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "displaced"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "by"
+      },
+      {
+       "label": "conflicts",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "conflicts"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "has"
+      },
+      {
+       "label": "risen",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "risen"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "in"
+      },
+      {
+       "label": "2013",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "2013"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": ","
+      },
+      {
+       "label": "particularly",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "particularly"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "in"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "Syria"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "the"
+      },
+      {
+       "label": "Central",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "Central"
+      },
+      {
+       "label": "African",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "African"
+      },
+      {
+       "label": "Republic",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "Republic"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "the"
+      },
+      {
+       "label": "Democratic",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "Republic",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "Republic"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "of"
+      },
+      {
+       "label": "Congo",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "Congo"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "He"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "is"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "also"
+      },
+      {
+       "label": "expected",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "expected"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "to"
+      },
+      {
+       "label": "warn",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "warn"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "that"
+      },
+      {
+       "label": "climate",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "climate"
+      },
+      {
+       "label": "change",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "change"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "is"
+      },
+      {
+       "label": "likely",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "likely"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "to"
+      },
+      {
+       "label": "add",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "add"
+      },
+      {
+       "label": "significantly",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "significantly"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "the"
+      },
+      {
+       "label": "scale",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "scale"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "and"
+      },
+      {
+       "label": "complexity",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "complexity"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "of"
+      },
+      {
+       "label": "population",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "population"
+      },
+      {
+       "label": "displacements",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "displacements"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "North_Africa",
+       "score": 0.7639360143829752,
+       "start": 98,
+       "end": 100,
+       "tokens": "North Africa",
+       "labelScoreMap": {
+        "North_Africa": 0.7639360143829752,
+        "North_African_Campaign": 0.06282693805479714,
+        "Western_Desert_Campaign": 0.022281339981314277,
+        "Operation_Torch": 0.028672433143884547,
+        "Second_Battle_of_El_Alamein": 0.005809553895495381,
+        "Maghreb": 0.002706227588008043,
+        "Africa_(Roman_province)": 0.0019416365635722076,
+        "Muslim_conquest_of_the_Maghreb": 0.001980372851858331,
+        "Diocese_of_Africa": 0.0012405218528327806,
+        "Africa": 0.025419819723501158,
+        "Mediterranean_and_Middle_East_theatre_of_World_War_II": 0.0009584681478256116,
+        "Spain": 0.08222667381393532,
+        "<unk_wid>": 5.1404322250951726e-39
+       }
+      },
+      {
+       "label": "Iraq",
+       "score": 0.8799443069943019,
+       "start": 7,
+       "end": 8,
+       "tokens": "IRAQ",
+       "labelScoreMap": {
+        "Iraq": 0.8799443069943019,
+        "Iraq_War": 0.050220631691443994,
+        "Iraq_national_football_team": 0.033631827785609344,
+        "2003_invasion_of_Iraq": 0.009495020474235477,
+        "History_of_the_Jews_in_Iraq": 0.005367624008612429,
+        "Anglo-Iraqi_War": 0.0041476916716598165,
+        "Kingdom_of_Iraq": 0.003007426199765181,
+        "Iraqi_Communist_Party": 0.0029842815050229,
+        "United_States_Ambassador_to_Iraq": 0.0020960991461669585,
+        "Iraqi_dinar": 0.0019068048439946385,
+        "Iraq_Football_Association": 0.0018798822116312544,
+        "Iraqi_Republic_Railways": 0.0015361203953652754,
+        "Iraqi_Army": 0.0015055457035283717,
+        "Iraqi_Premier_League": 0.001189859784454535,
+        "Armenians_in_Iraq": 0.0010868775842080487,
+        "<unk_wid>": 3.913361484460202e-34
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8853638139419899,
+       "start": 341,
+       "end": 342,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "Syria": 0.8853638139419899,
+        "Roman_Syria": 0.048663635624944496,
+        "Syria_national_football_team": 0.02859982354089973,
+        "Syriac_language": 0.0050926787655775985,
+        "Syrian_Communist_Party": 0.004425045276836177,
+        "Greater_Syria": 0.004114529721356102,
+        "Syrian_Arab_Federation_for_Football": 0.00395924984524248,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.0027793400818954543,
+        "Syrian_Armed_Forces": 0.0027326642689415913,
+        "Armenians_in_Syria": 0.0023134415849488227,
+        "Syriac_Christianity": 0.0019252787253151524,
+        "Syrian_Turkmen": 0.001692381009513069,
+        "Ottoman_Syria": 0.0015840951679999813,
+        "Syrian_Premier_League": 0.0015060673661668332,
+        "Mongol_invasions_of_the_Levant": 0.0014750188727788072,
+        "United_States_Ambassador_to_Syria": 0.0013663264720258077,
+        "Maher_Arar": 0.001242121150916529,
+        "People's_Council_of_Syria": 0.0011644885826513178,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9491479072359654,
+       "start": 10,
+       "end": 11,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "United_Nations": 0.9491479072359654,
+        "Flour": 0.02015975760260024,
+        "National_Unity_(Peru)": 0.008673926982698378,
+        "United_States_Ambassador_to_the_United_Nations": 0.012962496973540752,
+        "Civic_Center,_San_Francisco": 0.0021446503934320635,
+        "Paolo_Borsellino": 0.0020016763437497496,
+        "University_of_Natal": 0.0017633802166991403,
+        "Place_de_la_Concorde": 0.0017157229585562028,
+        "Srebrenica_massacre": 0.0014304812927580686,
+        "<unk_wid>": 1.2833086533718187e-33
+       }
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 0.7491323189259423,
+       "start": 43,
+       "end": 46,
+       "tokens": "U.N. refugee agency",
+       "labelScoreMap": {
+        "United_Nations_High_Commissioner_for_Refugees": 0.7491323189259423,
+        "United_Nations_Relief_and_Rehabilitation_Administration": 0.25086768107405766,
+        "<unk_wid>": 1.0652960125939408e-38
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 157,
+       "end": 159,
+       "tokens": "Adrian Edwards",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 254,
+       "end": 256,
+       "tokens": "Anne Richard",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 264,
+       "end": 270,
+       "tokens": "population , refugees , and migration",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Al-Hasakah",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Hassakeh",
+       "labelScoreMap": {
+        "Al-Hasakah": 1.0,
+        "<unk_wid>": 3.0978216401231232e-30
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8853122884563358,
+       "start": 25,
+       "end": 26,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "Syria": 0.8853122884563358,
+        "Roman_Syria": 0.04871730298822386,
+        "Syria_national_football_team": 0.028598544910124986,
+        "Syriac_language": 0.005092428855134946,
+        "Syrian_Communist_Party": 0.00442482686489846,
+        "Greater_Syria": 0.004114328119307377,
+        "Syrian_Arab_Federation_for_Football": 0.003959054424093879,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.00277917711081697,
+        "Syrian_Armed_Forces": 0.002732529390020927,
+        "Armenians_in_Syria": 0.00231332739810459,
+        "Syriac_Christianity": 0.0019251836978769056,
+        "Syrian_Turkmen": 0.0016922974767607638,
+        "Ottoman_Syria": 0.001585021227347959,
+        "Syrian_Premier_League": 0.001505993029516197,
+        "Mongol_invasions_of_the_Levant": 0.0014749460714481822,
+        "United_States_Ambassador_to_Syria": 0.0013662590327130685,
+        "Maher_Arar": 0.0012420598421455493,
+        "People's_Council_of_Syria": 0.0011644311051295523,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.9357011284134902,
+       "start": 99,
+       "end": 100,
+       "tokens": "Africa",
+       "labelScoreMap": {
+        "Africa": 0.9357011284134902,
+        "Africa_(Roman_province)": 0.03868473152474677,
+        "Confederation_of_African_Football": 0.004351405992787963,
+        "Mediterranean_and_Middle_East_theatre_of_World_War_II": 0.0055083421917843,
+        "2010_FIFA_World_Cup_qualification_(CAF)": 0.002689853964899439,
+        "Africa_(Petrarch)": 0.002521233394025238,
+        "United_States_Army_Africa": 0.0023927661749763153,
+        "Big_Brother_Africa": 0.0019190266214686945,
+        "United_States_Africa_Command": 0.0017504086346893197,
+        "African_Union": 0.0016948929196312355,
+        "Nickelodeon_(Africa)": 0.0014854404117078184,
+        "Disney_Channel_(Southern_Africa)": 0.0013007697557927314,
+        "<unk_wid>": 3.376552508880584e-37
+       }
+      },
+      {
+       "label": "Ant\u00f3nio_Guterres",
+       "score": 1.0,
+       "start": 248,
+       "end": 250,
+       "tokens": "Ant\u00f3nio Guterres",
+       "labelScoreMap": {
+        "Ant\u00f3nio_Guterres": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Middle_East",
+       "score": 0.9924977559192568,
+       "start": 95,
+       "end": 97,
+       "tokens": "Middle East",
+       "labelScoreMap": {
+        "Middle_East": 0.9924977559192568,
+        "Afro-Arab": 0.0022415865039830227,
+        "The_Middle_East_(nightclub)": 0.001978895796717292,
+        "Middle_Eastern_theatre_of_World_War_I": 0.0018632599468451107,
+        "Disney_Channels_Worldwide": 0.0014185018331978189,
+        "<unk_wid>": 1.3907858237982932e-44
+       }
+      },
+      {
+       "label": "States_of_Germany",
+       "score": 0.3297512231495928,
+       "start": 262,
+       "end": 263,
+       "tokens": "state",
+       "labelScoreMap": {
+        "U.S._state": 0.2309726495427441,
+        "States_and_union_territories_of_India": 0.15007010913624869,
+        "Administrative_divisions_of_Mexico": 0.06725706912427258,
+        "States_of_Germany": 0.3297512231495928,
+        "States_and_territories_of_Australia": 0.03873005351745073,
+        "State_government": 0.007684995829676769,
+        "Administrative_divisions_of_Myanmar": 0.006911499263990092,
+        "United_States_Department_of_State": 0.005859512267215348,
+        "State_school": 0.0038387855122175955,
+        "New_York": 0.004842249716655399,
+        "Government_of_Oregon": 0.0030406065656754114,
+        "States_of_Sudan": 0.0029181974534255024,
+        "Government_of_New_York": 0.002774837356805178,
+        "Government_of_Pennsylvania": 0.002498380454734999,
+        "Government_of_Illinois": 0.0024062231213841426,
+        "Texas": 0.06975624016529043,
+        "Government_of_Florida": 0.0023243187886982006,
+        "Government_of_California": 0.0021604832594418165,
+        "Michigan": 0.014026633722115232,
+        "Barack_Obama": 0.002048704105122106,
+        "China": 0.04773312853407706,
+        "United_States_Secretary_of_State": 0.0023940994131655216,
+        "<unk_wid>": 1.488533115403785e-28
+       }
+      },
+      {
+       "label": "Russian_language",
+       "score": 0.2891686299128763,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.2891686299128763,
+        "Russia": 0.28203151193222853,
+        "Russians": 0.10897931154710316,
+        "Russian_Empire": 0.13928920827250713,
+        "Russian_Wikipedia": 0.007877280097169653,
+        "Russian_Americans": 0.006346441898848121,
+        "Soviet_Union": 0.11688149651122635,
+        "Russian_Orthodox_Church": 0.004366160773930683,
+        "Russian_Canadian": 0.003296971107420654,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.020465594396692134,
+        "Vladimir_K._Zworykin": 0.001518343880319566,
+        "Alexander_Pushkin": 0.0012457010708806257,
+        "Russian_Ground_Forces": 0.0011783469522013874,
+        "1998_Russian_financial_crisis": 0.001022488608957139,
+        "Roscosmos_State_Corporation": 0.0008804512918440301,
+        "The_Battle_for_Wesnoth": 0.0008490325369327207,
+        "Russian_Academy_of_Sciences": 0.0010262811023863492,
+        "Russian_America": 0.0032216985262148055,
+        "Russian_Civil_War": 0.0021256121484641527,
+        "Russian_Navy": 0.001283294186058064,
+        "Russian_Revolution": 0.006946143245738544,
+        "<unk_wid>": 1.2937688576699936e-34
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 88,
+       "end": 90,
+       "tokens": "Amin Awad",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9570235252312179,
+       "start": 106,
+       "end": 107,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "United_Nations": 0.9570235252312179,
+        "Flour": 0.020319595410230946,
+        "National_Unity_(Peru)": 0.00874270264310298,
+        "United_States_Ambassador_to_the_United_Nations": 0.004758927713182397,
+        "Civic_Center,_San_Francisco": 0.002163088948239786,
+        "Paolo_Borsellino": 0.0020175467536818303,
+        "University_of_Natal": 0.0017851817816167625,
+        "Place_de_la_Concorde": 0.0017316158457479464,
+        "Srebrenica_massacre": 0.001457815672979116,
+        "<unk_wid>": 1.945115929482247e-30
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8853336415756826,
+       "start": 80,
+       "end": 81,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "Syria": 0.8853336415756826,
+        "Roman_Syria": 0.04869382542605815,
+        "Syria_national_football_team": 0.028599131861537633,
+        "Syriac_language": 0.005092532213658284,
+        "Syrian_Communist_Party": 0.004424917336278577,
+        "Greater_Syria": 0.004114544103541484,
+        "Syrian_Arab_Federation_for_Football": 0.003959135372146457,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.002779644669992316,
+        "Syrian_Armed_Forces": 0.002732585260160342,
+        "Armenians_in_Syria": 0.0023133746968293446,
+        "Syriac_Christianity": 0.001925223060058377,
+        "Syrian_Turkmen": 0.001692332078453773,
+        "Ottoman_Syria": 0.00158528516797071,
+        "Syrian_Premier_League": 0.0015060238215155956,
+        "Mongol_invasions_of_the_Levant": 0.0014749762343635214,
+        "United_States_Ambassador_to_Syria": 0.0013662869676682792,
+        "Maher_Arar": 0.0012420852376856548,
+        "People's_Council_of_Syria": 0.00116445491639889,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Geneva",
+       "score": 0.8645505438430355,
+       "start": 277,
+       "end": 278,
+       "tokens": "Geneva",
+       "labelScoreMap": {
+        "Geneva": 0.8645505438430355,
+        "Canton_of_Geneva": 0.020640977705892145,
+        "Geneva_County,_Alabama": 0.017097342910879415,
+        "Geneva,_New_York": 0.015365519599572792,
+        "Geneva,_Illinois": 0.013249615039349976,
+        "Geneva,_Alabama": 0.012197465505899882,
+        "Geneva_College": 0.007510065339486312,
+        "Geneva,_Ohio": 0.006101463248935985,
+        "Gin": 0.0060986030395698545,
+        "Geneva,_Wisconsin": 0.005619232929169051,
+        "Geneva_Motor_Show": 0.00532673230313359,
+        "Geneva_Airport": 0.004367558255805974,
+        "University_of_Geneva": 0.004270454826122618,
+        "Geneva,_Nebraska": 0.0035952440531040863,
+        "Geneva,_Florida": 0.003169135436917783,
+        "Geneva_Bible": 0.0031700328407561567,
+        "Geneva,_Georgia": 0.0029560882694612827,
+        "Palace_of_Nations": 0.002450252392786755,
+        "Geneva_(town),_New_York": 0.002263672460120776,
+        "<unk_wid>": 6.4586257637251e-40
+       }
+      },
+      {
+       "label": "UNRWA",
+       "score": 1.0,
+       "start": 164,
+       "end": 166,
+       "tokens": "refugee agency",
+       "labelScoreMap": {
+        "UNRWA": 1.0,
+        "<unk_wid>": 8.605173248320161e-36
+       }
+      },
+      {
+       "label": "Al-Hasakah",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Hassakeh",
+       "labelScoreMap": {
+        "Al-Hasakah": 1.0,
+        "<unk_wid>": 3.79051234599863e-42
+       }
+      },
+      {
+       "label": "Geneva",
+       "score": 0.863064335614265,
+       "start": 8,
+       "end": 9,
+       "tokens": "GENEVA",
+       "labelScoreMap": {
+        "Geneva": 0.863064335614265,
+        "Canton_of_Geneva": 0.02050386652020338,
+        "Geneva_County,_Alabama": 0.017073144298807144,
+        "Geneva,_New_York": 0.015238516925504177,
+        "Geneva,_Illinois": 0.013217051378667527,
+        "Geneva,_Alabama": 0.012179963390967791,
+        "Geneva_College": 0.007499475207801854,
+        "Geneva,_Ohio": 0.006089971914877669,
+        "Gin": 0.006089971731107602,
+        "Geneva,_Wisconsin": 0.00561128142879421,
+        "Geneva_Motor_Show": 0.005784961226483225,
+        "Geneva_Airport": 0.0043613756026419275,
+        "University_of_Geneva": 0.0044880031092556765,
+        "Geneva,_Nebraska": 0.0035901523458976236,
+        "Geneva,_Florida": 0.0031646582787243573,
+        "Geneva_Bible": 0.0031712998831669296,
+        "Geneva,_Georgia": 0.0029519129996461533,
+        "Palace_of_Nations": 0.0036595798066971687,
+        "Geneva_(town),_New_York": 0.002260478336490792,
+        "<unk_wid>": 2.949016453337207e-40
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8386763225908008,
+       "start": 5,
+       "end": 6,
+       "tokens": "SYRIA",
+       "labelScoreMap": {
+        "Syria": 0.8386763225908008,
+        "Roman_Syria": 0.04676576326131843,
+        "Syria_national_football_team": 0.027353565996236118,
+        "Syriac_language": 0.004884058280748307,
+        "Syrian_Communist_Party": 0.004225387639698022,
+        "Greater_Syria": 0.003929282562465791,
+        "Syrian_Arab_Federation_for_Football": 0.0037808248143069616,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.05208238244492277,
+        "Syrian_Armed_Forces": 0.002629888389607923,
+        "Armenians_in_Syria": 0.00220905155965209,
+        "Syriac_Christianity": 0.0018384043864272059,
+        "Syrian_Turkmen": 0.0016207376647891488,
+        "Ottoman_Syria": 0.001556942646695697,
+        "Syrian_Premier_League": 0.0015856533451639693,
+        "Mongol_invasions_of_the_Levant": 0.0014127827570095516,
+        "United_States_Ambassador_to_Syria": 0.0013047091155843156,
+        "Maher_Arar": 0.0012036645778840172,
+        "People's_Council_of_Syria": 0.0029405779666889383,
+        "<unk_wid>": 2.3566840757074258e-32
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9391070631769503,
+       "start": 43,
+       "end": 44,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "United_Nations": 0.9391070631769503,
+        "Flour": 0.019955975923959778,
+        "National_Unity_(Peru)": 0.008586247981247307,
+        "United_States_Ambassador_to_the_United_Nations": 0.02338705107773997,
+        "Civic_Center,_San_Francisco": 0.0021229686390037013,
+        "Paolo_Borsellino": 0.0019814427192126017,
+        "University_of_Natal": 0.0017455547802074608,
+        "Place_de_la_Concorde": 0.0016983794736108032,
+        "Srebrenica_massacre": 0.0014153162280681586,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Damascus",
+       "score": 0.9031228304667084,
+       "start": 213,
+       "end": 214,
+       "tokens": "Damascus",
+       "labelScoreMap": {
+        "Damascus": 0.9031228304667084,
+        "Damascus,_Maryland": 0.032774631220043926,
+        "Damascus,_Virginia": 0.0317215221736923,
+        "Damascus,_Oregon": 0.010074273053241696,
+        "Damascus,_Arkansas": 0.007918655630209352,
+        "Siege_of_Damascus_(634)": 0.003915417290395521,
+        "Damascus_Township,_Wayne_County,_Pennsylvania": 0.003387435310294128,
+        "Damascus_University": 0.0025519691324819124,
+        "Damascus_Gate": 0.0019796692252543797,
+        "Damascus_International_Airport": 0.0012778113721694142,
+        "State_of_Damascus": 0.0012757851255089361,
+        "<unk_wid>": 3.396989979625228e-40
+       }
+      },
+      {
+       "label": "Ilyushin",
+       "score": 0.5128594817129041,
+       "start": 58,
+       "end": 59,
+       "tokens": "Ilyushin",
+       "labelScoreMap": {
+        "Ilyushin": 0.5128594817129041,
+        "Ilyushin_Il-86": 0.3320309284668993,
+        "Ilyushin_Il-96": 0.15510958982019665,
+        "<unk_wid>": 8.504048101446752e-40
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9570491607917762,
+       "start": 168,
+       "end": 169,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "United_Nations": 0.9570491607917762,
+        "Flour": 0.020320115704849737,
+        "National_Unity_(Peru)": 0.008742922985946885,
+        "United_States_Ambassador_to_the_United_Nations": 0.004757118522080926,
+        "Civic_Center,_San_Francisco": 0.0021618752266680565,
+        "Paolo_Borsellino": 0.0020175984111966663,
+        "University_of_Natal": 0.0017774176565179445,
+        "Place_de_la_Concorde": 0.0017293840485356783,
+        "Srebrenica_massacre": 0.0014444066524275704,
+        "<unk_wid>": 1.4446924366610052e-32
+       }
+      },
+      {
+       "label": "Central_African_Republic",
+       "score": 0.9275074927498342,
+       "start": 344,
+       "end": 347,
+       "tokens": "Central African Republic",
+       "labelScoreMap": {
+        "Central_African_Republic": 0.9275074927498342,
+        "Central_African_Republic_national_football_team": 0.04802590836686327,
+        "Central_African_Republic_national_basketball_team": 0.006861410171018087,
+        "National_Assembly_(Central_African_Republic)": 0.005631073826035039,
+        "Central_African_Republic_League": 0.005177988709020079,
+        "Prefectures_of_the_Central_African_Republic": 0.00401295141206206,
+        "Sub-prefectures_of_the_Central_African_Republic": 0.0027831747651673316,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9566744176737971,
+       "start": 0,
+       "end": 1,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "United_Nations": 0.9566744176737971,
+        "Flour": 0.020312510193218197,
+        "National_Unity_(Peru)": 0.008739650233613613,
+        "United_States_Ambassador_to_the_United_Nations": 0.0051495941621796685,
+        "Civic_Center,_San_Francisco": 0.0021608979014468865,
+        "Paolo_Borsellino": 0.0020168432548601173,
+        "University_of_Natal": 0.0017767434619195051,
+        "Place_de_la_Concorde": 0.0017287228294824597,
+        "Srebrenica_massacre": 0.0014406202894826064,
+        "<unk_wid>": 1.2608951034845777e-35
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.8050138370222276,
+       "start": 345,
+       "end": 346,
+       "tokens": "African",
+       "labelScoreMap": {
+        "Africa": 0.8050138370222276,
+        "African_Americans": 0.07633191534947659,
+        "Black_people": 0.015340381761762435,
+        "African_elephant": 0.014772834639165079,
+        "African_Plate": 0.013631944360880457,
+        "Afro-Brazilians": 0.012490278279234044,
+        "African_theatre_of_World_War_I": 0.008242335887997639,
+        "Africa_(Roman_province)": 0.008447054349735751,
+        "African_diaspora": 0.005962997103214737,
+        "Afro-Peruvian": 0.0047551879070755945,
+        "Africa_Squadron": 0.003677338623683277,
+        "Afro-Jamaican": 0.0035505393759410206,
+        "Confederation_of_African_Football": 0.003423827078074147,
+        "North_African_Campaign": 0.007059586480028661,
+        "Black_Canadians": 0.0026537083092903102,
+        "African_darter": 0.0024727032797344705,
+        "Afro-Mexicans": 0.0022193398724728425,
+        "Afro-Cuban": 0.0022190785486465667,
+        "Afro-Guyanese": 0.002092283377713939,
+        "African-American_Civil_Rights_Movement_(1954\u201368)": 0.001965476360823989,
+        "African_penguin": 0.0019020823345395287,
+        "African_immigration_to_the_United_States": 0.0017752696982811654,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8850664545988551,
+       "start": 175,
+       "end": 176,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "Syria": 0.8850664545988551,
+        "Roman_Syria": 0.0489414544734074,
+        "Syria_national_football_team": 0.028601673976722003,
+        "Syriac_language": 0.005091407717067542,
+        "Syrian_Communist_Party": 0.004423783853539081,
+        "Greater_Syria": 0.00411605509377638,
+        "Syrian_Arab_Federation_for_Football": 0.003958121203684801,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.002788672231575121,
+        "Syrian_Armed_Forces": 0.002731895385373851,
+        "Armenians_in_Syria": 0.002312782531422053,
+        "Syriac_Christianity": 0.0019247318089341552,
+        "Syrian_Turkmen": 0.0016918990765740416,
+        "Ottoman_Syria": 0.0015988056025371753,
+        "Syrian_Premier_League": 0.00150563808135825,
+        "Mongol_invasions_of_the_Levant": 0.0014747413180979827,
+        "United_States_Ambassador_to_Syria": 0.0013659369808600664,
+        "Maher_Arar": 0.0012417670662779534,
+        "People's_Council_of_Syria": 0.0011641789999367676,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6948097990621689,
+       "start": 258,
+       "end": 259,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.6948097990621689,
+        "United_States_dollar": 0.2294716332640136,
+        "Billboard_Hot_100": 0.0249863891542758,
+        "American_English": 0.015255448053240231,
+        "Recording_Industry_Association_of_America": 0.010222459947147306,
+        "Us_(Peter_Gabriel_album)": 0.0020125562870003133,
+        "Federal_government_of_the_United_States": 0.0018871875937987192,
+        "United_States_men's_national_soccer_team": 0.001228617111060223,
+        "United_States_Armed_Forces": 0.00124850126425372,
+        "U.S._state": 0.016647758498995,
+        "Billboard_charts": 0.0011085424508790046,
+        "United_States_Congress": 0.0011211073131672264,
+        "<unk_wid>": 1.1709215378507296e-40
+       }
+      },
+      {
+       "label": "Democratic_Republic_of_the_Congo",
+       "score": 0.9953078700151141,
+       "start": 349,
+       "end": 353,
+       "tokens": "Democratic Republic of Congo",
+       "labelScoreMap": {
+        "Democratic_Republic_of_the_Congo": 0.9953078700151141,
+        "DR_Congo_national_football_team": 0.004692129984885871,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Iraq",
+       "score": 0.8891824847431584,
+       "start": 75,
+       "end": 76,
+       "tokens": "Iraq",
+       "labelScoreMap": {
+        "Iraq": 0.8891824847431584,
+        "Iraq_War": 0.04642607439751503,
+        "Iraq_national_football_team": 0.030033660515667644,
+        "2003_invasion_of_Iraq": 0.00755474235132184,
+        "History_of_the_Jews_in_Iraq": 0.005440627563246608,
+        "Anglo-Iraqi_War": 0.004184736340550855,
+        "Kingdom_of_Iraq": 0.003027168992961048,
+        "Iraqi_Communist_Party": 0.003010939447977858,
+        "United_States_Ambassador_to_Iraq": 0.0020971024643102144,
+        "Iraqi_dinar": 0.0019239296966168812,
+        "Iraq_Football_Association": 0.0018950643693767591,
+        "Iraqi_Republic_Railways": 0.001548756805805032,
+        "Iraqi_Army": 0.0014718165712862656,
+        "Iraqi_Premier_League": 0.001106253304054678,
+        "Armenians_in_Iraq": 0.0010966424361509826,
+        "<unk_wid>": 1.2460339921160726e-45
+       }
+      },
+      {
+       "label": "Ant\u00f3nio_Guterres",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Guterres",
+       "labelScoreMap": {
+        "Ant\u00f3nio_Guterres": 1.0,
+        "<unk_wid>": 3.583961052802226e-33
+       }
+      },
+      {
+       "label": "Iraq",
+       "score": 0.8891518354794858,
+       "start": 23,
+       "end": 24,
+       "tokens": "Iraq",
+       "labelScoreMap": {
+        "Iraq": 0.8891518354794858,
+        "Iraq_War": 0.046449331475423676,
+        "Iraq_national_football_team": 0.030032255278688864,
+        "2003_invasion_of_Iraq": 0.007579059556811291,
+        "History_of_the_Jews_in_Iraq": 0.005419913747925352,
+        "Anglo-Iraqi_War": 0.004184622948038538,
+        "Kingdom_of_Iraq": 0.0030329076918583163,
+        "Iraqi_Communist_Party": 0.0030108505680317846,
+        "United_States_Ambassador_to_Iraq": 0.0020970311169858837,
+        "Iraqi_dinar": 0.0019238729041202828,
+        "Iraq_Football_Association": 0.0018950084289562426,
+        "Iraqi_Republic_Railways": 0.0015487110880403924,
+        "Iraqi_Army": 0.001471769003887498,
+        "Iraqi_Premier_League": 0.0011062206473920367,
+        "Armenians_in_Iraq": 0.0010966100643540007,
+        "<unk_wid>": 1.2459971963928512e-45
+       }
+      },
+      {
+       "label": "Office_of_the_United_Nations_High_Commissioner_for_Human_Rights",
+       "score": 0.6014886096249955,
+       "start": 103,
+       "end": 111,
+       "tokens": "Office of the U.N. High Commissioner for Refugees",
+       "labelScoreMap": {
+        "United_Nations_High_Commissioner_for_Refugees": 0.39851139037500444,
+        "Office_of_the_United_Nations_High_Commissioner_for_Human_Rights": 0.6014886096249955,
+        "<unk_wid>": 2.139557929638938e-44
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "North_Africa",
+       "score": 0.7639360143829752,
+       "start": 98,
+       "end": 100,
+       "tokens": "North Africa",
+       "labelScoreMap": {
+        "2219875|Maghreb": 0.002706227588008043,
+        "8354636|Africa_(Roman_province)": 0.0019416365635722076,
+        "6255146|Africa": 0.025419819723501158,
+        "2510769|Spain": 0.08222667381393532
+       }
+      },
+      {
+       "label": "Iraq",
+       "score": 0.8799443069943019,
+       "start": 7,
+       "end": 8,
+       "tokens": "IRAQ",
+       "labelScoreMap": {
+        "99237|Iraq": 0.8799443069943019
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8853638139419899,
+       "start": 341,
+       "end": 342,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "163843|Syria": 0.8853638139419899
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9491479072359654,
+       "start": 10,
+       "end": 11,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.0021446503934320635,
+        "6452721|Place_de_la_Concorde": 0.0017157229585562028
+       }
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 0.7491323189259423,
+       "start": 43,
+       "end": 46,
+       "tokens": "U.N. refugee agency",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 157,
+       "end": 159,
+       "tokens": "Adrian Edwards",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 254,
+       "end": 256,
+       "tokens": "Anne Richard",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 264,
+       "end": 270,
+       "tokens": "population , refugees , and migration",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Al-Hasakah",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Hassakeh",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Syria",
+       "score": 0.8853122884563358,
+       "start": 25,
+       "end": 26,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "163843|Syria": 0.8853122884563358
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.9357011284134902,
+       "start": 99,
+       "end": 100,
+       "tokens": "Africa",
+       "labelScoreMap": {
+        "6255146|Africa": 0.9357011284134902,
+        "8354636|Africa_(Roman_province)": 0.03868473152474677
+       }
+      },
+      {
+       "label": "Ant\u00f3nio_Guterres",
+       "score": 1.0,
+       "start": 248,
+       "end": 250,
+       "tokens": "Ant\u00f3nio Guterres",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Middle_East",
+       "score": 0.9924977559192568,
+       "start": 95,
+       "end": 97,
+       "tokens": "Middle East",
+       "labelScoreMap": {
+        "6269133|Middle_East": 0.9924977559192568
+       }
+      },
+      {
+       "label": "States_of_Germany",
+       "score": 0.3297512231495928,
+       "start": 262,
+       "end": 263,
+       "tokens": "state",
+       "labelScoreMap": {
+        "5128638|New_York": 0.004842249716655399,
+        "4736286|Texas": 0.06975624016529043,
+        "5001836|Michigan": 0.014026633722115232,
+        "1814991|China": 0.04773312853407706
+       }
+      },
+      {
+       "label": "Russian_language",
+       "score": 0.2891686299128763,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.28203151193222853
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 88,
+       "end": 90,
+       "tokens": "Amin Awad",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9570235252312179,
+       "start": 106,
+       "end": 107,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.002163088948239786,
+        "6452721|Place_de_la_Concorde": 0.0017316158457479464
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8853336415756826,
+       "start": 80,
+       "end": 81,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "163843|Syria": 0.8853336415756826
+       }
+      },
+      {
+       "label": "Geneva",
+       "score": 0.8645505438430355,
+       "start": 277,
+       "end": 278,
+       "tokens": "Geneva",
+       "labelScoreMap": {
+        "7285902|Geneva": 0.8645505438430355,
+        "2660645|Canton_of_Geneva": 0.020640977705892145,
+        "4063931|Geneva_County,_Alabama": 0.017097342910879415,
+        "5118398|Geneva,_New_York": 0.015365519599572792,
+        "4893591|Geneva,_Illinois": 0.013249615039349976,
+        "4063926|Geneva,_Alabama": 0.012197465505899882,
+        "5190947|Geneva_College": 0.007510065339486312,
+        "5155572|Geneva,_Ohio": 0.006101463248935985,
+        "2660644|Geneva_Airport": 0.004367558255805974,
+        "8285540|University_of_Geneva": 0.004270454826122618,
+        "5068953|Geneva,_Nebraska": 0.0035952440531040863,
+        "4156657|Geneva,_Florida": 0.003169135436917783,
+        "4196863|Geneva,_Georgia": 0.0029560882694612827
+       }
+      },
+      {
+       "label": "UNRWA",
+       "score": 1.0,
+       "start": 164,
+       "end": 166,
+       "tokens": "refugee agency",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Al-Hasakah",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Hassakeh",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Geneva",
+       "score": 0.863064335614265,
+       "start": 8,
+       "end": 9,
+       "tokens": "GENEVA",
+       "labelScoreMap": {
+        "7285902|Geneva": 0.863064335614265,
+        "2660645|Canton_of_Geneva": 0.02050386652020338,
+        "4063931|Geneva_County,_Alabama": 0.017073144298807144,
+        "5118398|Geneva,_New_York": 0.015238516925504177,
+        "4893591|Geneva,_Illinois": 0.013217051378667527,
+        "4063926|Geneva,_Alabama": 0.012179963390967791,
+        "5190947|Geneva_College": 0.007499475207801854,
+        "5155572|Geneva,_Ohio": 0.006089971914877669,
+        "2660644|Geneva_Airport": 0.0043613756026419275,
+        "8285540|University_of_Geneva": 0.0044880031092556765,
+        "5068953|Geneva,_Nebraska": 0.0035901523458976236,
+        "4156657|Geneva,_Florida": 0.0031646582787243573,
+        "4196863|Geneva,_Georgia": 0.0029519129996461533
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8386763225908008,
+       "start": 5,
+       "end": 6,
+       "tokens": "SYRIA",
+       "labelScoreMap": {
+        "163843|Syria": 0.8386763225908008
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9391070631769503,
+       "start": 43,
+       "end": 44,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.0021229686390037013,
+        "6452721|Place_de_la_Concorde": 0.0016983794736108032
+       }
+      },
+      {
+       "label": "Damascus",
+       "score": 0.9031228304667084,
+       "start": 213,
+       "end": 214,
+       "tokens": "Damascus",
+       "labelScoreMap": {
+        "170654|Damascus": 0.9031228304667084,
+        "4352728|Damascus,_Maryland": 0.032774631220043926,
+        "4755199|Damascus,_Virginia": 0.0317215221736923,
+        "5722088|Damascus,_Oregon": 0.010074273053241696,
+        "4107594|Damascus,_Arkansas": 0.007918655630209352,
+        "5186289|Damascus_Township,_Wayne_County,_Pennsylvania": 0.003387435310294128,
+        "6957220|Damascus_Gate": 0.0019796692252543797,
+        "6300128|Damascus_International_Airport": 0.0012778113721694142
+       }
+      },
+      {
+       "label": "Ilyushin",
+       "score": 0.5128594817129041,
+       "start": 58,
+       "end": 59,
+       "tokens": "Ilyushin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9570491607917762,
+       "start": 168,
+       "end": 169,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.0021618752266680565,
+        "6452721|Place_de_la_Concorde": 0.0017293840485356783
+       }
+      },
+      {
+       "label": "Central_African_Republic",
+       "score": 0.9275074927498342,
+       "start": 344,
+       "end": 347,
+       "tokens": "Central African Republic",
+       "labelScoreMap": {
+        "239880|Central_African_Republic": 0.9275074927498342
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9566744176737971,
+       "start": 0,
+       "end": 1,
+       "tokens": "U.N.",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.0021608979014468865,
+        "6452721|Place_de_la_Concorde": 0.0017287228294824597
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.8050138370222276,
+       "start": 345,
+       "end": 346,
+       "tokens": "African",
+       "labelScoreMap": {
+        "6255146|Africa": 0.8050138370222276,
+        "8354636|Africa_(Roman_province)": 0.008447054349735751
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8850664545988551,
+       "start": 175,
+       "end": 176,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "163843|Syria": 0.8850664545988551
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6948097990621689,
+       "start": 258,
+       "end": 259,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.6948097990621689
+       }
+      },
+      {
+       "label": "Democratic_Republic_of_the_Congo",
+       "score": 0.9953078700151141,
+       "start": 349,
+       "end": 353,
+       "tokens": "Democratic Republic of Congo",
+       "labelScoreMap": {
+        "203312|Democratic_Republic_of_the_Congo": 0.9953078700151141
+       }
+      },
+      {
+       "label": "Iraq",
+       "score": 0.8891824847431584,
+       "start": 75,
+       "end": 76,
+       "tokens": "Iraq",
+       "labelScoreMap": {
+        "99237|Iraq": 0.8891824847431584
+       }
+      },
+      {
+       "label": "Ant\u00f3nio_Guterres",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Guterres",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Iraq",
+       "score": 0.8891518354794858,
+       "start": 23,
+       "end": 24,
+       "tokens": "Iraq",
+       "labelScoreMap": {
+        "99237|Iraq": 0.8891518354794858
+       }
+      },
+      {
+       "label": "Office_of_the_United_Nations_High_Commissioner_for_Human_Rights",
+       "score": 0.6014886096249955,
+       "start": 103,
+       "end": 111,
+       "tokens": "Office of the U.N. High Commissioner for Refugees",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

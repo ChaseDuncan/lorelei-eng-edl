@@ -1,0 +1,3219 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130925_F000129AX.xml",
+ "text": "2013-09-25T03:30:42\nRussian rights ombudsman calls for leniency for Greenpeace activists\nRussian rights ombudsman calls for leniency for Greenpeace activists\nRussian rights ombudsman calls for leniency for Greenpeace activists\nMOSCOW, Sept. 24 (Xinhua) -- Environmentalists from the Greenpeace organization should not be punished too severely for the rally they have organized at a Russian oil sea platform, the country's Human Rights Commissioner Vladimir Lukin said Tuesday.\nWhile calling the Greenpeace's attempt to land on the oil platform in the northern Pechora Sea \"eccentric,\" Lukin urged the Russian authorities to realize these activists \"nevertheless had admirable and noble motives.\"\n\"I hope that our authorities ... will act according to the mildest option permitted by the law,\" the Interfax news agency quoted Lukin as saying.\nGreenpeace's Arctic Sunrise ship escorted by the Russian border guards arrived at the port of Murmansk by the White Sea on Tuesday. Lawyers hired by Greenpeace have rushed there to assist the detained environmentalists.\nThirty environmentalists were detained on Sept. 18-19 while they were attempting to stage a protest against oil extraction on the Prirazlomnaya oil platform stationed in the exclusive Russian economic zone.\nMoscow insists the actions of the Greenpeace activists in the Pechora Sea were an act of provocation and piracy. The Russian Investigative Committee has opened a criminal inquiry into the incident. Enditem",
+ "tokens": [
+  "2013-09-25T03:30:42",
+  "Russian",
+  "rights",
+  "ombudsman",
+  "calls",
+  "for",
+  "leniency",
+  "for",
+  "Greenpeace",
+  "activists",
+  "Russian",
+  "rights",
+  "ombudsman",
+  "calls",
+  "for",
+  "leniency",
+  "for",
+  "Greenpeace",
+  "activists",
+  "Russian",
+  "rights",
+  "ombudsman",
+  "calls",
+  "for",
+  "leniency",
+  "for",
+  "Greenpeace",
+  "activists",
+  "MOSCOW",
+  ",",
+  "Sept.",
+  "24",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "Environmentalists",
+  "from",
+  "the",
+  "Greenpeace",
+  "organization",
+  "should",
+  "not",
+  "be",
+  "punished",
+  "too",
+  "severely",
+  "for",
+  "the",
+  "rally",
+  "they",
+  "have",
+  "organized",
+  "at",
+  "a",
+  "Russian",
+  "oil",
+  "sea",
+  "platform",
+  ",",
+  "the",
+  "country",
+  "'s",
+  "Human",
+  "Rights",
+  "Commissioner",
+  "Vladimir",
+  "Lukin",
+  "said",
+  "Tuesday",
+  ".",
+  "While",
+  "calling",
+  "the",
+  "Greenpeace",
+  "'s",
+  "attempt",
+  "to",
+  "land",
+  "on",
+  "the",
+  "oil",
+  "platform",
+  "in",
+  "the",
+  "northern",
+  "Pechora",
+  "Sea",
+  "\"",
+  "eccentric",
+  ",",
+  "\"",
+  "Lukin",
+  "urged",
+  "the",
+  "Russian",
+  "authorities",
+  "to",
+  "realize",
+  "these",
+  "activists",
+  "\"",
+  "nevertheless",
+  "had",
+  "admirable",
+  "and",
+  "noble",
+  "motives",
+  ".",
+  "\"",
+  "\"",
+  "I",
+  "hope",
+  "that",
+  "our",
+  "authorities",
+  "...",
+  "will",
+  "act",
+  "according",
+  "to",
+  "the",
+  "mildest",
+  "option",
+  "permitted",
+  "by",
+  "the",
+  "law",
+  ",",
+  "\"",
+  "the",
+  "Interfax",
+  "news",
+  "agency",
+  "quoted",
+  "Lukin",
+  "as",
+  "saying",
+  ".",
+  "Greenpeace",
+  "'s",
+  "Arctic",
+  "Sunrise",
+  "ship",
+  "escorted",
+  "by",
+  "the",
+  "Russian",
+  "border",
+  "guards",
+  "arrived",
+  "at",
+  "the",
+  "port",
+  "of",
+  "Murmansk",
+  "by",
+  "the",
+  "White",
+  "Sea",
+  "on",
+  "Tuesday",
+  ".",
+  "Lawyers",
+  "hired",
+  "by",
+  "Greenpeace",
+  "have",
+  "rushed",
+  "there",
+  "to",
+  "assist",
+  "the",
+  "detained",
+  "environmentalists",
+  ".",
+  "Thirty",
+  "environmentalists",
+  "were",
+  "detained",
+  "on",
+  "Sept.",
+  "18-19",
+  "while",
+  "they",
+  "were",
+  "attempting",
+  "to",
+  "stage",
+  "a",
+  "protest",
+  "against",
+  "oil",
+  "extraction",
+  "on",
+  "the",
+  "Prirazlomnaya",
+  "oil",
+  "platform",
+  "stationed",
+  "in",
+  "the",
+  "exclusive",
+  "Russian",
+  "economic",
+  "zone",
+  ".",
+  "Moscow",
+  "insists",
+  "the",
+  "actions",
+  "of",
+  "the",
+  "Greenpeace",
+  "activists",
+  "in",
+  "the",
+  "Pechora",
+  "Sea",
+  "were",
+  "an",
+  "act",
+  "of",
+  "provocation",
+  "and",
+  "piracy",
+  ".",
+  "The",
+  "Russian",
+  "Investigative",
+  "Committee",
+  "has",
+  "opened",
+  "a",
+  "criminal",
+  "inquiry",
+  "into",
+  "the",
+  "incident",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   71,
+   110,
+   139,
+   163,
+   176,
+   207,
+   227,
+   240,
+   241
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "Murmansk",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "Murmansk"
+      },
+      {
+       "label": "Investigative_Committee_of_Russia",
+       "score": 1.0,
+       "start": 228,
+       "end": 231,
+       "tokens": "Russian Investigative Committee"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russian"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "Prirazlomnaya"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "Russian"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Russian"
+      },
+      {
+       "label": "White_Sea",
+       "score": 1.0,
+       "start": 158,
+       "end": 160,
+       "tokens": "White Sea"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Lukin"
+      },
+      {
+       "label": "Pechora_Sea",
+       "score": 1.0,
+       "start": 86,
+       "end": 88,
+       "tokens": "Pechora Sea"
+      },
+      {
+       "label": "Pechora_Sea",
+       "score": 1.0,
+       "start": 217,
+       "end": 219,
+       "tokens": "Pechora Sea"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Lukin"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Russian"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "Russian"
+      },
+      {
+       "label": "Interfax",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "Interfax"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russian"
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 1.0,
+       "start": 66,
+       "end": 68,
+       "tokens": "Vladimir Lukin"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Moscow"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "Russian"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "Moscow",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "MOSCOW"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "Murmansk"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 228,
+       "end": 231,
+       "tokens": "Russian Investigative Committee"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russian"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "Prirazlomnaya"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "Russian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Russian"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 158,
+       "end": 160,
+       "tokens": "White Sea"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Lukin"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 86,
+       "end": 88,
+       "tokens": "Pechora Sea"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 217,
+       "end": 219,
+       "tokens": "Pechora Sea"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Lukin"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Russian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "Russian"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "Interfax"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 66,
+       "end": 68,
+       "tokens": "Vladimir Lukin"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Moscow"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "Russian"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "MOSCOW"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-09-25T03:30:42",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-09-25T03:30:42"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russian"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "rights"
+      },
+      {
+       "label": "ombudsman",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "ombudsman"
+      },
+      {
+       "label": "calls",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "calls"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "for"
+      },
+      {
+       "label": "leniency",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "leniency"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "for"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "activists",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "activists"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russian"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "rights"
+      },
+      {
+       "label": "ombudsman",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "ombudsman"
+      },
+      {
+       "label": "calls",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "calls"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "for"
+      },
+      {
+       "label": "leniency",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "leniency"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "for"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "activists",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "activists"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Russian"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "rights"
+      },
+      {
+       "label": "ombudsman",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "ombudsman"
+      },
+      {
+       "label": "calls",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "calls"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "for"
+      },
+      {
+       "label": "leniency",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "leniency"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "for"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "activists",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "activists"
+      },
+      {
+       "label": "MOSCOW",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "MOSCOW"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": ","
+      },
+      {
+       "label": "Sept.",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Sept."
+      },
+      {
+       "label": "24",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "24"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "--"
+      },
+      {
+       "label": "Environmentalists",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Environmentalists"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "the"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "organization",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "organization"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "should"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "not"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "be"
+      },
+      {
+       "label": "punished",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "punished"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "too"
+      },
+      {
+       "label": "severely",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "severely"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "the"
+      },
+      {
+       "label": "rally",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "rally"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "they"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "have"
+      },
+      {
+       "label": "organized",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "organized"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "a"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian"
+      },
+      {
+       "label": "oil",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "oil"
+      },
+      {
+       "label": "sea",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "sea"
+      },
+      {
+       "label": "platform",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "platform"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "country"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "'s"
+      },
+      {
+       "label": "Human",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Human"
+      },
+      {
+       "label": "Rights",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Rights"
+      },
+      {
+       "label": "Commissioner",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Commissioner"
+      },
+      {
+       "label": "Vladimir",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Vladimir"
+      },
+      {
+       "label": "Lukin",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Lukin"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "said"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "."
+      },
+      {
+       "label": "While",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "While"
+      },
+      {
+       "label": "calling",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "calling"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "the"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "'s"
+      },
+      {
+       "label": "attempt",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "attempt"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "to"
+      },
+      {
+       "label": "land",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "land"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "the"
+      },
+      {
+       "label": "oil",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "oil"
+      },
+      {
+       "label": "platform",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "platform"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "the"
+      },
+      {
+       "label": "northern",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "northern"
+      },
+      {
+       "label": "Pechora",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "Pechora"
+      },
+      {
+       "label": "Sea",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Sea"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "\""
+      },
+      {
+       "label": "eccentric",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "eccentric"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "\""
+      },
+      {
+       "label": "Lukin",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Lukin"
+      },
+      {
+       "label": "urged",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "urged"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "the"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "Russian"
+      },
+      {
+       "label": "authorities",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "authorities"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "to"
+      },
+      {
+       "label": "realize",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "realize"
+      },
+      {
+       "label": "these",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "these"
+      },
+      {
+       "label": "activists",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "activists"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "\""
+      },
+      {
+       "label": "nevertheless",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "nevertheless"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "had"
+      },
+      {
+       "label": "admirable",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "admirable"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "and"
+      },
+      {
+       "label": "noble",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "noble"
+      },
+      {
+       "label": "motives",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "motives"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "\""
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "\""
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "I"
+      },
+      {
+       "label": "hope",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "hope"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "that"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "our"
+      },
+      {
+       "label": "authorities",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "authorities"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "..."
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "will"
+      },
+      {
+       "label": "act",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "act"
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "the"
+      },
+      {
+       "label": "mildest",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "mildest"
+      },
+      {
+       "label": "option",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "option"
+      },
+      {
+       "label": "permitted",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "permitted"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "the"
+      },
+      {
+       "label": "law",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "law"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "\""
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "the"
+      },
+      {
+       "label": "Interfax",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "Interfax"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "news"
+      },
+      {
+       "label": "agency",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "agency"
+      },
+      {
+       "label": "quoted",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "quoted"
+      },
+      {
+       "label": "Lukin",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Lukin"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "as"
+      },
+      {
+       "label": "saying",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "saying"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "."
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "'s"
+      },
+      {
+       "label": "Arctic",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Arctic"
+      },
+      {
+       "label": "Sunrise",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "Sunrise"
+      },
+      {
+       "label": "ship",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "ship"
+      },
+      {
+       "label": "escorted",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "escorted"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "the"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "Russian"
+      },
+      {
+       "label": "border",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "border"
+      },
+      {
+       "label": "guards",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "guards"
+      },
+      {
+       "label": "arrived",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "arrived"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "the"
+      },
+      {
+       "label": "port",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "port"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "of"
+      },
+      {
+       "label": "Murmansk",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "Murmansk"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "the"
+      },
+      {
+       "label": "White",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "White"
+      },
+      {
+       "label": "Sea",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "Sea"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "on"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "."
+      },
+      {
+       "label": "Lawyers",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Lawyers"
+      },
+      {
+       "label": "hired",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "hired"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "by"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "have"
+      },
+      {
+       "label": "rushed",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "rushed"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "there"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "to"
+      },
+      {
+       "label": "assist",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "assist"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "the"
+      },
+      {
+       "label": "detained",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "detained"
+      },
+      {
+       "label": "environmentalists",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "environmentalists"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "."
+      },
+      {
+       "label": "Thirty",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "Thirty"
+      },
+      {
+       "label": "environmentalists",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "environmentalists"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "were"
+      },
+      {
+       "label": "detained",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "detained"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "on"
+      },
+      {
+       "label": "Sept.",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "Sept."
+      },
+      {
+       "label": "18-19",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "18-19"
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "while"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "they"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "were"
+      },
+      {
+       "label": "attempting",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "attempting"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "to"
+      },
+      {
+       "label": "stage",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "stage"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "a"
+      },
+      {
+       "label": "protest",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "protest"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "against"
+      },
+      {
+       "label": "oil",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "oil"
+      },
+      {
+       "label": "extraction",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "extraction"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "the"
+      },
+      {
+       "label": "Prirazlomnaya",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "Prirazlomnaya"
+      },
+      {
+       "label": "oil",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "oil"
+      },
+      {
+       "label": "platform",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "platform"
+      },
+      {
+       "label": "stationed",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "stationed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "the"
+      },
+      {
+       "label": "exclusive",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "exclusive"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Russian"
+      },
+      {
+       "label": "economic",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "economic"
+      },
+      {
+       "label": "zone",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "zone"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "."
+      },
+      {
+       "label": "Moscow",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Moscow"
+      },
+      {
+       "label": "insists",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "insists"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "the"
+      },
+      {
+       "label": "actions",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "actions"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "the"
+      },
+      {
+       "label": "Greenpeace",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "Greenpeace"
+      },
+      {
+       "label": "activists",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "activists"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "the"
+      },
+      {
+       "label": "Pechora",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "Pechora"
+      },
+      {
+       "label": "Sea",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "Sea"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "were"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "an"
+      },
+      {
+       "label": "act",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "act"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "of"
+      },
+      {
+       "label": "provocation",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "provocation"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "and"
+      },
+      {
+       "label": "piracy",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "piracy"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "The"
+      },
+      {
+       "label": "Russian",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "Russian"
+      },
+      {
+       "label": "Investigative",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Investigative"
+      },
+      {
+       "label": "Committee",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Committee"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "has"
+      },
+      {
+       "label": "opened",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "opened"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "a"
+      },
+      {
+       "label": "criminal",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "criminal"
+      },
+      {
+       "label": "inquiry",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "inquiry"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "into"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "the"
+      },
+      {
+       "label": "incident",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "incident"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838728934256,
+       "start": 213,
+       "end": 214,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {
+        "Greenpeace": 0.9987838728934256,
+        "Sinking_of_the_Rainbow_Warrior": 0.0012161271065743884,
+        "<unk_wid>": 1.0321423366081113e-35
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285079,
+       "start": 39,
+       "end": 40,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {
+        "Greenpeace": 0.9987838729285079,
+        "Sinking_of_the_Rainbow_Warrior": 0.0012161270714921744,
+        "<unk_wid>": 3.2190669068523556e-44
+       }
+      },
+      {
+       "label": "Murmansk",
+       "score": 0.9233723453433118,
+       "start": 155,
+       "end": 156,
+       "tokens": "Murmansk",
+       "labelScoreMap": {
+        "Murmansk": 0.9233723453433118,
+        "Murmansk_Oblast": 0.05481925310985664,
+        "Murmansk_Airport": 0.014474675030269175,
+        "USS_Milwaukee_(CL-5)": 0.007333726516562252,
+        "<unk_wid>": 1.511300216562313e-42
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 228,
+       "end": 231,
+       "tokens": "Russian Investigative Committee",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Russian_language",
+       "score": 0.29002209365953874,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.29002209365953874,
+        "Russia": 0.28208095106531744,
+        "Russians": 0.08825502703301448,
+        "Russian_Empire": 0.05455779032665667,
+        "Russian_Wikipedia": 0.007855751033096044,
+        "Russian_Americans": 0.015251815609099629,
+        "Soviet_Union": 0.2167394245250685,
+        "Russian_Orthodox_Church": 0.003924377421121759,
+        "Russian_Canadian": 0.0032881754307695884,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.026192052173229806,
+        "Vladimir_K._Zworykin": 0.001514293234625643,
+        "Alexander_Pushkin": 0.0012423335505167233,
+        "Russian_Ground_Forces": 0.0010448518528353298,
+        "1998_Russian_financial_crisis": 0.0010141084416864553,
+        "Roscosmos_State_Corporation": 0.0008779046871751451,
+        "The_Battle_for_Wesnoth": 0.0008467674835192102,
+        "Russian_Academy_of_Sciences": 0.0008444257954297014,
+        "Russian_America": 0.0015818347579776588,
+        "Russian_Civil_War": 0.0007124625818462163,
+        "Russian_Navy": 0.0006740256081000941,
+        "Russian_Revolution": 0.0014795337293752777,
+        "<unk_wid>": 1.0040301416945241e-37
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 196,
+       "end": 197,
+       "tokens": "Prirazlomnaya",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Soviet_Union",
+       "score": 0.3489408947959036,
+       "start": 228,
+       "end": 229,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.2709057023769969,
+        "Russia": 0.15925394092575398,
+        "Russians": 0.06616544046396261,
+        "Russian_Empire": 0.0604359085361932,
+        "Russian_Wikipedia": 0.007496598850451167,
+        "Russian_Americans": 0.008282010508012779,
+        "Soviet_Union": 0.3489408947959036,
+        "Russian_Orthodox_Church": 0.0039100177228099525,
+        "Russian_Canadian": 0.003137844412713573,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.05684824729936412,
+        "Vladimir_K._Zworykin": 0.0014450617570961359,
+        "Alexander_Pushkin": 0.0011855356284196756,
+        "Russian_Ground_Forces": 0.0010180743145401941,
+        "1998_Russian_financial_crisis": 0.0009685391991839762,
+        "Roscosmos_State_Corporation": 0.0008423101050357857,
+        "The_Battle_for_Wesnoth": 0.000808054397634801,
+        "Russian_Academy_of_Sciences": 0.0011381086576403153,
+        "Russian_America": 0.0038961564438497742,
+        "Russian_Civil_War": 0.0009063905002054317,
+        "Russian_Navy": 0.0007166450830922799,
+        "Russian_Revolution": 0.0016985180211399247,
+        "<unk_wid>": 3.5178764310719357e-31
+       }
+      },
+      {
+       "label": "Soviet_Union",
+       "score": 0.3480903310054736,
+       "start": 19,
+       "end": 20,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.270936234972741,
+        "Russia": 0.16947187388996135,
+        "Russians": 0.06239128683958552,
+        "Russian_Empire": 0.0591261634866296,
+        "Russian_Wikipedia": 0.00751366823749505,
+        "Russian_Americans": 0.0068397143175601164,
+        "Soviet_Union": 0.3480903310054736,
+        "Russian_Orthodox_Church": 0.0037269750451098364,
+        "Russian_Canadian": 0.003144991145188226,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.05706649979935594,
+        "Vladimir_K._Zworykin": 0.0014483530195958795,
+        "Alexander_Pushkin": 0.001188235691169489,
+        "Russian_Ground_Forces": 0.0010071114695352418,
+        "1998_Russian_financial_crisis": 0.0009696394566377513,
+        "Roscosmos_State_Corporation": 0.0008399662405601775,
+        "The_Battle_for_Wesnoth": 0.0008098948166758691,
+        "Russian_Academy_of_Sciences": 0.000810840900230669,
+        "Russian_America": 0.0022725824260786216,
+        "Russian_Civil_War": 0.0007108977763934165,
+        "Russian_Navy": 0.0006767937811130868,
+        "Russian_Revolution": 0.000957945682909476,
+        "<unk_wid>": 4.62689077217578e-37
+       }
+      },
+      {
+       "label": "White_Sea",
+       "score": 0.9920255682060328,
+       "start": 158,
+       "end": 160,
+       "tokens": "White Sea",
+       "labelScoreMap": {
+        "White_Sea": 0.9920255682060328,
+        "White_Sea\u2013Baltic_Canal": 0.004630053290557015,
+        "Morgan_Kibby": 0.0033443785034101515,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285077,
+       "start": 17,
+       "end": 18,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {
+        "Greenpeace": 0.9987838729285077,
+        "Sinking_of_the_Rainbow_Warrior": 0.0012161270714922915,
+        "<unk_wid>": 4.198782921981331e-45
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729282873,
+       "start": 139,
+       "end": 140,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {
+        "Greenpeace": 0.9987838729282873,
+        "Sinking_of_the_Rainbow_Warrior": 0.0012161270717127176,
+        "<unk_wid>": 8.733243982790417e-38
+       }
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 0.6440663838829271,
+       "start": 92,
+       "end": 93,
+       "tokens": "Lukin",
+       "labelScoreMap": {
+        "Vladimir_Lukin": 0.6440663838829271,
+        "Toki_Pona": 0.1694929145546801,
+        "No_Code": 0.13559348772301763,
+        "Matt_Lukin": 0.05084721383937523,
+        "<unk_wid>": 1.8076081502757313e-30
+       }
+      },
+      {
+       "label": "Pechora_Sea",
+       "score": 1.0,
+       "start": 86,
+       "end": 88,
+       "tokens": "Pechora Sea",
+       "labelScoreMap": {
+        "Pechora_Sea": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Pechora_Sea",
+       "score": 1.0,
+       "start": 217,
+       "end": 219,
+       "tokens": "Pechora Sea",
+       "labelScoreMap": {
+        "Pechora_Sea": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729284833,
+       "start": 74,
+       "end": 75,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {
+        "Greenpeace": 0.9987838729284833,
+        "Sinking_of_the_Rainbow_Warrior": 0.0012161270715166483,
+        "<unk_wid>": 1.0947416732766024e-39
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816668785453126,
+       "start": 33,
+       "end": 34,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816668785453126,
+        "Xinhua_District,_Tainan": 0.01698198050806805,
+        "Xinhua_County": 0.0013511409466193847,
+        "<unk_wid>": 3.5568372725987646e-32
+       }
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 0.6440676660732167,
+       "start": 135,
+       "end": 136,
+       "tokens": "Lukin",
+       "labelScoreMap": {
+        "Vladimir_Lukin": 0.6440676660732167,
+        "Toki_Pona": 0.1694916364949422,
+        "No_Code": 0.13559346555932575,
+        "Matt_Lukin": 0.05084723187251523,
+        "<unk_wid>": 2.1676871142386966e-36
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.3735742119833575,
+       "start": 203,
+       "end": 204,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.3050735002087903,
+        "Russia": 0.3735742119833575,
+        "Russians": 0.11108089502844458,
+        "Russian_Empire": 0.05678421754855712,
+        "Russian_Wikipedia": 0.00813261074674089,
+        "Russian_Americans": 0.015692398024626443,
+        "Soviet_Union": 0.09246128588782208,
+        "Russian_Orthodox_Church": 0.004074614625408461,
+        "Russian_Canadian": 0.003404051354104671,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.016857172668768735,
+        "Vladimir_K._Zworykin": 0.0015676572142723378,
+        "Alexander_Pushkin": 0.0012861168628384254,
+        "Russian_Ground_Forces": 0.001082022118346967,
+        "1998_Russian_financial_crisis": 0.0010508399098480977,
+        "Roscosmos_State_Corporation": 0.0009091388816721602,
+        "The_Battle_for_Wesnoth": 0.0008766077295975502,
+        "Russian_Academy_of_Sciences": 0.0008572454031814763,
+        "Russian_America": 0.002081602732402743,
+        "Russian_Civil_War": 0.0007404712670998415,
+        "Russian_Navy": 0.0006982507727386285,
+        "Russian_Revolution": 0.0017150890313811684,
+        "<unk_wid>": 1.6286202329030012e-36
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.28546659744215863,
+       "start": 147,
+       "end": 148,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.28313234447485125,
+        "Russia": 0.28546659744215863,
+        "Russians": 0.07525494793905282,
+        "Russian_Empire": 0.058436344785017545,
+        "Russian_Wikipedia": 0.007813260369246003,
+        "Russian_Americans": 0.008288841714444798,
+        "Soviet_Union": 0.23567442518085824,
+        "Russian_Orthodox_Church": 0.0038634667222388268,
+        "Russian_Canadian": 0.0032703911440034802,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.02772444144399198,
+        "Vladimir_K._Zworykin": 0.0015061030921896099,
+        "Alexander_Pushkin": 0.0012356141619262755,
+        "Russian_Ground_Forces": 0.0010406925017851963,
+        "1998_Russian_financial_crisis": 0.0010082498254625255,
+        "Roscosmos_State_Corporation": 0.0008730149766760019,
+        "The_Battle_for_Wesnoth": 0.0008421876926691833,
+        "Russian_Academy_of_Sciences": 0.0008125438710495222,
+        "Russian_America": 0.0013825178723771228,
+        "Russian_Civil_War": 0.0007075533157926685,
+        "Russian_Navy": 0.0006731511753189074,
+        "Russian_Revolution": 0.0009933102988893949,
+        "<unk_wid>": 8.903073960617391e-40
+       }
+      },
+      {
+       "label": "Interfax",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "Interfax",
+       "labelScoreMap": {
+        "Interfax": 1.0,
+        "<unk_wid>": 6.0255833965967134e-43
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285055,
+       "start": 26,
+       "end": 27,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {
+        "Greenpeace": 0.9987838729285055,
+        "Sinking_of_the_Rainbow_Warrior": 0.0012161270714945954,
+        "<unk_wid>": 4.1987829219813127e-44
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285079,
+       "start": 166,
+       "end": 167,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {
+        "Greenpeace": 0.9987838729285079,
+        "Sinking_of_the_Rainbow_Warrior": 0.0012161270714921787,
+        "<unk_wid>": 1.7634888272321598e-43
+       }
+      },
+      {
+       "label": "Soviet_Union",
+       "score": 0.32124695169623263,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.2740037829316763,
+        "Russia": 0.1946234266568278,
+        "Russians": 0.06808871624756475,
+        "Russian_Empire": 0.060653732980818414,
+        "Russian_Wikipedia": 0.007583212122033921,
+        "Russian_Americans": 0.00808104797462364,
+        "Soviet_Union": 0.32124695169623263,
+        "Russian_Orthodox_Church": 0.0037579870458479075,
+        "Russian_Canadian": 0.0031741000084284546,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.04699701293926183,
+        "Vladimir_K._Zworykin": 0.001461758434118612,
+        "Alexander_Pushkin": 0.0011992336070193814,
+        "Russian_Ground_Forces": 0.0010180101850782092,
+        "1998_Russian_financial_crisis": 0.0009788188867098713,
+        "Roscosmos_State_Corporation": 0.0008478916891913227,
+        "The_Battle_for_Wesnoth": 0.0008173909005658531,
+        "Russian_Academy_of_Sciences": 0.0008123568912681066,
+        "Russian_America": 0.0019399183757116338,
+        "Russian_Civil_War": 0.0007497697963636922,
+        "Russian_Navy": 0.0006899681877471915,
+        "Russian_Revolution": 0.0012749124429100934,
+        "<unk_wid>": 1.96695458334045e-36
+       }
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 1.0,
+       "start": 66,
+       "end": 68,
+       "tokens": "Vladimir Lukin",
+       "labelScoreMap": {
+        "Vladimir_Lukin": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Moscow",
+       "score": 0.930885742362594,
+       "start": 207,
+       "end": 208,
+       "tokens": "Moscow",
+       "labelScoreMap": {
+        "Moscow": 0.930885742362594,
+        "Moscow,_Idaho": 0.02562935760546859,
+        "Kremlin_Cup": 0.010769126608890374,
+        "Moscow_Oblast": 0.008260272133188052,
+        "Battle_of_Moscow": 0.007258982732992068,
+        "Grand_Duchy_of_Moscow": 0.004483429373455416,
+        "Moscow,_Pennsylvania": 0.0028189132474632735,
+        "Moscow_Metro": 0.002540223367198017,
+        "Moscow_International_Film_Festival": 0.001879780200515108,
+        "Moscow,_Maine": 0.0015778353928321794,
+        "2007_Kremlin_Cup": 0.0014093301224789951,
+        "Moscow_Governorate": 0.0013425099002681963,
+        "Moscow_State_University": 0.0011444969526556634,
+        "<unk_wid>": 1.2672864298392294e-33
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.30975849267908295,
+       "start": 95,
+       "end": 96,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.29296567286445746,
+        "Russia": 0.30975849267908295,
+        "Russians": 0.08762803717850742,
+        "Russian_Empire": 0.0543436706852932,
+        "Russian_Wikipedia": 0.00792526152727187,
+        "Russian_Americans": 0.0141558883337806,
+        "Soviet_Union": 0.1902954627707704,
+        "Russian_Orthodox_Church": 0.0039430354999729035,
+        "Russian_Canadian": 0.003317269525353126,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.023729431031186653,
+        "Vladimir_K._Zworykin": 0.0015276918477845067,
+        "Alexander_Pushkin": 0.0012533259539866325,
+        "Russian_Ground_Forces": 0.0010541404380016062,
+        "1998_Russian_financial_crisis": 0.0010230846941502532,
+        "Roscosmos_State_Corporation": 0.0008857268775739448,
+        "The_Battle_for_Wesnoth": 0.0008542597642002338,
+        "Russian_Academy_of_Sciences": 0.0008479561145494891,
+        "Russian_America": 0.0018479854887129726,
+        "Russian_Civil_War": 0.0007156519786415382,
+        "Russian_Navy": 0.0006802255403027617,
+        "Russian_Revolution": 0.0012477292064195045,
+        "<unk_wid>": 1.1140232699046537e-37
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285077,
+       "start": 8,
+       "end": 9,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {
+        "Greenpeace": 0.9987838729285077,
+        "Sinking_of_the_Rainbow_Warrior": 0.0012161270714923255,
+        "<unk_wid>": 2.7991886146542208e-45
+       }
+      },
+      {
+       "label": "Moscow",
+       "score": 0.907184772301555,
+       "start": 28,
+       "end": 29,
+       "tokens": "MOSCOW",
+       "labelScoreMap": {
+        "Moscow": 0.907184772301555,
+        "Moscow,_Idaho": 0.02318586636843065,
+        "Kremlin_Cup": 0.010516033229042826,
+        "Moscow_Oblast": 0.00792884337760518,
+        "Battle_of_Moscow": 0.006963068497640131,
+        "Grand_Duchy_of_Moscow": 0.004368093024351089,
+        "Moscow,_Pennsylvania": 0.0027523881422539124,
+        "Moscow_Metro": 0.0024534724982246954,
+        "Moscow_International_Film_Festival": 0.005474912151881394,
+        "Moscow,_Maine": 0.001540737408969277,
+        "2007_Kremlin_Cup": 0.0013761941607855971,
+        "Moscow_Governorate": 0.001286444164997513,
+        "Moscow_State_University": 0.024969174674262497,
+        "<unk_wid>": 3.553076149959518e-33
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.36320705425412814,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "Russian_language": 0.29478863474851363,
+        "Russia": 0.36320705425412814,
+        "Russians": 0.09059169911265175,
+        "Russian_Empire": 0.0523114148939118,
+        "Russian_Wikipedia": 0.008037914205791061,
+        "Russian_Americans": 0.012093362882582606,
+        "Soviet_Union": 0.1407348602605692,
+        "Russian_Orthodox_Church": 0.003989360115357364,
+        "Russian_Canadian": 0.0033644224087861357,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.01916157463966977,
+        "Vladimir_K._Zworykin": 0.0015494070189726297,
+        "Alexander_Pushkin": 0.0012711423309383987,
+        "Russian_Ground_Forces": 0.0010702839536153792,
+        "1998_Russian_financial_crisis": 0.001037539276678128,
+        "Roscosmos_State_Corporation": 0.0008982339546557215,
+        "The_Battle_for_Wesnoth": 0.0008664025252194961,
+        "Russian_Academy_of_Sciences": 0.0008497632699771411,
+        "Russian_America": 0.001461865709292182,
+        "Russian_Civil_War": 0.0007274952951175766,
+        "Russian_Navy": 0.0006913635545256024,
+        "Russian_Revolution": 0.0012962055890460274,
+        "<unk_wid>": 1.2974736302236567e-37
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838728934256,
+       "start": 213,
+       "end": 214,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285079,
+       "start": 39,
+       "end": 40,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Murmansk",
+       "score": 0.9233723453433118,
+       "start": 155,
+       "end": 156,
+       "tokens": "Murmansk",
+       "labelScoreMap": {
+        "524305|Murmansk": 0.9233723453433118,
+        "524304|Murmansk_Oblast": 0.05481925310985664,
+        "6300972|Murmansk_Airport": 0.014474675030269175
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 228,
+       "end": 231,
+       "tokens": "Russian Investigative Committee",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Russian_language",
+       "score": 0.29002209365953874,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.28208095106531744
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 196,
+       "end": 197,
+       "tokens": "Prirazlomnaya",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Soviet_Union",
+       "score": 0.3489408947959036,
+       "start": 228,
+       "end": 229,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.15925394092575398
+       }
+      },
+      {
+       "label": "Soviet_Union",
+       "score": 0.3480903310054736,
+       "start": 19,
+       "end": 20,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.16947187388996135
+       }
+      },
+      {
+       "label": "White_Sea",
+       "score": 0.9920255682060328,
+       "start": 158,
+       "end": 160,
+       "tokens": "White Sea",
+       "labelScoreMap": {
+        "577742|White_Sea": 0.9920255682060328,
+        "577919|White_Sea\u2013Baltic_Canal": 0.004630053290557015
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285077,
+       "start": 17,
+       "end": 18,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729282873,
+       "start": 139,
+       "end": 140,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 0.6440663838829271,
+       "start": 92,
+       "end": 93,
+       "tokens": "Lukin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pechora_Sea",
+       "score": 1.0,
+       "start": 86,
+       "end": 88,
+       "tokens": "Pechora Sea",
+       "labelScoreMap": {
+        "511786|Pechora_Sea": 1.0
+       }
+      },
+      {
+       "label": "Pechora_Sea",
+       "score": 1.0,
+       "start": 217,
+       "end": 219,
+       "tokens": "Pechora Sea",
+       "labelScoreMap": {
+        "511786|Pechora_Sea": 1.0
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729284833,
+       "start": 74,
+       "end": 75,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816668785453126,
+       "start": 33,
+       "end": 34,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.01698198050806805,
+        "1788859|Xinhua_County": 0.0013511409466193847
+       }
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 0.6440676660732167,
+       "start": 135,
+       "end": 136,
+       "tokens": "Lukin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Russia",
+       "score": 0.3735742119833575,
+       "start": 203,
+       "end": 204,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.3735742119833575
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.28546659744215863,
+       "start": 147,
+       "end": 148,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.28546659744215863
+       }
+      },
+      {
+       "label": "Interfax",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "Interfax",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285055,
+       "start": 26,
+       "end": 27,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285079,
+       "start": 166,
+       "end": 167,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Soviet_Union",
+       "score": 0.32124695169623263,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.1946234266568278
+       }
+      },
+      {
+       "label": "Vladimir_Lukin",
+       "score": 1.0,
+       "start": 66,
+       "end": 68,
+       "tokens": "Vladimir Lukin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Moscow",
+       "score": 0.930885742362594,
+       "start": 207,
+       "end": 208,
+       "tokens": "Moscow",
+       "labelScoreMap": {
+        "524901|Moscow": 0.930885742362594,
+        "5601538|Moscow,_Idaho": 0.02562935760546859,
+        "524925|Moscow_Oblast": 0.008260272133188052,
+        "5202009|Moscow,_Pennsylvania": 0.0028189132474632735,
+        "4972660|Moscow,_Maine": 0.0015778353928321794
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.30975849267908295,
+       "start": 95,
+       "end": 96,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.30975849267908295
+       }
+      },
+      {
+       "label": "Greenpeace",
+       "score": 0.9987838729285077,
+       "start": 8,
+       "end": 9,
+       "tokens": "Greenpeace",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Moscow",
+       "score": 0.907184772301555,
+       "start": 28,
+       "end": 29,
+       "tokens": "MOSCOW",
+       "labelScoreMap": {
+        "524901|Moscow": 0.907184772301555,
+        "5601538|Moscow,_Idaho": 0.02318586636843065,
+        "524925|Moscow_Oblast": 0.00792884337760518,
+        "5202009|Moscow,_Pennsylvania": 0.0027523881422539124,
+        "4972660|Moscow,_Maine": 0.001540737408969277
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.36320705425412814,
+       "start": 55,
+       "end": 56,
+       "tokens": "Russian",
+       "labelScoreMap": {
+        "2017370|Russia": 0.36320705425412814
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

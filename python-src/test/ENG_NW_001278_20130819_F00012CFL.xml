@@ -1,0 +1,2211 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130819_F00012CFL.xml",
+ "text": "2013-08-19T23:12:33\nProfile: Jamaican PM Portia Simpson Miller\nProfile: Jamaican PM Portia Simpson Miller\nBEIJING, Aug. 19 (Xinhua) -- Jamaican Prime Minister Portia Simpson Miller will visit China from Aug. 20 to 25 at the invitation of Chinese Premier Li Keqiang.\nSimpson Miller, 68, had served as Minister of Labour, Social Security and Sport, and Minister of Local Government through the years.\nIn 2006, she was elected leader of the People's National Party and became prime minister. She stepped down in the next year after her party lost the general election.\nShe led her party back to power in the 2011 election and became prime minister again.\nSimpson Miller maintains a friendly policy toward China. She attended the World Conference on Women in Beijing in 1995 and visited China again in 2009 as Jamaica's opposition leader. Enditem",
+ "tokens": [
+  "2013-08-19T23:12:33",
+  "Profile",
+  ":",
+  "Jamaican",
+  "PM",
+  "Portia",
+  "Simpson",
+  "Miller",
+  "Profile",
+  ":",
+  "Jamaican",
+  "PM",
+  "Portia",
+  "Simpson",
+  "Miller",
+  "BEIJING",
+  ",",
+  "Aug.",
+  "19",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "Jamaican",
+  "Prime",
+  "Minister",
+  "Portia",
+  "Simpson",
+  "Miller",
+  "will",
+  "visit",
+  "China",
+  "from",
+  "Aug.",
+  "20",
+  "to",
+  "25",
+  "at",
+  "the",
+  "invitation",
+  "of",
+  "Chinese",
+  "Premier",
+  "Li",
+  "Keqiang",
+  ".",
+  "Simpson",
+  "Miller",
+  ",",
+  "68",
+  ",",
+  "had",
+  "served",
+  "as",
+  "Minister",
+  "of",
+  "Labour",
+  ",",
+  "Social",
+  "Security",
+  "and",
+  "Sport",
+  ",",
+  "and",
+  "Minister",
+  "of",
+  "Local",
+  "Government",
+  "through",
+  "the",
+  "years",
+  ".",
+  "In",
+  "2006",
+  ",",
+  "she",
+  "was",
+  "elected",
+  "leader",
+  "of",
+  "the",
+  "People",
+  "'s",
+  "National",
+  "Party",
+  "and",
+  "became",
+  "prime",
+  "minister",
+  ".",
+  "She",
+  "stepped",
+  "down",
+  "in",
+  "the",
+  "next",
+  "year",
+  "after",
+  "her",
+  "party",
+  "lost",
+  "the",
+  "general",
+  "election",
+  ".",
+  "She",
+  "led",
+  "her",
+  "party",
+  "back",
+  "to",
+  "power",
+  "in",
+  "the",
+  "2011",
+  "election",
+  "and",
+  "became",
+  "prime",
+  "minister",
+  "again",
+  ".",
+  "Simpson",
+  "Miller",
+  "maintains",
+  "a",
+  "friendly",
+  "policy",
+  "toward",
+  "China",
+  ".",
+  "She",
+  "attended",
+  "the",
+  "World",
+  "Conference",
+  "on",
+  "Women",
+  "in",
+  "Beijing",
+  "in",
+  "1995",
+  "and",
+  "visited",
+  "China",
+  "again",
+  "in",
+  "2009",
+  "as",
+  "Jamaica",
+  "'s",
+  "opposition",
+  "leader",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   46,
+   72,
+   90,
+   105,
+   122,
+   131,
+   154,
+   155
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 26,
+       "end": 29,
+       "tokens": "Portia Simpson Miller"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "China"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 46,
+       "end": 48,
+       "tokens": "Simpson Miller"
+      },
+      {
+       "label": "Jamaica",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "People's_National_Party",
+       "score": 1.0,
+       "start": 81,
+       "end": 85,
+       "tokens": "People 's National Party"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "China"
+      },
+      {
+       "label": "Beijing",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Beijing"
+      },
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 122,
+       "end": 124,
+       "tokens": "Simpson Miller"
+      },
+      {
+       "label": "Jamaica",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "China"
+      },
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 12,
+       "end": 15,
+       "tokens": "Portia Simpson Miller"
+      },
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 5,
+       "end": 8,
+       "tokens": "Portia Simpson Miller"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 56,
+       "end": 62,
+       "tokens": "Labour , Social Security and Sport"
+      },
+      {
+       "label": "Beijing",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "Jamaica",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "Jamaica"
+      },
+      {
+       "label": "Jamaica",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "Li_Keqiang",
+       "score": 1.0,
+       "start": 43,
+       "end": 45,
+       "tokens": "Li Keqiang"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 66,
+       "end": 68,
+       "tokens": "Local Government"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 26,
+       "end": 29,
+       "tokens": "Portia Simpson Miller"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 46,
+       "end": 48,
+       "tokens": "Simpson Miller"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 81,
+       "end": 85,
+       "tokens": "People 's National Party"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Beijing"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 122,
+       "end": 124,
+       "tokens": "Simpson Miller"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "China"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 12,
+       "end": 15,
+       "tokens": "Portia Simpson Miller"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 5,
+       "end": 8,
+       "tokens": "Portia Simpson Miller"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 56,
+       "end": 62,
+       "tokens": "Labour , Social Security and Sport"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "Jamaica"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 43,
+       "end": 45,
+       "tokens": "Li Keqiang"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 66,
+       "end": 68,
+       "tokens": "Local Government"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-08-19T23:12:33",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-08-19T23:12:33"
+      },
+      {
+       "label": "Profile",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Profile"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": ":"
+      },
+      {
+       "label": "Jamaican",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "PM",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "PM"
+      },
+      {
+       "label": "Portia",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Portia"
+      },
+      {
+       "label": "Simpson",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Simpson"
+      },
+      {
+       "label": "Miller",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Miller"
+      },
+      {
+       "label": "Profile",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Profile"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": ":"
+      },
+      {
+       "label": "Jamaican",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "PM",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "PM"
+      },
+      {
+       "label": "Portia",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Portia"
+      },
+      {
+       "label": "Simpson",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Simpson"
+      },
+      {
+       "label": "Miller",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "Miller"
+      },
+      {
+       "label": "BEIJING",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": ","
+      },
+      {
+       "label": "Aug.",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "Aug."
+      },
+      {
+       "label": "19",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "19"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "--"
+      },
+      {
+       "label": "Jamaican",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Jamaican"
+      },
+      {
+       "label": "Prime",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Prime"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "Minister"
+      },
+      {
+       "label": "Portia",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Portia"
+      },
+      {
+       "label": "Simpson",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Simpson"
+      },
+      {
+       "label": "Miller",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "Miller"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "will"
+      },
+      {
+       "label": "visit",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "visit"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "China"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "from"
+      },
+      {
+       "label": "Aug.",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Aug."
+      },
+      {
+       "label": "20",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "20"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "to"
+      },
+      {
+       "label": "25",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "25"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "the"
+      },
+      {
+       "label": "invitation",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "invitation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "of"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Premier",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "Premier"
+      },
+      {
+       "label": "Li",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "Li"
+      },
+      {
+       "label": "Keqiang",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Keqiang"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "."
+      },
+      {
+       "label": "Simpson",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Simpson"
+      },
+      {
+       "label": "Miller",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "Miller"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": ","
+      },
+      {
+       "label": "68",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "68"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": ","
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "had"
+      },
+      {
+       "label": "served",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "served"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "as"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "Minister"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "of"
+      },
+      {
+       "label": "Labour",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Labour"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": ","
+      },
+      {
+       "label": "Social",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Social"
+      },
+      {
+       "label": "Security",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "Security"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "and"
+      },
+      {
+       "label": "Sport",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Sport"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "and"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Minister"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "of"
+      },
+      {
+       "label": "Local",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Local"
+      },
+      {
+       "label": "Government",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Government"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "through"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "the"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "years"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "In"
+      },
+      {
+       "label": "2006",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "2006"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": ","
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "she"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "was"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "elected"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "leader"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "the"
+      },
+      {
+       "label": "People",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "People"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "'s"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "National"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "Party"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "and"
+      },
+      {
+       "label": "became",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "became"
+      },
+      {
+       "label": "prime",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "prime"
+      },
+      {
+       "label": "minister",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "minister"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "."
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "She"
+      },
+      {
+       "label": "stepped",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "stepped"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "down"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "the"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "next"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "year"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "after"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "her"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "party"
+      },
+      {
+       "label": "lost",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "lost"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "the"
+      },
+      {
+       "label": "general",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "general"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "election"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "."
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "She"
+      },
+      {
+       "label": "led",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "led"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "her"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "party"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "back"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "to"
+      },
+      {
+       "label": "power",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "power"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "the"
+      },
+      {
+       "label": "2011",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "2011"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "election"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "and"
+      },
+      {
+       "label": "became",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "became"
+      },
+      {
+       "label": "prime",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "prime"
+      },
+      {
+       "label": "minister",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "minister"
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "again"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "."
+      },
+      {
+       "label": "Simpson",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "Simpson"
+      },
+      {
+       "label": "Miller",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "Miller"
+      },
+      {
+       "label": "maintains",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "maintains"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "a"
+      },
+      {
+       "label": "friendly",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "friendly"
+      },
+      {
+       "label": "policy",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "policy"
+      },
+      {
+       "label": "toward",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "toward"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "China"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "."
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "She"
+      },
+      {
+       "label": "attended",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "attended"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "the"
+      },
+      {
+       "label": "World",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "World"
+      },
+      {
+       "label": "Conference",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Conference"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "on"
+      },
+      {
+       "label": "Women",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "Women"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "in"
+      },
+      {
+       "label": "Beijing",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Beijing"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "in"
+      },
+      {
+       "label": "1995",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "1995"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "and"
+      },
+      {
+       "label": "visited",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "visited"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "China"
+      },
+      {
+       "label": "again",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "again"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "in"
+      },
+      {
+       "label": "2009",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "2009"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "as"
+      },
+      {
+       "label": "Jamaica",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "Jamaica"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "'s"
+      },
+      {
+       "label": "opposition",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "opposition"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "leader"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 26,
+       "end": 29,
+       "tokens": "Portia Simpson Miller",
+       "labelScoreMap": {
+        "Portia_Simpson-Miller": 1.0,
+        "<unk_wid>": 5.605193857299268e-45
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9354503069993575,
+       "start": 144,
+       "end": 145,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9354503069993575,
+        "Taiwan": 0.015296349454669306,
+        "China_national_football_team": 0.011824212410041631,
+        "Emperor_of_China": 0.01033527535790873,
+        "Second_Sino-Japanese_War": 0.005829427282425226,
+        "China_men's_national_basketball_team": 0.003863111010415882,
+        "People's_Liberation_Army": 0.00200358024487855,
+        "China_Mi\u00e9ville": 0.001724456427027595,
+        "China_national_rugby_union_team": 0.0017129835065526151,
+        "China_women's_national_football_team": 0.0016664137908361703,
+        "Chinese_mythology": 0.001560040063668179,
+        "A1_Team_China": 0.0015523886592779612,
+        "China_national_badminton_team": 0.0017367565327055543,
+        "China_national_cricket_team": 0.0014109163098250778,
+        "Mainland_China": 0.0013840032205952554,
+        "Traditional_Chinese_medicine": 0.0013573927184014822,
+        "China,_Maine": 0.0012923860114135287,
+        "<unk_wid>": 1.016607205256123e-40
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.4144499913594316,
+       "start": 41,
+       "end": 42,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.26790976646085957,
+        "China": 0.4144499913594316,
+        "Han_Chinese": 0.05843165246902808,
+        "Chinese_Americans": 0.011520229836070879,
+        "Overseas_Chinese": 0.010633981019021566,
+        "Malaysian_Chinese": 0.016801799796904437,
+        "Standard_Chinese": 0.007173920387451813,
+        "Chinese_Canadians": 0.005838309230591529,
+        "Chinese_Buddhist_canon": 0.005504357917916369,
+        "Chinese_Singaporeans": 0.0047954213356964925,
+        "British_Chinese": 0.004449511054330491,
+        "Chinese_mythology": 0.003619722547455375,
+        "Traditional_Chinese_characters": 0.00460890372977603,
+        "Mandarin_Chinese": 0.0035603384831446286,
+        "Thai_Chinese": 0.003220810764931255,
+        "Emperor_of_China": 0.006907334970926644,
+        "Chinese_Indonesians": 0.010652818318561404,
+        "Chinese_Filipino": 0.003667889341817635,
+        "Taiwan": 0.13764297838355835,
+        "Chinese_folk_religion": 0.0017115095242677166,
+        "Chinese_people_in_Myanmar": 0.001896509902407655,
+        "Chinese_New_Year": 0.0014892218623079544,
+        "Chinese_Wikipedia": 0.0012941120159857605,
+        "Traditional_Chinese_medicine": 0.0012823708003467577,
+        "Chinese_Australians": 0.00907442916763177,
+        "Chinese_Brazilians": 0.0009837555503599998,
+        "Chinese_people_in_Japan": 0.0008783537692184702,
+        "<unk_wid>": 4.82121349034289e-26
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 46,
+       "end": 48,
+       "tokens": "Simpson Miller",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Jamaica",
+       "score": 0.8307628733871398,
+       "start": 3,
+       "end": 4,
+       "tokens": "Jamaican",
+       "labelScoreMap": {
+        "Jamaica": 0.8307628733871398,
+        "Jamaican_English": 0.039828951238003764,
+        "Jamaican_Canadians": 0.034153565578360696,
+        "Jamaican_Patois": 0.06961516579289798,
+        "Jamaican_Americans": 0.009365003663537019,
+        "British_Jamaican": 0.007979631923041458,
+        "Miami_metropolitan_area": 0.0030407270594309133,
+        "Afro-Jamaican": 0.00222962629024367,
+        "Jamaica_national_football_team": 0.001706959657926687,
+        "Jamaica_national_bobsleigh_team": 0.0013174954094180642,
+        "<unk_wid>": 2.60163967669513e-30
+       }
+      },
+      {
+       "label": "People's_National_Party",
+       "score": 0.875819811713741,
+       "start": 81,
+       "end": 85,
+       "tokens": "People 's National Party",
+       "labelScoreMap": {
+        "People's_National_Party": 0.875819811713741,
+        "People's_National_Party_(Ghana)": 0.11076111274953443,
+        "Awami_National_Party": 0.011367948447727564,
+        "People_(magazine)": 0.0020511270889970994,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816656053658497,
+       "start": 20,
+       "end": 21,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816656053658497,
+        "Xinhua_District,_Tainan": 0.01698341387746361,
+        "Xinhua_County": 0.0013509807566866653,
+        "<unk_wid>": 2.1969483319282056e-24
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9324439483190111,
+       "start": 31,
+       "end": 32,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9324439483190111,
+        "Taiwan": 0.01773898473583053,
+        "China_national_football_team": 0.011895483745301354,
+        "Emperor_of_China": 0.0103044325388281,
+        "Second_Sino-Japanese_War": 0.006304074438882267,
+        "China_men's_national_basketball_team": 0.0039049447923503846,
+        "People's_Liberation_Army": 0.0019975916427234226,
+        "China_Mi\u00e9ville": 0.0017193035040293612,
+        "China_national_rugby_union_team": 0.0017078621076701166,
+        "China_women's_national_football_team": 0.0016692895853237127,
+        "Chinese_mythology": 0.0015553759487526627,
+        "A1_Team_China": 0.0015477474033728136,
+        "China_national_badminton_team": 0.0017765337508791246,
+        "China_national_cricket_team": 0.0014066980849394832,
+        "Mainland_China": 0.0013858728452260784,
+        "Traditional_Chinese_medicine": 0.001353334460400885,
+        "China,_Maine": 0.0012885220964785,
+        "<unk_wid>": 6.103957480998828e-40
+       }
+      },
+      {
+       "label": "Beijing",
+       "score": 0.9607650082883175,
+       "start": 139,
+       "end": 140,
+       "tokens": "Beijing",
+       "labelScoreMap": {
+        "Beijing": 0.9607650082883175,
+        "China_Open_(tennis)": 0.010345507907645393,
+        "2008_Summer_Olympics": 0.006726505800175201,
+        "Beijing_Railway_Station": 0.005674322788758851,
+        "Beijing_dialect": 0.0024139944123810464,
+        "2008_China_Open_(tennis)": 0.002349344182954241,
+        "Beijing_Capital_International_Airport": 0.0022356065771500316,
+        "Forbidden_City": 0.004748036284176221,
+        "2010_China_Open_(tennis)": 0.0016481673981123281,
+        "Beijing_Subway": 0.0016733747891715144,
+        "2009_China_Open_(tennis)": 0.0014201315711579042,
+        "<unk_wid>": 1.2437878389351817e-26
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 122,
+       "end": 124,
+       "tokens": "Simpson Miller",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Jamaica",
+       "score": 0.8137515082431857,
+       "start": 10,
+       "end": 11,
+       "tokens": "Jamaican",
+       "labelScoreMap": {
+        "Jamaica": 0.8137515082431857,
+        "Jamaican_English": 0.0391413015932833,
+        "Jamaican_Canadians": 0.033563862088641074,
+        "Jamaican_Patois": 0.08804257507804591,
+        "Jamaican_Americans": 0.00923209798203345,
+        "British_Jamaican": 0.007777457070306535,
+        "Miami_metropolitan_area": 0.002988743951335795,
+        "Afro-Jamaican": 0.0021916236073964107,
+        "Jamaica_national_football_team": 0.0020160243903423907,
+        "Jamaica_national_bobsleigh_team": 0.001294805995429785,
+        "<unk_wid>": 2.423724291730647e-25
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9366594187226274,
+       "start": 129,
+       "end": 130,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.9366594187226274,
+        "Taiwan": 0.014674208246723455,
+        "China_national_football_team": 0.011589165230254845,
+        "Emperor_of_China": 0.010347699951021973,
+        "Second_Sino-Japanese_War": 0.005650905067262024,
+        "China_men's_national_basketball_team": 0.003800747125711418,
+        "People's_Liberation_Army": 0.0020059891964953358,
+        "China_Mi\u00e9ville": 0.0017265288234070042,
+        "China_national_rugby_union_team": 0.0017150434957371131,
+        "China_women's_national_football_team": 0.0016398059089997132,
+        "Chinese_mythology": 0.001561916125306809,
+        "A1_Team_China": 0.0015542555207723825,
+        "China_national_badminton_team": 0.001636269594171134,
+        "China_national_cricket_team": 0.00141261300770906,
+        "Mainland_China": 0.0013724687013714943,
+        "Traditional_Chinese_medicine": 0.0013590250818249934,
+        "China,_Maine": 0.0012939402006038822,
+        "<unk_wid>": 1.3127866484854679e-45
+       }
+      },
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 12,
+       "end": 15,
+       "tokens": "Portia Simpson Miller",
+       "labelScoreMap": {
+        "Portia_Simpson-Miller": 1.0,
+        "<unk_wid>": 1.8908413232208204e-34
+       }
+      },
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 5,
+       "end": 8,
+       "tokens": "Portia Simpson Miller",
+       "labelScoreMap": {
+        "Portia_Simpson-Miller": 1.0,
+        "<unk_wid>": 1.9769186189753353e-34
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 56,
+       "end": 62,
+       "tokens": "Labour , Social Security and Sport",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Beijing",
+       "score": 0.6720747249481479,
+       "start": 15,
+       "end": 16,
+       "tokens": "BEIJING",
+       "labelScoreMap": {
+        "Beijing": 0.6720747249481479,
+        "China_Open_(tennis)": 0.1461597448427735,
+        "2008_Summer_Olympics": 0.12712949218862798,
+        "Beijing_Railway_Station": 0.003673282781503185,
+        "Beijing_dialect": 0.0019186133120401108,
+        "2008_China_Open_(tennis)": 0.0020114453178292613,
+        "Beijing_Capital_International_Airport": 0.001825527673481653,
+        "Forbidden_City": 0.022875687599202683,
+        "2010_China_Open_(tennis)": 0.00602143456961821,
+        "Beijing_Subway": 0.006983493345192615,
+        "2009_China_Open_(tennis)": 0.009326550342289266,
+        "<unk_wid>": 1.6206803924812815e-10
+       }
+      },
+      {
+       "label": "Jamaica",
+       "score": 0.8922081846025869,
+       "start": 149,
+       "end": 150,
+       "tokens": "Jamaica",
+       "labelScoreMap": {
+        "Jamaica": 0.8922081846025869,
+        "Jamaica_national_football_team": 0.04381490534048735,
+        "Jamaica,_Queens": 0.018655422221788686,
+        "Jamaica_national_cricket_team": 0.010533539975174852,
+        "Jamaica_(LIRR_station)": 0.004587538817022932,
+        "Jamaica_national_rugby_union_team": 0.004388684175581071,
+        "Jamaica_national_rugby_league_team": 0.003708256425025497,
+        "Jamaica_Football_Federation": 0.003264737025167925,
+        "Jamaica_(musical)": 0.0030802156028547534,
+        "Jamaica,_Vermont": 0.0030376390554313604,
+        "Indo-Jamaican": 0.0027395477113585404,
+        "Jamaica,_Iowa": 0.0022285401509105746,
+        "Chinese_Jamaicans": 0.0020440076098474343,
+        "Afro-Jamaican": 0.0015755917962751082,
+        "HMS_Jamaica_(44)": 0.0015755904877566454,
+        "National_Premier_League": 0.0013644802169552489,
+        "Jamaica_national_netball_team": 0.0011931187857753182,
+        "<unk_wid>": 1.6761491892771734e-31
+       }
+      },
+      {
+       "label": "Jamaica",
+       "score": 0.8643104821346802,
+       "start": 23,
+       "end": 24,
+       "tokens": "Jamaican",
+       "labelScoreMap": {
+        "Jamaica": 0.8643104821346802,
+        "Jamaican_English": 0.041185262688296295,
+        "Jamaican_Canadians": 0.03531664163020246,
+        "Jamaican_Patois": 0.03577507745583356,
+        "Jamaican_Americans": 0.009645941470628312,
+        "British_Jamaican": 0.005272648432919561,
+        "Miami_metropolitan_area": 0.003143924254472743,
+        "Afro-Jamaican": 0.0023055427228007453,
+        "Jamaica_national_football_team": 0.001682118600339485,
+        "Jamaica_national_bobsleigh_team": 0.0013623606098264317,
+        "<unk_wid>": 3.809951114116573e-38
+       }
+      },
+      {
+       "label": "Li_Keqiang",
+       "score": 1.0,
+       "start": 43,
+       "end": 45,
+       "tokens": "Li Keqiang",
+       "labelScoreMap": {
+        "Li_Keqiang": 1.0,
+        "<unk_wid>": 4.084197724746939e-34
+       }
+      },
+      {
+       "label": "Oroville,_California",
+       "score": 0.3008623083447597,
+       "start": 66,
+       "end": 68,
+       "tokens": "Local Government",
+       "labelScoreMap": {
+        "Palo_Alto,_California": 0.05044458879978642,
+        "Gifu": 0.031234149362256342,
+        "Blackpool": 0.03064497178666163,
+        "City_of_London": 0.028134457363518613,
+        "Caracas": 0.07428792153841,
+        "Beavercreek,_Ohio": 0.024965324812141212,
+        "Outer_Hebrides": 0.02341629879334449,
+        "Cork_(city)": 0.022330195916329808,
+        "New_Lenox,_Illinois": 0.04396695945128531,
+        "Warwickshire": 0.02114984552792457,
+        "South_East_England": 0.018818827993263437,
+        "North_East_England": 0.018862467224387898,
+        "West_Midlands_(county)": 0.021339282026002066,
+        "Fairmont,_West_Virginia": 0.04383596249786522,
+        "Whitewater,_Wisconsin": 0.03595047495029262,
+        "West_Midlands_(region)": 0.04718699491078469,
+        "Cookham": 0.035224237716694674,
+        "South_Hill,_Virginia": 0.03993575077667101,
+        "Caboolture,_Queensland": 0.02158412879241811,
+        "Galway": 0.015425870962815025,
+        "Jerusalem": 0.015204969256055138,
+        "Oroville,_California": 0.3008623083447597,
+        "County_Dublin": 0.015203872381214316,
+        "St._Augustine_Beach,_Florida": 0.019990138815117606,
+        "<unk_wid>": 7.491505751667664e-27
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 26,
+       "end": 29,
+       "tokens": "Portia Simpson Miller",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.9354503069993575,
+       "start": 144,
+       "end": 145,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9354503069993575,
+        "1668284|Taiwan": 0.015296349454669306,
+        "4960817|China,_Maine": 0.0012923860114135287
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.4144499913594316,
+       "start": 41,
+       "end": 42,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.4144499913594316,
+        "1668284|Taiwan": 0.13764297838355835
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 46,
+       "end": 48,
+       "tokens": "Simpson Miller",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Jamaica",
+       "score": 0.8307628733871398,
+       "start": 3,
+       "end": 4,
+       "tokens": "Jamaican",
+       "labelScoreMap": {
+        "3489941|Jamaica": 0.8307628733871398
+       }
+      },
+      {
+       "label": "People's_National_Party",
+       "score": 0.875819811713741,
+       "start": 81,
+       "end": 85,
+       "tokens": "People 's National Party",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816656053658497,
+       "start": 20,
+       "end": 21,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.01698341387746361,
+        "1788859|Xinhua_County": 0.0013509807566866653
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9324439483190111,
+       "start": 31,
+       "end": 32,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9324439483190111,
+        "1668284|Taiwan": 0.01773898473583053,
+        "4960817|China,_Maine": 0.0012885220964785
+       }
+      },
+      {
+       "label": "Beijing",
+       "score": 0.9607650082883175,
+       "start": 139,
+       "end": 140,
+       "tokens": "Beijing",
+       "labelScoreMap": {
+        "2038349|Beijing": 0.9607650082883175,
+        "1816665|Beijing_Railway_Station": 0.005674322788758851,
+        "6301354|Beijing_Capital_International_Airport": 0.0022356065771500316,
+        "8594680|Forbidden_City": 0.004748036284176221
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 122,
+       "end": 124,
+       "tokens": "Simpson Miller",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Jamaica",
+       "score": 0.8137515082431857,
+       "start": 10,
+       "end": 11,
+       "tokens": "Jamaican",
+       "labelScoreMap": {
+        "3489941|Jamaica": 0.8137515082431857
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.9366594187226274,
+       "start": 129,
+       "end": 130,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.9366594187226274,
+        "1668284|Taiwan": 0.014674208246723455,
+        "4960817|China,_Maine": 0.0012939402006038822
+       }
+      },
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 12,
+       "end": 15,
+       "tokens": "Portia Simpson Miller",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Portia_Simpson-Miller",
+       "score": 1.0,
+       "start": 5,
+       "end": 8,
+       "tokens": "Portia Simpson Miller",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 56,
+       "end": 62,
+       "tokens": "Labour , Social Security and Sport",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Beijing",
+       "score": 0.6720747249481479,
+       "start": 15,
+       "end": 16,
+       "tokens": "BEIJING",
+       "labelScoreMap": {
+        "2038349|Beijing": 0.6720747249481479,
+        "1816665|Beijing_Railway_Station": 0.003673282781503185,
+        "6301354|Beijing_Capital_International_Airport": 0.001825527673481653,
+        "8594680|Forbidden_City": 0.022875687599202683
+       }
+      },
+      {
+       "label": "Jamaica",
+       "score": 0.8922081846025869,
+       "start": 149,
+       "end": 150,
+       "tokens": "Jamaica",
+       "labelScoreMap": {
+        "3489941|Jamaica": 0.8922081846025869,
+        "5122520|Jamaica,_Queens": 0.018655422221788686,
+        "6352897|Jamaica_(LIRR_station)": 0.004587538817022932,
+        "5237436|Jamaica,_Vermont": 0.0030376390554313604,
+        "4862414|Jamaica,_Iowa": 0.0022285401509105746
+       }
+      },
+      {
+       "label": "Jamaica",
+       "score": 0.8643104821346802,
+       "start": 23,
+       "end": 24,
+       "tokens": "Jamaican",
+       "labelScoreMap": {
+        "3489941|Jamaica": 0.8643104821346802
+       }
+      },
+      {
+       "label": "Li_Keqiang",
+       "score": 1.0,
+       "start": 43,
+       "end": 45,
+       "tokens": "Li Keqiang",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Oroville,_California",
+       "score": 0.3008623083447597,
+       "start": 66,
+       "end": 68,
+       "tokens": "Local Government",
+       "labelScoreMap": {
+        "5380748|Palo_Alto,_California": 0.05044458879978642,
+        "3333127|Blackpool": 0.03064497178666163,
+        "2643741|City_of_London": 0.028134457363518613,
+        "3646738|Caracas": 0.07428792153841,
+        "4506008|Beavercreek,_Ohio": 0.024965324812141212,
+        "2640801|Outer_Hebrides": 0.02341629879334449,
+        "2965140|Cork_(city)": 0.022330195916329808,
+        "4903535|New_Lenox,_Illinois": 0.04396695945128531,
+        "2634723|Warwickshire": 0.02114984552792457,
+        "2634343|West_Midlands_(county)": 0.021339282026002066,
+        "4805404|Fairmont,_West_Virginia": 0.04383596249786522,
+        "5278931|Whitewater,_Wisconsin": 0.03595047495029262,
+        "2652423|Cookham": 0.035224237716694674,
+        "4786619|South_Hill,_Virginia": 0.03993575077667101,
+        "2172832|Caboolture,_Queensland": 0.02158412879241811,
+        "2964180|Galway": 0.015425870962815025,
+        "281184|Jerusalem": 0.015204969256055138,
+        "5379759|Oroville,_California": 0.3008623083447597,
+        "2964573|County_Dublin": 0.015203872381214316,
+        "4170896|St._Augustine_Beach,_Florida": 0.019990138815117606
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

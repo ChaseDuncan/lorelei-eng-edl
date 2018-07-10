@@ -1,0 +1,2295 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20131226_F00012RCN.xml",
+ "text": "2013-12-26T18:39:24\nFormer official expelled from CPC\nFormer official expelled from CPC\nBEIJING, Dec. 26 (Xinhua) -- Qi Pingjing, former deputy head of the China Foreign Languages Publishing Administration, has been expelled from the Communist Party of China (CPC) and thrown out of office.\nThe decision was made by the CPC Central Commission for Discipline Inspection (CCDI) and approved by the CPC Central Committee, said a statement on CCDI's website on Thursday.\nA CCDI investigation into Qi's suspected legal and disciplinary transgressions found that he took advantage of his position to seek benefits for others and received a huge amount of money and gifts, the source said.\nHe was also found to have embezzled public funds and abused his position to seek benefit for his relatives' business activities -- serious violations of discipline, with the embezzlement and bribe-taking suspected criminal offenses.\nThe decision said Qi's profits from his illegal and improper behavior will be confiscated and his suspected crimes transferred to judicial authorities. Enditem",
+ "tokens": [
+  "2013-12-26T18:39:24",
+  "Former",
+  "official",
+  "expelled",
+  "from",
+  "CPC",
+  "Former",
+  "official",
+  "expelled",
+  "from",
+  "CPC",
+  "BEIJING",
+  ",",
+  "Dec.",
+  "26",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "Qi",
+  "Pingjing",
+  ",",
+  "former",
+  "deputy",
+  "head",
+  "of",
+  "the",
+  "China",
+  "Foreign",
+  "Languages",
+  "Publishing",
+  "Administration",
+  ",",
+  "has",
+  "been",
+  "expelled",
+  "from",
+  "the",
+  "Communist",
+  "Party",
+  "of",
+  "China",
+  "(",
+  "CPC",
+  ")",
+  "and",
+  "thrown",
+  "out",
+  "of",
+  "office",
+  ".",
+  "The",
+  "decision",
+  "was",
+  "made",
+  "by",
+  "the",
+  "CPC",
+  "Central",
+  "Commission",
+  "for",
+  "Discipline",
+  "Inspection",
+  "(",
+  "CCDI",
+  ")",
+  "and",
+  "approved",
+  "by",
+  "the",
+  "CPC",
+  "Central",
+  "Committee",
+  ",",
+  "said",
+  "a",
+  "statement",
+  "on",
+  "CCDI",
+  "'s",
+  "website",
+  "on",
+  "Thursday",
+  ".",
+  "A",
+  "CCDI",
+  "investigation",
+  "into",
+  "Qi",
+  "'s",
+  "suspected",
+  "legal",
+  "and",
+  "disciplinary",
+  "transgressions",
+  "found",
+  "that",
+  "he",
+  "took",
+  "advantage",
+  "of",
+  "his",
+  "position",
+  "to",
+  "seek",
+  "benefits",
+  "for",
+  "others",
+  "and",
+  "received",
+  "a",
+  "huge",
+  "amount",
+  "of",
+  "money",
+  "and",
+  "gifts",
+  ",",
+  "the",
+  "source",
+  "said",
+  ".",
+  "He",
+  "was",
+  "also",
+  "found",
+  "to",
+  "have",
+  "embezzled",
+  "public",
+  "funds",
+  "and",
+  "abused",
+  "his",
+  "position",
+  "to",
+  "seek",
+  "benefit",
+  "for",
+  "his",
+  "relatives",
+  "'",
+  "business",
+  "activities",
+  "--",
+  "serious",
+  "violations",
+  "of",
+  "discipline",
+  ",",
+  "with",
+  "the",
+  "embezzlement",
+  "and",
+  "bribe",
+  "-",
+  "taking",
+  "suspected",
+  "criminal",
+  "offenses",
+  ".",
+  "The",
+  "decision",
+  "said",
+  "Qi",
+  "'s",
+  "profits",
+  "from",
+  "his",
+  "illegal",
+  "and",
+  "improper",
+  "behavior",
+  "will",
+  "be",
+  "confiscated",
+  "and",
+  "his",
+  "suspected",
+  "crimes",
+  "transferred",
+  "to",
+  "judicial",
+  "authorities",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   51,
+   84,
+   122,
+   161,
+   185,
+   186
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "China"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "CPC"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 19,
+       "end": 21,
+       "tokens": "Qi Pingjing"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "CPC"
+      },
+      {
+       "label": "Central_Committee_of_the_Communist_Party_of_China",
+       "score": 1.0,
+       "start": 70,
+       "end": 73,
+       "tokens": "CPC Central Committee"
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 57,
+       "end": 63,
+       "tokens": "CPC Central Commission for Discipline Inspection"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "CPC"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "CPC"
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "CCDI"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Qi"
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "CCDI"
+      },
+      {
+       "label": "China_International_Publishing_Group",
+       "score": 1.0,
+       "start": 27,
+       "end": 32,
+       "tokens": "China Foreign Languages Publishing Administration"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 38,
+       "end": 42,
+       "tokens": "Communist Party of China"
+      },
+      {
+       "label": "Beijing",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "CCDI"
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "CPC"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "Qi"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "China"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "CPC"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 19,
+       "end": 21,
+       "tokens": "Qi Pingjing"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "CPC"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 70,
+       "end": 73,
+       "tokens": "CPC Central Committee"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 57,
+       "end": 63,
+       "tokens": "CPC Central Commission for Discipline Inspection"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "CPC"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "CPC"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "CCDI"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Qi"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "CCDI"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 27,
+       "end": 32,
+       "tokens": "China Foreign Languages Publishing Administration"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 38,
+       "end": 42,
+       "tokens": "Communist Party of China"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "CCDI"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "CPC"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "Qi"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "China"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-12-26T18:39:24",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-12-26T18:39:24"
+      },
+      {
+       "label": "Former",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Former"
+      },
+      {
+       "label": "official",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "official"
+      },
+      {
+       "label": "expelled",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "expelled"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "from"
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "CPC"
+      },
+      {
+       "label": "Former",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Former"
+      },
+      {
+       "label": "official",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "official"
+      },
+      {
+       "label": "expelled",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "expelled"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "from"
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "CPC"
+      },
+      {
+       "label": "BEIJING",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "BEIJING"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": ","
+      },
+      {
+       "label": "Dec.",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Dec."
+      },
+      {
+       "label": "26",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "26"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "--"
+      },
+      {
+       "label": "Qi",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Qi"
+      },
+      {
+       "label": "Pingjing",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Pingjing"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": ","
+      },
+      {
+       "label": "former",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "former"
+      },
+      {
+       "label": "deputy",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "deputy"
+      },
+      {
+       "label": "head",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "head"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "the"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "China"
+      },
+      {
+       "label": "Foreign",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "Foreign"
+      },
+      {
+       "label": "Languages",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Languages"
+      },
+      {
+       "label": "Publishing",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Publishing"
+      },
+      {
+       "label": "Administration",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "Administration"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": ","
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "been"
+      },
+      {
+       "label": "expelled",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "expelled"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "the"
+      },
+      {
+       "label": "Communist",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Communist"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Party"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "of"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "China"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "("
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "CPC"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": ")"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "and"
+      },
+      {
+       "label": "thrown",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "thrown"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "out"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "of"
+      },
+      {
+       "label": "office",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "office"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "The"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "decision"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "was"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "made"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "the"
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "CPC"
+      },
+      {
+       "label": "Central",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Central"
+      },
+      {
+       "label": "Commission",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "Commission"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "for"
+      },
+      {
+       "label": "Discipline",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Discipline"
+      },
+      {
+       "label": "Inspection",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Inspection"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "("
+      },
+      {
+       "label": "CCDI",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "CCDI"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": ")"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "and"
+      },
+      {
+       "label": "approved",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "approved"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "the"
+      },
+      {
+       "label": "CPC",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "CPC"
+      },
+      {
+       "label": "Central",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "Central"
+      },
+      {
+       "label": "Committee",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "Committee"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "said"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "a"
+      },
+      {
+       "label": "statement",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "statement"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "on"
+      },
+      {
+       "label": "CCDI",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "CCDI"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "'s"
+      },
+      {
+       "label": "website",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "website"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "on"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "Thursday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "A"
+      },
+      {
+       "label": "CCDI",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "CCDI"
+      },
+      {
+       "label": "investigation",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "investigation"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "into"
+      },
+      {
+       "label": "Qi",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Qi"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "'s"
+      },
+      {
+       "label": "suspected",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "suspected"
+      },
+      {
+       "label": "legal",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "legal"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "and"
+      },
+      {
+       "label": "disciplinary",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "disciplinary"
+      },
+      {
+       "label": "transgressions",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "transgressions"
+      },
+      {
+       "label": "found",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "found"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "he"
+      },
+      {
+       "label": "took",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "took"
+      },
+      {
+       "label": "advantage",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "advantage"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "of"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "his"
+      },
+      {
+       "label": "position",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "position"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "to"
+      },
+      {
+       "label": "seek",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "seek"
+      },
+      {
+       "label": "benefits",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "benefits"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "for"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "others"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "and"
+      },
+      {
+       "label": "received",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "received"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "a"
+      },
+      {
+       "label": "huge",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "huge"
+      },
+      {
+       "label": "amount",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "amount"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "of"
+      },
+      {
+       "label": "money",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "money"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "and"
+      },
+      {
+       "label": "gifts",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "gifts"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "the"
+      },
+      {
+       "label": "source",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "source"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "He"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "was"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "also"
+      },
+      {
+       "label": "found",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "found"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "have"
+      },
+      {
+       "label": "embezzled",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "embezzled"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "public"
+      },
+      {
+       "label": "funds",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "funds"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "and"
+      },
+      {
+       "label": "abused",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "abused"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "his"
+      },
+      {
+       "label": "position",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "position"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "to"
+      },
+      {
+       "label": "seek",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "seek"
+      },
+      {
+       "label": "benefit",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "benefit"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "for"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "his"
+      },
+      {
+       "label": "relatives",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "relatives"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "'"
+      },
+      {
+       "label": "business",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "business"
+      },
+      {
+       "label": "activities",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "activities"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "--"
+      },
+      {
+       "label": "serious",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "serious"
+      },
+      {
+       "label": "violations",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "violations"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "of"
+      },
+      {
+       "label": "discipline",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "discipline"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "the"
+      },
+      {
+       "label": "embezzlement",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "embezzlement"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "and"
+      },
+      {
+       "label": "bribe",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "bribe"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "-"
+      },
+      {
+       "label": "taking",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "taking"
+      },
+      {
+       "label": "suspected",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "suspected"
+      },
+      {
+       "label": "criminal",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "criminal"
+      },
+      {
+       "label": "offenses",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "offenses"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "The"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "decision"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "said"
+      },
+      {
+       "label": "Qi",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "Qi"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "'s"
+      },
+      {
+       "label": "profits",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "profits"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "from"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "his"
+      },
+      {
+       "label": "illegal",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "illegal"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "and"
+      },
+      {
+       "label": "improper",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "improper"
+      },
+      {
+       "label": "behavior",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "behavior"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "be"
+      },
+      {
+       "label": "confiscated",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "confiscated"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "and"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "his"
+      },
+      {
+       "label": "suspected",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "suspected"
+      },
+      {
+       "label": "crimes",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "crimes"
+      },
+      {
+       "label": "transferred",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "transferred"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "to"
+      },
+      {
+       "label": "judicial",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "judicial"
+      },
+      {
+       "label": "authorities",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "authorities"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "China",
+       "score": 0.6852053093931718,
+       "start": 41,
+       "end": 42,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.6852053093931718,
+        "Taiwan": 0.022788052569848498,
+        "China_national_football_team": 0.008737604288886307,
+        "Emperor_of_China": 0.00780439716500106,
+        "Second_Sino-Japanese_War": 0.004241959877066699,
+        "China_men's_national_basketball_team": 0.0028024739226429145,
+        "People's_Liberation_Army": 0.08867948925473017,
+        "China_Mi\u00e9ville": 0.001294992373497493,
+        "China_national_rugby_union_team": 0.0012863780796572334,
+        "China_women's_national_football_team": 0.0012191199341689463,
+        "Chinese_mythology": 0.0011719336620645473,
+        "A1_Team_China": 0.0011659841579870036,
+        "China_national_badminton_team": 0.0015434816990178425,
+        "China_national_cricket_team": 0.0010701255902268389,
+        "Mainland_China": 0.1689380234032288,
+        "Traditional_Chinese_medicine": 0.001080143584641744,
+        "China,_Maine": 0.0009705310441620722,
+        "<unk_wid>": 2.0343919210853995e-32
+       }
+      },
+      {
+       "label": "Conservative_Party_of_Canada",
+       "score": 0.394226343347388,
+       "start": 43,
+       "end": 44,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.3526136480522682,
+        "Communist_Party_of_China": 0.1895298215768734,
+        "Amstrad_CPC": 0.04414486929503353,
+        "Conservative_Party_of_Canada": 0.394226343347388,
+        "Amstrad": 0.011043758736542095,
+        "CPC_Corporation": 0.003474484646576639,
+        "Congressional_Progressive_Caucus": 0.002524926880044413,
+        "Canadian_Paralympic_Committee": 0.0024421474652736616,
+        "<unk_wid>": 3.6873839614846753e-32
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 19,
+       "end": 21,
+       "tokens": "Qi Pingjing",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.36320056235108816,
+       "start": 5,
+       "end": 6,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.36320056235108816,
+        "Communist_Party_of_China": 0.24613129416228702,
+        "Amstrad_CPC": 0.04789771728087687,
+        "Conservative_Party_of_Canada": 0.31309969352782924,
+        "Amstrad": 0.02024124615109651,
+        "CPC_Corporation": 0.005171966332296926,
+        "Congressional_Progressive_Caucus": 0.0020972689874743655,
+        "Canadian_Paralympic_Committee": 0.0021602512070508515,
+        "<unk_wid>": 7.580923697579255e-24
+       }
+      },
+      {
+       "label": "Central_Committee_of_the_Communist_Party_of_China",
+       "score": 1.0,
+       "start": 70,
+       "end": 73,
+       "tokens": "CPC Central Committee",
+       "labelScoreMap": {
+        "Central_Committee_of_the_Communist_Party_of_China": 1.0,
+        "<unk_wid>": 1.4026997627891419e-42
+       }
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 57,
+       "end": 63,
+       "tokens": "CPC Central Commission for Discipline Inspection",
+       "labelScoreMap": {
+        "Central_Commission_for_Discipline_Inspection": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.3795395897657641,
+       "start": 70,
+       "end": 71,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.3795395897657641,
+        "Communist_Party_of_China": 0.3050582012121997,
+        "Amstrad_CPC": 0.046583198560182726,
+        "Conservative_Party_of_Canada": 0.2302225781127283,
+        "Amstrad": 0.011528262571062304,
+        "CPC_Corporation": 0.005283481975339888,
+        "Congressional_Progressive_Caucus": 0.020092558140774982,
+        "Canadian_Paralympic_Committee": 0.001692129661948007,
+        "<unk_wid>": 1.7201038544782989e-37
+       }
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.3962057287021178,
+       "start": 57,
+       "end": 58,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.3962057287021178,
+        "Communist_Party_of_China": 0.30927274280637174,
+        "Amstrad_CPC": 0.048507705827602436,
+        "Conservative_Party_of_Canada": 0.21371880971359042,
+        "Amstrad": 0.012171790471831681,
+        "CPC_Corporation": 0.00750517291111155,
+        "Congressional_Progressive_Caucus": 0.010812770505872944,
+        "Canadian_Paralympic_Committee": 0.0018052790615013501,
+        "<unk_wid>": 2.295645938371258e-33
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 85,
+       "end": 86,
+       "tokens": "CCDI",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Qi_(state)",
+       "score": 0.5936336167578535,
+       "start": 88,
+       "end": 89,
+       "tokens": "Qi",
+       "labelScoreMap": {
+        "QI": 0.40064211720767456,
+        "Qi_(state)": 0.5936336167578535,
+        "Qi_of_Xia": 0.005724266034471794,
+        "<unk_wid>": 1.606267409896706e-23
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 64,
+       "end": 65,
+       "tokens": "CCDI",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 27,
+       "end": 32,
+       "tokens": "China Foreign Languages Publishing Administration",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816184364172268,
+       "start": 16,
+       "end": 17,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816184364172268,
+        "Xinhua_District,_Tainan": 0.016982715283698532,
+        "Xinhua_County": 0.0013988482990745649,
+        "<unk_wid>": 5.620911631525124e-26
+       }
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 38,
+       "end": 42,
+       "tokens": "Communist Party of China",
+       "labelScoreMap": {
+        "Communist_Party_of_China": 1.0,
+        "<unk_wid>": 2.802596928649634e-45
+       }
+      },
+      {
+       "label": "Beijing",
+       "score": 0.6334214715919996,
+       "start": 11,
+       "end": 12,
+       "tokens": "BEIJING",
+       "labelScoreMap": {
+        "Beijing": 0.6334214715919996,
+        "China_Open_(tennis)": 0.006954213009853223,
+        "2008_Summer_Olympics": 0.004936839215509986,
+        "Beijing_Railway_Station": 0.02129915220516889,
+        "Beijing_dialect": 0.002575352986676665,
+        "2008_China_Open_(tennis)": 0.0015792928503434661,
+        "Beijing_Capital_International_Airport": 0.0020496990458962108,
+        "Forbidden_City": 0.049714123837436765,
+        "2010_China_Open_(tennis)": 0.0011079281438224771,
+        "Beijing_Subway": 0.275407093168636,
+        "2009_China_Open_(tennis)": 0.0009548339446568562,
+        "<unk_wid>": 1.4926961514699852e-19
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 78,
+       "end": 79,
+       "tokens": "CCDI",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.40183624257852824,
+       "start": 10,
+       "end": 11,
+       "tokens": "CPC",
+       "labelScoreMap": {
+        "Pay_per_click": 0.40183624257852824,
+        "Communist_Party_of_China": 0.2718440349620396,
+        "Amstrad_CPC": 0.0500061162812272,
+        "Conservative_Party_of_Canada": 0.23340532267522499,
+        "Amstrad": 0.03066233155986269,
+        "CPC_Corporation": 0.006744589835160184,
+        "Congressional_Progressive_Caucus": 0.0024007921840713616,
+        "Canadian_Paralympic_Committee": 0.0031005699238857037,
+        "<unk_wid>": 3.2735911615436396e-22
+       }
+      },
+      {
+       "label": "Qi_(state)",
+       "score": 0.5928730548294707,
+       "start": 164,
+       "end": 165,
+       "tokens": "Qi",
+       "labelScoreMap": {
+        "QI": 0.40123933092228253,
+        "Qi_(state)": 0.5928730548294707,
+        "Qi_of_Xia": 0.005887614248246666,
+        "<unk_wid>": 1.670378001973366e-24
+       }
+      },
+      {
+       "label": "China",
+       "score": 0.6278739373193539,
+       "start": 27,
+       "end": 28,
+       "tokens": "China",
+       "labelScoreMap": {
+        "China": 0.6278739373193539,
+        "Taiwan": 0.052785355765420726,
+        "China_national_football_team": 0.007959623739913142,
+        "Emperor_of_China": 0.007974811026767137,
+        "Second_Sino-Japanese_War": 0.004877552064426169,
+        "China_men's_national_basketball_team": 0.0025896324767980387,
+        "People's_Liberation_Army": 0.06553753102299058,
+        "China_Mi\u00e9ville": 0.0011967251772997828,
+        "China_national_rugby_union_team": 0.0011886807077391027,
+        "China_women's_national_football_team": 0.0011243481171598667,
+        "Chinese_mythology": 0.001247658850887778,
+        "A1_Team_China": 0.0010778188052439064,
+        "China_national_badminton_team": 0.0012162442891410974,
+        "China_national_cricket_team": 0.0009921096840577687,
+        "Mainland_China": 0.21447010685210272,
+        "Traditional_Chinese_medicine": 0.0069899459868160985,
+        "China,_Maine": 0.0008979181138822817,
+        "<unk_wid>": 1.9305257932354337e-24
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "China",
+       "score": 0.6852053093931718,
+       "start": 41,
+       "end": 42,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.6852053093931718,
+        "1668284|Taiwan": 0.022788052569848498,
+        "4960817|China,_Maine": 0.0009705310441620722
+       }
+      },
+      {
+       "label": "Conservative_Party_of_Canada",
+       "score": 0.394226343347388,
+       "start": 43,
+       "end": 44,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 19,
+       "end": 21,
+       "tokens": "Qi Pingjing",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.36320056235108816,
+       "start": 5,
+       "end": 6,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Central_Committee_of_the_Communist_Party_of_China",
+       "score": 1.0,
+       "start": 70,
+       "end": 73,
+       "tokens": "CPC Central Committee",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Central_Commission_for_Discipline_Inspection",
+       "score": 1.0,
+       "start": 57,
+       "end": 63,
+       "tokens": "CPC Central Commission for Discipline Inspection",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.3795395897657641,
+       "start": 70,
+       "end": 71,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.3962057287021178,
+       "start": 57,
+       "end": 58,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 85,
+       "end": 86,
+       "tokens": "CCDI",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Qi_(state)",
+       "score": 0.5936336167578535,
+       "start": 88,
+       "end": 89,
+       "tokens": "Qi",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 64,
+       "end": 65,
+       "tokens": "CCDI",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 27,
+       "end": 32,
+       "tokens": "China Foreign Languages Publishing Administration",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816184364172268,
+       "start": 16,
+       "end": 17,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016982715283698532,
+        "1788859|Xinhua_County": 0.0013988482990745649
+       }
+      },
+      {
+       "label": "Communist_Party_of_China",
+       "score": 1.0,
+       "start": 38,
+       "end": 42,
+       "tokens": "Communist Party of China",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Beijing",
+       "score": 0.6334214715919996,
+       "start": 11,
+       "end": 12,
+       "tokens": "BEIJING",
+       "labelScoreMap": {
+        "2038349|Beijing": 0.6334214715919996,
+        "1816665|Beijing_Railway_Station": 0.02129915220516889,
+        "6301354|Beijing_Capital_International_Airport": 0.0020496990458962108,
+        "8594680|Forbidden_City": 0.049714123837436765
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 78,
+       "end": 79,
+       "tokens": "CCDI",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pay_per_click",
+       "score": 0.40183624257852824,
+       "start": 10,
+       "end": 11,
+       "tokens": "CPC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Qi_(state)",
+       "score": 0.5928730548294707,
+       "start": 164,
+       "end": 165,
+       "tokens": "Qi",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "China",
+       "score": 0.6278739373193539,
+       "start": 27,
+       "end": 28,
+       "tokens": "China",
+       "labelScoreMap": {
+        "1814991|China": 0.6278739373193539,
+        "1668284|Taiwan": 0.052785355765420726,
+        "4960817|China,_Maine": 0.0008979181138822817
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

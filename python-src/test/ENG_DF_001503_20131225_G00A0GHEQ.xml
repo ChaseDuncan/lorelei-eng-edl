@@ -1,0 +1,6883 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_DF_001503_20131225_G00A0GHEQ.xml",
+ "text": "What shall I do with a Raspberry Pi?\nSanta got me a poor mans computer, but what are they good for? I could put xbmc on it and celotape it to the TV. Any other suggestions?\nWall calendar ?\nMame.\nI can think of 3.14159265 things to do with it.\nSanta got me a poor mans computer, but what are they good for? I could put xbmc on it and celotape it to the TV. Any other suggestions?\nIPcam\nMame Cabinet\nWiFi radio\nRun all your christmas lights NEXT year.\nhttp://jamboree.bytemark.co.uk/PCPro...ry2013.219.pdf\nhttp://reviews.cnet.co.uk/desktops/2...y-pi-50009851/\nJust came across this site.\nhttp://www.themagpi.com/\nA good thing to put on the pi is XBMC (google it !). It turns it in to a media centre. From there you can manage all your photos/videos and even watch live TV (including BBC).\nHope this post doesn't get deleted for spam (because it's not spam!). Just trying to help the original poster.\nA good thing to put on the pi is XBMC (google it !). It turns it in to a media centre. From there you can manage all your photos/videos and even watch live TV (including BBC).\nHope this post doesn't get deleted for spam (because it's not spam!). Just trying to help the original poster.\nYes XBMC is an amazing thing to run on that little computer.\nCool. You can make any doodad that currently you do not have. I'm making a pocket router\nI have run XBMC for a long time, so it made sense to put Raspbmc on an SD Card.\nI have OpenVPN setup on another for secure access back to my LAN from public wifi hotspots.\nI going to start working on OwnCloud tomorrow so my most important data (US Visa included ) is backed up on more than one device. Which also doubles up as a LAMP box, for my private wiki.\nYes I'm an IT geek. So sorry if this is too much info.\nIf all else fails, as mentioned it's plenty powerful for Mame and some other gaming.\nI have run XBMC for a long time, so it made sense to put Raspbmc on an SD Card.\nI have OpenVPN setup on another for secure access back to my LAN from public wifi hotspots.\nI going to start working on OwnCloud tomorrow so my most important data (US Visa included ) is backed up on more than one device. Which also doubles up as a LAMP box, for my private wiki.\nYes I'm an IT geek. So sorry if this is too much info.\nIf all else fails, as mentioned it's plenty powerful for Mame and some other gaming.\nCan you recommend a good USB Wifi adapter for it?\nSorry I cannot, I forget now what mine is. Though I did buy mine from a Pi retailer. This is probably your best bet.\nCan you recommend a good USB Wifi adapter for it?\nTry Adafruit\nI might be looking at a Model B to use XBMC. Should i get a regular Ubuntu distribution or go with XBMCbuntu. What do you use for media storage with the Pi? I would like to have a huge movie collection stored on a HDD ideally (either connected or on a server over wifi). The only other thing i would likely like to use it for is MAME, but then i see the RetroPlayer feature in XBMC is going to support MAME ROMs and others.\nSome other questions\nIs it possible to use a game controller?\nDoes XBMC have some kind of remote control or does it need the Pi keyboard and mouse attached all the time?\nI just read this thread and feel like I stepped into a parallel universe.\nI just read this thread and feel like I stepped into a parallel universe.\nHere you go.\nI might be looking at a Model B to use XBMC. Should i get a regular Ubuntu distribution or go with XBMCbuntu.\nDon't muck about - all the dependencies are just sorted out for you on the XBMCbuntu disk.\nBig ass external USB 3 hard disk, with an external PSU too.\nhttp://www.makeuseof.com/tag/connect...ux-gaming-rig/\nThe OpenElec system in NOOBS comes with XBMC and is all ready to go, just needs your sources adding.\nI am using a Network storage drive with a wireless thumb. Also using a remote control from a Windows Media Center PC, it works out of the box.",
+ "tokens": [
+  "What",
+  "shall",
+  "I",
+  "do",
+  "with",
+  "a",
+  "Raspberry",
+  "Pi",
+  "?",
+  "Santa",
+  "got",
+  "me",
+  "a",
+  "poor",
+  "mans",
+  "computer",
+  ",",
+  "but",
+  "what",
+  "are",
+  "they",
+  "good",
+  "for",
+  "?",
+  "I",
+  "could",
+  "put",
+  "xbmc",
+  "on",
+  "it",
+  "and",
+  "celotape",
+  "it",
+  "to",
+  "the",
+  "TV",
+  ".",
+  "Any",
+  "other",
+  "suggestions",
+  "?",
+  "Wall",
+  "calendar",
+  "?",
+  "Mame",
+  ".",
+  "I",
+  "can",
+  "think",
+  "of",
+  "3.14159265",
+  "things",
+  "to",
+  "do",
+  "with",
+  "it",
+  ".",
+  "Santa",
+  "got",
+  "me",
+  "a",
+  "poor",
+  "mans",
+  "computer",
+  ",",
+  "but",
+  "what",
+  "are",
+  "they",
+  "good",
+  "for",
+  "?",
+  "I",
+  "could",
+  "put",
+  "xbmc",
+  "on",
+  "it",
+  "and",
+  "celotape",
+  "it",
+  "to",
+  "the",
+  "TV",
+  ".",
+  "Any",
+  "other",
+  "suggestions",
+  "?",
+  "IPcam",
+  "Mame",
+  "Cabinet",
+  "WiFi",
+  "radio",
+  "Run",
+  "all",
+  "your",
+  "christmas",
+  "lights",
+  "NEXT",
+  "year",
+  ".",
+  "http://jamboree.bytemark.co.uk/PCPro...ry2013.219.pdf",
+  "http://reviews.cnet.co.uk/desktops/2...y-pi-50009851/",
+  "Just",
+  "came",
+  "across",
+  "this",
+  "site",
+  ".",
+  "http://www.themagpi.com/",
+  "A",
+  "good",
+  "thing",
+  "to",
+  "put",
+  "on",
+  "the",
+  "pi",
+  "is",
+  "XBMC",
+  "(",
+  "google",
+  "it",
+  "!",
+  ")",
+  ".",
+  "It",
+  "turns",
+  "it",
+  "in",
+  "to",
+  "a",
+  "media",
+  "centre",
+  ".",
+  "From",
+  "there",
+  "you",
+  "can",
+  "manage",
+  "all",
+  "your",
+  "photos",
+  "/",
+  "videos",
+  "and",
+  "even",
+  "watch",
+  "live",
+  "TV",
+  "(",
+  "including",
+  "BBC",
+  ")",
+  ".",
+  "Hope",
+  "this",
+  "post",
+  "does",
+  "n't",
+  "get",
+  "deleted",
+  "for",
+  "spam",
+  "(",
+  "because",
+  "it",
+  "'s",
+  "not",
+  "spam",
+  "!",
+  ")",
+  ".",
+  "Just",
+  "trying",
+  "to",
+  "help",
+  "the",
+  "original",
+  "poster",
+  ".",
+  "A",
+  "good",
+  "thing",
+  "to",
+  "put",
+  "on",
+  "the",
+  "pi",
+  "is",
+  "XBMC",
+  "(",
+  "google",
+  "it",
+  "!",
+  ")",
+  ".",
+  "It",
+  "turns",
+  "it",
+  "in",
+  "to",
+  "a",
+  "media",
+  "centre",
+  ".",
+  "From",
+  "there",
+  "you",
+  "can",
+  "manage",
+  "all",
+  "your",
+  "photos",
+  "/",
+  "videos",
+  "and",
+  "even",
+  "watch",
+  "live",
+  "TV",
+  "(",
+  "including",
+  "BBC",
+  ")",
+  ".",
+  "Hope",
+  "this",
+  "post",
+  "does",
+  "n't",
+  "get",
+  "deleted",
+  "for",
+  "spam",
+  "(",
+  "because",
+  "it",
+  "'s",
+  "not",
+  "spam",
+  "!",
+  ")",
+  ".",
+  "Just",
+  "trying",
+  "to",
+  "help",
+  "the",
+  "original",
+  "poster",
+  ".",
+  "Yes",
+  "XBMC",
+  "is",
+  "an",
+  "amazing",
+  "thing",
+  "to",
+  "run",
+  "on",
+  "that",
+  "little",
+  "computer",
+  ".",
+  "Cool",
+  ".",
+  "You",
+  "can",
+  "make",
+  "any",
+  "doodad",
+  "that",
+  "currently",
+  "you",
+  "do",
+  "not",
+  "have",
+  ".",
+  "I",
+  "'m",
+  "making",
+  "a",
+  "pocket",
+  "router",
+  "I",
+  "have",
+  "run",
+  "XBMC",
+  "for",
+  "a",
+  "long",
+  "time",
+  ",",
+  "so",
+  "it",
+  "made",
+  "sense",
+  "to",
+  "put",
+  "Raspbmc",
+  "on",
+  "an",
+  "SD",
+  "Card",
+  ".",
+  "I",
+  "have",
+  "OpenVPN",
+  "setup",
+  "on",
+  "another",
+  "for",
+  "secure",
+  "access",
+  "back",
+  "to",
+  "my",
+  "LAN",
+  "from",
+  "public",
+  "wifi",
+  "hotspots",
+  ".",
+  "I",
+  "going",
+  "to",
+  "start",
+  "working",
+  "on",
+  "OwnCloud",
+  "tomorrow",
+  "so",
+  "my",
+  "most",
+  "important",
+  "data",
+  "(",
+  "US",
+  "Visa",
+  "included",
+  ")",
+  "is",
+  "backed",
+  "up",
+  "on",
+  "more",
+  "than",
+  "one",
+  "device",
+  ".",
+  "Which",
+  "also",
+  "doubles",
+  "up",
+  "as",
+  "a",
+  "LAMP",
+  "box",
+  ",",
+  "for",
+  "my",
+  "private",
+  "wiki",
+  ".",
+  "Yes",
+  "I",
+  "'m",
+  "an",
+  "IT",
+  "geek",
+  ".",
+  "So",
+  "sorry",
+  "if",
+  "this",
+  "is",
+  "too",
+  "much",
+  "info",
+  ".",
+  "If",
+  "all",
+  "else",
+  "fails",
+  ",",
+  "as",
+  "mentioned",
+  "it",
+  "'s",
+  "plenty",
+  "powerful",
+  "for",
+  "Mame",
+  "and",
+  "some",
+  "other",
+  "gaming",
+  ".",
+  "I",
+  "have",
+  "run",
+  "XBMC",
+  "for",
+  "a",
+  "long",
+  "time",
+  ",",
+  "so",
+  "it",
+  "made",
+  "sense",
+  "to",
+  "put",
+  "Raspbmc",
+  "on",
+  "an",
+  "SD",
+  "Card",
+  ".",
+  "I",
+  "have",
+  "OpenVPN",
+  "setup",
+  "on",
+  "another",
+  "for",
+  "secure",
+  "access",
+  "back",
+  "to",
+  "my",
+  "LAN",
+  "from",
+  "public",
+  "wifi",
+  "hotspots",
+  ".",
+  "I",
+  "going",
+  "to",
+  "start",
+  "working",
+  "on",
+  "OwnCloud",
+  "tomorrow",
+  "so",
+  "my",
+  "most",
+  "important",
+  "data",
+  "(",
+  "US",
+  "Visa",
+  "included",
+  ")",
+  "is",
+  "backed",
+  "up",
+  "on",
+  "more",
+  "than",
+  "one",
+  "device",
+  ".",
+  "Which",
+  "also",
+  "doubles",
+  "up",
+  "as",
+  "a",
+  "LAMP",
+  "box",
+  ",",
+  "for",
+  "my",
+  "private",
+  "wiki",
+  ".",
+  "Yes",
+  "I",
+  "'m",
+  "an",
+  "IT",
+  "geek",
+  ".",
+  "So",
+  "sorry",
+  "if",
+  "this",
+  "is",
+  "too",
+  "much",
+  "info",
+  ".",
+  "If",
+  "all",
+  "else",
+  "fails",
+  ",",
+  "as",
+  "mentioned",
+  "it",
+  "'s",
+  "plenty",
+  "powerful",
+  "for",
+  "Mame",
+  "and",
+  "some",
+  "other",
+  "gaming",
+  ".",
+  "Can",
+  "you",
+  "recommend",
+  "a",
+  "good",
+  "USB",
+  "Wifi",
+  "adapter",
+  "for",
+  "it",
+  "?",
+  "Sorry",
+  "I",
+  "cannot",
+  ",",
+  "I",
+  "forget",
+  "now",
+  "what",
+  "mine",
+  "is",
+  ".",
+  "Though",
+  "I",
+  "did",
+  "buy",
+  "mine",
+  "from",
+  "a",
+  "Pi",
+  "retailer",
+  ".",
+  "This",
+  "is",
+  "probably",
+  "your",
+  "best",
+  "bet",
+  ".",
+  "Can",
+  "you",
+  "recommend",
+  "a",
+  "good",
+  "USB",
+  "Wifi",
+  "adapter",
+  "for",
+  "it",
+  "?",
+  "Try",
+  "Adafruit",
+  "I",
+  "might",
+  "be",
+  "looking",
+  "at",
+  "a",
+  "Model",
+  "B",
+  "to",
+  "use",
+  "XBMC",
+  ".",
+  "Should",
+  "i",
+  "get",
+  "a",
+  "regular",
+  "Ubuntu",
+  "distribution",
+  "or",
+  "go",
+  "with",
+  "XBMCbuntu",
+  ".",
+  "What",
+  "do",
+  "you",
+  "use",
+  "for",
+  "media",
+  "storage",
+  "with",
+  "the",
+  "Pi",
+  "?",
+  "I",
+  "would",
+  "like",
+  "to",
+  "have",
+  "a",
+  "huge",
+  "movie",
+  "collection",
+  "stored",
+  "on",
+  "a",
+  "HDD",
+  "ideally",
+  "(",
+  "either",
+  "connected",
+  "or",
+  "on",
+  "a",
+  "server",
+  "over",
+  "wifi",
+  ")",
+  ".",
+  "The",
+  "only",
+  "other",
+  "thing",
+  "i",
+  "would",
+  "likely",
+  "like",
+  "to",
+  "use",
+  "it",
+  "for",
+  "is",
+  "MAME",
+  ",",
+  "but",
+  "then",
+  "i",
+  "see",
+  "the",
+  "RetroPlayer",
+  "feature",
+  "in",
+  "XBMC",
+  "is",
+  "going",
+  "to",
+  "support",
+  "MAME",
+  "ROMs",
+  "and",
+  "others",
+  ".",
+  "Some",
+  "other",
+  "questions",
+  "Is",
+  "it",
+  "possible",
+  "to",
+  "use",
+  "a",
+  "game",
+  "controller",
+  "?",
+  "Does",
+  "XBMC",
+  "have",
+  "some",
+  "kind",
+  "of",
+  "remote",
+  "control",
+  "or",
+  "does",
+  "it",
+  "need",
+  "the",
+  "Pi",
+  "keyboard",
+  "and",
+  "mouse",
+  "attached",
+  "all",
+  "the",
+  "time",
+  "?",
+  "I",
+  "just",
+  "read",
+  "this",
+  "thread",
+  "and",
+  "feel",
+  "like",
+  "I",
+  "stepped",
+  "into",
+  "a",
+  "parallel",
+  "universe",
+  ".",
+  "I",
+  "just",
+  "read",
+  "this",
+  "thread",
+  "and",
+  "feel",
+  "like",
+  "I",
+  "stepped",
+  "into",
+  "a",
+  "parallel",
+  "universe",
+  ".",
+  "Here",
+  "you",
+  "go",
+  ".",
+  "I",
+  "might",
+  "be",
+  "looking",
+  "at",
+  "a",
+  "Model",
+  "B",
+  "to",
+  "use",
+  "XBMC",
+  ".",
+  "Should",
+  "i",
+  "get",
+  "a",
+  "regular",
+  "Ubuntu",
+  "distribution",
+  "or",
+  "go",
+  "with",
+  "XBMCbuntu",
+  ".",
+  "Do",
+  "n't",
+  "muck",
+  "about",
+  "-",
+  "all",
+  "the",
+  "dependencies",
+  "are",
+  "just",
+  "sorted",
+  "out",
+  "for",
+  "you",
+  "on",
+  "the",
+  "XBMCbuntu",
+  "disk",
+  ".",
+  "Big",
+  "ass",
+  "external",
+  "USB",
+  "3",
+  "hard",
+  "disk",
+  ",",
+  "with",
+  "an",
+  "external",
+  "PSU",
+  "too",
+  ".",
+  "http://www.makeuseof.com/tag/connect...ux-gaming-rig/",
+  "The",
+  "OpenElec",
+  "system",
+  "in",
+  "NOOBS",
+  "comes",
+  "with",
+  "XBMC",
+  "and",
+  "is",
+  "all",
+  "ready",
+  "to",
+  "go",
+  ",",
+  "just",
+  "needs",
+  "your",
+  "sources",
+  "adding",
+  ".",
+  "I",
+  "am",
+  "using",
+  "a",
+  "Network",
+  "storage",
+  "drive",
+  "with",
+  "a",
+  "wireless",
+  "thumb",
+  ".",
+  "Also",
+  "using",
+  "a",
+  "remote",
+  "control",
+  "from",
+  "a",
+  "Windows",
+  "Media",
+  "Center",
+  "PC",
+  ",",
+  "it",
+  "works",
+  "out",
+  "of",
+  "the",
+  "box",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   9,
+   24,
+   37,
+   41,
+   44,
+   46,
+   57,
+   72,
+   85,
+   89,
+   102,
+   110,
+   127,
+   136,
+   156,
+   174,
+   182,
+   198,
+   207,
+   227,
+   245,
+   253,
+   266,
+   268,
+   280,
+   307,
+   325,
+   352,
+   366,
+   373,
+   382,
+   400,
+   421,
+   439,
+   466,
+   480,
+   487,
+   496,
+   514,
+   525,
+   536,
+   546,
+   553,
+   564,
+   578,
+   590,
+   601,
+   626,
+   659,
+   671,
+   693,
+   708,
+   723,
+   727,
+   739,
+   751,
+   770,
+   784,
+   806,
+   818,
+   837
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "US"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "US"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "What",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "What"
+      },
+      {
+       "label": "shall",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "shall"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "I"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "do"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "a"
+      },
+      {
+       "label": "Raspberry",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Raspberry"
+      },
+      {
+       "label": "Pi",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Pi"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "?"
+      },
+      {
+       "label": "Santa",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Santa"
+      },
+      {
+       "label": "got",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "got"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "me"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "a"
+      },
+      {
+       "label": "poor",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "poor"
+      },
+      {
+       "label": "mans",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "mans"
+      },
+      {
+       "label": "computer",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "computer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "but"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "what"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "are"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "they"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "good"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "for"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "?"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "I"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "could"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "put"
+      },
+      {
+       "label": "xbmc",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "xbmc"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "on"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "it"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "and"
+      },
+      {
+       "label": "celotape",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "celotape"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "it"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "the"
+      },
+      {
+       "label": "TV",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "TV"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "."
+      },
+      {
+       "label": "Any",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "Any"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "other"
+      },
+      {
+       "label": "suggestions",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "suggestions"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "?"
+      },
+      {
+       "label": "Wall",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "Wall"
+      },
+      {
+       "label": "calendar",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "calendar"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "?"
+      },
+      {
+       "label": "Mame",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Mame"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "I"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "can"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "think"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "of"
+      },
+      {
+       "label": "3.14159265",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "3.14159265"
+      },
+      {
+       "label": "things",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "things"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "to"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "do"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "with"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "it"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "."
+      },
+      {
+       "label": "Santa",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "Santa"
+      },
+      {
+       "label": "got",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "got"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "me"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "a"
+      },
+      {
+       "label": "poor",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "poor"
+      },
+      {
+       "label": "mans",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "mans"
+      },
+      {
+       "label": "computer",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "computer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "but"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "what"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "are"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "they"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "good"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "for"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "?"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "I"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "could"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "put"
+      },
+      {
+       "label": "xbmc",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "xbmc"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "on"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "it"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "and"
+      },
+      {
+       "label": "celotape",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "celotape"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "it"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "the"
+      },
+      {
+       "label": "TV",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "TV"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "."
+      },
+      {
+       "label": "Any",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Any"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "other"
+      },
+      {
+       "label": "suggestions",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "suggestions"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "?"
+      },
+      {
+       "label": "IPcam",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "IPcam"
+      },
+      {
+       "label": "Mame",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "Mame"
+      },
+      {
+       "label": "Cabinet",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "Cabinet"
+      },
+      {
+       "label": "WiFi",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "WiFi"
+      },
+      {
+       "label": "radio",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "radio"
+      },
+      {
+       "label": "Run",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "Run"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "all"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "your"
+      },
+      {
+       "label": "christmas",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "christmas"
+      },
+      {
+       "label": "lights",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "lights"
+      },
+      {
+       "label": "NEXT",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "NEXT"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "year"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "."
+      },
+      {
+       "label": "http://jamboree.bytemark.co.uk/PCPro...ry2013.219.pdf",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "http://jamboree.bytemark.co.uk/PCPro...ry2013.219.pdf"
+      },
+      {
+       "label": "http://reviews.cnet.co.uk/desktops/2...y-pi-50009851/",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "http://reviews.cnet.co.uk/desktops/2...y-pi-50009851/"
+      },
+      {
+       "label": "Just",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "Just"
+      },
+      {
+       "label": "came",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "came"
+      },
+      {
+       "label": "across",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "across"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "this"
+      },
+      {
+       "label": "site",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "site"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "."
+      },
+      {
+       "label": "http://www.themagpi.com/",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "http://www.themagpi.com/"
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "A"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "good"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "thing"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "to"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "put"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "the"
+      },
+      {
+       "label": "pi",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "pi"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "is"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "XBMC"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "("
+      },
+      {
+       "label": "google",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "google"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "it"
+      },
+      {
+       "label": "!",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "!"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "It"
+      },
+      {
+       "label": "turns",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "turns"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "it"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "in"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "a"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "media"
+      },
+      {
+       "label": "centre",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "centre"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "."
+      },
+      {
+       "label": "From",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "From"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "there"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "you"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "can"
+      },
+      {
+       "label": "manage",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "manage"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "all"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "your"
+      },
+      {
+       "label": "photos",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "photos"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "/"
+      },
+      {
+       "label": "videos",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "videos"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "and"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "even"
+      },
+      {
+       "label": "watch",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "watch"
+      },
+      {
+       "label": "live",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "live"
+      },
+      {
+       "label": "TV",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "TV"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "("
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "including"
+      },
+      {
+       "label": "BBC",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "BBC"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "."
+      },
+      {
+       "label": "Hope",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "Hope"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "this"
+      },
+      {
+       "label": "post",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "post"
+      },
+      {
+       "label": "does",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "does"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "n't"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "get"
+      },
+      {
+       "label": "deleted",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "deleted"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "for"
+      },
+      {
+       "label": "spam",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "spam"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "("
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "because"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "'s"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "not"
+      },
+      {
+       "label": "spam",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "spam"
+      },
+      {
+       "label": "!",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "!"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "."
+      },
+      {
+       "label": "Just",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "Just"
+      },
+      {
+       "label": "trying",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "trying"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "to"
+      },
+      {
+       "label": "help",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "help"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "the"
+      },
+      {
+       "label": "original",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "original"
+      },
+      {
+       "label": "poster",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "poster"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "A"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "good"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "thing"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "to"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "put"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "the"
+      },
+      {
+       "label": "pi",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "pi"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "is"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "XBMC"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "("
+      },
+      {
+       "label": "google",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "google"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "it"
+      },
+      {
+       "label": "!",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "!"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "It"
+      },
+      {
+       "label": "turns",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "turns"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "it"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "in"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "a"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "media"
+      },
+      {
+       "label": "centre",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "centre"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "."
+      },
+      {
+       "label": "From",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "From"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "there"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "you"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "can"
+      },
+      {
+       "label": "manage",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "manage"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "all"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "your"
+      },
+      {
+       "label": "photos",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "photos"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "/"
+      },
+      {
+       "label": "videos",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "videos"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "and"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "even"
+      },
+      {
+       "label": "watch",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "watch"
+      },
+      {
+       "label": "live",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "live"
+      },
+      {
+       "label": "TV",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "TV"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "("
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "including"
+      },
+      {
+       "label": "BBC",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "BBC"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "."
+      },
+      {
+       "label": "Hope",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Hope"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "this"
+      },
+      {
+       "label": "post",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "post"
+      },
+      {
+       "label": "does",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "does"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "n't"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "get"
+      },
+      {
+       "label": "deleted",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "deleted"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "for"
+      },
+      {
+       "label": "spam",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "spam"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "("
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "because"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "'s"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "not"
+      },
+      {
+       "label": "spam",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "spam"
+      },
+      {
+       "label": "!",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "!"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "."
+      },
+      {
+       "label": "Just",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "Just"
+      },
+      {
+       "label": "trying",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "trying"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "to"
+      },
+      {
+       "label": "help",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "help"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "the"
+      },
+      {
+       "label": "original",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "original"
+      },
+      {
+       "label": "poster",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "poster"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "."
+      },
+      {
+       "label": "Yes",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "Yes"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "XBMC"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "is"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "an"
+      },
+      {
+       "label": "amazing",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "amazing"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "thing"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "to"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "run"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "on"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "that"
+      },
+      {
+       "label": "little",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "little"
+      },
+      {
+       "label": "computer",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "computer"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "."
+      },
+      {
+       "label": "Cool",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "Cool"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "."
+      },
+      {
+       "label": "You",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "You"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "can"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "make"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "any"
+      },
+      {
+       "label": "doodad",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "doodad"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "that"
+      },
+      {
+       "label": "currently",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "currently"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "you"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "do"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "not"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "have"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "I"
+      },
+      {
+       "label": "'m",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "'m"
+      },
+      {
+       "label": "making",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "making"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "a"
+      },
+      {
+       "label": "pocket",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "pocket"
+      },
+      {
+       "label": "router",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "router"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "have"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "run"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "XBMC"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "a"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "long"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "time"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": ","
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "so"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "it"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "made"
+      },
+      {
+       "label": "sense",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "sense"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "to"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "put"
+      },
+      {
+       "label": "Raspbmc",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "Raspbmc"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "on"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "an"
+      },
+      {
+       "label": "SD",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "SD"
+      },
+      {
+       "label": "Card",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Card"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "have"
+      },
+      {
+       "label": "OpenVPN",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "OpenVPN"
+      },
+      {
+       "label": "setup",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "setup"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "on"
+      },
+      {
+       "label": "another",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "another"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "for"
+      },
+      {
+       "label": "secure",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "secure"
+      },
+      {
+       "label": "access",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "access"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "back"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "to"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "my"
+      },
+      {
+       "label": "LAN",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "LAN"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "from"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "public"
+      },
+      {
+       "label": "wifi",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "wifi"
+      },
+      {
+       "label": "hotspots",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "hotspots"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "I"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "going"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "to"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "start"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "working"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "on"
+      },
+      {
+       "label": "OwnCloud",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "OwnCloud"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "so"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "my"
+      },
+      {
+       "label": "most",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "most"
+      },
+      {
+       "label": "important",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "important"
+      },
+      {
+       "label": "data",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "data"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "("
+      },
+      {
+       "label": "US",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "US"
+      },
+      {
+       "label": "Visa",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "Visa"
+      },
+      {
+       "label": "included",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "included"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": ")"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "is"
+      },
+      {
+       "label": "backed",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "backed"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "up"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "on"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "than"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "one"
+      },
+      {
+       "label": "device",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "device"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "."
+      },
+      {
+       "label": "Which",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "Which"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "also"
+      },
+      {
+       "label": "doubles",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "doubles"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "up"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "a"
+      },
+      {
+       "label": "LAMP",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "LAMP"
+      },
+      {
+       "label": "box",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "box"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": ","
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "for"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "my"
+      },
+      {
+       "label": "private",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "private"
+      },
+      {
+       "label": "wiki",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "wiki"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "."
+      },
+      {
+       "label": "Yes",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "Yes"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "I"
+      },
+      {
+       "label": "'m",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "'m"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "an"
+      },
+      {
+       "label": "IT",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "IT"
+      },
+      {
+       "label": "geek",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "geek"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "."
+      },
+      {
+       "label": "So",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "So"
+      },
+      {
+       "label": "sorry",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "sorry"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "if"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "this"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "is"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "too"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "much"
+      },
+      {
+       "label": "info",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "info"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "If"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "all"
+      },
+      {
+       "label": "else",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "else"
+      },
+      {
+       "label": "fails",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "fails"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "as"
+      },
+      {
+       "label": "mentioned",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "mentioned"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "'s"
+      },
+      {
+       "label": "plenty",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "plenty"
+      },
+      {
+       "label": "powerful",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "powerful"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "for"
+      },
+      {
+       "label": "Mame",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "Mame"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "and"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "some"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "other"
+      },
+      {
+       "label": "gaming",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "gaming"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "have"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "run"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "XBMC"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "a"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "long"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "time"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": ","
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "so"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "it"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "made"
+      },
+      {
+       "label": "sense",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "sense"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "to"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "put"
+      },
+      {
+       "label": "Raspbmc",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "Raspbmc"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "on"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "an"
+      },
+      {
+       "label": "SD",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "SD"
+      },
+      {
+       "label": "Card",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "Card"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "have"
+      },
+      {
+       "label": "OpenVPN",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "OpenVPN"
+      },
+      {
+       "label": "setup",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "setup"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "on"
+      },
+      {
+       "label": "another",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "another"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "for"
+      },
+      {
+       "label": "secure",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "secure"
+      },
+      {
+       "label": "access",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "access"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "back"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "to"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "my"
+      },
+      {
+       "label": "LAN",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "LAN"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "from"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "public"
+      },
+      {
+       "label": "wifi",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "wifi"
+      },
+      {
+       "label": "hotspots",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "hotspots"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "I"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "going"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "to"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "start"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "working"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "on"
+      },
+      {
+       "label": "OwnCloud",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "OwnCloud"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "so"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "my"
+      },
+      {
+       "label": "most",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "most"
+      },
+      {
+       "label": "important",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "important"
+      },
+      {
+       "label": "data",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "data"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "("
+      },
+      {
+       "label": "US",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "US"
+      },
+      {
+       "label": "Visa",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "Visa"
+      },
+      {
+       "label": "included",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "included"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": ")"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "is"
+      },
+      {
+       "label": "backed",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "backed"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "up"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "on"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "than"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "one"
+      },
+      {
+       "label": "device",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "device"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "."
+      },
+      {
+       "label": "Which",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "Which"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "also"
+      },
+      {
+       "label": "doubles",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "doubles"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "up"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "a"
+      },
+      {
+       "label": "LAMP",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "LAMP"
+      },
+      {
+       "label": "box",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "box"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": ","
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "for"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "my"
+      },
+      {
+       "label": "private",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "private"
+      },
+      {
+       "label": "wiki",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "wiki"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "."
+      },
+      {
+       "label": "Yes",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "Yes"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "I"
+      },
+      {
+       "label": "'m",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "'m"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "an"
+      },
+      {
+       "label": "IT",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "IT"
+      },
+      {
+       "label": "geek",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "geek"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "."
+      },
+      {
+       "label": "So",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "So"
+      },
+      {
+       "label": "sorry",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "sorry"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "if"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "this"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "is"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "too"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "much"
+      },
+      {
+       "label": "info",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "info"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "If"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "all"
+      },
+      {
+       "label": "else",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "else"
+      },
+      {
+       "label": "fails",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "fails"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "as"
+      },
+      {
+       "label": "mentioned",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "mentioned"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "'s"
+      },
+      {
+       "label": "plenty",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "plenty"
+      },
+      {
+       "label": "powerful",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "powerful"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "for"
+      },
+      {
+       "label": "Mame",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "Mame"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "and"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "some"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "other"
+      },
+      {
+       "label": "gaming",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "gaming"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "."
+      },
+      {
+       "label": "Can",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "Can"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "you"
+      },
+      {
+       "label": "recommend",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "recommend"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "a"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "good"
+      },
+      {
+       "label": "USB",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "USB"
+      },
+      {
+       "label": "Wifi",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "Wifi"
+      },
+      {
+       "label": "adapter",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "adapter"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "for"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "it"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "?"
+      },
+      {
+       "label": "Sorry",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "Sorry"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "I"
+      },
+      {
+       "label": "cannot",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "cannot"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": ","
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "I"
+      },
+      {
+       "label": "forget",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "forget"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "now"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "what"
+      },
+      {
+       "label": "mine",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "mine"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "is"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "."
+      },
+      {
+       "label": "Though",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "Though"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "I"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "did"
+      },
+      {
+       "label": "buy",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "buy"
+      },
+      {
+       "label": "mine",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "mine"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "from"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "a"
+      },
+      {
+       "label": "Pi",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "Pi"
+      },
+      {
+       "label": "retailer",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "retailer"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "."
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "This"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "is"
+      },
+      {
+       "label": "probably",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "probably"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "your"
+      },
+      {
+       "label": "best",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "best"
+      },
+      {
+       "label": "bet",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "bet"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "."
+      },
+      {
+       "label": "Can",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "Can"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "you"
+      },
+      {
+       "label": "recommend",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "recommend"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "a"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "good"
+      },
+      {
+       "label": "USB",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "USB"
+      },
+      {
+       "label": "Wifi",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "Wifi"
+      },
+      {
+       "label": "adapter",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "adapter"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "for"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "it"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "?"
+      },
+      {
+       "label": "Try",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "Try"
+      },
+      {
+       "label": "Adafruit",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "Adafruit"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "I"
+      },
+      {
+       "label": "might",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "might"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "be"
+      },
+      {
+       "label": "looking",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "looking"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "a"
+      },
+      {
+       "label": "Model",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "Model"
+      },
+      {
+       "label": "B",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "B"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "to"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "use"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "XBMC"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "."
+      },
+      {
+       "label": "Should",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "Should"
+      },
+      {
+       "label": "i",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "i"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "get"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "a"
+      },
+      {
+       "label": "regular",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "regular"
+      },
+      {
+       "label": "Ubuntu",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "Ubuntu"
+      },
+      {
+       "label": "distribution",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "distribution"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "or"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "go"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "with"
+      },
+      {
+       "label": "XBMCbuntu",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "XBMCbuntu"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "."
+      },
+      {
+       "label": "What",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "What"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "do"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "you"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "use"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "for"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "media"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "storage"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "the"
+      },
+      {
+       "label": "Pi",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "Pi"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "?"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "I"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "would"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "like"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "have"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "a"
+      },
+      {
+       "label": "huge",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "huge"
+      },
+      {
+       "label": "movie",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "movie"
+      },
+      {
+       "label": "collection",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "collection"
+      },
+      {
+       "label": "stored",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": "stored"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "a"
+      },
+      {
+       "label": "HDD",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "HDD"
+      },
+      {
+       "label": "ideally",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "ideally"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "("
+      },
+      {
+       "label": "either",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": "either"
+      },
+      {
+       "label": "connected",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "connected"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "or"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": "a"
+      },
+      {
+       "label": "server",
+       "score": 1.0,
+       "start": 621,
+       "end": 622,
+       "tokens": "server"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 622,
+       "end": 623,
+       "tokens": "over"
+      },
+      {
+       "label": "wifi",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": "wifi"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 624,
+       "end": 625,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 625,
+       "end": 626,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 626,
+       "end": 627,
+       "tokens": "The"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 627,
+       "end": 628,
+       "tokens": "only"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 628,
+       "end": 629,
+       "tokens": "other"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 629,
+       "end": 630,
+       "tokens": "thing"
+      },
+      {
+       "label": "i",
+       "score": 1.0,
+       "start": 630,
+       "end": 631,
+       "tokens": "i"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 631,
+       "end": 632,
+       "tokens": "would"
+      },
+      {
+       "label": "likely",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "likely"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 633,
+       "end": 634,
+       "tokens": "like"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 634,
+       "end": 635,
+       "tokens": "to"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "use"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 636,
+       "end": 637,
+       "tokens": "it"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 637,
+       "end": 638,
+       "tokens": "for"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 638,
+       "end": 639,
+       "tokens": "is"
+      },
+      {
+       "label": "MAME",
+       "score": 1.0,
+       "start": 639,
+       "end": 640,
+       "tokens": "MAME"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 641,
+       "end": 642,
+       "tokens": "but"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 642,
+       "end": 643,
+       "tokens": "then"
+      },
+      {
+       "label": "i",
+       "score": 1.0,
+       "start": 643,
+       "end": 644,
+       "tokens": "i"
+      },
+      {
+       "label": "see",
+       "score": 1.0,
+       "start": 644,
+       "end": 645,
+       "tokens": "see"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "the"
+      },
+      {
+       "label": "RetroPlayer",
+       "score": 1.0,
+       "start": 646,
+       "end": 647,
+       "tokens": "RetroPlayer"
+      },
+      {
+       "label": "feature",
+       "score": 1.0,
+       "start": 647,
+       "end": 648,
+       "tokens": "feature"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 648,
+       "end": 649,
+       "tokens": "in"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 649,
+       "end": 650,
+       "tokens": "XBMC"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 650,
+       "end": 651,
+       "tokens": "is"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "going"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 652,
+       "end": 653,
+       "tokens": "to"
+      },
+      {
+       "label": "support",
+       "score": 1.0,
+       "start": 653,
+       "end": 654,
+       "tokens": "support"
+      },
+      {
+       "label": "MAME",
+       "score": 1.0,
+       "start": 654,
+       "end": 655,
+       "tokens": "MAME"
+      },
+      {
+       "label": "ROMs",
+       "score": 1.0,
+       "start": 655,
+       "end": 656,
+       "tokens": "ROMs"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 656,
+       "end": 657,
+       "tokens": "and"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 657,
+       "end": 658,
+       "tokens": "others"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 658,
+       "end": 659,
+       "tokens": "."
+      },
+      {
+       "label": "Some",
+       "score": 1.0,
+       "start": 659,
+       "end": 660,
+       "tokens": "Some"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "other"
+      },
+      {
+       "label": "questions",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "questions"
+      },
+      {
+       "label": "Is",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "Is"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 663,
+       "end": 664,
+       "tokens": "it"
+      },
+      {
+       "label": "possible",
+       "score": 1.0,
+       "start": 664,
+       "end": 665,
+       "tokens": "possible"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 665,
+       "end": 666,
+       "tokens": "to"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 666,
+       "end": 667,
+       "tokens": "use"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 667,
+       "end": 668,
+       "tokens": "a"
+      },
+      {
+       "label": "game",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "game"
+      },
+      {
+       "label": "controller",
+       "score": 1.0,
+       "start": 669,
+       "end": 670,
+       "tokens": "controller"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 670,
+       "end": 671,
+       "tokens": "?"
+      },
+      {
+       "label": "Does",
+       "score": 1.0,
+       "start": 671,
+       "end": 672,
+       "tokens": "Does"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "XBMC"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 673,
+       "end": 674,
+       "tokens": "have"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 674,
+       "end": 675,
+       "tokens": "some"
+      },
+      {
+       "label": "kind",
+       "score": 1.0,
+       "start": 675,
+       "end": 676,
+       "tokens": "kind"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 676,
+       "end": 677,
+       "tokens": "of"
+      },
+      {
+       "label": "remote",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "remote"
+      },
+      {
+       "label": "control",
+       "score": 1.0,
+       "start": 678,
+       "end": 679,
+       "tokens": "control"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 679,
+       "end": 680,
+       "tokens": "or"
+      },
+      {
+       "label": "does",
+       "score": 1.0,
+       "start": 680,
+       "end": 681,
+       "tokens": "does"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 681,
+       "end": 682,
+       "tokens": "it"
+      },
+      {
+       "label": "need",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "need"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 683,
+       "end": 684,
+       "tokens": "the"
+      },
+      {
+       "label": "Pi",
+       "score": 1.0,
+       "start": 684,
+       "end": 685,
+       "tokens": "Pi"
+      },
+      {
+       "label": "keyboard",
+       "score": 1.0,
+       "start": 685,
+       "end": 686,
+       "tokens": "keyboard"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 686,
+       "end": 687,
+       "tokens": "and"
+      },
+      {
+       "label": "mouse",
+       "score": 1.0,
+       "start": 687,
+       "end": 688,
+       "tokens": "mouse"
+      },
+      {
+       "label": "attached",
+       "score": 1.0,
+       "start": 688,
+       "end": 689,
+       "tokens": "attached"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 689,
+       "end": 690,
+       "tokens": "all"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 690,
+       "end": 691,
+       "tokens": "the"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 691,
+       "end": 692,
+       "tokens": "time"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "?"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "I"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 694,
+       "end": 695,
+       "tokens": "just"
+      },
+      {
+       "label": "read",
+       "score": 1.0,
+       "start": 695,
+       "end": 696,
+       "tokens": "read"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 696,
+       "end": 697,
+       "tokens": "this"
+      },
+      {
+       "label": "thread",
+       "score": 1.0,
+       "start": 697,
+       "end": 698,
+       "tokens": "thread"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 698,
+       "end": 699,
+       "tokens": "and"
+      },
+      {
+       "label": "feel",
+       "score": 1.0,
+       "start": 699,
+       "end": 700,
+       "tokens": "feel"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 700,
+       "end": 701,
+       "tokens": "like"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 701,
+       "end": 702,
+       "tokens": "I"
+      },
+      {
+       "label": "stepped",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "stepped"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 703,
+       "end": 704,
+       "tokens": "into"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 704,
+       "end": 705,
+       "tokens": "a"
+      },
+      {
+       "label": "parallel",
+       "score": 1.0,
+       "start": 705,
+       "end": 706,
+       "tokens": "parallel"
+      },
+      {
+       "label": "universe",
+       "score": 1.0,
+       "start": 706,
+       "end": 707,
+       "tokens": "universe"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 707,
+       "end": 708,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 708,
+       "end": 709,
+       "tokens": "I"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 709,
+       "end": 710,
+       "tokens": "just"
+      },
+      {
+       "label": "read",
+       "score": 1.0,
+       "start": 710,
+       "end": 711,
+       "tokens": "read"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 711,
+       "end": 712,
+       "tokens": "this"
+      },
+      {
+       "label": "thread",
+       "score": 1.0,
+       "start": 712,
+       "end": 713,
+       "tokens": "thread"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 713,
+       "end": 714,
+       "tokens": "and"
+      },
+      {
+       "label": "feel",
+       "score": 1.0,
+       "start": 714,
+       "end": 715,
+       "tokens": "feel"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 715,
+       "end": 716,
+       "tokens": "like"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 716,
+       "end": 717,
+       "tokens": "I"
+      },
+      {
+       "label": "stepped",
+       "score": 1.0,
+       "start": 717,
+       "end": 718,
+       "tokens": "stepped"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 718,
+       "end": 719,
+       "tokens": "into"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 719,
+       "end": 720,
+       "tokens": "a"
+      },
+      {
+       "label": "parallel",
+       "score": 1.0,
+       "start": 720,
+       "end": 721,
+       "tokens": "parallel"
+      },
+      {
+       "label": "universe",
+       "score": 1.0,
+       "start": 721,
+       "end": 722,
+       "tokens": "universe"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 722,
+       "end": 723,
+       "tokens": "."
+      },
+      {
+       "label": "Here",
+       "score": 1.0,
+       "start": 723,
+       "end": 724,
+       "tokens": "Here"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 724,
+       "end": 725,
+       "tokens": "you"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 725,
+       "end": 726,
+       "tokens": "go"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 726,
+       "end": 727,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 727,
+       "end": 728,
+       "tokens": "I"
+      },
+      {
+       "label": "might",
+       "score": 1.0,
+       "start": 728,
+       "end": 729,
+       "tokens": "might"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 729,
+       "end": 730,
+       "tokens": "be"
+      },
+      {
+       "label": "looking",
+       "score": 1.0,
+       "start": 730,
+       "end": 731,
+       "tokens": "looking"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 731,
+       "end": 732,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 732,
+       "end": 733,
+       "tokens": "a"
+      },
+      {
+       "label": "Model",
+       "score": 1.0,
+       "start": 733,
+       "end": 734,
+       "tokens": "Model"
+      },
+      {
+       "label": "B",
+       "score": 1.0,
+       "start": 734,
+       "end": 735,
+       "tokens": "B"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 735,
+       "end": 736,
+       "tokens": "to"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 736,
+       "end": 737,
+       "tokens": "use"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 737,
+       "end": 738,
+       "tokens": "XBMC"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 738,
+       "end": 739,
+       "tokens": "."
+      },
+      {
+       "label": "Should",
+       "score": 1.0,
+       "start": 739,
+       "end": 740,
+       "tokens": "Should"
+      },
+      {
+       "label": "i",
+       "score": 1.0,
+       "start": 740,
+       "end": 741,
+       "tokens": "i"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 741,
+       "end": 742,
+       "tokens": "get"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 742,
+       "end": 743,
+       "tokens": "a"
+      },
+      {
+       "label": "regular",
+       "score": 1.0,
+       "start": 743,
+       "end": 744,
+       "tokens": "regular"
+      },
+      {
+       "label": "Ubuntu",
+       "score": 1.0,
+       "start": 744,
+       "end": 745,
+       "tokens": "Ubuntu"
+      },
+      {
+       "label": "distribution",
+       "score": 1.0,
+       "start": 745,
+       "end": 746,
+       "tokens": "distribution"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 746,
+       "end": 747,
+       "tokens": "or"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 747,
+       "end": 748,
+       "tokens": "go"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 748,
+       "end": 749,
+       "tokens": "with"
+      },
+      {
+       "label": "XBMCbuntu",
+       "score": 1.0,
+       "start": 749,
+       "end": 750,
+       "tokens": "XBMCbuntu"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 750,
+       "end": 751,
+       "tokens": "."
+      },
+      {
+       "label": "Do",
+       "score": 1.0,
+       "start": 751,
+       "end": 752,
+       "tokens": "Do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 752,
+       "end": 753,
+       "tokens": "n't"
+      },
+      {
+       "label": "muck",
+       "score": 1.0,
+       "start": 753,
+       "end": 754,
+       "tokens": "muck"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 754,
+       "end": 755,
+       "tokens": "about"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 755,
+       "end": 756,
+       "tokens": "-"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 756,
+       "end": 757,
+       "tokens": "all"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 757,
+       "end": 758,
+       "tokens": "the"
+      },
+      {
+       "label": "dependencies",
+       "score": 1.0,
+       "start": 758,
+       "end": 759,
+       "tokens": "dependencies"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 759,
+       "end": 760,
+       "tokens": "are"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 760,
+       "end": 761,
+       "tokens": "just"
+      },
+      {
+       "label": "sorted",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "sorted"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 762,
+       "end": 763,
+       "tokens": "out"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 763,
+       "end": 764,
+       "tokens": "for"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 764,
+       "end": 765,
+       "tokens": "you"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 765,
+       "end": 766,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 766,
+       "end": 767,
+       "tokens": "the"
+      },
+      {
+       "label": "XBMCbuntu",
+       "score": 1.0,
+       "start": 767,
+       "end": 768,
+       "tokens": "XBMCbuntu"
+      },
+      {
+       "label": "disk",
+       "score": 1.0,
+       "start": 768,
+       "end": 769,
+       "tokens": "disk"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 769,
+       "end": 770,
+       "tokens": "."
+      },
+      {
+       "label": "Big",
+       "score": 1.0,
+       "start": 770,
+       "end": 771,
+       "tokens": "Big"
+      },
+      {
+       "label": "ass",
+       "score": 1.0,
+       "start": 771,
+       "end": 772,
+       "tokens": "ass"
+      },
+      {
+       "label": "external",
+       "score": 1.0,
+       "start": 772,
+       "end": 773,
+       "tokens": "external"
+      },
+      {
+       "label": "USB",
+       "score": 1.0,
+       "start": 773,
+       "end": 774,
+       "tokens": "USB"
+      },
+      {
+       "label": "3",
+       "score": 1.0,
+       "start": 774,
+       "end": 775,
+       "tokens": "3"
+      },
+      {
+       "label": "hard",
+       "score": 1.0,
+       "start": 775,
+       "end": 776,
+       "tokens": "hard"
+      },
+      {
+       "label": "disk",
+       "score": 1.0,
+       "start": 776,
+       "end": 777,
+       "tokens": "disk"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 777,
+       "end": 778,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 778,
+       "end": 779,
+       "tokens": "with"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 779,
+       "end": 780,
+       "tokens": "an"
+      },
+      {
+       "label": "external",
+       "score": 1.0,
+       "start": 780,
+       "end": 781,
+       "tokens": "external"
+      },
+      {
+       "label": "PSU",
+       "score": 1.0,
+       "start": 781,
+       "end": 782,
+       "tokens": "PSU"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 782,
+       "end": 783,
+       "tokens": "too"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 783,
+       "end": 784,
+       "tokens": "."
+      },
+      {
+       "label": "http://www.makeuseof.com/tag/connect...ux-gaming-rig/",
+       "score": 1.0,
+       "start": 784,
+       "end": 785,
+       "tokens": "http://www.makeuseof.com/tag/connect...ux-gaming-rig/"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 785,
+       "end": 786,
+       "tokens": "The"
+      },
+      {
+       "label": "OpenElec",
+       "score": 1.0,
+       "start": 786,
+       "end": 787,
+       "tokens": "OpenElec"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 787,
+       "end": 788,
+       "tokens": "system"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 788,
+       "end": 789,
+       "tokens": "in"
+      },
+      {
+       "label": "NOOBS",
+       "score": 1.0,
+       "start": 789,
+       "end": 790,
+       "tokens": "NOOBS"
+      },
+      {
+       "label": "comes",
+       "score": 1.0,
+       "start": 790,
+       "end": 791,
+       "tokens": "comes"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 791,
+       "end": 792,
+       "tokens": "with"
+      },
+      {
+       "label": "XBMC",
+       "score": 1.0,
+       "start": 792,
+       "end": 793,
+       "tokens": "XBMC"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 793,
+       "end": 794,
+       "tokens": "and"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 794,
+       "end": 795,
+       "tokens": "is"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 795,
+       "end": 796,
+       "tokens": "all"
+      },
+      {
+       "label": "ready",
+       "score": 1.0,
+       "start": 796,
+       "end": 797,
+       "tokens": "ready"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 797,
+       "end": 798,
+       "tokens": "to"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 798,
+       "end": 799,
+       "tokens": "go"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 799,
+       "end": 800,
+       "tokens": ","
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 800,
+       "end": 801,
+       "tokens": "just"
+      },
+      {
+       "label": "needs",
+       "score": 1.0,
+       "start": 801,
+       "end": 802,
+       "tokens": "needs"
+      },
+      {
+       "label": "your",
+       "score": 1.0,
+       "start": 802,
+       "end": 803,
+       "tokens": "your"
+      },
+      {
+       "label": "sources",
+       "score": 1.0,
+       "start": 803,
+       "end": 804,
+       "tokens": "sources"
+      },
+      {
+       "label": "adding",
+       "score": 1.0,
+       "start": 804,
+       "end": 805,
+       "tokens": "adding"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 805,
+       "end": 806,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 806,
+       "end": 807,
+       "tokens": "I"
+      },
+      {
+       "label": "am",
+       "score": 1.0,
+       "start": 807,
+       "end": 808,
+       "tokens": "am"
+      },
+      {
+       "label": "using",
+       "score": 1.0,
+       "start": 808,
+       "end": 809,
+       "tokens": "using"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 809,
+       "end": 810,
+       "tokens": "a"
+      },
+      {
+       "label": "Network",
+       "score": 1.0,
+       "start": 810,
+       "end": 811,
+       "tokens": "Network"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 811,
+       "end": 812,
+       "tokens": "storage"
+      },
+      {
+       "label": "drive",
+       "score": 1.0,
+       "start": 812,
+       "end": 813,
+       "tokens": "drive"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 813,
+       "end": 814,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 814,
+       "end": 815,
+       "tokens": "a"
+      },
+      {
+       "label": "wireless",
+       "score": 1.0,
+       "start": 815,
+       "end": 816,
+       "tokens": "wireless"
+      },
+      {
+       "label": "thumb",
+       "score": 1.0,
+       "start": 816,
+       "end": 817,
+       "tokens": "thumb"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 817,
+       "end": 818,
+       "tokens": "."
+      },
+      {
+       "label": "Also",
+       "score": 1.0,
+       "start": 818,
+       "end": 819,
+       "tokens": "Also"
+      },
+      {
+       "label": "using",
+       "score": 1.0,
+       "start": 819,
+       "end": 820,
+       "tokens": "using"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 820,
+       "end": 821,
+       "tokens": "a"
+      },
+      {
+       "label": "remote",
+       "score": 1.0,
+       "start": 821,
+       "end": 822,
+       "tokens": "remote"
+      },
+      {
+       "label": "control",
+       "score": 1.0,
+       "start": 822,
+       "end": 823,
+       "tokens": "control"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 823,
+       "end": 824,
+       "tokens": "from"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 824,
+       "end": 825,
+       "tokens": "a"
+      },
+      {
+       "label": "Windows",
+       "score": 1.0,
+       "start": 825,
+       "end": 826,
+       "tokens": "Windows"
+      },
+      {
+       "label": "Media",
+       "score": 1.0,
+       "start": 826,
+       "end": 827,
+       "tokens": "Media"
+      },
+      {
+       "label": "Center",
+       "score": 1.0,
+       "start": 827,
+       "end": 828,
+       "tokens": "Center"
+      },
+      {
+       "label": "PC",
+       "score": 1.0,
+       "start": 828,
+       "end": 829,
+       "tokens": "PC"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 829,
+       "end": 830,
+       "tokens": ","
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 830,
+       "end": 831,
+       "tokens": "it"
+      },
+      {
+       "label": "works",
+       "score": 1.0,
+       "start": 831,
+       "end": 832,
+       "tokens": "works"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 832,
+       "end": 833,
+       "tokens": "out"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 833,
+       "end": 834,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 834,
+       "end": 835,
+       "tokens": "the"
+      },
+      {
+       "label": "box",
+       "score": 1.0,
+       "start": 835,
+       "end": 836,
+       "tokens": "box"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 836,
+       "end": 837,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_States",
+       "score": 0.6814677695370237,
+       "start": 339,
+       "end": 340,
+       "tokens": "US",
+       "labelScoreMap": {
+        "United_States": 0.6814677695370237,
+        "United_States_dollar": 0.23048088877897346,
+        "Billboard_Hot_100": 0.02492511640310246,
+        "American_English": 0.015187895329834528,
+        "Recording_Industry_Association_of_America": 0.010131297950241694,
+        "Us_(Peter_Gabriel_album)": 0.0019944323462348945,
+        "Federal_government_of_the_United_States": 0.002425388935058289,
+        "United_States_men's_national_soccer_team": 0.0012637151750885145,
+        "United_States_Armed_Forces": 0.0011864329772193606,
+        "U.S._state": 0.028165808840130528,
+        "Billboard_charts": 0.0010985969284546238,
+        "United_States_Congress": 0.0016726567986379813,
+        "<unk_wid>": 1.7699995169033371e-34
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_States",
+       "score": 0.6814677695370237,
+       "start": 339,
+       "end": 340,
+       "tokens": "US",
+       "labelScoreMap": {
+        "6252001|United_States": 0.6814677695370237
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

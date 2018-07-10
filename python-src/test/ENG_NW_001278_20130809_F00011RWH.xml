@@ -1,0 +1,2579 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130809_F00011RWH.xml",
+ "text": "2013-08-09T22:14:06\nSpain to revise rail speed limit in wake of deadly July crash\nSpain to revise rail speed limit in wake of deadly July crash\nMADRID, Aug. 9 (Xinhua) -- Spain would revise maximum speed limits of the country's rail network in the wake of a train crash killed 79 people last month, Spanish minister of public works Ana Pastor said on Friday.\n\"Everything is under review and subject to proposals for improvement,\" Pastor told a parliamentary panel about the July 24 crash near Santiago de Compostela.\nThe eight carriage train was traveling at more than twice the speed limit of 80 kilometers per hour on a steep curve when it flew off the tracks.\nEngine driver Francisco Jose Garzon Amo was allegedly on the telephone with the on-board conductor and stopped speaking just 11 seconds before the accident.\nAccording to Pastor, the Spanish government might lower speed limits on stretches regarded as risky and improve the country's rail signaling network. It will also upgrade the advance warning system on trains, which could be extended to include satellite-based technology.\nThe use of mobile phones by RENFE personnel will also be limited, while luggage storage space will be adapted so that bags and cases are not converted into dangerous flying objects as the result of an accident. Enditem",
+ "tokens": [
+  "2013-08-09T22:14:06",
+  "Spain",
+  "to",
+  "revise",
+  "rail",
+  "speed",
+  "limit",
+  "in",
+  "wake",
+  "of",
+  "deadly",
+  "July",
+  "crash",
+  "Spain",
+  "to",
+  "revise",
+  "rail",
+  "speed",
+  "limit",
+  "in",
+  "wake",
+  "of",
+  "deadly",
+  "July",
+  "crash",
+  "MADRID",
+  ",",
+  "Aug.",
+  "9",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "Spain",
+  "would",
+  "revise",
+  "maximum",
+  "speed",
+  "limits",
+  "of",
+  "the",
+  "country",
+  "'s",
+  "rail",
+  "network",
+  "in",
+  "the",
+  "wake",
+  "of",
+  "a",
+  "train",
+  "crash",
+  "killed",
+  "79",
+  "people",
+  "last",
+  "month",
+  ",",
+  "Spanish",
+  "minister",
+  "of",
+  "public",
+  "works",
+  "Ana",
+  "Pastor",
+  "said",
+  "on",
+  "Friday",
+  ".",
+  "\"",
+  "Everything",
+  "is",
+  "under",
+  "review",
+  "and",
+  "subject",
+  "to",
+  "proposals",
+  "for",
+  "improvement",
+  ",",
+  "\"",
+  "Pastor",
+  "told",
+  "a",
+  "parliamentary",
+  "panel",
+  "about",
+  "the",
+  "July",
+  "24",
+  "crash",
+  "near",
+  "Santiago",
+  "de",
+  "Compostela",
+  ".",
+  "The",
+  "eight",
+  "carriage",
+  "train",
+  "was",
+  "traveling",
+  "at",
+  "more",
+  "than",
+  "twice",
+  "the",
+  "speed",
+  "limit",
+  "of",
+  "80",
+  "kilometers",
+  "per",
+  "hour",
+  "on",
+  "a",
+  "steep",
+  "curve",
+  "when",
+  "it",
+  "flew",
+  "off",
+  "the",
+  "tracks",
+  ".",
+  "Engine",
+  "driver",
+  "Francisco",
+  "Jose",
+  "Garzon",
+  "Amo",
+  "was",
+  "allegedly",
+  "on",
+  "the",
+  "telephone",
+  "with",
+  "the",
+  "on",
+  "-",
+  "board",
+  "conductor",
+  "and",
+  "stopped",
+  "speaking",
+  "just",
+  "11",
+  "seconds",
+  "before",
+  "the",
+  "accident",
+  ".",
+  "According",
+  "to",
+  "Pastor",
+  ",",
+  "the",
+  "Spanish",
+  "government",
+  "might",
+  "lower",
+  "speed",
+  "limits",
+  "on",
+  "stretches",
+  "regarded",
+  "as",
+  "risky",
+  "and",
+  "improve",
+  "the",
+  "country",
+  "'s",
+  "rail",
+  "signaling",
+  "network",
+  ".",
+  "It",
+  "will",
+  "also",
+  "upgrade",
+  "the",
+  "advance",
+  "warning",
+  "system",
+  "on",
+  "trains",
+  ",",
+  "which",
+  "could",
+  "be",
+  "extended",
+  "to",
+  "include",
+  "satellite",
+  "-",
+  "based",
+  "technology",
+  ".",
+  "The",
+  "use",
+  "of",
+  "mobile",
+  "phones",
+  "by",
+  "RENFE",
+  "personnel",
+  "will",
+  "also",
+  "be",
+  "limited",
+  ",",
+  "while",
+  "luggage",
+  "storage",
+  "space",
+  "will",
+  "be",
+  "adapted",
+  "so",
+  "that",
+  "bags",
+  "and",
+  "cases",
+  "are",
+  "not",
+  "converted",
+  "into",
+  "dangerous",
+  "flying",
+  "objects",
+  "as",
+  "the",
+  "result",
+  "of",
+  "an",
+  "accident",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   69,
+   97,
+   126,
+   153,
+   178,
+   200,
+   239,
+   240
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 1.0,
+       "start": 93,
+       "end": 96,
+       "tokens": "Santiago de Compostela"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Spain"
+      },
+      {
+       "label": "Madrid",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "MADRID"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "Pastor"
+      },
+      {
+       "label": "Renfe_Operadora",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "RENFE"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Spain"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 63,
+       "end": 65,
+       "tokens": "Ana Pastor"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "Pastor"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 128,
+       "end": 132,
+       "tokens": "Francisco Jose Garzon Amo"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 93,
+       "end": 96,
+       "tokens": "Santiago de Compostela"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Spain"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "MADRID"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "Pastor"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "RENFE"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Spain"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 63,
+       "end": 65,
+       "tokens": "Ana Pastor"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "Pastor"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 128,
+       "end": 132,
+       "tokens": "Francisco Jose Garzon Amo"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-08-09T22:14:06",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-08-09T22:14:06"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Spain"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "to"
+      },
+      {
+       "label": "revise",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "revise"
+      },
+      {
+       "label": "rail",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "rail"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "speed"
+      },
+      {
+       "label": "limit",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "limit"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "in"
+      },
+      {
+       "label": "wake",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "wake"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "of"
+      },
+      {
+       "label": "deadly",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "deadly"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "July"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "crash"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spain"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "to"
+      },
+      {
+       "label": "revise",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "revise"
+      },
+      {
+       "label": "rail",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "rail"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "speed"
+      },
+      {
+       "label": "limit",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "limit"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "in"
+      },
+      {
+       "label": "wake",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "wake"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "of"
+      },
+      {
+       "label": "deadly",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "deadly"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "July"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "crash"
+      },
+      {
+       "label": "MADRID",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "MADRID"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": ","
+      },
+      {
+       "label": "Aug.",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Aug."
+      },
+      {
+       "label": "9",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "9"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "--"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Spain"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "would"
+      },
+      {
+       "label": "revise",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "revise"
+      },
+      {
+       "label": "maximum",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "maximum"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "speed"
+      },
+      {
+       "label": "limits",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "limits"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "country"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "'s"
+      },
+      {
+       "label": "rail",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "rail"
+      },
+      {
+       "label": "network",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "network"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "the"
+      },
+      {
+       "label": "wake",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "wake"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "a"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "train"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "crash"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "killed"
+      },
+      {
+       "label": "79",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "79"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "people"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "last"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "month"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": ","
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "minister",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "minister"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "of"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "public"
+      },
+      {
+       "label": "works",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "works"
+      },
+      {
+       "label": "Ana",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Ana"
+      },
+      {
+       "label": "Pastor",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Pastor"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "said"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "on"
+      },
+      {
+       "label": "Friday",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Friday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "\""
+      },
+      {
+       "label": "Everything",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "Everything"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "is"
+      },
+      {
+       "label": "under",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "under"
+      },
+      {
+       "label": "review",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "review"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "and"
+      },
+      {
+       "label": "subject",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "subject"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "to"
+      },
+      {
+       "label": "proposals",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "proposals"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "for"
+      },
+      {
+       "label": "improvement",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "improvement"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "\""
+      },
+      {
+       "label": "Pastor",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "Pastor"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "told"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "a"
+      },
+      {
+       "label": "parliamentary",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "parliamentary"
+      },
+      {
+       "label": "panel",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "panel"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "about"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "the"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "July"
+      },
+      {
+       "label": "24",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "24"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "crash"
+      },
+      {
+       "label": "near",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "near"
+      },
+      {
+       "label": "Santiago",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "Santiago"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "de"
+      },
+      {
+       "label": "Compostela",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "Compostela"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "The"
+      },
+      {
+       "label": "eight",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "eight"
+      },
+      {
+       "label": "carriage",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "carriage"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "train"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "was"
+      },
+      {
+       "label": "traveling",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "traveling"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "at"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "than"
+      },
+      {
+       "label": "twice",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "twice"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "the"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "speed"
+      },
+      {
+       "label": "limit",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "limit"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "of"
+      },
+      {
+       "label": "80",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "80"
+      },
+      {
+       "label": "kilometers",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "kilometers"
+      },
+      {
+       "label": "per",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "per"
+      },
+      {
+       "label": "hour",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "hour"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "a"
+      },
+      {
+       "label": "steep",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "steep"
+      },
+      {
+       "label": "curve",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "curve"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "when"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "it"
+      },
+      {
+       "label": "flew",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "flew"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "off"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "the"
+      },
+      {
+       "label": "tracks",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "tracks"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "."
+      },
+      {
+       "label": "Engine",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Engine"
+      },
+      {
+       "label": "driver",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "driver"
+      },
+      {
+       "label": "Francisco",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "Francisco"
+      },
+      {
+       "label": "Jose",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "Jose"
+      },
+      {
+       "label": "Garzon",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "Garzon"
+      },
+      {
+       "label": "Amo",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "Amo"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "was"
+      },
+      {
+       "label": "allegedly",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "allegedly"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "the"
+      },
+      {
+       "label": "telephone",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "telephone"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "the"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "on"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "-"
+      },
+      {
+       "label": "board",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "board"
+      },
+      {
+       "label": "conductor",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "conductor"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "and"
+      },
+      {
+       "label": "stopped",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "stopped"
+      },
+      {
+       "label": "speaking",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "speaking"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "just"
+      },
+      {
+       "label": "11",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "11"
+      },
+      {
+       "label": "seconds",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "seconds"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "the"
+      },
+      {
+       "label": "accident",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "accident"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "."
+      },
+      {
+       "label": "According",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "According"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "to"
+      },
+      {
+       "label": "Pastor",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "Pastor"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "the"
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "government"
+      },
+      {
+       "label": "might",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "might"
+      },
+      {
+       "label": "lower",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "lower"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "speed"
+      },
+      {
+       "label": "limits",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "limits"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "on"
+      },
+      {
+       "label": "stretches",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "stretches"
+      },
+      {
+       "label": "regarded",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "regarded"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "as"
+      },
+      {
+       "label": "risky",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "risky"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "and"
+      },
+      {
+       "label": "improve",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "improve"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "country"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "'s"
+      },
+      {
+       "label": "rail",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "rail"
+      },
+      {
+       "label": "signaling",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "signaling"
+      },
+      {
+       "label": "network",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "network"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "It"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "will"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "also"
+      },
+      {
+       "label": "upgrade",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "upgrade"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "the"
+      },
+      {
+       "label": "advance",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "advance"
+      },
+      {
+       "label": "warning",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "warning"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "system"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "on"
+      },
+      {
+       "label": "trains",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "trains"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "which"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "could"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "be"
+      },
+      {
+       "label": "extended",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "extended"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "to"
+      },
+      {
+       "label": "include",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "include"
+      },
+      {
+       "label": "satellite",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "satellite"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "-"
+      },
+      {
+       "label": "based",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "based"
+      },
+      {
+       "label": "technology",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "technology"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "The"
+      },
+      {
+       "label": "use",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "use"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "of"
+      },
+      {
+       "label": "mobile",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "mobile"
+      },
+      {
+       "label": "phones",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "phones"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "by"
+      },
+      {
+       "label": "RENFE",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "RENFE"
+      },
+      {
+       "label": "personnel",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "personnel"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "will"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "also"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "be"
+      },
+      {
+       "label": "limited",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "limited"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": ","
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "while"
+      },
+      {
+       "label": "luggage",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "luggage"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "storage"
+      },
+      {
+       "label": "space",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "space"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "be"
+      },
+      {
+       "label": "adapted",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "adapted"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "so"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "that"
+      },
+      {
+       "label": "bags",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "bags"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "and"
+      },
+      {
+       "label": "cases",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "cases"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "are"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "not"
+      },
+      {
+       "label": "converted",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "converted"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "into"
+      },
+      {
+       "label": "dangerous",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "dangerous"
+      },
+      {
+       "label": "flying",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "flying"
+      },
+      {
+       "label": "objects",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "objects"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "the"
+      },
+      {
+       "label": "result",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "result"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "of"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "an"
+      },
+      {
+       "label": "accident",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "accident"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 0.9208821019558027,
+       "start": 93,
+       "end": 96,
+       "tokens": "Santiago de Compostela",
+       "labelScoreMap": {
+        "Santiago_de_Compostela": 0.9208821019558027,
+        "Camino_de_Santiago": 0.04313988067952787,
+        "Roman_Catholic_Archdiocese_of_Santiago_de_Compostela": 0.011876405539509133,
+        "Santiago_de_Compostela_Cathedral": 0.005442962824703362,
+        "University_of_Santiago_de_Compostela": 0.018658649000456946,
+        "<unk_wid>": 7.463185587046449e-34
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.8999370630843155,
+       "start": 1,
+       "end": 2,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "Spain": 0.8999370630843155,
+        "Spain_national_football_team": 0.04866271452475111,
+        "Spanish_Empire": 0.009073029019728928,
+        "Spain_men's_national_basketball_team": 0.005757755182206506,
+        "Royal_Spanish_Football_Federation": 0.004653156505684607,
+        "Adams\u2013On\u00eds_Treaty": 0.004394370110846509,
+        "Spain_Davis_Cup_team": 0.0029910649213226235,
+        "Spain_national_rugby_union_team": 0.0028755512444398877,
+        "La_Liga": 0.00267570755918091,
+        "Asociaci\u00f3n_de_Clubs_de_Baloncesto": 0.002543861276960487,
+        "Spanish_Armed_Forces": 0.001972885880059056,
+        "Restoration_(Spain)": 0.0017825163099573916,
+        "Spain_national_under-21_football_team": 0.001573673163195721,
+        "Francoist_Spain": 0.0018772878938644892,
+        "Spain_national_futsal_team": 0.0014798200739595617,
+        "Spain_Fed_Cup_team": 0.001396212590782533,
+        "Spain_women's_national_basketball_team": 0.001289011579061645,
+        "Al-Andalus": 0.001514011361216838,
+        "2008\u201315_Spanish_financial_crisis": 0.0012060079339862924,
+        "Disney_Cinemagic": 0.00117183049483149,
+        "Hispania": 0.0011724692896477472,
+        "<unk_wid>": 8.062583249554784e-39
+       }
+      },
+      {
+       "label": "Madrid",
+       "score": 0.571159379406822,
+       "start": 25,
+       "end": 26,
+       "tokens": "MADRID",
+       "labelScoreMap": {
+        "Madrid": 0.571159379406822,
+        "Community_of_Madrid": 0.020262087125236028,
+        "2004_Madrid_train_bombings": 0.3173030768903941,
+        "Real_Madrid_C.F.": 0.004865417486951013,
+        "Madrid,_Cundinamarca": 0.003640238948148944,
+        "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport": 0.004128547462549126,
+        "Madrid,_New_Mexico": 0.0021605637371039156,
+        "Bolsa_de_Madrid": 0.002042058113650212,
+        "Madrid_Metro": 0.0019392221242268879,
+        "Madrid_Deep_Space_Communications_Complex": 0.0016724302155514553,
+        "Siege_of_Madrid": 0.06787360768372273,
+        "Madrid_(Spanish_Congress_Electoral_District)": 0.0018161249017841583,
+        "Madrid_Tennis_Grand_Prix": 0.001137245903859427,
+        "<unk_wid>": 4.576380371446324e-18
+       }
+      },
+      {
+       "label": "Pastor",
+       "score": 0.46983779946683457,
+       "start": 82,
+       "end": 83,
+       "tokens": "Pastor",
+       "labelScoreMap": {
+        "Pastor": 0.46983779946683457,
+        "Shepherd": 0.07274280323710657,
+        "Curate": 0.44778443961951303,
+        "Jeremiah_Wright": 0.0020453378090857397,
+        "Ed_Pastor": 0.0015117760112353976,
+        "German_Shepherd": 0.0013546764548784886,
+        "Ludwig_von_Pastor": 0.0010695468634888835,
+        "Mike_Huckabee": 0.0010232210632836096,
+        "Priest": 0.0013607626789154457,
+        "Herder": 0.0006916080840244145,
+        "Robert_Pastor": 0.0005780287116338949,
+        "<unk_wid>": 2.520744131603956e-30
+       }
+      },
+      {
+       "label": "Renfe_Operadora",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "RENFE",
+       "labelScoreMap": {
+        "Renfe_Operadora": 1.0,
+        "<unk_wid>": 1.7427887280897148e-34
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.8999006439481914,
+       "start": 33,
+       "end": 34,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "Spain": 0.8999006439481914,
+        "Spain_national_football_team": 0.048659961930334644,
+        "Spanish_Empire": 0.009099656931702392,
+        "Spain_men's_national_basketball_team": 0.005741704854758297,
+        "Royal_Spanish_Football_Federation": 0.004652990853908993,
+        "Adams\u2013On\u00eds_Treaty": 0.004394213697881366,
+        "Spain_Davis_Cup_team": 0.0029917624385350926,
+        "Spain_national_rugby_union_team": 0.0028766185657911015,
+        "La_Liga": 0.0026756240670031198,
+        "Asociaci\u00f3n_de_Clubs_de_Baloncesto": 0.002543772241389765,
+        "Spanish_Armed_Forces": 0.001972787625289764,
+        "Restoration_(Spain)": 0.0017865828765269486,
+        "Spain_national_under-21_football_team": 0.0015739655139188334,
+        "Francoist_Spain": 0.0018717823742807301,
+        "Spain_national_futsal_team": 0.0014798411450324999,
+        "Spain_Fed_Cup_team": 0.0014023148887573143,
+        "Spain_women's_national_basketball_team": 0.0012889656469908272,
+        "Al-Andalus": 0.0015280168614346524,
+        "2008\u201315_Spanish_financial_crisis": 0.0012059650009880376,
+        "Disney_Cinemagic": 0.0011717887778117633,
+        "Hispania": 0.0011810397594722883,
+        "<unk_wid>": 4.184154754023104e-38
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 63,
+       "end": 65,
+       "tokens": "Ana Pastor",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.5114084112086561,
+       "start": 158,
+       "end": 159,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.37724982692420367,
+        "Spain": 0.5114084112086561,
+        "Spaniards": 0.056655995659555695,
+        "Spanish_Empire": 0.04129842492437084,
+        "New_Spain": 0.0016181359948481836,
+        "Spanish_immigration_to_Argentina": 0.0014291558883266831,
+        "Portuguese_people": 0.005015682041641715,
+        "Brazilians_of_Spanish_descent": 0.0009455010784655523,
+        "The_Californias": 0.0009411421311775346,
+        "Spanish_Wikipedia": 0.0009174468432896307,
+        "Italian_language": 0.0017708022818863484,
+        "Cologne": 0.0007494750235779211,
+        "<unk_wid>": 1.7605220219973923e-32
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816661060611067,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816661060611067,
+        "Xinhua_District,_Tainan": 0.016982159752176203,
+        "Xinhua_County": 0.0013517341867171646,
+        "<unk_wid>": 4.030349874056535e-28
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.5291287985759354,
+       "start": 58,
+       "end": 59,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.3650576344667186,
+        "Spain": 0.5291287985759354,
+        "Spaniards": 0.05492420695526734,
+        "Spanish_Empire": 0.038382599739804096,
+        "New_Spain": 0.001584889256487844,
+        "Spanish_immigration_to_Argentina": 0.0015854597777981941,
+        "Portuguese_people": 0.004523793757138425,
+        "Brazilians_of_Spanish_descent": 0.000938433577068648,
+        "The_Californias": 0.0009341072120344991,
+        "Spanish_Wikipedia": 0.000908676120405682,
+        "Italian_language": 0.001287552209329278,
+        "Cologne": 0.0007438483520121378,
+        "<unk_wid>": 1.6104996533117031e-34
+       }
+      },
+      {
+       "label": "Pastor",
+       "score": 0.5743689814712268,
+       "start": 155,
+       "end": 156,
+       "tokens": "Pastor",
+       "labelScoreMap": {
+        "Pastor": 0.5743689814712268,
+        "Shepherd": 0.08410452166518398,
+        "Curate": 0.32945546106261886,
+        "Jeremiah_Wright": 0.0023647997292295473,
+        "Ed_Pastor": 0.0017478941991539276,
+        "German_Shepherd": 0.0015423484208552179,
+        "Ludwig_von_Pastor": 0.0013682780887163955,
+        "Mike_Huckabee": 0.0011824277157507618,
+        "Priest": 0.002371903640954079,
+        "Herder": 0.0008250730095918593,
+        "Robert_Pastor": 0.0006683109967186315,
+        "<unk_wid>": 1.5911754013632986e-33
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 128,
+       "end": 132,
+       "tokens": "Francisco Jose Garzon Amo",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.8761347234186259,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "Spain": 0.8761347234186259,
+        "Spain_national_football_team": 0.04938064494570309,
+        "Spanish_Empire": 0.020580831830158637,
+        "Spain_men's_national_basketball_team": 0.0061931101420574335,
+        "Royal_Spanish_Football_Federation": 0.004544972210823328,
+        "Adams\u2013On\u00eds_Treaty": 0.004292570892845857,
+        "Spain_Davis_Cup_team": 0.0030225511595207855,
+        "Spain_national_rugby_union_team": 0.0028455541384247965,
+        "La_Liga": 0.0026149201506194416,
+        "Asociaci\u00f3n_de_Clubs_de_Baloncesto": 0.002484805794882234,
+        "Spanish_Armed_Forces": 0.0020383196329389845,
+        "Restoration_(Spain)": 0.0029006933362803276,
+        "Spain_national_under-21_football_team": 0.0015591837268991479,
+        "Francoist_Spain": 0.005446830123488713,
+        "Spain_national_futsal_team": 0.0014750948081740003,
+        "Spain_Fed_Cup_team": 0.0022487864427437106,
+        "Spain_women's_national_basketball_team": 0.00125912596752977,
+        "Al-Andalus": 0.006034138111893018,
+        "2008\u201315_Spanish_financial_crisis": 0.0011785544235429536,
+        "Disney_Cinemagic": 0.0011445858106368546,
+        "Hispania": 0.0026200029322111257,
+        "<unk_wid>": 2.988249707635995e-29
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 0.9208821019558027,
+       "start": 93,
+       "end": 96,
+       "tokens": "Santiago de Compostela",
+       "labelScoreMap": {
+        "3109642|Santiago_de_Compostela": 0.9208821019558027
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.8999370630843155,
+       "start": 1,
+       "end": 2,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "2510769|Spain": 0.8999370630843155
+       }
+      },
+      {
+       "label": "Madrid",
+       "score": 0.571159379406822,
+       "start": 25,
+       "end": 26,
+       "tokens": "MADRID",
+       "labelScoreMap": {
+        "3117735|Madrid": 0.571159379406822,
+        "3117732|Community_of_Madrid": 0.020262087125236028,
+        "3675708|Madrid,_Cundinamarca": 0.003640238948148944,
+        "6299345|Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport": 0.004128547462549126,
+        "5477631|Madrid,_New_Mexico": 0.0021605637371039156,
+        "8714453|Bolsa_de_Madrid": 0.002042058113650212
+       }
+      },
+      {
+       "label": "Pastor",
+       "score": 0.46983779946683457,
+       "start": 82,
+       "end": 83,
+       "tokens": "Pastor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Renfe_Operadora",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "RENFE",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Spain",
+       "score": 0.8999006439481914,
+       "start": 33,
+       "end": 34,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "2510769|Spain": 0.8999006439481914
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 63,
+       "end": 65,
+       "tokens": "Ana Pastor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Spain",
+       "score": 0.5114084112086561,
+       "start": 158,
+       "end": 159,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.5114084112086561,
+        "6553049|Cologne": 0.0007494750235779211
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816661060611067,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016982159752176203,
+        "1788859|Xinhua_County": 0.0013517341867171646
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.5291287985759354,
+       "start": 58,
+       "end": 59,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.5291287985759354,
+        "6553049|Cologne": 0.0007438483520121378
+       }
+      },
+      {
+       "label": "Pastor",
+       "score": 0.5743689814712268,
+       "start": 155,
+       "end": 156,
+       "tokens": "Pastor",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 128,
+       "end": 132,
+       "tokens": "Francisco Jose Garzon Amo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Spain",
+       "score": 0.8761347234186259,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "2510769|Spain": 0.8761347234186259
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

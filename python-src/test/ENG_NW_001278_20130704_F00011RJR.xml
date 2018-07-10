@@ -1,0 +1,2383 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130704_F00011RJR.xml",
+ "text": "2013-07-04T00:43:54\nTurkish court rules cancellation of Gezi Park demolition: report\nTurkish court rules cancellation of Gezi Park demolition: report\nTurkish court rules cancellation of Gezi Park demolition: report\nANKARA, July 3 (Xinhua) -- The controversial demolition plan of Gezi Park in Istanbul's Taksim Square had been cancelled by a Turkish court on June 8, Turkish Today's Zaman revealed Wednesday.\nAccording to the report, Istanbul First Regional Court ruled that the plan to redevelop the Taksim Square had violated preservation rules, the square's identity and other regulations.\nThe Gezi Park demonstrations began on May 31 in Turkey's biggest city of Istanbul as a peaceful sit-in aimed at preserving the park, but soon snowballed into a national movement against Prime Minister Recep Tayyip Erdogan's leadership due to the government's harsh crackdown.\nClashes between the police and protesters across Turkey killed at least five people, including a policeman, and injured some 5, 000. Enditem",
+ "tokens": [
+  "2013-07-04T00:43:54",
+  "Turkish",
+  "court",
+  "rules",
+  "cancellation",
+  "of",
+  "Gezi",
+  "Park",
+  "demolition",
+  ":",
+  "report",
+  "Turkish",
+  "court",
+  "rules",
+  "cancellation",
+  "of",
+  "Gezi",
+  "Park",
+  "demolition",
+  ":",
+  "report",
+  "Turkish",
+  "court",
+  "rules",
+  "cancellation",
+  "of",
+  "Gezi",
+  "Park",
+  "demolition",
+  ":",
+  "report",
+  "ANKARA",
+  ",",
+  "July",
+  "3",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "The",
+  "controversial",
+  "demolition",
+  "plan",
+  "of",
+  "Gezi",
+  "Park",
+  "in",
+  "Istanbul",
+  "'s",
+  "Taksim",
+  "Square",
+  "had",
+  "been",
+  "cancelled",
+  "by",
+  "a",
+  "Turkish",
+  "court",
+  "on",
+  "June",
+  "8",
+  ",",
+  "Turkish",
+  "Today",
+  "'s",
+  "Zaman",
+  "revealed",
+  "Wednesday",
+  ".",
+  "According",
+  "to",
+  "the",
+  "report",
+  ",",
+  "Istanbul",
+  "First",
+  "Regional",
+  "Court",
+  "ruled",
+  "that",
+  "the",
+  "plan",
+  "to",
+  "redevelop",
+  "the",
+  "Taksim",
+  "Square",
+  "had",
+  "violated",
+  "preservation",
+  "rules",
+  ",",
+  "the",
+  "square",
+  "'s",
+  "identity",
+  "and",
+  "other",
+  "regulations",
+  ".",
+  "The",
+  "Gezi",
+  "Park",
+  "demonstrations",
+  "began",
+  "on",
+  "May",
+  "31",
+  "in",
+  "Turkey",
+  "'s",
+  "biggest",
+  "city",
+  "of",
+  "Istanbul",
+  "as",
+  "a",
+  "peaceful",
+  "sit",
+  "-",
+  "in",
+  "aimed",
+  "at",
+  "preserving",
+  "the",
+  "park",
+  ",",
+  "but",
+  "soon",
+  "snowballed",
+  "into",
+  "a",
+  "national",
+  "movement",
+  "against",
+  "Prime",
+  "Minister",
+  "Recep",
+  "Tayyip",
+  "Erdogan",
+  "'s",
+  "leadership",
+  "due",
+  "to",
+  "the",
+  "government",
+  "'s",
+  "harsh",
+  "crackdown",
+  ".",
+  "Clashes",
+  "between",
+  "the",
+  "police",
+  "and",
+  "protesters",
+  "across",
+  "Turkey",
+  "killed",
+  "at",
+  "least",
+  "five",
+  "people",
+  ",",
+  "including",
+  "a",
+  "policeman",
+  ",",
+  "and",
+  "injured",
+  "some",
+  "5",
+  ",",
+  "000",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   69,
+   100,
+   150,
+   175,
+   176
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Recep_Tayyip_Erdo\u011fan",
+       "score": 1.0,
+       "start": 137,
+       "end": 140,
+       "tokens": "Recep Tayyip Erdogan"
+      },
+      {
+       "label": "Istanbul",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Turkey"
+      },
+      {
+       "label": "Istanbul",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "Taksim_Square",
+       "score": 1.0,
+       "start": 49,
+       "end": 51,
+       "tokens": "Taksim Square"
+      },
+      {
+       "label": "Ankara",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "ANKARA"
+      },
+      {
+       "label": "Taksim_Gezi_Park",
+       "score": 1.0,
+       "start": 16,
+       "end": 18,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "Today's_Zaman",
+       "score": 1.0,
+       "start": 63,
+       "end": 66,
+       "tokens": "Today 's Zaman"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "Taksim_Gezi_Park",
+       "score": 1.0,
+       "start": 101,
+       "end": 103,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "Istanbul",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 74,
+       "end": 78,
+       "tokens": "Istanbul First Regional Court"
+      },
+      {
+       "label": "Taksim_Gezi_Park",
+       "score": 1.0,
+       "start": 6,
+       "end": 8,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "Taksim_Gezi_Park",
+       "score": 1.0,
+       "start": 26,
+       "end": 28,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "Turkey"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Taksim_Gezi_Park",
+       "score": 1.0,
+       "start": 44,
+       "end": 46,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "Taksim_Square",
+       "score": 1.0,
+       "start": 85,
+       "end": 87,
+       "tokens": "Taksim Square"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 137,
+       "end": 140,
+       "tokens": "Recep Tayyip Erdogan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Turkey"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 49,
+       "end": 51,
+       "tokens": "Taksim Square"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "ANKARA"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 16,
+       "end": 18,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 63,
+       "end": 66,
+       "tokens": "Today 's Zaman"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 101,
+       "end": 103,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 74,
+       "end": 78,
+       "tokens": "Istanbul First Regional Court"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 6,
+       "end": 8,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 26,
+       "end": 28,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "Turkey"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 44,
+       "end": 46,
+       "tokens": "Gezi Park"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 85,
+       "end": 87,
+       "tokens": "Taksim Square"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-07-04T00:43:54",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-07-04T00:43:54"
+      },
+      {
+       "label": "Turkish",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "court"
+      },
+      {
+       "label": "rules",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "rules"
+      },
+      {
+       "label": "cancellation",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "cancellation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "of"
+      },
+      {
+       "label": "Gezi",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Gezi"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Park"
+      },
+      {
+       "label": "demolition",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "demolition"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": ":"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "report"
+      },
+      {
+       "label": "Turkish",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "court"
+      },
+      {
+       "label": "rules",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "rules"
+      },
+      {
+       "label": "cancellation",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "cancellation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "of"
+      },
+      {
+       "label": "Gezi",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Gezi"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "Park"
+      },
+      {
+       "label": "demolition",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "demolition"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ":"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "report"
+      },
+      {
+       "label": "Turkish",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "court"
+      },
+      {
+       "label": "rules",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "rules"
+      },
+      {
+       "label": "cancellation",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "cancellation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "of"
+      },
+      {
+       "label": "Gezi",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Gezi"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Park"
+      },
+      {
+       "label": "demolition",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "demolition"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": ":"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "report"
+      },
+      {
+       "label": "ANKARA",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "ANKARA"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": ","
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "July"
+      },
+      {
+       "label": "3",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "3"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "--"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "The"
+      },
+      {
+       "label": "controversial",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "controversial"
+      },
+      {
+       "label": "demolition",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "demolition"
+      },
+      {
+       "label": "plan",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "plan"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "of"
+      },
+      {
+       "label": "Gezi",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Gezi"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Park"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "in"
+      },
+      {
+       "label": "Istanbul",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "'s"
+      },
+      {
+       "label": "Taksim",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "Taksim"
+      },
+      {
+       "label": "Square",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Square"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "been"
+      },
+      {
+       "label": "cancelled",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "cancelled"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "a"
+      },
+      {
+       "label": "Turkish",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "court"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "on"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "June"
+      },
+      {
+       "label": "8",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "8"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": ","
+      },
+      {
+       "label": "Turkish",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Turkish"
+      },
+      {
+       "label": "Today",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Today"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "'s"
+      },
+      {
+       "label": "Zaman",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Zaman"
+      },
+      {
+       "label": "revealed",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "revealed"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "."
+      },
+      {
+       "label": "According",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "According"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "the"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "report"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": ","
+      },
+      {
+       "label": "Istanbul",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "First",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "First"
+      },
+      {
+       "label": "Regional",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Regional"
+      },
+      {
+       "label": "Court",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "Court"
+      },
+      {
+       "label": "ruled",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "ruled"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "the"
+      },
+      {
+       "label": "plan",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "plan"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "to"
+      },
+      {
+       "label": "redevelop",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "redevelop"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "the"
+      },
+      {
+       "label": "Taksim",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Taksim"
+      },
+      {
+       "label": "Square",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "Square"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "had"
+      },
+      {
+       "label": "violated",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "violated"
+      },
+      {
+       "label": "preservation",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "preservation"
+      },
+      {
+       "label": "rules",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "rules"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "the"
+      },
+      {
+       "label": "square",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "square"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "'s"
+      },
+      {
+       "label": "identity",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "identity"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "and"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "other"
+      },
+      {
+       "label": "regulations",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "regulations"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "The"
+      },
+      {
+       "label": "Gezi",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Gezi"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Park"
+      },
+      {
+       "label": "demonstrations",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "demonstrations"
+      },
+      {
+       "label": "began",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "began"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "on"
+      },
+      {
+       "label": "May",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "May"
+      },
+      {
+       "label": "31",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "31"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "in"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Turkey"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "'s"
+      },
+      {
+       "label": "biggest",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "biggest"
+      },
+      {
+       "label": "city",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "city"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "of"
+      },
+      {
+       "label": "Istanbul",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Istanbul"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "a"
+      },
+      {
+       "label": "peaceful",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "peaceful"
+      },
+      {
+       "label": "sit",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "sit"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "-"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "in"
+      },
+      {
+       "label": "aimed",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "aimed"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "at"
+      },
+      {
+       "label": "preserving",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "preserving"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "the"
+      },
+      {
+       "label": "park",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "park"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "but"
+      },
+      {
+       "label": "soon",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "soon"
+      },
+      {
+       "label": "snowballed",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "snowballed"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "into"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "a"
+      },
+      {
+       "label": "national",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "national"
+      },
+      {
+       "label": "movement",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "movement"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "against"
+      },
+      {
+       "label": "Prime",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Prime"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Minister"
+      },
+      {
+       "label": "Recep",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "Recep"
+      },
+      {
+       "label": "Tayyip",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "Tayyip"
+      },
+      {
+       "label": "Erdogan",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Erdogan"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "'s"
+      },
+      {
+       "label": "leadership",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "leadership"
+      },
+      {
+       "label": "due",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "due"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "the"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "government"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "'s"
+      },
+      {
+       "label": "harsh",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "harsh"
+      },
+      {
+       "label": "crackdown",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "crackdown"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "."
+      },
+      {
+       "label": "Clashes",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Clashes"
+      },
+      {
+       "label": "between",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "between"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "the"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "police"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "and"
+      },
+      {
+       "label": "protesters",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "protesters"
+      },
+      {
+       "label": "across",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "across"
+      },
+      {
+       "label": "Turkey",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "Turkey"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "killed"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "at"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "least"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "five"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "people"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "including"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "a"
+      },
+      {
+       "label": "policeman",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "policeman"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "and"
+      },
+      {
+       "label": "injured",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "injured"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "some"
+      },
+      {
+       "label": "5",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "5"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": ","
+      },
+      {
+       "label": "000",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "000"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Recep_Tayyip_Erdo\u011fan",
+       "score": 1.0,
+       "start": 137,
+       "end": 140,
+       "tokens": "Recep Tayyip Erdogan",
+       "labelScoreMap": {
+        "Recep_Tayyip_Erdo\u011fan": 1.0,
+        "<unk_wid>": 5.885453550164232e-44
+       }
+      },
+      {
+       "label": "Istanbul",
+       "score": 0.9306419915366877,
+       "start": 114,
+       "end": 115,
+       "tokens": "Istanbul",
+       "labelScoreMap": {
+        "Istanbul": 0.9306419915366877,
+        "Istanbul_Province": 0.0490745189531593,
+        "Istanbul_Park": 0.010770748694468575,
+        "2003_Istanbul_bombings": 0.0034262549274445856,
+        "\u0130stanbul_Cup": 0.0029167049103596293,
+        "Constantinople": 0.0018344244955719121,
+        "Istanbul_(Not_Constantinople)": 0.001335356482308185,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Turkey",
+       "score": 0.5640927965481378,
+       "start": 56,
+       "end": 57,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "Turkish_language": 0.37062104797264134,
+        "Turkey": 0.5640927965481378,
+        "Ottoman_Empire": 0.027738427576420678,
+        "Turkic_peoples": 0.01715685470237605,
+        "Turkish_Wikipedia": 0.004171494655453145,
+        "Turkish_Airlines": 0.0040158429067701056,
+        "Turkish_Australians": 0.0023659442515076407,
+        "Turkish_Americans": 0.002117612349443466,
+        "Ottoman_Turkish_language": 0.0019216920892452351,
+        "Turkish_Cypriots": 0.001509724518352115,
+        "British_Turks": 0.0011673962944305433,
+        "Turks_in_the_Netherlands": 0.0011051339554748987,
+        "Oghuz_Turks": 0.0010509864313187963,
+        "Turkish_coffee": 0.0009650457484283496,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Turkey",
+       "score": 0.888673333474857,
+       "start": 109,
+       "end": 110,
+       "tokens": "Turkey",
+       "labelScoreMap": {
+        "Turkey": 0.888673333474857,
+        "Turkey_national_football_team": 0.03949213709472628,
+        "Turkey_(bird)": 0.026878595024263634,
+        "Wild_turkey": 0.0060006985789393666,
+        "Turkey_national_basketball_team": 0.00471618744602623,
+        "Turkish_Armed_Forces": 0.0038960350785100543,
+        "Jews_in_Turkey": 0.0038317734443572204,
+        "Turkey_national_youth_football_team": 0.0032373296306791536,
+        "Turkish_Football_Federation": 0.002964205184908791,
+        "Turkish_Basketball_Super_League": 0.0028035375427495736,
+        "Ottoman_Empire": 0.002512783044814618,
+        "Turkey_national_under-21_football_team": 0.0016467909186264683,
+        "Thanksgiving_(United_States)": 0.001606614662057298,
+        "\u0130stikl\u00e2l_Mar\u015f\u0131": 0.0015905477827013342,
+        "Israel": 0.0016986533132012727,
+        "Miss_Turkey": 0.0015584140812466237,
+        "S\u00fcper_Lig": 0.0015503810820509968,
+        "Turkish_State_Railways": 0.0014539793433644428,
+        "Grand_National_Assembly_of_Turkey": 0.0013495568343276593,
+        "Arabs_in_Turkey": 0.0012852892961029067,
+        "Turkey_men's_national_ice_hockey_team": 0.0012531571414885051,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Istanbul",
+       "score": 0.9307310973645311,
+       "start": 47,
+       "end": 48,
+       "tokens": "Istanbul",
+       "labelScoreMap": {
+        "Istanbul": 0.9307310973645311,
+        "Istanbul_Province": 0.04907886270122574,
+        "Istanbul_Park": 0.010771697961414908,
+        "2003_Istanbul_bombings": 0.0034265568984558612,
+        "\u0130stanbul_Cup": 0.002916961972472605,
+        "Constantinople": 0.0017393489287144193,
+        "Istanbul_(Not_Constantinople)": 0.0013354741731852256,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Turkey",
+       "score": 0.538557875086891,
+       "start": 1,
+       "end": 2,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "Turkish_language": 0.3909380674879545,
+        "Turkey": 0.538557875086891,
+        "Ottoman_Empire": 0.031212109923294137,
+        "Turkic_peoples": 0.017819265741647012,
+        "Turkish_Wikipedia": 0.004239885596481452,
+        "Turkish_Airlines": 0.00408168196521826,
+        "Turkish_Australians": 0.002404716869162393,
+        "Turkish_Americans": 0.0021520727318407626,
+        "Ottoman_Turkish_language": 0.0026557122568199097,
+        "Turkish_Cypriots": 0.001560074771322959,
+        "British_Turks": 0.0011865355515900855,
+        "Turks_in_the_Netherlands": 0.0011232524375586431,
+        "Oghuz_Turks": 0.0010878712723555593,
+        "Turkish_coffee": 0.0009808783078630518,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Taksim_Square",
+       "score": 1.0,
+       "start": 49,
+       "end": 51,
+       "tokens": "Taksim Square",
+       "labelScoreMap": {
+        "Taksim_Square": 1.0,
+        "<unk_wid>": 2.5223372357846707e-44
+       }
+      },
+      {
+       "label": "Ankara",
+       "score": 0.87745824416878,
+       "start": 31,
+       "end": 32,
+       "tokens": "ANKARA",
+       "labelScoreMap": {
+        "Ankara": 0.87745824416878,
+        "Ankara_Province": 0.10210434293278456,
+        "Ankara_University": 0.009136322167944855,
+        "Turkish_Angora": 0.004209284433111343,
+        "Battle_of_Ankara": 0.004175663812426416,
+        "Ankara_railway_station": 0.0018225978547359702,
+        "Ankara_Metro": 0.0010935446302168194,
+        "<unk_wid>": 1.6927082720397646e-38
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 16,
+       "end": 18,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Turkey",
+       "score": 0.4977581387075624,
+       "start": 62,
+       "end": 63,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "Turkish_language": 0.4301212565771334,
+        "Turkey": 0.4977581387075624,
+        "Ottoman_Empire": 0.030509721114485883,
+        "Turkic_peoples": 0.018208054408462144,
+        "Turkish_Wikipedia": 0.004376673250361546,
+        "Turkish_Airlines": 0.004213365651360033,
+        "Turkish_Australians": 0.002482298226202873,
+        "Turkish_Americans": 0.0022212504361393314,
+        "Ottoman_Turkish_language": 0.004055474590339812,
+        "Turkish_Cypriots": 0.00154796522399287,
+        "British_Turks": 0.0012248156923697117,
+        "Turks_in_the_Netherlands": 0.0011594909308274826,
+        "Oghuz_Turks": 0.0011078146214919574,
+        "Turkish_coffee": 0.0010136805692703126,
+        "<unk_wid>": 1.3323869611308316e-43
+       }
+      },
+      {
+       "label": "Today's_Zaman",
+       "score": 0.9988306750326958,
+       "start": 63,
+       "end": 66,
+       "tokens": "Today 's Zaman",
+       "labelScoreMap": {
+        "Today's_Zaman": 0.9988306750326958,
+        "Zaman_(newspaper)": 0.0011693249673041608,
+        "<unk_wid>": 5.598639683929176e-45
+       }
+      },
+      {
+       "label": "Turkish_language",
+       "score": 0.4980761408870491,
+       "start": 11,
+       "end": 12,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "Turkish_language": 0.4980761408870491,
+        "Turkey": 0.42440012874635497,
+        "Ottoman_Empire": 0.03293816334589429,
+        "Turkic_peoples": 0.019023468793556958,
+        "Turkish_Wikipedia": 0.004612527613757996,
+        "Turkish_Airlines": 0.004440419521456904,
+        "Turkish_Australians": 0.002616066504708991,
+        "Turkish_Americans": 0.002340742203685068,
+        "Ottoman_Turkish_language": 0.005187439465929626,
+        "Turkish_Cypriots": 0.0016194457119196484,
+        "British_Turks": 0.00129081973307686,
+        "Turks_in_the_Netherlands": 0.0012219746895434625,
+        "Oghuz_Turks": 0.0011643416916922668,
+        "Turkish_coffee": 0.0010683210913736028,
+        "<unk_wid>": 8.776174571235608e-46
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 101,
+       "end": 103,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Istanbul",
+       "score": 0.9295852832709133,
+       "start": 74,
+       "end": 75,
+       "tokens": "Istanbul",
+       "labelScoreMap": {
+        "Istanbul": 0.9295852832709133,
+        "Istanbul_Province": 0.04902320410079426,
+        "Istanbul_Park": 0.010759499615467003,
+        "2003_Istanbul_bombings": 0.0034226738485084386,
+        "\u0130stanbul_Cup": 0.0029136564264510465,
+        "Constantinople": 0.002961721953505392,
+        "Istanbul_(Not_Constantinople)": 0.00133396078436036,
+        "<unk_wid>": 8.706403028098883e-42
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 74,
+       "end": 78,
+       "tokens": "Istanbul First Regional Court",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 6,
+       "end": 8,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Turkish_language",
+       "score": 0.4768108531150846,
+       "start": 21,
+       "end": 22,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "Turkish_language": 0.4768108531150846,
+        "Turkey": 0.4475896510891096,
+        "Ottoman_Empire": 0.032372564936333066,
+        "Turkic_peoples": 0.018739710931053217,
+        "Turkish_Wikipedia": 0.00453889631801812,
+        "Turkish_Airlines": 0.004369535645271321,
+        "Turkish_Australians": 0.002574305378624363,
+        "Turkish_Americans": 0.0023033931871232803,
+        "Ottoman_Turkish_language": 0.004434950473046269,
+        "Turkish_Cypriots": 0.0015970089822205985,
+        "British_Turks": 0.0012702139532197307,
+        "Turks_in_the_Netherlands": 0.0012024679055658352,
+        "Oghuz_Turks": 0.0011457325313280321,
+        "Turkish_coffee": 0.001050715554001623,
+        "<unk_wid>": 3.4544309045797786e-45
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 26,
+       "end": 28,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Turkey",
+       "score": 0.8850772200486879,
+       "start": 157,
+       "end": 158,
+       "tokens": "Turkey",
+       "labelScoreMap": {
+        "Turkey": 0.8850772200486879,
+        "Turkey_national_football_team": 0.03939033620893459,
+        "Turkey_(bird)": 0.02678494477452715,
+        "Wild_turkey": 0.005979785214399083,
+        "Turkey_national_basketball_team": 0.004710726704743714,
+        "Turkish_Armed_Forces": 0.0038824571230655293,
+        "Jews_in_Turkey": 0.003820323674015567,
+        "Turkey_national_youth_football_team": 0.0032260470155309647,
+        "Turkish_Football_Federation": 0.0029539398570536616,
+        "Turkish_Basketball_Super_League": 0.0027940617216217433,
+        "Ottoman_Empire": 0.004768402824499114,
+        "Turkey_national_under-21_football_team": 0.0016417702132600685,
+        "Thanksgiving_(United_States)": 0.0016010157372744823,
+        "\u0130stikl\u00e2l_Mar\u015f\u0131": 0.0015850044662157848,
+        "Israel": 0.0033622905765788385,
+        "Miss_Turkey": 0.0015530238379815563,
+        "S\u00fcper_Lig": 0.001545027912510666,
+        "Turkish_State_Railways": 0.0014489139256984,
+        "Grand_National_Assembly_of_Turkey": 0.0013448678125131865,
+        "Arabs_in_Turkey": 0.001280809854855493,
+        "Turkey_men's_national_ice_hockey_team": 0.001249030496032481,
+        "<unk_wid>": 1.6133174651788803e-44
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816672586871641,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816672586871641,
+        "Xinhua_District,_Tainan": 0.016981906981919044,
+        "Xinhua_County": 0.001350834330916736,
+        "<unk_wid>": 9.98692003799554e-43
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 44,
+       "end": 46,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Taksim_Square",
+       "score": 1.0,
+       "start": 85,
+       "end": 87,
+       "tokens": "Taksim Square",
+       "labelScoreMap": {
+        "Taksim_Square": 1.0,
+        "<unk_wid>": 4.837982948081431e-41
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Recep_Tayyip_Erdo\u011fan",
+       "score": 1.0,
+       "start": 137,
+       "end": 140,
+       "tokens": "Recep Tayyip Erdogan",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Istanbul",
+       "score": 0.9306419915366877,
+       "start": 114,
+       "end": 115,
+       "tokens": "Istanbul",
+       "labelScoreMap": {
+        "745042|Istanbul_Province": 0.0490745189531593,
+        "8394021|Istanbul_Park": 0.010770748694468575,
+        "745044|Constantinople": 0.0018344244955719121
+       }
+      },
+      {
+       "label": "Turkey",
+       "score": 0.5640927965481378,
+       "start": 56,
+       "end": 57,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "298795|Turkey": 0.5640927965481378
+       }
+      },
+      {
+       "label": "Turkey",
+       "score": 0.888673333474857,
+       "start": 109,
+       "end": 110,
+       "tokens": "Turkey",
+       "labelScoreMap": {
+        "298795|Turkey": 0.888673333474857,
+        "294640|Israel": 0.0016986533132012727
+       }
+      },
+      {
+       "label": "Istanbul",
+       "score": 0.9307310973645311,
+       "start": 47,
+       "end": 48,
+       "tokens": "Istanbul",
+       "labelScoreMap": {
+        "745042|Istanbul_Province": 0.04907886270122574,
+        "8394021|Istanbul_Park": 0.010771697961414908,
+        "745044|Constantinople": 0.0017393489287144193
+       }
+      },
+      {
+       "label": "Turkey",
+       "score": 0.538557875086891,
+       "start": 1,
+       "end": 2,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "298795|Turkey": 0.538557875086891
+       }
+      },
+      {
+       "label": "Taksim_Square",
+       "score": 1.0,
+       "start": 49,
+       "end": 51,
+       "tokens": "Taksim Square",
+       "labelScoreMap": {
+        "6947682|Taksim_Square": 1.0
+       }
+      },
+      {
+       "label": "Ankara",
+       "score": 0.87745824416878,
+       "start": 31,
+       "end": 32,
+       "tokens": "ANKARA",
+       "labelScoreMap": {
+        "323786|Ankara": 0.87745824416878,
+        "323784|Ankara_Province": 0.10210434293278456
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 16,
+       "end": 18,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Turkey",
+       "score": 0.4977581387075624,
+       "start": 62,
+       "end": 63,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "298795|Turkey": 0.4977581387075624
+       }
+      },
+      {
+       "label": "Today's_Zaman",
+       "score": 0.9988306750326958,
+       "start": 63,
+       "end": 66,
+       "tokens": "Today 's Zaman",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Turkish_language",
+       "score": 0.4980761408870491,
+       "start": 11,
+       "end": 12,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "298795|Turkey": 0.42440012874635497
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 101,
+       "end": 103,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Istanbul",
+       "score": 0.9295852832709133,
+       "start": 74,
+       "end": 75,
+       "tokens": "Istanbul",
+       "labelScoreMap": {
+        "745042|Istanbul_Province": 0.04902320410079426,
+        "8394021|Istanbul_Park": 0.010759499615467003,
+        "745044|Constantinople": 0.002961721953505392
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 74,
+       "end": 78,
+       "tokens": "Istanbul First Regional Court",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 6,
+       "end": 8,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Turkish_language",
+       "score": 0.4768108531150846,
+       "start": 21,
+       "end": 22,
+       "tokens": "Turkish",
+       "labelScoreMap": {
+        "298795|Turkey": 0.4475896510891096
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 26,
+       "end": 28,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Turkey",
+       "score": 0.8850772200486879,
+       "start": 157,
+       "end": 158,
+       "tokens": "Turkey",
+       "labelScoreMap": {
+        "298795|Turkey": 0.8850772200486879,
+        "294640|Israel": 0.0033622905765788385
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816672586871641,
+       "start": 36,
+       "end": 37,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016981906981919044,
+        "1788859|Xinhua_County": 0.001350834330916736
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 44,
+       "end": 46,
+       "tokens": "Gezi Park",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Taksim_Square",
+       "score": 1.0,
+       "start": 85,
+       "end": 87,
+       "tokens": "Taksim Square",
+       "labelScoreMap": {
+        "6947682|Taksim_Square": 1.0
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

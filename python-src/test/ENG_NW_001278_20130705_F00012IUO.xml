@@ -1,0 +1,6086 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130705_F00012IUO.xml",
+ "text": "2013-07-05T22:56:53\nWHO to set up emergency committee on MERS-CoV\nWHO to set up emergency committee on MERS-CoV\nGENEVA, July 5 (Xinhua) -- The World Health Organization (WHO) is to convene an emergency committee next week on the deadly Middle East respiratory syndrome coronavirus (MERS-CoV), WHO assistant director-general for health security and environment Keiji Fukuda said Friday.\nFukuda told a press conference that there was currently no emergency or pandemic, but many things about the disease remained unknown such as the animal reservoir.\n\"I do want to stress that there are a lot of things that we do not know. For example, one of the key pieces of missing information is that are there many people who have mild infections or asymptomatic infections that we are missing,\" said the senior health official, adding that such information would be vital for the understanding of the transmission and epidemiology of the disease.\nHe said that the absence of that kind of information made it very hard to peer into the whole picture and make predictions. He also listed three possibilities of the disease's future development: simply fading away, the ongoing pattern continuing for some period of time or more cases or outbreaks appearing.\nFukuda told reporters that based on the current situation and gaps in knowledge, WHO decided to convene an International Health Regulations (IHR) Emergency Committee next week.\n\"The reason why we will do this is that recognizing what we see and what we don't see. We really want be in a position to be ready for any possibility, and we want countries to be in positions to be ready for any possible directions that the virus can take,\" explained the assistant director-general.\n\"If in the future we do see some kind of explosions, or if there is some big outbreak, or we think that the situation has really changed, we will already have a group of emergency committee experts who are really up to speed, so that we don't have to go through a steep learning curve,\" Fukuda said, \"we just want to make sure that we can move as quickly as possible if we need to move in the future in any major directions.\"\nFukuda furthered that to convene an IHR emergency committee would allow the WHO Director-General and the health organization to receive input from an external group of experts who would provide formal consultation and information.\nIt was introduced that the IHR emergency committee on MERS-CoV was the second committee to be set up under the WHO rules which came into force in 2007. The first committee was convened in response to 2009 H1N1 pandemic.\nFukuda introduced that next Tuesday, and also next Thursday if needed, WHO would convene the emergency committee on MERS-CoV, consisted of international experts specialized in different fields and whose names to be get publicly known on next Monday.\nThe committee would be provided with information that WHO has and then review the situation, with part of input coming from countries with cases which could directly tell the committee members their perspectives and concerns, as Fukuda noted, and then it would be asked to provide views on whether the event constitutes a public health emergency of international concern and whether should WHO make additional temporary recommendations beyond what has already set. Enditem",
+ "tokens": [
+  "2013-07-05T22:56:53",
+  "WHO",
+  "to",
+  "set",
+  "up",
+  "emergency",
+  "committee",
+  "on",
+  "MERS",
+  "-",
+  "CoV",
+  "WHO",
+  "to",
+  "set",
+  "up",
+  "emergency",
+  "committee",
+  "on",
+  "MERS",
+  "-",
+  "CoV",
+  "GENEVA",
+  ",",
+  "July",
+  "5",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "The",
+  "World",
+  "Health",
+  "Organization",
+  "(",
+  "WHO",
+  ")",
+  "is",
+  "to",
+  "convene",
+  "an",
+  "emergency",
+  "committee",
+  "next",
+  "week",
+  "on",
+  "the",
+  "deadly",
+  "Middle",
+  "East",
+  "respiratory",
+  "syndrome",
+  "coronavirus",
+  "(",
+  "MERS",
+  "-",
+  "CoV",
+  ")",
+  ",",
+  "WHO",
+  "assistant",
+  "director",
+  "-",
+  "general",
+  "for",
+  "health",
+  "security",
+  "and",
+  "environment",
+  "Keiji",
+  "Fukuda",
+  "said",
+  "Friday",
+  ".",
+  "Fukuda",
+  "told",
+  "a",
+  "press",
+  "conference",
+  "that",
+  "there",
+  "was",
+  "currently",
+  "no",
+  "emergency",
+  "or",
+  "pandemic",
+  ",",
+  "but",
+  "many",
+  "things",
+  "about",
+  "the",
+  "disease",
+  "remained",
+  "unknown",
+  "such",
+  "as",
+  "the",
+  "animal",
+  "reservoir",
+  ".",
+  "\"",
+  "I",
+  "do",
+  "want",
+  "to",
+  "stress",
+  "that",
+  "there",
+  "are",
+  "a",
+  "lot",
+  "of",
+  "things",
+  "that",
+  "we",
+  "do",
+  "not",
+  "know",
+  ".",
+  "For",
+  "example",
+  ",",
+  "one",
+  "of",
+  "the",
+  "key",
+  "pieces",
+  "of",
+  "missing",
+  "information",
+  "is",
+  "that",
+  "are",
+  "there",
+  "many",
+  "people",
+  "who",
+  "have",
+  "mild",
+  "infections",
+  "or",
+  "asymptomatic",
+  "infections",
+  "that",
+  "we",
+  "are",
+  "missing",
+  ",",
+  "\"",
+  "said",
+  "the",
+  "senior",
+  "health",
+  "official",
+  ",",
+  "adding",
+  "that",
+  "such",
+  "information",
+  "would",
+  "be",
+  "vital",
+  "for",
+  "the",
+  "understanding",
+  "of",
+  "the",
+  "transmission",
+  "and",
+  "epidemiology",
+  "of",
+  "the",
+  "disease",
+  ".",
+  "He",
+  "said",
+  "that",
+  "the",
+  "absence",
+  "of",
+  "that",
+  "kind",
+  "of",
+  "information",
+  "made",
+  "it",
+  "very",
+  "hard",
+  "to",
+  "peer",
+  "into",
+  "the",
+  "whole",
+  "picture",
+  "and",
+  "make",
+  "predictions",
+  ".",
+  "He",
+  "also",
+  "listed",
+  "three",
+  "possibilities",
+  "of",
+  "the",
+  "disease",
+  "'s",
+  "future",
+  "development",
+  ":",
+  "simply",
+  "fading",
+  "away",
+  ",",
+  "the",
+  "ongoing",
+  "pattern",
+  "continuing",
+  "for",
+  "some",
+  "period",
+  "of",
+  "time",
+  "or",
+  "more",
+  "cases",
+  "or",
+  "outbreaks",
+  "appearing",
+  ".",
+  "Fukuda",
+  "told",
+  "reporters",
+  "that",
+  "based",
+  "on",
+  "the",
+  "current",
+  "situation",
+  "and",
+  "gaps",
+  "in",
+  "knowledge",
+  ",",
+  "WHO",
+  "decided",
+  "to",
+  "convene",
+  "an",
+  "International",
+  "Health",
+  "Regulations",
+  "(",
+  "IHR",
+  ")",
+  "Emergency",
+  "Committee",
+  "next",
+  "week",
+  ".",
+  "\"",
+  "The",
+  "reason",
+  "why",
+  "we",
+  "will",
+  "do",
+  "this",
+  "is",
+  "that",
+  "recognizing",
+  "what",
+  "we",
+  "see",
+  "and",
+  "what",
+  "we",
+  "do",
+  "n't",
+  "see",
+  ".",
+  "We",
+  "really",
+  "want",
+  "be",
+  "in",
+  "a",
+  "position",
+  "to",
+  "be",
+  "ready",
+  "for",
+  "any",
+  "possibility",
+  ",",
+  "and",
+  "we",
+  "want",
+  "countries",
+  "to",
+  "be",
+  "in",
+  "positions",
+  "to",
+  "be",
+  "ready",
+  "for",
+  "any",
+  "possible",
+  "directions",
+  "that",
+  "the",
+  "virus",
+  "can",
+  "take",
+  ",",
+  "\"",
+  "explained",
+  "the",
+  "assistant",
+  "director",
+  "-",
+  "general",
+  ".",
+  "\"",
+  "If",
+  "in",
+  "the",
+  "future",
+  "we",
+  "do",
+  "see",
+  "some",
+  "kind",
+  "of",
+  "explosions",
+  ",",
+  "or",
+  "if",
+  "there",
+  "is",
+  "some",
+  "big",
+  "outbreak",
+  ",",
+  "or",
+  "we",
+  "think",
+  "that",
+  "the",
+  "situation",
+  "has",
+  "really",
+  "changed",
+  ",",
+  "we",
+  "will",
+  "already",
+  "have",
+  "a",
+  "group",
+  "of",
+  "emergency",
+  "committee",
+  "experts",
+  "who",
+  "are",
+  "really",
+  "up",
+  "to",
+  "speed",
+  ",",
+  "so",
+  "that",
+  "we",
+  "do",
+  "n't",
+  "have",
+  "to",
+  "go",
+  "through",
+  "a",
+  "steep",
+  "learning",
+  "curve",
+  ",",
+  "\"",
+  "Fukuda",
+  "said",
+  ",",
+  "\"",
+  "we",
+  "just",
+  "want",
+  "to",
+  "make",
+  "sure",
+  "that",
+  "we",
+  "can",
+  "move",
+  "as",
+  "quickly",
+  "as",
+  "possible",
+  "if",
+  "we",
+  "need",
+  "to",
+  "move",
+  "in",
+  "the",
+  "future",
+  "in",
+  "any",
+  "major",
+  "directions",
+  ".",
+  "\"",
+  "Fukuda",
+  "furthered",
+  "that",
+  "to",
+  "convene",
+  "an",
+  "IHR",
+  "emergency",
+  "committee",
+  "would",
+  "allow",
+  "the",
+  "WHO",
+  "Director",
+  "-",
+  "General",
+  "and",
+  "the",
+  "health",
+  "organization",
+  "to",
+  "receive",
+  "input",
+  "from",
+  "an",
+  "external",
+  "group",
+  "of",
+  "experts",
+  "who",
+  "would",
+  "provide",
+  "formal",
+  "consultation",
+  "and",
+  "information",
+  ".",
+  "It",
+  "was",
+  "introduced",
+  "that",
+  "the",
+  "IHR",
+  "emergency",
+  "committee",
+  "on",
+  "MERS",
+  "-",
+  "CoV",
+  "was",
+  "the",
+  "second",
+  "committee",
+  "to",
+  "be",
+  "set",
+  "up",
+  "under",
+  "the",
+  "WHO",
+  "rules",
+  "which",
+  "came",
+  "into",
+  "force",
+  "in",
+  "2007",
+  ".",
+  "The",
+  "first",
+  "committee",
+  "was",
+  "convened",
+  "in",
+  "response",
+  "to",
+  "2009",
+  "H1N1",
+  "pandemic",
+  ".",
+  "Fukuda",
+  "introduced",
+  "that",
+  "next",
+  "Tuesday",
+  ",",
+  "and",
+  "also",
+  "next",
+  "Thursday",
+  "if",
+  "needed",
+  ",",
+  "WHO",
+  "would",
+  "convene",
+  "the",
+  "emergency",
+  "committee",
+  "on",
+  "MERS",
+  "-",
+  "CoV",
+  ",",
+  "consisted",
+  "of",
+  "international",
+  "experts",
+  "specialized",
+  "in",
+  "different",
+  "fields",
+  "and",
+  "whose",
+  "names",
+  "to",
+  "be",
+  "get",
+  "publicly",
+  "known",
+  "on",
+  "next",
+  "Monday",
+  ".",
+  "The",
+  "committee",
+  "would",
+  "be",
+  "provided",
+  "with",
+  "information",
+  "that",
+  "WHO",
+  "has",
+  "and",
+  "then",
+  "review",
+  "the",
+  "situation",
+  ",",
+  "with",
+  "part",
+  "of",
+  "input",
+  "coming",
+  "from",
+  "countries",
+  "with",
+  "cases",
+  "which",
+  "could",
+  "directly",
+  "tell",
+  "the",
+  "committee",
+  "members",
+  "their",
+  "perspectives",
+  "and",
+  "concerns",
+  ",",
+  "as",
+  "Fukuda",
+  "noted",
+  ",",
+  "and",
+  "then",
+  "it",
+  "would",
+  "be",
+  "asked",
+  "to",
+  "provide",
+  "views",
+  "on",
+  "whether",
+  "the",
+  "event",
+  "constitutes",
+  "a",
+  "public",
+  "health",
+  "emergency",
+  "of",
+  "international",
+  "concern",
+  "and",
+  "whether",
+  "should",
+  "WHO",
+  "make",
+  "additional",
+  "temporary",
+  "recommendations",
+  "beyond",
+  "what",
+  "has",
+  "already",
+  "set",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   73,
+   101,
+   120,
+   175,
+   199,
+   231,
+   261,
+   282,
+   325,
+   420,
+   457,
+   488,
+   500,
+   544,
+   620,
+   621
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Keiji_Fukuda",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "Geneva",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "GENEVA"
+      },
+      {
+       "label": "Keiji_Fukuda",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "WHO"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "WHO"
+      },
+      {
+       "label": "Keiji_Fukuda",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "WHO"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "WHO"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "WHO"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "WHO"
+      },
+      {
+       "label": "Keiji_Fukuda",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "Middle_East",
+       "score": 1.0,
+       "start": 47,
+       "end": 49,
+       "tokens": "Middle East"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "WHO"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "WHO"
+      },
+      {
+       "label": "Keiji_Fukuda",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Keiji_Fukuda",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "Keiji Fukuda"
+      },
+      {
+       "label": "Keiji_Fukuda",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "WHO"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "WHO"
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 30,
+       "end": 33,
+       "tokens": "World Health Organization"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "GENEVA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "WHO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "WHO"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "WHO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "WHO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "WHO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "WHO"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 47,
+       "end": 49,
+       "tokens": "Middle East"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "WHO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "WHO"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "Keiji Fukuda"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "WHO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "WHO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 30,
+       "end": 33,
+       "tokens": "World Health Organization"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-07-05T22:56:53",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-07-05T22:56:53"
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "WHO"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "to"
+      },
+      {
+       "label": "set",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "set"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "up"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "emergency"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "committee"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "on"
+      },
+      {
+       "label": "MERS",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "MERS"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "-"
+      },
+      {
+       "label": "CoV",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "CoV"
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "WHO"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "to"
+      },
+      {
+       "label": "set",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "set"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "up"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "emergency"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "committee"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "on"
+      },
+      {
+       "label": "MERS",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "MERS"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "-"
+      },
+      {
+       "label": "CoV",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "CoV"
+      },
+      {
+       "label": "GENEVA",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "GENEVA"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": ","
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "July"
+      },
+      {
+       "label": "5",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "5"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "--"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "The"
+      },
+      {
+       "label": "World",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "World"
+      },
+      {
+       "label": "Health",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "Health"
+      },
+      {
+       "label": "Organization",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Organization"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "("
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "WHO"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": ")"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "is"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "to"
+      },
+      {
+       "label": "convene",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "convene"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "an"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "emergency"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "committee"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "next"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "week"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "the"
+      },
+      {
+       "label": "deadly",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "deadly"
+      },
+      {
+       "label": "Middle",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "Middle"
+      },
+      {
+       "label": "East",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "East"
+      },
+      {
+       "label": "respiratory",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "respiratory"
+      },
+      {
+       "label": "syndrome",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "syndrome"
+      },
+      {
+       "label": "coronavirus",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "coronavirus"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "("
+      },
+      {
+       "label": "MERS",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "MERS"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "-"
+      },
+      {
+       "label": "CoV",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "CoV"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": ")"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": ","
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "WHO"
+      },
+      {
+       "label": "assistant",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "assistant"
+      },
+      {
+       "label": "director",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "director"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "-"
+      },
+      {
+       "label": "general",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "general"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "for"
+      },
+      {
+       "label": "health",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "health"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "security"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "and"
+      },
+      {
+       "label": "environment",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "environment"
+      },
+      {
+       "label": "Keiji",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Keiji"
+      },
+      {
+       "label": "Fukuda",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "said"
+      },
+      {
+       "label": "Friday",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "Friday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "."
+      },
+      {
+       "label": "Fukuda",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "told"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "a"
+      },
+      {
+       "label": "press",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "press"
+      },
+      {
+       "label": "conference",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "conference"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "that"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "there"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "was"
+      },
+      {
+       "label": "currently",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "currently"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "no"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "emergency"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "or"
+      },
+      {
+       "label": "pandemic",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "pandemic"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "but"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "many"
+      },
+      {
+       "label": "things",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "things"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "about"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "the"
+      },
+      {
+       "label": "disease",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "disease"
+      },
+      {
+       "label": "remained",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "remained"
+      },
+      {
+       "label": "unknown",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "unknown"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "such"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "the"
+      },
+      {
+       "label": "animal",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "animal"
+      },
+      {
+       "label": "reservoir",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "reservoir"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "\""
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "I"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "do"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "want"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "to"
+      },
+      {
+       "label": "stress",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "stress"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "that"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "there"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "are"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "a"
+      },
+      {
+       "label": "lot",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "lot"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "of"
+      },
+      {
+       "label": "things",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "things"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "we"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "do"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "not"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "know"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "."
+      },
+      {
+       "label": "For",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "For"
+      },
+      {
+       "label": "example",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "example"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": ","
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "the"
+      },
+      {
+       "label": "key",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "key"
+      },
+      {
+       "label": "pieces",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "pieces"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "of"
+      },
+      {
+       "label": "missing",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "missing"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "information"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "that"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "are"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "there"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "many"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "people"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "who"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "have"
+      },
+      {
+       "label": "mild",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "mild"
+      },
+      {
+       "label": "infections",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "infections"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "or"
+      },
+      {
+       "label": "asymptomatic",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "asymptomatic"
+      },
+      {
+       "label": "infections",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "infections"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "we"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "are"
+      },
+      {
+       "label": "missing",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "missing"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "\""
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "the"
+      },
+      {
+       "label": "senior",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "senior"
+      },
+      {
+       "label": "health",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "health"
+      },
+      {
+       "label": "official",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "official"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": ","
+      },
+      {
+       "label": "adding",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "adding"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "that"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "such"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "information"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "be"
+      },
+      {
+       "label": "vital",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "vital"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "the"
+      },
+      {
+       "label": "understanding",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "understanding"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "the"
+      },
+      {
+       "label": "transmission",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "transmission"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "and"
+      },
+      {
+       "label": "epidemiology",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "epidemiology"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "the"
+      },
+      {
+       "label": "disease",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "disease"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "He"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "the"
+      },
+      {
+       "label": "absence",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "absence"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "of"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "that"
+      },
+      {
+       "label": "kind",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "kind"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "of"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "information"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "made"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "it"
+      },
+      {
+       "label": "very",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "very"
+      },
+      {
+       "label": "hard",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "hard"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "to"
+      },
+      {
+       "label": "peer",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "peer"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "into"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "the"
+      },
+      {
+       "label": "whole",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "whole"
+      },
+      {
+       "label": "picture",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "picture"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "and"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "make"
+      },
+      {
+       "label": "predictions",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "predictions"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "He"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "also"
+      },
+      {
+       "label": "listed",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "listed"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "three"
+      },
+      {
+       "label": "possibilities",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "possibilities"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "the"
+      },
+      {
+       "label": "disease",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "disease"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "'s"
+      },
+      {
+       "label": "future",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "future"
+      },
+      {
+       "label": "development",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "development"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": ":"
+      },
+      {
+       "label": "simply",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "simply"
+      },
+      {
+       "label": "fading",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "fading"
+      },
+      {
+       "label": "away",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "away"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "the"
+      },
+      {
+       "label": "ongoing",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "ongoing"
+      },
+      {
+       "label": "pattern",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "pattern"
+      },
+      {
+       "label": "continuing",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "continuing"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "for"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "some"
+      },
+      {
+       "label": "period",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "period"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "of"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "time"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "or"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "more"
+      },
+      {
+       "label": "cases",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "cases"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "or"
+      },
+      {
+       "label": "outbreaks",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "outbreaks"
+      },
+      {
+       "label": "appearing",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "appearing"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "."
+      },
+      {
+       "label": "Fukuda",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "told"
+      },
+      {
+       "label": "reporters",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "reporters"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "that"
+      },
+      {
+       "label": "based",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "based"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "the"
+      },
+      {
+       "label": "current",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "current"
+      },
+      {
+       "label": "situation",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "situation"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "and"
+      },
+      {
+       "label": "gaps",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "gaps"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "in"
+      },
+      {
+       "label": "knowledge",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "knowledge"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": ","
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "WHO"
+      },
+      {
+       "label": "decided",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "decided"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "to"
+      },
+      {
+       "label": "convene",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "convene"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "an"
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "International"
+      },
+      {
+       "label": "Health",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "Health"
+      },
+      {
+       "label": "Regulations",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "Regulations"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "("
+      },
+      {
+       "label": "IHR",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "IHR"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": ")"
+      },
+      {
+       "label": "Emergency",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Emergency"
+      },
+      {
+       "label": "Committee",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "Committee"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "next"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "week"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "\""
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "The"
+      },
+      {
+       "label": "reason",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "reason"
+      },
+      {
+       "label": "why",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "why"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "we"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "will"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "do"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "this"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "is"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "that"
+      },
+      {
+       "label": "recognizing",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "recognizing"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "what"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "we"
+      },
+      {
+       "label": "see",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "see"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "and"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "what"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "we"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "n't"
+      },
+      {
+       "label": "see",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "see"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "."
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "We"
+      },
+      {
+       "label": "really",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "really"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "want"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "be"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "a"
+      },
+      {
+       "label": "position",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "position"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "be"
+      },
+      {
+       "label": "ready",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "ready"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "for"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "any"
+      },
+      {
+       "label": "possibility",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "possibility"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "and"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "we"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "want"
+      },
+      {
+       "label": "countries",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "countries"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "be"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "in"
+      },
+      {
+       "label": "positions",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "positions"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "be"
+      },
+      {
+       "label": "ready",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "ready"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "for"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "any"
+      },
+      {
+       "label": "possible",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "possible"
+      },
+      {
+       "label": "directions",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "directions"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "the"
+      },
+      {
+       "label": "virus",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "virus"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "can"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "take"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "\""
+      },
+      {
+       "label": "explained",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "explained"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "the"
+      },
+      {
+       "label": "assistant",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "assistant"
+      },
+      {
+       "label": "director",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "director"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "-"
+      },
+      {
+       "label": "general",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "general"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "\""
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "If"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "the"
+      },
+      {
+       "label": "future",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "future"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "we"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "do"
+      },
+      {
+       "label": "see",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "see"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "some"
+      },
+      {
+       "label": "kind",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "kind"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "of"
+      },
+      {
+       "label": "explosions",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "explosions"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": ","
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "or"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "if"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "there"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "is"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "some"
+      },
+      {
+       "label": "big",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "big"
+      },
+      {
+       "label": "outbreak",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "outbreak"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": ","
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "or"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "we"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "think"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "the"
+      },
+      {
+       "label": "situation",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "situation"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "has"
+      },
+      {
+       "label": "really",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "really"
+      },
+      {
+       "label": "changed",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "changed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": ","
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "we"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "will"
+      },
+      {
+       "label": "already",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "already"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "have"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "a"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "group"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "of"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "emergency"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "committee"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "experts"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "who"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "are"
+      },
+      {
+       "label": "really",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "really"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "up"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "to"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "speed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": ","
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "so"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "we"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "n't"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "have"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "to"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "go"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "through"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "a"
+      },
+      {
+       "label": "steep",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "steep"
+      },
+      {
+       "label": "learning",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "learning"
+      },
+      {
+       "label": "curve",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "curve"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "\""
+      },
+      {
+       "label": "Fukuda",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "said"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "\""
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "we"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "just"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "want"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "to"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "make"
+      },
+      {
+       "label": "sure",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "sure"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "we"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "can"
+      },
+      {
+       "label": "move",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "move"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "as"
+      },
+      {
+       "label": "quickly",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "quickly"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "as"
+      },
+      {
+       "label": "possible",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "possible"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "if"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "we"
+      },
+      {
+       "label": "need",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "need"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "to"
+      },
+      {
+       "label": "move",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "move"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "the"
+      },
+      {
+       "label": "future",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "future"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "in"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "any"
+      },
+      {
+       "label": "major",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "major"
+      },
+      {
+       "label": "directions",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "directions"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "\""
+      },
+      {
+       "label": "Fukuda",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "furthered",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "furthered"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "that"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "to"
+      },
+      {
+       "label": "convene",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "convene"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "an"
+      },
+      {
+       "label": "IHR",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "IHR"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "emergency"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "committee"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "would"
+      },
+      {
+       "label": "allow",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "allow"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "the"
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "WHO"
+      },
+      {
+       "label": "Director",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "Director"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "-"
+      },
+      {
+       "label": "General",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "General"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "the"
+      },
+      {
+       "label": "health",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "health"
+      },
+      {
+       "label": "organization",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "organization"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "to"
+      },
+      {
+       "label": "receive",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "receive"
+      },
+      {
+       "label": "input",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "input"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "from"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "an"
+      },
+      {
+       "label": "external",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "external"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "group"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "of"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "experts"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "who"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "would"
+      },
+      {
+       "label": "provide",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "provide"
+      },
+      {
+       "label": "formal",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "formal"
+      },
+      {
+       "label": "consultation",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "consultation"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "and"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "information"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "It"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "was"
+      },
+      {
+       "label": "introduced",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "introduced"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "the"
+      },
+      {
+       "label": "IHR",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "IHR"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "emergency"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "committee"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "on"
+      },
+      {
+       "label": "MERS",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "MERS"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "-"
+      },
+      {
+       "label": "CoV",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "CoV"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "was"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "the"
+      },
+      {
+       "label": "second",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "second"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "committee"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "be"
+      },
+      {
+       "label": "set",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "set"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "up"
+      },
+      {
+       "label": "under",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "under"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "the"
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "WHO"
+      },
+      {
+       "label": "rules",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "rules"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "which"
+      },
+      {
+       "label": "came",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "came"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "into"
+      },
+      {
+       "label": "force",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "force"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "in"
+      },
+      {
+       "label": "2007",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "2007"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "The"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "first"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "committee"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "was"
+      },
+      {
+       "label": "convened",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "convened"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "in"
+      },
+      {
+       "label": "response",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "response"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "to"
+      },
+      {
+       "label": "2009",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "2009"
+      },
+      {
+       "label": "H1N1",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "H1N1"
+      },
+      {
+       "label": "pandemic",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "pandemic"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "."
+      },
+      {
+       "label": "Fukuda",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "introduced",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "introduced"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "that"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "next"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "and"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "also"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "next"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "Thursday"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "if"
+      },
+      {
+       "label": "needed",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "needed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": ","
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "WHO"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "would"
+      },
+      {
+       "label": "convene",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "convene"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "the"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "emergency"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "committee"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "on"
+      },
+      {
+       "label": "MERS",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "MERS"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "-"
+      },
+      {
+       "label": "CoV",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "CoV"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": ","
+      },
+      {
+       "label": "consisted",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "consisted"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "of"
+      },
+      {
+       "label": "international",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "international"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "experts"
+      },
+      {
+       "label": "specialized",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "specialized"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "in"
+      },
+      {
+       "label": "different",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "different"
+      },
+      {
+       "label": "fields",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "fields"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "and"
+      },
+      {
+       "label": "whose",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "whose"
+      },
+      {
+       "label": "names",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "names"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "be"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "get"
+      },
+      {
+       "label": "publicly",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "publicly"
+      },
+      {
+       "label": "known",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "known"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "on"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "next"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "Monday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "The"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "committee"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "be"
+      },
+      {
+       "label": "provided",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "provided"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "with"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "information"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "that"
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "WHO"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "has"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "and"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "then"
+      },
+      {
+       "label": "review",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "review"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "the"
+      },
+      {
+       "label": "situation",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "situation"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "with"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "of"
+      },
+      {
+       "label": "input",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "input"
+      },
+      {
+       "label": "coming",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "coming"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "from"
+      },
+      {
+       "label": "countries",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "countries"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "with"
+      },
+      {
+       "label": "cases",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "cases"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "which"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "could"
+      },
+      {
+       "label": "directly",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "directly"
+      },
+      {
+       "label": "tell",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "tell"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "the"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "committee"
+      },
+      {
+       "label": "members",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "members"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "their"
+      },
+      {
+       "label": "perspectives",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "perspectives"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "and"
+      },
+      {
+       "label": "concerns",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "concerns"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "as"
+      },
+      {
+       "label": "Fukuda",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "Fukuda"
+      },
+      {
+       "label": "noted",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "noted"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "and"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "then"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "it"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "be"
+      },
+      {
+       "label": "asked",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "asked"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "to"
+      },
+      {
+       "label": "provide",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "provide"
+      },
+      {
+       "label": "views",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "views"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "on"
+      },
+      {
+       "label": "whether",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "whether"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "the"
+      },
+      {
+       "label": "event",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "event"
+      },
+      {
+       "label": "constitutes",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "constitutes"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "a"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "public"
+      },
+      {
+       "label": "health",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "health"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "emergency"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "of"
+      },
+      {
+       "label": "international",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "international"
+      },
+      {
+       "label": "concern",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "concern"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "and"
+      },
+      {
+       "label": "whether",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "whether"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "should"
+      },
+      {
+       "label": "WHO",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "WHO"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": "make"
+      },
+      {
+       "label": "additional",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": "additional"
+      },
+      {
+       "label": "temporary",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "temporary"
+      },
+      {
+       "label": "recommendations",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "recommendations"
+      },
+      {
+       "label": "beyond",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "beyond"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "what"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": "has"
+      },
+      {
+       "label": "already",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "already"
+      },
+      {
+       "label": "set",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "set"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.6109117475937995,
+       "start": 73,
+       "end": 74,
+       "tokens": "Fukuda",
+       "labelScoreMap": {
+        "Takeo_Fukuda": 0.38908825240620043,
+        "Yasuo_Fukuda": 0.6109117475937995,
+        "<unk_wid>": 2.962614385798425e-41
+       }
+      },
+      {
+       "label": "Geneva_College",
+       "score": 0.4760681933532016,
+       "start": 21,
+       "end": 22,
+       "tokens": "GENEVA",
+       "labelScoreMap": {
+        "Geneva": 0.43098815576871147,
+        "Canton_of_Geneva": 0.012068997732968847,
+        "Geneva_County,_Alabama": 0.01004967102795578,
+        "Geneva,_New_York": 0.008969622985636376,
+        "Geneva,_Illinois": 0.0077798781253480866,
+        "Geneva,_Alabama": 0.007169424848550786,
+        "Geneva_College": 0.4760681933532016,
+        "Geneva,_Ohio": 0.0035847065388373814,
+        "Gin": 0.003584706538837381,
+        "Geneva,_Wisconsin": 0.003302937696412858,
+        "Geneva_Motor_Show": 0.003130749469903527,
+        "Geneva_Airport": 0.0025672103387991444,
+        "University_of_Geneva": 0.002513773587692873,
+        "Geneva,_Nebraska": 0.002113251605635524,
+        "Geneva,_Florida": 0.0018627910664435884,
+        "Geneva_Bible": 0.0018627912360031618,
+        "Geneva,_Georgia": 0.0017375637392868799,
+        "Palace_of_Nations": 0.019315006770129556,
+        "Geneva_(town),_New_York": 0.0013305675696451277,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.6151344052034479,
+       "start": 582,
+       "end": 583,
+       "tokens": "Fukuda",
+       "labelScoreMap": {
+        "Takeo_Fukuda": 0.38486559479655225,
+        "Yasuo_Fukuda": 0.6151344052034479,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941248563755,
+       "start": 34,
+       "end": 35,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962941248563755,
+        "The_Who": 0.11093950767561013,
+        "Doctor_Who": 0.01124440469906077,
+        "Pete_Townshend": 0.007364293588509769,
+        "Hu_Jintao": 0.006493247969020079,
+        "Who_(magazine)": 0.006136906944113857,
+        "United_States_Senate_elections,_1980": 0.005740978337429481,
+        "Rage_Against_the_Machine": 0.005661803096149919,
+        "Kevin_McDonald": 0.005503426387539485,
+        "David_Foster_Wallace": 0.004671968375735477,
+        "WHO-DT": 0.00289028952907041,
+        "Invasion_of_Grenada": 0.002811101174765193,
+        "Shimon_Peres": 0.0026923252127742914,
+        "Horton_Hears_a_Who!": 0.002652724466154759,
+        "Star_Wars": 0.002217208225876862,
+        "Ronald_Reagan": 0.002177623015177775,
+        "Gyula_Horn": 0.002058831517266403,
+        "Kelly_Brook": 0.002019243909580719,
+        "Clazziquai": 0.0019400555552755014,
+        "Miranda_Kerr": 0.0019400555552755014,
+        "Alfred_Russel_Wallace": 0.0019004679475898175,
+        "Sarah_Palin": 0.001860867200970284,
+        "Angela_Griffin": 0.0018212795932845997,
+        "Kent_Hovind": 0.0017816788466650676,
+        "Dashan": 0.0016233152769884814,
+        "Mary_Gilmore": 0.0016233152769884814,
+        "Booker_T._Washington": 0.0015045393149975823,
+        "Casimir_Pulaski": 0.0015045393149975802,
+        "Asian_Literary_Prize": 0.001464938568378047,
+        "The_Metamorphosis": 0.001464938568378047
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941195355252,
+       "start": 245,
+       "end": 246,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962941195355252,
+        "The_Who": 0.11093950715842958,
+        "Doctor_Who": 0.011244404646641327,
+        "Pete_Townshend": 0.007364293554178723,
+        "Hu_Jintao": 0.006493247938749713,
+        "Who_(magazine)": 0.006136906915506842,
+        "United_States_Senate_elections,_1980": 0.005740978455170111,
+        "Rage_Against_the_Machine": 0.005661803069755585,
+        "Kevin_McDonald": 0.005503426361883476,
+        "David_Foster_Wallace": 0.0046719683539555796,
+        "WHO-DT": 0.002890289515596387,
+        "Invasion_of_Grenada": 0.0028111011616603356,
+        "Shimon_Peres": 0.0026923252002231442,
+        "Horton_Hears_a_Who!": 0.0026527244537882222,
+        "Star_Wars": 0.0022172082155408773,
+        "Ronald_Reagan": 0.002177629131011276,
+        "Gyula_Horn": 0.002058831507668491,
+        "Kelly_Brook": 0.0020192439001673577,
+        "Clazziquai": 0.0019400555462313024,
+        "Miranda_Kerr": 0.0019400555462313024,
+        "Alfred_Russel_Wallace": 0.001900467938730169,
+        "Sarah_Palin": 0.0018608671922952474,
+        "Angela_Griffin": 0.0018212795847941136,
+        "Kent_Hovind": 0.0017816788383591931,
+        "Dashan": 0.0016233152694208701,
+        "Mary_Gilmore": 0.0016233152694208701,
+        "Booker_T._Washington": 0.001504539307983734,
+        "Casimir_Pulaski": 0.0015045393079836816,
+        "Asian_Literary_Prize": 0.0014649385615487602,
+        "The_Metamorphosis": 0.0014649385615487602
+       }
+      },
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.619453004310915,
+       "start": 420,
+       "end": 421,
+       "tokens": "Fukuda",
+       "labelScoreMap": {
+        "Takeo_Fukuda": 0.38054699568908495,
+        "Yasuo_Fukuda": 0.619453004310915,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941244788106,
+       "start": 432,
+       "end": 433,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962941244788106,
+        "The_Who": 0.11093950763893519,
+        "Doctor_Who": 0.01124440469534354,
+        "Pete_Townshend": 0.007364293586075244,
+        "Hu_Jintao": 0.006493247966873511,
+        "Who_(magazine)": 0.006136906942086632,
+        "United_States_Senate_elections,_1980": 0.0057409785041872465,
+        "Rage_Against_the_Machine": 0.005661803094278212,
+        "Kevin_McDonald": 0.005503426385720135,
+        "David_Foster_Wallace": 0.0046719683741909945,
+        "WHO-DT": 0.002890289528114924,
+        "Invasion_of_Grenada": 0.002811101173835886,
+        "Shimon_Peres": 0.0026923252118842495,
+        "Horton_Hears_a_Who!": 0.002652724465277808,
+        "Star_Wars": 0.002217208225143996,
+        "Ronald_Reagan": 0.002177623290707508,
+        "Gyula_Horn": 0.0020588315165857842,
+        "Kelly_Brook": 0.0020192439089131873,
+        "Clazziquai": 0.001940055554634148,
+        "Miranda_Kerr": 0.001940055554634148,
+        "Alfred_Russel_Wallace": 0.0019004679469615511,
+        "Sarah_Palin": 0.0018608672003551094,
+        "Angela_Griffin": 0.001821279592682512,
+        "Kent_Hovind": 0.0017816788460760713,
+        "Dashan": 0.0016233152764518377,
+        "Mary_Gilmore": 0.0016233152764518377,
+        "Booker_T._Washington": 0.001504539314500212,
+        "Casimir_Pulaski": 0.001504539314500202,
+        "Asian_Literary_Prize": 0.0014649385678937603,
+        "The_Metamorphosis": 0.0014649385678937603
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962940247995224,
+       "start": 58,
+       "end": 59,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962940247995224,
+        "The_Who": 0.11093949795033621,
+        "Doctor_Who": 0.011244403713344163,
+        "Pete_Townshend": 0.007364292942934943,
+        "Hu_Jintao": 0.006493247399812135,
+        "Who_(magazine)": 0.00613690640616565,
+        "United_States_Senate_elections,_1980": 0.0057409814628425,
+        "Rage_Against_the_Machine": 0.0056618025998201,
+        "Kevin_McDonald": 0.005503425905093419,
+        "David_Foster_Wallace": 0.0046719679661773985,
+        "WHO-DT": 0.00289028927569938,
+        "Invasion_of_Grenada": 0.002811100928336746,
+        "Shimon_Peres": 0.0026923249767578507,
+        "Horton_Hears_a_Who!": 0.0026527242336093597,
+        "Star_Wars": 0.0022172080315294163,
+        "Ronald_Reagan": 0.0021777371097914605,
+        "Gyula_Horn": 0.002058831336783356,
+        "Kelly_Brook": 0.0020192437325680344,
+        "Clazziquai": 0.0019400553852046934,
+        "Miranda_Kerr": 0.0019400553852046945,
+        "Alfred_Russel_Wallace": 0.001900467780989378,
+        "Sarah_Palin": 0.0018608670378413546,
+        "Angela_Griffin": 0.0018212794336260319,
+        "Kent_Hovind": 0.001781678690478014,
+        "Dashan": 0.0016233151346840306,
+        "Mary_Gilmore": 0.0016233151346840308,
+        "Booker_T._Washington": 0.0015045391831433133,
+        "Casimir_Pulaski": 0.001504539183105371,
+        "Asian_Literary_Prize": 0.001464938439957359,
+        "The_Metamorphosis": 0.0014649384399573508
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962940845405718,
+       "start": 513,
+       "end": 514,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962940845405718,
+        "The_Who": 0.11093950375689796,
+        "Doctor_Who": 0.011244404301875077,
+        "Pete_Townshend": 0.007364293328381109,
+        "Hu_Jintao": 0.006493247739659786,
+        "Who_(magazine)": 0.0061369067273531405,
+        "United_States_Senate_elections,_1980": 0.005740978818338526,
+        "Rage_Against_the_Machine": 0.005661802896158256,
+        "Kevin_McDonald": 0.005503426193142156,
+        "David_Foster_Wallace": 0.004671968210707709,
+        "WHO-DT": 0.0028902894269768192,
+        "Invasion_of_Grenada": 0.002811101075468944,
+        "Shimon_Peres": 0.002692325117673431,
+        "Horton_Hears_a_Who!": 0.0026527243724526694,
+        "Star_Wars": 0.0022172081475620195,
+        "Ronald_Reagan": 0.002177669765840796,
+        "Gyula_Horn": 0.0020588314445423726,
+        "Kelly_Brook": 0.00201924383825504,
+        "Clazziquai": 0.00194005548674699,
+        "Miranda_Kerr": 0.00194005548674699,
+        "Alfred_Russel_Wallace": 0.001900467880459658,
+        "Sarah_Palin": 0.00186086713523894,
+        "Angela_Griffin": 0.0018212795289516074,
+        "Kent_Hovind": 0.001781678783730891,
+        "Dashan": 0.0016233152196481753,
+        "Mary_Gilmore": 0.0016233152196481753,
+        "Booker_T._Washington": 0.001504539261854032,
+        "Casimir_Pulaski": 0.0015045392618527932,
+        "Asian_Literary_Prize": 0.0014649385166320757,
+        "The_Metamorphosis": 0.0014649385166320755
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941252053749,
+       "start": 11,
+       "end": 12,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962941252053749,
+        "The_Who": 0.11093950770953316,
+        "Doctor_Who": 0.01124440470249908,
+        "Pete_Townshend": 0.007364293590761619,
+        "Hu_Jintao": 0.006493247971005582,
+        "Who_(magazine)": 0.006136906945990782,
+        "United_States_Senate_elections,_1980": 0.005740978334331176,
+        "Rage_Against_the_Machine": 0.005661803097881182,
+        "Kevin_McDonald": 0.005503426389222321,
+        "David_Foster_Wallace": 0.004671968377164069,
+        "WHO-DT": 0.002890289529954202,
+        "Invasion_of_Grenada": 0.0028111011756247707,
+        "Shimon_Peres": 0.0026923252135975496,
+        "Horton_Hears_a_Who!": 0.0026527244669659077,
+        "Star_Wars": 0.0022172082265549016,
+        "Ronald_Reagan": 0.0021776226094087016,
+        "Gyula_Horn": 0.0020588315178959515,
+        "Kelly_Brook": 0.0020192439101981625,
+        "Clazziquai": 0.0019400555558687306,
+        "Miranda_Kerr": 0.0019400555558687306,
+        "Alfred_Russel_Wallace": 0.0019004679481709416,
+        "Sarah_Palin": 0.0018608672015392991,
+        "Angela_Griffin": 0.00182127959384151,
+        "Kent_Hovind": 0.0017816788472098685,
+        "Dashan": 0.001623315277484858,
+        "Mary_Gilmore": 0.001623315277484858,
+        "Booker_T._Washington": 0.0015045393154576392,
+        "Casimir_Pulaski": 0.0015045393154576375,
+        "Asian_Literary_Prize": 0.0014649385688259953,
+        "The_Metamorphosis": 0.0014649385688259953
+       }
+      },
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.6140181895266702,
+       "start": 231,
+       "end": 232,
+       "tokens": "Fukuda",
+       "labelScoreMap": {
+        "Takeo_Fukuda": 0.38598181047332986,
+        "Yasuo_Fukuda": 0.6140181895266702,
+        "<unk_wid>": 7.982218600652478e-43
+       }
+      },
+      {
+       "label": "Middle_East",
+       "score": 0.9919475915920127,
+       "start": 47,
+       "end": 49,
+       "tokens": "Middle East",
+       "labelScoreMap": {
+        "Middle_East": 0.9919475915920127,
+        "Afro-Arab": 0.002240353391116709,
+        "The_Middle_East_(nightclub)": 0.002176171489949084,
+        "Middle_Eastern_theatre_of_World_War_I": 0.00221683817560692,
+        "Disney_Channels_Worldwide": 0.0014190453513145155,
+        "<unk_wid>": 1.0315485786603664e-37
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941258830715,
+       "start": 1,
+       "end": 2,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962941258830715,
+        "The_Who": 0.11093950777540713,
+        "Doctor_Who": 0.011244404709175815,
+        "Pete_Townshend": 0.0073642935951344106,
+        "Hu_Jintao": 0.00649324797486116,
+        "Who_(magazine)": 0.006136906949634727,
+        "United_States_Senate_elections,_1980": 0.005740978336876143,
+        "Rage_Against_the_Machine": 0.005661803101243064,
+        "Kevin_McDonald": 0.005503426392490161,
+        "David_Foster_Wallace": 0.0046719683799382045,
+        "WHO-DT": 0.0028902895316704064,
+        "Invasion_of_Grenada": 0.002811101177293954,
+        "Shimon_Peres": 0.002692325215196206,
+        "Horton_Hears_a_Who!": 0.00265272446854105,
+        "Star_Wars": 0.0022172082278714292,
+        "Ronald_Reagan": 0.002177621812911965,
+        "Gyula_Horn": 0.00205883151911845,
+        "Kelly_Brook": 0.002019243911397155,
+        "Clazziquai": 0.0019400555570207023,
+        "Miranda_Kerr": 0.0019400555570207023,
+        "Alfred_Russel_Wallace": 0.001900467949299407,
+        "Sarah_Palin": 0.0018608672026442503,
+        "Angela_Griffin": 0.0018212795949229545,
+        "Kent_Hovind": 0.001781678848267799,
+        "Dashan": 0.001623315278448755,
+        "Mary_Gilmore": 0.001623315278448755,
+        "Booker_T._Washington": 0.001504539316351008,
+        "Casimir_Pulaski": 0.001504539316351007,
+        "Asian_Literary_Prize": 0.0014649385696958507,
+        "The_Metamorphosis": 0.0014649385696958507
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941224382103,
+       "start": 479,
+       "end": 480,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962941224382103,
+        "The_Who": 0.11093950744058367,
+        "Doctor_Who": 0.011244404675239388,
+        "Pete_Townshend": 0.0073642935729084395,
+        "Hu_Jintao": 0.006493247955264076,
+        "Who_(magazine)": 0.006136906931115691,
+        "United_States_Senate_elections,_1980": 0.005740978499667115,
+        "Rage_Against_the_Machine": 0.005661803084155333,
+        "Kevin_McDonald": 0.005503426375880421,
+        "David_Foster_Wallace": 0.0046719683658378655,
+        "WHO-DT": 0.002890289522947303,
+        "Invasion_of_Grenada": 0.002811101168809853,
+        "Shimon_Peres": 0.002692325207070574,
+        "Horton_Hears_a_Who!": 0.0026527244605349357,
+        "Star_Wars": 0.0022172082211801432,
+        "Ronald_Reagan": 0.0021776256858794273,
+        "Gyula_Horn": 0.002058831512904748,
+        "Kelly_Brook": 0.0020192439053029307,
+        "Clazziquai": 0.0019400555511654744,
+        "Miranda_Kerr": 0.0019400555511654744,
+        "Alfred_Russel_Wallace": 0.001900467943563657,
+        "Sarah_Palin": 0.0018608671970280185,
+        "Angela_Griffin": 0.0018212795894262009,
+        "Kent_Hovind": 0.0017816788428905632,
+        "Dashan": 0.0016233152735494719,
+        "Mary_Gilmore": 0.0016233152735494719,
+        "Booker_T._Washington": 0.0015045393118102183,
+        "Casimir_Pulaski": 0.0015045393118101986,
+        "Asian_Literary_Prize": 0.00146493856527456,
+        "The_Metamorphosis": 0.00146493856527456
+       }
+      },
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.6082110245891633,
+       "start": 500,
+       "end": 501,
+       "tokens": "Fukuda",
+       "labelScoreMap": {
+        "Takeo_Fukuda": 0.3917889754108366,
+        "Yasuo_Fukuda": 0.6082110245891633,
+        "<unk_wid>": 1.3415702347607445e-40
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816672596872009,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816672596872009,
+        "Xinhua_District,_Tainan": 0.01698190639671992,
+        "Xinhua_County": 0.0013508339160790057,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "Keiji Fukuda",
+       "labelScoreMap": {
+        "World_Health_Organization": 1.0,
+        "<unk_wid>": 5.048037587883721e-41
+       }
+      },
+      {
+       "label": "Takeo_Fukuda",
+       "score": 0.5876143136103616,
+       "start": 388,
+       "end": 389,
+       "tokens": "Fukuda",
+       "labelScoreMap": {
+        "Takeo_Fukuda": 0.5876143136103616,
+        "Yasuo_Fukuda": 0.4123856863896384,
+        "<unk_wid>": 5.577887261588339e-37
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941243029077,
+       "start": 609,
+       "end": 610,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962941243029077,
+        "The_Who": 0.11093950762181103,
+        "Doctor_Who": 0.0112444046936079,
+        "Pete_Townshend": 0.007364293584938523,
+        "Hu_Jintao": 0.00649324796587124,
+        "Who_(magazine)": 0.00613690694113837,
+        "United_States_Senate_elections,_1980": 0.005740978332146792,
+        "Rage_Against_the_Machine": 0.005661803093404279,
+        "Kevin_McDonald": 0.005503426384870649,
+        "David_Foster_Wallace": 0.004671968373469849,
+        "WHO-DT": 0.002890289527668791,
+        "Invasion_of_Grenada": 0.002811101173401976,
+        "Shimon_Peres": 0.002692325211468673,
+        "Horton_Hears_a_Who!": 0.0026527244648683443,
+        "Star_Wars": 0.0022172082248017233,
+        "Ronald_Reagan": 0.002177623668873121,
+        "Gyula_Horn": 0.0020588315162679916,
+        "Kelly_Brook": 0.0020192439086015052,
+        "Clazziquai": 0.0019400555543346893,
+        "Miranda_Kerr": 0.0019400555543346893,
+        "Alfred_Russel_Wallace": 0.001900467946668203,
+        "Sarah_Palin": 0.0018608672000678737,
+        "Angela_Griffin": 0.001821279592401387,
+        "Kent_Hovind": 0.0017816788458010588,
+        "Dashan": 0.0016233152762012697,
+        "Mary_Gilmore": 0.0016233152762012697,
+        "Booker_T._Washington": 0.001504539314267971,
+        "Casimir_Pulaski": 0.0015045393142679676,
+        "Asian_Literary_Prize": 0.0014649385676676384,
+        "The_Metamorphosis": 0.0014649385676676384
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941230379568,
+       "start": 552,
+       "end": 553,
+       "tokens": "WHO",
+       "labelScoreMap": {
+        "World_Health_Organization": 0.7962941230379568,
+        "The_Who": 0.11093950749885663,
+        "Doctor_Who": 0.011244404681145712,
+        "Pete_Townshend": 0.007364293576776667,
+        "Hu_Jintao": 0.006493247958674768,
+        "Who_(magazine)": 0.006136906934338505,
+        "United_States_Senate_elections,_1980": 0.005740978342792656,
+        "Rage_Against_the_Machine": 0.005661803087129296,
+        "Kevin_McDonald": 0.005503426378771195,
+        "David_Foster_Wallace": 0.004671968368291901,
+        "WHO-DT": 0.0028902895244654796,
+        "Invasion_of_Grenada": 0.0028111011702864294,
+        "Shimon_Peres": 0.0026923252084847657,
+        "Horton_Hears_a_Who!": 0.0026527244619283263,
+        "Star_Wars": 0.002217208222344439,
+        "Ronald_Reagan": 0.0021776251401676165,
+        "Gyula_Horn": 0.0020588315139861858,
+        "Kelly_Brook": 0.0020192439063635745,
+        "Clazziquai": 0.0019400555521845231,
+        "Miranda_Kerr": 0.0019400555521845231,
+        "Alfred_Russel_Wallace": 0.0019004679445619118,
+        "Sarah_Palin": 0.0018608671980054723,
+        "Angela_Griffin": 0.0018212795903828605,
+        "Kent_Hovind": 0.0017816788438264218,
+        "Dashan": 0.0016233152744021472,
+        "Mary_Gilmore": 0.0016233152744021472,
+        "Booker_T._Washington": 0.001504539312600494,
+        "Casimir_Pulaski": 0.0015045393126004848,
+        "Asian_Literary_Prize": 0.0014649385660440452,
+        "The_Metamorphosis": 0.0014649385660440452
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 30,
+       "end": 33,
+       "tokens": "World Health Organization",
+       "labelScoreMap": {
+        "World_Health_Organization": 1.0,
+        "<unk_wid>": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.6109117475937995,
+       "start": 73,
+       "end": 74,
+       "tokens": "Fukuda",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Geneva_College",
+       "score": 0.4760681933532016,
+       "start": 21,
+       "end": 22,
+       "tokens": "GENEVA",
+       "labelScoreMap": {
+        "7285902|Geneva": 0.43098815576871147,
+        "2660645|Canton_of_Geneva": 0.012068997732968847,
+        "4063931|Geneva_County,_Alabama": 0.01004967102795578,
+        "5118398|Geneva,_New_York": 0.008969622985636376,
+        "4893591|Geneva,_Illinois": 0.0077798781253480866,
+        "4063926|Geneva,_Alabama": 0.007169424848550786,
+        "5190947|Geneva_College": 0.4760681933532016,
+        "5155572|Geneva,_Ohio": 0.0035847065388373814,
+        "2660644|Geneva_Airport": 0.0025672103387991444,
+        "8285540|University_of_Geneva": 0.002513773587692873,
+        "5068953|Geneva,_Nebraska": 0.002113251605635524,
+        "4156657|Geneva,_Florida": 0.0018627910664435884,
+        "4196863|Geneva,_Georgia": 0.0017375637392868799
+       }
+      },
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.6151344052034479,
+       "start": 582,
+       "end": 583,
+       "tokens": "Fukuda",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941248563755,
+       "start": 34,
+       "end": 35,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941195355252,
+       "start": 245,
+       "end": 246,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.619453004310915,
+       "start": 420,
+       "end": 421,
+       "tokens": "Fukuda",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941244788106,
+       "start": 432,
+       "end": 433,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962940247995224,
+       "start": 58,
+       "end": 59,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962940845405718,
+       "start": 513,
+       "end": 514,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941252053749,
+       "start": 11,
+       "end": 12,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.6140181895266702,
+       "start": 231,
+       "end": 232,
+       "tokens": "Fukuda",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Middle_East",
+       "score": 0.9919475915920127,
+       "start": 47,
+       "end": 49,
+       "tokens": "Middle East",
+       "labelScoreMap": {
+        "6269133|Middle_East": 0.9919475915920127
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941258830715,
+       "start": 1,
+       "end": 2,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941224382103,
+       "start": 479,
+       "end": 480,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Yasuo_Fukuda",
+       "score": 0.6082110245891633,
+       "start": 500,
+       "end": 501,
+       "tokens": "Fukuda",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816672596872009,
+       "start": 26,
+       "end": 27,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.01698190639671992,
+        "1788859|Xinhua_County": 0.0013508339160790057
+       }
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "Keiji Fukuda",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Takeo_Fukuda",
+       "score": 0.5876143136103616,
+       "start": 388,
+       "end": 389,
+       "tokens": "Fukuda",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941243029077,
+       "start": 609,
+       "end": 610,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 0.7962941230379568,
+       "start": 552,
+       "end": 553,
+       "tokens": "WHO",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "World_Health_Organization",
+       "score": 1.0,
+       "start": 30,
+       "end": 33,
+       "tokens": "World Health Organization",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

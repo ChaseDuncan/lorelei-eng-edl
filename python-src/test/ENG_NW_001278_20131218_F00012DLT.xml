@@ -1,0 +1,3733 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20131218_F00012DLT.xml",
+ "text": "2013-12-18T23:41:36\nEU provides 147 mln euro to Syrian crisis affected\nEU provides 147 mln euro to Syrian crisis affected\nBRUSSELS, Dec. 18 (Xinhua) -- The European Union on Wednesday signed three major contracts with the United Nations agencies totalling 147 million euros (201 million U.S. dollars) to deliver vital aid to people directly affected by the Syrian crisis.\nHeads of the UN Refugee Agency, the UN World Food Program and UNICEF, who met with the EU Humanitarian Aid Commissioner Kristalina Georgieva in Brussels, participated in a signing ceremony for the humanitarian funding.\n\"The conflict in Syria has consumed tens of thousands of lives, uprooted millions from their homes, destabilised the region and consigned an entire generation of the young to an uncertain future,\" said European Commission President Jose Manuel Barroso.\n\"It is right that we stand up for the victims of this catastrophe, which is why I am proud that today we are signing some of the largest humanitarian contracts ever concluded with trusted humanitarian partners,\" he said.\n\"I urge the international community to follow suit and replicate our gesture of solidarity,\" he added.\nGeorgieva said the contracts would help \"to reach even more vulnerable Syrians and those in the host communities beyond Syria's borders who are struggling under the burden of their generous hospitality.\"\nIn Syria, the humanitarian situation continues to deteriorate dramatically as violence has intensified and fighting continues to spread throughout the country.\nThe United Nations estimates that 9.3 million people are affected by the ongoing violence, with approximately 6.5 million people internally displaced. Every day of violence adds to this number. Enditem",
+ "tokens": [
+  "2013-12-18T23:41:36",
+  "EU",
+  "provides",
+  "147",
+  "mln",
+  "euro",
+  "to",
+  "Syrian",
+  "crisis",
+  "affected",
+  "EU",
+  "provides",
+  "147",
+  "mln",
+  "euro",
+  "to",
+  "Syrian",
+  "crisis",
+  "affected",
+  "BRUSSELS",
+  ",",
+  "Dec.",
+  "18",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "The",
+  "European",
+  "Union",
+  "on",
+  "Wednesday",
+  "signed",
+  "three",
+  "major",
+  "contracts",
+  "with",
+  "the",
+  "United",
+  "Nations",
+  "agencies",
+  "totalling",
+  "147",
+  "million",
+  "euros",
+  "(",
+  "201",
+  "million",
+  "U.S.",
+  "dollars",
+  ")",
+  "to",
+  "deliver",
+  "vital",
+  "aid",
+  "to",
+  "people",
+  "directly",
+  "affected",
+  "by",
+  "the",
+  "Syrian",
+  "crisis",
+  ".",
+  "Heads",
+  "of",
+  "the",
+  "UN",
+  "Refugee",
+  "Agency",
+  ",",
+  "the",
+  "UN",
+  "World",
+  "Food",
+  "Program",
+  "and",
+  "UNICEF",
+  ",",
+  "who",
+  "met",
+  "with",
+  "the",
+  "EU",
+  "Humanitarian",
+  "Aid",
+  "Commissioner",
+  "Kristalina",
+  "Georgieva",
+  "in",
+  "Brussels",
+  ",",
+  "participated",
+  "in",
+  "a",
+  "signing",
+  "ceremony",
+  "for",
+  "the",
+  "humanitarian",
+  "funding",
+  ".",
+  "\"",
+  "The",
+  "conflict",
+  "in",
+  "Syria",
+  "has",
+  "consumed",
+  "tens",
+  "of",
+  "thousands",
+  "of",
+  "lives",
+  ",",
+  "uprooted",
+  "millions",
+  "from",
+  "their",
+  "homes",
+  ",",
+  "destabilised",
+  "the",
+  "region",
+  "and",
+  "consigned",
+  "an",
+  "entire",
+  "generation",
+  "of",
+  "the",
+  "young",
+  "to",
+  "an",
+  "uncertain",
+  "future",
+  ",",
+  "\"",
+  "said",
+  "European",
+  "Commission",
+  "President",
+  "Jose",
+  "Manuel",
+  "Barroso",
+  ".",
+  "\"",
+  "It",
+  "is",
+  "right",
+  "that",
+  "we",
+  "stand",
+  "up",
+  "for",
+  "the",
+  "victims",
+  "of",
+  "this",
+  "catastrophe",
+  ",",
+  "which",
+  "is",
+  "why",
+  "I",
+  "am",
+  "proud",
+  "that",
+  "today",
+  "we",
+  "are",
+  "signing",
+  "some",
+  "of",
+  "the",
+  "largest",
+  "humanitarian",
+  "contracts",
+  "ever",
+  "concluded",
+  "with",
+  "trusted",
+  "humanitarian",
+  "partners",
+  ",",
+  "\"",
+  "he",
+  "said",
+  ".",
+  "\"",
+  "I",
+  "urge",
+  "the",
+  "international",
+  "community",
+  "to",
+  "follow",
+  "suit",
+  "and",
+  "replicate",
+  "our",
+  "gesture",
+  "of",
+  "solidarity",
+  ",",
+  "\"",
+  "he",
+  "added",
+  ".",
+  "Georgieva",
+  "said",
+  "the",
+  "contracts",
+  "would",
+  "help",
+  "\"",
+  "to",
+  "reach",
+  "even",
+  "more",
+  "vulnerable",
+  "Syrians",
+  "and",
+  "those",
+  "in",
+  "the",
+  "host",
+  "communities",
+  "beyond",
+  "Syria",
+  "'s",
+  "borders",
+  "who",
+  "are",
+  "struggling",
+  "under",
+  "the",
+  "burden",
+  "of",
+  "their",
+  "generous",
+  "hospitality",
+  ".",
+  "\"",
+  "In",
+  "Syria",
+  ",",
+  "the",
+  "humanitarian",
+  "situation",
+  "continues",
+  "to",
+  "deteriorate",
+  "dramatically",
+  "as",
+  "violence",
+  "has",
+  "intensified",
+  "and",
+  "fighting",
+  "continues",
+  "to",
+  "spread",
+  "throughout",
+  "the",
+  "country",
+  ".",
+  "The",
+  "United",
+  "Nations",
+  "estimates",
+  "that",
+  "9.3",
+  "million",
+  "people",
+  "are",
+  "affected",
+  "by",
+  "the",
+  "ongoing",
+  "violence",
+  ",",
+  "with",
+  "approximately",
+  "6.5",
+  "million",
+  "people",
+  "internally",
+  "displaced",
+  ".",
+  "Every",
+  "day",
+  "of",
+  "violence",
+  "adds",
+  "to",
+  "this",
+  "number",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   64,
+   102,
+   146,
+   189,
+   209,
+   244,
+   267,
+   290,
+   299,
+   300
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "European_Commission",
+       "score": 1.0,
+       "start": 139,
+       "end": 141,
+       "tokens": "European Commission"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Brussels",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "BRUSSELS"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "Syria"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 67,
+       "end": 70,
+       "tokens": "UN Refugee Agency"
+      },
+      {
+       "label": "European_Union",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "EU"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "UN"
+      },
+      {
+       "label": "UNICEF",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "UNICEF"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 38,
+       "end": 40,
+       "tokens": "United Nations"
+      },
+      {
+       "label": "Europe",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "European"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "UN"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "Kristalina_Georgieva",
+       "score": 1.0,
+       "start": 87,
+       "end": 89,
+       "tokens": "Kristalina Georgieva"
+      },
+      {
+       "label": "Kristalina_Georgieva",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Georgieva"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "Syria"
+      },
+      {
+       "label": "European_Union",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "EU"
+      },
+      {
+       "label": "World_Food_Programme",
+       "score": 1.0,
+       "start": 73,
+       "end": 76,
+       "tokens": "World Food Program"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "Jos\u00e9_Manuel_Barroso",
+       "score": 1.0,
+       "start": 142,
+       "end": 145,
+       "tokens": "Jose Manuel Barroso"
+      },
+      {
+       "label": "Brussels",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "Brussels"
+      },
+      {
+       "label": "United_Nations",
+       "score": 1.0,
+       "start": 268,
+       "end": 270,
+       "tokens": "United Nations"
+      },
+      {
+       "label": "European_Union",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "European"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Syrians"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Syria"
+      },
+      {
+       "label": "European_Union",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "EU"
+      },
+      {
+       "label": "European_Union",
+       "score": 1.0,
+       "start": 28,
+       "end": 30,
+       "tokens": "European Union"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 139,
+       "end": 141,
+       "tokens": "European Commission"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "BRUSSELS"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "Syria"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 67,
+       "end": 70,
+       "tokens": "UN Refugee Agency"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "EU"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "UN"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "UNICEF"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 38,
+       "end": 40,
+       "tokens": "United Nations"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "European"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "UN"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 87,
+       "end": 89,
+       "tokens": "Kristalina Georgieva"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Georgieva"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "Syria"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "EU"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 73,
+       "end": 76,
+       "tokens": "World Food Program"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 142,
+       "end": 145,
+       "tokens": "Jose Manuel Barroso"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "Brussels"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 268,
+       "end": 270,
+       "tokens": "United Nations"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "European"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "U.S."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Syrians"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Syria"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "EU"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 28,
+       "end": 30,
+       "tokens": "European Union"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-12-18T23:41:36",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-12-18T23:41:36"
+      },
+      {
+       "label": "EU",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "EU"
+      },
+      {
+       "label": "provides",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "provides"
+      },
+      {
+       "label": "147",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "147"
+      },
+      {
+       "label": "mln",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "mln"
+      },
+      {
+       "label": "euro",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "euro"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "to"
+      },
+      {
+       "label": "Syrian",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "crisis",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "crisis"
+      },
+      {
+       "label": "affected",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "affected"
+      },
+      {
+       "label": "EU",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "EU"
+      },
+      {
+       "label": "provides",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "provides"
+      },
+      {
+       "label": "147",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "147"
+      },
+      {
+       "label": "mln",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "mln"
+      },
+      {
+       "label": "euro",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "euro"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "to"
+      },
+      {
+       "label": "Syrian",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "crisis",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "crisis"
+      },
+      {
+       "label": "affected",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "affected"
+      },
+      {
+       "label": "BRUSSELS",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "BRUSSELS"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": ","
+      },
+      {
+       "label": "Dec.",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Dec."
+      },
+      {
+       "label": "18",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "18"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "--"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "The"
+      },
+      {
+       "label": "European",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "European"
+      },
+      {
+       "label": "Union",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Union"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "on"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "signed",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "signed"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "three"
+      },
+      {
+       "label": "major",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "major"
+      },
+      {
+       "label": "contracts",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "contracts"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "United"
+      },
+      {
+       "label": "Nations",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Nations"
+      },
+      {
+       "label": "agencies",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "agencies"
+      },
+      {
+       "label": "totalling",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "totalling"
+      },
+      {
+       "label": "147",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "147"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "million"
+      },
+      {
+       "label": "euros",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "euros"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "("
+      },
+      {
+       "label": "201",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "201"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "million"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "U.S."
+      },
+      {
+       "label": "dollars",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "dollars"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": ")"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "to"
+      },
+      {
+       "label": "deliver",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "deliver"
+      },
+      {
+       "label": "vital",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "vital"
+      },
+      {
+       "label": "aid",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "aid"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "to"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "people"
+      },
+      {
+       "label": "directly",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "directly"
+      },
+      {
+       "label": "affected",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "affected"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "the"
+      },
+      {
+       "label": "Syrian",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "Syrian"
+      },
+      {
+       "label": "crisis",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "crisis"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "."
+      },
+      {
+       "label": "Heads",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Heads"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "the"
+      },
+      {
+       "label": "UN",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "UN"
+      },
+      {
+       "label": "Refugee",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Refugee"
+      },
+      {
+       "label": "Agency",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "Agency"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "the"
+      },
+      {
+       "label": "UN",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "UN"
+      },
+      {
+       "label": "World",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "World"
+      },
+      {
+       "label": "Food",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Food"
+      },
+      {
+       "label": "Program",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "Program"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "and"
+      },
+      {
+       "label": "UNICEF",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "UNICEF"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "who"
+      },
+      {
+       "label": "met",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "met"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "the"
+      },
+      {
+       "label": "EU",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "EU"
+      },
+      {
+       "label": "Humanitarian",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "Humanitarian"
+      },
+      {
+       "label": "Aid",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Aid"
+      },
+      {
+       "label": "Commissioner",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "Commissioner"
+      },
+      {
+       "label": "Kristalina",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Kristalina"
+      },
+      {
+       "label": "Georgieva",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Georgieva"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "in"
+      },
+      {
+       "label": "Brussels",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "Brussels"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": ","
+      },
+      {
+       "label": "participated",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "participated"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "a"
+      },
+      {
+       "label": "signing",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "signing"
+      },
+      {
+       "label": "ceremony",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "ceremony"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "the"
+      },
+      {
+       "label": "humanitarian",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "humanitarian"
+      },
+      {
+       "label": "funding",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "funding"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "\""
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "The"
+      },
+      {
+       "label": "conflict",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "conflict"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "in"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "Syria"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "has"
+      },
+      {
+       "label": "consumed",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "consumed"
+      },
+      {
+       "label": "tens",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "tens"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "of"
+      },
+      {
+       "label": "thousands",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "thousands"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "of"
+      },
+      {
+       "label": "lives",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "lives"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": ","
+      },
+      {
+       "label": "uprooted",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "uprooted"
+      },
+      {
+       "label": "millions",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "millions"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "from"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "their"
+      },
+      {
+       "label": "homes",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "homes"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": ","
+      },
+      {
+       "label": "destabilised",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "destabilised"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "the"
+      },
+      {
+       "label": "region",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "region"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "and"
+      },
+      {
+       "label": "consigned",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "consigned"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "an"
+      },
+      {
+       "label": "entire",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "entire"
+      },
+      {
+       "label": "generation",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "generation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "the"
+      },
+      {
+       "label": "young",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "young"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "to"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "an"
+      },
+      {
+       "label": "uncertain",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "uncertain"
+      },
+      {
+       "label": "future",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "future"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "\""
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "said"
+      },
+      {
+       "label": "European",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "European"
+      },
+      {
+       "label": "Commission",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "Commission"
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "President"
+      },
+      {
+       "label": "Jose",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "Jose"
+      },
+      {
+       "label": "Manuel",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "Manuel"
+      },
+      {
+       "label": "Barroso",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "Barroso"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "\""
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "is"
+      },
+      {
+       "label": "right",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "right"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "we"
+      },
+      {
+       "label": "stand",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "stand"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "up"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "the"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "victims"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "of"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "this"
+      },
+      {
+       "label": "catastrophe",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "catastrophe"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "which"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "is"
+      },
+      {
+       "label": "why",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "why"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "I"
+      },
+      {
+       "label": "am",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "am"
+      },
+      {
+       "label": "proud",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "proud"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "that"
+      },
+      {
+       "label": "today",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "today"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "we"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "are"
+      },
+      {
+       "label": "signing",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "signing"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "the"
+      },
+      {
+       "label": "largest",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "largest"
+      },
+      {
+       "label": "humanitarian",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "humanitarian"
+      },
+      {
+       "label": "contracts",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "contracts"
+      },
+      {
+       "label": "ever",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "ever"
+      },
+      {
+       "label": "concluded",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "concluded"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "with"
+      },
+      {
+       "label": "trusted",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "trusted"
+      },
+      {
+       "label": "humanitarian",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "humanitarian"
+      },
+      {
+       "label": "partners",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "partners"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "\""
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "\""
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "I"
+      },
+      {
+       "label": "urge",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "urge"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "the"
+      },
+      {
+       "label": "international",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "international"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "community"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "to"
+      },
+      {
+       "label": "follow",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "follow"
+      },
+      {
+       "label": "suit",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "suit"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "and"
+      },
+      {
+       "label": "replicate",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "replicate"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "our"
+      },
+      {
+       "label": "gesture",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "gesture"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "of"
+      },
+      {
+       "label": "solidarity",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "solidarity"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "\""
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "he"
+      },
+      {
+       "label": "added",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "added"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "."
+      },
+      {
+       "label": "Georgieva",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Georgieva"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "the"
+      },
+      {
+       "label": "contracts",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "contracts"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "would"
+      },
+      {
+       "label": "help",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "help"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "\""
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "to"
+      },
+      {
+       "label": "reach",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "reach"
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "even"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "more"
+      },
+      {
+       "label": "vulnerable",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "vulnerable"
+      },
+      {
+       "label": "Syrians",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Syrians"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "and"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "those"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "the"
+      },
+      {
+       "label": "host",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "host"
+      },
+      {
+       "label": "communities",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "communities"
+      },
+      {
+       "label": "beyond",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "beyond"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Syria"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "'s"
+      },
+      {
+       "label": "borders",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "borders"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "who"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "are"
+      },
+      {
+       "label": "struggling",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "struggling"
+      },
+      {
+       "label": "under",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "under"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "the"
+      },
+      {
+       "label": "burden",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "burden"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "of"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "their"
+      },
+      {
+       "label": "generous",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "generous"
+      },
+      {
+       "label": "hospitality",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "hospitality"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "\""
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "In"
+      },
+      {
+       "label": "Syria",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "Syria"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "the"
+      },
+      {
+       "label": "humanitarian",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "humanitarian"
+      },
+      {
+       "label": "situation",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "situation"
+      },
+      {
+       "label": "continues",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "continues"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "to"
+      },
+      {
+       "label": "deteriorate",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "deteriorate"
+      },
+      {
+       "label": "dramatically",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "dramatically"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "as"
+      },
+      {
+       "label": "violence",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "violence"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "has"
+      },
+      {
+       "label": "intensified",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "intensified"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "and"
+      },
+      {
+       "label": "fighting",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "fighting"
+      },
+      {
+       "label": "continues",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "continues"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "to"
+      },
+      {
+       "label": "spread",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "spread"
+      },
+      {
+       "label": "throughout",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "throughout"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "country"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "The"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "United"
+      },
+      {
+       "label": "Nations",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "Nations"
+      },
+      {
+       "label": "estimates",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "estimates"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "that"
+      },
+      {
+       "label": "9.3",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "9.3"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "million"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "people"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "are"
+      },
+      {
+       "label": "affected",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "affected"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "the"
+      },
+      {
+       "label": "ongoing",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "ongoing"
+      },
+      {
+       "label": "violence",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "violence"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "with"
+      },
+      {
+       "label": "approximately",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "approximately"
+      },
+      {
+       "label": "6.5",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "6.5"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "million"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "people"
+      },
+      {
+       "label": "internally",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "internally"
+      },
+      {
+       "label": "displaced",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "displaced"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "."
+      },
+      {
+       "label": "Every",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "Every"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "day"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "of"
+      },
+      {
+       "label": "violence",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "violence"
+      },
+      {
+       "label": "adds",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "adds"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "to"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "this"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "number"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "European_Commission",
+       "score": 0.9953336603532282,
+       "start": 139,
+       "end": 141,
+       "tokens": "European Commission",
+       "labelScoreMap": {
+        "European_Commission": 0.9953336603532282,
+        "President_of_the_European_Commission": 0.002960408878009288,
+        "Nick_Clegg": 0.0017059307687624,
+        "<unk_wid>": 1.9275011401843654e-36
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816672310967278,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816672310967278,
+        "Xinhua_District,_Tainan": 0.016981917758333034,
+        "Xinhua_County": 0.0013508511449393274,
+        "<unk_wid>": 4.750619081071171e-31
+       }
+      },
+      {
+       "label": "Brussels",
+       "score": 0.7833701373396006,
+       "start": 19,
+       "end": 20,
+       "tokens": "BRUSSELS",
+       "labelScoreMap": {
+        "Brussels": 0.7833701373396006,
+        "City_of_Brussels": 0.03133921966865153,
+        "Brussels,_Wisconsin": 0.005336847198980306,
+        "RWDM_Brussels_FC": 0.00404934576860401,
+        "Brussels_Airport": 0.0027436341824026013,
+        "Brussels,_Illinois": 0.0019984165044292144,
+        "European_Union": 0.16539608690410126,
+        "Brussels-Halle-Vilvoorde": 0.0016457605772923244,
+        "Brussels-South_railway_station": 0.0015758870999366477,
+        "Brussels,_Ontario": 0.0013401340088656408,
+        "Brussels_International_Fantastic_Film_Festival": 0.0012045307471361371,
+        "<unk_wid>": 3.699311559344921e-24
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.67203065745576,
+       "start": 61,
+       "end": 62,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "Syria": 0.67203065745576,
+        "Syrian_people": 0.19747646029856314,
+        "Syrian_Desert": 0.01434243696575011,
+        "Roman_Syria": 0.015903527209170924,
+        "Syrian_Jews": 0.008295324381043032,
+        "Chaldean_Christians": 0.0052883116625055725,
+        "Syriac_Orthodox_Church": 0.005129898020045314,
+        "Syrian_Americans": 0.004773027851150937,
+        "Golden_hamster": 0.003682202748618992,
+        "Greater_Syria": 0.003966061646098718,
+        "Syrian_Arab_Air_Force": 0.002746399845356786,
+        "Seleucid_Empire": 0.054247155332331785,
+        "Gnosticism": 0.0023734461363220504,
+        "Syriac_Catholic_Church": 0.002174699178911553,
+        "Syrian_Armed_Forces": 0.003666612013863287,
+        "Syriac_Christianity": 0.001778341363827929,
+        "Syriac_language": 0.0011812784818666764,
+        "Peganum_harmala": 0.0009441594088132813,
+        "<unk_wid>": 6.076973249663834e-29
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8844916393484672,
+       "start": 106,
+       "end": 107,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "Syria": 0.8844916393484672,
+        "Roman_Syria": 0.04951384902390882,
+        "Syria_national_football_team": 0.028595342732273914,
+        "Syriac_language": 0.005088505509145937,
+        "Syrian_Communist_Party": 0.004421346506370617,
+        "Greater_Syria": 0.0041178165445665904,
+        "Syrian_Arab_Federation_for_Football": 0.003955940420032636,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.0028099956112310046,
+        "Syrian_Armed_Forces": 0.0027303888640215945,
+        "Armenians_in_Syria": 0.002311531393153751,
+        "Syriac_Christianity": 0.0019236699049409198,
+        "Syrian_Turkmen": 0.0016909664528040565,
+        "Ottoman_Syria": 0.0016006113062357566,
+        "Syrian_Premier_League": 0.001504808488378938,
+        "Mongol_invasions_of_the_Levant": 0.0014738044839896116,
+        "United_States_Ambassador_to_Syria": 0.0013651843982875641,
+        "Maher_Arar": 0.0012410828969010345,
+        "People's_Council_of_Syria": 0.0011635161152901087,
+        "<unk_wid>": 9.917006091229715e-45
+       }
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 0.995615329400239,
+       "start": 67,
+       "end": 70,
+       "tokens": "UN Refugee Agency",
+       "labelScoreMap": {
+        "United_Nations_High_Commissioner_for_Refugees": 0.995615329400239,
+        "United_Nations_Relief_and_Rehabilitation_Administration": 0.004384670599760993,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.7663413388984038,
+       "start": 83,
+       "end": 84,
+       "tokens": "EU",
+       "labelScoreMap": {
+        "European_Union": 0.7663413388984038,
+        "Europe": 0.14564411643213826,
+        "Europium": 0.06174211857067679,
+        "Eu,_Seine-Maritime": 0.012144366174600683,
+        "New_Testament": 0.003203493548550393,
+        "International_Federation_of_the_Phonographic_Industry": 0.0031151615604412142,
+        "Experience_Unlimited": 0.002661569246740033,
+        "E.U._(TV_series)": 0.002008128912842508,
+        "Basque_language": 0.0016415712036849683,
+        "Houston_Center": 0.0014981354519214174,
+        "<unk_wid>": 1.3402981111336793e-34
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9593390916000596,
+       "start": 67,
+       "end": 68,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "United_Nations": 0.9593390916000596,
+        "Flour": 0.020366590479905494,
+        "National_Unity_(Peru)": 0.008762918790749852,
+        "United_States_Ambassador_to_the_United_Nations": 0.002383300799820975,
+        "Civic_Center,_San_Francisco": 0.0021666508887824647,
+        "Paolo_Borsellino": 0.0020222129238561403,
+        "University_of_Natal": 0.0017814713499450423,
+        "Place_de_la_Concorde": 0.0017333253633054792,
+        "Srebrenica_massacre": 0.0014444378035749683,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "UNICEF",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "UNICEF",
+       "labelScoreMap": {
+        "UNICEF": 1.0,
+        "<unk_wid>": 1.1780405101319657e-38
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9937519055437314,
+       "start": 38,
+       "end": 40,
+       "tokens": "United Nations",
+       "labelScoreMap": {
+        "United_Nations": 0.9937519055437314,
+        "United_Nations_(band)": 0.006248094456268667,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.49157502869383307,
+       "start": 28,
+       "end": 29,
+       "tokens": "European",
+       "labelScoreMap": {
+        "Europe": 0.4514614797587789,
+        "European_Union": 0.49157502869383307,
+        "UEFA": 0.010826565497963122,
+        "European_Americans": 0.008610843605091676,
+        "European_Athletics_Championships": 0.003786436810775415,
+        "WWE_European_Championship": 0.0034498620310351802,
+        "United_States_European_Command": 0.003059597400971312,
+        "European_theatre_of_World_War_II": 0.002757518093189355,
+        "European_Portuguese": 0.0023419815052969054,
+        "European_theatre_of_World_War_I": 0.0020334560321476096,
+        "European_New_Zealanders": 0.0018656065889076973,
+        "European_Parliament_election,_2004_(Ireland)": 0.0018371192815807937,
+        "European_Poker_Tour": 0.001696883949023766,
+        "European_Aviation_Air_Charter": 0.0015987119312397236,
+        "UEFA_Champions_League": 0.0014867488044459638,
+        "European_Figure_Skating_Championships": 0.0014653982945873542,
+        "European_microstates": 0.0011499515820293596,
+        "Ottoman_wars_in_Europe": 0.001065816194253992,
+        "PGA_European_Tour": 0.0010542066102532462,
+        "White_people": 0.0009680916704111268,
+        "European_Space_Agency": 0.0009396136754450334,
+        "UEFA_Europa_League": 0.0008835119012260609,
+        "Atlantic_Ocean": 0.0010704521400528592,
+        "Caucasian_race": 0.0007713089130590572,
+        "Walt_Disney": 0.0007572853692266901,
+        "Tocharian_languages": 0.0007572853658453847,
+        "European_Grand_Prix": 0.0007292382993293804,
+        "<unk_wid>": 3.265601689775917e-36
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9594523405898159,
+       "start": 72,
+       "end": 73,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "United_Nations": 0.9594523405898159,
+        "Flour": 0.020368888899157802,
+        "National_Unity_(Peru)": 0.008763907714790775,
+        "United_States_Ambassador_to_the_United_Nations": 0.00226573207459773,
+        "Civic_Center,_San_Francisco": 0.0021668954012407787,
+        "Paolo_Borsellino": 0.002022441135501141,
+        "University_of_Natal": 0.0017816723933188176,
+        "Place_de_la_Concorde": 0.0017335209732884623,
+        "Srebrenica_massacre": 0.0014446008182884462,
+        "<unk_wid>": 8.066892412119886e-45
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.707395215877872,
+       "start": 16,
+       "end": 17,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "Syria": 0.707395215877872,
+        "Syrian_people": 0.2016852111203492,
+        "Syrian_Desert": 0.014554781663883649,
+        "Roman_Syria": 0.013366864204357636,
+        "Syrian_Jews": 0.007921263339489486,
+        "Chaldean_Christians": 0.005432196643750953,
+        "Syriac_Orthodox_Church": 0.0052489123115512,
+        "Syrian_Americans": 0.004683391060780902,
+        "Golden_hamster": 0.0037827507919815664,
+        "Greater_Syria": 0.0031735492575911055,
+        "Syrian_Arab_Air_Force": 0.002815063544337069,
+        "Seleucid_Empire": 0.01917988941629419,
+        "Gnosticism": 0.002434947101007457,
+        "Syriac_Catholic_Church": 0.0022321267281955647,
+        "Syrian_Armed_Forces": 0.0021639111685908988,
+        "Syriac_Christianity": 0.0017824444183074093,
+        "Syriac_language": 0.0011775394767148107,
+        "Peganum_harmala": 0.0009699418749451935,
+        "<unk_wid>": 3.3249516170713625e-32
+       }
+      },
+      {
+       "label": "Kristalina_Georgieva",
+       "score": 1.0,
+       "start": 87,
+       "end": 89,
+       "tokens": "Kristalina Georgieva",
+       "labelScoreMap": {
+        "Kristalina_Georgieva": 1.0,
+        "<unk_wid>": 2.2204766671778626e-30
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 209,
+       "end": 210,
+       "tokens": "Georgieva",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8849027303682382,
+       "start": 245,
+       "end": 246,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "Syria": 0.8849027303682382,
+        "Roman_Syria": 0.049143756403641,
+        "Syria_national_football_team": 0.028589808571672624,
+        "Syriac_language": 0.005090434821255878,
+        "Syrian_Communist_Party": 0.0044230908097711704,
+        "Greater_Syria": 0.004112937874737115,
+        "Syrian_Arab_Federation_for_Football": 0.00395750111207919,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.002778675537799048,
+        "Syrian_Armed_Forces": 0.0027314573129879347,
+        "Armenians_in_Syria": 0.002312419873565656,
+        "Syriac_Christianity": 0.0019244283694431986,
+        "Syrian_Turkmen": 0.0016916335136970262,
+        "Ottoman_Syria": 0.0015900860785290636,
+        "Syrian_Premier_League": 0.0015054021619014199,
+        "Mongol_invasions_of_the_Levant": 0.001474367429254238,
+        "United_States_Ambassador_to_Syria": 0.001365722988914889,
+        "Maher_Arar": 0.0012415725271786172,
+        "People's_Council_of_Syria": 0.001163974245333384,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.7574670417344745,
+       "start": 10,
+       "end": 11,
+       "tokens": "EU",
+       "labelScoreMap": {
+        "European_Union": 0.7574670417344745,
+        "Europe": 0.1547582274677384,
+        "Europium": 0.061340196020471596,
+        "Eu,_Seine-Maritime": 0.01206531813350898,
+        "New_Testament": 0.0031829358473397223,
+        "International_Federation_of_the_Phonographic_Industry": 0.0034276436571424474,
+        "Experience_Unlimited": 0.0026442432346086395,
+        "E.U._(TV_series)": 0.001995056599256691,
+        "Basque_language": 0.0016309542629140623,
+        "Houston_Center": 0.0014883830425450012,
+        "<unk_wid>": 1.6978801649367322e-29
+       }
+      },
+      {
+       "label": "World_Food_Programme",
+       "score": 1.0,
+       "start": 73,
+       "end": 76,
+       "tokens": "World Food Program",
+       "labelScoreMap": {
+        "World_Food_Programme": 1.0,
+        "<unk_wid>": 2.7500482362374535e-41
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.6843888741913791,
+       "start": 7,
+       "end": 8,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "Syria": 0.6843888741913791,
+        "Syrian_people": 0.19971861955386694,
+        "Syrian_Desert": 0.014368637459331625,
+        "Roman_Syria": 0.014907112406383758,
+        "Syrian_Jews": 0.009042764443971717,
+        "Chaldean_Christians": 0.005339687272260937,
+        "Syriac_Orthodox_Church": 0.005168958162421612,
+        "Syrian_Americans": 0.004841668943947138,
+        "Golden_hamster": 0.0037178492065295964,
+        "Greater_Syria": 0.0038748991599755755,
+        "Syrian_Arab_Air_Force": 0.002769030324937239,
+        "Seleucid_Empire": 0.04028356833234661,
+        "Gnosticism": 0.002409431590426408,
+        "Syriac_Catholic_Church": 0.002195922907004332,
+        "Syrian_Armed_Forces": 0.002811701236700416,
+        "Syriac_Christianity": 0.0018707788982563894,
+        "Syriac_language": 0.0013371920900938786,
+        "Peganum_harmala": 0.0009533038201668821,
+        "<unk_wid>": 4.907553207469474e-29
+       }
+      },
+      {
+       "label": "Jos\u00e9_Manuel_Barroso",
+       "score": 1.0,
+       "start": 142,
+       "end": 145,
+       "tokens": "Jose Manuel Barroso",
+       "labelScoreMap": {
+        "Jos\u00e9_Manuel_Barroso": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Brussels",
+       "score": 0.9366558644489141,
+       "start": 90,
+       "end": 91,
+       "tokens": "Brussels",
+       "labelScoreMap": {
+        "Brussels": 0.9366558644489141,
+        "City_of_Brussels": 0.037461418525484014,
+        "Brussels,_Wisconsin": 0.006293562222663738,
+        "RWDM_Brussels_FC": 0.004768691531054778,
+        "Brussels_Airport": 0.0035329513073609525,
+        "Brussels,_Illinois": 0.002356618925336515,
+        "European_Union": 0.002134977978321243,
+        "Brussels-Halle-Vilvoorde": 0.0019407461458654813,
+        "Brussels-South_railway_station": 0.0018608731237484025,
+        "Brussels,_Ontario": 0.0015803243719907177,
+        "Brussels_International_Fantastic_Film_Festival": 0.0014139714192599657,
+        "<unk_wid>": 7.575956783978987e-36
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9937519055437314,
+       "start": 268,
+       "end": 270,
+       "tokens": "United Nations",
+       "labelScoreMap": {
+        "United_Nations": 0.9937519055437314,
+        "United_Nations_(band)": 0.006248094456268667,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.49696582944453266,
+       "start": 139,
+       "end": 140,
+       "tokens": "European",
+       "labelScoreMap": {
+        "Europe": 0.43843266512436757,
+        "European_Union": 0.49696582944453266,
+        "UEFA": 0.01062533424079955,
+        "European_Americans": 0.008445779873383269,
+        "European_Athletics_Championships": 0.003711042208084924,
+        "WWE_European_Championship": 0.00338116527897678,
+        "United_States_European_Command": 0.0032710839594476803,
+        "European_theatre_of_World_War_II": 0.0027098530668288397,
+        "European_Portuguese": 0.0022953459521372235,
+        "European_theatre_of_World_War_I": 0.0019929640011351443,
+        "European_New_Zealanders": 0.0018281047503552143,
+        "European_Parliament_election,_2004_(Ireland)": 0.0018005368870447536,
+        "European_Poker_Tour": 0.0016630940505850229,
+        "European_Aviation_Air_Charter": 0.0015668769212003957,
+        "UEFA_Champions_League": 0.0014586203643594294,
+        "European_Figure_Skating_Championships": 0.0014321937617493858,
+        "European_microstates": 0.0011270526973478903,
+        "Ottoman_wars_in_Europe": 0.0010448056282863427,
+        "PGA_European_Tour": 0.001037321352316508,
+        "White_people": 0.0009486244866120942,
+        "European_Space_Agency": 0.001057618219097152,
+        "UEFA_Europa_League": 0.0008659813982178583,
+        "Atlantic_Ocean": 0.009382963113678923,
+        "Caucasian_race": 0.0007559504878381509,
+        "Walt_Disney": 0.0007422700628175847,
+        "Tocharian_languages": 0.0007422056089775207,
+        "European_Grand_Prix": 0.0007147170598223021,
+        "<unk_wid>": 1.0493967257158478e-29
+       }
+      },
+      {
+       "label": "United_States_dollar",
+       "score": 0.49141198839299716,
+       "start": 48,
+       "end": 49,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.44948919002538545,
+        "United_States_dollar": 0.49141198839299716,
+        "Billboard_Hot_100": 0.021975929659508606,
+        "American_English": 0.013521951163540163,
+        "Recording_Industry_Association_of_America": 0.00907281170321621,
+        "Us_(Peter_Gabriel_album)": 0.001786234509761782,
+        "Federal_government_of_the_United_States": 0.0023433526958214776,
+        "United_States_men's_national_soccer_team": 0.0010925805760915303,
+        "United_States_Armed_Forces": 0.0010854224759975174,
+        "U.S._state": 0.0030274184021691995,
+        "Billboard_charts": 0.0009838810703268485,
+        "United_States_Congress": 0.004209239325184102,
+        "<unk_wid>": 1.9444310504551904e-43
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.6922108850288656,
+       "start": 221,
+       "end": 222,
+       "tokens": "Syrians",
+       "labelScoreMap": {
+        "Syria": 0.6922108850288656,
+        "Syrian_people": 0.19468859290548435,
+        "Chaldean_Christians": 0.013883090900633797,
+        "Syriac_Orthodox_Church": 0.026846445264024105,
+        "Operation_Orchard": 0.008209006428755643,
+        "Golden_hamster": 0.008206743064586583,
+        "Syriac_Christianity": 0.010046505388245443,
+        "Pope": 0.010611632773429688,
+        "Syriac_Catholic_Church": 0.005496654731604425,
+        "Greater_Syria": 0.004418268258226163,
+        "Roman_Syria": 0.004647841552525748,
+        "Syrian_Americans": 0.003386756552534368,
+        "Golan_Heights": 0.001552579826023799,
+        "Arab_Brazilians": 0.0013904169046601363,
+        "Assyrian_Church_of_the_East": 0.011484098790745788,
+        "Tel_al-Zaatar_massacre": 0.001373045898516371,
+        "Saint_Thomas_Christians": 0.0015474357311379972,
+        "<unk_wid>": 8.080726849736579e-45
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8851690809281235,
+       "start": 229,
+       "end": 230,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "Syria": 0.8851690809281235,
+        "Roman_Syria": 0.048861825864212005,
+        "Syria_national_football_team": 0.028596796290224023,
+        "Syriac_language": 0.005091728887466988,
+        "Syrian_Communist_Party": 0.004424219692456075,
+        "Greater_Syria": 0.004113990386911762,
+        "Syrian_Arab_Federation_for_Football": 0.003958511164703714,
+        "French_Mandate_for_Syria_and_the_Lebanon": 0.0027799167690231693,
+        "Syrian_Armed_Forces": 0.00273215443579928,
+        "Armenians_in_Syria": 0.0023130099801103887,
+        "Syriac_Christianity": 0.0019249195246471005,
+        "Syrian_Turkmen": 0.0016920652605587566,
+        "Ottoman_Syria": 0.0015890184601681785,
+        "Syrian_Premier_League": 0.0015057863779268685,
+        "Mongol_invasions_of_the_Levant": 0.0014747436952318276,
+        "United_States_Ambassador_to_Syria": 0.0013660715553587784,
+        "Maher_Arar": 0.001241889407339634,
+        "People's_Council_of_Syria": 0.0011642713197375595,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.7591609002625112,
+       "start": 1,
+       "end": 2,
+       "tokens": "EU",
+       "labelScoreMap": {
+        "European_Union": 0.7591609002625112,
+        "Europe": 0.1531645363362995,
+        "Europium": 0.06141765734612985,
+        "Eu,_Seine-Maritime": 0.012080547080740947,
+        "New_Testament": 0.0031866654263091785,
+        "International_Federation_of_the_Phonographic_Industry": 0.0032213176965568227,
+        "Experience_Unlimited": 0.0026475824248872438,
+        "E.U._(TV_series)": 0.0019975759867706454,
+        "Basque_language": 0.0016329548447468238,
+        "Houston_Center": 0.0014902625950479025,
+        "<unk_wid>": 3.3726444634904782e-31
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.9933073743994699,
+       "start": 28,
+       "end": 30,
+       "tokens": "European Union",
+       "labelScoreMap": {
+        "European_Union": 0.9933073743994699,
+        "Dietary_supplement": 0.002555467106689867,
+        "2007_enlargement_of_the_European_Union": 0.0017110957309831476,
+        "European_Parliament": 0.0013215182132624563,
+        "Council_of_the_European_Union": 0.0011045445495946242,
+        "<unk_wid>": 6.896309749194584e-39
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "European_Commission",
+       "score": 0.9953336603532282,
+       "start": 139,
+       "end": 141,
+       "tokens": "European Commission",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816672310967278,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016981917758333034,
+        "1788859|Xinhua_County": 0.0013508511449393274
+       }
+      },
+      {
+       "label": "Brussels",
+       "score": 0.7833701373396006,
+       "start": 19,
+       "end": 20,
+       "tokens": "BRUSSELS",
+       "labelScoreMap": {
+        "2800867|Brussels": 0.7833701373396006,
+        "3337389|City_of_Brussels": 0.03133921966865153,
+        "4833850|Brussels,_Wisconsin": 0.005336847198980306,
+        "6296486|Brussels_Airport": 0.0027436341824026013,
+        "4234671|Brussels,_Illinois": 0.0019984165044292144,
+        "6695072|European_Union": 0.16539608690410126,
+        "6948597|Brussels-South_railway_station": 0.0015758870999366477,
+        "5910322|Brussels,_Ontario": 0.0013401340088656408
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.67203065745576,
+       "start": 61,
+       "end": 62,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "163843|Syria": 0.67203065745576
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8844916393484672,
+       "start": 106,
+       "end": 107,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "163843|Syria": 0.8844916393484672
+       }
+      },
+      {
+       "label": "United_Nations_High_Commissioner_for_Refugees",
+       "score": 0.995615329400239,
+       "start": 67,
+       "end": 70,
+       "tokens": "UN Refugee Agency",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "European_Union",
+       "score": 0.7663413388984038,
+       "start": 83,
+       "end": 84,
+       "tokens": "EU",
+       "labelScoreMap": {
+        "6695072|European_Union": 0.7663413388984038,
+        "6255148|Europe": 0.14564411643213826,
+        "6454688|Eu,_Seine-Maritime": 0.012144366174600683
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9593390916000596,
+       "start": 67,
+       "end": 68,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.0021666508887824647,
+        "6452721|Place_de_la_Concorde": 0.0017333253633054792
+       }
+      },
+      {
+       "label": "UNICEF",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "UNICEF",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9937519055437314,
+       "start": 38,
+       "end": 40,
+       "tokens": "United Nations",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "European_Union",
+       "score": 0.49157502869383307,
+       "start": 28,
+       "end": 29,
+       "tokens": "European",
+       "labelScoreMap": {
+        "6255148|Europe": 0.4514614797587789,
+        "6695072|European_Union": 0.49157502869383307,
+        "3373405|Atlantic_Ocean": 0.0010704521400528592
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9594523405898159,
+       "start": 72,
+       "end": 73,
+       "tokens": "UN",
+       "labelScoreMap": {
+        "8449788|Civic_Center,_San_Francisco": 0.0021668954012407787,
+        "6452721|Place_de_la_Concorde": 0.0017335209732884623
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.707395215877872,
+       "start": 16,
+       "end": 17,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "163843|Syria": 0.707395215877872
+       }
+      },
+      {
+       "label": "Kristalina_Georgieva",
+       "score": 1.0,
+       "start": 87,
+       "end": 89,
+       "tokens": "Kristalina Georgieva",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 209,
+       "end": 210,
+       "tokens": "Georgieva",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Syria",
+       "score": 0.8849027303682382,
+       "start": 245,
+       "end": 246,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "163843|Syria": 0.8849027303682382
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.7574670417344745,
+       "start": 10,
+       "end": 11,
+       "tokens": "EU",
+       "labelScoreMap": {
+        "6695072|European_Union": 0.7574670417344745,
+        "6255148|Europe": 0.1547582274677384,
+        "6454688|Eu,_Seine-Maritime": 0.01206531813350898
+       }
+      },
+      {
+       "label": "World_Food_Programme",
+       "score": 1.0,
+       "start": 73,
+       "end": 76,
+       "tokens": "World Food Program",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Syria",
+       "score": 0.6843888741913791,
+       "start": 7,
+       "end": 8,
+       "tokens": "Syrian",
+       "labelScoreMap": {
+        "163843|Syria": 0.6843888741913791
+       }
+      },
+      {
+       "label": "Jos\u00e9_Manuel_Barroso",
+       "score": 1.0,
+       "start": 142,
+       "end": 145,
+       "tokens": "Jose Manuel Barroso",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Brussels",
+       "score": 0.9366558644489141,
+       "start": 90,
+       "end": 91,
+       "tokens": "Brussels",
+       "labelScoreMap": {
+        "2800867|Brussels": 0.9366558644489141,
+        "3337389|City_of_Brussels": 0.037461418525484014,
+        "4833850|Brussels,_Wisconsin": 0.006293562222663738,
+        "6296486|Brussels_Airport": 0.0035329513073609525,
+        "4234671|Brussels,_Illinois": 0.002356618925336515,
+        "6695072|European_Union": 0.002134977978321243,
+        "6948597|Brussels-South_railway_station": 0.0018608731237484025,
+        "5910322|Brussels,_Ontario": 0.0015803243719907177
+       }
+      },
+      {
+       "label": "United_Nations",
+       "score": 0.9937519055437314,
+       "start": 268,
+       "end": 270,
+       "tokens": "United Nations",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "European_Union",
+       "score": 0.49696582944453266,
+       "start": 139,
+       "end": 140,
+       "tokens": "European",
+       "labelScoreMap": {
+        "6255148|Europe": 0.43843266512436757,
+        "6695072|European_Union": 0.49696582944453266,
+        "3373405|Atlantic_Ocean": 0.009382963113678923
+       }
+      },
+      {
+       "label": "United_States_dollar",
+       "score": 0.49141198839299716,
+       "start": 48,
+       "end": 49,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.44948919002538545
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.6922108850288656,
+       "start": 221,
+       "end": 222,
+       "tokens": "Syrians",
+       "labelScoreMap": {
+        "163843|Syria": 0.6922108850288656
+       }
+      },
+      {
+       "label": "Syria",
+       "score": 0.8851690809281235,
+       "start": 229,
+       "end": 230,
+       "tokens": "Syria",
+       "labelScoreMap": {
+        "163843|Syria": 0.8851690809281235
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.7591609002625112,
+       "start": 1,
+       "end": 2,
+       "tokens": "EU",
+       "labelScoreMap": {
+        "6695072|European_Union": 0.7591609002625112,
+        "6255148|Europe": 0.1531645363362995,
+        "6454688|Eu,_Seine-Maritime": 0.012080547080740947
+       }
+      },
+      {
+       "label": "European_Union",
+       "score": 0.9933073743994699,
+       "start": 28,
+       "end": 30,
+       "tokens": "European Union",
+       "labelScoreMap": {
+        "6695072|European_Union": 0.9933073743994699
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

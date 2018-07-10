@@ -1,0 +1,8390 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130526.0005.xml",
+ "text": "THOUSANDS MARCH IN FRANCE AGAINST GAY MARRIAGE\nPARIS - Thousands of French marched Sunday, France\u2019s Mother\u2019s Day, to protest the recent legalization of gay marriage. Despite initial worries, the demonstration was largely peaceful, with the police estimating that about 150,000 people took part.\nSeparately, the French police said they were continuing to search for the man responsible for stabbing a uniformed soldier in the neck Saturday evening, an act that may have been inspired by the murder of a British soldier last week in retaliation for Western military intervention in Muslim countries.\nThe anti-gay marriage march occurred as a recent poll shows many French are losing patience with the protests against the \u201cmarriage for all\u201d law that passed May 18. The demonstrations have broadened to include those angry at the president for his overall leadership and some far-right protesters who have been violent.\nMarchers converged from three parts of Paris to the esplanade in front of the Invalides. There was a separate, smaller march by conservative Christians.\nIn general, the demonstrations against the law have been a combination of religious leaders and their followers, opposed to the gay marriage on religious grounds, and more conservative French, many of them Roman Catholic, who believe that gay couples should have equal rights, but within an institution other than marriage. Many also object to the new ability of gay married couples to adopt children, arguing that a child should be raised by a man and a woman.\nIn the prelude to the protest, on Saturday night, 59 people were arrested after chaining themselves to metal barricades on the Champs-\u00c9lys\u00e9es. On Sunday, 19 demonstrators were arrested after they climbed onto the headquarters of the Socialist Party and unfurled a banner demanding that President Fran\u00e7ois Hollande resign. Police officers also seized a van with masks, banners and smoke bombs, and near the end of Sunday\u2019s demonstration, they used tear gas to break up a gathering of some masked protesters believed to be rightists known as \u201cultras.\u201d\nAs an indication of the confusion around the focus of Sunday\u2019s march, the main opposition party, the center-right Union for a Popular Movement, or UMP, was split on whether to join. The party\u2019s president, Jean-Fran\u00e7ois Cop\u00e9, urged participation, while other party dignitaries, like former foreign minister, Alain Jupp\u00e9, urged people to remain at home.\nPrime Minister Jean-Marc Ayrault, a Socialist, accused the UMP of \"sparking tension and radicalization.''\nWith much advance publicity, the first gay marriage is supposed to take place Wednesday in Montpellier, sometimes called the San Francisco of France.\nThe case of the wounded soldier, Pfc. C\u00e9dric Cordier, 23, is being handled by France\u2019s anti-terrorism court, officials said Sunday. He was stabbed in the back of the neck with a box cutter or short knife as he patrolled with two colleagues through the transport station of La D\u00e9fense, a business area in a western suburb of Paris.\nDefense Minister Jean-Yves Le Drian visited the soldier in the hospital and said that he had been targeted because he was a soldier. Initial reports said the assailant was a man of North African appearance, about 30 years old, with a small beard. By the time the two soldiers patrolling in front could react, the man had disappeared into a crowd.\nCordier was in stable condition at a military hospital; the knife missed his jugular vein, doctors said.\nThe police suggested Sunday that the deed may have been inspired by the attack on a British soldier in a London street Wednesday. A spokesman for the police union UNSA, Christophe Cr\u00e9pin, said there were similarities with the London attack. \u201cI think this person wanted to imitate what happened in London,\u201d he told TELE television.\nBut Interior Minister Manuel Valls, who ordered the terrorism investigation, said it was too early to determine the motivation for the attack because the police had yet to arrest a suspect or gather enough evidence to offer credible theories about what inspired it.\nFrance has been on high alert for since its military intervention against Islamist rebels in Mali in January. That prompted threats against French interests from al-Qaida in the Islamic Maghreb.",
+ "tokens": [
+  "THOUSANDS",
+  "MARCH",
+  "IN",
+  "FRANCE",
+  "AGAINST",
+  "GAY",
+  "MARRIAGE",
+  "PARIS",
+  "-",
+  "Thousands",
+  "of",
+  "French",
+  "marched",
+  "Sunday",
+  ",",
+  "France",
+  "\u2019s",
+  "Mother",
+  "\u2019s",
+  "Day",
+  ",",
+  "to",
+  "protest",
+  "the",
+  "recent",
+  "legalization",
+  "of",
+  "gay",
+  "marriage",
+  ".",
+  "Despite",
+  "initial",
+  "worries",
+  ",",
+  "the",
+  "demonstration",
+  "was",
+  "largely",
+  "peaceful",
+  ",",
+  "with",
+  "the",
+  "police",
+  "estimating",
+  "that",
+  "about",
+  "150,000",
+  "people",
+  "took",
+  "part",
+  ".",
+  "Separately",
+  ",",
+  "the",
+  "French",
+  "police",
+  "said",
+  "they",
+  "were",
+  "continuing",
+  "to",
+  "search",
+  "for",
+  "the",
+  "man",
+  "responsible",
+  "for",
+  "stabbing",
+  "a",
+  "uniformed",
+  "soldier",
+  "in",
+  "the",
+  "neck",
+  "Saturday",
+  "evening",
+  ",",
+  "an",
+  "act",
+  "that",
+  "may",
+  "have",
+  "been",
+  "inspired",
+  "by",
+  "the",
+  "murder",
+  "of",
+  "a",
+  "British",
+  "soldier",
+  "last",
+  "week",
+  "in",
+  "retaliation",
+  "for",
+  "Western",
+  "military",
+  "intervention",
+  "in",
+  "Muslim",
+  "countries",
+  ".",
+  "The",
+  "anti",
+  "-",
+  "gay",
+  "marriage",
+  "march",
+  "occurred",
+  "as",
+  "a",
+  "recent",
+  "poll",
+  "shows",
+  "many",
+  "French",
+  "are",
+  "losing",
+  "patience",
+  "with",
+  "the",
+  "protests",
+  "against",
+  "the",
+  "\u201c",
+  "marriage",
+  "for",
+  "all",
+  "\u201d",
+  "law",
+  "that",
+  "passed",
+  "May",
+  "18",
+  ".",
+  "The",
+  "demonstrations",
+  "have",
+  "broadened",
+  "to",
+  "include",
+  "those",
+  "angry",
+  "at",
+  "the",
+  "president",
+  "for",
+  "his",
+  "overall",
+  "leadership",
+  "and",
+  "some",
+  "far",
+  "-",
+  "right",
+  "protesters",
+  "who",
+  "have",
+  "been",
+  "violent",
+  ".",
+  "Marchers",
+  "converged",
+  "from",
+  "three",
+  "parts",
+  "of",
+  "Paris",
+  "to",
+  "the",
+  "esplanade",
+  "in",
+  "front",
+  "of",
+  "the",
+  "Invalides",
+  ".",
+  "There",
+  "was",
+  "a",
+  "separate",
+  ",",
+  "smaller",
+  "march",
+  "by",
+  "conservative",
+  "Christians",
+  ".",
+  "In",
+  "general",
+  ",",
+  "the",
+  "demonstrations",
+  "against",
+  "the",
+  "law",
+  "have",
+  "been",
+  "a",
+  "combination",
+  "of",
+  "religious",
+  "leaders",
+  "and",
+  "their",
+  "followers",
+  ",",
+  "opposed",
+  "to",
+  "the",
+  "gay",
+  "marriage",
+  "on",
+  "religious",
+  "grounds",
+  ",",
+  "and",
+  "more",
+  "conservative",
+  "French",
+  ",",
+  "many",
+  "of",
+  "them",
+  "Roman",
+  "Catholic",
+  ",",
+  "who",
+  "believe",
+  "that",
+  "gay",
+  "couples",
+  "should",
+  "have",
+  "equal",
+  "rights",
+  ",",
+  "but",
+  "within",
+  "an",
+  "institution",
+  "other",
+  "than",
+  "marriage",
+  ".",
+  "Many",
+  "also",
+  "object",
+  "to",
+  "the",
+  "new",
+  "ability",
+  "of",
+  "gay",
+  "married",
+  "couples",
+  "to",
+  "adopt",
+  "children",
+  ",",
+  "arguing",
+  "that",
+  "a",
+  "child",
+  "should",
+  "be",
+  "raised",
+  "by",
+  "a",
+  "man",
+  "and",
+  "a",
+  "woman",
+  ".",
+  "In",
+  "the",
+  "prelude",
+  "to",
+  "the",
+  "protest",
+  ",",
+  "on",
+  "Saturday",
+  "night",
+  ",",
+  "59",
+  "people",
+  "were",
+  "arrested",
+  "after",
+  "chaining",
+  "themselves",
+  "to",
+  "metal",
+  "barricades",
+  "on",
+  "the",
+  "Champs",
+  "-",
+  "\u00c9lys\u00e9es",
+  ".",
+  "On",
+  "Sunday",
+  ",",
+  "19",
+  "demonstrators",
+  "were",
+  "arrested",
+  "after",
+  "they",
+  "climbed",
+  "onto",
+  "the",
+  "headquarters",
+  "of",
+  "the",
+  "Socialist",
+  "Party",
+  "and",
+  "unfurled",
+  "a",
+  "banner",
+  "demanding",
+  "that",
+  "President",
+  "Fran\u00e7ois",
+  "Hollande",
+  "resign",
+  ".",
+  "Police",
+  "officers",
+  "also",
+  "seized",
+  "a",
+  "van",
+  "with",
+  "masks",
+  ",",
+  "banners",
+  "and",
+  "smoke",
+  "bombs",
+  ",",
+  "and",
+  "near",
+  "the",
+  "end",
+  "of",
+  "Sunday",
+  "\u2019s",
+  "demonstration",
+  ",",
+  "they",
+  "used",
+  "tear",
+  "gas",
+  "to",
+  "break",
+  "up",
+  "a",
+  "gathering",
+  "of",
+  "some",
+  "masked",
+  "protesters",
+  "believed",
+  "to",
+  "be",
+  "rightists",
+  "known",
+  "as",
+  "\u201c",
+  "ultras",
+  ".",
+  "\u201d",
+  "As",
+  "an",
+  "indication",
+  "of",
+  "the",
+  "confusion",
+  "around",
+  "the",
+  "focus",
+  "of",
+  "Sunday",
+  "\u2019s",
+  "march",
+  ",",
+  "the",
+  "main",
+  "opposition",
+  "party",
+  ",",
+  "the",
+  "center",
+  "-",
+  "right",
+  "Union",
+  "for",
+  "a",
+  "Popular",
+  "Movement",
+  ",",
+  "or",
+  "UMP",
+  ",",
+  "was",
+  "split",
+  "on",
+  "whether",
+  "to",
+  "join",
+  ".",
+  "The",
+  "party",
+  "\u2019s",
+  "president",
+  ",",
+  "Jean",
+  "-",
+  "Fran\u00e7ois",
+  "Cop\u00e9",
+  ",",
+  "urged",
+  "participation",
+  ",",
+  "while",
+  "other",
+  "party",
+  "dignitaries",
+  ",",
+  "like",
+  "former",
+  "foreign",
+  "minister",
+  ",",
+  "Alain",
+  "Jupp\u00e9",
+  ",",
+  "urged",
+  "people",
+  "to",
+  "remain",
+  "at",
+  "home",
+  ".",
+  "Prime",
+  "Minister",
+  "Jean",
+  "-",
+  "Marc",
+  "Ayrault",
+  ",",
+  "a",
+  "Socialist",
+  ",",
+  "accused",
+  "the",
+  "UMP",
+  "of",
+  "\"",
+  "sparking",
+  "tension",
+  "and",
+  "radicalization",
+  ".",
+  "''",
+  "With",
+  "much",
+  "advance",
+  "publicity",
+  ",",
+  "the",
+  "first",
+  "gay",
+  "marriage",
+  "is",
+  "supposed",
+  "to",
+  "take",
+  "place",
+  "Wednesday",
+  "in",
+  "Montpellier",
+  ",",
+  "sometimes",
+  "called",
+  "the",
+  "San",
+  "Francisco",
+  "of",
+  "France",
+  ".",
+  "The",
+  "case",
+  "of",
+  "the",
+  "wounded",
+  "soldier",
+  ",",
+  "Pfc.",
+  "C\u00e9dric",
+  "Cordier",
+  ",",
+  "23",
+  ",",
+  "is",
+  "being",
+  "handled",
+  "by",
+  "France",
+  "\u2019s",
+  "anti",
+  "-",
+  "terrorism",
+  "court",
+  ",",
+  "officials",
+  "said",
+  "Sunday",
+  ".",
+  "He",
+  "was",
+  "stabbed",
+  "in",
+  "the",
+  "back",
+  "of",
+  "the",
+  "neck",
+  "with",
+  "a",
+  "box",
+  "cutter",
+  "or",
+  "short",
+  "knife",
+  "as",
+  "he",
+  "patrolled",
+  "with",
+  "two",
+  "colleagues",
+  "through",
+  "the",
+  "transport",
+  "station",
+  "of",
+  "La",
+  "D\u00e9fense",
+  ",",
+  "a",
+  "business",
+  "area",
+  "in",
+  "a",
+  "western",
+  "suburb",
+  "of",
+  "Paris",
+  ".",
+  "Defense",
+  "Minister",
+  "Jean",
+  "-",
+  "Yves",
+  "Le",
+  "Drian",
+  "visited",
+  "the",
+  "soldier",
+  "in",
+  "the",
+  "hospital",
+  "and",
+  "said",
+  "that",
+  "he",
+  "had",
+  "been",
+  "targeted",
+  "because",
+  "he",
+  "was",
+  "a",
+  "soldier",
+  ".",
+  "Initial",
+  "reports",
+  "said",
+  "the",
+  "assailant",
+  "was",
+  "a",
+  "man",
+  "of",
+  "North",
+  "African",
+  "appearance",
+  ",",
+  "about",
+  "30",
+  "years",
+  "old",
+  ",",
+  "with",
+  "a",
+  "small",
+  "beard",
+  ".",
+  "By",
+  "the",
+  "time",
+  "the",
+  "two",
+  "soldiers",
+  "patrolling",
+  "in",
+  "front",
+  "could",
+  "react",
+  ",",
+  "the",
+  "man",
+  "had",
+  "disappeared",
+  "into",
+  "a",
+  "crowd",
+  ".",
+  "Cordier",
+  "was",
+  "in",
+  "stable",
+  "condition",
+  "at",
+  "a",
+  "military",
+  "hospital",
+  ";",
+  "the",
+  "knife",
+  "missed",
+  "his",
+  "jugular",
+  "vein",
+  ",",
+  "doctors",
+  "said",
+  ".",
+  "The",
+  "police",
+  "suggested",
+  "Sunday",
+  "that",
+  "the",
+  "deed",
+  "may",
+  "have",
+  "been",
+  "inspired",
+  "by",
+  "the",
+  "attack",
+  "on",
+  "a",
+  "British",
+  "soldier",
+  "in",
+  "a",
+  "London",
+  "street",
+  "Wednesday",
+  ".",
+  "A",
+  "spokesman",
+  "for",
+  "the",
+  "police",
+  "union",
+  "UNSA",
+  ",",
+  "Christophe",
+  "Cr\u00e9pin",
+  ",",
+  "said",
+  "there",
+  "were",
+  "similarities",
+  "with",
+  "the",
+  "London",
+  "attack",
+  ".",
+  "\u201c",
+  "I",
+  "think",
+  "this",
+  "person",
+  "wanted",
+  "to",
+  "imitate",
+  "what",
+  "happened",
+  "in",
+  "London",
+  ",",
+  "\u201d",
+  "he",
+  "told",
+  "TELE",
+  "television",
+  ".",
+  "But",
+  "Interior",
+  "Minister",
+  "Manuel",
+  "Valls",
+  ",",
+  "who",
+  "ordered",
+  "the",
+  "terrorism",
+  "investigation",
+  ",",
+  "said",
+  "it",
+  "was",
+  "too",
+  "early",
+  "to",
+  "determine",
+  "the",
+  "motivation",
+  "for",
+  "the",
+  "attack",
+  "because",
+  "the",
+  "police",
+  "had",
+  "yet",
+  "to",
+  "arrest",
+  "a",
+  "suspect",
+  "or",
+  "gather",
+  "enough",
+  "evidence",
+  "to",
+  "offer",
+  "credible",
+  "theories",
+  "about",
+  "what",
+  "inspired",
+  "it",
+  ".",
+  "France",
+  "has",
+  "been",
+  "on",
+  "high",
+  "alert",
+  "for",
+  "since",
+  "its",
+  "military",
+  "intervention",
+  "against",
+  "Islamist",
+  "rebels",
+  "in",
+  "Mali",
+  "in",
+  "January",
+  ".",
+  "That",
+  "prompted",
+  "threats",
+  "against",
+  "French",
+  "interests",
+  "from",
+  "al",
+  "-",
+  "Qaida",
+  "in",
+  "the",
+  "Islamic",
+  "Maghreb",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   30,
+   51,
+   103,
+   136,
+   162,
+   178,
+   189,
+   246,
+   275,
+   302,
+   330,
+   415,
+   448,
+   469,
+   495,
+   523,
+   563,
+   589,
+   612,
+   632,
+   652,
+   676,
+   696,
+   715,
+   761,
+   780,
+   795
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 784,
+       "end": 785,
+       "tokens": "French"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "British"
+      },
+      {
+       "label": "La_D\u00e9fense",
+       "score": 1.0,
+       "start": 550,
+       "end": 552,
+       "tokens": "La D\u00e9fense"
+      },
+      {
+       "label": "Paris",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "Paris"
+      },
+      {
+       "label": "Socialist_Party_(France)",
+       "score": 1.0,
+       "start": 317,
+       "end": 319,
+       "tokens": "Socialist Party"
+      },
+      {
+       "label": "Les_Invalides",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "Invalides"
+      },
+      {
+       "label": "Mali",
+       "score": 1.0,
+       "start": 776,
+       "end": 777,
+       "tokens": "Mali"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 503,
+       "end": 505,
+       "tokens": "C\u00e9dric Cordier"
+      },
+      {
+       "label": "Maghreb",
+       "score": 1.0,
+       "start": 793,
+       "end": 794,
+       "tokens": "Maghreb"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "London"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "London"
+      },
+      {
+       "label": "Jean-Marc_Ayrault",
+       "score": 1.0,
+       "start": 450,
+       "end": 454,
+       "tokens": "Jean - Marc Ayrault"
+      },
+      {
+       "label": "Alain_Jupp\u00e9",
+       "score": 1.0,
+       "start": 438,
+       "end": 440,
+       "tokens": "Alain Jupp\u00e9"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "French"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "France"
+      },
+      {
+       "label": "Jean-Yves_Le_Drian",
+       "score": 1.0,
+       "start": 565,
+       "end": 570,
+       "tokens": "Jean - Yves Le Drian"
+      },
+      {
+       "label": "Manuel_Valls",
+       "score": 1.0,
+       "start": 718,
+       "end": 720,
+       "tokens": "Manuel Valls"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "France"
+      },
+      {
+       "label": "Rome",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "Roman"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 684,
+       "end": 686,
+       "tokens": "Christophe Cr\u00e9pin"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "African"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "France"
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "UMP"
+      },
+      {
+       "label": "San_Francisco",
+       "score": 1.0,
+       "start": 490,
+       "end": 492,
+       "tokens": "San Francisco"
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "UMP"
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 1.0,
+       "start": 399,
+       "end": 404,
+       "tokens": "Union for a Popular Movement"
+      },
+      {
+       "label": "Jean-Fran\u00e7ois_Cop\u00e9",
+       "score": 1.0,
+       "start": 420,
+       "end": 424,
+       "tokens": "Jean - Fran\u00e7ois Cop\u00e9"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 598,
+       "end": 600,
+       "tokens": "North African"
+      },
+      {
+       "label": "Western_world",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Western"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 707,
+       "end": 708,
+       "tokens": "London"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "British"
+      },
+      {
+       "label": "Paris",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "PARIS"
+      },
+      {
+       "label": "Champs-\u00c9lys\u00e9es",
+       "score": 1.0,
+       "start": 298,
+       "end": 301,
+       "tokens": "Champs - \u00c9lys\u00e9es"
+      },
+      {
+       "label": "Fran\u00e7ois_Hollande",
+       "score": 1.0,
+       "start": 326,
+       "end": 328,
+       "tokens": "Fran\u00e7ois Hollande"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "FRANCE"
+      },
+      {
+       "label": "Al-Qaeda_in_the_Islamic_Maghreb",
+       "score": 1.0,
+       "start": 787,
+       "end": 794,
+       "tokens": "al - Qaida in the Islamic Maghreb"
+      },
+      {
+       "label": "Montpellier",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "Montpellier"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "Cordier"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "France"
+      },
+      {
+       "label": "Paris",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "Paris"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "UNSA"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 784,
+       "end": 785,
+       "tokens": "French"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "British"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 550,
+       "end": 552,
+       "tokens": "La D\u00e9fense"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "Paris"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 317,
+       "end": 319,
+       "tokens": "Socialist Party"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "Invalides"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 776,
+       "end": 777,
+       "tokens": "Mali"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 503,
+       "end": 505,
+       "tokens": "C\u00e9dric Cordier"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 793,
+       "end": 794,
+       "tokens": "Maghreb"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "London"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "London"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 450,
+       "end": 454,
+       "tokens": "Jean - Marc Ayrault"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 438,
+       "end": 440,
+       "tokens": "Alain Jupp\u00e9"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "French"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "France"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 565,
+       "end": 570,
+       "tokens": "Jean - Yves Le Drian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 718,
+       "end": 720,
+       "tokens": "Manuel Valls"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "France"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "Roman"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 684,
+       "end": 686,
+       "tokens": "Christophe Cr\u00e9pin"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "African"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "France"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "UMP"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 490,
+       "end": 492,
+       "tokens": "San Francisco"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "UMP"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 399,
+       "end": 404,
+       "tokens": "Union for a Popular Movement"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 420,
+       "end": 424,
+       "tokens": "Jean - Fran\u00e7ois Cop\u00e9"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 598,
+       "end": 600,
+       "tokens": "North African"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Western"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 707,
+       "end": 708,
+       "tokens": "London"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "British"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "PARIS"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 298,
+       "end": 301,
+       "tokens": "Champs - \u00c9lys\u00e9es"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 326,
+       "end": 328,
+       "tokens": "Fran\u00e7ois Hollande"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "FRANCE"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 787,
+       "end": 794,
+       "tokens": "al - Qaida in the Islamic Maghreb"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "Montpellier"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "Cordier"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "France"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "Paris"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "UNSA"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "THOUSANDS",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "THOUSANDS"
+      },
+      {
+       "label": "MARCH",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "MARCH"
+      },
+      {
+       "label": "IN",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "IN"
+      },
+      {
+       "label": "FRANCE",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "FRANCE"
+      },
+      {
+       "label": "AGAINST",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "AGAINST"
+      },
+      {
+       "label": "GAY",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "GAY"
+      },
+      {
+       "label": "MARRIAGE",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "MARRIAGE"
+      },
+      {
+       "label": "PARIS",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "PARIS"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "-"
+      },
+      {
+       "label": "Thousands",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Thousands"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "of"
+      },
+      {
+       "label": "French",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "French"
+      },
+      {
+       "label": "marched",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "marched"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Sunday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": ","
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "France"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "Mother",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "Mother"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "Day",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Day"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": ","
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "to"
+      },
+      {
+       "label": "protest",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "protest"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "the"
+      },
+      {
+       "label": "recent",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "recent"
+      },
+      {
+       "label": "legalization",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "legalization"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "of"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "gay"
+      },
+      {
+       "label": "marriage",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "marriage"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "."
+      },
+      {
+       "label": "Despite",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Despite"
+      },
+      {
+       "label": "initial",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "initial"
+      },
+      {
+       "label": "worries",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "worries"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "the"
+      },
+      {
+       "label": "demonstration",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "demonstration"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "was"
+      },
+      {
+       "label": "largely",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "largely"
+      },
+      {
+       "label": "peaceful",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "peaceful"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "the"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "police"
+      },
+      {
+       "label": "estimating",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "estimating"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "that"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "about"
+      },
+      {
+       "label": "150,000",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "150,000"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "people"
+      },
+      {
+       "label": "took",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "took"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "part"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "."
+      },
+      {
+       "label": "Separately",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Separately"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "the"
+      },
+      {
+       "label": "French",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "French"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "police"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "said"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "they"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "were"
+      },
+      {
+       "label": "continuing",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "continuing"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "to"
+      },
+      {
+       "label": "search",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "search"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "the"
+      },
+      {
+       "label": "man",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "man"
+      },
+      {
+       "label": "responsible",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "responsible"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "for"
+      },
+      {
+       "label": "stabbing",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "stabbing"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "a"
+      },
+      {
+       "label": "uniformed",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "uniformed"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "soldier"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "the"
+      },
+      {
+       "label": "neck",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "neck"
+      },
+      {
+       "label": "Saturday",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Saturday"
+      },
+      {
+       "label": "evening",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "evening"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "an"
+      },
+      {
+       "label": "act",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "act"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "that"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "may"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "been"
+      },
+      {
+       "label": "inspired",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "inspired"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "the"
+      },
+      {
+       "label": "murder",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "murder"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "a"
+      },
+      {
+       "label": "British",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "British"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "soldier"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "last"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "week"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "in"
+      },
+      {
+       "label": "retaliation",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "retaliation"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "for"
+      },
+      {
+       "label": "Western",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Western"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "military"
+      },
+      {
+       "label": "intervention",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "intervention"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "in"
+      },
+      {
+       "label": "Muslim",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Muslim"
+      },
+      {
+       "label": "countries",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "countries"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "The"
+      },
+      {
+       "label": "anti",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "anti"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "-"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "gay"
+      },
+      {
+       "label": "marriage",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "marriage"
+      },
+      {
+       "label": "march",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "march"
+      },
+      {
+       "label": "occurred",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "occurred"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "a"
+      },
+      {
+       "label": "recent",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "recent"
+      },
+      {
+       "label": "poll",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "poll"
+      },
+      {
+       "label": "shows",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "shows"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "many"
+      },
+      {
+       "label": "French",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "French"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "are"
+      },
+      {
+       "label": "losing",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "losing"
+      },
+      {
+       "label": "patience",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "patience"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "the"
+      },
+      {
+       "label": "protests",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "protests"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "against"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "the"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "marriage",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "marriage"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "for"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "all"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "law",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "law"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "that"
+      },
+      {
+       "label": "passed",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "passed"
+      },
+      {
+       "label": "May",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "May"
+      },
+      {
+       "label": "18",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "18"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "The"
+      },
+      {
+       "label": "demonstrations",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "demonstrations"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "have"
+      },
+      {
+       "label": "broadened",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "broadened"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "to"
+      },
+      {
+       "label": "include",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "include"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "those"
+      },
+      {
+       "label": "angry",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "angry"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "the"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "president"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "for"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "his"
+      },
+      {
+       "label": "overall",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "overall"
+      },
+      {
+       "label": "leadership",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "leadership"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "and"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "some"
+      },
+      {
+       "label": "far",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "far"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "-"
+      },
+      {
+       "label": "right",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "right"
+      },
+      {
+       "label": "protesters",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "protesters"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "who"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "been"
+      },
+      {
+       "label": "violent",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "violent"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "."
+      },
+      {
+       "label": "Marchers",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "Marchers"
+      },
+      {
+       "label": "converged",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "converged"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "from"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "three"
+      },
+      {
+       "label": "parts",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "parts"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "of"
+      },
+      {
+       "label": "Paris",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "Paris"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "the"
+      },
+      {
+       "label": "esplanade",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "esplanade"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "in"
+      },
+      {
+       "label": "front",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "front"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "the"
+      },
+      {
+       "label": "Invalides",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "Invalides"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "."
+      },
+      {
+       "label": "There",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "There"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "a"
+      },
+      {
+       "label": "separate",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "separate"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": ","
+      },
+      {
+       "label": "smaller",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "smaller"
+      },
+      {
+       "label": "march",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "march"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "by"
+      },
+      {
+       "label": "conservative",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "conservative"
+      },
+      {
+       "label": "Christians",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "Christians"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "In"
+      },
+      {
+       "label": "general",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "general"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "the"
+      },
+      {
+       "label": "demonstrations",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "demonstrations"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "against"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "the"
+      },
+      {
+       "label": "law",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "law"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "been"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "a"
+      },
+      {
+       "label": "combination",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "combination"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "of"
+      },
+      {
+       "label": "religious",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "religious"
+      },
+      {
+       "label": "leaders",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "leaders"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "and"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "their"
+      },
+      {
+       "label": "followers",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "followers"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": ","
+      },
+      {
+       "label": "opposed",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "opposed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "the"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "gay"
+      },
+      {
+       "label": "marriage",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "marriage"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "on"
+      },
+      {
+       "label": "religious",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "religious"
+      },
+      {
+       "label": "grounds",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "grounds"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "and"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "more"
+      },
+      {
+       "label": "conservative",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "conservative"
+      },
+      {
+       "label": "French",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "French"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": ","
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "many"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "of"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "them"
+      },
+      {
+       "label": "Roman",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "Roman"
+      },
+      {
+       "label": "Catholic",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "Catholic"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "who"
+      },
+      {
+       "label": "believe",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "believe"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "that"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "gay"
+      },
+      {
+       "label": "couples",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "couples"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "should"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "have"
+      },
+      {
+       "label": "equal",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "equal"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "rights"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "but"
+      },
+      {
+       "label": "within",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "within"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "an"
+      },
+      {
+       "label": "institution",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "institution"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "other"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "than"
+      },
+      {
+       "label": "marriage",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "marriage"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "."
+      },
+      {
+       "label": "Many",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "Many"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "also"
+      },
+      {
+       "label": "object",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "object"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "the"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "new"
+      },
+      {
+       "label": "ability",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "ability"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "of"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "gay"
+      },
+      {
+       "label": "married",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "married"
+      },
+      {
+       "label": "couples",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "couples"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "to"
+      },
+      {
+       "label": "adopt",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "adopt"
+      },
+      {
+       "label": "children",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "children"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": ","
+      },
+      {
+       "label": "arguing",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "arguing"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "that"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "a"
+      },
+      {
+       "label": "child",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "child"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "should"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "be"
+      },
+      {
+       "label": "raised",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "raised"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "a"
+      },
+      {
+       "label": "man",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "man"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "a"
+      },
+      {
+       "label": "woman",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "woman"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "In"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "the"
+      },
+      {
+       "label": "prelude",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "prelude"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "the"
+      },
+      {
+       "label": "protest",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "protest"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": ","
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "on"
+      },
+      {
+       "label": "Saturday",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "Saturday"
+      },
+      {
+       "label": "night",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "night"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": ","
+      },
+      {
+       "label": "59",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "59"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "people"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "were"
+      },
+      {
+       "label": "arrested",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "arrested"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "after"
+      },
+      {
+       "label": "chaining",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "chaining"
+      },
+      {
+       "label": "themselves",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "themselves"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "to"
+      },
+      {
+       "label": "metal",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "metal"
+      },
+      {
+       "label": "barricades",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "barricades"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "the"
+      },
+      {
+       "label": "Champs",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "Champs"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "-"
+      },
+      {
+       "label": "\u00c9lys\u00e9es",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "\u00c9lys\u00e9es"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "."
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "On"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "Sunday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": ","
+      },
+      {
+       "label": "19",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "19"
+      },
+      {
+       "label": "demonstrators",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "demonstrators"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "were"
+      },
+      {
+       "label": "arrested",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "arrested"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "after"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "they"
+      },
+      {
+       "label": "climbed",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "climbed"
+      },
+      {
+       "label": "onto",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "onto"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "the"
+      },
+      {
+       "label": "headquarters",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "headquarters"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "the"
+      },
+      {
+       "label": "Socialist",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Socialist"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "Party"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "and"
+      },
+      {
+       "label": "unfurled",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "unfurled"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "a"
+      },
+      {
+       "label": "banner",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "banner"
+      },
+      {
+       "label": "demanding",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "demanding"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "that"
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "President"
+      },
+      {
+       "label": "Fran\u00e7ois",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "Fran\u00e7ois"
+      },
+      {
+       "label": "Hollande",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "Hollande"
+      },
+      {
+       "label": "resign",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "resign"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "."
+      },
+      {
+       "label": "Police",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "Police"
+      },
+      {
+       "label": "officers",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "officers"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "also"
+      },
+      {
+       "label": "seized",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "seized"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "a"
+      },
+      {
+       "label": "van",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "van"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "with"
+      },
+      {
+       "label": "masks",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "masks"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": ","
+      },
+      {
+       "label": "banners",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "banners"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "and"
+      },
+      {
+       "label": "smoke",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "smoke"
+      },
+      {
+       "label": "bombs",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "bombs"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "and"
+      },
+      {
+       "label": "near",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "near"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "the"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "end"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "of"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "Sunday"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "demonstration",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "demonstration"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": ","
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "they"
+      },
+      {
+       "label": "used",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "used"
+      },
+      {
+       "label": "tear",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "tear"
+      },
+      {
+       "label": "gas",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "gas"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "to"
+      },
+      {
+       "label": "break",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "break"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "up"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "a"
+      },
+      {
+       "label": "gathering",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "gathering"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "of"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "some"
+      },
+      {
+       "label": "masked",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "masked"
+      },
+      {
+       "label": "protesters",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "protesters"
+      },
+      {
+       "label": "believed",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "believed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "be"
+      },
+      {
+       "label": "rightists",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "rightists"
+      },
+      {
+       "label": "known",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "known"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "as"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "ultras",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "ultras"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "As",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "As"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "an"
+      },
+      {
+       "label": "indication",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "indication"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "the"
+      },
+      {
+       "label": "confusion",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "confusion"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "around"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "the"
+      },
+      {
+       "label": "focus",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "focus"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "of"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "Sunday"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "march",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "march"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "the"
+      },
+      {
+       "label": "main",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "main"
+      },
+      {
+       "label": "opposition",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "opposition"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "party"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "the"
+      },
+      {
+       "label": "center",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "center"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "-"
+      },
+      {
+       "label": "right",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "right"
+      },
+      {
+       "label": "Union",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "Union"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "a"
+      },
+      {
+       "label": "Popular",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Popular"
+      },
+      {
+       "label": "Movement",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "Movement"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": ","
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "or"
+      },
+      {
+       "label": "UMP",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "UMP"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": ","
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "was"
+      },
+      {
+       "label": "split",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "split"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "on"
+      },
+      {
+       "label": "whether",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "whether"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "to"
+      },
+      {
+       "label": "join",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "join"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "The"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "party"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "president"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": ","
+      },
+      {
+       "label": "Jean",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "Jean"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "-"
+      },
+      {
+       "label": "Fran\u00e7ois",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "Fran\u00e7ois"
+      },
+      {
+       "label": "Cop\u00e9",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "Cop\u00e9"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": ","
+      },
+      {
+       "label": "urged",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "urged"
+      },
+      {
+       "label": "participation",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "participation"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": ","
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "while"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "other"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "party"
+      },
+      {
+       "label": "dignitaries",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "dignitaries"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": ","
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "like"
+      },
+      {
+       "label": "former",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "former"
+      },
+      {
+       "label": "foreign",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "foreign"
+      },
+      {
+       "label": "minister",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "minister"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": ","
+      },
+      {
+       "label": "Alain",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "Alain"
+      },
+      {
+       "label": "Jupp\u00e9",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "Jupp\u00e9"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": ","
+      },
+      {
+       "label": "urged",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "urged"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "people"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "to"
+      },
+      {
+       "label": "remain",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "remain"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "at"
+      },
+      {
+       "label": "home",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "home"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "."
+      },
+      {
+       "label": "Prime",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "Prime"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "Minister"
+      },
+      {
+       "label": "Jean",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "Jean"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "-"
+      },
+      {
+       "label": "Marc",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "Marc"
+      },
+      {
+       "label": "Ayrault",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "Ayrault"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "a"
+      },
+      {
+       "label": "Socialist",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "Socialist"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": ","
+      },
+      {
+       "label": "accused",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "accused"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "the"
+      },
+      {
+       "label": "UMP",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "UMP"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "of"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "\""
+      },
+      {
+       "label": "sparking",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "sparking"
+      },
+      {
+       "label": "tension",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "tension"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "and"
+      },
+      {
+       "label": "radicalization",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "radicalization"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "''"
+      },
+      {
+       "label": "With",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "With"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "much"
+      },
+      {
+       "label": "advance",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "advance"
+      },
+      {
+       "label": "publicity",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "publicity"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "first"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "gay"
+      },
+      {
+       "label": "marriage",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "marriage"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "is"
+      },
+      {
+       "label": "supposed",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "supposed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "to"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "take"
+      },
+      {
+       "label": "place",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "place"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "in"
+      },
+      {
+       "label": "Montpellier",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "Montpellier"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": ","
+      },
+      {
+       "label": "sometimes",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "sometimes"
+      },
+      {
+       "label": "called",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "called"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "the"
+      },
+      {
+       "label": "San",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "San"
+      },
+      {
+       "label": "Francisco",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "Francisco"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "of"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "France"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "The"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "case"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "the"
+      },
+      {
+       "label": "wounded",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "wounded"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "soldier"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": ","
+      },
+      {
+       "label": "Pfc.",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "Pfc."
+      },
+      {
+       "label": "C\u00e9dric",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "C\u00e9dric"
+      },
+      {
+       "label": "Cordier",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "Cordier"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": ","
+      },
+      {
+       "label": "23",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "23"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "is"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "being"
+      },
+      {
+       "label": "handled",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "handled"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "by"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "France"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "anti",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "anti"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "-"
+      },
+      {
+       "label": "terrorism",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "terrorism"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "court"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": ","
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "officials"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "said"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "Sunday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "He"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "was"
+      },
+      {
+       "label": "stabbed",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "stabbed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "the"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "back"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "the"
+      },
+      {
+       "label": "neck",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "neck"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "a"
+      },
+      {
+       "label": "box",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "box"
+      },
+      {
+       "label": "cutter",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "cutter"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "or"
+      },
+      {
+       "label": "short",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "short"
+      },
+      {
+       "label": "knife",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "knife"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "as"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "he"
+      },
+      {
+       "label": "patrolled",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "patrolled"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "with"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "two"
+      },
+      {
+       "label": "colleagues",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "colleagues"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "through"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "the"
+      },
+      {
+       "label": "transport",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "transport"
+      },
+      {
+       "label": "station",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "station"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "of"
+      },
+      {
+       "label": "La",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "La"
+      },
+      {
+       "label": "D\u00e9fense",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "D\u00e9fense"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "a"
+      },
+      {
+       "label": "business",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "business"
+      },
+      {
+       "label": "area",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "area"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "a"
+      },
+      {
+       "label": "western",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "western"
+      },
+      {
+       "label": "suburb",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "suburb"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "of"
+      },
+      {
+       "label": "Paris",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "Paris"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "."
+      },
+      {
+       "label": "Defense",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "Defense"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "Minister"
+      },
+      {
+       "label": "Jean",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "Jean"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "-"
+      },
+      {
+       "label": "Yves",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "Yves"
+      },
+      {
+       "label": "Le",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "Le"
+      },
+      {
+       "label": "Drian",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "Drian"
+      },
+      {
+       "label": "visited",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "visited"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "the"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "soldier"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "the"
+      },
+      {
+       "label": "hospital",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "hospital"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "and"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "he"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "been"
+      },
+      {
+       "label": "targeted",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "targeted"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "because"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "a"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "soldier"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "."
+      },
+      {
+       "label": "Initial",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "Initial"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "reports"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "the"
+      },
+      {
+       "label": "assailant",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "assailant"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "a"
+      },
+      {
+       "label": "man",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "man"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "of"
+      },
+      {
+       "label": "North",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "North"
+      },
+      {
+       "label": "African",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "African"
+      },
+      {
+       "label": "appearance",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "appearance"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": ","
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "about"
+      },
+      {
+       "label": "30",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "30"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "years"
+      },
+      {
+       "label": "old",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "old"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "a"
+      },
+      {
+       "label": "small",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "small"
+      },
+      {
+       "label": "beard",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": "beard"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": "."
+      },
+      {
+       "label": "By",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "By"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "the"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "time"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "the"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": "two"
+      },
+      {
+       "label": "soldiers",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "soldiers"
+      },
+      {
+       "label": "patrolling",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "patrolling"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "in"
+      },
+      {
+       "label": "front",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": "front"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 621,
+       "end": 622,
+       "tokens": "could"
+      },
+      {
+       "label": "react",
+       "score": 1.0,
+       "start": 622,
+       "end": 623,
+       "tokens": "react"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 624,
+       "end": 625,
+       "tokens": "the"
+      },
+      {
+       "label": "man",
+       "score": 1.0,
+       "start": 625,
+       "end": 626,
+       "tokens": "man"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 626,
+       "end": 627,
+       "tokens": "had"
+      },
+      {
+       "label": "disappeared",
+       "score": 1.0,
+       "start": 627,
+       "end": 628,
+       "tokens": "disappeared"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 628,
+       "end": 629,
+       "tokens": "into"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 629,
+       "end": 630,
+       "tokens": "a"
+      },
+      {
+       "label": "crowd",
+       "score": 1.0,
+       "start": 630,
+       "end": 631,
+       "tokens": "crowd"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 631,
+       "end": 632,
+       "tokens": "."
+      },
+      {
+       "label": "Cordier",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "Cordier"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 633,
+       "end": 634,
+       "tokens": "was"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 634,
+       "end": 635,
+       "tokens": "in"
+      },
+      {
+       "label": "stable",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "stable"
+      },
+      {
+       "label": "condition",
+       "score": 1.0,
+       "start": 636,
+       "end": 637,
+       "tokens": "condition"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 637,
+       "end": 638,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 638,
+       "end": 639,
+       "tokens": "a"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 639,
+       "end": 640,
+       "tokens": "military"
+      },
+      {
+       "label": "hospital",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "hospital"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 641,
+       "end": 642,
+       "tokens": ";"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 642,
+       "end": 643,
+       "tokens": "the"
+      },
+      {
+       "label": "knife",
+       "score": 1.0,
+       "start": 643,
+       "end": 644,
+       "tokens": "knife"
+      },
+      {
+       "label": "missed",
+       "score": 1.0,
+       "start": 644,
+       "end": 645,
+       "tokens": "missed"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "his"
+      },
+      {
+       "label": "jugular",
+       "score": 1.0,
+       "start": 646,
+       "end": 647,
+       "tokens": "jugular"
+      },
+      {
+       "label": "vein",
+       "score": 1.0,
+       "start": 647,
+       "end": 648,
+       "tokens": "vein"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 648,
+       "end": 649,
+       "tokens": ","
+      },
+      {
+       "label": "doctors",
+       "score": 1.0,
+       "start": 649,
+       "end": 650,
+       "tokens": "doctors"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 650,
+       "end": 651,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 652,
+       "end": 653,
+       "tokens": "The"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 653,
+       "end": 654,
+       "tokens": "police"
+      },
+      {
+       "label": "suggested",
+       "score": 1.0,
+       "start": 654,
+       "end": 655,
+       "tokens": "suggested"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 655,
+       "end": 656,
+       "tokens": "Sunday"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 656,
+       "end": 657,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 657,
+       "end": 658,
+       "tokens": "the"
+      },
+      {
+       "label": "deed",
+       "score": 1.0,
+       "start": 658,
+       "end": 659,
+       "tokens": "deed"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 659,
+       "end": 660,
+       "tokens": "may"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "been"
+      },
+      {
+       "label": "inspired",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "inspired"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 663,
+       "end": 664,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 664,
+       "end": 665,
+       "tokens": "the"
+      },
+      {
+       "label": "attack",
+       "score": 1.0,
+       "start": 665,
+       "end": 666,
+       "tokens": "attack"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 666,
+       "end": 667,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 667,
+       "end": 668,
+       "tokens": "a"
+      },
+      {
+       "label": "British",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "British"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 669,
+       "end": 670,
+       "tokens": "soldier"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 670,
+       "end": 671,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 671,
+       "end": 672,
+       "tokens": "a"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "London"
+      },
+      {
+       "label": "street",
+       "score": 1.0,
+       "start": 673,
+       "end": 674,
+       "tokens": "street"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 674,
+       "end": 675,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 675,
+       "end": 676,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 676,
+       "end": 677,
+       "tokens": "A"
+      },
+      {
+       "label": "spokesman",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "spokesman"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 678,
+       "end": 679,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 679,
+       "end": 680,
+       "tokens": "the"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 680,
+       "end": 681,
+       "tokens": "police"
+      },
+      {
+       "label": "union",
+       "score": 1.0,
+       "start": 681,
+       "end": 682,
+       "tokens": "union"
+      },
+      {
+       "label": "UNSA",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "UNSA"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 683,
+       "end": 684,
+       "tokens": ","
+      },
+      {
+       "label": "Christophe",
+       "score": 1.0,
+       "start": 684,
+       "end": 685,
+       "tokens": "Christophe"
+      },
+      {
+       "label": "Cr\u00e9pin",
+       "score": 1.0,
+       "start": 685,
+       "end": 686,
+       "tokens": "Cr\u00e9pin"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 686,
+       "end": 687,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 687,
+       "end": 688,
+       "tokens": "said"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 688,
+       "end": 689,
+       "tokens": "there"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 689,
+       "end": 690,
+       "tokens": "were"
+      },
+      {
+       "label": "similarities",
+       "score": 1.0,
+       "start": 690,
+       "end": 691,
+       "tokens": "similarities"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 691,
+       "end": 692,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "the"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "London"
+      },
+      {
+       "label": "attack",
+       "score": 1.0,
+       "start": 694,
+       "end": 695,
+       "tokens": "attack"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 695,
+       "end": 696,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 696,
+       "end": 697,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 697,
+       "end": 698,
+       "tokens": "I"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 698,
+       "end": 699,
+       "tokens": "think"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 699,
+       "end": 700,
+       "tokens": "this"
+      },
+      {
+       "label": "person",
+       "score": 1.0,
+       "start": 700,
+       "end": 701,
+       "tokens": "person"
+      },
+      {
+       "label": "wanted",
+       "score": 1.0,
+       "start": 701,
+       "end": 702,
+       "tokens": "wanted"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "to"
+      },
+      {
+       "label": "imitate",
+       "score": 1.0,
+       "start": 703,
+       "end": 704,
+       "tokens": "imitate"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 704,
+       "end": 705,
+       "tokens": "what"
+      },
+      {
+       "label": "happened",
+       "score": 1.0,
+       "start": 705,
+       "end": 706,
+       "tokens": "happened"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 706,
+       "end": 707,
+       "tokens": "in"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 707,
+       "end": 708,
+       "tokens": "London"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 708,
+       "end": 709,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 709,
+       "end": 710,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 710,
+       "end": 711,
+       "tokens": "he"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 711,
+       "end": 712,
+       "tokens": "told"
+      },
+      {
+       "label": "TELE",
+       "score": 1.0,
+       "start": 712,
+       "end": 713,
+       "tokens": "TELE"
+      },
+      {
+       "label": "television",
+       "score": 1.0,
+       "start": 713,
+       "end": 714,
+       "tokens": "television"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 714,
+       "end": 715,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 715,
+       "end": 716,
+       "tokens": "But"
+      },
+      {
+       "label": "Interior",
+       "score": 1.0,
+       "start": 716,
+       "end": 717,
+       "tokens": "Interior"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 717,
+       "end": 718,
+       "tokens": "Minister"
+      },
+      {
+       "label": "Manuel",
+       "score": 1.0,
+       "start": 718,
+       "end": 719,
+       "tokens": "Manuel"
+      },
+      {
+       "label": "Valls",
+       "score": 1.0,
+       "start": 719,
+       "end": 720,
+       "tokens": "Valls"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 720,
+       "end": 721,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 721,
+       "end": 722,
+       "tokens": "who"
+      },
+      {
+       "label": "ordered",
+       "score": 1.0,
+       "start": 722,
+       "end": 723,
+       "tokens": "ordered"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 723,
+       "end": 724,
+       "tokens": "the"
+      },
+      {
+       "label": "terrorism",
+       "score": 1.0,
+       "start": 724,
+       "end": 725,
+       "tokens": "terrorism"
+      },
+      {
+       "label": "investigation",
+       "score": 1.0,
+       "start": 725,
+       "end": 726,
+       "tokens": "investigation"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 726,
+       "end": 727,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 727,
+       "end": 728,
+       "tokens": "said"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 728,
+       "end": 729,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 729,
+       "end": 730,
+       "tokens": "was"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 730,
+       "end": 731,
+       "tokens": "too"
+      },
+      {
+       "label": "early",
+       "score": 1.0,
+       "start": 731,
+       "end": 732,
+       "tokens": "early"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 732,
+       "end": 733,
+       "tokens": "to"
+      },
+      {
+       "label": "determine",
+       "score": 1.0,
+       "start": 733,
+       "end": 734,
+       "tokens": "determine"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 734,
+       "end": 735,
+       "tokens": "the"
+      },
+      {
+       "label": "motivation",
+       "score": 1.0,
+       "start": 735,
+       "end": 736,
+       "tokens": "motivation"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 736,
+       "end": 737,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 737,
+       "end": 738,
+       "tokens": "the"
+      },
+      {
+       "label": "attack",
+       "score": 1.0,
+       "start": 738,
+       "end": 739,
+       "tokens": "attack"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 739,
+       "end": 740,
+       "tokens": "because"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 740,
+       "end": 741,
+       "tokens": "the"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 741,
+       "end": 742,
+       "tokens": "police"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 742,
+       "end": 743,
+       "tokens": "had"
+      },
+      {
+       "label": "yet",
+       "score": 1.0,
+       "start": 743,
+       "end": 744,
+       "tokens": "yet"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 744,
+       "end": 745,
+       "tokens": "to"
+      },
+      {
+       "label": "arrest",
+       "score": 1.0,
+       "start": 745,
+       "end": 746,
+       "tokens": "arrest"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 746,
+       "end": 747,
+       "tokens": "a"
+      },
+      {
+       "label": "suspect",
+       "score": 1.0,
+       "start": 747,
+       "end": 748,
+       "tokens": "suspect"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 748,
+       "end": 749,
+       "tokens": "or"
+      },
+      {
+       "label": "gather",
+       "score": 1.0,
+       "start": 749,
+       "end": 750,
+       "tokens": "gather"
+      },
+      {
+       "label": "enough",
+       "score": 1.0,
+       "start": 750,
+       "end": 751,
+       "tokens": "enough"
+      },
+      {
+       "label": "evidence",
+       "score": 1.0,
+       "start": 751,
+       "end": 752,
+       "tokens": "evidence"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 752,
+       "end": 753,
+       "tokens": "to"
+      },
+      {
+       "label": "offer",
+       "score": 1.0,
+       "start": 753,
+       "end": 754,
+       "tokens": "offer"
+      },
+      {
+       "label": "credible",
+       "score": 1.0,
+       "start": 754,
+       "end": 755,
+       "tokens": "credible"
+      },
+      {
+       "label": "theories",
+       "score": 1.0,
+       "start": 755,
+       "end": 756,
+       "tokens": "theories"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 756,
+       "end": 757,
+       "tokens": "about"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 757,
+       "end": 758,
+       "tokens": "what"
+      },
+      {
+       "label": "inspired",
+       "score": 1.0,
+       "start": 758,
+       "end": 759,
+       "tokens": "inspired"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 759,
+       "end": 760,
+       "tokens": "it"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 760,
+       "end": 761,
+       "tokens": "."
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "France"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 762,
+       "end": 763,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 763,
+       "end": 764,
+       "tokens": "been"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 764,
+       "end": 765,
+       "tokens": "on"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 765,
+       "end": 766,
+       "tokens": "high"
+      },
+      {
+       "label": "alert",
+       "score": 1.0,
+       "start": 766,
+       "end": 767,
+       "tokens": "alert"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 767,
+       "end": 768,
+       "tokens": "for"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 768,
+       "end": 769,
+       "tokens": "since"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 769,
+       "end": 770,
+       "tokens": "its"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 770,
+       "end": 771,
+       "tokens": "military"
+      },
+      {
+       "label": "intervention",
+       "score": 1.0,
+       "start": 771,
+       "end": 772,
+       "tokens": "intervention"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 772,
+       "end": 773,
+       "tokens": "against"
+      },
+      {
+       "label": "Islamist",
+       "score": 1.0,
+       "start": 773,
+       "end": 774,
+       "tokens": "Islamist"
+      },
+      {
+       "label": "rebels",
+       "score": 1.0,
+       "start": 774,
+       "end": 775,
+       "tokens": "rebels"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 775,
+       "end": 776,
+       "tokens": "in"
+      },
+      {
+       "label": "Mali",
+       "score": 1.0,
+       "start": 776,
+       "end": 777,
+       "tokens": "Mali"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 777,
+       "end": 778,
+       "tokens": "in"
+      },
+      {
+       "label": "January",
+       "score": 1.0,
+       "start": 778,
+       "end": 779,
+       "tokens": "January"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 779,
+       "end": 780,
+       "tokens": "."
+      },
+      {
+       "label": "That",
+       "score": 1.0,
+       "start": 780,
+       "end": 781,
+       "tokens": "That"
+      },
+      {
+       "label": "prompted",
+       "score": 1.0,
+       "start": 781,
+       "end": 782,
+       "tokens": "prompted"
+      },
+      {
+       "label": "threats",
+       "score": 1.0,
+       "start": 782,
+       "end": 783,
+       "tokens": "threats"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 783,
+       "end": 784,
+       "tokens": "against"
+      },
+      {
+       "label": "French",
+       "score": 1.0,
+       "start": 784,
+       "end": 785,
+       "tokens": "French"
+      },
+      {
+       "label": "interests",
+       "score": 1.0,
+       "start": 785,
+       "end": 786,
+       "tokens": "interests"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 786,
+       "end": 787,
+       "tokens": "from"
+      },
+      {
+       "label": "al",
+       "score": 1.0,
+       "start": 787,
+       "end": 788,
+       "tokens": "al"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 788,
+       "end": 789,
+       "tokens": "-"
+      },
+      {
+       "label": "Qaida",
+       "score": 1.0,
+       "start": 789,
+       "end": 790,
+       "tokens": "Qaida"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 790,
+       "end": 791,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 791,
+       "end": 792,
+       "tokens": "the"
+      },
+      {
+       "label": "Islamic",
+       "score": 1.0,
+       "start": 792,
+       "end": 793,
+       "tokens": "Islamic"
+      },
+      {
+       "label": "Maghreb",
+       "score": 1.0,
+       "start": 793,
+       "end": 794,
+       "tokens": "Maghreb"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 794,
+       "end": 795,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "France",
+       "score": 0.5792871566166091,
+       "start": 784,
+       "end": 785,
+       "tokens": "French",
+       "labelScoreMap": {
+        "France": 0.5792871566166091,
+        "French_language": 0.27269576572030524,
+        "French_people": 0.08549201885029428,
+        "French_Americans": 0.005728225451847663,
+        "Canadian_French": 0.004008486035750598,
+        "French_colonization_of_the_Americas": 0.004059677424370502,
+        "French_Revolution": 0.0030775719938139867,
+        "French_colonial_empire": 0.024181831895975725,
+        "French_Canadians": 0.002725833745098748,
+        "French_Third_Republic": 0.003791516881326977,
+        "Early_modern_France": 0.004641530423831192,
+        "First_French_Empire": 0.007231248067109505,
+        "Alberto_Santos-Dumont": 0.0008508635980422241,
+        "Paris_International_Agricultural_Show": 0.0008337322143680848,
+        "French_Army": 0.001394541081256079,
+        "<unk_wid>": 2.3380920863819153e-30
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.7077711919903218,
+       "start": 668,
+       "end": 669,
+       "tokens": "British",
+       "labelScoreMap": {
+        "United_Kingdom": 0.7077711919903218,
+        "Great_Britain": 0.08284831771931117,
+        "British_Empire": 0.04452987952466957,
+        "Kingdom_of_Great_Britain": 0.06612808082433776,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.03818172071292471,
+        "British_English": 0.010243555525346297,
+        "England": 0.009606158287718214,
+        "British_colonization_of_the_Americas": 0.006044551263904911,
+        "British_Raj": 0.007620561008312588,
+        "Britannicus_(play)": 0.005512688043559202,
+        "British_Army": 0.005417832191717936,
+        "British_Americans": 0.003501559913578534,
+        "Royal_Navy": 0.0032563007771743706,
+        "English_people": 0.0020066229390075917,
+        "British_Isles": 0.0014079793552272146,
+        "East_India_Company": 0.0012975941472219165,
+        "British_Boxing_Board_of_Control": 0.001252773301384269,
+        "Government_of_the_United_Kingdom": 0.0014116229257458938,
+        "Banksy": 0.0010113688525496775,
+        "Lee_Child": 0.000949640695986162,
+        "<unk_wid>": 1.6558069634660428e-35
+       }
+      },
+      {
+       "label": "La_D\u00e9fense",
+       "score": 0.9658948046084112,
+       "start": 550,
+       "end": 552,
+       "tokens": "La D\u00e9fense",
+       "labelScoreMap": {
+        "La_D\u00e9fense": 0.9658948046084112,
+        "Gare_de_La_D\u00e9fense": 0.018960231094186666,
+        "Transilien_Line_U": 0.005178338719585662,
+        "Grande_Arche": 0.00996662557781647,
+        "<unk_wid>": 4.431410905518557e-22
+       }
+      },
+      {
+       "label": "Paris",
+       "score": 0.9641065145130107,
+       "start": 168,
+       "end": 169,
+       "tokens": "Paris",
+       "labelScoreMap": {
+        "Paris": 0.9641065145130107,
+        "Paris_Hilton": 0.004901871942870952,
+        "Paris_(Paris_Hilton_album)": 0.0037047705822170524,
+        "Paris_Las_Vegas": 0.00321421663889518,
+        "Paris,_Texas": 0.002777086111090219,
+        "Paris,_Kentucky": 0.002689676211679332,
+        "Paris_Metropolitan_Area": 0.0023905277250675,
+        "Paris,_Missouri": 0.0023429343130220233,
+        "Paris_Masters": 0.0023356150870323987,
+        "University_of_Paris": 0.002101394287117469,
+        "Paris_(rapper)": 0.0015961247424235456,
+        "Paris,_Maine": 0.0014570135351206393,
+        "Paris,_Ontario": 0.0017141525573470355,
+        "Paris,_Kenosha_County,_Wisconsin": 0.0012410225767635302,
+        "Liberation_of_Paris": 0.0011897694119639567,
+        "Charles_de_Gaulle_Airport": 0.0011243900773389578,
+        "Paris_M\u00e9tro": 0.0011129196870393325,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Socialist_Party_(Ireland)",
+       "score": 0.26149366091155996,
+       "start": 317,
+       "end": 319,
+       "tokens": "Socialist Party",
+       "labelScoreMap": {
+        "Socialist_Party_(France)": 0.18938127232984295,
+        "Socialist_Party_of_America": 0.06750527062760761,
+        "Socialist_Party_(Portugal)": 0.050938056456535326,
+        "Socialist_Party_(Ireland)": 0.26149366091155996,
+        "Socialist_Party_USA": 0.029736543549465304,
+        "Socialist_Party_(Netherlands)": 0.02872389031146907,
+        "Socialist_Party_(Argentina)": 0.022769109833819558,
+        "Socialist_Party_(England_and_Wales)": 0.021089610490746084,
+        "Parti_Socialiste_(Belgium)": 0.02332994978574041,
+        "Socialist_Party_of_Chile": 0.015693941068705804,
+        "Hungarian_Socialist_Party": 0.022286142718476686,
+        "A._Philip_Randolph": 0.013251677439921257,
+        "Socialist_Party_(India)": 0.03047340600093598,
+        "Italian_Socialist_Party_(2007)": 0.012704224322866829,
+        "Socialist_Party_(Sweden,_1929)": 0.005775391728790833,
+        "Socialist_Party_of_Serbia": 0.016659089752250316,
+        "Socialist_Party_(Puerto_Rico)": 0.004638126000659044,
+        "Socialist_Party_of_Senegal": 0.01730019673974569,
+        "Italian_Socialist_Party": 0.06469479483219523,
+        "Socialism": 0.004839162155640762,
+        "Spanish_Socialist_Workers'_Party": 0.020325251052751864,
+        "Socialist_Party_(Sweden,_1971)": 0.0037767280703913733,
+        "Socialist_Party_(Italy,_1996)": 0.003644211295994454,
+        "Socialist_Party_(Bosnia_and_Herzegovina)": 0.0035779529087937327,
+        "Socialist_Party_of_Albania": 0.018338388690153157,
+        "Social_Democratic_Party_of_Austria": 0.007827637851011471,
+        "Luxembourg_Socialist_Workers'_Party": 0.023140584796799087,
+        "Socialistische_Partij_Anders": 0.010458487770926873,
+        "New_Zealand_Socialist_Party": 0.003433668242866779,
+        "Socialist_Party_of_Ukraine": 0.002193572263336446
+       }
+      },
+      {
+       "label": "Les_Invalides",
+       "score": 0.8098903765843976,
+       "start": 176,
+       "end": 177,
+       "tokens": "Invalides",
+       "labelScoreMap": {
+        "Les_Invalides": 0.8098903765843976,
+        "Invalides_(Paris_M\u00e9tro_and_RER)": 0.19010962341560242,
+        "<unk_wid>": 1.5068875564930014e-19
+       }
+      },
+      {
+       "label": "Mali",
+       "score": 0.8687223683526725,
+       "start": 776,
+       "end": 777,
+       "tokens": "Mali",
+       "labelScoreMap": {
+        "Mali": 0.8687223683526725,
+        "Mali_national_football_team": 0.037411659610741166,
+        "Mali_Empire": 0.07653963743071016,
+        "Malian_Premi\u00e8re_Division": 0.005491600597165554,
+        "Mali_Football_Federation": 0.004626167604753908,
+        "Mohammad_Ali_Jouhar": 0.0015892583969819133,
+        "Mali_women's_national_basketball_team": 0.001573525432318047,
+        "National_Assembly_(Mali)": 0.001416175117144168,
+        "Mali_national_basketball_team": 0.0013651277248232074,
+        "Military_of_Mali": 0.001264479732689351,
+        "<unk_wid>": 3.1984171279832763e-32
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 503,
+       "end": 505,
+       "tokens": "C\u00e9dric Cordier",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Maghreb",
+       "score": 0.9966689897685104,
+       "start": 793,
+       "end": 794,
+       "tokens": "Maghreb",
+       "labelScoreMap": {
+        "Maghreb": 0.9966689897685104,
+        "Maghrebi_Arabic": 0.003331010231489674,
+        "<unk_wid>": 5.599393000734564e-36
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.804677587329924,
+       "start": 672,
+       "end": 673,
+       "tokens": "London",
+       "labelScoreMap": {
+        "London": 0.804677587329924,
+        "London,_Ontario": 0.10624667513051915,
+        "London_Records": 0.005457037171817466,
+        "London_(European_Parliament_constituency)": 0.004254439672460361,
+        "7_July_2005_London_bombings": 0.0036704873232718464,
+        "London_International_Airport": 0.0029688109075349414,
+        "London_Fire_Brigade": 0.0028268894910478764,
+        "London_Ambulance_Service": 0.002697241604560536,
+        "London,_Kentucky": 0.011440102682475223,
+        "Greater_London": 0.01562683286072302,
+        "London_postal_district": 0.0022421896203267773,
+        "Greater_London_Built-up_Area": 0.0018577436691255102,
+        "London_Cricket_Club": 0.0015304772214436316,
+        "London_(heavy_metal_band)": 0.0014412480403875943,
+        "London_Overground": 0.0014307665809477931,
+        "HMS_President_(1918)": 0.0012961519532434028,
+        "London_(punk_band)": 0.0011881461437357808,
+        "University_of_London": 0.0016948700102286354,
+        "City_of_London": 0.023244553244432028,
+        "London,_Ohio": 0.002300674254740731,
+        "London_Underground": 0.0019070750870538924,
+        "<unk_wid>": 2.320853583092117e-21
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.6762726422627652,
+       "start": 693,
+       "end": 694,
+       "tokens": "London",
+       "labelScoreMap": {
+        "London": 0.6762726422627652,
+        "London,_Ontario": 0.09098649104510549,
+        "London_Records": 0.004831410050094082,
+        "London_(European_Parliament_constituency)": 0.010442426882143044,
+        "7_July_2005_London_bombings": 0.008965214154333387,
+        "London_International_Airport": 0.00253625581916673,
+        "London_Fire_Brigade": 0.0026034860184852167,
+        "London_Ambulance_Service": 0.002362355050272826,
+        "London,_Kentucky": 0.0403480710088127,
+        "Greater_London": 0.031677108692279354,
+        "London_postal_district": 0.005793941981764735,
+        "Greater_London_Built-up_Area": 0.00265628363194644,
+        "London_Cricket_Club": 0.006973055228612185,
+        "London_(heavy_metal_band)": 0.0012325173667248064,
+        "London_Overground": 0.008516857795857336,
+        "HMS_President_(1918)": 0.0011072046071067716,
+        "London_(punk_band)": 0.001016170890333356,
+        "University_of_London": 0.008881531430738027,
+        "City_of_London": 0.0744071209402033,
+        "London,_Ohio": 0.0048566864776676604,
+        "London_Underground": 0.013533168665450108,
+        "<unk_wid>": 1.5291147481922327e-14
+       }
+      },
+      {
+       "label": "Jean-Marc_Ayrault",
+       "score": 1.0,
+       "start": 450,
+       "end": 454,
+       "tokens": "Jean - Marc Ayrault",
+       "labelScoreMap": {
+        "Jean-Marc_Ayrault": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Alain_Jupp\u00e9",
+       "score": 0.9986184710453482,
+       "start": 438,
+       "end": 440,
+       "tokens": "Alain Jupp\u00e9",
+       "labelScoreMap": {
+        "Alain_Jupp\u00e9": 0.9986184710453482,
+        "1995_strikes_in_France": 0.0013815289546519065,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.6124069844040023,
+       "start": 54,
+       "end": 55,
+       "tokens": "French",
+       "labelScoreMap": {
+        "France": 0.6124069844040023,
+        "French_language": 0.270679062455945,
+        "French_people": 0.08384325750083876,
+        "French_Americans": 0.005806632198560394,
+        "Canadian_French": 0.0039707849179998365,
+        "French_colonization_of_the_Americas": 0.003886362505122961,
+        "French_Revolution": 0.002105678890082344,
+        "French_colonial_empire": 0.0032473745383997258,
+        "French_Canadians": 0.002669884285160824,
+        "French_Third_Republic": 0.0023926513156993573,
+        "Early_modern_France": 0.0020103539474106815,
+        "First_French_Empire": 0.004128901758611741,
+        "Alberto_Santos-Dumont": 0.0008638966088572614,
+        "Paris_International_Agricultural_Show": 0.0008465028171344501,
+        "French_Army": 0.0011416718561745305,
+        "<unk_wid>": 1.1133403104943144e-29
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.693261732611429,
+       "start": 512,
+       "end": 513,
+       "tokens": "France",
+       "labelScoreMap": {
+        "France": 0.693261732611429,
+        "France_national_football_team": 0.044852602961144565,
+        "France_national_rugby_union_team": 0.019906547448522882,
+        "French_Third_Republic": 0.01284693512552655,
+        "Early_modern_France": 0.01090727617585772,
+        "France_national_rugby_league_team": 0.051617816653009754,
+        "Louisiana_Purchase": 0.0022137602579513286,
+        "French_Football_Federation": 0.004706505582253795,
+        "Battle_of_France": 0.023327722302627932,
+        "French_Armed_Forces": 0.011732543886652772,
+        "France_national_basketball_team": 0.009305289728400584,
+        "France_Davis_Cup_team": 0.0050645860706972565,
+        "Anatole_France": 0.001653480790628469,
+        "Syndicat_National_de_l'\u00c9dition_Phonographique": 0.0025402796228591678,
+        "France_women's_national_football_team": 0.011702454448666685,
+        "Minister_of_Health_(France)": 0.0013573797198620221,
+        "First_French_Empire": 0.026712479055325554,
+        "France_national_youth_football_team": 0.00399887329453423,
+        "Ligue_Nationale_de_Basket": 0.0013969052383586962,
+        "France_men's_national_ice_hockey_team": 0.0017444828188138463,
+        "French_colonial_empire": 0.011990830223982446,
+        "France_national_cricket_team": 0.019583287645324816,
+        "Ligue_1": 0.0011583727550968398,
+        "French_First_Republic": 0.021425149209605695,
+        "French_Revolution_of_1848": 0.002616937197438339,
+        "France_Fed_Cup_team": 0.000978672051580204,
+        "French_Rugby_Federation": 0.0013970971238488614,
+        "<unk_wid>": 2.115806954638853e-20
+       }
+      },
+      {
+       "label": "Jean-Yves_Le_Drian",
+       "score": 1.0,
+       "start": 565,
+       "end": 570,
+       "tokens": "Jean - Yves Le Drian",
+       "labelScoreMap": {
+        "Jean-Yves_Le_Drian": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Manuel_Valls",
+       "score": 1.0,
+       "start": 718,
+       "end": 720,
+       "tokens": "Manuel Valls",
+       "labelScoreMap": {
+        "Manuel_Valls": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.8837125613712964,
+       "start": 493,
+       "end": 494,
+       "tokens": "France",
+       "labelScoreMap": {
+        "France": 0.8837125613712964,
+        "France_national_football_team": 0.03858021597212569,
+        "France_national_rugby_union_team": 0.011324199900732586,
+        "French_Third_Republic": 0.008259539313296723,
+        "Early_modern_France": 0.010227031814003773,
+        "France_national_rugby_league_team": 0.0037661687851251848,
+        "Louisiana_Purchase": 0.002698653540691278,
+        "French_Football_Federation": 0.0026661804072531086,
+        "Battle_of_France": 0.002811184964369126,
+        "French_Armed_Forces": 0.0023783549572668687,
+        "France_national_basketball_team": 0.0027153149076784826,
+        "France_Davis_Cup_team": 0.002365697617551396,
+        "Anatole_France": 0.0017558194046374026,
+        "Syndicat_National_de_l'\u00c9dition_Phonographique": 0.0017427892135409946,
+        "France_women's_national_football_team": 0.00182768487768764,
+        "Minister_of_Health_(France)": 0.0016705970298858885,
+        "First_French_Empire": 0.0051243143040602245,
+        "France_national_youth_football_team": 0.0015066154960471617,
+        "Ligue_Nationale_de_Basket": 0.0014429154991337457,
+        "France_men's_national_ice_hockey_team": 0.0014416121290574634,
+        "French_colonial_empire": 0.0022080275506344755,
+        "France_national_cricket_team": 0.0026338580363721637,
+        "Ligue_1": 0.001276533035249701,
+        "French_First_Republic": 0.002324615923525512,
+        "French_Revolution_of_1848": 0.0012747501634690433,
+        "France_Fed_Cup_team": 0.0011344571651099862,
+        "French_Rugby_Federation": 0.0011303066201975747,
+        "<unk_wid>": 1.5511453649890046e-34
+       }
+      },
+      {
+       "label": "Catholic_Church",
+       "score": 0.4904404238209594,
+       "start": 225,
+       "end": 226,
+       "tokens": "Roman",
+       "labelScoreMap": {
+        "Ancient_Rome": 0.189164355331454,
+        "Roman_Empire": 0.14833867758749947,
+        "Roman_mythology": 0.04173554482077782,
+        "Roman_Republic": 0.029023175947294866,
+        "Roman_Britain": 0.024813497993716994,
+        "Rome": 0.022556159083507814,
+        "Romanians": 0.008825624144828483,
+        "Religion_in_ancient_Rome": 0.011813557069757273,
+        "Roman,_Romania": 0.00728103989489315,
+        "Romania": 0.003583781147646453,
+        "Catholic_Church": 0.4904404238209594,
+        "Roman_Greece": 0.0024690745293034526,
+        "Nineteen_Eighty-Four": 0.0023635520449105597,
+        "Petre_Roman": 0.0020470112455631003,
+        "Roman_Giertych": 0.001889086943575568,
+        "Frankenstein": 0.001804322603349008,
+        "Dubris": 0.0016143956234275238,
+        "Roman_of_Bulgaria": 0.001297846823637829,
+        "Andre_B._Roman": 0.001171224048215761,
+        "Juan_Rom\u00e1n_Riquelme": 0.0011712240482158584,
+        "Roman_(vehicle_manufacturer)": 0.001055157240127172,
+        "Roman_emperor": 0.0011574648619282412,
+        "Roman_army": 0.0009571752060421739,
+        "Byzantine_Empire": 0.0010848432955615636,
+        "The_Lovely_Bones": 0.0008652312157565519,
+        "Latin": 0.0014765534280499878,
+        "<unk_wid>": 6.130190424024764e-36
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 684,
+       "end": 686,
+       "tokens": "Christophe Cr\u00e9pin",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Africa",
+       "score": 0.7905539225159157,
+       "start": 599,
+       "end": 600,
+       "tokens": "African",
+       "labelScoreMap": {
+        "Africa": 0.7905539225159157,
+        "African_Americans": 0.08416579927392237,
+        "Black_people": 0.01938173774781031,
+        "African_elephant": 0.014590447969557633,
+        "African_Plate": 0.013472024523060563,
+        "Afro-Brazilians": 0.012333121617109345,
+        "African_theatre_of_World_War_I": 0.008137662531135296,
+        "Africa_(Roman_province)": 0.011132035604868227,
+        "African_diaspora": 0.0065146637070226795,
+        "Afro-Peruvian": 0.004694774373293875,
+        "Africa_Squadron": 0.00363061599496288,
+        "Afro-Jamaican": 0.003505430782868934,
+        "Confederation_of_African_Football": 0.0034220486034568388,
+        "North_African_Campaign": 0.003142101048079379,
+        "Black_Canadians": 0.00657339838593372,
+        "African_darter": 0.002441288225698758,
+        "Afro-Mexicans": 0.002323988725515718,
+        "Afro-Cuban": 0.0023460427939686183,
+        "Afro-Guyanese": 0.002066181763835146,
+        "African-American_Civil_Rights_Movement_(1954\u201368)": 0.0019417695064251198,
+        "African_penguin": 0.0018781809386699694,
+        "African_immigration_to_the_United_States": 0.0017527633668889021,
+        "<unk_wid>": 5.22248880193722e-36
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.6346613080411729,
+       "start": 15,
+       "end": 16,
+       "tokens": "France",
+       "labelScoreMap": {
+        "France": 0.6346613080411729,
+        "France_national_football_team": 0.04685526850200313,
+        "France_national_rugby_union_team": 0.018878738415606625,
+        "French_Third_Republic": 0.016486376611136246,
+        "Early_modern_France": 0.028379252334045334,
+        "France_national_rugby_league_team": 0.02157702155221957,
+        "Louisiana_Purchase": 0.0020374321086586416,
+        "French_Football_Federation": 0.0034837906197689454,
+        "Battle_of_France": 0.029075121667864544,
+        "French_Armed_Forces": 0.011157033635316949,
+        "France_national_basketball_team": 0.009040365547878513,
+        "France_Davis_Cup_team": 0.010607460691831525,
+        "Anatole_France": 0.0024240934564583464,
+        "Syndicat_National_de_l'\u00c9dition_Phonographique": 0.001761991653104357,
+        "France_women's_national_football_team": 0.010928539679825875,
+        "Minister_of_Health_(France)": 0.0012609857714427483,
+        "First_French_Empire": 0.045266366591156654,
+        "France_national_youth_football_team": 0.0030564708528971014,
+        "Ligue_Nationale_de_Basket": 0.0013616746913546814,
+        "France_men's_national_ice_hockey_team": 0.0016518537748999433,
+        "French_colonial_empire": 0.012169096243824451,
+        "France_national_cricket_team": 0.00573676794589115,
+        "Ligue_1": 0.0013639064508718084,
+        "French_First_Republic": 0.02567935738783144,
+        "French_Revolution_of_1848": 0.044659139879981664,
+        "France_Fed_Cup_team": 0.009525819394840691,
+        "French_Rugby_Federation": 0.0009147664981160016,
+        "<unk_wid>": 8.338552964945763e-18
+       }
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 0.9859345575690361,
+       "start": 406,
+       "end": 407,
+       "tokens": "UMP",
+       "labelScoreMap": {
+        "Union_for_a_Popular_Movement": 0.9859345575690361,
+        "United_Midwestern_Promoters": 0.014065442430963877,
+        "<unk_wid>": 2.3505535046339057e-37
+       }
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.9598816183664499,
+       "start": 490,
+       "end": 492,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "San_Francisco": 0.9598816183664499,
+        "Francis_of_Assisi": 0.003749209683563417,
+        "University_of_San_Francisco": 0.003746609845969985,
+        "San_Francisco_F.C.": 0.003198082671780392,
+        "San_Francisco_Giants": 0.003081501111114756,
+        "San_Francisco_49ers": 0.0029745194893373416,
+        "San_Francisco_Mint": 0.0025275177671891234,
+        "San_Francisco_International_Airport": 0.0024187900112952196,
+        "San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)": 0.002220427260754914,
+        "San_Francisco,_C\u00f3rdoba": 0.002124711583987707,
+        "Ed_Lee_(politician)": 0.0017465071138756333,
+        "Chinatown,_San_Francisco": 0.002251923599272864,
+        "1906_San_Francisco_earthquake": 0.0015879021980316963,
+        "San_Francisco_Dons_men's_basketball": 0.0015613152789405941,
+        "San_Francisco,_Cebu": 0.0015446441135757779,
+        "Pacific_Coast_Championships": 0.0013603409218604214,
+        "Golden_State_Warriors": 0.0013007583618961898,
+        "San_Francisco_Bay": 0.0015656616338607554,
+        "Port_of_San_Francisco": 0.0011579589872430407,
+        "<unk_wid>": 6.170270990774072e-25
+       }
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 0.9859340318625558,
+       "start": 460,
+       "end": 461,
+       "tokens": "UMP",
+       "labelScoreMap": {
+        "Union_for_a_Popular_Movement": 0.9859340318625558,
+        "United_Midwestern_Promoters": 0.014065968137444276,
+        "<unk_wid>": 8.939020451219128e-39
+       }
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 1.0,
+       "start": 399,
+       "end": 404,
+       "tokens": "Union for a Popular Movement",
+       "labelScoreMap": {
+        "Union_for_a_Popular_Movement": 1.0,
+        "<unk_wid>": 5.503557679681789e-40
+       }
+      },
+      {
+       "label": "Jean-Fran\u00e7ois_Cop\u00e9",
+       "score": 1.0,
+       "start": 420,
+       "end": 424,
+       "tokens": "Jean - Fran\u00e7ois Cop\u00e9",
+       "labelScoreMap": {
+        "Jean-Fran\u00e7ois_Cop\u00e9": 1.0,
+        "<unk_wid>": 8.407790785948902e-45
+       }
+      },
+      {
+       "label": "North_Africa",
+       "score": 0.4941298514745671,
+       "start": 598,
+       "end": 600,
+       "tokens": "North African",
+       "labelScoreMap": {
+        "North_Africa": 0.4941298514745671,
+        "North_African_Campaign": 0.055715879081412574,
+        "Maghreb": 0.20415938180160656,
+        "Berbers": 0.14507024378867886,
+        "Operation_Torch": 0.03137405257959262,
+        "Couscous": 0.0037041049054264926,
+        "Maghrebi_Arabic": 0.002117854636338978,
+        "Muslim_conquest_of_the_Maghreb": 0.06238170348858743,
+        "2011\u201312_Moroccan_protests": 0.001346928243789401,
+        "<unk_wid>": 6.328802124757222e-30
+       }
+      },
+      {
+       "label": "Western_Australia",
+       "score": 0.15094883738231146,
+       "start": 96,
+       "end": 97,
+       "tokens": "Western",
+       "labelScoreMap": {
+        "Western_United_States": 0.06974717758419759,
+        "Western_Europe": 0.12156077560405666,
+        "Western_Conference_(NBA)": 0.04952420344031941,
+        "Western_Christianity": 0.03318068778691433,
+        "American_frontier": 0.032528721163716384,
+        "Western_Air_Defense_Force": 0.022305548547828378,
+        "Western_New_York": 0.02136505271717879,
+        "Western_Australia": 0.15094883738231146,
+        "Western_North_Carolina": 0.01824901671480881,
+        "Western_Hemisphere": 0.021130783954190498,
+        "Western_Lombard_dialect": 0.014439872018738824,
+        "West_Africa": 0.09334300644836276,
+        "Western_Conference_(WNBA)": 0.014779575608803889,
+        "Western_Asia": 0.022193597543215437,
+        "Western_Theater_of_the_American_Civil_War": 0.01273873461077256,
+        "Western_Roman_Empire": 0.1495589707453603,
+        "Western_Armenian": 0.014521812683632677,
+        "Western_India": 0.011856784379235194,
+        "University_of_Western_Ontario": 0.009396015785342259,
+        "Western_Tool_Works_(automobile_company)": 0.008869294838264086,
+        "Western_Pennsylvania": 0.007510413363647117,
+        "Western_Province_(Kenya)": 0.007292603725386358,
+        "Western_Province,_Sri_Lanka": 0.007692667464484761,
+        "North_Shore,_Northern_&_Western_Line": 0.0064368131908755614,
+        "Western_Canada": 0.044070288912306126,
+        "Western_Province_(Solomon_Islands)": 0.006083733106414026,
+        "Western_A.F.C.": 0.005725753693653779,
+        "For_a_Few_Dollars_More": 0.005586695886304948,
+        "Western_Province,_Zambia": 0.005711612061988877,
+        "Western_China": 0.011650949037687928
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.9265693523170156,
+       "start": 707,
+       "end": 708,
+       "tokens": "London",
+       "labelScoreMap": {
+        "London": 0.9265693523170156,
+        "London,_Ontario": 0.02427307213220383,
+        "London_Records": 0.006206941707924664,
+        "London_(European_Parliament_constituency)": 0.004819399072812941,
+        "7_July_2005_London_bombings": 0.00407728172709308,
+        "London_International_Airport": 0.0033791972296687693,
+        "London_Fire_Brigade": 0.0032176167749639684,
+        "London_Ambulance_Service": 0.0030700785492303847,
+        "London,_Kentucky": 0.00293013641948114,
+        "Greater_London": 0.003267565552702104,
+        "London_postal_district": 0.002486982840632511,
+        "Greater_London_Built-up_Area": 0.0021005891834703066,
+        "London_Cricket_Club": 0.0017212165825951447,
+        "London_(heavy_metal_band)": 0.0016404258672816979,
+        "London_Overground": 0.0015912464420733293,
+        "HMS_President_(1918)": 0.001475322371963397,
+        "London_(punk_band)": 0.001352385494599726,
+        "University_of_London": 0.001177449917685632,
+        "City_of_London": 0.0024469156720404216,
+        "London,_Ohio": 0.0011014741739779664,
+        "London_Underground": 0.0010953499705836347,
+        "<unk_wid>": 4.970805353451262e-33
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.6808900620842969,
+       "start": 89,
+       "end": 90,
+       "tokens": "British",
+       "labelScoreMap": {
+        "United_Kingdom": 0.6808900620842969,
+        "Great_Britain": 0.08909491796958398,
+        "British_Empire": 0.0481835875325321,
+        "Kingdom_of_Great_Britain": 0.0751612931012994,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.04121950357217412,
+        "British_English": 0.010039705078818016,
+        "England": 0.011756410259849703,
+        "British_colonization_of_the_Americas": 0.005973874745243872,
+        "British_Raj": 0.009133920842037764,
+        "Britannicus_(play)": 0.005385566211734264,
+        "British_Army": 0.005857570442215608,
+        "British_Americans": 0.003546853675919143,
+        "Royal_Navy": 0.003415025613140789,
+        "English_people": 0.002446028225643629,
+        "British_Isles": 0.0013840236515809386,
+        "East_India_Company": 0.0013865881650317313,
+        "British_Boxing_Board_of_Control": 0.001468157517897515,
+        "Government_of_the_United_Kingdom": 0.001741122374272544,
+        "Banksy": 0.0009880468252245482,
+        "Lee_Child": 0.0009277421115033498,
+        "<unk_wid>": 3.6907586656670554e-32
+       }
+      },
+      {
+       "label": "Paris",
+       "score": 0.6363522441864259,
+       "start": 7,
+       "end": 8,
+       "tokens": "PARIS",
+       "labelScoreMap": {
+        "Paris": 0.6363522441864259,
+        "Paris_Hilton": 0.003369961816150523,
+        "Paris_(Paris_Hilton_album)": 0.002506345616820871,
+        "Paris_Las_Vegas": 0.002164634077024889,
+        "Paris,_Texas": 0.0018521982927766707,
+        "Paris,_Kentucky": 0.0017856080473930133,
+        "Paris_Metropolitan_Area": 0.001751133695156694,
+        "Paris,_Missouri": 0.0015768512155065189,
+        "Paris_Masters": 0.25317370439386727,
+        "University_of_Paris": 0.003936818443618648,
+        "Paris_(rapper)": 0.0010742527651974214,
+        "Paris,_Maine": 0.0009805981012981611,
+        "Paris,_Ontario": 0.0009243903452880985,
+        "Paris,_Kenosha_County,_Wisconsin": 0.0008484781660461605,
+        "Liberation_of_Paris": 0.08555065597543109,
+        "Charles_de_Gaulle_Airport": 0.0008710190667014753,
+        "Paris_M\u00e9tro": 0.0012811057942252499,
+        "<unk_wid>": 8.238320200091158e-14
+       }
+      },
+      {
+       "label": "Champs-\u00c9lys\u00e9es",
+       "score": 0.9976747524429547,
+       "start": 298,
+       "end": 301,
+       "tokens": "Champs - \u00c9lys\u00e9es",
+       "labelScoreMap": {
+        "Champs-\u00c9lys\u00e9es": 0.9976747524429547,
+        "Bob_Sinclar": 0.0023252475570453655,
+        "<unk_wid>": 1.0299261252953619e-20
+       }
+      },
+      {
+       "label": "Fran\u00e7ois_Hollande",
+       "score": 1.0,
+       "start": 326,
+       "end": 328,
+       "tokens": "Fran\u00e7ois Hollande",
+       "labelScoreMap": {
+        "Fran\u00e7ois_Hollande": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.6238639013903935,
+       "start": 3,
+       "end": 4,
+       "tokens": "FRANCE",
+       "labelScoreMap": {
+        "France": 0.6238639013903935,
+        "France_national_football_team": 0.07545952977447992,
+        "France_national_rugby_union_team": 0.019685462267504977,
+        "French_Third_Republic": 0.014297394796089883,
+        "Early_modern_France": 0.014674332187114522,
+        "France_national_rugby_league_team": 0.017651095382131464,
+        "Louisiana_Purchase": 0.0020349970410907213,
+        "French_Football_Federation": 0.005578702759651773,
+        "Battle_of_France": 0.013138563019251282,
+        "French_Armed_Forces": 0.0025508503474245066,
+        "France_national_basketball_team": 0.007430876078901423,
+        "France_Davis_Cup_team": 0.010837791270035946,
+        "Anatole_France": 0.0014090406000891015,
+        "Syndicat_National_de_l'\u00c9dition_Phonographique": 0.0021325825329336916,
+        "France_women's_national_football_team": 0.012638468757255071,
+        "Minister_of_Health_(France)": 0.001243485380219482,
+        "First_French_Empire": 0.014579474971578053,
+        "France_national_youth_football_team": 0.006562885177079314,
+        "Ligue_Nationale_de_Basket": 0.001469792748624125,
+        "France_men's_national_ice_hockey_team": 0.004446743657023768,
+        "French_colonial_empire": 0.013039652289327953,
+        "France_national_cricket_team": 0.0914892421699571,
+        "Ligue_1": 0.0028316180903663105,
+        "French_First_Republic": 0.033857362790956046,
+        "French_Revolution_of_1848": 0.0037979875203344206,
+        "France_Fed_Cup_team": 0.0015459371215478049,
+        "French_Rugby_Federation": 0.001752229878637845,
+        "<unk_wid>": 6.653115902090137e-18
+       }
+      },
+      {
+       "label": "Al-Qaeda_in_the_Islamic_Maghreb",
+       "score": 1.0,
+       "start": 787,
+       "end": 794,
+       "tokens": "al - Qaida in the Islamic Maghreb",
+       "labelScoreMap": {
+        "Al-Qaeda_in_the_Islamic_Maghreb": 1.0,
+        "<unk_wid>": 2.0398828375062014e-19
+       }
+      },
+      {
+       "label": "Montpellier",
+       "score": 0.8900754019687223,
+       "start": 485,
+       "end": 486,
+       "tokens": "Montpellier",
+       "labelScoreMap": {
+        "Montpellier": 0.8900754019687223,
+        "Montpellier_HSC": 0.07529077734689567,
+        "University_of_Montpellier": 0.013916277233731825,
+        "Montpellier_H\u00e9rault_Rugby": 0.013058972674629861,
+        "Montpellier_HSC_(Ladies)": 0.003022262200110951,
+        "Montpellier_Handball": 0.0019127015978797398,
+        "Montpellier,_Cheltenham": 0.0014177448013010104,
+        "Roman_Catholic_Archdiocese_of_Montpellier": 0.0013058621767289425,
+        "<unk_wid>": 7.112612912158593e-39
+       }
+      },
+      {
+       "label": "Sofia_Boutella",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "Cordier",
+       "labelScoreMap": {
+        "Sofia_Boutella": 1.0,
+        "<unk_wid>": 6.338694323619871e-21
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.8817554454275096,
+       "start": 761,
+       "end": 762,
+       "tokens": "France",
+       "labelScoreMap": {
+        "France": 0.8817554454275096,
+        "France_national_football_team": 0.03960799005189284,
+        "France_national_rugby_union_team": 0.011853629994106546,
+        "French_Third_Republic": 0.008137085568861321,
+        "Early_modern_France": 0.00866460532871674,
+        "France_national_rugby_league_team": 0.004816106351558561,
+        "Louisiana_Purchase": 0.0026934665856329074,
+        "French_Football_Federation": 0.002664554187987568,
+        "Battle_of_France": 0.0027602441038325496,
+        "French_Armed_Forces": 0.002369048687551834,
+        "France_national_basketball_team": 0.003163604912910171,
+        "France_Davis_Cup_team": 0.0024025373949167067,
+        "Anatole_France": 0.001756052325202128,
+        "Syndicat_National_de_l'\u00c9dition_Phonographique": 0.0017469522450541798,
+        "France_women's_national_football_team": 0.0021299242009874325,
+        "Minister_of_Health_(France)": 0.0016673861500544518,
+        "First_French_Empire": 0.004065552642968928,
+        "France_national_youth_football_team": 0.0015272216727194787,
+        "Ligue_Nationale_de_Basket": 0.001440645624143151,
+        "France_men's_national_ice_hockey_team": 0.001440472043253944,
+        "French_colonial_empire": 0.0018839212907440863,
+        "France_national_cricket_team": 0.00444181738753481,
+        "Ligue_1": 0.0012741241175009493,
+        "French_First_Republic": 0.0021939468515040565,
+        "French_Revolution_of_1848": 0.0012736375475296403,
+        "France_Fed_Cup_team": 0.001141825413159015,
+        "French_Rugby_Federation": 0.0011282018921665888,
+        "<unk_wid>": 5.852371161854712e-34
+       }
+      },
+      {
+       "label": "Paris",
+       "score": 0.9643934442909073,
+       "start": 561,
+       "end": 562,
+       "tokens": "Paris",
+       "labelScoreMap": {
+        "Paris": 0.9643934442909073,
+        "Paris_Hilton": 0.004903272757153039,
+        "Paris_(Paris_Hilton_album)": 0.0037058311015046677,
+        "Paris_Las_Vegas": 0.0032151367333151846,
+        "Paris,_Texas": 0.0027582764776802287,
+        "Paris,_Kentucky": 0.002653683792496679,
+        "Paris_Metropolitan_Area": 0.002391211994892639,
+        "Paris,_Missouri": 0.0023436047094357983,
+        "Paris_Masters": 0.002336283674925899,
+        "University_of_Paris": 0.002101944729576808,
+        "Paris_(rapper)": 0.0015965816454865443,
+        "Paris,_Maine": 0.0014574306165355394,
+        "Paris,_Ontario": 0.0014743537383134294,
+        "Paris,_Kenosha_County,_Wisconsin": 0.0012413778290928758,
+        "Liberation_of_Paris": 0.001190109990285706,
+        "Charles_de_Gaulle_Airport": 0.0011242357499608813,
+        "Paris_M\u00e9tro": 0.0011132201684364413,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "University_of_Nice_Sophia_Antipolis",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "UNSA",
+       "labelScoreMap": {
+        "University_of_Nice_Sophia_Antipolis": 1.0,
+        "<unk_wid>": 2.1726692041988013e-20
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "France",
+       "score": 0.5792871566166091,
+       "start": 784,
+       "end": 785,
+       "tokens": "French",
+       "labelScoreMap": {
+        "3017382|France": 0.5792871566166091
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.7077711919903218,
+       "start": 668,
+       "end": 669,
+       "tokens": "British",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.7077711919903218,
+        "6269131|England": 0.009606158287718214,
+        "2654669|British_Isles": 0.0014079793552272146
+       }
+      },
+      {
+       "label": "La_D\u00e9fense",
+       "score": 0.9658948046084112,
+       "start": 550,
+       "end": 552,
+       "tokens": "La D\u00e9fense",
+       "labelScoreMap": {
+        "8504417|La_D\u00e9fense": 0.9658948046084112,
+        "6947010|Grande_Arche": 0.00996662557781647
+       }
+      },
+      {
+       "label": "Paris",
+       "score": 0.9641065145130107,
+       "start": 168,
+       "end": 169,
+       "tokens": "Paris",
+       "labelScoreMap": {
+        "2988507|Paris": 0.9641065145130107,
+        "4717560|Paris,_Texas": 0.002777086111090219,
+        "4303602|Paris,_Kentucky": 0.002689676211679332,
+        "4402452|Paris,_Missouri": 0.0023429343130220233,
+        "4974617|Paris,_Maine": 0.0014570135351206393,
+        "6942553|Paris,_Ontario": 0.0017141525573470355,
+        "5266222|Paris,_Kenosha_County,_Wisconsin": 0.0012410225767635302,
+        "6269554|Charles_de_Gaulle_Airport": 0.0011243900773389578
+       }
+      },
+      {
+       "label": "Socialist_Party_(Ireland)",
+       "score": 0.26149366091155996,
+       "start": 317,
+       "end": 319,
+       "tokens": "Socialist Party",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Les_Invalides",
+       "score": 0.8098903765843976,
+       "start": 176,
+       "end": 177,
+       "tokens": "Invalides",
+       "labelScoreMap": {
+        "6269537|Les_Invalides": 0.8098903765843976
+       }
+      },
+      {
+       "label": "Mali",
+       "score": 0.8687223683526725,
+       "start": 776,
+       "end": 777,
+       "tokens": "Mali",
+       "labelScoreMap": {
+        "2453866|Mali": 0.8687223683526725
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 503,
+       "end": 505,
+       "tokens": "C\u00e9dric Cordier",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Maghreb",
+       "score": 0.9966689897685104,
+       "start": 793,
+       "end": 794,
+       "tokens": "Maghreb",
+       "labelScoreMap": {
+        "2219875|Maghreb": 0.9966689897685104
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.804677587329924,
+       "start": 672,
+       "end": 673,
+       "tokens": "London",
+       "labelScoreMap": {
+        "2643743|London": 0.804677587329924,
+        "6058560|London,_Ontario": 0.10624667513051915,
+        "6296323|London_International_Airport": 0.0029688109075349414,
+        "4298960|London,_Kentucky": 0.011440102682475223,
+        "2648110|Greater_London": 0.01562683286072302,
+        "6944357|University_of_London": 0.0016948700102286354,
+        "2643741|City_of_London": 0.023244553244432028,
+        "4517009|London,_Ohio": 0.002300674254740731
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.6762726422627652,
+       "start": 693,
+       "end": 694,
+       "tokens": "London",
+       "labelScoreMap": {
+        "2643743|London": 0.6762726422627652,
+        "6058560|London,_Ontario": 0.09098649104510549,
+        "6296323|London_International_Airport": 0.00253625581916673,
+        "4298960|London,_Kentucky": 0.0403480710088127,
+        "2648110|Greater_London": 0.031677108692279354,
+        "6944357|University_of_London": 0.008881531430738027,
+        "2643741|City_of_London": 0.0744071209402033,
+        "4517009|London,_Ohio": 0.0048566864776676604
+       }
+      },
+      {
+       "label": "Jean-Marc_Ayrault",
+       "score": 1.0,
+       "start": 450,
+       "end": 454,
+       "tokens": "Jean - Marc Ayrault",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Alain_Jupp\u00e9",
+       "score": 0.9986184710453482,
+       "start": 438,
+       "end": 440,
+       "tokens": "Alain Jupp\u00e9",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "France",
+       "score": 0.6124069844040023,
+       "start": 54,
+       "end": 55,
+       "tokens": "French",
+       "labelScoreMap": {
+        "3017382|France": 0.6124069844040023
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.693261732611429,
+       "start": 512,
+       "end": 513,
+       "tokens": "France",
+       "labelScoreMap": {
+        "3017382|France": 0.693261732611429
+       }
+      },
+      {
+       "label": "Jean-Yves_Le_Drian",
+       "score": 1.0,
+       "start": 565,
+       "end": 570,
+       "tokens": "Jean - Yves Le Drian",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Manuel_Valls",
+       "score": 1.0,
+       "start": 718,
+       "end": 720,
+       "tokens": "Manuel Valls",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "France",
+       "score": 0.8837125613712964,
+       "start": 493,
+       "end": 494,
+       "tokens": "France",
+       "labelScoreMap": {
+        "3017382|France": 0.8837125613712964
+       }
+      },
+      {
+       "label": "Catholic_Church",
+       "score": 0.4904404238209594,
+       "start": 225,
+       "end": 226,
+       "tokens": "Roman",
+       "labelScoreMap": {
+        "8378485|Roman_Britain": 0.024813497993716994,
+        "3169071|Rome": 0.022556159083507814,
+        "8334755|Roman,_Romania": 0.00728103989489315,
+        "798549|Romania": 0.003583781147646453
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 684,
+       "end": 686,
+       "tokens": "Christophe Cr\u00e9pin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Africa",
+       "score": 0.7905539225159157,
+       "start": 599,
+       "end": 600,
+       "tokens": "African",
+       "labelScoreMap": {
+        "6255146|Africa": 0.7905539225159157,
+        "8354636|Africa_(Roman_province)": 0.011132035604868227
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.6346613080411729,
+       "start": 15,
+       "end": 16,
+       "tokens": "France",
+       "labelScoreMap": {
+        "3017382|France": 0.6346613080411729
+       }
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 0.9859345575690361,
+       "start": 406,
+       "end": 407,
+       "tokens": "UMP",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.9598816183664499,
+       "start": 490,
+       "end": 492,
+       "tokens": "San Francisco",
+       "labelScoreMap": {
+        "5391997|San_Francisco": 0.9598816183664499,
+        "5404904|University_of_San_Francisco": 0.003746609845969985,
+        "5379047|San_Francisco_Mint": 0.0025275177671891234,
+        "5391989|San_Francisco_International_Airport": 0.0024187900112952196,
+        "3837675|San_Francisco,_C\u00f3rdoba": 0.002124711583987707,
+        "1690011|San_Francisco,_Cebu": 0.0015446441135757779,
+        "5391961|San_Francisco_Bay": 0.0015656616338607554
+       }
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 0.9859340318625558,
+       "start": 460,
+       "end": 461,
+       "tokens": "UMP",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Union_for_a_Popular_Movement",
+       "score": 1.0,
+       "start": 399,
+       "end": 404,
+       "tokens": "Union for a Popular Movement",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Jean-Fran\u00e7ois_Cop\u00e9",
+       "score": 1.0,
+       "start": 420,
+       "end": 424,
+       "tokens": "Jean - Fran\u00e7ois Cop\u00e9",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "North_Africa",
+       "score": 0.4941298514745671,
+       "start": 598,
+       "end": 600,
+       "tokens": "North African",
+       "labelScoreMap": {
+        "2219875|Maghreb": 0.20415938180160656
+       }
+      },
+      {
+       "label": "Western_Australia",
+       "score": 0.15094883738231146,
+       "start": 96,
+       "end": 97,
+       "tokens": "Western",
+       "labelScoreMap": {
+        "9408659|Western_Europe": 0.12156077560405666,
+        "2058645|Western_Australia": 0.15094883738231146,
+        "7729897|Western_Asia": 0.022193597543215437,
+        "400743|Western_Province_(Kenya)": 0.007292603725386358,
+        "1223421|Western_Province,_Sri_Lanka": 0.007692667464484761,
+        "2101556|Western_Province_(Solomon_Islands)": 0.006083733106414026,
+        "896140|Western_Province,_Zambia": 0.005711612061988877
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.9265693523170156,
+       "start": 707,
+       "end": 708,
+       "tokens": "London",
+       "labelScoreMap": {
+        "2643743|London": 0.9265693523170156,
+        "6058560|London,_Ontario": 0.02427307213220383,
+        "6296323|London_International_Airport": 0.0033791972296687693,
+        "4298960|London,_Kentucky": 0.00293013641948114,
+        "2648110|Greater_London": 0.003267565552702104,
+        "6944357|University_of_London": 0.001177449917685632,
+        "2643741|City_of_London": 0.0024469156720404216,
+        "4517009|London,_Ohio": 0.0011014741739779664
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.6808900620842969,
+       "start": 89,
+       "end": 90,
+       "tokens": "British",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.6808900620842969,
+        "6269131|England": 0.011756410259849703,
+        "2654669|British_Isles": 0.0013840236515809386
+       }
+      },
+      {
+       "label": "Paris",
+       "score": 0.6363522441864259,
+       "start": 7,
+       "end": 8,
+       "tokens": "PARIS",
+       "labelScoreMap": {
+        "2988507|Paris": 0.6363522441864259,
+        "4717560|Paris,_Texas": 0.0018521982927766707,
+        "4303602|Paris,_Kentucky": 0.0017856080473930133,
+        "4402452|Paris,_Missouri": 0.0015768512155065189,
+        "4974617|Paris,_Maine": 0.0009805981012981611,
+        "6942553|Paris,_Ontario": 0.0009243903452880985,
+        "5266222|Paris,_Kenosha_County,_Wisconsin": 0.0008484781660461605,
+        "6269554|Charles_de_Gaulle_Airport": 0.0008710190667014753
+       }
+      },
+      {
+       "label": "Champs-\u00c9lys\u00e9es",
+       "score": 0.9976747524429547,
+       "start": 298,
+       "end": 301,
+       "tokens": "Champs - \u00c9lys\u00e9es",
+       "labelScoreMap": {
+        "6269535|Champs-\u00c9lys\u00e9es": 0.9976747524429547
+       }
+      },
+      {
+       "label": "Fran\u00e7ois_Hollande",
+       "score": 1.0,
+       "start": 326,
+       "end": 328,
+       "tokens": "Fran\u00e7ois Hollande",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "France",
+       "score": 0.6238639013903935,
+       "start": 3,
+       "end": 4,
+       "tokens": "FRANCE",
+       "labelScoreMap": {
+        "3017382|France": 0.6238639013903935
+       }
+      },
+      {
+       "label": "Al-Qaeda_in_the_Islamic_Maghreb",
+       "score": 1.0,
+       "start": 787,
+       "end": 794,
+       "tokens": "al - Qaida in the Islamic Maghreb",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Montpellier",
+       "score": 0.8900754019687223,
+       "start": 485,
+       "end": 486,
+       "tokens": "Montpellier",
+       "labelScoreMap": {
+        "2992166|Montpellier": 0.8900754019687223
+       }
+      },
+      {
+       "label": "Sofia_Boutella",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "Cordier",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "France",
+       "score": 0.8817554454275096,
+       "start": 761,
+       "end": 762,
+       "tokens": "France",
+       "labelScoreMap": {
+        "3017382|France": 0.8817554454275096
+       }
+      },
+      {
+       "label": "Paris",
+       "score": 0.9643934442909073,
+       "start": 561,
+       "end": 562,
+       "tokens": "Paris",
+       "labelScoreMap": {
+        "2988507|Paris": 0.9643934442909073,
+        "4717560|Paris,_Texas": 0.0027582764776802287,
+        "4303602|Paris,_Kentucky": 0.002653683792496679,
+        "4402452|Paris,_Missouri": 0.0023436047094357983,
+        "4974617|Paris,_Maine": 0.0014574306165355394,
+        "6942553|Paris,_Ontario": 0.0014743537383134294,
+        "5266222|Paris,_Kenosha_County,_Wisconsin": 0.0012413778290928758,
+        "6269554|Charles_de_Gaulle_Airport": 0.0011242357499608813
+       }
+      },
+      {
+       "label": "University_of_Nice_Sophia_Antipolis",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "UNSA",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

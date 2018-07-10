@@ -1,0 +1,3852 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_DF_001471_20120923_G00A01ATM.xml",
+ "text": "Riot at Taiyun Factory\nWhy cant this employees just get good pay and equal share? They bust their asses to bring us great products. At least their not jumping off buildings this time.\nFoxconn, a contract manufacturer to Apple, closed a northern China factory for the day following an early Monday riot that, according to the company, began as a fight between workers. Details remain scarce.\nThe company said several people were injured and sent to the hospital after the incident, and that some were also detained by police. The factory in question employees about 79,000 workers.\nOther reports, however, described a riot possibly involving as many as 2,000 people and, by one account, potentially sparked when a guard struck a worker. Photos posted by a user on the Chinese Internet service Baidu depicted lines of helmet-clad riot police surrounding what appeared to be workers and rooms littered with detritus and glass from broken windows.\nEarlier this month, a Shanghai Evening Post journalist claimed to have gone undercover at the Taiyun plant. He described his orientation, plant security and his job, which was supposedly to manufacture the back plate of the iPhone 5.\nBack in March, the head of human resources at the Taiyun factory reportedly told a South Korean newspaper that Foxconn had \"just got[ten] the order\" for the iPhone 5. That was just a few weeks after a reported strike involving hundreds of workers over a pay dispute at the Taiyun plant.\nWe'll update this story as we know more.\nUpdated 8:46 p.m. PT: with more details.\nhttp://news.cnet.com/8301-1001_3-57...xconn-confirms-worker-riot-at-taiyun-factory/\nI have to ask myself: Does more excitement on the customer's side (for the new products) result in more pressure on the worker's side?\nEdit: there's a video about it.\nhttp://www.youtube.com/watch?feature=player_embedded&v=8FqKkQJIf9s\nAt least it's not the Taiwan parliament (they fight too). Surely it's about them getting \"good pay and equal share\".\nhttp://www.telegraph.co.uk/news/newsvideo/7878861/Mass-brawl-in-Taiwans-parliament.html\nIn the article quoted, there is no mention that the riot was caused by workers wanting more pay. For all we know it may have been rival gangs, or the settling of old disputes between ethnic minorities, or about some bullies pushing in line at the cafeteria.\nhopefully we don't have a similar issue as last time. If people start to protest apple cause of this. :/ Sad day.",
+ "tokens": [
+  "Riot",
+  "at",
+  "Taiyun",
+  "Factory",
+  "Why",
+  "cant",
+  "this",
+  "employees",
+  "just",
+  "get",
+  "good",
+  "pay",
+  "and",
+  "equal",
+  "share",
+  "?",
+  "They",
+  "bust",
+  "their",
+  "asses",
+  "to",
+  "bring",
+  "us",
+  "great",
+  "products",
+  ".",
+  "At",
+  "least",
+  "their",
+  "not",
+  "jumping",
+  "off",
+  "buildings",
+  "this",
+  "time",
+  ".",
+  "Foxconn",
+  ",",
+  "a",
+  "contract",
+  "manufacturer",
+  "to",
+  "Apple",
+  ",",
+  "closed",
+  "a",
+  "northern",
+  "China",
+  "factory",
+  "for",
+  "the",
+  "day",
+  "following",
+  "an",
+  "early",
+  "Monday",
+  "riot",
+  "that",
+  ",",
+  "according",
+  "to",
+  "the",
+  "company",
+  ",",
+  "began",
+  "as",
+  "a",
+  "fight",
+  "between",
+  "workers",
+  ".",
+  "Details",
+  "remain",
+  "scarce",
+  ".",
+  "The",
+  "company",
+  "said",
+  "several",
+  "people",
+  "were",
+  "injured",
+  "and",
+  "sent",
+  "to",
+  "the",
+  "hospital",
+  "after",
+  "the",
+  "incident",
+  ",",
+  "and",
+  "that",
+  "some",
+  "were",
+  "also",
+  "detained",
+  "by",
+  "police",
+  ".",
+  "The",
+  "factory",
+  "in",
+  "question",
+  "employees",
+  "about",
+  "79,000",
+  "workers",
+  ".",
+  "Other",
+  "reports",
+  ",",
+  "however",
+  ",",
+  "described",
+  "a",
+  "riot",
+  "possibly",
+  "involving",
+  "as",
+  "many",
+  "as",
+  "2,000",
+  "people",
+  "and",
+  ",",
+  "by",
+  "one",
+  "account",
+  ",",
+  "potentially",
+  "sparked",
+  "when",
+  "a",
+  "guard",
+  "struck",
+  "a",
+  "worker",
+  ".",
+  "Photos",
+  "posted",
+  "by",
+  "a",
+  "user",
+  "on",
+  "the",
+  "Chinese",
+  "Internet",
+  "service",
+  "Baidu",
+  "depicted",
+  "lines",
+  "of",
+  "helmet",
+  "-",
+  "clad",
+  "riot",
+  "police",
+  "surrounding",
+  "what",
+  "appeared",
+  "to",
+  "be",
+  "workers",
+  "and",
+  "rooms",
+  "littered",
+  "with",
+  "detritus",
+  "and",
+  "glass",
+  "from",
+  "broken",
+  "windows",
+  ".",
+  "Earlier",
+  "this",
+  "month",
+  ",",
+  "a",
+  "Shanghai",
+  "Evening",
+  "Post",
+  "journalist",
+  "claimed",
+  "to",
+  "have",
+  "gone",
+  "undercover",
+  "at",
+  "the",
+  "Taiyun",
+  "plant",
+  ".",
+  "He",
+  "described",
+  "his",
+  "orientation",
+  ",",
+  "plant",
+  "security",
+  "and",
+  "his",
+  "job",
+  ",",
+  "which",
+  "was",
+  "supposedly",
+  "to",
+  "manufacture",
+  "the",
+  "back",
+  "plate",
+  "of",
+  "the",
+  "iPhone",
+  "5",
+  ".",
+  "Back",
+  "in",
+  "March",
+  ",",
+  "the",
+  "head",
+  "of",
+  "human",
+  "resources",
+  "at",
+  "the",
+  "Taiyun",
+  "factory",
+  "reportedly",
+  "told",
+  "a",
+  "South",
+  "Korean",
+  "newspaper",
+  "that",
+  "Foxconn",
+  "had",
+  "\"",
+  "just",
+  "got",
+  "[",
+  "ten",
+  "]",
+  "the",
+  "order",
+  "\"",
+  "for",
+  "the",
+  "iPhone",
+  "5",
+  ".",
+  "That",
+  "was",
+  "just",
+  "a",
+  "few",
+  "weeks",
+  "after",
+  "a",
+  "reported",
+  "strike",
+  "involving",
+  "hundreds",
+  "of",
+  "workers",
+  "over",
+  "a",
+  "pay",
+  "dispute",
+  "at",
+  "the",
+  "Taiyun",
+  "plant",
+  ".",
+  "We",
+  "'ll",
+  "update",
+  "this",
+  "story",
+  "as",
+  "we",
+  "know",
+  "more",
+  ".",
+  "Updated",
+  "8:46",
+  "p",
+  ".",
+  "m",
+  ".",
+  "PT",
+  ":",
+  "with",
+  "more",
+  "details",
+  ".",
+  "http://news.cnet.com/8301-1001_3-57...xconn-confirms-worker-riot-at-taiyun-factory/",
+  "I",
+  "have",
+  "to",
+  "ask",
+  "myself",
+  ":",
+  "Does",
+  "more",
+  "excitement",
+  "on",
+  "the",
+  "customer",
+  "'s",
+  "side",
+  "(",
+  "for",
+  "the",
+  "new",
+  "products",
+  ")",
+  "result",
+  "in",
+  "more",
+  "pressure",
+  "on",
+  "the",
+  "worker",
+  "'s",
+  "side",
+  "?",
+  "Edit",
+  ":",
+  "there",
+  "'s",
+  "a",
+  "video",
+  "about",
+  "it",
+  ".",
+  "http://www.youtube.com/watch?feature=player_embedded&v=8FqKkQJIf9s",
+  "At",
+  "least",
+  "it",
+  "'s",
+  "not",
+  "the",
+  "Taiwan",
+  "parliament",
+  "(",
+  "they",
+  "fight",
+  "too",
+  ")",
+  ".",
+  "Surely",
+  "it",
+  "'s",
+  "about",
+  "them",
+  "getting",
+  "\"",
+  "good",
+  "pay",
+  "and",
+  "equal",
+  "share",
+  "\"",
+  ".",
+  "http://www.telegraph.co.uk/news/newsvideo/7878861/Mass-brawl-in-Taiwans-parliament.html",
+  "In",
+  "the",
+  "article",
+  "quoted",
+  ",",
+  "there",
+  "is",
+  "no",
+  "mention",
+  "that",
+  "the",
+  "riot",
+  "was",
+  "caused",
+  "by",
+  "workers",
+  "wanting",
+  "more",
+  "pay",
+  ".",
+  "For",
+  "all",
+  "we",
+  "know",
+  "it",
+  "may",
+  "have",
+  "been",
+  "rival",
+  "gangs",
+  ",",
+  "or",
+  "the",
+  "settling",
+  "of",
+  "old",
+  "disputes",
+  "between",
+  "ethnic",
+  "minorities",
+  ",",
+  "or",
+  "about",
+  "some",
+  "bullies",
+  "pushing",
+  "in",
+  "line",
+  "at",
+  "the",
+  "cafeteria",
+  ".",
+  "hopefully",
+  "we",
+  "do",
+  "n't",
+  "have",
+  "a",
+  "similar",
+  "issue",
+  "as",
+  "last",
+  "time",
+  ".",
+  "If",
+  "people",
+  "start",
+  "to",
+  "protest",
+  "apple",
+  "cause",
+  "of",
+  "this",
+  ".",
+  ":",
+  "/",
+  "Sad",
+  "day",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   16,
+   26,
+   36,
+   71,
+   75,
+   100,
+   109,
+   139,
+   175,
+   194,
+   218,
+   254,
+   277,
+   287,
+   293,
+   299,
+   330,
+   339,
+   354,
+   368,
+   389,
+   421,
+   433,
+   443,
+   448
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "apple"
+      },
+      {
+       "label": "Legislative_Yuan",
+       "score": 1.0,
+       "start": 346,
+       "end": 348,
+       "tokens": "Taiwan parliament"
+      },
+      {
+       "label": "Taiwan",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "Taiwan"
+      },
+      {
+       "label": "Taiyuan",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Taiyun"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 346,
+       "end": 348,
+       "tokens": "Taiwan parliament"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "Taiwan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Taiyun"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Riot",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Riot"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "at"
+      },
+      {
+       "label": "Taiyun",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Taiyun"
+      },
+      {
+       "label": "Factory",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "Factory"
+      },
+      {
+       "label": "Why",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Why"
+      },
+      {
+       "label": "cant",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "cant"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "this"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "employees"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "just"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "get"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "good"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "pay"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "and"
+      },
+      {
+       "label": "equal",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "equal"
+      },
+      {
+       "label": "share",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "share"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "?"
+      },
+      {
+       "label": "They",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "They"
+      },
+      {
+       "label": "bust",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "bust"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "their"
+      },
+      {
+       "label": "asses",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "asses"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "to"
+      },
+      {
+       "label": "bring",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "bring"
+      },
+      {
+       "label": "us",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "us"
+      },
+      {
+       "label": "great",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "great"
+      },
+      {
+       "label": "products",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "products"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "."
+      },
+      {
+       "label": "At",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "At"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "least"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "their"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "not"
+      },
+      {
+       "label": "jumping",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "jumping"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "off"
+      },
+      {
+       "label": "buildings",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "buildings"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "this"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "time"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "."
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "a"
+      },
+      {
+       "label": "contract",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "contract"
+      },
+      {
+       "label": "manufacturer",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "manufacturer"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "to"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "Apple"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": ","
+      },
+      {
+       "label": "closed",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "closed"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "a"
+      },
+      {
+       "label": "northern",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "northern"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "China"
+      },
+      {
+       "label": "factory",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "factory"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "the"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "day"
+      },
+      {
+       "label": "following",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "following"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "an"
+      },
+      {
+       "label": "early",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "early"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Monday"
+      },
+      {
+       "label": "riot",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "riot"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "that"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "company"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": ","
+      },
+      {
+       "label": "began",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "began"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "a"
+      },
+      {
+       "label": "fight",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "fight"
+      },
+      {
+       "label": "between",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "between"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "workers"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "."
+      },
+      {
+       "label": "Details",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "Details"
+      },
+      {
+       "label": "remain",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "remain"
+      },
+      {
+       "label": "scarce",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "scarce"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "company"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "said"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "several"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "people"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "were"
+      },
+      {
+       "label": "injured",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "injured"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "and"
+      },
+      {
+       "label": "sent",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "sent"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "the"
+      },
+      {
+       "label": "hospital",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "hospital"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "the"
+      },
+      {
+       "label": "incident",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "incident"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "and"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "that"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "some"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "were"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "also"
+      },
+      {
+       "label": "detained",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "detained"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "by"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "police"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "The"
+      },
+      {
+       "label": "factory",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "factory"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "in"
+      },
+      {
+       "label": "question",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "question"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "employees"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "about"
+      },
+      {
+       "label": "79,000",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "79,000"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "workers"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "."
+      },
+      {
+       "label": "Other",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Other"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "reports"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": ","
+      },
+      {
+       "label": "however",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "however"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": ","
+      },
+      {
+       "label": "described",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "described"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "a"
+      },
+      {
+       "label": "riot",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "riot"
+      },
+      {
+       "label": "possibly",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "possibly"
+      },
+      {
+       "label": "involving",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "involving"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "as"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "many"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "as"
+      },
+      {
+       "label": "2,000",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "2,000"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "people"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "and"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": ","
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "by"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "one"
+      },
+      {
+       "label": "account",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "account"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": ","
+      },
+      {
+       "label": "potentially",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "potentially"
+      },
+      {
+       "label": "sparked",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "sparked"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "when"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "a"
+      },
+      {
+       "label": "guard",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "guard"
+      },
+      {
+       "label": "struck",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "struck"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "a"
+      },
+      {
+       "label": "worker",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "worker"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "."
+      },
+      {
+       "label": "Photos",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Photos"
+      },
+      {
+       "label": "posted",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "posted"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "a"
+      },
+      {
+       "label": "user",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "user"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "the"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Internet",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "Internet"
+      },
+      {
+       "label": "service",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "service"
+      },
+      {
+       "label": "Baidu",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "Baidu"
+      },
+      {
+       "label": "depicted",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "depicted"
+      },
+      {
+       "label": "lines",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "lines"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "of"
+      },
+      {
+       "label": "helmet",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "helmet"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "-"
+      },
+      {
+       "label": "clad",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "clad"
+      },
+      {
+       "label": "riot",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "riot"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "police"
+      },
+      {
+       "label": "surrounding",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "surrounding"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "what"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "appeared"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "be"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "workers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "and"
+      },
+      {
+       "label": "rooms",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "rooms"
+      },
+      {
+       "label": "littered",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "littered"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "with"
+      },
+      {
+       "label": "detritus",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "detritus"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "and"
+      },
+      {
+       "label": "glass",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "glass"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "from"
+      },
+      {
+       "label": "broken",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "broken"
+      },
+      {
+       "label": "windows",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "windows"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "."
+      },
+      {
+       "label": "Earlier",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "Earlier"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "this"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "month"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "a"
+      },
+      {
+       "label": "Shanghai",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "Shanghai"
+      },
+      {
+       "label": "Evening",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "Evening"
+      },
+      {
+       "label": "Post",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "Post"
+      },
+      {
+       "label": "journalist",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "journalist"
+      },
+      {
+       "label": "claimed",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "claimed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "have"
+      },
+      {
+       "label": "gone",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "gone"
+      },
+      {
+       "label": "undercover",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "undercover"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "the"
+      },
+      {
+       "label": "Taiyun",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "Taiyun"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "plant"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "He"
+      },
+      {
+       "label": "described",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "described"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "his"
+      },
+      {
+       "label": "orientation",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "orientation"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": ","
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "plant"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "security"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "and"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "his"
+      },
+      {
+       "label": "job",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "job"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "which"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "was"
+      },
+      {
+       "label": "supposedly",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "supposedly"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "to"
+      },
+      {
+       "label": "manufacture",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "manufacture"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "the"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "back"
+      },
+      {
+       "label": "plate",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "plate"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "the"
+      },
+      {
+       "label": "iPhone",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "iPhone"
+      },
+      {
+       "label": "5",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "5"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "."
+      },
+      {
+       "label": "Back",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "Back"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "in"
+      },
+      {
+       "label": "March",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "March"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "the"
+      },
+      {
+       "label": "head",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "head"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "of"
+      },
+      {
+       "label": "human",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "human"
+      },
+      {
+       "label": "resources",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "resources"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "the"
+      },
+      {
+       "label": "Taiyun",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Taiyun"
+      },
+      {
+       "label": "factory",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "factory"
+      },
+      {
+       "label": "reportedly",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "reportedly"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "told"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "a"
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "South"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "Korean"
+      },
+      {
+       "label": "newspaper",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "newspaper"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "that"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "had"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "\""
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "just"
+      },
+      {
+       "label": "got",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "got"
+      },
+      {
+       "label": "[",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "["
+      },
+      {
+       "label": "ten",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "ten"
+      },
+      {
+       "label": "]",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "]"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "the"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "order"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "\""
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "the"
+      },
+      {
+       "label": "iPhone",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "iPhone"
+      },
+      {
+       "label": "5",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "5"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "."
+      },
+      {
+       "label": "That",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "That"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "was"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "just"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "a"
+      },
+      {
+       "label": "few",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "few"
+      },
+      {
+       "label": "weeks",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "weeks"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "after"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "a"
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "reported"
+      },
+      {
+       "label": "strike",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "strike"
+      },
+      {
+       "label": "involving",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "involving"
+      },
+      {
+       "label": "hundreds",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "hundreds"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "of"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "workers"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "over"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "a"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "pay"
+      },
+      {
+       "label": "dispute",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "dispute"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "the"
+      },
+      {
+       "label": "Taiyun",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "Taiyun"
+      },
+      {
+       "label": "plant",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "plant"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "."
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "We"
+      },
+      {
+       "label": "'ll",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "'ll"
+      },
+      {
+       "label": "update",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "update"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "this"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "story"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "as"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "we"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "know"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "more"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "."
+      },
+      {
+       "label": "Updated",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "Updated"
+      },
+      {
+       "label": "8:46",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "8:46"
+      },
+      {
+       "label": "p",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "p"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "."
+      },
+      {
+       "label": "m",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "m"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "."
+      },
+      {
+       "label": "PT",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "PT"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": ":"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "with"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "more"
+      },
+      {
+       "label": "details",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "details"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "."
+      },
+      {
+       "label": "http://news.cnet.com/8301-1001_3-57...xconn-confirms-worker-riot-at-taiyun-factory/",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "http://news.cnet.com/8301-1001_3-57...xconn-confirms-worker-riot-at-taiyun-factory/"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "have"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "to"
+      },
+      {
+       "label": "ask",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "ask"
+      },
+      {
+       "label": "myself",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "myself"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": ":"
+      },
+      {
+       "label": "Does",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "Does"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "more"
+      },
+      {
+       "label": "excitement",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "excitement"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "the"
+      },
+      {
+       "label": "customer",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "customer"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "'s"
+      },
+      {
+       "label": "side",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "side"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "("
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "the"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "new"
+      },
+      {
+       "label": "products",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "products"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": ")"
+      },
+      {
+       "label": "result",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "result"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "in"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "more"
+      },
+      {
+       "label": "pressure",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "pressure"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "the"
+      },
+      {
+       "label": "worker",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "worker"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "'s"
+      },
+      {
+       "label": "side",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "side"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "?"
+      },
+      {
+       "label": "Edit",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "Edit"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": ":"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "there"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "'s"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "a"
+      },
+      {
+       "label": "video",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "video"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "about"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "it"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "."
+      },
+      {
+       "label": "http://www.youtube.com/watch?feature=player_embedded&v=8FqKkQJIf9s",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "http://www.youtube.com/watch?feature=player_embedded&v=8FqKkQJIf9s"
+      },
+      {
+       "label": "At",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "At"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "least"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "'s"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "not"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "the"
+      },
+      {
+       "label": "Taiwan",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "Taiwan"
+      },
+      {
+       "label": "parliament",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "parliament"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "("
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "they"
+      },
+      {
+       "label": "fight",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "fight"
+      },
+      {
+       "label": "too",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "too"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "."
+      },
+      {
+       "label": "Surely",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "Surely"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "'s"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "about"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "them"
+      },
+      {
+       "label": "getting",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "getting"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "\""
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "good"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "pay"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "and"
+      },
+      {
+       "label": "equal",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "equal"
+      },
+      {
+       "label": "share",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "share"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "\""
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "."
+      },
+      {
+       "label": "http://www.telegraph.co.uk/news/newsvideo/7878861/Mass-brawl-in-Taiwans-parliament.html",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "http://www.telegraph.co.uk/news/newsvideo/7878861/Mass-brawl-in-Taiwans-parliament.html"
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "In"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "the"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "article"
+      },
+      {
+       "label": "quoted",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "quoted"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": ","
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "there"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "is"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "no"
+      },
+      {
+       "label": "mention",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "mention"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "the"
+      },
+      {
+       "label": "riot",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "riot"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "was"
+      },
+      {
+       "label": "caused",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "caused"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "by"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "workers"
+      },
+      {
+       "label": "wanting",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "wanting"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "more"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "pay"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "."
+      },
+      {
+       "label": "For",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "For"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "all"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "we"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "know"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "it"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "may"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "been"
+      },
+      {
+       "label": "rival",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "rival"
+      },
+      {
+       "label": "gangs",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "gangs"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": ","
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "or"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "the"
+      },
+      {
+       "label": "settling",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "settling"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "of"
+      },
+      {
+       "label": "old",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "old"
+      },
+      {
+       "label": "disputes",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "disputes"
+      },
+      {
+       "label": "between",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "between"
+      },
+      {
+       "label": "ethnic",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "ethnic"
+      },
+      {
+       "label": "minorities",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "minorities"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": ","
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "or"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "about"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "some"
+      },
+      {
+       "label": "bullies",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "bullies"
+      },
+      {
+       "label": "pushing",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "pushing"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "in"
+      },
+      {
+       "label": "line",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "line"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "the"
+      },
+      {
+       "label": "cafeteria",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "cafeteria"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "."
+      },
+      {
+       "label": "hopefully",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "hopefully"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "we"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "do"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "n't"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "have"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "a"
+      },
+      {
+       "label": "similar",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "similar"
+      },
+      {
+       "label": "issue",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "issue"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "as"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "last"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "time"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "If"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "people"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "start"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "to"
+      },
+      {
+       "label": "protest",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "protest"
+      },
+      {
+       "label": "apple",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "apple"
+      },
+      {
+       "label": "cause",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "cause"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "of"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "this"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "."
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": ":"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "/"
+      },
+      {
+       "label": "Sad",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "Sad"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.38335915604232196,
+       "start": 438,
+       "end": 439,
+       "tokens": "apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.38335915604232196,
+        "Apple": 0.21949349677785185,
+        "Apple_Records": 0.02835743903568279,
+        "Apple_II_series": 0.019950944163364806,
+        "Apple_Corps": 0.007729629943151525,
+        "IPhone": 0.004737671518359933,
+        "Apple_II_Plus": 0.004034469864363821,
+        "Macintosh": 0.03859759920492923,
+        "Apple_(album)": 0.002042229153018926,
+        "IPad": 0.007306782743550287,
+        "Apple_Store": 0.002725125941915285,
+        "Cashew": 0.11329528984871566,
+        "Mac_Mini": 0.009284269000819266,
+        "Apple_III": 0.013965613608219223,
+        "Apple_I": 0.002724742557170919,
+        "Malus": 0.12334524443153667,
+        "ITunes": 0.007815965801256135,
+        "Apple_TV": 0.009144991223922459,
+        "Apple_Lisa": 0.0020893391397991262,
+        "<unk_wid>": 4.5179195505553714e-15
+       }
+      },
+      {
+       "label": "Republic_of_China_legislative_election,_2004",
+       "score": 1.0,
+       "start": 346,
+       "end": 348,
+       "tokens": "Taiwan parliament",
+       "labelScoreMap": {
+        "Republic_of_China_legislative_election,_2004": 1.0,
+        "<unk_wid>": 2.959878976726445e-29
+       }
+      },
+      {
+       "label": "Taiwan",
+       "score": 0.5991333322332435,
+       "start": 346,
+       "end": 347,
+       "tokens": "Taiwan",
+       "labelScoreMap": {
+        "Taiwan": 0.5991333322332435,
+        "Taiwan_Province": 0.18990552088731064,
+        "Taiwan_under_Japanese_rule": 0.12352879950451688,
+        "Super_Basketball_League": 0.0020627432618036644,
+        "Taiwan_High_Speed_Rail": 0.0020553059221118004,
+        "Episcopal_Diocese_of_Taiwan": 0.0013729451598604346,
+        "Philippines": 0.0783848657440883,
+        "Asus": 0.0011842724405170186,
+        "Green_Party_Taiwan": 0.0007875790720005041,
+        "Chinese_Taipei_national_football_team": 0.0008428536165843274,
+        "Taiwan_Province,_People's_Republic_of_China": 0.0007417821579628461,
+        "<unk_wid>": 6.287103220681851e-22
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 2,
+       "end": 3,
+       "tokens": "Taiyun",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.38335915604232196,
+       "start": 438,
+       "end": 439,
+       "tokens": "apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Republic_of_China_legislative_election,_2004",
+       "score": 1.0,
+       "start": 346,
+       "end": 348,
+       "tokens": "Taiwan parliament",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Taiwan",
+       "score": 0.5991333322332435,
+       "start": 346,
+       "end": 347,
+       "tokens": "Taiwan",
+       "labelScoreMap": {
+        "1668284|Taiwan": 0.5991333322332435,
+        "7280291|Taiwan_Province": 0.18990552088731064,
+        "1694008|Philippines": 0.0783848657440883
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 2,
+       "end": 3,
+       "tokens": "Taiyun",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

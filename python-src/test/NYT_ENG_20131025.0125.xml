@@ -1,0 +1,5799 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131025.0125.xml",
+ "text": "ESTY PRAISES GAY RIGHTS GROUP FOR IMPROVING TOLERANCE\nand\nNORA LINDTNER\nWASHINGTON \u2013 Rep. Elizabeth Esty, D-Conn., received a rousing welcome at the PFLAG National convention Friday when she delivered the keynote speech to the organization and recounted her family\u2019s work with the advocacy group.\nPFLAG, formerly known as Parents, Family and Friends of Lesbians and Gays, has worked to increase public tolerance and understanding for the gay community, which has been the subject ''of media caricatures and fear and lack of understanding,'' Esty declared.\nThe freshman House member noted that her mother, Mitzi Henderson, became active in PFLAG after her son Jamie \u2013 Esty\u2019s brother \u2013 told his family in 1978 that he was gay. Henderson was president of PFLAG from 1992-1996 and worked for marriage equality and an end to discrimination in the workplace and in healthcare, Esty said.\nThe lawmaker said she had become interested in gay rights before her brother\u2019s announcement and made her first speech on the topic in high school at the age of 16.\n''Now, as you can imagine this is a pretty unusual topic in 1975 in Winona, Minn. \u2013 a town where hog and cattle production was a sought-after course they offered at our high school,'' Esty joked.\nThat was the start of her career-long advocacy of gay rights.\n''In my own improbable path from Supreme Court lawyer working on AIDS policies in the 1990s to PTA mom in the 1990s to the local town council to the State House, and last year to Congress, I have worked hard to ensure that I model and support love and respect for all people,'' she told the PFLAG meeting in the Mayflower Hotel where she received a standing ovation.\nThroughout her career, Esty has supported the LGBT community, voting for full marriage equality in 2009 while a member of the Connecticut legislature, co-sponsoring legislation to increase equality and signing the amicus brief to challenge the Defense of Marriage Act (DOMA) in the Supreme Court.\nThe court overturned DOMA on June 26, a decision that Esty said made her feel proud not only because it was a victory for those in the LGBT community, but also because her mother had been among those who testified against the law in 1996 before a Senate committee.\n''On that day, I felt particularly proud to be Mitzi Henderson\u2019s daughter, proud of the contributions she and so many advocates like her and like you have made to our nation\u2019s progress towards equality. Progress that is not simply the result of politics \u2013 but that is the result of something far more powerful \u2013 love,'' Esty said. ''Like all of us, I was overjoyed in June when the court made the historic decision to end DOMA and correct this moral and constitutional injustice.''",
+ "tokens": [
+  "ESTY",
+  "PRAISES",
+  "GAY",
+  "RIGHTS",
+  "GROUP",
+  "FOR",
+  "IMPROVING",
+  "TOLERANCE",
+  "and",
+  "NORA",
+  "LINDTNER",
+  "WASHINGTON",
+  "\u2013",
+  "Rep.",
+  "Elizabeth",
+  "Esty",
+  ",",
+  "D",
+  "-",
+  "Conn.",
+  ",",
+  "received",
+  "a",
+  "rousing",
+  "welcome",
+  "at",
+  "the",
+  "PFLAG",
+  "National",
+  "convention",
+  "Friday",
+  "when",
+  "she",
+  "delivered",
+  "the",
+  "keynote",
+  "speech",
+  "to",
+  "the",
+  "organization",
+  "and",
+  "recounted",
+  "her",
+  "family",
+  "\u2019s",
+  "work",
+  "with",
+  "the",
+  "advocacy",
+  "group",
+  ".",
+  "PFLAG",
+  ",",
+  "formerly",
+  "known",
+  "as",
+  "Parents",
+  ",",
+  "Family",
+  "and",
+  "Friends",
+  "of",
+  "Lesbians",
+  "and",
+  "Gays",
+  ",",
+  "has",
+  "worked",
+  "to",
+  "increase",
+  "public",
+  "tolerance",
+  "and",
+  "understanding",
+  "for",
+  "the",
+  "gay",
+  "community",
+  ",",
+  "which",
+  "has",
+  "been",
+  "the",
+  "subject",
+  "''",
+  "of",
+  "media",
+  "caricatures",
+  "and",
+  "fear",
+  "and",
+  "lack",
+  "of",
+  "understanding",
+  ",",
+  "''",
+  "Esty",
+  "declared",
+  ".",
+  "The",
+  "freshman",
+  "House",
+  "member",
+  "noted",
+  "that",
+  "her",
+  "mother",
+  ",",
+  "Mitzi",
+  "Henderson",
+  ",",
+  "became",
+  "active",
+  "in",
+  "PFLAG",
+  "after",
+  "her",
+  "son",
+  "Jamie",
+  "\u2013",
+  "Esty",
+  "\u2019s",
+  "brother",
+  "\u2013",
+  "told",
+  "his",
+  "family",
+  "in",
+  "1978",
+  "that",
+  "he",
+  "was",
+  "gay",
+  ".",
+  "Henderson",
+  "was",
+  "president",
+  "of",
+  "PFLAG",
+  "from",
+  "1992-1996",
+  "and",
+  "worked",
+  "for",
+  "marriage",
+  "equality",
+  "and",
+  "an",
+  "end",
+  "to",
+  "discrimination",
+  "in",
+  "the",
+  "workplace",
+  "and",
+  "in",
+  "healthcare",
+  ",",
+  "Esty",
+  "said",
+  ".",
+  "The",
+  "lawmaker",
+  "said",
+  "she",
+  "had",
+  "become",
+  "interested",
+  "in",
+  "gay",
+  "rights",
+  "before",
+  "her",
+  "brother",
+  "\u2019s",
+  "announcement",
+  "and",
+  "made",
+  "her",
+  "first",
+  "speech",
+  "on",
+  "the",
+  "topic",
+  "in",
+  "high",
+  "school",
+  "at",
+  "the",
+  "age",
+  "of",
+  "16",
+  ".",
+  "''",
+  "Now",
+  ",",
+  "as",
+  "you",
+  "can",
+  "imagine",
+  "this",
+  "is",
+  "a",
+  "pretty",
+  "unusual",
+  "topic",
+  "in",
+  "1975",
+  "in",
+  "Winona",
+  ",",
+  "Minn.",
+  "\u2013",
+  "a",
+  "town",
+  "where",
+  "hog",
+  "and",
+  "cattle",
+  "production",
+  "was",
+  "a",
+  "sought",
+  "-",
+  "after",
+  "course",
+  "they",
+  "offered",
+  "at",
+  "our",
+  "high",
+  "school",
+  ",",
+  "''",
+  "Esty",
+  "joked",
+  ".",
+  "That",
+  "was",
+  "the",
+  "start",
+  "of",
+  "her",
+  "career",
+  "-",
+  "long",
+  "advocacy",
+  "of",
+  "gay",
+  "rights",
+  ".",
+  "''",
+  "In",
+  "my",
+  "own",
+  "improbable",
+  "path",
+  "from",
+  "Supreme",
+  "Court",
+  "lawyer",
+  "working",
+  "on",
+  "AIDS",
+  "policies",
+  "in",
+  "the",
+  "1990s",
+  "to",
+  "PTA",
+  "mom",
+  "in",
+  "the",
+  "1990s",
+  "to",
+  "the",
+  "local",
+  "town",
+  "council",
+  "to",
+  "the",
+  "State",
+  "House",
+  ",",
+  "and",
+  "last",
+  "year",
+  "to",
+  "Congress",
+  ",",
+  "I",
+  "have",
+  "worked",
+  "hard",
+  "to",
+  "ensure",
+  "that",
+  "I",
+  "model",
+  "and",
+  "support",
+  "love",
+  "and",
+  "respect",
+  "for",
+  "all",
+  "people",
+  ",",
+  "''",
+  "she",
+  "told",
+  "the",
+  "PFLAG",
+  "meeting",
+  "in",
+  "the",
+  "Mayflower",
+  "Hotel",
+  "where",
+  "she",
+  "received",
+  "a",
+  "standing",
+  "ovation",
+  ".",
+  "Throughout",
+  "her",
+  "career",
+  ",",
+  "Esty",
+  "has",
+  "supported",
+  "the",
+  "LGBT",
+  "community",
+  ",",
+  "voting",
+  "for",
+  "full",
+  "marriage",
+  "equality",
+  "in",
+  "2009",
+  "while",
+  "a",
+  "member",
+  "of",
+  "the",
+  "Connecticut",
+  "legislature",
+  ",",
+  "co",
+  "-",
+  "sponsoring",
+  "legislation",
+  "to",
+  "increase",
+  "equality",
+  "and",
+  "signing",
+  "the",
+  "amicus",
+  "brief",
+  "to",
+  "challenge",
+  "the",
+  "Defense",
+  "of",
+  "Marriage",
+  "Act",
+  "(",
+  "DOMA",
+  ")",
+  "in",
+  "the",
+  "Supreme",
+  "Court",
+  ".",
+  "The",
+  "court",
+  "overturned",
+  "DOMA",
+  "on",
+  "June",
+  "26",
+  ",",
+  "a",
+  "decision",
+  "that",
+  "Esty",
+  "said",
+  "made",
+  "her",
+  "feel",
+  "proud",
+  "not",
+  "only",
+  "because",
+  "it",
+  "was",
+  "a",
+  "victory",
+  "for",
+  "those",
+  "in",
+  "the",
+  "LGBT",
+  "community",
+  ",",
+  "but",
+  "also",
+  "because",
+  "her",
+  "mother",
+  "had",
+  "been",
+  "among",
+  "those",
+  "who",
+  "testified",
+  "against",
+  "the",
+  "law",
+  "in",
+  "1996",
+  "before",
+  "a",
+  "Senate",
+  "committee",
+  ".",
+  "''",
+  "On",
+  "that",
+  "day",
+  ",",
+  "I",
+  "felt",
+  "particularly",
+  "proud",
+  "to",
+  "be",
+  "Mitzi",
+  "Henderson",
+  "\u2019s",
+  "daughter",
+  ",",
+  "proud",
+  "of",
+  "the",
+  "contributions",
+  "she",
+  "and",
+  "so",
+  "many",
+  "advocates",
+  "like",
+  "her",
+  "and",
+  "like",
+  "you",
+  "have",
+  "made",
+  "to",
+  "our",
+  "nation",
+  "\u2019s",
+  "progress",
+  "towards",
+  "equality",
+  ".",
+  "Progress",
+  "that",
+  "is",
+  "not",
+  "simply",
+  "the",
+  "result",
+  "of",
+  "politics",
+  "\u2013",
+  "but",
+  "that",
+  "is",
+  "the",
+  "result",
+  "of",
+  "something",
+  "far",
+  "more",
+  "powerful",
+  "\u2013",
+  "love",
+  ",",
+  "''",
+  "Esty",
+  "said",
+  ".",
+  "''",
+  "Like",
+  "all",
+  "of",
+  "us",
+  ",",
+  "I",
+  "was",
+  "overjoyed",
+  "in",
+  "June",
+  "when",
+  "the",
+  "court",
+  "made",
+  "the",
+  "historic",
+  "decision",
+  "to",
+  "end",
+  "DOMA",
+  "and",
+  "correct",
+  "this",
+  "moral",
+  "and",
+  "constitutional",
+  "injustice",
+  ".",
+  "''"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   51,
+   99,
+   134,
+   161,
+   193,
+   237,
+   251,
+   325,
+   378,
+   430,
+   470,
+   497,
+   527
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 56,
+       "end": 65,
+       "tokens": "Parents , Family and Friends of Lesbians and Gays"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 441,
+       "end": 443,
+       "tokens": "Mitzi Henderson"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "Esty"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 108,
+       "end": 110,
+       "tokens": "Mitzi Henderson"
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "Minnesota",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "Minn."
+      },
+      {
+       "label": "Connecticut_House_of_Representatives",
+       "score": 1.0,
+       "start": 281,
+       "end": 283,
+       "tokens": "State House"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Esty"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "PTA"
+      },
+      {
+       "label": "Supreme_Court_of_the_United_States",
+       "score": 1.0,
+       "start": 258,
+       "end": 260,
+       "tokens": "Supreme Court"
+      },
+      {
+       "label": "United_States_Senate",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Senate"
+      },
+      {
+       "label": "Connecticut",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "Connecticut"
+      },
+      {
+       "label": "United_States_House_of_Representatives",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "House"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "Esty"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Esty"
+      },
+      {
+       "label": "Connecticut",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Conn."
+      },
+      {
+       "label": "Winona,_Minnesota",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Winona"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "Supreme_Court_of_the_United_States",
+       "score": 1.0,
+       "start": 375,
+       "end": 377,
+       "tokens": "Supreme Court"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "Jamie"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "ESTY"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "Esty"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "Congress"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Esty"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 14,
+       "end": 16,
+       "tokens": "Elizabeth Esty"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Henderson"
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "D"
+      },
+      {
+       "label": "Mayflower_Hotel",
+       "score": 1.0,
+       "start": 316,
+       "end": 318,
+       "tokens": "Mayflower Hotel"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 9,
+       "end": 11,
+       "tokens": "NORA LINDTNER"
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "Esty"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 56,
+       "end": 65,
+       "tokens": "Parents , Family and Friends of Lesbians and Gays"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 441,
+       "end": 443,
+       "tokens": "Mitzi Henderson"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "Esty"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 108,
+       "end": 110,
+       "tokens": "Mitzi Henderson"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "Minn."
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 281,
+       "end": 283,
+       "tokens": "State House"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Esty"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "PTA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 258,
+       "end": 260,
+       "tokens": "Supreme Court"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Senate"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "Connecticut"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "House"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "Esty"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Esty"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Conn."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Winona"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 375,
+       "end": 377,
+       "tokens": "Supreme Court"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "Jamie"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "ESTY"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "Esty"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "Congress"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Esty"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 14,
+       "end": 16,
+       "tokens": "Elizabeth Esty"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Henderson"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "D"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 316,
+       "end": 318,
+       "tokens": "Mayflower Hotel"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 9,
+       "end": 11,
+       "tokens": "NORA LINDTNER"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "Esty"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ESTY",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "ESTY"
+      },
+      {
+       "label": "PRAISES",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "PRAISES"
+      },
+      {
+       "label": "GAY",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "GAY"
+      },
+      {
+       "label": "RIGHTS",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "RIGHTS"
+      },
+      {
+       "label": "GROUP",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "GROUP"
+      },
+      {
+       "label": "FOR",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "FOR"
+      },
+      {
+       "label": "IMPROVING",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "IMPROVING"
+      },
+      {
+       "label": "TOLERANCE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "TOLERANCE"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "and"
+      },
+      {
+       "label": "NORA",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "NORA"
+      },
+      {
+       "label": "LINDTNER",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "LINDTNER"
+      },
+      {
+       "label": "WASHINGTON",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "WASHINGTON"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "Rep.",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Rep."
+      },
+      {
+       "label": "Elizabeth",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "Elizabeth"
+      },
+      {
+       "label": "Esty",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "Esty"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": ","
+      },
+      {
+       "label": "D",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "D"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "-"
+      },
+      {
+       "label": "Conn.",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "Conn."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": ","
+      },
+      {
+       "label": "received",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "received"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "a"
+      },
+      {
+       "label": "rousing",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "rousing"
+      },
+      {
+       "label": "welcome",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "welcome"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "the"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "National"
+      },
+      {
+       "label": "convention",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "convention"
+      },
+      {
+       "label": "Friday",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Friday"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "when"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "she"
+      },
+      {
+       "label": "delivered",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "delivered"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "the"
+      },
+      {
+       "label": "keynote",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "keynote"
+      },
+      {
+       "label": "speech",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "speech"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "the"
+      },
+      {
+       "label": "organization",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "organization"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "and"
+      },
+      {
+       "label": "recounted",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "recounted"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "her"
+      },
+      {
+       "label": "family",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "family"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "work"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "the"
+      },
+      {
+       "label": "advocacy",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "advocacy"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "group"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "."
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": ","
+      },
+      {
+       "label": "formerly",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "formerly"
+      },
+      {
+       "label": "known",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "known"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "as"
+      },
+      {
+       "label": "Parents",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Parents"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": ","
+      },
+      {
+       "label": "Family",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Family"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "and"
+      },
+      {
+       "label": "Friends",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "Friends"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "of"
+      },
+      {
+       "label": "Lesbians",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Lesbians"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "and"
+      },
+      {
+       "label": "Gays",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Gays"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": ","
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "has"
+      },
+      {
+       "label": "worked",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "worked"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "to"
+      },
+      {
+       "label": "increase",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "increase"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "public"
+      },
+      {
+       "label": "tolerance",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "tolerance"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "and"
+      },
+      {
+       "label": "understanding",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "understanding"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "the"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "gay"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "community"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "which"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "been"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "the"
+      },
+      {
+       "label": "subject",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "subject"
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "''"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "of"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "media"
+      },
+      {
+       "label": "caricatures",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "caricatures"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "and"
+      },
+      {
+       "label": "fear",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "fear"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "and"
+      },
+      {
+       "label": "lack",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "lack"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "of"
+      },
+      {
+       "label": "understanding",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "understanding"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "''"
+      },
+      {
+       "label": "Esty",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Esty"
+      },
+      {
+       "label": "declared",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "declared"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "The"
+      },
+      {
+       "label": "freshman",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "freshman"
+      },
+      {
+       "label": "House",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "House"
+      },
+      {
+       "label": "member",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "member"
+      },
+      {
+       "label": "noted",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "noted"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "that"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "her"
+      },
+      {
+       "label": "mother",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "mother"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": ","
+      },
+      {
+       "label": "Mitzi",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Mitzi"
+      },
+      {
+       "label": "Henderson",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Henderson"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": ","
+      },
+      {
+       "label": "became",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "became"
+      },
+      {
+       "label": "active",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "active"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "in"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "after"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "her"
+      },
+      {
+       "label": "son",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "son"
+      },
+      {
+       "label": "Jamie",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "Jamie"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "Esty",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Esty"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "brother",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "brother"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "told"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "his"
+      },
+      {
+       "label": "family",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "family"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "in"
+      },
+      {
+       "label": "1978",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "1978"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "was"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "gay"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "."
+      },
+      {
+       "label": "Henderson",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Henderson"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "was"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "president"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "of"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "from"
+      },
+      {
+       "label": "1992-1996",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "1992-1996"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "and"
+      },
+      {
+       "label": "worked",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "worked"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "for"
+      },
+      {
+       "label": "marriage",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "marriage"
+      },
+      {
+       "label": "equality",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "equality"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "and"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "an"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "end"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "to"
+      },
+      {
+       "label": "discrimination",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "discrimination"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "the"
+      },
+      {
+       "label": "workplace",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "workplace"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "and"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "in"
+      },
+      {
+       "label": "healthcare",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "healthcare"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": ","
+      },
+      {
+       "label": "Esty",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Esty"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "The"
+      },
+      {
+       "label": "lawmaker",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "lawmaker"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "said"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "she"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "had"
+      },
+      {
+       "label": "become",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "become"
+      },
+      {
+       "label": "interested",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "interested"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "in"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "gay"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "rights"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "before"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "her"
+      },
+      {
+       "label": "brother",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "brother"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "announcement",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "announcement"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "and"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "made"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "her"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "first"
+      },
+      {
+       "label": "speech",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "speech"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "the"
+      },
+      {
+       "label": "topic",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "topic"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "in"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "high"
+      },
+      {
+       "label": "school",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "school"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "the"
+      },
+      {
+       "label": "age",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "age"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "of"
+      },
+      {
+       "label": "16",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "16"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "''"
+      },
+      {
+       "label": "Now",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "Now"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "as"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "you"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "can"
+      },
+      {
+       "label": "imagine",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "imagine"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "this"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "a"
+      },
+      {
+       "label": "pretty",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "pretty"
+      },
+      {
+       "label": "unusual",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "unusual"
+      },
+      {
+       "label": "topic",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "topic"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "in"
+      },
+      {
+       "label": "1975",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "1975"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "in"
+      },
+      {
+       "label": "Winona",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "Winona"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": ","
+      },
+      {
+       "label": "Minn.",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "Minn."
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "a"
+      },
+      {
+       "label": "town",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "town"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "where"
+      },
+      {
+       "label": "hog",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "hog"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "and"
+      },
+      {
+       "label": "cattle",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "cattle"
+      },
+      {
+       "label": "production",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "production"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "a"
+      },
+      {
+       "label": "sought",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "sought"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "-"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "after"
+      },
+      {
+       "label": "course",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "course"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "they"
+      },
+      {
+       "label": "offered",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "offered"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "at"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "our"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "high"
+      },
+      {
+       "label": "school",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "school"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "''"
+      },
+      {
+       "label": "Esty",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "Esty"
+      },
+      {
+       "label": "joked",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "joked"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "."
+      },
+      {
+       "label": "That",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "That"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "was"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "the"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "start"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "of"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "her"
+      },
+      {
+       "label": "career",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "career"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "-"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "long"
+      },
+      {
+       "label": "advocacy",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "advocacy"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "of"
+      },
+      {
+       "label": "gay",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "gay"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "rights"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "''"
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "In"
+      },
+      {
+       "label": "my",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "my"
+      },
+      {
+       "label": "own",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "own"
+      },
+      {
+       "label": "improbable",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "improbable"
+      },
+      {
+       "label": "path",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "path"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "from"
+      },
+      {
+       "label": "Supreme",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "Supreme"
+      },
+      {
+       "label": "Court",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "Court"
+      },
+      {
+       "label": "lawyer",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "lawyer"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "working"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "on"
+      },
+      {
+       "label": "AIDS",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "AIDS"
+      },
+      {
+       "label": "policies",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "policies"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "the"
+      },
+      {
+       "label": "1990s",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "1990s"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "to"
+      },
+      {
+       "label": "PTA",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "PTA"
+      },
+      {
+       "label": "mom",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "mom"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "the"
+      },
+      {
+       "label": "1990s",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "1990s"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "the"
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "local"
+      },
+      {
+       "label": "town",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "town"
+      },
+      {
+       "label": "council",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "council"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "the"
+      },
+      {
+       "label": "State",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "State"
+      },
+      {
+       "label": "House",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "House"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "and"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "last"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "year"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "to"
+      },
+      {
+       "label": "Congress",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "Congress"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": ","
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "I"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "have"
+      },
+      {
+       "label": "worked",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "worked"
+      },
+      {
+       "label": "hard",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "hard"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "to"
+      },
+      {
+       "label": "ensure",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "ensure"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "that"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "I"
+      },
+      {
+       "label": "model",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "model"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "and"
+      },
+      {
+       "label": "support",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "support"
+      },
+      {
+       "label": "love",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "love"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "and"
+      },
+      {
+       "label": "respect",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "respect"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "for"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "all"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "people"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "''"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "she"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "told"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "the"
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "PFLAG"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "meeting"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "the"
+      },
+      {
+       "label": "Mayflower",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Mayflower"
+      },
+      {
+       "label": "Hotel",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Hotel"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "where"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "she"
+      },
+      {
+       "label": "received",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "received"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "a"
+      },
+      {
+       "label": "standing",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "standing"
+      },
+      {
+       "label": "ovation",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "ovation"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "."
+      },
+      {
+       "label": "Throughout",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "Throughout"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "her"
+      },
+      {
+       "label": "career",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "career"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": ","
+      },
+      {
+       "label": "Esty",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "Esty"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "has"
+      },
+      {
+       "label": "supported",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "supported"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "the"
+      },
+      {
+       "label": "LGBT",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "LGBT"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "community"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": ","
+      },
+      {
+       "label": "voting",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "voting"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "for"
+      },
+      {
+       "label": "full",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "full"
+      },
+      {
+       "label": "marriage",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "marriage"
+      },
+      {
+       "label": "equality",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "equality"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "in"
+      },
+      {
+       "label": "2009",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "2009"
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "while"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "a"
+      },
+      {
+       "label": "member",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "member"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "the"
+      },
+      {
+       "label": "Connecticut",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "Connecticut"
+      },
+      {
+       "label": "legislature",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "legislature"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": ","
+      },
+      {
+       "label": "co",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "co"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "-"
+      },
+      {
+       "label": "sponsoring",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "sponsoring"
+      },
+      {
+       "label": "legislation",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "legislation"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "to"
+      },
+      {
+       "label": "increase",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "increase"
+      },
+      {
+       "label": "equality",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "equality"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "and"
+      },
+      {
+       "label": "signing",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "signing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "the"
+      },
+      {
+       "label": "amicus",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "amicus"
+      },
+      {
+       "label": "brief",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "brief"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "to"
+      },
+      {
+       "label": "challenge",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "challenge"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "the"
+      },
+      {
+       "label": "Defense",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "Defense"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "of"
+      },
+      {
+       "label": "Marriage",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "Marriage"
+      },
+      {
+       "label": "Act",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "Act"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "("
+      },
+      {
+       "label": "DOMA",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "DOMA"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": ")"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "the"
+      },
+      {
+       "label": "Supreme",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "Supreme"
+      },
+      {
+       "label": "Court",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "Court"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "The"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "court"
+      },
+      {
+       "label": "overturned",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "overturned"
+      },
+      {
+       "label": "DOMA",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "DOMA"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "on"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "June"
+      },
+      {
+       "label": "26",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "26"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "a"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "decision"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "that"
+      },
+      {
+       "label": "Esty",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "Esty"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "said"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "made"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "her"
+      },
+      {
+       "label": "feel",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "feel"
+      },
+      {
+       "label": "proud",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "proud"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "not"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "only"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "because"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "a"
+      },
+      {
+       "label": "victory",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "victory"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "for"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "those"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "the"
+      },
+      {
+       "label": "LGBT",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "LGBT"
+      },
+      {
+       "label": "community",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "community"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "but"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "also"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "because"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "her"
+      },
+      {
+       "label": "mother",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "mother"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "been"
+      },
+      {
+       "label": "among",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "among"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "those"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "who"
+      },
+      {
+       "label": "testified",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "testified"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "against"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "the"
+      },
+      {
+       "label": "law",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "law"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "in"
+      },
+      {
+       "label": "1996",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "1996"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "before"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "a"
+      },
+      {
+       "label": "Senate",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Senate"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "committee"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "''"
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "On"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "that"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "day"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": ","
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "I"
+      },
+      {
+       "label": "felt",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "felt"
+      },
+      {
+       "label": "particularly",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "particularly"
+      },
+      {
+       "label": "proud",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "proud"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "be"
+      },
+      {
+       "label": "Mitzi",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "Mitzi"
+      },
+      {
+       "label": "Henderson",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "Henderson"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "daughter",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "daughter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": ","
+      },
+      {
+       "label": "proud",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "proud"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "the"
+      },
+      {
+       "label": "contributions",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "contributions"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "she"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "and"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "so"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "many"
+      },
+      {
+       "label": "advocates",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "advocates"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "like"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "her"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "and"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "like"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "you"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "have"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "made"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "to"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "our"
+      },
+      {
+       "label": "nation",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "nation"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "progress",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "progress"
+      },
+      {
+       "label": "towards",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "towards"
+      },
+      {
+       "label": "equality",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "equality"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "."
+      },
+      {
+       "label": "Progress",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "Progress"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "that"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "is"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "not"
+      },
+      {
+       "label": "simply",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "simply"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "the"
+      },
+      {
+       "label": "result",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "result"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "of"
+      },
+      {
+       "label": "politics",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "politics"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "but"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "that"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "the"
+      },
+      {
+       "label": "result",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "result"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "of"
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "something"
+      },
+      {
+       "label": "far",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "far"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "more"
+      },
+      {
+       "label": "powerful",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "powerful"
+      },
+      {
+       "label": "\u2013",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "\u2013"
+      },
+      {
+       "label": "love",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "love"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "''"
+      },
+      {
+       "label": "Esty",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "Esty"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "''"
+      },
+      {
+       "label": "Like",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "Like"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "all"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "of"
+      },
+      {
+       "label": "us",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "us"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": ","
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "I"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "was"
+      },
+      {
+       "label": "overjoyed",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "overjoyed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "in"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "June"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "when"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "the"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "court"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "made"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "the"
+      },
+      {
+       "label": "historic",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "historic"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "decision"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "to"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "end"
+      },
+      {
+       "label": "DOMA",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "DOMA"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "and"
+      },
+      {
+       "label": "correct",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "correct"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "this"
+      },
+      {
+       "label": "moral",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "moral"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "and"
+      },
+      {
+       "label": "constitutional",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "constitutional"
+      },
+      {
+       "label": "injustice",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "injustice"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "''"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 56,
+       "end": 65,
+       "tokens": "Parents , Family and Friends of Lesbians and Gays",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 441,
+       "end": 443,
+       "tokens": "Mitzi Henderson",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5714170646910713,
+       "start": 389,
+       "end": 390,
+       "tokens": "Esty",
+       "labelScoreMap": {
+        "Ty_Inc.": 0.2857140947449543,
+        "Etsy": 0.1428688405639744,
+        "Mary_Eastey": 0.5714170646910713,
+        "<unk_wid>": 1.3857512708419592e-34
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 108,
+       "end": 110,
+       "tokens": "Mitzi Henderson",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.655318256897244,
+       "start": 11,
+       "end": 12,
+       "tokens": "WASHINGTON",
+       "labelScoreMap": {
+        "Washington,_D.C.": 0.655318256897244,
+        "George_Washington": 0.047288694709578485,
+        "University_of_Washington": 0.02544710243026381,
+        "Washington,_Pennsylvania": 0.01608322345280083,
+        "Washington_County,_New_York": 0.015800725852759913,
+        "Washington_County,_Pennsylvania": 0.014305428877796563,
+        "Washington_Huskies_football": 0.014291194332413503,
+        "Washington_County,_Nebraska": 0.013162540903528459,
+        "Washington_(footballer)": 0.01303558932855766,
+        "Washington_County,_Oregon": 0.01293683989265447,
+        "Washington,_Tyne_and_Wear": 0.012513604119755252,
+        "Washington_County,_Iowa": 0.01235839975029475,
+        "Washington_County,_Wisconsin": 0.012146797949896204,
+        "Washington,_Oklahoma": 0.010270458000950155,
+        "Washington_County,_Maine": 0.010087072526240358,
+        "Washington_County,_Illinois": 0.009367566728138235,
+        "Washington,_Indiana": 0.009339339358611774,
+        "Washington_Wizards": 0.008422348438287947,
+        "Washington_County,_Ohio": 0.008408224042925402,
+        "Washington_County,_Tennessee": 0.007999119007118475,
+        "Washington_County,_Florida": 0.007914460423830212,
+        "Washington_National_Guard": 0.007646788524271787,
+        "Washington,_Utah": 0.007491236808314463,
+        "Washington_Capitals": 0.007350163703489414,
+        "Washington_County,_Rhode_Island": 0.007223171175543369,
+        "Washington_County,_Utah": 0.007194975049692021,
+        "Washington_County,_Colorado": 0.00718084473208273,
+        "Washington_County,_Maryland": 0.006732686976956711,
+        "Washington,_Georgia": 0.006489658284320495,
+        "Washington_County,_Minnesota": 0.006193487721682385
+       }
+      },
+      {
+       "label": "Minnesota",
+       "score": 0.367106134972452,
+       "start": 211,
+       "end": 212,
+       "tokens": "Minn.",
+       "labelScoreMap": {
+        "Minnesota": 0.367106134972452,
+        "Minnesota_Supreme_Court": 0.10244998907791138,
+        "Minnesota_Golden_Gophers_men's_basketball": 0.03035517347088834,
+        "Minnesota_State_High_School_League": 0.22862729799620488,
+        "Minneapolis": 0.26387260153943953,
+        "Minnesota_Golden_Gophers_football": 0.007588802943103915,
+        "<unk_wid>": 1.6744733116413095e-35
+       }
+      },
+      {
+       "label": "Indiana_State_House",
+       "score": 0.4179125716950637,
+       "start": 281,
+       "end": 283,
+       "tokens": "State House",
+       "labelScoreMap": {
+        "Massachusetts_State_House": 0.07817778071504507,
+        "Illinois_House_of_Representatives": 0.07758093531465463,
+        "Pennsylvania_House_of_Representatives": 0.08200845501627889,
+        "New_Mexico_House_of_Representatives": 0.0674991876514051,
+        "Delaware_House_of_Representatives": 0.06742823297665577,
+        "South_Carolina_State_House": 0.03878053089585576,
+        "Maryland_State_House": 0.02443299937267019,
+        "Washington_House_of_Representatives": 0.015147541263304814,
+        "New_Hampshire_State_House": 0.021758660345477267,
+        "Indiana_State_House": 0.4179125716950637,
+        "Tennessee_House_of_Representatives": 0.00505270253972318,
+        "Florida_House_of_Representatives": 0.004888138379304607,
+        "Oregon_House_of_Representatives": 0.016701423162879113,
+        "Texas_House_of_Representatives": 0.0042534064395816215,
+        "Ohio_House_of_Representatives": 0.005012090824939461,
+        "Rhode_Island_State_House": 0.015648866333854535,
+        "North_Carolina_House_of_Representatives": 0.0035178839431377067,
+        "Vermont_State_House": 0.004639210366570765,
+        "Utah_House_of_Representatives": 0.008209798840897448,
+        "Arizona_House_of_Representatives": 0.0025125526510655478,
+        "Massachusetts_House_of_Representatives": 0.002453062807587884,
+        "Georgia_House_of_Representatives": 0.0035202645012484797,
+        "New_Jersey_State_House": 0.0020564340170407575,
+        "Maryland_House_of_Delegates": 0.01420332040026598,
+        "Alaska_House_of_Representatives": 0.0026144016069967035,
+        "Minnesota_House_of_Representatives": 0.0018244847322227919,
+        "Michigan_House_of_Representatives": 0.007147455643115253,
+        "Louisiana_House_of_Representatives": 0.001944121184651563,
+        "State_House_(Sierra_Leone)": 0.0013680443783811967,
+        "Alabama_House_of_Representatives": 0.0017054420001242003
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5714224748101899,
+       "start": 96,
+       "end": 97,
+       "tokens": "Esty",
+       "labelScoreMap": {
+        "Ty_Inc.": 0.2857140947879084,
+        "Etsy": 0.1428634304019017,
+        "Mary_Eastey": 0.5714224748101899,
+        "<unk_wid>": 4.988284388840277e-36
+       }
+      },
+      {
+       "label": "Parent-Teacher_Association",
+       "score": 0.8230170802971405,
+       "start": 269,
+       "end": 270,
+       "tokens": "PTA",
+       "labelScoreMap": {
+        "Parent-Teacher_Association": 0.8230170802971405,
+        "Ptah": 0.06536323325863179,
+        "Terephthalic_acid": 0.040028641164814194,
+        "Peseta": 0.03800978366384221,
+        "Paul_Thomas_Anderson": 0.017737702362213528,
+        "Prevention_of_Terrorism_Acts": 0.004702044813644365,
+        "Pakistan_Telecommunication_Authority": 0.004989352708201432,
+        "Amnesia": 0.0030403048407857715,
+        "Harper_Valley_PTA": 0.001544038519627962,
+        "Pohakuloa_Training_Area": 0.001567818371098235,
+        "<unk_wid>": 9.293280091097471e-32
+       }
+      },
+      {
+       "label": "Supreme_Court_of_the_United_States",
+       "score": 0.2818153592433751,
+       "start": 258,
+       "end": 260,
+       "tokens": "Supreme Court",
+       "labelScoreMap": {
+        "Supreme_Court_of_the_United_States": 0.2818153592433751,
+        "Supreme_Court_of_the_Philippines": 0.06035118613150663,
+        "Supreme_Court_of_India": 0.0421868198052468,
+        "Supreme_Court_of_Canada": 0.03140647233633322,
+        "Michigan_Supreme_Court": 0.055801681895745,
+        "Supreme_Court_of_Israel": 0.02043727682366333,
+        "Louisiana_Supreme_Court": 0.20236510795518853,
+        "Supreme_Court_of_Sweden": 0.011371408652416719,
+        "New_Hampshire_Supreme_Court": 0.0108346244965848,
+        "Tennessee_Supreme_Court": 0.1347823412417153,
+        "Supreme_Court_of_Pakistan": 0.020883671935047966,
+        "Supreme_Court_of_New_Zealand": 0.010049668510376647,
+        "Supreme_Court_of_Ireland": 0.010415345801490556,
+        "Supreme_Court_of_Norway": 0.017049026825189505,
+        "New_York_Supreme_Court": 0.013622025120631934,
+        "Supreme_Court_of_Sri_Lanka": 0.007854184747176937,
+        "Supreme_Court_of_Bangladesh": 0.007533319211161813,
+        "Supreme_Court_of_the_United_Kingdom": 0.006135530451758321,
+        "Supreme_Court_of_Liberia": 0.005850539676182468,
+        "Supreme_Court_of_Finland": 0.005229892277769126,
+        "Supreme_Court_of_the_Netherlands": 0.005539896402369069,
+        "Judicial_Procedures_Reform_Bill_of_1937": 0.004655484293475958,
+        "Supreme_Court_of_Ukraine": 0.004900862175516111,
+        "Supreme_Court_of_Nepal": 0.004523499277537762,
+        "Supreme_Court_of_Estonia": 0.004253743015806293,
+        "Exxon_Valdez_oil_spill": 0.004170742536366318,
+        "Supreme_Court_of_Iceland": 0.004129464512577411,
+        "Court_of_Cassation_(France)": 0.004069580098946003,
+        "Supreme_Court_of_Poland": 0.003942495539698598,
+        "Bush_v._Gore": 0.003838749009146159
+       }
+      },
+      {
+       "label": "United_States_Senate",
+       "score": 0.263471520198169,
+       "start": 427,
+       "end": 428,
+       "tokens": "Senate",
+       "labelScoreMap": {
+        "United_States_Senate": 0.263471520198169,
+        "California_State_Senate": 0.07658922147293201,
+        "Roman_Senate": 0.058828364245314846,
+        "Australian_Senate": 0.02640198413699195,
+        "Senate_of_Canada": 0.14677704296011956,
+        "Senate_of_the_Philippines": 0.018054605007394486,
+        "Senate_(France)": 0.015057923199158035,
+        "Senate_of_the_Republic_(Mexico)": 0.013443050734584893,
+        "Senate_of_Liberia": 0.008786111518671544,
+        "Senate_of_Fiji": 0.00849895007345667,
+        "Senate_of_Pakistan": 0.00848327725938768,
+        "Senate_of_Chile": 0.00798297434107747,
+        "Senate_of_Romania": 0.007651587648755761,
+        "Minnesota_Senate": 0.0074337712292812715,
+        "New_York_State_Senate": 0.010384435672459712,
+        "Senate_of_Poland": 0.006391565020381587,
+        "United_States_Senate_elections,_2006": 0.006345863136616381,
+        "Senate_(Nigeria)": 0.006081088903254023,
+        "Senate_of_the_Republic_(Italy)": 0.006018590404124054,
+        "United_States_Senate_elections,_2010": 0.0059534741688907185,
+        "Senate_(Netherlands)": 0.016676228710502693,
+        "Senate_of_Spain": 0.005707931033571467,
+        "Senate_(Belgium)": 0.005376444558560664,
+        "United_States_Senate_elections,_2012": 0.004789842376404268,
+        "New_Jersey_Senate": 0.13875328166447087,
+        "Massachusetts_Senate": 0.08799130657782703,
+        "Senate_of_Virginia": 0.017353527678963497,
+        "Byzantine_Senate": 0.003991536748413754,
+        "Iowa_Senate": 0.006740848547881968,
+        "Senate_of_Colombia": 0.003983650772381951
+       }
+      },
+      {
+       "label": "Connecticut",
+       "score": 0.8578098427295109,
+       "start": 348,
+       "end": 349,
+       "tokens": "Connecticut",
+       "labelScoreMap": {
+        "Connecticut": 0.8578098427295109,
+        "University_of_Connecticut": 0.014663938087757388,
+        "United_States_Senate_election_in_Connecticut,_2010": 0.0066978111101713735,
+        "Connecticut_Huskies_men's_basketball": 0.005764405800182096,
+        "Connecticut_Colony": 0.005958806267872304,
+        "Connecticut_Air_National_Guard": 0.005058046004497648,
+        "United_States_Senate_election_in_Connecticut,_2006": 0.004389529554510896,
+        "Connecticut_River": 0.003935927054175842,
+        "Connecticut_Republican_Party": 0.0031912362972413137,
+        "Connecticut_Huskies_football": 0.002749761458986453,
+        "Connecticut_Line": 0.0025605540069723637,
+        "Connecticut_Sun": 0.0024722718295435266,
+        "Democratic_Party_of_Connecticut": 0.0024218033191301005,
+        "Connecticut_General_Assembly": 0.043707576518224586,
+        "Episcopal_Diocese_of_Connecticut": 0.0021947899326133493,
+        "Connecticut_State_Police": 0.001981931330618888,
+        "United_States_District_Court_for_the_District_of_Connecticut": 0.018566513361420803,
+        "Connecticut_Military_Department": 0.0018166990467774933,
+        "Miss_Connecticut": 0.0014883979397003917,
+        "Connecticut_College": 0.0014719366288662643,
+        "Connecticut_Supreme_Court": 0.0051684868728820365,
+        "Connecticut_gubernatorial_election,_2010": 0.001223513440301442,
+        "Connecticut_Lottery": 0.0011856737986135088,
+        "Connecticut_Department_of_Correction": 0.001173067515601865,
+        "Hartford,_Connecticut": 0.001199645538928269,
+        "United_States_Senate_election_in_Connecticut,_2012": 0.001147834554899397,
+        "<unk_wid>": 5.687492857793387e-32
+       }
+      },
+      {
+       "label": "House_of_Commons_of_Canada",
+       "score": 0.4259000045329173,
+       "start": 101,
+       "end": 102,
+       "tokens": "House",
+       "labelScoreMap": {
+        "House_(TV_series)": 0.21237787865639074,
+        "House_music": 0.20905186200999248,
+        "United_States_House_of_Representatives": 0.10298497359358161,
+        "House_of_Leaves": 0.006824336533556019,
+        "Minnesota_House_of_Representatives": 0.006107767602113705,
+        "United_States_House_of_Representatives_elections,_2010": 0.004910465795137289,
+        "United_States_House_of_Representatives_elections,_2006": 0.0030001559136900524,
+        "Iowa_House_of_Representatives": 0.0064247516689643425,
+        "Oklahoma_House_of_Representatives": 0.01068477389454243,
+        "Edward_M._House": 0.0024509294729820976,
+        "House_(1986_film)": 0.0023013642874820427,
+        "House_of_Representatives_of_the_Philippines": 0.0034130355428323477,
+        "United_States_House_of_Representatives_elections,_2008": 0.0015950516538396269,
+        "United_States_House_of_Representatives_elections,_2000": 0.001173569011653496,
+        "House_of_Commons_of_Canada": 0.4259000045329173,
+        "United_States_House_of_Representatives_elections,_2004": 0.000799079830324431,
+        "<unk_wid>": 1.08548988052986e-26
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5713870502068834,
+       "start": 329,
+       "end": 330,
+       "tokens": "Esty",
+       "labelScoreMap": {
+        "Ty_Inc.": 0.2857140947995298,
+        "Etsy": 0.1428988549935869,
+        "Mary_Eastey": 0.5713870502068834,
+        "<unk_wid>": 3.262185618002431e-32
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5713577852655476,
+       "start": 158,
+       "end": 159,
+       "tokens": "Esty",
+       "labelScoreMap": {
+        "Ty_Inc.": 0.28571409944240944,
+        "Etsy": 0.14292811529204302,
+        "Mary_Eastey": 0.5713577852655476,
+        "<unk_wid>": 1.0477747312745329e-29
+       }
+      },
+      {
+       "label": "Conn_of_the_Hundred_Battles",
+       "score": 0.35512809088024216,
+       "start": 19,
+       "end": 20,
+       "tokens": "Conn.",
+       "labelScoreMap": {
+        "C.G._Conn": 0.22937240310393744,
+        "Connecticut": 0.17917710616026547,
+        "Conn_of_the_Hundred_Battles": 0.35512809088024216,
+        "Conn_Iggulden": 0.03489916671604136,
+        "Southgate,_Ontario": 0.020477232074160603,
+        "Conn_Smythe": 0.1200325036993976,
+        "Lough_Conn": 0.0101978666080705,
+        "Conn-Selmer": 0.007065037410514687,
+        "Connecticut_Supreme_Court": 0.005091107549455874,
+        "Science_fiction_convention": 0.0072119446794611615,
+        "Connacht": 0.021960768294395472,
+        "Submarine": 0.004015196628907347,
+        "Connecticut_Sun": 0.0030118718028062505,
+        "Connemara_pony": 0.0023597043923441604,
+        "<unk_wid>": 8.176689377169526e-19
+       }
+      },
+      {
+       "label": "Winona,_Minnesota",
+       "score": 0.6678985972291758,
+       "start": 209,
+       "end": 210,
+       "tokens": "Winona",
+       "labelScoreMap": {
+        "Winona,_Minnesota": 0.6678985972291758,
+        "Winona_County,_Minnesota": 0.1628976642653041,
+        "Winona,_Mississippi": 0.09756541199858207,
+        "Winona_Ryder": 0.053610824699696406,
+        "Winona_LaDuke": 0.013402929996546228,
+        "Roman_Catholic_Diocese_of_Winona": 0.004624571810695366,
+        "<unk_wid>": 1.3585277148185443e-42
+       }
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "PFLAG",
+       "labelScoreMap": {
+        "PFLAG": 1.0,
+        "<unk_wid>": 1.477621988001081e-23
+       }
+      },
+      {
+       "label": "Supreme_Court_of_the_United_States",
+       "score": 0.2822403273361922,
+       "start": 375,
+       "end": 377,
+       "tokens": "Supreme Court",
+       "labelScoreMap": {
+        "Supreme_Court_of_the_United_States": 0.2822403273361922,
+        "Supreme_Court_of_the_Philippines": 0.06143865132723144,
+        "Supreme_Court_of_India": 0.04017337839704517,
+        "Supreme_Court_of_Canada": 0.02916052390546006,
+        "Michigan_Supreme_Court": 0.048887649206756194,
+        "Supreme_Court_of_Israel": 0.01952990077806365,
+        "Louisiana_Supreme_Court": 0.2089927861185954,
+        "Supreme_Court_of_Sweden": 0.011374738292291818,
+        "New_Hampshire_Supreme_Court": 0.010789652281477602,
+        "Tennessee_Supreme_Court": 0.14487057487358992,
+        "Supreme_Court_of_Pakistan": 0.02134300648909243,
+        "Supreme_Court_of_New_Zealand": 0.0099242921057668,
+        "Supreme_Court_of_Ireland": 0.009681617370546654,
+        "Supreme_Court_of_Norway": 0.014487939561216738,
+        "New_York_Supreme_Court": 0.011194406230449205,
+        "Supreme_Court_of_Sri_Lanka": 0.007579107081235188,
+        "Supreme_Court_of_Bangladesh": 0.007215715766835838,
+        "Supreme_Court_of_the_United_Kingdom": 0.006083388059008216,
+        "Supreme_Court_of_Liberia": 0.006002926884125023,
+        "Supreme_Court_of_Finland": 0.005230669491535829,
+        "Supreme_Court_of_the_Netherlands": 0.005357726229091353,
+        "Judicial_Procedures_Reform_Bill_of_1937": 0.00465221673402372,
+        "Supreme_Court_of_Ukraine": 0.004900037794816794,
+        "Supreme_Court_of_Nepal": 0.004524650623233442,
+        "Supreme_Court_of_Estonia": 0.004254826236589534,
+        "Exxon_Valdez_oil_spill": 0.004171804662462461,
+        "Supreme_Court_of_Iceland": 0.004130420185060258,
+        "Court_of_Cassation_(France)": 0.004023839920643789,
+        "Supreme_Court_of_Poland": 0.003943499473129206,
+        "Bush_v._Gore": 0.0038397265844340397
+       }
+      },
+      {
+       "label": "James_Packer",
+       "score": 0.4190869274011652,
+       "start": 118,
+       "end": 119,
+       "tokens": "Jamie",
+       "labelScoreMap": {
+        "Jamie_Hyneman": 0.1390284196272027,
+        "Jamie_Oliver": 0.1348372507005896,
+        "Summer_Heights_High": 0.03704866292372264,
+        "Jamie_Murray": 0.0207893000231411,
+        "Jamie_Lee_Curtis": 0.018164609990656763,
+        "Jamie_Moyer": 0.017201158943172905,
+        "Jamie_Wyeth": 0.01633410494733683,
+        "Jamie_Hewlett": 0.015161350468505464,
+        "Jamie_Durie": 0.01281569772605465,
+        "Jamie_Lynn_Spears": 0.011026477428204593,
+        "Colin_Firth": 0.00796136040694528,
+        "Jamie_Foxx": 0.007543829376909624,
+        "Jamie_Cullum": 0.007060150248560696,
+        "Jamie_McCourt": 0.005733727723158129,
+        "Jamie_Zawinski": 0.0058068898166132085,
+        "The_Residents": 0.0052926787557565046,
+        "Jamie-Lynn_Sigler": 0.005292974423213674,
+        "Jamie_Lidell": 0.003971708791583006,
+        "Jamie_McMurray": 0.0040236991261247005,
+        "Jamie_Bamber": 0.003528725966611263,
+        "Jamie_Records": 0.0035289740022632896,
+        "Jamie_Chung": 0.0033622493057128174,
+        "Jamie_Oliver's_Food_Revolution": 0.002646634243831616,
+        "Jamie_Dimon": 0.08014272971463496,
+        "Big_Brother_7_(Australia)": 0.0022052794059864702,
+        "James_Joyce": 0.004655978662795903,
+        "Jamie_Redknapp": 0.002213748496876633,
+        "Jamie_Carragher": 0.001764529291152808,
+        "James_Packer": 0.4190869274011652,
+        "The_Jamie_Foxx_Show": 0.0017701720615168198
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5714214528979221,
+       "start": 0,
+       "end": 1,
+       "tokens": "ESTY",
+       "labelScoreMap": {
+        "Ty_Inc.": 0.28571409509493395,
+        "Etsy": 0.14286445200714393,
+        "Mary_Eastey": 0.5714214528979221,
+        "<unk_wid>": 5.9698161788974774e-36
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.571423853110153,
+       "start": 494,
+       "end": 495,
+       "tokens": "Esty",
+       "labelScoreMap": {
+        "Ty_Inc.": 0.2857140947148067,
+        "Etsy": 0.1428620521750404,
+        "Mary_Eastey": 0.571423853110153,
+        "<unk_wid>": 4.976115350700685e-37
+       }
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "PFLAG",
+       "labelScoreMap": {
+        "PFLAG": 1.0,
+        "<unk_wid>": 1.2611350835869414e-33
+       }
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "PFLAG",
+       "labelScoreMap": {
+        "PFLAG": 1.0,
+        "<unk_wid>": 8.619843650850995e-32
+       }
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "PFLAG",
+       "labelScoreMap": {
+        "PFLAG": 1.0,
+        "<unk_wid>": 1.336236315840735e-28
+       }
+      },
+      {
+       "label": "United_States_House_of_Representatives",
+       "score": 0.46835559311253055,
+       "start": 288,
+       "end": 289,
+       "tokens": "Congress",
+       "labelScoreMap": {
+        "United_States_Congress": 0.43180499275217465,
+        "Indian_National_Congress": 0.03385577247937014,
+        "Congress_of_the_Philippines": 0.012833682102678457,
+        "Congress_of_the_Union": 0.010223662660251211,
+        "Congress,_Arizona": 0.007314709511464257,
+        "United_States_House_of_Representatives": 0.46835559311253055,
+        "National_Congress_of_Brazil": 0.0069384453243256684,
+        "Congress_of_Colombia": 0.005181040284938138,
+        "Congress_of_the_Confederation": 0.0034517229448886295,
+        "Congress_of_the_Republic_of_Peru": 0.0025448036756970677,
+        "National_Congress_of_Argentina": 0.0018225337359624887,
+        "Congress_of_Guatemala": 0.002810128592504917,
+        "USS_Congress_(1841)": 0.0014385095833373566,
+        "USS_Congress_(1799)": 0.0013706545918585878,
+        "Continental_Congress": 0.0016799675302097586,
+        "National_Congress_of_Chile": 0.0011987638934705916,
+        "International_Congress_of_Mathematicians": 0.000977141560342082,
+        "Congress_of_Deputies_(Spain)": 0.0013687897754923594,
+        "Congress_of_Paraguay": 0.0008549616530003455,
+        "Federal_government_of_the_United_States": 0.002576321291614753,
+        "Congress_of_the_Council_of_Europe": 0.0007599735163076477,
+        "Iraq_Liberation_Act": 0.0006378294275801297,
+        "<unk_wid>": 1.1622596317875429e-33
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5714107371432908,
+       "start": 120,
+       "end": 121,
+       "tokens": "Esty",
+       "labelScoreMap": {
+        "Ty_Inc.": 0.2857140956342209,
+        "Etsy": 0.1428751672224883,
+        "Mary_Eastey": 0.5714107371432908,
+        "<unk_wid>": 1.3929932329937957e-32
+       }
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 14,
+       "end": 16,
+       "tokens": "Elizabeth Esty",
+       "labelScoreMap": {
+        "Elizabeth_Esty": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "PFLAG",
+       "labelScoreMap": {
+        "PFLAG": 1.0,
+        "<unk_wid>": 3.9378212727555e-24
+       }
+      },
+      {
+       "label": "Arthur_Henderson",
+       "score": 0.3671505195440713,
+       "start": 134,
+       "end": 135,
+       "tokens": "Henderson",
+       "labelScoreMap": {
+        "Henderson,_Nevada": 0.11107031674528188,
+        "Henderson,_Kentucky": 0.0899285366546062,
+        "Henderson,_North_Carolina": 0.037091091970220244,
+        "Arthur_Henderson": 0.3671505195440713,
+        "Henderson_County,_Tennessee": 0.030632424247211888,
+        "Henderson_County,_Kentucky": 0.05429200401736379,
+        "Henderson_County,_Illinois": 0.03786307132937615,
+        "Henderson,_Texas": 0.04899595206344128,
+        "Henderson_County,_North_Carolina": 0.017796547567203707,
+        "Henderson_Island_(Pitcairn_Islands)": 0.012971443244713287,
+        "Henderson_Motorcycle": 0.026995325165929066,
+        "David_B._Henderson": 0.011194577442999197,
+        "Henderson_County,_Texas": 0.01977465686075924,
+        "Rickey_Henderson": 0.01142686115396207,
+        "Henderson,_New_Zealand": 0.01044798929326761,
+        "Jordan_Henderson": 0.008067957000997881,
+        "Henderson,_Tennessee": 0.010288847094015547,
+        "Gus_Henderson": 0.00798304570365395,
+        "Henderson,_New_York": 0.008127950979585345,
+        "Vancouver_School_Board": 0.006191450024598732,
+        "John_B._Henderson": 0.030090780090264963,
+        "Chris_Henderson": 0.005449670256750246,
+        "Archibald_Henderson": 0.012403549072161912,
+        "Henderson,_Minnesota": 0.004130538522854965,
+        "John_Henderson_(defensive_tackle)": 0.004096301426982192,
+        "Henderson,_Western_Australia": 0.003928569873373317,
+        "Darius_Henderson": 0.003338076311283517,
+        "Gerald_Henderson": 0.00320549411927483,
+        "USS_Henderson_(AP-1)": 0.0026557934358298,
+        "Ian_Henderson_(footballer)": 0.0024106587879662296
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 17,
+       "end": 18,
+       "tokens": "D",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Mayflower_Hotel",
+       "score": 1.0,
+       "start": 316,
+       "end": 318,
+       "tokens": "Mayflower Hotel",
+       "labelScoreMap": {
+        "Mayflower_Hotel": 1.0,
+        "<unk_wid>": 6.942487691549659e-30
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 9,
+       "end": 11,
+       "tokens": "NORA LINDTNER",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.571424876072839,
+       "start": 234,
+       "end": 235,
+       "tokens": "Esty",
+       "labelScoreMap": {
+        "Ty_Inc.": 0.28571409490930716,
+        "Etsy": 0.14286102901785377,
+        "Mary_Eastey": 0.571424876072839,
+        "<unk_wid>": 4.0725359317023176e-37
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 56,
+       "end": 65,
+       "tokens": "Parents , Family and Friends of Lesbians and Gays",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 441,
+       "end": 443,
+       "tokens": "Mitzi Henderson",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5714170646910713,
+       "start": 389,
+       "end": 390,
+       "tokens": "Esty",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 108,
+       "end": 110,
+       "tokens": "Mitzi Henderson",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Washington,_D.C.",
+       "score": 0.655318256897244,
+       "start": 11,
+       "end": 12,
+       "tokens": "WASHINGTON",
+       "labelScoreMap": {
+        "4140963|Washington,_D.C.": 0.655318256897244,
+        "5814448|University_of_Washington": 0.02544710243026381,
+        "5218069|Washington,_Pennsylvania": 0.01608322345280083,
+        "5143303|Washington_County,_New_York": 0.015800725852759913,
+        "5218076|Washington_County,_Pennsylvania": 0.014305428877796563,
+        "5081383|Washington_County,_Nebraska": 0.013162540903528459,
+        "5759333|Washington_County,_Oregon": 0.01293683989265447,
+        "2634715|Washington,_Tyne_and_Wear": 0.012513604119755252,
+        "4880748|Washington_County,_Iowa": 0.01235839975029475,
+        "5277887|Washington_County,_Wisconsin": 0.012146797949896204,
+        "4554703|Washington,_Oklahoma": 0.010270458000950155,
+        "4982182|Washington_County,_Maine": 0.010087072526240358,
+        "4252486|Washington_County,_Illinois": 0.009367566728138235,
+        "4266586|Washington,_Indiana": 0.009339339358611774,
+        "4527654|Washington_County,_Ohio": 0.008408224042925402,
+        "4665975|Washington_County,_Tennessee": 0.007999119007118475,
+        "4177485|Washington_County,_Florida": 0.007914460423830212,
+        "5549222|Washington,_Utah": 0.007491236808314463,
+        "5225535|Washington_County,_Rhode_Island": 0.007223171175543369,
+        "5549225|Washington_County,_Utah": 0.007194975049692021,
+        "5443305|Washington_County,_Colorado": 0.00718084473208273,
+        "4372777|Washington_County,_Maryland": 0.006732686976956711,
+        "4229546|Washington,_Georgia": 0.006489658284320495,
+        "5051936|Washington_County,_Minnesota": 0.006193487721682385
+       }
+      },
+      {
+       "label": "Minnesota",
+       "score": 0.367106134972452,
+       "start": 211,
+       "end": 212,
+       "tokens": "Minn.",
+       "labelScoreMap": {
+        "5037779|Minnesota": 0.367106134972452,
+        "5037649|Minneapolis": 0.26387260153943953
+       }
+      },
+      {
+       "label": "Indiana_State_House",
+       "score": 0.4179125716950637,
+       "start": 281,
+       "end": 283,
+       "tokens": "State House",
+       "labelScoreMap": {
+        "4943378|Massachusetts_State_House": 0.07817778071504507,
+        "5090151|New_Hampshire_State_House": 0.021758660345477267
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5714224748101899,
+       "start": 96,
+       "end": 97,
+       "tokens": "Esty",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Parent-Teacher_Association",
+       "score": 0.8230170802971405,
+       "start": 269,
+       "end": 270,
+       "tokens": "PTA",
+       "labelScoreMap": {
+        "7267260|Pohakuloa_Training_Area": 0.001567818371098235
+       }
+      },
+      {
+       "label": "Supreme_Court_of_the_United_States",
+       "score": 0.2818153592433751,
+       "start": 258,
+       "end": 260,
+       "tokens": "Supreme Court",
+       "labelScoreMap": {
+        "5090159|New_Hampshire_Supreme_Court": 0.0108346244965848
+       }
+      },
+      {
+       "label": "United_States_Senate",
+       "score": 0.263471520198169,
+       "start": 427,
+       "end": 428,
+       "tokens": "Senate",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Connecticut",
+       "score": 0.8578098427295109,
+       "start": 348,
+       "end": 349,
+       "tokens": "Connecticut",
+       "labelScoreMap": {
+        "4831725|Connecticut": 0.8578098427295109,
+        "4844713|University_of_Connecticut": 0.014663938087757388,
+        "5284446|Connecticut_College": 0.0014719366288662643,
+        "4835797|Hartford,_Connecticut": 0.001199645538928269
+       }
+      },
+      {
+       "label": "House_of_Commons_of_Canada",
+       "score": 0.4259000045329173,
+       "start": 101,
+       "end": 102,
+       "tokens": "House",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5713870502068834,
+       "start": 329,
+       "end": 330,
+       "tokens": "Esty",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5713577852655476,
+       "start": 158,
+       "end": 159,
+       "tokens": "Esty",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Conn_of_the_Hundred_Battles",
+       "score": 0.35512809088024216,
+       "start": 19,
+       "end": 20,
+       "tokens": "Conn.",
+       "labelScoreMap": {
+        "4831725|Connecticut": 0.17917710616026547,
+        "6152164|Southgate,_Ontario": 0.020477232074160603,
+        "2965235|Lough_Conn": 0.0101978666080705,
+        "7521313|Connacht": 0.021960768294395472
+       }
+      },
+      {
+       "label": "Winona,_Minnesota",
+       "score": 0.6678985972291758,
+       "start": 209,
+       "end": 210,
+       "tokens": "Winona",
+       "labelScoreMap": {
+        "5053156|Winona,_Minnesota": 0.6678985972291758,
+        "5053164|Winona_County,_Minnesota": 0.1628976642653041,
+        "4451465|Winona,_Mississippi": 0.09756541199858207
+       }
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "PFLAG",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Supreme_Court_of_the_United_States",
+       "score": 0.2822403273361922,
+       "start": 375,
+       "end": 377,
+       "tokens": "Supreme Court",
+       "labelScoreMap": {
+        "5090159|New_Hampshire_Supreme_Court": 0.010789652281477602
+       }
+      },
+      {
+       "label": "James_Packer",
+       "score": 0.4190869274011652,
+       "start": 118,
+       "end": 119,
+       "tokens": "Jamie",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5714214528979221,
+       "start": 0,
+       "end": 1,
+       "tokens": "ESTY",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.571423853110153,
+       "start": 494,
+       "end": 495,
+       "tokens": "Esty",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "PFLAG",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "PFLAG",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "PFLAG",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States_House_of_Representatives",
+       "score": 0.46835559311253055,
+       "start": 288,
+       "end": 289,
+       "tokens": "Congress",
+       "labelScoreMap": {
+        "5290559|Congress,_Arizona": 0.007314709511464257
+       }
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.5714107371432908,
+       "start": 120,
+       "end": 121,
+       "tokens": "Esty",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Elizabeth_Esty",
+       "score": 1.0,
+       "start": 14,
+       "end": 16,
+       "tokens": "Elizabeth Esty",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "PFLAG",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "PFLAG",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Arthur_Henderson",
+       "score": 0.3671505195440713,
+       "start": 134,
+       "end": 135,
+       "tokens": "Henderson",
+       "labelScoreMap": {
+        "5505411|Henderson,_Nevada": 0.11107031674528188,
+        "4294494|Henderson,_Kentucky": 0.0899285366546062,
+        "4470566|Henderson,_North_Carolina": 0.037091091970220244,
+        "4628715|Henderson_County,_Tennessee": 0.030632424247211888,
+        "4294512|Henderson_County,_Kentucky": 0.05429200401736379,
+        "4895552|Henderson_County,_Illinois": 0.03786307132937615,
+        "4046332|Henderson,_Texas": 0.04899595206344128,
+        "4470576|Henderson_County,_North_Carolina": 0.017796547567203707,
+        "4030713|Henderson_Island_(Pitcairn_Islands)": 0.012971443244713287,
+        "4697070|Henderson_County,_Texas": 0.01977465686075924,
+        "4628695|Henderson,_Tennessee": 0.010288847094015547,
+        "5120496|Henderson,_New_York": 0.008127950979585345,
+        "5029840|Henderson,_Minnesota": 0.004130538522854965,
+        "10054984|Henderson,_Western_Australia": 0.003928569873373317
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 17,
+       "end": 18,
+       "tokens": "D",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mayflower_Hotel",
+       "score": 1.0,
+       "start": 316,
+       "end": 318,
+       "tokens": "Mayflower Hotel",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 9,
+       "end": 11,
+       "tokens": "NORA LINDTNER",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mary_Eastey",
+       "score": 0.571424876072839,
+       "start": 234,
+       "end": 235,
+       "tokens": "Esty",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

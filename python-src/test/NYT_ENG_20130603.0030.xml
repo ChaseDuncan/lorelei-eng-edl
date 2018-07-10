@@ -1,0 +1,4492 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130603.0030.xml",
+ "text": "TWO ACCUSED OF SOLDIER'S MURDER APPEAR IN COURT\nLONDON - Two men accused of hacking an off-duty British soldier to death on a South London street last month appeared in separate courts for hearings Monday as politicians planned to meet with security and police chiefs to discuss ways of confronting what the government has termed the \u201cpoisonous narrative\u201d of militant radicalization.\nThe men, Michael Adebolajo, 28, and Michael Adebowale, 22, both of Nigerian descent, face murder charges in the May 22 death of the soldier, Lee Rigby, 25, a military drummer and machine-gunner who had served with British forces in Afghanistan and elsewhere. After the soldier\u2019s killing, both suspects were shot and wounded by police.\nAdebowale was formally charged with murder last week, and Adebolajo appeared in a magistrate\u2019s court Monday to be formally arraigned. He was also charged with other offenses, including the attempted murder of two police officers and possession of a revolver, identified as a 9.4-mm KNIL model 91.\nWeapons experts said the revolver is a large-bore, antique handgun first manufactured in the Netherlands in the late 19th century.\nAccording to reporters in the Westminster Magistrates Court, Adebolajo was wearing a white T-shirt and blew a kiss to an unidentified man in the public gallery. Both men then pointed to the sky.\nFor his part, Adebowale appeared at the Old Bailey criminal court and was told he would return for a preliminary hearing June 28 when the cases against both men would be heard together. He did not seek bail, news reports said.\nThe proceedings came after a weekend in which crowds added floral tributes to the thousands of bouquets left by well-wishers in the Woolwich neighborhood where Rigby was killed in full view of passers-by as he returned to an army barracks wearing a T-shirt with the name of a military charity.\nWhile some mourned, others protested, and violent clashes broke out near the Parliaments in London and Edinburgh between rightists demonstrating against Islamic militancy and others promoting tolerance. In other cities, extreme rightists confronted campaigners opposed to racism and fascism. Scores of people were arrested in London on public order offenses after the police broke up fights.",
+ "tokens": [
+  "TWO",
+  "ACCUSED",
+  "OF",
+  "SOLDIER'S",
+  "MURDER",
+  "APPEAR",
+  "IN",
+  "COURT",
+  "LONDON",
+  "-",
+  "Two",
+  "men",
+  "accused",
+  "of",
+  "hacking",
+  "an",
+  "off",
+  "-",
+  "duty",
+  "British",
+  "soldier",
+  "to",
+  "death",
+  "on",
+  "a",
+  "South",
+  "London",
+  "street",
+  "last",
+  "month",
+  "appeared",
+  "in",
+  "separate",
+  "courts",
+  "for",
+  "hearings",
+  "Monday",
+  "as",
+  "politicians",
+  "planned",
+  "to",
+  "meet",
+  "with",
+  "security",
+  "and",
+  "police",
+  "chiefs",
+  "to",
+  "discuss",
+  "ways",
+  "of",
+  "confronting",
+  "what",
+  "the",
+  "government",
+  "has",
+  "termed",
+  "the",
+  "\u201c",
+  "poisonous",
+  "narrative",
+  "\u201d",
+  "of",
+  "militant",
+  "radicalization",
+  ".",
+  "The",
+  "men",
+  ",",
+  "Michael",
+  "Adebolajo",
+  ",",
+  "28",
+  ",",
+  "and",
+  "Michael",
+  "Adebowale",
+  ",",
+  "22",
+  ",",
+  "both",
+  "of",
+  "Nigerian",
+  "descent",
+  ",",
+  "face",
+  "murder",
+  "charges",
+  "in",
+  "the",
+  "May",
+  "22",
+  "death",
+  "of",
+  "the",
+  "soldier",
+  ",",
+  "Lee",
+  "Rigby",
+  ",",
+  "25",
+  ",",
+  "a",
+  "military",
+  "drummer",
+  "and",
+  "machine",
+  "-",
+  "gunner",
+  "who",
+  "had",
+  "served",
+  "with",
+  "British",
+  "forces",
+  "in",
+  "Afghanistan",
+  "and",
+  "elsewhere",
+  ".",
+  "After",
+  "the",
+  "soldier",
+  "\u2019s",
+  "killing",
+  ",",
+  "both",
+  "suspects",
+  "were",
+  "shot",
+  "and",
+  "wounded",
+  "by",
+  "police",
+  ".",
+  "Adebowale",
+  "was",
+  "formally",
+  "charged",
+  "with",
+  "murder",
+  "last",
+  "week",
+  ",",
+  "and",
+  "Adebolajo",
+  "appeared",
+  "in",
+  "a",
+  "magistrate",
+  "\u2019s",
+  "court",
+  "Monday",
+  "to",
+  "be",
+  "formally",
+  "arraigned",
+  ".",
+  "He",
+  "was",
+  "also",
+  "charged",
+  "with",
+  "other",
+  "offenses",
+  ",",
+  "including",
+  "the",
+  "attempted",
+  "murder",
+  "of",
+  "two",
+  "police",
+  "officers",
+  "and",
+  "possession",
+  "of",
+  "a",
+  "revolver",
+  ",",
+  "identified",
+  "as",
+  "a",
+  "9.4",
+  "-",
+  "mm",
+  "KNIL",
+  "model",
+  "91",
+  ".",
+  "Weapons",
+  "experts",
+  "said",
+  "the",
+  "revolver",
+  "is",
+  "a",
+  "large",
+  "-",
+  "bore",
+  ",",
+  "antique",
+  "handgun",
+  "first",
+  "manufactured",
+  "in",
+  "the",
+  "Netherlands",
+  "in",
+  "the",
+  "late",
+  "19th",
+  "century",
+  ".",
+  "According",
+  "to",
+  "reporters",
+  "in",
+  "the",
+  "Westminster",
+  "Magistrates",
+  "Court",
+  ",",
+  "Adebolajo",
+  "was",
+  "wearing",
+  "a",
+  "white",
+  "T",
+  "-",
+  "shirt",
+  "and",
+  "blew",
+  "a",
+  "kiss",
+  "to",
+  "an",
+  "unidentified",
+  "man",
+  "in",
+  "the",
+  "public",
+  "gallery",
+  ".",
+  "Both",
+  "men",
+  "then",
+  "pointed",
+  "to",
+  "the",
+  "sky",
+  ".",
+  "For",
+  "his",
+  "part",
+  ",",
+  "Adebowale",
+  "appeared",
+  "at",
+  "the",
+  "Old",
+  "Bailey",
+  "criminal",
+  "court",
+  "and",
+  "was",
+  "told",
+  "he",
+  "would",
+  "return",
+  "for",
+  "a",
+  "preliminary",
+  "hearing",
+  "June",
+  "28",
+  "when",
+  "the",
+  "cases",
+  "against",
+  "both",
+  "men",
+  "would",
+  "be",
+  "heard",
+  "together",
+  ".",
+  "He",
+  "did",
+  "not",
+  "seek",
+  "bail",
+  ",",
+  "news",
+  "reports",
+  "said",
+  ".",
+  "The",
+  "proceedings",
+  "came",
+  "after",
+  "a",
+  "weekend",
+  "in",
+  "which",
+  "crowds",
+  "added",
+  "floral",
+  "tributes",
+  "to",
+  "the",
+  "thousands",
+  "of",
+  "bouquets",
+  "left",
+  "by",
+  "well",
+  "-",
+  "wishers",
+  "in",
+  "the",
+  "Woolwich",
+  "neighborhood",
+  "where",
+  "Rigby",
+  "was",
+  "killed",
+  "in",
+  "full",
+  "view",
+  "of",
+  "passers",
+  "-",
+  "by",
+  "as",
+  "he",
+  "returned",
+  "to",
+  "an",
+  "army",
+  "barracks",
+  "wearing",
+  "a",
+  "T",
+  "-",
+  "shirt",
+  "with",
+  "the",
+  "name",
+  "of",
+  "a",
+  "military",
+  "charity",
+  ".",
+  "While",
+  "some",
+  "mourned",
+  ",",
+  "others",
+  "protested",
+  ",",
+  "and",
+  "violent",
+  "clashes",
+  "broke",
+  "out",
+  "near",
+  "the",
+  "Parliaments",
+  "in",
+  "London",
+  "and",
+  "Edinburgh",
+  "between",
+  "rightists",
+  "demonstrating",
+  "against",
+  "Islamic",
+  "militancy",
+  "and",
+  "others",
+  "promoting",
+  "tolerance",
+  ".",
+  "In",
+  "other",
+  "cities",
+  ",",
+  "extreme",
+  "rightists",
+  "confronted",
+  "campaigners",
+  "opposed",
+  "to",
+  "racism",
+  "and",
+  "fascism",
+  ".",
+  "Scores",
+  "of",
+  "people",
+  "were",
+  "arrested",
+  "in",
+  "London",
+  "on",
+  "public",
+  "order",
+  "offenses",
+  "after",
+  "the",
+  "police",
+  "broke",
+  "up",
+  "fights",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   66,
+   120,
+   135,
+   158,
+   190,
+   214,
+   244,
+   252,
+   287,
+   297,
+   354,
+   384,
+   398,
+   416
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Woolwich",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Woolwich"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "LONDON"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "London"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "Adebolajo"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Adebowale"
+      },
+      {
+       "label": "Netherlands",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Netherlands"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "London"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "London"
+      },
+      {
+       "label": "Edinburgh",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "Edinburgh"
+      },
+      {
+       "label": "Nigeria",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "Nigerian"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Adebowale"
+      },
+      {
+       "label": "Afghanistan",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "Afghanistan"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 69,
+       "end": 71,
+       "tokens": "Michael Adebolajo"
+      },
+      {
+       "label": "South_London",
+       "score": 1.0,
+       "start": 25,
+       "end": 27,
+       "tokens": "South London"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 75,
+       "end": 77,
+       "tokens": "Michael Adebowale"
+      },
+      {
+       "label": "Westminster_Magistrates'_Court",
+       "score": 1.0,
+       "start": 219,
+       "end": 222,
+       "tokens": "Westminster Magistrates Court"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 97,
+       "end": 99,
+       "tokens": "Lee Rigby"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "British"
+      },
+      {
+       "label": "City_of_Westminster",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "Westminster"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "Rigby"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "British"
+      },
+      {
+       "label": "Old_Bailey",
+       "score": 1.0,
+       "start": 260,
+       "end": 262,
+       "tokens": "Old Bailey"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "Adebolajo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Woolwich"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "LONDON"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "London"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "Adebolajo"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Adebowale"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Netherlands"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "London"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "London"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "Edinburgh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "Nigerian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Adebowale"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "Afghanistan"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 69,
+       "end": 71,
+       "tokens": "Michael Adebolajo"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 25,
+       "end": 27,
+       "tokens": "South London"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 75,
+       "end": 77,
+       "tokens": "Michael Adebowale"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 219,
+       "end": 222,
+       "tokens": "Westminster Magistrates Court"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 97,
+       "end": 99,
+       "tokens": "Lee Rigby"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "British"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "Westminster"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "Rigby"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "British"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 260,
+       "end": 262,
+       "tokens": "Old Bailey"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "Adebolajo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "TWO",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "TWO"
+      },
+      {
+       "label": "ACCUSED",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "ACCUSED"
+      },
+      {
+       "label": "OF",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "OF"
+      },
+      {
+       "label": "SOLDIER'S",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "SOLDIER'S"
+      },
+      {
+       "label": "MURDER",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "MURDER"
+      },
+      {
+       "label": "APPEAR",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "APPEAR"
+      },
+      {
+       "label": "IN",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "IN"
+      },
+      {
+       "label": "COURT",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "COURT"
+      },
+      {
+       "label": "LONDON",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "LONDON"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "-"
+      },
+      {
+       "label": "Two",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Two"
+      },
+      {
+       "label": "men",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "men"
+      },
+      {
+       "label": "accused",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "accused"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "of"
+      },
+      {
+       "label": "hacking",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "hacking"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "an"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "off"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "-"
+      },
+      {
+       "label": "duty",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "duty"
+      },
+      {
+       "label": "British",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "British"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "soldier"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "to"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "death"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "a"
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "South"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "London"
+      },
+      {
+       "label": "street",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "street"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "last"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "month"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "appeared"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "in"
+      },
+      {
+       "label": "separate",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "separate"
+      },
+      {
+       "label": "courts",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "courts"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "for"
+      },
+      {
+       "label": "hearings",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "hearings"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Monday"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "as"
+      },
+      {
+       "label": "politicians",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "politicians"
+      },
+      {
+       "label": "planned",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "planned"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "to"
+      },
+      {
+       "label": "meet",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "meet"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "with"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "security"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "and"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "police"
+      },
+      {
+       "label": "chiefs",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "chiefs"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "to"
+      },
+      {
+       "label": "discuss",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "discuss"
+      },
+      {
+       "label": "ways",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "ways"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "of"
+      },
+      {
+       "label": "confronting",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "confronting"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "what"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "the"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "government"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "has"
+      },
+      {
+       "label": "termed",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "termed"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "the"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "poisonous",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "poisonous"
+      },
+      {
+       "label": "narrative",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "narrative"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "of"
+      },
+      {
+       "label": "militant",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "militant"
+      },
+      {
+       "label": "radicalization",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "radicalization"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "The"
+      },
+      {
+       "label": "men",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "men"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": ","
+      },
+      {
+       "label": "Michael",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "Michael"
+      },
+      {
+       "label": "Adebolajo",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "Adebolajo"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": ","
+      },
+      {
+       "label": "28",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "28"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "and"
+      },
+      {
+       "label": "Michael",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "Michael"
+      },
+      {
+       "label": "Adebowale",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "Adebowale"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": ","
+      },
+      {
+       "label": "22",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "22"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": ","
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "both"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "of"
+      },
+      {
+       "label": "Nigerian",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "Nigerian"
+      },
+      {
+       "label": "descent",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "descent"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": ","
+      },
+      {
+       "label": "face",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "face"
+      },
+      {
+       "label": "murder",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "murder"
+      },
+      {
+       "label": "charges",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "charges"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "the"
+      },
+      {
+       "label": "May",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "May"
+      },
+      {
+       "label": "22",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "22"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "death"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "the"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "soldier"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": ","
+      },
+      {
+       "label": "Lee",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "Lee"
+      },
+      {
+       "label": "Rigby",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "Rigby"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": ","
+      },
+      {
+       "label": "25",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "25"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "a"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "military"
+      },
+      {
+       "label": "drummer",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "drummer"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "and"
+      },
+      {
+       "label": "machine",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "machine"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "-"
+      },
+      {
+       "label": "gunner",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "gunner"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "who"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "had"
+      },
+      {
+       "label": "served",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "served"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "with"
+      },
+      {
+       "label": "British",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "British"
+      },
+      {
+       "label": "forces",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "forces"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "in"
+      },
+      {
+       "label": "Afghanistan",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "Afghanistan"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "and"
+      },
+      {
+       "label": "elsewhere",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "elsewhere"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "."
+      },
+      {
+       "label": "After",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "After"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "the"
+      },
+      {
+       "label": "soldier",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "soldier"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "killing",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "killing"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": ","
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "both"
+      },
+      {
+       "label": "suspects",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "suspects"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "were"
+      },
+      {
+       "label": "shot",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "shot"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "and"
+      },
+      {
+       "label": "wounded",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "wounded"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "by"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "police"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "."
+      },
+      {
+       "label": "Adebowale",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Adebowale"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "was"
+      },
+      {
+       "label": "formally",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "formally"
+      },
+      {
+       "label": "charged",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "charged"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "with"
+      },
+      {
+       "label": "murder",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "murder"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "last"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "week"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "and"
+      },
+      {
+       "label": "Adebolajo",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "Adebolajo"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "appeared"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "a"
+      },
+      {
+       "label": "magistrate",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "magistrate"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "court"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "Monday"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "be"
+      },
+      {
+       "label": "formally",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "formally"
+      },
+      {
+       "label": "arraigned",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "arraigned"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "He"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "was"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "also"
+      },
+      {
+       "label": "charged",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "charged"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "with"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "other"
+      },
+      {
+       "label": "offenses",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "offenses"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "including"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "the"
+      },
+      {
+       "label": "attempted",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "attempted"
+      },
+      {
+       "label": "murder",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "murder"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "of"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "two"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "police"
+      },
+      {
+       "label": "officers",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "officers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "and"
+      },
+      {
+       "label": "possession",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "possession"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "a"
+      },
+      {
+       "label": "revolver",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "revolver"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": ","
+      },
+      {
+       "label": "identified",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "identified"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "a"
+      },
+      {
+       "label": "9.4",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "9.4"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "-"
+      },
+      {
+       "label": "mm",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "mm"
+      },
+      {
+       "label": "KNIL",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "KNIL"
+      },
+      {
+       "label": "model",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "model"
+      },
+      {
+       "label": "91",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "91"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "."
+      },
+      {
+       "label": "Weapons",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "Weapons"
+      },
+      {
+       "label": "experts",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "experts"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "the"
+      },
+      {
+       "label": "revolver",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "revolver"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "a"
+      },
+      {
+       "label": "large",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "large"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "-"
+      },
+      {
+       "label": "bore",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "bore"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": ","
+      },
+      {
+       "label": "antique",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "antique"
+      },
+      {
+       "label": "handgun",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "handgun"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "first"
+      },
+      {
+       "label": "manufactured",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "manufactured"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "the"
+      },
+      {
+       "label": "Netherlands",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Netherlands"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "the"
+      },
+      {
+       "label": "late",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "late"
+      },
+      {
+       "label": "19th",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "19th"
+      },
+      {
+       "label": "century",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "century"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "."
+      },
+      {
+       "label": "According",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "According"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "to"
+      },
+      {
+       "label": "reporters",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "reporters"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "the"
+      },
+      {
+       "label": "Westminster",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "Westminster"
+      },
+      {
+       "label": "Magistrates",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "Magistrates"
+      },
+      {
+       "label": "Court",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Court"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": ","
+      },
+      {
+       "label": "Adebolajo",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "Adebolajo"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "was"
+      },
+      {
+       "label": "wearing",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "wearing"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "a"
+      },
+      {
+       "label": "white",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "white"
+      },
+      {
+       "label": "T",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "T"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "-"
+      },
+      {
+       "label": "shirt",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "shirt"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "and"
+      },
+      {
+       "label": "blew",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "blew"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "a"
+      },
+      {
+       "label": "kiss",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "kiss"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "to"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "an"
+      },
+      {
+       "label": "unidentified",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "unidentified"
+      },
+      {
+       "label": "man",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "man"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "the"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "public"
+      },
+      {
+       "label": "gallery",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "gallery"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "."
+      },
+      {
+       "label": "Both",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "Both"
+      },
+      {
+       "label": "men",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "men"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "then"
+      },
+      {
+       "label": "pointed",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "pointed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "the"
+      },
+      {
+       "label": "sky",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "sky"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "."
+      },
+      {
+       "label": "For",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "For"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "his"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "part"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": ","
+      },
+      {
+       "label": "Adebowale",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "Adebowale"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "appeared"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "the"
+      },
+      {
+       "label": "Old",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "Old"
+      },
+      {
+       "label": "Bailey",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "Bailey"
+      },
+      {
+       "label": "criminal",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "criminal"
+      },
+      {
+       "label": "court",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "court"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "and"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "was"
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "told"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "he"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "would"
+      },
+      {
+       "label": "return",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "return"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "a"
+      },
+      {
+       "label": "preliminary",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "preliminary"
+      },
+      {
+       "label": "hearing",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "hearing"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "June"
+      },
+      {
+       "label": "28",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "28"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "when"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "the"
+      },
+      {
+       "label": "cases",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "cases"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "against"
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "both"
+      },
+      {
+       "label": "men",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "men"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "be"
+      },
+      {
+       "label": "heard",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "heard"
+      },
+      {
+       "label": "together",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "together"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "He"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "did"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "not"
+      },
+      {
+       "label": "seek",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "seek"
+      },
+      {
+       "label": "bail",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "bail"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": ","
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "news"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "reports"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "The"
+      },
+      {
+       "label": "proceedings",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "proceedings"
+      },
+      {
+       "label": "came",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "came"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "after"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "a"
+      },
+      {
+       "label": "weekend",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "weekend"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "in"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "which"
+      },
+      {
+       "label": "crowds",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "crowds"
+      },
+      {
+       "label": "added",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "added"
+      },
+      {
+       "label": "floral",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "floral"
+      },
+      {
+       "label": "tributes",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "tributes"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "the"
+      },
+      {
+       "label": "thousands",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "thousands"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "of"
+      },
+      {
+       "label": "bouquets",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "bouquets"
+      },
+      {
+       "label": "left",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "left"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "by"
+      },
+      {
+       "label": "well",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "well"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "-"
+      },
+      {
+       "label": "wishers",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "wishers"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "the"
+      },
+      {
+       "label": "Woolwich",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Woolwich"
+      },
+      {
+       "label": "neighborhood",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "neighborhood"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "where"
+      },
+      {
+       "label": "Rigby",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "Rigby"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "was"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "killed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "in"
+      },
+      {
+       "label": "full",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "full"
+      },
+      {
+       "label": "view",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "view"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "of"
+      },
+      {
+       "label": "passers",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "passers"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "-"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "by"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "as"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "he"
+      },
+      {
+       "label": "returned",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "returned"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "to"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "an"
+      },
+      {
+       "label": "army",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "army"
+      },
+      {
+       "label": "barracks",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "barracks"
+      },
+      {
+       "label": "wearing",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "wearing"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "a"
+      },
+      {
+       "label": "T",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "T"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "-"
+      },
+      {
+       "label": "shirt",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "shirt"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "the"
+      },
+      {
+       "label": "name",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "name"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "a"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "military"
+      },
+      {
+       "label": "charity",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "charity"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "."
+      },
+      {
+       "label": "While",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "While"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "some"
+      },
+      {
+       "label": "mourned",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "mourned"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": ","
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "others"
+      },
+      {
+       "label": "protested",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "protested"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "and"
+      },
+      {
+       "label": "violent",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "violent"
+      },
+      {
+       "label": "clashes",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "clashes"
+      },
+      {
+       "label": "broke",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "broke"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "out"
+      },
+      {
+       "label": "near",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "near"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "the"
+      },
+      {
+       "label": "Parliaments",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "Parliaments"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "in"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "London"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "and"
+      },
+      {
+       "label": "Edinburgh",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "Edinburgh"
+      },
+      {
+       "label": "between",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "between"
+      },
+      {
+       "label": "rightists",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "rightists"
+      },
+      {
+       "label": "demonstrating",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "demonstrating"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "against"
+      },
+      {
+       "label": "Islamic",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "Islamic"
+      },
+      {
+       "label": "militancy",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "militancy"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "and"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "others"
+      },
+      {
+       "label": "promoting",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "promoting"
+      },
+      {
+       "label": "tolerance",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "tolerance"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "In"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "other"
+      },
+      {
+       "label": "cities",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "cities"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": ","
+      },
+      {
+       "label": "extreme",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "extreme"
+      },
+      {
+       "label": "rightists",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "rightists"
+      },
+      {
+       "label": "confronted",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "confronted"
+      },
+      {
+       "label": "campaigners",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "campaigners"
+      },
+      {
+       "label": "opposed",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "opposed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "to"
+      },
+      {
+       "label": "racism",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "racism"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "and"
+      },
+      {
+       "label": "fascism",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "fascism"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "."
+      },
+      {
+       "label": "Scores",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "Scores"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "of"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "people"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "were"
+      },
+      {
+       "label": "arrested",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "arrested"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "in"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "London"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "on"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "public"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "order"
+      },
+      {
+       "label": "offenses",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "offenses"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "the"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "police"
+      },
+      {
+       "label": "broke",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "broke"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "up"
+      },
+      {
+       "label": "fights",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "fights"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Woolwich",
+       "score": 0.7871707653951643,
+       "start": 321,
+       "end": 322,
+       "tokens": "Woolwich",
+       "labelScoreMap": {
+        "Woolwich": 0.7871707653951643,
+        "Bishop_of_Woolwich": 0.020568619337794147,
+        "Metropolitan_Borough_of_Woolwich": 0.033940130860387024,
+        "Woolwich,_Maine": 0.01928563780700735,
+        "Woolwich,_Ontario": 0.014719720714973092,
+        "Woolwich_(UK_Parliament_constituency)": 0.012313524441157152,
+        "Woolwich,_New_South_Wales": 0.011098453578526304,
+        "Woolwich_Township,_New_Jersey": 0.009394729332197658,
+        "Royal_Arsenal": 0.014098881872824215,
+        "The_Woolwich": 0.007989408148871087,
+        "Woolwich_Dockyard": 0.027281987350005584,
+        "London": 0.005606231656646588,
+        "Royal_Military_Academy,_Woolwich": 0.003951283532800702,
+        "Woolwich_Crown_Court": 0.0018944202688148963,
+        "Woolwich_Ferry": 0.02973881265288853,
+        "Woolwich_foot_tunnel": 0.000947393049941093,
+        "<unk_wid>": 4.171542442855439e-21
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.6163791057302255,
+       "start": 8,
+       "end": 9,
+       "tokens": "LONDON",
+       "labelScoreMap": {
+        "London": 0.6163791057302255,
+        "London,_Ontario": 0.028499321940993777,
+        "London_Records": 0.0050693318840964695,
+        "London_(European_Parliament_constituency)": 0.009559628425044653,
+        "7_July_2005_London_bombings": 0.039450872036240384,
+        "London_International_Airport": 0.002404145886812103,
+        "London_Fire_Brigade": 0.0049399045257462115,
+        "London_Ambulance_Service": 0.0032746650936501323,
+        "London,_Kentucky": 0.0020264913952918484,
+        "Greater_London": 0.024984942646355486,
+        "London_postal_district": 0.003438957832250147,
+        "Greater_London_Built-up_Area": 0.001594654883032937,
+        "London_Cricket_Club": 0.00267606715130639,
+        "London_(heavy_metal_band)": 0.0011341597926107741,
+        "London_Overground": 0.00877230542394255,
+        "HMS_President_(1918)": 0.0010209244124349212,
+        "London_(punk_band)": 0.0009642568809220167,
+        "University_of_London": 0.00969142302021735,
+        "City_of_London": 0.20627902173359997,
+        "London,_Ohio": 0.0007996258174805525,
+        "London_Underground": 0.02704019344007756,
+        "<unk_wid>": 5.296467802887757e-12
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.9108888785720027,
+       "start": 404,
+       "end": 405,
+       "tokens": "London",
+       "labelScoreMap": {
+        "London": 0.9108888785720027,
+        "London,_Ontario": 0.021440090619239988,
+        "London_Records": 0.0061098266395708655,
+        "London_(European_Parliament_constituency)": 0.004744038813124146,
+        "7_July_2005_London_bombings": 0.004024741206161371,
+        "London_International_Airport": 0.0033263381624411004,
+        "London_Fire_Brigade": 0.0031672852372082757,
+        "London_Ambulance_Service": 0.0030220548690542085,
+        "London,_Kentucky": 0.0029418317339026724,
+        "Greater_London": 0.003924787650040003,
+        "London_postal_district": 0.0024483551216017874,
+        "Greater_London_Built-up_Area": 0.002067753460673004,
+        "London_Cricket_Club": 0.0016943174577288378,
+        "London_(heavy_metal_band)": 0.0016147655187295055,
+        "London_Overground": 0.0015667841355405906,
+        "HMS_President_(1918)": 0.0014522446528321099,
+        "London_(punk_band)": 0.0013312308152580237,
+        "University_of_London": 0.0011598094475326957,
+        "City_of_London": 0.020902084708281646,
+        "London,_Ohio": 0.0010869236858816681,
+        "London_Underground": 0.0010858574931947964,
+        "<unk_wid>": 1.827598515375422e-31
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 145,
+       "end": 146,
+       "tokens": "Adebolajo",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 256,
+       "end": 257,
+       "tokens": "Adebowale",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Netherlands",
+       "score": 0.8675093286559561,
+       "start": 207,
+       "end": 208,
+       "tokens": "Netherlands",
+       "labelScoreMap": {
+        "Netherlands": 0.8675093286559561,
+        "Netherlands_national_football_team": 0.06551414894994018,
+        "Netherlands_national_cricket_team": 0.013104200373836332,
+        "Netherlands_national_baseball_team": 0.00485254498642679,
+        "Kingdom_of_the_Netherlands": 0.004665517608327037,
+        "Royal_Dutch_Football_Association": 0.004462507928698747,
+        "United_Kingdom_of_the_Netherlands": 0.0036970876947427975,
+        "Battle_of_the_Netherlands": 0.006659252202224566,
+        "Netherlands_national_rugby_union_team": 0.0025769675667955596,
+        "Netherlands_national_under-19_football_team": 0.002302557456525484,
+        "Netherlands_women's_national_football_team": 0.0022972047906370872,
+        "Armed_forces_of_the_Netherlands": 0.002195724538412991,
+        "Netherlands_national_under-17_football_team": 0.002024537977851904,
+        "Netherlands_national_under-21_football_team": 0.0019749940586686002,
+        "Netherlands_men's_national_ice_hockey_team": 0.0019104631554720856,
+        "Netherlands_men's_national_volleyball_team": 0.0018391814552935722,
+        "Netherlands_Fed_Cup_team": 0.0017038618968530411,
+        "Dutch_Basketball_League": 0.0015183931564412057,
+        "Big_Brother_(Dutch_TV_series)": 0.0014898850690261802,
+        "Eredivisie": 0.0014685447427065638,
+        "United_States_Ambassador_to_the_Netherlands": 0.001385209840391649,
+        "NVPI": 0.0012332522798058241,
+        "Netherlands_women's_national_volleyball_team": 0.0012118723691011534,
+        "Netherlands_in_World_War_II": 0.0012122850233623203,
+        "A1_Team_Netherlands": 0.00119047622250276,
+        "<unk_wid>": 2.978452672465847e-42
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.8576451509143378,
+       "start": 26,
+       "end": 27,
+       "tokens": "London",
+       "labelScoreMap": {
+        "London": 0.8576451509143378,
+        "London,_Ontario": 0.031856171524651214,
+        "London_Records": 0.00578061790293187,
+        "London_(European_Parliament_constituency)": 0.004498908191895728,
+        "7_July_2005_London_bombings": 0.003959824506869863,
+        "London_International_Airport": 0.003146952227560036,
+        "London_Fire_Brigade": 0.002996479457962954,
+        "London_Ambulance_Service": 0.0028590788846714075,
+        "London,_Kentucky": 0.004126042804644623,
+        "Greater_London": 0.009291144367983844,
+        "London_postal_district": 0.00235804053221513,
+        "Greater_London_Built-up_Area": 0.0019584012415892514,
+        "London_Cricket_Club": 0.00160543405160573,
+        "London_(heavy_metal_band)": 0.0015276841864267864,
+        "London_Overground": 0.0015160061621302646,
+        "HMS_President_(1918)": 0.0013739266057157774,
+        "London_(punk_band)": 0.0012594390829520647,
+        "University_of_London": 0.0011936876508371163,
+        "City_of_London": 0.05862705718582594,
+        "London,_Ohio": 0.0011572771521153305,
+        "London_Underground": 0.0012626753650776769,
+        "<unk_wid>": 1.074855697064044e-24
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.8231532975646964,
+       "start": 370,
+       "end": 371,
+       "tokens": "London",
+       "labelScoreMap": {
+        "London": 0.8231532975646964,
+        "London,_Ontario": 0.024063713142611395,
+        "London_Records": 0.005566780048668744,
+        "London_(European_Parliament_constituency)": 0.004373033551829654,
+        "7_July_2005_London_bombings": 0.0037395438849262496,
+        "London_International_Airport": 0.0030306713931915093,
+        "London_Fire_Brigade": 0.0028857577182933034,
+        "London_Ambulance_Service": 0.002753434823211826,
+        "London,_Kentucky": 0.004229389915058979,
+        "Greater_London": 0.008807520928842242,
+        "London_postal_district": 0.002314662107473709,
+        "Greater_London_Built-up_Area": 0.0018853704505769466,
+        "London_Cricket_Club": 0.0015501783470084276,
+        "London_(heavy_metal_band)": 0.0014712350529967517,
+        "London_Overground": 0.0015401982859366593,
+        "HMS_President_(1918)": 0.001323159610606666,
+        "London_(punk_band)": 0.0012129023323864036,
+        "University_of_London": 0.0011179705462516182,
+        "City_of_London": 0.10269262220010048,
+        "London,_Ohio": 0.0010983020645706338,
+        "London_Underground": 0.0011902560307616174,
+        "<unk_wid>": 2.8925606865595586e-26
+       }
+      },
+      {
+       "label": "Edinburgh",
+       "score": 0.8811142721509619,
+       "start": 372,
+       "end": 373,
+       "tokens": "Edinburgh",
+       "labelScoreMap": {
+        "Edinburgh": 0.8811142721509619,
+        "University_of_Edinburgh": 0.021735124137810497,
+        "Edinburgh,_Indiana": 0.010927371308730937,
+        "Edinburgh_Rugby": 0.010441343179880729,
+        "Edinburgh_Airport": 0.006703943131296071,
+        "Edinburgh_Review": 0.004144834997511842,
+        "Royal_Infirmary_of_Edinburgh": 0.003505953520980298,
+        "Edinburgh_Waverley_railway_station": 0.01836186422637479,
+        "Edinburgh_(UK_Parliament_constituency)": 0.004146092310652727,
+        "HMS_Warspite_(1666)": 0.0026050771467138033,
+        "Diocese_of_Edinburgh": 0.0024349992903399224,
+        "Edinburgh_International_Festival": 0.00237345526966169,
+        "Edinburgh_Festival": 0.006442837537850917,
+        "HMS_Edinburgh_(16)": 0.001521213332229125,
+        "Edinburgh,_South_Australia": 0.001312048565472226,
+        "Edinburgh_Corporation_Tramways": 0.0013120485568202033,
+        "Justin_Edinburgh": 0.0012170478264924452,
+        "RAAF_Base_Edinburgh": 0.006364524872100808,
+        "Bishop_of_Edinburgh": 0.0012850821174601275,
+        "Duke_of_Edinburgh": 0.004981349819822616,
+        "Edinburgh_International_Film_Festival": 0.0014513225922305778,
+        "St_Mary's_Cathedral,_Edinburgh_(Roman_Catholic)": 0.000988791409437286,
+        "Edinburgh_Festival_Fringe": 0.004629402699168113,
+        "<unk_wid>": 1.0935034452701214e-23
+       }
+      },
+      {
+       "label": "Nigeria",
+       "score": 0.9265786520016817,
+       "start": 82,
+       "end": 83,
+       "tokens": "Nigerian",
+       "labelScoreMap": {
+        "Nigeria": 0.9265786520016817,
+        "British_Nigerian": 0.011764464517444454,
+        "Niger": 0.03710416633919172,
+        "Nigerian_Americans": 0.016606805281399524,
+        "Nigeria_national_football_team": 0.004924703047027083,
+        "Conflict_in_the_Niger_Delta": 0.0016876066006988092,
+        "Jay-Jay_Okocha": 0.0013336022125566866,
+        "<unk_wid>": 8.930507399513266e-36
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 135,
+       "end": 136,
+       "tokens": "Adebowale",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Afghanistan",
+       "score": 0.889803873887258,
+       "start": 116,
+       "end": 117,
+       "tokens": "Afghanistan",
+       "labelScoreMap": {
+        "Afghanistan": 0.889803873887258,
+        "War_in_Afghanistan_(2001\u201314)": 0.06948777034401546,
+        "Afghanistan_national_football_team": 0.012218943851959065,
+        "Soviet\u2013Afghan_War": 0.010106136153023618,
+        "Afghanistan_national_cricket_team": 0.008467182026662816,
+        "United_States_Ambassador_to_Afghanistan": 0.002027733873943042,
+        "Democratic_Republic_of_Afghanistan": 0.0024973105620697063,
+        "Deobandi": 0.0017505749294440993,
+        "International_Security_Assistance_Force": 0.0012762752426825777,
+        "First_Anglo-Afghan_War": 0.001231720095245904,
+        "Operation_Enduring_Freedom": 0.0011324790336959816,
+        "<unk_wid>": 1.9602482633903366e-37
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 69,
+       "end": 71,
+       "tokens": "Michael Adebolajo",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "South_London",
+       "score": 0.6382132507857724,
+       "start": 25,
+       "end": 27,
+       "tokens": "South London",
+       "labelScoreMap": {
+        "South_London": 0.6382132507857724,
+        "London": 0.23853936487538172,
+        "SE_postcode_area": 0.011797819611186864,
+        "Brixton": 0.11144956472765913,
+        "<unk_wid>": 8.306018890101038e-20
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 75,
+       "end": 77,
+       "tokens": "Michael Adebowale",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "City_of_Westminster_Magistrates'_Court",
+       "score": 1.0,
+       "start": 219,
+       "end": 222,
+       "tokens": "Westminster Magistrates Court",
+       "labelScoreMap": {
+        "City_of_Westminster_Magistrates'_Court": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 97,
+       "end": 99,
+       "tokens": "Lee Rigby",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.6621044760145325,
+       "start": 19,
+       "end": 20,
+       "tokens": "British",
+       "labelScoreMap": {
+        "United_Kingdom": 0.6621044760145325,
+        "Great_Britain": 0.07690646705409987,
+        "British_Empire": 0.05393710367596382,
+        "Kingdom_of_Great_Britain": 0.09454843497218082,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.045362675078981105,
+        "British_English": 0.009853537372521553,
+        "England": 0.008927349921834422,
+        "British_colonization_of_the_Americas": 0.005831094843700339,
+        "British_Raj": 0.009166079116472492,
+        "Britannicus_(play)": 0.005295719141860205,
+        "British_Army": 0.010092218619890108,
+        "British_Americans": 0.003361752135278002,
+        "Royal_Navy": 0.003721167255506946,
+        "English_people": 0.0016879952437620165,
+        "British_Isles": 0.0013966488338040843,
+        "East_India_Company": 0.0013417169343313822,
+        "British_Boxing_Board_of_Control": 0.0017060261266465377,
+        "Government_of_the_United_Kingdom": 0.002875709710907716,
+        "Banksy": 0.0009715633008086039,
+        "Lee_Child": 0.0009122646469174079,
+        "<unk_wid>": 2.5704074988407035e-31
+       }
+      },
+      {
+       "label": "Westminster",
+       "score": 0.21668122129942932,
+       "start": 219,
+       "end": 220,
+       "tokens": "Westminster",
+       "labelScoreMap": {
+        "Westminster": 0.21668122129942932,
+        "City_of_Westminster": 0.09154840136388356,
+        "Westminster,_Colorado": 0.04820349402002039,
+        "Westminster,_California": 0.026081288966987783,
+        "Palace_of_Westminster": 0.14590315062886516,
+        "Westminster,_Maryland": 0.02329844926180091,
+        "Westminster_Abbey": 0.14619956991158087,
+        "Austin_Westminster": 0.015796375932521207,
+        "Westminster_tube_station": 0.010545369046173649,
+        "Parliament_of_the_United_Kingdom": 0.0411633754420422,
+        "Westminster,_Massachusetts": 0.009529776636619733,
+        "Westminster_School": 0.010860988726958284,
+        "Roman_Catholic_Archdiocese_of_Westminster": 0.007258470798845534,
+        "House_of_Commons_of_the_United_Kingdom": 0.11261637596798575,
+        "University_of_Westminster": 0.008592908917108889,
+        "Westminster,_South_Carolina": 0.006117790442177966,
+        "Westminster_(UK_Parliament_constituency)": 0.005533208203009444,
+        "Westminster_(town),_Vermont": 0.004829956909047131,
+        "Westminster_Review": 0.004032809722802315,
+        "Westminster_College_(Missouri)": 0.0036233937663479976,
+        "Westminster_College_(Pennsylvania)": 0.0035512701677393494,
+        "Metropolitan_Borough_of_Westminster": 0.004673506630994101,
+        "City_of_Westminster_College": 0.002405442076414134,
+        "Westminster_Bridge": 0.0064877857237933935,
+        "Westminster_Assembly": 0.0268625141075504,
+        "Westminster_Cathedral": 0.003864008928093707,
+        "Duke_of_Westminster": 0.003708185599245101,
+        "Westminster_Kennel_Club_Dog_Show": 0.0010861670600329804,
+        "Government_of_the_United_Kingdom": 0.008944743741928942,
+        "<unk_wid>": 1.2694848951901324e-25
+       }
+      },
+      {
+       "label": "Rigby,_Idaho",
+       "score": 0.8872224055057794,
+       "start": 324,
+       "end": 325,
+       "tokens": "Rigby",
+       "labelScoreMap": {
+        "Rigby,_Idaho": 0.8872224055057794,
+        "Richard_Rigby": 0.06437351003725987,
+        "Regular_Show": 0.009787891053340136,
+        "Holt_McDougal": 0.008714432873505094,
+        "Harcourt_(publisher)": 0.0059492834102315584,
+        "Rigby_High_School": 0.02395247711984606,
+        "<unk_wid>": 1.6044281569240206e-15
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.6667367118667735,
+       "start": 113,
+       "end": 114,
+       "tokens": "British",
+       "labelScoreMap": {
+        "United_Kingdom": 0.6667367118667735,
+        "Great_Britain": 0.07450680016228405,
+        "British_Empire": 0.05075048135184714,
+        "Kingdom_of_Great_Britain": 0.09929726495363506,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.042626252493822125,
+        "British_English": 0.009858190428875138,
+        "England": 0.008140887335854583,
+        "British_colonization_of_the_Americas": 0.005843564038354807,
+        "British_Raj": 0.008332091502478583,
+        "Britannicus_(play)": 0.005317599188566122,
+        "British_Army": 0.011747070185391905,
+        "British_Americans": 0.003375603214240476,
+        "Royal_Navy": 0.0037065154088061734,
+        "English_people": 0.0016356260212943867,
+        "British_Isles": 0.0013941848294615376,
+        "East_India_Company": 0.0013029702171441085,
+        "British_Boxing_Board_of_Control": 0.0013233267546364717,
+        "Government_of_the_United_Kingdom": 0.0022132487850823434,
+        "Banksy": 0.0009755774582497392,
+        "Lee_Child": 0.0009160338032015744,
+        "<unk_wid>": 1.2794894215841624e-33
+       }
+      },
+      {
+       "label": "Old_Bailey",
+       "score": 1.0,
+       "start": 260,
+       "end": 262,
+       "tokens": "Old Bailey",
+       "labelScoreMap": {
+        "Old_Bailey": 1.0,
+        "<unk_wid>": 1.328381810963387e-24
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 223,
+       "end": 224,
+       "tokens": "Adebolajo",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Woolwich",
+       "score": 0.7871707653951643,
+       "start": 321,
+       "end": 322,
+       "tokens": "Woolwich",
+       "labelScoreMap": {
+        "2633583|Woolwich": 0.7871707653951643,
+        "4983504|Woolwich,_Maine": 0.01928563780700735,
+        "6184530|Woolwich,_Ontario": 0.014719720714973092,
+        "8176458|Woolwich,_New_South_Wales": 0.011098453578526304,
+        "4504952|Woolwich_Township,_New_Jersey": 0.009394729332197658,
+        "2643743|London": 0.005606231656646588
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.6163791057302255,
+       "start": 8,
+       "end": 9,
+       "tokens": "LONDON",
+       "labelScoreMap": {
+        "2643743|London": 0.6163791057302255,
+        "6058560|London,_Ontario": 0.028499321940993777,
+        "6296323|London_International_Airport": 0.002404145886812103,
+        "4298960|London,_Kentucky": 0.0020264913952918484,
+        "2648110|Greater_London": 0.024984942646355486,
+        "6944357|University_of_London": 0.00969142302021735,
+        "2643741|City_of_London": 0.20627902173359997,
+        "4517009|London,_Ohio": 0.0007996258174805525
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.9108888785720027,
+       "start": 404,
+       "end": 405,
+       "tokens": "London",
+       "labelScoreMap": {
+        "2643743|London": 0.9108888785720027,
+        "6058560|London,_Ontario": 0.021440090619239988,
+        "6296323|London_International_Airport": 0.0033263381624411004,
+        "4298960|London,_Kentucky": 0.0029418317339026724,
+        "2648110|Greater_London": 0.003924787650040003,
+        "6944357|University_of_London": 0.0011598094475326957,
+        "2643741|City_of_London": 0.020902084708281646,
+        "4517009|London,_Ohio": 0.0010869236858816681
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 145,
+       "end": 146,
+       "tokens": "Adebolajo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 256,
+       "end": 257,
+       "tokens": "Adebowale",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Netherlands",
+       "score": 0.8675093286559561,
+       "start": 207,
+       "end": 208,
+       "tokens": "Netherlands",
+       "labelScoreMap": {
+        "2750405|Netherlands": 0.8675093286559561
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.8576451509143378,
+       "start": 26,
+       "end": 27,
+       "tokens": "London",
+       "labelScoreMap": {
+        "2643743|London": 0.8576451509143378,
+        "6058560|London,_Ontario": 0.031856171524651214,
+        "6296323|London_International_Airport": 0.003146952227560036,
+        "4298960|London,_Kentucky": 0.004126042804644623,
+        "2648110|Greater_London": 0.009291144367983844,
+        "6944357|University_of_London": 0.0011936876508371163,
+        "2643741|City_of_London": 0.05862705718582594,
+        "4517009|London,_Ohio": 0.0011572771521153305
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.8231532975646964,
+       "start": 370,
+       "end": 371,
+       "tokens": "London",
+       "labelScoreMap": {
+        "2643743|London": 0.8231532975646964,
+        "6058560|London,_Ontario": 0.024063713142611395,
+        "6296323|London_International_Airport": 0.0030306713931915093,
+        "4298960|London,_Kentucky": 0.004229389915058979,
+        "2648110|Greater_London": 0.008807520928842242,
+        "6944357|University_of_London": 0.0011179705462516182,
+        "2643741|City_of_London": 0.10269262220010048,
+        "4517009|London,_Ohio": 0.0010983020645706338
+       }
+      },
+      {
+       "label": "Edinburgh",
+       "score": 0.8811142721509619,
+       "start": 372,
+       "end": 373,
+       "tokens": "Edinburgh",
+       "labelScoreMap": {
+        "3333229|Edinburgh": 0.8811142721509619,
+        "6697584|University_of_Edinburgh": 0.021735124137810497,
+        "4257043|Edinburgh,_Indiana": 0.010927371308730937,
+        "6296627|Edinburgh_Airport": 0.006703943131296071,
+        "6289564|Royal_Infirmary_of_Edinburgh": 0.003505953520980298,
+        "6952537|Edinburgh_Waverley_railway_station": 0.01836186422637479,
+        "9973257|Edinburgh,_South_Australia": 0.001312048565472226,
+        "6301329|RAAF_Base_Edinburgh": 0.006364524872100808
+       }
+      },
+      {
+       "label": "Nigeria",
+       "score": 0.9265786520016817,
+       "start": 82,
+       "end": 83,
+       "tokens": "Nigerian",
+       "labelScoreMap": {
+        "2328926|Nigeria": 0.9265786520016817,
+        "2440476|Niger": 0.03710416633919172
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 135,
+       "end": 136,
+       "tokens": "Adebowale",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Afghanistan",
+       "score": 0.889803873887258,
+       "start": 116,
+       "end": 117,
+       "tokens": "Afghanistan",
+       "labelScoreMap": {
+        "1149361|Afghanistan": 0.889803873887258
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 69,
+       "end": 71,
+       "tokens": "Michael Adebolajo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "South_London",
+       "score": 0.6382132507857724,
+       "start": 25,
+       "end": 27,
+       "tokens": "South London",
+       "labelScoreMap": {
+        "2643743|London": 0.23853936487538172,
+        "6690877|Brixton": 0.11144956472765913
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 75,
+       "end": 77,
+       "tokens": "Michael Adebowale",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "City_of_Westminster_Magistrates'_Court",
+       "score": 1.0,
+       "start": 219,
+       "end": 222,
+       "tokens": "Westminster Magistrates Court",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 97,
+       "end": 99,
+       "tokens": "Lee Rigby",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.6621044760145325,
+       "start": 19,
+       "end": 20,
+       "tokens": "British",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.6621044760145325,
+        "6269131|England": 0.008927349921834422,
+        "2654669|British_Isles": 0.0013966488338040843
+       }
+      },
+      {
+       "label": "Westminster",
+       "score": 0.21668122129942932,
+       "start": 219,
+       "end": 220,
+       "tokens": "Westminster",
+       "labelScoreMap": {
+        "2634341|Westminster": 0.21668122129942932,
+        "3333218|City_of_Westminster": 0.09154840136388356,
+        "5443910|Westminster,_Colorado": 0.04820349402002039,
+        "5408406|Westminster,_California": 0.026081288966987783,
+        "6930645|Palace_of_Westminster": 0.14590315062886516,
+        "4373238|Westminster,_Maryland": 0.02329844926180091,
+        "6618996|Westminster_Abbey": 0.14619956991158087,
+        "6954853|Westminster_tube_station": 0.010545369046173649,
+        "4955247|Westminster,_Massachusetts": 0.009529776636619733,
+        "4600661|Westminster,_South_Carolina": 0.006117790442177966,
+        "5242810|Westminster_(town),_Vermont": 0.004829956909047131,
+        "4414268|Westminster_College_(Missouri)": 0.0036233937663479976,
+        "5218997|Westminster_College_(Pennsylvania)": 0.0035512701677393494,
+        "6619911|Westminster_Bridge": 0.0064877857237933935
+       }
+      },
+      {
+       "label": "Rigby,_Idaho",
+       "score": 0.8872224055057794,
+       "start": 324,
+       "end": 325,
+       "tokens": "Rigby",
+       "labelScoreMap": {
+        "5605321|Rigby,_Idaho": 0.8872224055057794
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.6667367118667735,
+       "start": 113,
+       "end": 114,
+       "tokens": "British",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.6667367118667735,
+        "6269131|England": 0.008140887335854583,
+        "2654669|British_Isles": 0.0013941848294615376
+       }
+      },
+      {
+       "label": "Old_Bailey",
+       "score": 1.0,
+       "start": 260,
+       "end": 262,
+       "tokens": "Old Bailey",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 223,
+       "end": 224,
+       "tokens": "Adebolajo",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

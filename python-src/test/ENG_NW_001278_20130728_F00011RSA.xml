@@ -1,0 +1,2797 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130728_F00011RSA.xml",
+ "text": "2013-07-28T23:07:21\nDeath toll from Spanish train crash rises to 79\nDeath toll from Spanish train crash rises to 79\nMADRID, July 28 (Xinhua) -- One of the people being treated in hospital for their injuries received in the rail accident died on Sunday.\nThe death takes the total number of victims in what is the second worst railway accident in Spanish history to 79.\nThe accident happened when the high-speed train between Madrid and Ferrol came off the tracks in the outskirts of Santiago de Compostela in north-west Spain on Wednesday evening.\nMeanwhile 70 of the 178 people, who were originally admitted to hospital, are still receiving treatment in various hospitals in the region, with 22 of them reported to still be in critical condition after the train was derailed while traveling at 190 kilometers an hour on a corner with a speed limit o 80km/h.\nThe driver is currently in police custody and is expected to testify to the judge carrying out the judicial investigation into the crash before the end of the day.\nMeanwhile there will be an official homage paid to the victims of the tragedy in the Cathedral of Santiago at 7 p.m. (1700GMT) on Monday in the presence of members of the Spanish Royal Family, Prime Minister, Mariano Rajoy and members of his government, as well as the Presidents of Spain's regional authorities. Enditem",
+ "tokens": [
+  "2013-07-28T23:07:21",
+  "Death",
+  "toll",
+  "from",
+  "Spanish",
+  "train",
+  "crash",
+  "rises",
+  "to",
+  "79",
+  "Death",
+  "toll",
+  "from",
+  "Spanish",
+  "train",
+  "crash",
+  "rises",
+  "to",
+  "79",
+  "MADRID",
+  ",",
+  "July",
+  "28",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "One",
+  "of",
+  "the",
+  "people",
+  "being",
+  "treated",
+  "in",
+  "hospital",
+  "for",
+  "their",
+  "injuries",
+  "received",
+  "in",
+  "the",
+  "rail",
+  "accident",
+  "died",
+  "on",
+  "Sunday",
+  ".",
+  "The",
+  "death",
+  "takes",
+  "the",
+  "total",
+  "number",
+  "of",
+  "victims",
+  "in",
+  "what",
+  "is",
+  "the",
+  "second",
+  "worst",
+  "railway",
+  "accident",
+  "in",
+  "Spanish",
+  "history",
+  "to",
+  "79",
+  ".",
+  "The",
+  "accident",
+  "happened",
+  "when",
+  "the",
+  "high",
+  "-",
+  "speed",
+  "train",
+  "between",
+  "Madrid",
+  "and",
+  "Ferrol",
+  "came",
+  "off",
+  "the",
+  "tracks",
+  "in",
+  "the",
+  "outskirts",
+  "of",
+  "Santiago",
+  "de",
+  "Compostela",
+  "in",
+  "north",
+  "-",
+  "west",
+  "Spain",
+  "on",
+  "Wednesday",
+  "evening",
+  ".",
+  "Meanwhile",
+  "70",
+  "of",
+  "the",
+  "178",
+  "people",
+  ",",
+  "who",
+  "were",
+  "originally",
+  "admitted",
+  "to",
+  "hospital",
+  ",",
+  "are",
+  "still",
+  "receiving",
+  "treatment",
+  "in",
+  "various",
+  "hospitals",
+  "in",
+  "the",
+  "region",
+  ",",
+  "with",
+  "22",
+  "of",
+  "them",
+  "reported",
+  "to",
+  "still",
+  "be",
+  "in",
+  "critical",
+  "condition",
+  "after",
+  "the",
+  "train",
+  "was",
+  "derailed",
+  "while",
+  "traveling",
+  "at",
+  "190",
+  "kilometers",
+  "an",
+  "hour",
+  "on",
+  "a",
+  "corner",
+  "with",
+  "a",
+  "speed",
+  "limit",
+  "o",
+  "80km",
+  "/",
+  "h",
+  ".",
+  "The",
+  "driver",
+  "is",
+  "currently",
+  "in",
+  "police",
+  "custody",
+  "and",
+  "is",
+  "expected",
+  "to",
+  "testify",
+  "to",
+  "the",
+  "judge",
+  "carrying",
+  "out",
+  "the",
+  "judicial",
+  "investigation",
+  "into",
+  "the",
+  "crash",
+  "before",
+  "the",
+  "end",
+  "of",
+  "the",
+  "day",
+  ".",
+  "Meanwhile",
+  "there",
+  "will",
+  "be",
+  "an",
+  "official",
+  "homage",
+  "paid",
+  "to",
+  "the",
+  "victims",
+  "of",
+  "the",
+  "tragedy",
+  "in",
+  "the",
+  "Cathedral",
+  "of",
+  "Santiago",
+  "at",
+  "7",
+  "p",
+  ".",
+  "m",
+  ".",
+  "(",
+  "1700GMT",
+  ")",
+  "on",
+  "Monday",
+  "in",
+  "the",
+  "presence",
+  "of",
+  "members",
+  "of",
+  "the",
+  "Spanish",
+  "Royal",
+  "Family",
+  ",",
+  "Prime",
+  "Minister",
+  ",",
+  "Mariano",
+  "Rajoy",
+  "and",
+  "members",
+  "of",
+  "his",
+  "government",
+  ",",
+  "as",
+  "well",
+  "as",
+  "the",
+  "Presidents",
+  "of",
+  "Spain",
+  "'s",
+  "regional",
+  "authorities",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   47,
+   69,
+   102,
+   162,
+   192,
+   217,
+   255,
+   256
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Madrid",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "Madrid"
+      },
+      {
+       "label": "Ferrol,_Galicia",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Ferrol"
+      },
+      {
+       "label": "Santiago_de_Compostela_Cathedral",
+       "score": 1.0,
+       "start": 208,
+       "end": 211,
+       "tokens": "Cathedral of Santiago"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "Spain"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 1.0,
+       "start": 90,
+       "end": 93,
+       "tokens": "Santiago de Compostela"
+      },
+      {
+       "label": "Madrid",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "MADRID"
+      },
+      {
+       "label": "Mariano_Rajoy",
+       "score": 1.0,
+       "start": 236,
+       "end": 238,
+       "tokens": "Mariano Rajoy"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "Spain"
+      },
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "Santiago"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "Madrid"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Ferrol"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 208,
+       "end": 211,
+       "tokens": "Cathedral of Santiago"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "Spain"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 90,
+       "end": 93,
+       "tokens": "Santiago de Compostela"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "MADRID"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 236,
+       "end": 238,
+       "tokens": "Mariano Rajoy"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "Spain"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "Santiago"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-07-28T23:07:21",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-07-28T23:07:21"
+      },
+      {
+       "label": "Death",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Death"
+      },
+      {
+       "label": "toll",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "toll"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "from"
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "train"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "crash"
+      },
+      {
+       "label": "rises",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "rises"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "to"
+      },
+      {
+       "label": "79",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "79"
+      },
+      {
+       "label": "Death",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Death"
+      },
+      {
+       "label": "toll",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "toll"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "from"
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "train"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "crash"
+      },
+      {
+       "label": "rises",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "rises"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "to"
+      },
+      {
+       "label": "79",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "79"
+      },
+      {
+       "label": "MADRID",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "MADRID"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": ","
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "July"
+      },
+      {
+       "label": "28",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "28"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "--"
+      },
+      {
+       "label": "One",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "One"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "the"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "people"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "being"
+      },
+      {
+       "label": "treated",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "treated"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "in"
+      },
+      {
+       "label": "hospital",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "hospital"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "for"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "their"
+      },
+      {
+       "label": "injuries",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "injuries"
+      },
+      {
+       "label": "received",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "received"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "the"
+      },
+      {
+       "label": "rail",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "rail"
+      },
+      {
+       "label": "accident",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "accident"
+      },
+      {
+       "label": "died",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "died"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "on"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Sunday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "The"
+      },
+      {
+       "label": "death",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "death"
+      },
+      {
+       "label": "takes",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "takes"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "the"
+      },
+      {
+       "label": "total",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "total"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "number"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "of"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "victims"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "in"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "what"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "the"
+      },
+      {
+       "label": "second",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "second"
+      },
+      {
+       "label": "worst",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "worst"
+      },
+      {
+       "label": "railway",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "railway"
+      },
+      {
+       "label": "accident",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "accident"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "in"
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "history",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "history"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "to"
+      },
+      {
+       "label": "79",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "79"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "The"
+      },
+      {
+       "label": "accident",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "accident"
+      },
+      {
+       "label": "happened",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "happened"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "when"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "the"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "high"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "-"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "speed"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "train"
+      },
+      {
+       "label": "between",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "between"
+      },
+      {
+       "label": "Madrid",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "Madrid"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "and"
+      },
+      {
+       "label": "Ferrol",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Ferrol"
+      },
+      {
+       "label": "came",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "came"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "off"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "the"
+      },
+      {
+       "label": "tracks",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "tracks"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "the"
+      },
+      {
+       "label": "outskirts",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "outskirts"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "of"
+      },
+      {
+       "label": "Santiago",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "Santiago"
+      },
+      {
+       "label": "de",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "de"
+      },
+      {
+       "label": "Compostela",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Compostela"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "in"
+      },
+      {
+       "label": "north",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "north"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "-"
+      },
+      {
+       "label": "west",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "west"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "Spain"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "on"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "evening",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "evening"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "."
+      },
+      {
+       "label": "Meanwhile",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Meanwhile"
+      },
+      {
+       "label": "70",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "70"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "the"
+      },
+      {
+       "label": "178",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "178"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "people"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "who"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "were"
+      },
+      {
+       "label": "originally",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "originally"
+      },
+      {
+       "label": "admitted",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "admitted"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "to"
+      },
+      {
+       "label": "hospital",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "hospital"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": ","
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "are"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "still"
+      },
+      {
+       "label": "receiving",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "receiving"
+      },
+      {
+       "label": "treatment",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "treatment"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "in"
+      },
+      {
+       "label": "various",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "various"
+      },
+      {
+       "label": "hospitals",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "hospitals"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "the"
+      },
+      {
+       "label": "region",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "region"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "with"
+      },
+      {
+       "label": "22",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "22"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "of"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "them"
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "reported"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "to"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "still"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "be"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "in"
+      },
+      {
+       "label": "critical",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "critical"
+      },
+      {
+       "label": "condition",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "condition"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "the"
+      },
+      {
+       "label": "train",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "train"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "was"
+      },
+      {
+       "label": "derailed",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "derailed"
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "while"
+      },
+      {
+       "label": "traveling",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "traveling"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "at"
+      },
+      {
+       "label": "190",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "190"
+      },
+      {
+       "label": "kilometers",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "kilometers"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "an"
+      },
+      {
+       "label": "hour",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "hour"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "on"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "a"
+      },
+      {
+       "label": "corner",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "corner"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "a"
+      },
+      {
+       "label": "speed",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "speed"
+      },
+      {
+       "label": "limit",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "limit"
+      },
+      {
+       "label": "o",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "o"
+      },
+      {
+       "label": "80km",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "80km"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "/"
+      },
+      {
+       "label": "h",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "h"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "The"
+      },
+      {
+       "label": "driver",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "driver"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "is"
+      },
+      {
+       "label": "currently",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "currently"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "in"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "police"
+      },
+      {
+       "label": "custody",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "custody"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "and"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "is"
+      },
+      {
+       "label": "expected",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "expected"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "to"
+      },
+      {
+       "label": "testify",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "testify"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "the"
+      },
+      {
+       "label": "judge",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "judge"
+      },
+      {
+       "label": "carrying",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "carrying"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "out"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "the"
+      },
+      {
+       "label": "judicial",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "judicial"
+      },
+      {
+       "label": "investigation",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "investigation"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "into"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "the"
+      },
+      {
+       "label": "crash",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "crash"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "the"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "end"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "the"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "."
+      },
+      {
+       "label": "Meanwhile",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "Meanwhile"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "there"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "be"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "an"
+      },
+      {
+       "label": "official",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "official"
+      },
+      {
+       "label": "homage",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "homage"
+      },
+      {
+       "label": "paid",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "paid"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "the"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "victims"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "the"
+      },
+      {
+       "label": "tragedy",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "tragedy"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "the"
+      },
+      {
+       "label": "Cathedral",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "Cathedral"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "of"
+      },
+      {
+       "label": "Santiago",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "Santiago"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "at"
+      },
+      {
+       "label": "7",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "7"
+      },
+      {
+       "label": "p",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "p"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "."
+      },
+      {
+       "label": "m",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "m"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "."
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "("
+      },
+      {
+       "label": "1700GMT",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "1700GMT"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": ")"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "on"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Monday"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "the"
+      },
+      {
+       "label": "presence",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "presence"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "of"
+      },
+      {
+       "label": "members",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "members"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "the"
+      },
+      {
+       "label": "Spanish",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "Spanish"
+      },
+      {
+       "label": "Royal",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Royal"
+      },
+      {
+       "label": "Family",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "Family"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": ","
+      },
+      {
+       "label": "Prime",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "Prime"
+      },
+      {
+       "label": "Minister",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "Minister"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": ","
+      },
+      {
+       "label": "Mariano",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "Mariano"
+      },
+      {
+       "label": "Rajoy",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "Rajoy"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "and"
+      },
+      {
+       "label": "members",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "members"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "of"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "his"
+      },
+      {
+       "label": "government",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "government"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "as"
+      },
+      {
+       "label": "well",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "well"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "the"
+      },
+      {
+       "label": "Presidents",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "Presidents"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "of"
+      },
+      {
+       "label": "Spain",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "Spain"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "'s"
+      },
+      {
+       "label": "regional",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "regional"
+      },
+      {
+       "label": "authorities",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "authorities"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Spanish_language",
+       "score": 0.5945795165318529,
+       "start": 4,
+       "end": 5,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.5945795165318529,
+        "Spain": 0.2826569894768956,
+        "Spaniards": 0.069127284558266,
+        "Spanish_Empire": 0.0314651692301921,
+        "New_Spain": 0.0017498140121414518,
+        "Spanish_immigration_to_Argentina": 0.0014376745684949413,
+        "Portuguese_people": 0.004195777479680709,
+        "Brazilians_of_Spanish_descent": 0.0010861937614202806,
+        "The_Californias": 0.0010811862212184152,
+        "Spanish_Wikipedia": 0.0024135747531119633,
+        "Italian_language": 0.0093458003953693,
+        "Cologne": 0.0008610190113563604,
+        "<unk_wid>": 2.579071001381602e-26
+       }
+      },
+      {
+       "label": "Spanish_language",
+       "score": 0.6837618934240873,
+       "start": 64,
+       "end": 65,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.6837618934240873,
+        "Spain": 0.22550893575899456,
+        "Spaniards": 0.05568120790790017,
+        "Spanish_Empire": 0.02395731683973505,
+        "New_Spain": 0.00182845843205019,
+        "Spanish_immigration_to_Argentina": 0.0015210431739430977,
+        "Portuguese_people": 0.0014667704338588254,
+        "Brazilians_of_Spanish_descent": 0.0011500547999483384,
+        "The_Californias": 0.0011447528190386541,
+        "Spanish_Wikipedia": 0.0011762128591908418,
+        "Italian_language": 0.0018917860926987982,
+        "Cologne": 0.0009115674585540872,
+        "<unk_wid>": 1.4617850833743799e-40
+       }
+      },
+      {
+       "label": "Madrid",
+       "score": 0.9187907389186155,
+       "start": 79,
+       "end": 80,
+       "tokens": "Madrid",
+       "labelScoreMap": {
+        "Madrid": 0.9187907389186155,
+        "Community_of_Madrid": 0.033671502678291325,
+        "2004_Madrid_train_bombings": 0.012583601567034024,
+        "Real_Madrid_C.F.": 0.00687132450641228,
+        "Madrid,_Cundinamarca": 0.0055409019945681075,
+        "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport": 0.0048380339149096795,
+        "Madrid,_New_Mexico": 0.00328955878719014,
+        "Bolsa_de_Madrid": 0.0029785073423919768,
+        "Madrid_Metro": 0.0028646036474239095,
+        "Madrid_Deep_Space_Communications_Complex": 0.002546409875173595,
+        "Siege_of_Madrid": 0.0025247768666374366,
+        "Madrid_(Spanish_Congress_Electoral_District)": 0.0017732976644189143,
+        "Madrid_Tennis_Grand_Prix": 0.0017267422369329072,
+        "<unk_wid>": 1.6390034072256363e-31
+       }
+      },
+      {
+       "label": "Ferrol,_Galicia",
+       "score": 0.9173741907876911,
+       "start": 81,
+       "end": 82,
+       "tokens": "Ferrol",
+       "labelScoreMap": {
+        "Ferrol,_Galicia": 0.9173741907876911,
+        "Ferrol_(comarca)": 0.0705707255151779,
+        "Ferrol_Expedition_(1800)": 0.009443259595094674,
+        "Racing_de_Ferrol": 0.002611824102036209,
+        "<unk_wid>": 1.4595975582064994e-38
+       }
+      },
+      {
+       "label": "Santiago_de_Compostela_Cathedral",
+       "score": 1.0,
+       "start": 208,
+       "end": 211,
+       "tokens": "Cathedral of Santiago",
+       "labelScoreMap": {
+        "Santiago_de_Compostela_Cathedral": 1.0,
+        "<unk_wid>": 7.093038411673658e-23
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.8665038326090021,
+       "start": 250,
+       "end": 251,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "Spain": 0.8665038326090021,
+        "Spain_national_football_team": 0.04984493017966194,
+        "Spanish_Empire": 0.018244042607732745,
+        "Spain_men's_national_basketball_team": 0.0065793783893847305,
+        "Royal_Spanish_Football_Federation": 0.00450117414840115,
+        "Adams\u2013On\u00eds_Treaty": 0.004250855892226951,
+        "Spain_Davis_Cup_team": 0.002936384926560263,
+        "Spain_national_rugby_union_team": 0.0028265149011867247,
+        "La_Liga": 0.002588681100496279,
+        "Asociaci\u00f3n_de_Clubs_de_Baloncesto": 0.0024610917429841875,
+        "Spanish_Armed_Forces": 0.001914970235708965,
+        "Restoration_(Spain)": 0.004252254493370008,
+        "Spain_national_under-21_football_team": 0.0015408645133158194,
+        "Francoist_Spain": 0.015426688115761797,
+        "Spain_national_futsal_team": 0.0014357640835467225,
+        "Spain_Fed_Cup_team": 0.0018743279712308413,
+        "Spain_women's_national_basketball_team": 0.001247003808499014,
+        "Al-Andalus": 0.007158712281951343,
+        "2008\u201315_Spanish_financial_crisis": 0.0011666838520531624,
+        "Disney_Cinemagic": 0.0011335559223890803,
+        "Hispania": 0.002112288224535959,
+        "<unk_wid>": 1.9099203470152906e-31
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816668890155249,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816668890155249,
+        "Xinhua_District,_Tainan": 0.016982118031490027,
+        "Xinhua_County": 0.0013509929529849274,
+        "<unk_wid>": 1.424430259457373e-24
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.4473036259234971,
+       "start": 229,
+       "end": 230,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.3635648292498289,
+        "Spain": 0.4473036259234971,
+        "Spaniards": 0.08161493351727213,
+        "Spanish_Empire": 0.08323088280406461,
+        "New_Spain": 0.0015791396197916833,
+        "Spanish_immigration_to_Argentina": 0.0026188918670453283,
+        "Portuguese_people": 0.013187548092967185,
+        "Brazilians_of_Spanish_descent": 0.0009235254261974449,
+        "The_Californias": 0.000919267817684422,
+        "Spanish_Wikipedia": 0.0008943907512824873,
+        "Italian_language": 0.0034308655825984794,
+        "Cologne": 0.0007320993477702374,
+        "<unk_wid>": 1.2084354967054627e-31
+       }
+      },
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 0.9325953561330954,
+       "start": 90,
+       "end": 93,
+       "tokens": "Santiago de Compostela",
+       "labelScoreMap": {
+        "Santiago_de_Compostela": 0.9325953561330954,
+        "Camino_de_Santiago": 0.043576619925365705,
+        "Roman_Catholic_Archdiocese_of_Santiago_de_Compostela": 0.012018355056656962,
+        "Santiago_de_Compostela_Cathedral": 0.00524718889352327,
+        "University_of_Santiago_de_Compostela": 0.006562479991358646,
+        "<unk_wid>": 2.5948116079044117e-37
+       }
+      },
+      {
+       "label": "Madrid",
+       "score": 0.8998660507132018,
+       "start": 19,
+       "end": 20,
+       "tokens": "MADRID",
+       "labelScoreMap": {
+        "Madrid": 0.8998660507132018,
+        "Community_of_Madrid": 0.0435174672982943,
+        "2004_Madrid_train_bombings": 0.013013625616916411,
+        "Real_Madrid_C.F.": 0.011231012244279255,
+        "Madrid,_Cundinamarca": 0.005437717649382841,
+        "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport": 0.005172905596793226,
+        "Madrid,_New_Mexico": 0.0032281454823237,
+        "Bolsa_de_Madrid": 0.003113613158137434,
+        "Madrid_Metro": 0.0029239142896054105,
+        "Madrid_Deep_Space_Communications_Complex": 0.0024988701995077296,
+        "Siege_of_Madrid": 0.002497385193783501,
+        "Madrid_(Spanish_Congress_Electoral_District)": 0.005804608017251445,
+        "Madrid_Tennis_Grand_Prix": 0.0016946845405230435,
+        "<unk_wid>": 2.521098176553798e-21
+       }
+      },
+      {
+       "label": "Mariano_Rajoy",
+       "score": 1.0,
+       "start": 236,
+       "end": 238,
+       "tokens": "Mariano Rajoy",
+       "labelScoreMap": {
+        "Mariano_Rajoy": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Spanish_language",
+       "score": 0.49658490948332107,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "Spanish_language": 0.49658490948332107,
+        "Spain": 0.367606609136347,
+        "Spaniards": 0.07425349994793949,
+        "Spanish_Empire": 0.0391476762289666,
+        "New_Spain": 0.0017026560034346513,
+        "Spanish_immigration_to_Argentina": 0.0013540300499436375,
+        "Portuguese_people": 0.006132639538224769,
+        "Brazilians_of_Spanish_descent": 0.0010198074398405543,
+        "The_Californias": 0.001015105996089063,
+        "Spanish_Wikipedia": 0.001173555400621434,
+        "Italian_language": 0.009200913367995894,
+        "Cologne": 0.000808597407275665,
+        "<unk_wid>": 1.1492013498126763e-26
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.9012926955400649,
+       "start": 97,
+       "end": 98,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "Spain": 0.9012926955400649,
+        "Spain_national_football_team": 0.0485055324084993,
+        "Spanish_Empire": 0.0086085255087393,
+        "Spain_men's_national_basketball_team": 0.005591784744187958,
+        "Royal_Spanish_Football_Federation": 0.004659314890675903,
+        "Adams\u2013On\u00eds_Treaty": 0.0044001858971359714,
+        "Spain_Davis_Cup_team": 0.0029872842350257157,
+        "Spain_national_rugby_union_team": 0.002874888558820673,
+        "La_Liga": 0.0026792302623857823,
+        "Asociaci\u00f3n_de_Clubs_de_Baloncesto": 0.0025472239546624822,
+        "Spanish_Armed_Forces": 0.0019751918948792005,
+        "Restoration_(Spain)": 0.0016741842656973626,
+        "Spain_national_under-21_football_team": 0.0015743099744975819,
+        "Francoist_Spain": 0.0016691055044551954,
+        "Spain_national_futsal_team": 0.0014814024489704285,
+        "Spain_Fed_Cup_team": 0.0013277367143471066,
+        "Spain_women's_national_basketball_team": 0.001290717269673535,
+        "Al-Andalus": 0.001323502036357538,
+        "2008\u201315_Spanish_financial_crisis": 0.0012076034161090036,
+        "Disney_Cinemagic": 0.0011733813954651728,
+        "Hispania": 0.0011561990793495446,
+        "<unk_wid>": 1.2630255108021465e-45
+       }
+      },
+      {
+       "label": "Santiago",
+       "score": 0.45432540348858397,
+       "start": 210,
+       "end": 211,
+       "tokens": "Santiago",
+       "labelScoreMap": {
+        "Santiago": 0.45432540348858397,
+        "Santiago_de_los_Caballeros": 0.08122318775500496,
+        "Santiago_Province_(Dominican_Republic)": 0.02371473182651014,
+        "Santiago,_Cape_Verde": 0.04011542169419642,
+        "Santiago_de_Cuba": 0.03957121115396106,
+        "Santiago_de_Compostela": 0.24749443672634183,
+        "Santiago,_Rio_Grande_do_Sul": 0.013371977661808879,
+        "James,_son_of_Zebedee": 0.019803815124919362,
+        "Order_of_Santiago": 0.008337934004528242,
+        "Santiago_Province,_Chile": 0.008982063850597884,
+        "Santiago_(commune)": 0.007575040970623125,
+        "Santiago,_Nuevo_Le\u00f3n": 0.004260106018285455,
+        "Santiago_Metropolitan_Region": 0.006253094815723435,
+        "Santiago_del_Estero_Province": 0.007559352935842477,
+        "Grande_de_Santiago_River": 0.002803254620784925,
+        "James_(brother_of_Jesus)": 0.002976821946345935,
+        "Santiago_de_Veraguas": 0.0026840717220499685,
+        "Benito_Santiago": 0.002234388447689777,
+        "The_Old_Man_and_the_Sea": 0.0020520604286625786,
+        "Camino_de_Santiago": 0.002847838311655938,
+        "Jamaica": 0.0038294965943983586,
+        "Santiago_Ram\u00f3n_y_Cajal": 0.0021111600057205386,
+        "Epistle_of_James": 0.0015582608378443047,
+        "Chile_Open_(tennis)": 0.001487922332850938,
+        "Santiago_Metro": 0.0013984997429956317,
+        "Santiago_Island_(Gal\u00e1pagos)": 0.0013923496784980685,
+        "Battle_of_Santiago_de_Cuba": 0.0012225251978764473,
+        "Siege_of_Santiago": 0.001026102030768488,
+        "Santiago_del_Estero": 0.007787470074930679,
+        "<unk_wid>": 3.651591407988624e-21
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Spanish_language",
+       "score": 0.5945795165318529,
+       "start": 4,
+       "end": 5,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.2826569894768956,
+        "6553049|Cologne": 0.0008610190113563604
+       }
+      },
+      {
+       "label": "Spanish_language",
+       "score": 0.6837618934240873,
+       "start": 64,
+       "end": 65,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.22550893575899456,
+        "6553049|Cologne": 0.0009115674585540872
+       }
+      },
+      {
+       "label": "Madrid",
+       "score": 0.9187907389186155,
+       "start": 79,
+       "end": 80,
+       "tokens": "Madrid",
+       "labelScoreMap": {
+        "3117735|Madrid": 0.9187907389186155,
+        "3117732|Community_of_Madrid": 0.033671502678291325,
+        "3675708|Madrid,_Cundinamarca": 0.0055409019945681075,
+        "6299345|Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport": 0.0048380339149096795,
+        "5477631|Madrid,_New_Mexico": 0.00328955878719014,
+        "8714453|Bolsa_de_Madrid": 0.0029785073423919768
+       }
+      },
+      {
+       "label": "Ferrol,_Galicia",
+       "score": 0.9173741907876911,
+       "start": 81,
+       "end": 82,
+       "tokens": "Ferrol",
+       "labelScoreMap": {
+        "6357306|Ferrol,_Galicia": 0.9173741907876911
+       }
+      },
+      {
+       "label": "Santiago_de_Compostela_Cathedral",
+       "score": 1.0,
+       "start": 208,
+       "end": 211,
+       "tokens": "Cathedral of Santiago",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Spain",
+       "score": 0.8665038326090021,
+       "start": 250,
+       "end": 251,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "2510769|Spain": 0.8665038326090021
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816668890155249,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016982118031490027,
+        "1788859|Xinhua_County": 0.0013509929529849274
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.4473036259234971,
+       "start": 229,
+       "end": 230,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.4473036259234971,
+        "6553049|Cologne": 0.0007320993477702374
+       }
+      },
+      {
+       "label": "Santiago_de_Compostela",
+       "score": 0.9325953561330954,
+       "start": 90,
+       "end": 93,
+       "tokens": "Santiago de Compostela",
+       "labelScoreMap": {
+        "3109642|Santiago_de_Compostela": 0.9325953561330954
+       }
+      },
+      {
+       "label": "Madrid",
+       "score": 0.8998660507132018,
+       "start": 19,
+       "end": 20,
+       "tokens": "MADRID",
+       "labelScoreMap": {
+        "3117735|Madrid": 0.8998660507132018,
+        "3117732|Community_of_Madrid": 0.0435174672982943,
+        "3675708|Madrid,_Cundinamarca": 0.005437717649382841,
+        "6299345|Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport": 0.005172905596793226,
+        "5477631|Madrid,_New_Mexico": 0.0032281454823237,
+        "8714453|Bolsa_de_Madrid": 0.003113613158137434
+       }
+      },
+      {
+       "label": "Mariano_Rajoy",
+       "score": 1.0,
+       "start": 236,
+       "end": 238,
+       "tokens": "Mariano Rajoy",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Spanish_language",
+       "score": 0.49658490948332107,
+       "start": 13,
+       "end": 14,
+       "tokens": "Spanish",
+       "labelScoreMap": {
+        "2510769|Spain": 0.367606609136347,
+        "6553049|Cologne": 0.000808597407275665
+       }
+      },
+      {
+       "label": "Spain",
+       "score": 0.9012926955400649,
+       "start": 97,
+       "end": 98,
+       "tokens": "Spain",
+       "labelScoreMap": {
+        "2510769|Spain": 0.9012926955400649
+       }
+      },
+      {
+       "label": "Santiago",
+       "score": 0.45432540348858397,
+       "start": 210,
+       "end": 211,
+       "tokens": "Santiago",
+       "labelScoreMap": {
+        "3871336|Santiago": 0.45432540348858397,
+        "3492914|Santiago_de_los_Caballeros": 0.08122318775500496,
+        "3492918|Santiago_Province_(Dominican_Republic)": 0.02371473182651014,
+        "3374199|Santiago,_Cape_Verde": 0.04011542169419642,
+        "3536729|Santiago_de_Cuba": 0.03957121115396106,
+        "3109642|Santiago_de_Compostela": 0.24749443672634183,
+        "6319183|Santiago,_Rio_Grande_do_Sul": 0.013371977661808879,
+        "3871332|Santiago_Province,_Chile": 0.008982063850597884,
+        "8261395|Santiago_(commune)": 0.007575040970623125,
+        "8582469|Santiago,_Nuevo_Le\u00f3n": 0.004260106018285455,
+        "3873544|Santiago_Metropolitan_Region": 0.006253094815723435,
+        "3835868|Santiago_del_Estero_Province": 0.007559352935842477,
+        "4005630|Grande_de_Santiago_River": 0.002803254620784925,
+        "3701117|Santiago_de_Veraguas": 0.0026840717220499685,
+        "3489941|Jamaica": 0.0038294965943983586,
+        "3835869|Santiago_del_Estero": 0.007787470074930679
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

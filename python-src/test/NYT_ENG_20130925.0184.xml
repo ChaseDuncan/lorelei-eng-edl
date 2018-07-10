@@ -1,0 +1,5542 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130925.0184.xml",
+ "text": "BEFORE KENYA ATTACK, REHEARSALS AND PLANTING OF MACHINE GUNS\nEDS: SUBS for complete writethru; CHANGES byline; NEW headline.) ; (This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nNAIROBI, Kenya - The plot was hatched weeks or months ago on Somali soil, by al-Shabab\u2019s \u201cexternal operations arm,\u201d officials say. A team of English-speaking foreign fighters was carefully selected, along with a target: Nairobi\u2019s gleaming Westgate mall.\nThe building\u2019s blueprints were studied, down to the ventilation ducts. The attack was rehearsed and the team dispatched, slipping undetected through Kenya\u2019s porous borders, often patrolled by underpaid - and deeply corrupt - border guards.\nA day or two before the attack, powerful belt-fed machine guns were secretly stashed in a shop in the mall with the help of a colluding employee, officials say. At least one militant had packed a change of clothes so he could slip out with fleeing civilians after the killings were done.\nThat is the picture emerging from American security officials of the massacre at the Westgate mall, which killed scores of people over the weekend. After a four-day standoff, President Uhuru Kenyatta of Kenya claimed Tuesday to have finally \u201cashamed and defeated our attackers,\u201d declaring that the last militants still holed up inside the mall had been killed, though the bodies of many civilians, perhaps dozens, have yet to be recovered.\nKenyatta contended that \u201cintelligence reports had suggested that a British woman and two or three American citizens may have been involved,\u201d but said that he could not confirm those reports. American officials said that they had not determined the identities of the attackers and were awaiting DNA tests and footage from the mall\u2019s security cameras, but that they did know the massacre was meticulously planned to draw \u201cmaximum exposure.\u201d\n\u201cThey had people in there, they had stuff inside there,\u201d said an American security official who asked not to be identified because he was not authorized to speak publicly. \u201cThis was all ready to go when the shooters walked in.\u201d\nKenya is now entering an official three-day mourning period to mark one of the most unsettling episodes in its recent history. The authorities here, in a country widely perceived as an oasis of peace and prosperity in a troubled region, are struggling to answer how 10 to 15 Islamist extremists could lay siege to a shopping mall, killing more than 60 civilians with military-grade weaponry, then hold off Kenyan security forces for days.\nWestern security officials fear that several fighters slipped out of the mall during the mayhem of the attack, dropping their guns and disguising themselves as civilians, an account echoed by some witnesses.\nAnd there could be more bodies. The Kenya Red Cross said Tuesday that more than 50 people were still missing.",
+ "tokens": [
+  "BEFORE",
+  "KENYA",
+  "ATTACK",
+  ",",
+  "REHEARSALS",
+  "AND",
+  "PLANTING",
+  "OF",
+  "MACHINE",
+  "GUNS",
+  "EDS",
+  ":",
+  "SUBS",
+  "for",
+  "complete",
+  "writethru",
+  ";",
+  "CHANGES",
+  "byline",
+  ";",
+  "NEW",
+  "headline",
+  ".",
+  ")",
+  ";",
+  "(",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "NAIROBI",
+  ",",
+  "Kenya",
+  "-",
+  "The",
+  "plot",
+  "was",
+  "hatched",
+  "weeks",
+  "or",
+  "months",
+  "ago",
+  "on",
+  "Somali",
+  "soil",
+  ",",
+  "by",
+  "al",
+  "-",
+  "Shabab",
+  "\u2019s",
+  "\u201c",
+  "external",
+  "operations",
+  "arm",
+  ",",
+  "\u201d",
+  "officials",
+  "say",
+  ".",
+  "A",
+  "team",
+  "of",
+  "English",
+  "-",
+  "speaking",
+  "foreign",
+  "fighters",
+  "was",
+  "carefully",
+  "selected",
+  ",",
+  "along",
+  "with",
+  "a",
+  "target",
+  ":",
+  "Nairobi",
+  "\u2019s",
+  "gleaming",
+  "Westgate",
+  "mall",
+  ".",
+  "The",
+  "building",
+  "\u2019s",
+  "blueprints",
+  "were",
+  "studied",
+  ",",
+  "down",
+  "to",
+  "the",
+  "ventilation",
+  "ducts",
+  ".",
+  "The",
+  "attack",
+  "was",
+  "rehearsed",
+  "and",
+  "the",
+  "team",
+  "dispatched",
+  ",",
+  "slipping",
+  "undetected",
+  "through",
+  "Kenya",
+  "\u2019s",
+  "porous",
+  "borders",
+  ",",
+  "often",
+  "patrolled",
+  "by",
+  "underpaid",
+  "-",
+  "and",
+  "deeply",
+  "corrupt",
+  "-",
+  "border",
+  "guards",
+  ".",
+  "A",
+  "day",
+  "or",
+  "two",
+  "before",
+  "the",
+  "attack",
+  ",",
+  "powerful",
+  "belt",
+  "-",
+  "fed",
+  "machine",
+  "guns",
+  "were",
+  "secretly",
+  "stashed",
+  "in",
+  "a",
+  "shop",
+  "in",
+  "the",
+  "mall",
+  "with",
+  "the",
+  "help",
+  "of",
+  "a",
+  "colluding",
+  "employee",
+  ",",
+  "officials",
+  "say",
+  ".",
+  "At",
+  "least",
+  "one",
+  "militant",
+  "had",
+  "packed",
+  "a",
+  "change",
+  "of",
+  "clothes",
+  "so",
+  "he",
+  "could",
+  "slip",
+  "out",
+  "with",
+  "fleeing",
+  "civilians",
+  "after",
+  "the",
+  "killings",
+  "were",
+  "done",
+  ".",
+  "That",
+  "is",
+  "the",
+  "picture",
+  "emerging",
+  "from",
+  "American",
+  "security",
+  "officials",
+  "of",
+  "the",
+  "massacre",
+  "at",
+  "the",
+  "Westgate",
+  "mall",
+  ",",
+  "which",
+  "killed",
+  "scores",
+  "of",
+  "people",
+  "over",
+  "the",
+  "weekend",
+  ".",
+  "After",
+  "a",
+  "four",
+  "-",
+  "day",
+  "standoff",
+  ",",
+  "President",
+  "Uhuru",
+  "Kenyatta",
+  "of",
+  "Kenya",
+  "claimed",
+  "Tuesday",
+  "to",
+  "have",
+  "finally",
+  "\u201c",
+  "ashamed",
+  "and",
+  "defeated",
+  "our",
+  "attackers",
+  ",",
+  "\u201d",
+  "declaring",
+  "that",
+  "the",
+  "last",
+  "militants",
+  "still",
+  "holed",
+  "up",
+  "inside",
+  "the",
+  "mall",
+  "had",
+  "been",
+  "killed",
+  ",",
+  "though",
+  "the",
+  "bodies",
+  "of",
+  "many",
+  "civilians",
+  ",",
+  "perhaps",
+  "dozens",
+  ",",
+  "have",
+  "yet",
+  "to",
+  "be",
+  "recovered",
+  ".",
+  "Kenyatta",
+  "contended",
+  "that",
+  "\u201c",
+  "intelligence",
+  "reports",
+  "had",
+  "suggested",
+  "that",
+  "a",
+  "British",
+  "woman",
+  "and",
+  "two",
+  "or",
+  "three",
+  "American",
+  "citizens",
+  "may",
+  "have",
+  "been",
+  "involved",
+  ",",
+  "\u201d",
+  "but",
+  "said",
+  "that",
+  "he",
+  "could",
+  "not",
+  "confirm",
+  "those",
+  "reports",
+  ".",
+  "American",
+  "officials",
+  "said",
+  "that",
+  "they",
+  "had",
+  "not",
+  "determined",
+  "the",
+  "identities",
+  "of",
+  "the",
+  "attackers",
+  "and",
+  "were",
+  "awaiting",
+  "DNA",
+  "tests",
+  "and",
+  "footage",
+  "from",
+  "the",
+  "mall",
+  "\u2019s",
+  "security",
+  "cameras",
+  ",",
+  "but",
+  "that",
+  "they",
+  "did",
+  "know",
+  "the",
+  "massacre",
+  "was",
+  "meticulously",
+  "planned",
+  "to",
+  "draw",
+  "\u201c",
+  "maximum",
+  "exposure",
+  ".",
+  "\u201d",
+  "\u201c",
+  "They",
+  "had",
+  "people",
+  "in",
+  "there",
+  ",",
+  "they",
+  "had",
+  "stuff",
+  "inside",
+  "there",
+  ",",
+  "\u201d",
+  "said",
+  "an",
+  "American",
+  "security",
+  "official",
+  "who",
+  "asked",
+  "not",
+  "to",
+  "be",
+  "identified",
+  "because",
+  "he",
+  "was",
+  "not",
+  "authorized",
+  "to",
+  "speak",
+  "publicly",
+  ".",
+  "\u201c",
+  "This",
+  "was",
+  "all",
+  "ready",
+  "to",
+  "go",
+  "when",
+  "the",
+  "shooters",
+  "walked",
+  "in",
+  ".",
+  "\u201d",
+  "Kenya",
+  "is",
+  "now",
+  "entering",
+  "an",
+  "official",
+  "three",
+  "-",
+  "day",
+  "mourning",
+  "period",
+  "to",
+  "mark",
+  "one",
+  "of",
+  "the",
+  "most",
+  "unsettling",
+  "episodes",
+  "in",
+  "its",
+  "recent",
+  "history",
+  ".",
+  "The",
+  "authorities",
+  "here",
+  ",",
+  "in",
+  "a",
+  "country",
+  "widely",
+  "perceived",
+  "as",
+  "an",
+  "oasis",
+  "of",
+  "peace",
+  "and",
+  "prosperity",
+  "in",
+  "a",
+  "troubled",
+  "region",
+  ",",
+  "are",
+  "struggling",
+  "to",
+  "answer",
+  "how",
+  "10",
+  "to",
+  "15",
+  "Islamist",
+  "extremists",
+  "could",
+  "lay",
+  "siege",
+  "to",
+  "a",
+  "shopping",
+  "mall",
+  ",",
+  "killing",
+  "more",
+  "than",
+  "60",
+  "civilians",
+  "with",
+  "military",
+  "-",
+  "grade",
+  "weaponry",
+  ",",
+  "then",
+  "hold",
+  "off",
+  "Kenyan",
+  "security",
+  "forces",
+  "for",
+  "days",
+  ".",
+  "Western",
+  "security",
+  "officials",
+  "fear",
+  "that",
+  "several",
+  "fighters",
+  "slipped",
+  "out",
+  "of",
+  "the",
+  "mall",
+  "during",
+  "the",
+  "mayhem",
+  "of",
+  "the",
+  "attack",
+  ",",
+  "dropping",
+  "their",
+  "guns",
+  "and",
+  "disguising",
+  "themselves",
+  "as",
+  "civilians",
+  ",",
+  "an",
+  "account",
+  "echoed",
+  "by",
+  "some",
+  "witnesses",
+  ".",
+  "And",
+  "there",
+  "could",
+  "be",
+  "more",
+  "bodies",
+  ".",
+  "The",
+  "Kenya",
+  "Red",
+  "Cross",
+  "said",
+  "Tuesday",
+  "that",
+  "more",
+  "than",
+  "50",
+  "people",
+  "were",
+  "still",
+  "missing",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   34,
+   84,
+   107,
+   120,
+   149,
+   183,
+   207,
+   233,
+   289,
+   323,
+   401,
+   439,
+   498,
+   533,
+   540,
+   555
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Somalia",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Somali"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "KENYA"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "American"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "NAIROBI"
+      },
+      {
+       "label": "Western_world",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "Western"
+      },
+      {
+       "label": "Westgate,_Nairobi",
+       "score": 1.0,
+       "start": 104,
+       "end": 106,
+       "tokens": "Westgate mall"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "American"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "Uhuru_Kenyatta",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Kenyatta"
+      },
+      {
+       "label": "Kenya_Red_Cross_Society",
+       "score": 1.0,
+       "start": 541,
+       "end": 544,
+       "tokens": "Kenya Red Cross"
+      },
+      {
+       "label": "Westgate,_Nairobi",
+       "score": 1.0,
+       "start": 221,
+       "end": 223,
+       "tokens": "Westgate mall"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "British"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "American"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "American"
+      },
+      {
+       "label": "Uhuru_Kenyatta",
+       "score": 1.0,
+       "start": 241,
+       "end": 243,
+       "tokens": "Uhuru Kenyatta"
+      },
+      {
+       "label": "Al-Shabaab_(militant_group)",
+       "score": 1.0,
+       "start": 71,
+       "end": 74,
+       "tokens": "al - Shabab"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "Kenyan"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Nairobi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Somali"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "KENYA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "American"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "NAIROBI"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "Western"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 104,
+       "end": 106,
+       "tokens": "Westgate mall"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "American"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Kenyatta"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 541,
+       "end": 544,
+       "tokens": "Kenya Red Cross"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 221,
+       "end": 223,
+       "tokens": "Westgate mall"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "British"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "American"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "American"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 241,
+       "end": 243,
+       "tokens": "Uhuru Kenyatta"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 71,
+       "end": 74,
+       "tokens": "al - Shabab"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "Kenyan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Nairobi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "BEFORE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "BEFORE"
+      },
+      {
+       "label": "KENYA",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "KENYA"
+      },
+      {
+       "label": "ATTACK",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "ATTACK"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": ","
+      },
+      {
+       "label": "REHEARSALS",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "REHEARSALS"
+      },
+      {
+       "label": "AND",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "AND"
+      },
+      {
+       "label": "PLANTING",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "PLANTING"
+      },
+      {
+       "label": "OF",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "OF"
+      },
+      {
+       "label": "MACHINE",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "MACHINE"
+      },
+      {
+       "label": "GUNS",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "GUNS"
+      },
+      {
+       "label": "EDS",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "EDS"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": ":"
+      },
+      {
+       "label": "SUBS",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "SUBS"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "for"
+      },
+      {
+       "label": "complete",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "complete"
+      },
+      {
+       "label": "writethru",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "writethru"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": ";"
+      },
+      {
+       "label": "CHANGES",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "CHANGES"
+      },
+      {
+       "label": "byline",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "byline"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ";"
+      },
+      {
+       "label": "NEW",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "NEW"
+      },
+      {
+       "label": "headline",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "headline"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": ";"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "("
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": ";"
+      },
+      {
+       "label": "NAIROBI",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "NAIROBI"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": ","
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "-"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "The"
+      },
+      {
+       "label": "plot",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "plot"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "was"
+      },
+      {
+       "label": "hatched",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "hatched"
+      },
+      {
+       "label": "weeks",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "weeks"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "or"
+      },
+      {
+       "label": "months",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "months"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "ago"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "on"
+      },
+      {
+       "label": "Somali",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Somali"
+      },
+      {
+       "label": "soil",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "soil"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": ","
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "by"
+      },
+      {
+       "label": "al",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "al"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "-"
+      },
+      {
+       "label": "Shabab",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "Shabab"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "external",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "external"
+      },
+      {
+       "label": "operations",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "operations"
+      },
+      {
+       "label": "arm",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "arm"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "officials"
+      },
+      {
+       "label": "say",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "say"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "A"
+      },
+      {
+       "label": "team",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "team"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "of"
+      },
+      {
+       "label": "English",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "English"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "-"
+      },
+      {
+       "label": "speaking",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "speaking"
+      },
+      {
+       "label": "foreign",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "foreign"
+      },
+      {
+       "label": "fighters",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "fighters"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "was"
+      },
+      {
+       "label": "carefully",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "carefully"
+      },
+      {
+       "label": "selected",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "selected"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": ","
+      },
+      {
+       "label": "along",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "along"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "with"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "a"
+      },
+      {
+       "label": "target",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "target"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": ":"
+      },
+      {
+       "label": "Nairobi",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Nairobi"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "gleaming",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "gleaming"
+      },
+      {
+       "label": "Westgate",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "Westgate"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "mall"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "The"
+      },
+      {
+       "label": "building",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "building"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "blueprints",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "blueprints"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "were"
+      },
+      {
+       "label": "studied",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "studied"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": ","
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "down"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "the"
+      },
+      {
+       "label": "ventilation",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "ventilation"
+      },
+      {
+       "label": "ducts",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "ducts"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "The"
+      },
+      {
+       "label": "attack",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "attack"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "was"
+      },
+      {
+       "label": "rehearsed",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "rehearsed"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "the"
+      },
+      {
+       "label": "team",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "team"
+      },
+      {
+       "label": "dispatched",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "dispatched"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": ","
+      },
+      {
+       "label": "slipping",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "slipping"
+      },
+      {
+       "label": "undetected",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "undetected"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "through"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "porous",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "porous"
+      },
+      {
+       "label": "borders",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "borders"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": ","
+      },
+      {
+       "label": "often",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "often"
+      },
+      {
+       "label": "patrolled",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "patrolled"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "by"
+      },
+      {
+       "label": "underpaid",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "underpaid"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "-"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "and"
+      },
+      {
+       "label": "deeply",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "deeply"
+      },
+      {
+       "label": "corrupt",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "corrupt"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "-"
+      },
+      {
+       "label": "border",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "border"
+      },
+      {
+       "label": "guards",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "guards"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "."
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "A"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "day"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "or"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "two"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "the"
+      },
+      {
+       "label": "attack",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "attack"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": ","
+      },
+      {
+       "label": "powerful",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "powerful"
+      },
+      {
+       "label": "belt",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "belt"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "-"
+      },
+      {
+       "label": "fed",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "fed"
+      },
+      {
+       "label": "machine",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "machine"
+      },
+      {
+       "label": "guns",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "guns"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "were"
+      },
+      {
+       "label": "secretly",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "secretly"
+      },
+      {
+       "label": "stashed",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "stashed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "a"
+      },
+      {
+       "label": "shop",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "shop"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "the"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "mall"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "the"
+      },
+      {
+       "label": "help",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "help"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "a"
+      },
+      {
+       "label": "colluding",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "colluding"
+      },
+      {
+       "label": "employee",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "employee"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": ","
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "officials"
+      },
+      {
+       "label": "say",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "say"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "."
+      },
+      {
+       "label": "At",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "At"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "least"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "one"
+      },
+      {
+       "label": "militant",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "militant"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "had"
+      },
+      {
+       "label": "packed",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "packed"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "a"
+      },
+      {
+       "label": "change",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "change"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "of"
+      },
+      {
+       "label": "clothes",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "clothes"
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "so"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "he"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "could"
+      },
+      {
+       "label": "slip",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "slip"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "out"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "with"
+      },
+      {
+       "label": "fleeing",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "fleeing"
+      },
+      {
+       "label": "civilians",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "civilians"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "after"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "the"
+      },
+      {
+       "label": "killings",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "killings"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "were"
+      },
+      {
+       "label": "done",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "done"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "."
+      },
+      {
+       "label": "That",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "That"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "the"
+      },
+      {
+       "label": "picture",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "picture"
+      },
+      {
+       "label": "emerging",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "emerging"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "from"
+      },
+      {
+       "label": "American",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "American"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "security"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "officials"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "the"
+      },
+      {
+       "label": "massacre",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "massacre"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "the"
+      },
+      {
+       "label": "Westgate",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "Westgate"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "mall"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "which"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "killed"
+      },
+      {
+       "label": "scores",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "scores"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "of"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "people"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "over"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "the"
+      },
+      {
+       "label": "weekend",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "weekend"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "."
+      },
+      {
+       "label": "After",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "After"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "a"
+      },
+      {
+       "label": "four",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "four"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "-"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "day"
+      },
+      {
+       "label": "standoff",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "standoff"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": ","
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "President"
+      },
+      {
+       "label": "Uhuru",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "Uhuru"
+      },
+      {
+       "label": "Kenyatta",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "Kenyatta"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "of"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "claimed",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "claimed"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "to"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "have"
+      },
+      {
+       "label": "finally",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "finally"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "ashamed",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "ashamed"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "and"
+      },
+      {
+       "label": "defeated",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "defeated"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "our"
+      },
+      {
+       "label": "attackers",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "attackers"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "declaring",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "declaring"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "the"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "last"
+      },
+      {
+       "label": "militants",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "militants"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "still"
+      },
+      {
+       "label": "holed",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "holed"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "up"
+      },
+      {
+       "label": "inside",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "inside"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "the"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "mall"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "had"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "been"
+      },
+      {
+       "label": "killed",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "killed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": ","
+      },
+      {
+       "label": "though",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "though"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "the"
+      },
+      {
+       "label": "bodies",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "bodies"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "of"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "many"
+      },
+      {
+       "label": "civilians",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "civilians"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": ","
+      },
+      {
+       "label": "perhaps",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "perhaps"
+      },
+      {
+       "label": "dozens",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "dozens"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": ","
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "have"
+      },
+      {
+       "label": "yet",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "yet"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "be"
+      },
+      {
+       "label": "recovered",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "recovered"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "."
+      },
+      {
+       "label": "Kenyatta",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Kenyatta"
+      },
+      {
+       "label": "contended",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "contended"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "that"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "intelligence",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "intelligence"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "reports"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "had"
+      },
+      {
+       "label": "suggested",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "suggested"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "that"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "a"
+      },
+      {
+       "label": "British",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "British"
+      },
+      {
+       "label": "woman",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "woman"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "and"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "two"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "or"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "three"
+      },
+      {
+       "label": "American",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "American"
+      },
+      {
+       "label": "citizens",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "citizens"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "may"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "been"
+      },
+      {
+       "label": "involved",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "involved"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "but"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "he"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "could"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "not"
+      },
+      {
+       "label": "confirm",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "confirm"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "those"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "reports"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "."
+      },
+      {
+       "label": "American",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "American"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "officials"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "that"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "they"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "had"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "not"
+      },
+      {
+       "label": "determined",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "determined"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "the"
+      },
+      {
+       "label": "identities",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "identities"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "the"
+      },
+      {
+       "label": "attackers",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "attackers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "and"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "were"
+      },
+      {
+       "label": "awaiting",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "awaiting"
+      },
+      {
+       "label": "DNA",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "DNA"
+      },
+      {
+       "label": "tests",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "tests"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "and"
+      },
+      {
+       "label": "footage",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "footage"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "the"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "mall"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "security"
+      },
+      {
+       "label": "cameras",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "cameras"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "but"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "that"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "they"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "did"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "know"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "the"
+      },
+      {
+       "label": "massacre",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "massacre"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "was"
+      },
+      {
+       "label": "meticulously",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "meticulously"
+      },
+      {
+       "label": "planned",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "planned"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "to"
+      },
+      {
+       "label": "draw",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "draw"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "maximum",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "maximum"
+      },
+      {
+       "label": "exposure",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "exposure"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "They",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "They"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "had"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "people"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "in"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "there"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": ","
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "they"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "had"
+      },
+      {
+       "label": "stuff",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "stuff"
+      },
+      {
+       "label": "inside",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "inside"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "there"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "said"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "an"
+      },
+      {
+       "label": "American",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "American"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "security"
+      },
+      {
+       "label": "official",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "official"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "who"
+      },
+      {
+       "label": "asked",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "asked"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "not"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "be"
+      },
+      {
+       "label": "identified",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "identified"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "because"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "was"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "not"
+      },
+      {
+       "label": "authorized",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "authorized"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "to"
+      },
+      {
+       "label": "speak",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "speak"
+      },
+      {
+       "label": "publicly",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "publicly"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "This"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "was"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "all"
+      },
+      {
+       "label": "ready",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "ready"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "to"
+      },
+      {
+       "label": "go",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "go"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "when"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "the"
+      },
+      {
+       "label": "shooters",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "shooters"
+      },
+      {
+       "label": "walked",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "walked"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "in"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "is"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "now"
+      },
+      {
+       "label": "entering",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "entering"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "an"
+      },
+      {
+       "label": "official",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "official"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "three"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "-"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "day"
+      },
+      {
+       "label": "mourning",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "mourning"
+      },
+      {
+       "label": "period",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "period"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "to"
+      },
+      {
+       "label": "mark",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "mark"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "the"
+      },
+      {
+       "label": "most",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "most"
+      },
+      {
+       "label": "unsettling",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "unsettling"
+      },
+      {
+       "label": "episodes",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "episodes"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "in"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "its"
+      },
+      {
+       "label": "recent",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "recent"
+      },
+      {
+       "label": "history",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "history"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "The"
+      },
+      {
+       "label": "authorities",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "authorities"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "here"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "a"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "country"
+      },
+      {
+       "label": "widely",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "widely"
+      },
+      {
+       "label": "perceived",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "perceived"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "as"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "an"
+      },
+      {
+       "label": "oasis",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "oasis"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "of"
+      },
+      {
+       "label": "peace",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "peace"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "and"
+      },
+      {
+       "label": "prosperity",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "prosperity"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "a"
+      },
+      {
+       "label": "troubled",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "troubled"
+      },
+      {
+       "label": "region",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "region"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": ","
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "are"
+      },
+      {
+       "label": "struggling",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "struggling"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "to"
+      },
+      {
+       "label": "answer",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "answer"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "how"
+      },
+      {
+       "label": "10",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "10"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "to"
+      },
+      {
+       "label": "15",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "15"
+      },
+      {
+       "label": "Islamist",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "Islamist"
+      },
+      {
+       "label": "extremists",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "extremists"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "could"
+      },
+      {
+       "label": "lay",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "lay"
+      },
+      {
+       "label": "siege",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "siege"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "a"
+      },
+      {
+       "label": "shopping",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "shopping"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "mall"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": ","
+      },
+      {
+       "label": "killing",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "killing"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "than"
+      },
+      {
+       "label": "60",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "60"
+      },
+      {
+       "label": "civilians",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "civilians"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "with"
+      },
+      {
+       "label": "military",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "military"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "-"
+      },
+      {
+       "label": "grade",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "grade"
+      },
+      {
+       "label": "weaponry",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "weaponry"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": ","
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "then"
+      },
+      {
+       "label": "hold",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "hold"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "off"
+      },
+      {
+       "label": "Kenyan",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "Kenyan"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "security"
+      },
+      {
+       "label": "forces",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "forces"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "for"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "days"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "."
+      },
+      {
+       "label": "Western",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "Western"
+      },
+      {
+       "label": "security",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "security"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "officials"
+      },
+      {
+       "label": "fear",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "fear"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "that"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "several"
+      },
+      {
+       "label": "fighters",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "fighters"
+      },
+      {
+       "label": "slipped",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "slipped"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "out"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "the"
+      },
+      {
+       "label": "mall",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "mall"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "during"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "the"
+      },
+      {
+       "label": "mayhem",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "mayhem"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "the"
+      },
+      {
+       "label": "attack",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "attack"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": ","
+      },
+      {
+       "label": "dropping",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "dropping"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "their"
+      },
+      {
+       "label": "guns",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "guns"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "and"
+      },
+      {
+       "label": "disguising",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "disguising"
+      },
+      {
+       "label": "themselves",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "themselves"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "as"
+      },
+      {
+       "label": "civilians",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "civilians"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "an"
+      },
+      {
+       "label": "account",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "account"
+      },
+      {
+       "label": "echoed",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "echoed"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "by"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "some"
+      },
+      {
+       "label": "witnesses",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "witnesses"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "."
+      },
+      {
+       "label": "And",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "And"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "there"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "could"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "be"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "more"
+      },
+      {
+       "label": "bodies",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "bodies"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "The"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "Red",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "Red"
+      },
+      {
+       "label": "Cross",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "Cross"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "said"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "that"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "than"
+      },
+      {
+       "label": "50",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "50"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "people"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "were"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "still"
+      },
+      {
+       "label": "missing",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "missing"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Somalis",
+       "score": 0.5463458373832872,
+       "start": 67,
+       "end": 68,
+       "tokens": "Somali",
+       "labelScoreMap": {
+        "Somali_language": 0.26324496959130045,
+        "Somalia": 0.14184216860998275,
+        "Somalis": 0.5463458373832872,
+        "Somali_Region": 0.01880934305978872,
+        "Somali_Canadians": 0.016897472045100562,
+        "Somali_Plate": 0.008045159270728061,
+        "Somali_Americans": 0.002141351541363549,
+        "Somalis_in_the_United_Kingdom": 0.00171113496931405,
+        "Puntland": 0.0009625635291348469,
+        "<unk_wid>": 4.899128838782104e-36
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.8915008662260702,
+       "start": 1,
+       "end": 2,
+       "tokens": "KENYA",
+       "labelScoreMap": {
+        "Kenya": 0.8915008662260702,
+        "Kenya_national_cricket_team": 0.05028610021657925,
+        "Kenya_national_football_team": 0.023907631906043843,
+        "British_Kenya": 0.004788023730993767,
+        "Kenya_national_rugby_union_team": 0.004774938582939382,
+        "Anglican_Church_of_Kenya": 0.004667039911770033,
+        "United_States_Ambassador_to_Kenya": 0.004078622898363328,
+        "Indians_in_Kenya": 0.002634403320139887,
+        "Kenya_national_rugby_sevens_team": 0.0021424136491910977,
+        "Senate_of_Kenya": 0.002019255429973894,
+        "Kenya_Football_Federation": 0.0020238135040572163,
+        "Kenyan_Premier_League": 0.0016875099390024455,
+        "Kenya_Rugby_Union": 0.0015913324241436074,
+        "Kenya_women's_national_volleyball_team": 0.0014722111246630385,
+        "National_Assembly_(Kenya)": 0.0012490477263168642,
+        "HMS_Kenya_(14)": 0.0011767894097523429,
+        "<unk_wid>": 2.680821721748126e-26
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9014116357694688,
+       "start": 305,
+       "end": 306,
+       "tokens": "American",
+       "labelScoreMap": {
+        "United_States": 0.9014116357694688,
+        "Americans": 0.04945144248965525,
+        "Americas": 0.009952157940739658,
+        "American_English": 0.006281396419008693,
+        "American_football": 0.004981373259958005,
+        "Guy_Fawkes": 0.004882353648264548,
+        "Cuisine_of_the_United_States": 0.004656999749378822,
+        "Christmas": 0.00395703574686912,
+        "American_Revolution": 0.002982885439488909,
+        "American_Airlines": 0.0025389902211854385,
+        "North_America": 0.002528056148346405,
+        "American_frontier": 0.0015196231871590366,
+        "Know_Nothing": 0.001282647444876675,
+        "American_University": 0.0012074207941532781,
+        "American_League": 0.00120369649750235,
+        "American_Canadian": 0.0011622852439446398,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.9859305693364148,
+       "start": 54,
+       "end": 55,
+       "tokens": "NAIROBI",
+       "labelScoreMap": {
+        "Nairobi": 0.9859305693364148,
+        "United_Nations_Office_at_Nairobi": 0.004041166872484658,
+        "Gymkhana_Club_Ground": 0.003030872203510124,
+        "1998_United_States_embassy_bombings": 0.002282575549717072,
+        "Nairobi_National_Park": 0.0019457403582319509,
+        "Kibera": 0.0014594418905878221,
+        "Roman_Catholic_Archdiocese_of_Nairobi": 0.001309633789053314,
+        "<unk_wid>": 2.0769281427427044e-31
+       }
+      },
+      {
+       "label": "Western_Australia",
+       "score": 0.2485042472153591,
+       "start": 498,
+       "end": 499,
+       "tokens": "Western",
+       "labelScoreMap": {
+        "Western_United_States": 0.06975338262890027,
+        "Western_Europe": 0.1022534444504837,
+        "Western_Conference_(NBA)": 0.04944801899857597,
+        "Western_Christianity": 0.032905649436856955,
+        "American_frontier": 0.03166193604537056,
+        "Western_Air_Defense_Force": 0.022259871507063125,
+        "Western_New_York": 0.02135192500347292,
+        "Western_Australia": 0.2485042472153591,
+        "Western_North_Carolina": 0.01820000949959173,
+        "Western_Hemisphere": 0.017527373625411218,
+        "Western_Lombard_dialect": 0.014047828212919724,
+        "West_Africa": 0.028641759208386512,
+        "Western_Conference_(WNBA)": 0.014234046847136533,
+        "Western_Asia": 0.01869118958799308,
+        "Western_Theater_of_the_American_Civil_War": 0.012599704146888454,
+        "Western_Roman_Empire": 0.012213526082822578,
+        "Western_Armenian": 0.00992246510586822,
+        "Western_India": 0.009777600842708721,
+        "University_of_Western_Ontario": 0.009403784134859991,
+        "Western_Tool_Works_(automobile_company)": 0.00885110104744315,
+        "Western_Pennsylvania": 0.007476256364088097,
+        "Western_Province_(Kenya)": 0.007075213356574243,
+        "Western_Province,_Sri_Lanka": 0.006707831020499556,
+        "North_Shore,_Northern_&_Western_Line": 0.006423590721998898,
+        "Western_Canada": 0.18510427913010755,
+        "Western_Province_(Solomon_Islands)": 0.00602167453699069,
+        "Western_A.F.C.": 0.005714009116092035,
+        "For_a_Few_Dollars_More": 0.005550908823988158,
+        "Western_Province,_Zambia": 0.005227710843045114,
+        "Western_China": 0.012449662458503392
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 104,
+       "end": 106,
+       "tokens": "Westgate mall",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9064743847388995,
+       "start": 541,
+       "end": 542,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "Kenya": 0.9064743847388995,
+        "Kenya_national_cricket_team": 0.03846597729755651,
+        "Kenya_national_football_team": 0.020250525371905918,
+        "British_Kenya": 0.0048845145978441565,
+        "Kenya_national_rugby_union_team": 0.00484512868656876,
+        "Anglican_Church_of_Kenya": 0.00473632671739397,
+        "United_States_Ambassador_to_Kenya": 0.004139116672925724,
+        "Indians_in_Kenya": 0.0026734587485755007,
+        "Kenya_national_rugby_sevens_team": 0.0021579007783110974,
+        "Senate_of_Kenya": 0.0020492049797367247,
+        "Kenya_Football_Federation": 0.0020492070238689237,
+        "Kenyan_Premier_League": 0.001709934533138761,
+        "Kenya_Rugby_Union": 0.0016149353923850735,
+        "Kenya_women's_national_volleyball_team": 0.001492810537917109,
+        "National_Assembly_(Kenya)": 0.0012623354097401182,
+        "HMS_Kenya_(14)": 0.001194238513232012,
+        "<unk_wid>": 3.136454525935875e-30
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9035451761167208,
+       "start": 383,
+       "end": 384,
+       "tokens": "American",
+       "labelScoreMap": {
+        "United_States": 0.9035451761167208,
+        "Americans": 0.047652846024832635,
+        "Americas": 0.009831813558870408,
+        "American_English": 0.00629227762331007,
+        "American_football": 0.004991401651787517,
+        "Guy_Fawkes": 0.0048929346359674955,
+        "Cuisine_of_the_United_States": 0.004663404132714585,
+        "Christmas": 0.0039656113949262045,
+        "American_Revolution": 0.0029892982662991893,
+        "American_Airlines": 0.002544521779073202,
+        "North_America": 0.002241224444946983,
+        "American_frontier": 0.0015229162409652456,
+        "Know_Nothing": 0.0012854271855139144,
+        "American_University": 0.0012100365115709332,
+        "American_League": 0.0012063085227688067,
+        "American_Canadian": 0.0011648019097322535,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9070889419262598,
+       "start": 244,
+       "end": 245,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "Kenya": 0.9070889419262598,
+        "Kenya_national_cricket_team": 0.03814945830694965,
+        "Kenya_national_football_team": 0.019932878720167947,
+        "British_Kenya": 0.004886204477041408,
+        "Kenya_national_rugby_union_team": 0.004847733180729816,
+        "Anglican_Church_of_Kenya": 0.004739128624027003,
+        "United_States_Ambassador_to_Kenya": 0.004141601196257561,
+        "Indians_in_Kenya": 0.0026750631237528483,
+        "Kenya_national_rugby_sevens_team": 0.002159134010545972,
+        "Senate_of_Kenya": 0.002050435023705794,
+        "Kenya_Football_Federation": 0.0020504356707504406,
+        "Kenyan_Premier_League": 0.0017109597726617692,
+        "Kenya_Rugby_Union": 0.0016159047645987461,
+        "Kenya_women's_national_volleyball_team": 0.0014939546463868698,
+        "National_Assembly_(Kenya)": 0.0012632111967397165,
+        "HMS_Kenya_(14)": 0.001194955359424463,
+        "<unk_wid>": 1.118782482207835e-33
+       }
+      },
+      {
+       "label": "Jomo_Kenyatta",
+       "score": 0.850813704782149,
+       "start": 289,
+       "end": 290,
+       "tokens": "Kenyatta",
+       "labelScoreMap": {
+        "Jomo_Kenyatta": 0.850813704782149,
+        "Uhuru_Kenyatta": 0.14918629521785096,
+        "<unk_wid>": 1.469783851283171e-39
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 541,
+       "end": 544,
+       "tokens": "Kenya Red Cross",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 221,
+       "end": 223,
+       "tokens": "Westgate mall",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.7554937762261532,
+       "start": 299,
+       "end": 300,
+       "tokens": "British",
+       "labelScoreMap": {
+        "United_Kingdom": 0.7554937762261532,
+        "Great_Britain": 0.06803502822118554,
+        "British_Empire": 0.04012234713947063,
+        "Kingdom_of_Great_Britain": 0.04033709790299294,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.03541934542079009,
+        "British_English": 0.010643573056398768,
+        "England": 0.008154405466579013,
+        "British_colonization_of_the_Americas": 0.006276345016445109,
+        "British_Raj": 0.00755519977394202,
+        "Britannicus_(play)": 0.005737231427824281,
+        "British_Army": 0.00533569476054685,
+        "British_Americans": 0.0036419737448145453,
+        "Royal_Navy": 0.0032948767785288655,
+        "English_people": 0.0020567020611064694,
+        "British_Isles": 0.0014629686116469712,
+        "East_India_Company": 0.0013151240810735925,
+        "British_Boxing_Board_of_Control": 0.0012394157862721453,
+        "Government_of_the_United_Kingdom": 0.0018380089302639975,
+        "Banksy": 0.0010525640341194243,
+        "Lee_Child": 0.0009883215598456205,
+        "<unk_wid>": 7.464088440777079e-44
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9076253057018902,
+       "start": 415,
+       "end": 416,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "Kenya": 0.9076253057018902,
+        "Kenya_national_cricket_team": 0.03770704279740803,
+        "Kenya_national_football_team": 0.019846059776862292,
+        "British_Kenya": 0.004864193863582587,
+        "Kenya_national_rugby_union_team": 0.004850239432433547,
+        "Anglican_Church_of_Kenya": 0.0047415585071426125,
+        "United_States_Ambassador_to_Kenya": 0.004143768194543067,
+        "Indians_in_Kenya": 0.002676462664141398,
+        "Kenya_national_rugby_sevens_team": 0.0021601888256089045,
+        "Senate_of_Kenya": 0.0020515078669961634,
+        "Kenya_Football_Federation": 0.0020515078670644716,
+        "Kenyan_Premier_League": 0.0017118545491727486,
+        "Kenya_Rugby_Union": 0.0016167502498850858,
+        "Kenya_women's_national_volleyball_team": 0.0014944700467012441,
+        "National_Assembly_(Kenya)": 0.0012635090641259332,
+        "HMS_Kenya_(14)": 0.0011955805924420894,
+        "<unk_wid>": 2.5437327366521742e-45
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9076102646493349,
+       "start": 56,
+       "end": 57,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "Kenya": 0.9076102646493349,
+        "Kenya_national_cricket_team": 0.03771591123608732,
+        "Kenya_national_football_team": 0.01985049733021794,
+        "British_Kenya": 0.004866365302176381,
+        "Kenya_national_rugby_union_team": 0.004850169425154627,
+        "Anglican_Church_of_Kenya": 0.004741489443500721,
+        "United_States_Ambassador_to_Kenya": 0.004143707380289485,
+        "Indians_in_Kenya": 0.002676423385781937,
+        "Kenya_national_rugby_sevens_team": 0.0021601573950070815,
+        "Senate_of_Kenya": 0.0020514777589124363,
+        "Kenya_Football_Federation": 0.002051477761232875,
+        "Kenyan_Premier_League": 0.001711829426776898,
+        "Kenya_Rugby_Union": 0.0016167265223368309,
+        "Kenya_women's_national_volleyball_team": 0.0014944482120052523,
+        "National_Assembly_(Kenya)": 0.0012634917251730705,
+        "HMS_Kenya_(14)": 0.0011955630460123415,
+        "<unk_wid>": 3.104866628947976e-38
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.8857606015370888,
+       "start": 213,
+       "end": 214,
+       "tokens": "American",
+       "labelScoreMap": {
+        "United_States": 0.8857606015370888,
+        "Americans": 0.0661994097522938,
+        "Americas": 0.009695917686470832,
+        "American_English": 0.006183977151224885,
+        "American_football": 0.004913491000991159,
+        "Guy_Fawkes": 0.004804758575162854,
+        "Cuisine_of_the_United_States": 0.004581523515540642,
+        "Christmas": 0.0038941467183053525,
+        "American_Revolution": 0.002935806029624009,
+        "American_Airlines": 0.002500333074651676,
+        "North_America": 0.002254713255559269,
+        "American_frontier": 0.0014954718212479277,
+        "Know_Nothing": 0.0012622623745972826,
+        "American_University": 0.0011882409659430676,
+        "American_League": 0.0011855339436245053,
+        "American_Canadian": 0.0011438125976743182,
+        "<unk_wid>": 2.7418869317431613e-44
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.8782953666596973,
+       "start": 323,
+       "end": 324,
+       "tokens": "American",
+       "labelScoreMap": {
+        "United_States": 0.8782953666596973,
+        "Americans": 0.07376321977639795,
+        "Americas": 0.009720479657502931,
+        "American_English": 0.006138186858499544,
+        "American_football": 0.0048725388300877295,
+        "Guy_Fawkes": 0.004767744412140175,
+        "Cuisine_of_the_United_States": 0.004548287396684119,
+        "Christmas": 0.003864147587399965,
+        "American_Revolution": 0.002913825568718353,
+        "American_Airlines": 0.0024812832593708294,
+        "North_America": 0.0024080789573011348,
+        "American_frontier": 0.0014839522327171819,
+        "Know_Nothing": 0.0012525383510947927,
+        "American_University": 0.0011791014103215648,
+        "American_League": 0.0011762464883192975,
+        "American_Canadian": 0.0011350025537468613,
+        "<unk_wid>": 1.9292692906746813e-43
+       }
+      },
+      {
+       "label": "Uhuru_Kenyatta",
+       "score": 1.0,
+       "start": 241,
+       "end": 243,
+       "tokens": "Uhuru Kenyatta",
+       "labelScoreMap": {
+        "Uhuru_Kenyatta": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Al-Shabab_FC_(Riyadh)",
+       "score": 0.420357873775816,
+       "start": 71,
+       "end": 74,
+       "tokens": "al - Shabab",
+       "labelScoreMap": {
+        "Al-Shabab_FC_(Riyadh)": 0.420357873775816,
+        "Al_Shabab_(Dubai)": 0.2107548838049545,
+        "Al-Shabab_SC": 0.019702776738576216,
+        "Bahraini_Premier_League": 0.009287737732977943,
+        "Al-Shabab_Club_(Oman)": 0.0240923942677097,
+        "Al-Shabaab_(militant_group)": 0.3158043336799656,
+        "<unk_wid>": 7.263870806866714e-29
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9035961679977751,
+       "start": 132,
+       "end": 133,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "Kenya": 0.9035961679977751,
+        "Kenya_national_cricket_team": 0.041558783305368295,
+        "Kenya_national_football_team": 0.02004038074526075,
+        "British_Kenya": 0.004961620137572672,
+        "Kenya_national_rugby_union_team": 0.004831675780604969,
+        "Anglican_Church_of_Kenya": 0.004723069776946453,
+        "United_States_Ambassador_to_Kenya": 0.004127495441859988,
+        "Indians_in_Kenya": 0.002665952379178686,
+        "Kenya_national_rugby_sevens_team": 0.00215220403762797,
+        "Senate_of_Kenya": 0.0020434515090065474,
+        "Kenya_Football_Federation": 0.002043452964791906,
+        "Kenyan_Premier_League": 0.0017051344546686583,
+        "Kenya_Rugby_Union": 0.0016104012033825244,
+        "Kenya_women's_national_volleyball_team": 0.0014903805916186776,
+        "National_Assembly_(Kenya)": 0.0012589441773218346,
+        "HMS_Kenya_(14)": 0.0011908854970149496,
+        "<unk_wid>": 1.9613536440203312e-33
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9921363043255612,
+       "start": 492,
+       "end": 493,
+       "tokens": "Kenyan",
+       "labelScoreMap": {
+        "Kenya": 0.9921363043255612,
+        "Kenyan_Americans": 0.007863695674438738,
+        "<unk_wid>": 1.4382667991925732e-31
+       }
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.9857203357723557,
+       "start": 101,
+       "end": 102,
+       "tokens": "Nairobi",
+       "labelScoreMap": {
+        "Nairobi": 0.9857203357723557,
+        "United_Nations_Office_at_Nairobi": 0.004040511668593064,
+        "Gymkhana_Club_Ground": 0.0030302393436618617,
+        "1998_United_States_embassy_bombings": 0.002282063502535992,
+        "Nairobi_National_Park": 0.0019453396533034018,
+        "Kibera": 0.0016721515904998786,
+        "Roman_Catholic_Archdiocese_of_Nairobi": 0.001309358469049991,
+        "<unk_wid>": 9.925250614151691e-35
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Somalis",
+       "score": 0.5463458373832872,
+       "start": 67,
+       "end": 68,
+       "tokens": "Somali",
+       "labelScoreMap": {
+        "51537|Somalia": 0.14184216860998275,
+        "444186|Somali_Region": 0.01880934305978872
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.8915008662260702,
+       "start": 1,
+       "end": 2,
+       "tokens": "KENYA",
+       "labelScoreMap": {
+        "192950|Kenya": 0.8915008662260702
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9014116357694688,
+       "start": 305,
+       "end": 306,
+       "tokens": "American",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9014116357694688,
+        "10861432|Americas": 0.009952157940739658,
+        "6255149|North_America": 0.002528056148346405,
+        "4137534|American_University": 0.0012074207941532781
+       }
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.9859305693364148,
+       "start": 54,
+       "end": 55,
+       "tokens": "NAIROBI",
+       "labelScoreMap": {
+        "184745|Nairobi": 0.9859305693364148,
+        "8449726|United_Nations_Office_at_Nairobi": 0.004041166872484658,
+        "184737|Nairobi_National_Park": 0.0019457403582319509,
+        "192495|Kibera": 0.0014594418905878221
+       }
+      },
+      {
+       "label": "Western_Australia",
+       "score": 0.2485042472153591,
+       "start": 498,
+       "end": 499,
+       "tokens": "Western",
+       "labelScoreMap": {
+        "9408659|Western_Europe": 0.1022534444504837,
+        "2058645|Western_Australia": 0.2485042472153591,
+        "7729897|Western_Asia": 0.01869118958799308,
+        "400743|Western_Province_(Kenya)": 0.007075213356574243,
+        "1223421|Western_Province,_Sri_Lanka": 0.006707831020499556,
+        "2101556|Western_Province_(Solomon_Islands)": 0.00602167453699069,
+        "896140|Western_Province,_Zambia": 0.005227710843045114
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 104,
+       "end": 106,
+       "tokens": "Westgate mall",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9064743847388995,
+       "start": 541,
+       "end": 542,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "192950|Kenya": 0.9064743847388995
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9035451761167208,
+       "start": 383,
+       "end": 384,
+       "tokens": "American",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9035451761167208,
+        "10861432|Americas": 0.009831813558870408,
+        "6255149|North_America": 0.002241224444946983,
+        "4137534|American_University": 0.0012100365115709332
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9070889419262598,
+       "start": 244,
+       "end": 245,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "192950|Kenya": 0.9070889419262598
+       }
+      },
+      {
+       "label": "Jomo_Kenyatta",
+       "score": 0.850813704782149,
+       "start": 289,
+       "end": 290,
+       "tokens": "Kenyatta",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 541,
+       "end": 544,
+       "tokens": "Kenya Red Cross",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 221,
+       "end": 223,
+       "tokens": "Westgate mall",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.7554937762261532,
+       "start": 299,
+       "end": 300,
+       "tokens": "British",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.7554937762261532,
+        "6269131|England": 0.008154405466579013,
+        "2654669|British_Isles": 0.0014629686116469712
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9076253057018902,
+       "start": 415,
+       "end": 416,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "192950|Kenya": 0.9076253057018902
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9076102646493349,
+       "start": 56,
+       "end": 57,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "192950|Kenya": 0.9076102646493349
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.8857606015370888,
+       "start": 213,
+       "end": 214,
+       "tokens": "American",
+       "labelScoreMap": {
+        "6252001|United_States": 0.8857606015370888,
+        "10861432|Americas": 0.009695917686470832,
+        "6255149|North_America": 0.002254713255559269,
+        "4137534|American_University": 0.0011882409659430676
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.8782953666596973,
+       "start": 323,
+       "end": 324,
+       "tokens": "American",
+       "labelScoreMap": {
+        "6252001|United_States": 0.8782953666596973,
+        "10861432|Americas": 0.009720479657502931,
+        "6255149|North_America": 0.0024080789573011348,
+        "4137534|American_University": 0.0011791014103215648
+       }
+      },
+      {
+       "label": "Uhuru_Kenyatta",
+       "score": 1.0,
+       "start": 241,
+       "end": 243,
+       "tokens": "Uhuru Kenyatta",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Al-Shabab_FC_(Riyadh)",
+       "score": 0.420357873775816,
+       "start": 71,
+       "end": 74,
+       "tokens": "al - Shabab",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9035961679977751,
+       "start": 132,
+       "end": 133,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "192950|Kenya": 0.9035961679977751
+       }
+      },
+      {
+       "label": "Kenya",
+       "score": 0.9921363043255612,
+       "start": 492,
+       "end": 493,
+       "tokens": "Kenyan",
+       "labelScoreMap": {
+        "192950|Kenya": 0.9921363043255612
+       }
+      },
+      {
+       "label": "Nairobi",
+       "score": 0.9857203357723557,
+       "start": 101,
+       "end": 102,
+       "tokens": "Nairobi",
+       "labelScoreMap": {
+        "184745|Nairobi": 0.9857203357723557,
+        "8449726|United_Nations_Office_at_Nairobi": 0.004040511668593064,
+        "184737|Nairobi_National_Park": 0.0019453396533034018,
+        "192495|Kibera": 0.0016721515904998786
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

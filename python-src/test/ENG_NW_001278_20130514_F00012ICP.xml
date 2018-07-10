@@ -1,0 +1,2358 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130514_F00012ICP.xml",
+ "text": "2013-05-14T10:16:21\nCoach Santana sacked by Bahia\nCoach Santana sacked by Bahia\nRIO DE JANEIRO, May 13 (Xinhua) -- Former South Africa national coach Joel Santana has been sacked by Brazilian top-flight outfit Bahia.\nHis dismissal followed the club's 7-3 defeat to local rivals Vitoria on Sunday and comes just five weeks after he took charge of the club for a fourth time.\nBahia won just one of seven matches since Santana took up the position.\n\"I thank the Bahia fans, the club's board and especially president Marcelo Guimaraes Filho, who have always supported me to try to get the results we wanted,\" Santana said on Monday.\nBahia are yet to appoint a replacement but confirmed the position will be temporarily filled by assistant coach Eduardo Barroca.\nSantana, 64, took charge of South Africa in 2008 but was sacked the following year after a run of eight defeats in nine matches. Enditem",
+ "tokens": [
+  "2013-05-14T10:16:21",
+  "Coach",
+  "Santana",
+  "sacked",
+  "by",
+  "Bahia",
+  "Coach",
+  "Santana",
+  "sacked",
+  "by",
+  "Bahia",
+  "RIO",
+  "DE",
+  "JANEIRO",
+  ",",
+  "May",
+  "13",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "Former",
+  "South",
+  "Africa",
+  "national",
+  "coach",
+  "Joel",
+  "Santana",
+  "has",
+  "been",
+  "sacked",
+  "by",
+  "Brazilian",
+  "top",
+  "-",
+  "flight",
+  "outfit",
+  "Bahia",
+  ".",
+  "His",
+  "dismissal",
+  "followed",
+  "the",
+  "club",
+  "'s",
+  "7-3",
+  "defeat",
+  "to",
+  "local",
+  "rivals",
+  "Vitoria",
+  "on",
+  "Sunday",
+  "and",
+  "comes",
+  "just",
+  "five",
+  "weeks",
+  "after",
+  "he",
+  "took",
+  "charge",
+  "of",
+  "the",
+  "club",
+  "for",
+  "a",
+  "fourth",
+  "time",
+  ".",
+  "Bahia",
+  "won",
+  "just",
+  "one",
+  "of",
+  "seven",
+  "matches",
+  "since",
+  "Santana",
+  "took",
+  "up",
+  "the",
+  "position",
+  ".",
+  "\"",
+  "I",
+  "thank",
+  "the",
+  "Bahia",
+  "fans",
+  ",",
+  "the",
+  "club",
+  "'s",
+  "board",
+  "and",
+  "especially",
+  "president",
+  "Marcelo",
+  "Guimaraes",
+  "Filho",
+  ",",
+  "who",
+  "have",
+  "always",
+  "supported",
+  "me",
+  "to",
+  "try",
+  "to",
+  "get",
+  "the",
+  "results",
+  "we",
+  "wanted",
+  ",",
+  "\"",
+  "Santana",
+  "said",
+  "on",
+  "Monday",
+  ".",
+  "Bahia",
+  "are",
+  "yet",
+  "to",
+  "appoint",
+  "a",
+  "replacement",
+  "but",
+  "confirmed",
+  "the",
+  "position",
+  "will",
+  "be",
+  "temporarily",
+  "filled",
+  "by",
+  "assistant",
+  "coach",
+  "Eduardo",
+  "Barroca",
+  ".",
+  "Santana",
+  ",",
+  "64",
+  ",",
+  "took",
+  "charge",
+  "of",
+  "South",
+  "Africa",
+  "in",
+  "2008",
+  "but",
+  "was",
+  "sacked",
+  "the",
+  "following",
+  "year",
+  "after",
+  "a",
+  "run",
+  "of",
+  "eight",
+  "defeats",
+  "in",
+  "nine",
+  "matches",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   39,
+   70,
+   84,
+   122,
+   143,
+   170,
+   171
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Joel_Santana",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "Santana"
+      },
+      {
+       "label": "Esporte_Clube_Bahia",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 140,
+       "end": 142,
+       "tokens": "Eduardo Barroca"
+      },
+      {
+       "label": "Brazil",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Brazilian"
+      },
+      {
+       "label": "Joel_Santana",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "Santana"
+      },
+      {
+       "label": "Esporte_Clube_Bahia",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "Esporte_Clube_Bahia",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "Joel_Santana",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Santana"
+      },
+      {
+       "label": "Joel_Santana",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Santana"
+      },
+      {
+       "label": "South_Africa_national_football_team",
+       "score": 1.0,
+       "start": 150,
+       "end": 152,
+       "tokens": "South Africa"
+      },
+      {
+       "label": "South_Africa_national_football_team",
+       "score": 1.0,
+       "start": 22,
+       "end": 24,
+       "tokens": "South Africa"
+      },
+      {
+       "label": "Esporte_Clube_Bahia",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "Esporte_Clube_Bahia",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "Joel_Santana",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Santana"
+      },
+      {
+       "label": "Rio_de_Janeiro",
+       "score": 1.0,
+       "start": 11,
+       "end": 14,
+       "tokens": "RIO DE JANEIRO"
+      },
+      {
+       "label": "Esporte_Clube_Vit\u00f3ria",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Vitoria"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 98,
+       "end": 101,
+       "tokens": "Marcelo Guimaraes Filho"
+      },
+      {
+       "label": "Esporte_Clube_Bahia",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Joel_Santana",
+       "score": 1.0,
+       "start": 26,
+       "end": 28,
+       "tokens": "Joel Santana"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "Santana"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 140,
+       "end": 142,
+       "tokens": "Eduardo Barroca"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Brazilian"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "Santana"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Santana"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Santana"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 150,
+       "end": 152,
+       "tokens": "South Africa"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 22,
+       "end": 24,
+       "tokens": "South Africa"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Santana"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 11,
+       "end": 14,
+       "tokens": "RIO DE JANEIRO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Vitoria"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 98,
+       "end": 101,
+       "tokens": "Marcelo Guimaraes Filho"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 26,
+       "end": 28,
+       "tokens": "Joel Santana"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-05-14T10:16:21",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-05-14T10:16:21"
+      },
+      {
+       "label": "Coach",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Coach"
+      },
+      {
+       "label": "Santana",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Santana"
+      },
+      {
+       "label": "sacked",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "sacked"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "by"
+      },
+      {
+       "label": "Bahia",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "Coach",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Coach"
+      },
+      {
+       "label": "Santana",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Santana"
+      },
+      {
+       "label": "sacked",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "sacked"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "by"
+      },
+      {
+       "label": "Bahia",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "RIO",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "RIO"
+      },
+      {
+       "label": "DE",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "DE"
+      },
+      {
+       "label": "JANEIRO",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "JANEIRO"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": ","
+      },
+      {
+       "label": "May",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "May"
+      },
+      {
+       "label": "13",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "13"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "--"
+      },
+      {
+       "label": "Former",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Former"
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "South"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Africa"
+      },
+      {
+       "label": "national",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "national"
+      },
+      {
+       "label": "coach",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "coach"
+      },
+      {
+       "label": "Joel",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "Joel"
+      },
+      {
+       "label": "Santana",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Santana"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "been"
+      },
+      {
+       "label": "sacked",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "sacked"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "by"
+      },
+      {
+       "label": "Brazilian",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Brazilian"
+      },
+      {
+       "label": "top",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "top"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "-"
+      },
+      {
+       "label": "flight",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "flight"
+      },
+      {
+       "label": "outfit",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "outfit"
+      },
+      {
+       "label": "Bahia",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "Bahia"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "."
+      },
+      {
+       "label": "His",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "His"
+      },
+      {
+       "label": "dismissal",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "dismissal"
+      },
+      {
+       "label": "followed",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "followed"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "the"
+      },
+      {
+       "label": "club",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "club"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "'s"
+      },
+      {
+       "label": "7-3",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "7-3"
+      },
+      {
+       "label": "defeat",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "defeat"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "to"
+      },
+      {
+       "label": "local",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "local"
+      },
+      {
+       "label": "rivals",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "rivals"
+      },
+      {
+       "label": "Vitoria",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "Vitoria"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "on"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Sunday"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "and"
+      },
+      {
+       "label": "comes",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "comes"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "just"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "five"
+      },
+      {
+       "label": "weeks",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "weeks"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "after"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "he"
+      },
+      {
+       "label": "took",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "took"
+      },
+      {
+       "label": "charge",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "charge"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "the"
+      },
+      {
+       "label": "club",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "club"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "a"
+      },
+      {
+       "label": "fourth",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "fourth"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "time"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "."
+      },
+      {
+       "label": "Bahia",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "won",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "won"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "just"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "of"
+      },
+      {
+       "label": "seven",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "seven"
+      },
+      {
+       "label": "matches",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "matches"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "since"
+      },
+      {
+       "label": "Santana",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "Santana"
+      },
+      {
+       "label": "took",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "took"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "up"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "the"
+      },
+      {
+       "label": "position",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "position"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "."
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "\""
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "I"
+      },
+      {
+       "label": "thank",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "thank"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "the"
+      },
+      {
+       "label": "Bahia",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "fans",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "fans"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "the"
+      },
+      {
+       "label": "club",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "club"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "'s"
+      },
+      {
+       "label": "board",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "board"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "and"
+      },
+      {
+       "label": "especially",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "especially"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "president"
+      },
+      {
+       "label": "Marcelo",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "Marcelo"
+      },
+      {
+       "label": "Guimaraes",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Guimaraes"
+      },
+      {
+       "label": "Filho",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Filho"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "who"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "have"
+      },
+      {
+       "label": "always",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "always"
+      },
+      {
+       "label": "supported",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "supported"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "me"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "to"
+      },
+      {
+       "label": "try",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "try"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "to"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "get"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "the"
+      },
+      {
+       "label": "results",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "results"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "we"
+      },
+      {
+       "label": "wanted",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "wanted"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": ","
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "\""
+      },
+      {
+       "label": "Santana",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Santana"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "said"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "on"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Monday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "."
+      },
+      {
+       "label": "Bahia",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "Bahia"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "are"
+      },
+      {
+       "label": "yet",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "yet"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "to"
+      },
+      {
+       "label": "appoint",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "appoint"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "a"
+      },
+      {
+       "label": "replacement",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "replacement"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "but"
+      },
+      {
+       "label": "confirmed",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "confirmed"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "the"
+      },
+      {
+       "label": "position",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "position"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "be"
+      },
+      {
+       "label": "temporarily",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "temporarily"
+      },
+      {
+       "label": "filled",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "filled"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "by"
+      },
+      {
+       "label": "assistant",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "assistant"
+      },
+      {
+       "label": "coach",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "coach"
+      },
+      {
+       "label": "Eduardo",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "Eduardo"
+      },
+      {
+       "label": "Barroca",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Barroca"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "."
+      },
+      {
+       "label": "Santana",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "Santana"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": ","
+      },
+      {
+       "label": "64",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "64"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": ","
+      },
+      {
+       "label": "took",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "took"
+      },
+      {
+       "label": "charge",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "charge"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "of"
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "South"
+      },
+      {
+       "label": "Africa",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Africa"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "in"
+      },
+      {
+       "label": "2008",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "2008"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "but"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "was"
+      },
+      {
+       "label": "sacked",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "sacked"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "the"
+      },
+      {
+       "label": "following",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "following"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "year"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "after"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "a"
+      },
+      {
+       "label": "run",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "run"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "of"
+      },
+      {
+       "label": "eight",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "eight"
+      },
+      {
+       "label": "defeats",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "defeats"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "in"
+      },
+      {
+       "label": "nine",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "nine"
+      },
+      {
+       "label": "matches",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "matches"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Santana_(band)",
+       "score": 0.2219429624044667,
+       "start": 143,
+       "end": 144,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "Santana_(band)": 0.2219429624044667,
+        "Carlos_Santana": 0.17625053393268553,
+        "Santana_(1969_album)": 0.020271467742065476,
+        "Santana,_Madeira": 0.01776707747211476,
+        "Saint_Anne": 0.013180791657648287,
+        "Santana_(district_of_S\u00e3o_Paulo)": 0.009375237797124753,
+        "Johan_Santana": 0.04231981231945017,
+        "Volkswagen_Passat": 0.10895729397538013,
+        "Naya_Rivera": 0.008160724891040015,
+        "Joel_Santana": 0.029826064979093955,
+        "Tel\u00ea_Santana": 0.07494459779988563,
+        "Santana_Motor": 0.004054077134246387,
+        "Ervin_Santana": 0.00832438344883287,
+        "Manuel_Santana": 0.1781640288632185,
+        "Oye_Como_Va": 0.00276351514483272,
+        "Mazda_Demio": 0.044048988405704634,
+        "Pedro_Santana_Lopes": 0.0015791689416682787,
+        "Pedro_Santana": 0.0380692730905411,
+        "<unk_wid>": 4.811995525860394e-24
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.44005992986286707,
+       "start": 10,
+       "end": 11,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "Bahia": 0.44005992986286707,
+        "Esporte_Clube_Bahia": 0.2496299052803185,
+        "Campeonato_Baiano": 0.28884903241822846,
+        "Salvador,_Bahia": 0.016196001637470415,
+        "Campeonato_Baiano_(lower_levels)": 0.0038260758133455593,
+        "Bay_of_Santander": 0.00143905498777017,
+        "<unk_wid>": 1.4421552421179173e-27
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 140,
+       "end": 142,
+       "tokens": "Eduardo Barroca",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Brazil",
+       "score": 0.8153625961735932,
+       "start": 32,
+       "end": 33,
+       "tokens": "Brazilian",
+       "labelScoreMap": {
+        "Brazil": 0.8153625961735932,
+        "Brazilians": 0.11611833325425275,
+        "Brazilian_Portuguese": 0.039873800095885356,
+        "2008_Brazilian_Grand_Prix": 0.010089239540567122,
+        "Brazil_national_football_team": 0.011109286039066097,
+        "Brazilian_Grand_Prix": 0.0029008403023477922,
+        "Bras\u00edlia": 0.0016636583778168812,
+        "Afro-Brazilians": 0.0014493480168777603,
+        "Brazilian_Navy": 0.0014328981995928934,
+        "<unk_wid>": 4.413991798021932e-31
+       }
+      },
+      {
+       "label": "Manuel_Santana",
+       "score": 0.25051286072489953,
+       "start": 78,
+       "end": 79,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "Santana_(band)": 0.21836254600432484,
+        "Carlos_Santana": 0.17574916195412643,
+        "Santana_(1969_album)": 0.020210113942055775,
+        "Santana,_Madeira": 0.017712070877464056,
+        "Saint_Anne": 0.01268013059438682,
+        "Santana_(district_of_S\u00e3o_Paulo)": 0.009188678710455056,
+        "Johan_Santana": 0.03664232051715502,
+        "Volkswagen_Passat": 0.044574273674552495,
+        "Naya_Rivera": 0.007098580302786213,
+        "Joel_Santana": 0.020944200450274838,
+        "Tel\u00ea_Santana": 0.129189578146982,
+        "Santana_Motor": 0.003987969814780054,
+        "Ervin_Santana": 0.007759581120314449,
+        "Manuel_Santana": 0.25051286072489953,
+        "Oye_Como_Va": 0.002694585415675848,
+        "Mazda_Demio": 0.013757409966265795,
+        "Pedro_Santana_Lopes": 0.001510659133931023,
+        "Pedro_Santana": 0.027425278649569777,
+        "<unk_wid>": 1.7634342739631752e-26
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.5104218436545872,
+       "start": 37,
+       "end": 38,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "Bahia": 0.5104218436545872,
+        "Esporte_Clube_Bahia": 0.4523413990478472,
+        "Campeonato_Baiano": 0.010000701659632195,
+        "Salvador,_Bahia": 0.02286759219833589,
+        "Campeonato_Baiano_(lower_levels)": 0.0027584768410713815,
+        "Bay_of_Santander": 0.0016099865985261827,
+        "<unk_wid>": 2.9121634353021255e-30
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.8280546610308007,
+       "start": 122,
+       "end": 123,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "Bahia": 0.8280546610308007,
+        "Esporte_Clube_Bahia": 0.13203028823146107,
+        "Campeonato_Baiano": 0.014052289846206815,
+        "Salvador,_Bahia": 0.019523612093521207,
+        "Campeonato_Baiano_(lower_levels)": 0.004001208636262525,
+        "Bay_of_Santander": 0.00233794016174773,
+        "<unk_wid>": 5.339708476781279e-33
+       }
+      },
+      {
+       "label": "Mazda_Demio",
+       "score": 0.2746262999441036,
+       "start": 117,
+       "end": 118,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "Santana_(band)": 0.23546153643842577,
+        "Carlos_Santana": 0.1776408938601056,
+        "Santana_(1969_album)": 0.020433824257274972,
+        "Santana,_Madeira": 0.017925455318763828,
+        "Saint_Anne": 0.015374644286238418,
+        "Santana_(district_of_S\u00e3o_Paulo)": 0.009359413934610612,
+        "Johan_Santana": 0.014529315150265263,
+        "Volkswagen_Passat": 0.13572450174555514,
+        "Naya_Rivera": 0.0066952600562935815,
+        "Joel_Santana": 0.019047986585227723,
+        "Tel\u00ea_Santana": 0.017016683672303197,
+        "Santana_Motor": 0.004091717054853214,
+        "Ervin_Santana": 0.005104080394255814,
+        "Manuel_Santana": 0.02953238279514399,
+        "Oye_Como_Va": 0.002782263547956349,
+        "Mazda_Demio": 0.2746262999441036,
+        "Pedro_Santana_Lopes": 0.0015536403316718497,
+        "Pedro_Santana": 0.013100100626950873,
+        "<unk_wid>": 4.941346961817065e-25
+       }
+      },
+      {
+       "label": "Manuel_Santana",
+       "score": 0.4735359344979081,
+       "start": 7,
+       "end": 8,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "Santana_(band)": 0.21742905307763308,
+        "Carlos_Santana": 0.17554997046852883,
+        "Santana_(1969_album)": 0.020186558076721896,
+        "Santana,_Madeira": 0.01769075265718258,
+        "Saint_Anne": 0.012552457529588727,
+        "Santana_(district_of_S\u00e3o_Paulo)": 0.009139092957206432,
+        "Johan_Santana": 0.010106702857325942,
+        "Volkswagen_Passat": 0.007174367631272049,
+        "Naya_Rivera": 0.0065121130626977514,
+        "Joel_Santana": 0.008127499854917671,
+        "Tel\u00ea_Santana": 0.022998580867192885,
+        "Santana_Motor": 0.003963966374675793,
+        "Ervin_Santana": 0.005244858527463873,
+        "Manuel_Santana": 0.4735359344979081,
+        "Oye_Como_Va": 0.0026793293955172186,
+        "Mazda_Demio": 0.0018929242138643434,
+        "Pedro_Santana_Lopes": 0.001471150032708841,
+        "Pedro_Santana": 0.0037446879175941283,
+        "<unk_wid>": 3.2020143426698974e-36
+       }
+      },
+      {
+       "label": "South_Africa",
+       "score": 0.7433010198741918,
+       "start": 150,
+       "end": 152,
+       "tokens": "South Africa",
+       "labelScoreMap": {
+        "South_Africa": 0.7433010198741918,
+        "South_Africa_national_cricket_team": 0.037003613920546234,
+        "South_Africa_national_football_team": 0.03561480940985825,
+        "South_Africa_national_rugby_union_team": 0.1370057925082937,
+        "Union_of_South_Africa": 0.008446416272188995,
+        "South_Africa_Davis_Cup_team": 0.003266234501800053,
+        "South_African_Rugby_Union": 0.0028306227715802824,
+        "South_African_Football_Association": 0.002429058628534296,
+        "2010_FIFA_World_Cup": 0.002093959332661651,
+        "South_African_Communist_Party": 0.0017632295085596827,
+        "A1_Team_South_Africa": 0.001755772724929932,
+        "South_Africa_women's_national_cricket_team": 0.005265068480141341,
+        "South_Africa_national_rugby_sevens_team": 0.006490986090273953,
+        "South_Africa_national_rugby_league_team": 0.0019473361278427494,
+        "Vela_Incident": 0.0012811239200115206,
+        "South_Africa_men's_national_ice_hockey_team": 0.0012747839364465891,
+        "South_African_National_Defence_Force": 0.0012747935887531116,
+        "Government_of_National_Unity_(South_Africa)": 0.001268443951933685,
+        "Indian_South_Africans": 0.0012494140639190206,
+        "President_of_South_Africa": 0.0011162476761831083,
+        "United_States_Ambassador_to_South_Africa": 0.0010972051349997928,
+        "Apartheid": 0.001208767484435772,
+        "Miss_South_Africa": 0.0010153000919144698,
+        "<unk_wid>": 7.030112397113756e-40
+       }
+      },
+      {
+       "label": "South_Africa",
+       "score": 0.5237178510880256,
+       "start": 22,
+       "end": 24,
+       "tokens": "South Africa",
+       "labelScoreMap": {
+        "South_Africa": 0.5237178510880256,
+        "South_Africa_national_cricket_team": 0.06537811295843945,
+        "South_Africa_national_football_team": 0.02895536971413979,
+        "South_Africa_national_rugby_union_team": 0.2941501260210808,
+        "Union_of_South_Africa": 0.006405790328233647,
+        "South_Africa_Davis_Cup_team": 0.002504548855718944,
+        "South_African_Rugby_Union": 0.003048284155720677,
+        "South_African_Football_Association": 0.0018668724759236459,
+        "2010_FIFA_World_Cup": 0.0019153603388886806,
+        "South_African_Communist_Party": 0.0013519045291087769,
+        "A1_Team_South_Africa": 0.0017571603035283724,
+        "South_Africa_women's_national_cricket_team": 0.01256598785208443,
+        "South_Africa_national_rugby_sevens_team": 0.020677878690800962,
+        "South_Africa_national_rugby_league_team": 0.02732355888975543,
+        "Vela_Incident": 0.0009823199837788708,
+        "South_Africa_men's_national_ice_hockey_team": 0.0009774495602549954,
+        "South_African_National_Defence_Force": 0.0009792030652360378,
+        "Government_of_National_Unity_(South_Africa)": 0.0009725881697470497,
+        "Indian_South_Africans": 0.000957996874720017,
+        "President_of_South_Africa": 0.0008567933435196647,
+        "United_States_Ambassador_to_South_Africa": 0.0008412911003350265,
+        "Apartheid": 0.0010337674648849939,
+        "Miss_South_Africa": 0.0007797842360741352,
+        "<unk_wid>": 1.6304180229461676e-32
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.6401075111028528,
+       "start": 88,
+       "end": 89,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "Bahia": 0.6401075111028528,
+        "Esporte_Clube_Bahia": 0.31349641024257807,
+        "Campeonato_Baiano": 0.011479419546632752,
+        "Salvador,_Bahia": 0.02971657026793624,
+        "Campeonato_Baiano_(lower_levels)": 0.0032668250663845204,
+        "Bay_of_Santander": 0.001933263773615788,
+        "<unk_wid>": 8.872912162209238e-24
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.4459346863251368,
+       "start": 5,
+       "end": 6,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "Bahia": 0.4459346863251368,
+        "Esporte_Clube_Bahia": 0.3946674541307608,
+        "Campeonato_Baiano": 0.13762206495313883,
+        "Salvador,_Bahia": 0.017626097408605844,
+        "Campeonato_Baiano_(lower_levels)": 0.0026917582850841818,
+        "Bay_of_Santander": 0.0014579388972736148,
+        "<unk_wid>": 4.857611284253162e-30
+       }
+      },
+      {
+       "label": "Manuel_Santana",
+       "score": 0.4757290883093534,
+       "start": 2,
+       "end": 3,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "Santana_(band)": 0.2174297898252724,
+        "Carlos_Santana": 0.17555039395311342,
+        "Santana_(1969_album)": 0.02018660550032417,
+        "Santana,_Madeira": 0.017690794421940496,
+        "Saint_Anne": 0.012552515527224493,
+        "Santana_(district_of_S\u00e3o_Paulo)": 0.009139135300297844,
+        "Johan_Santana": 0.010388013103881991,
+        "Volkswagen_Passat": 0.0071279130279170684,
+        "Naya_Rivera": 0.006612486847560389,
+        "Joel_Santana": 0.00827639052625987,
+        "Tel\u00ea_Santana": 0.020488475464351306,
+        "Santana_Motor": 0.003963994927041629,
+        "Ervin_Santana": 0.005450881266014101,
+        "Manuel_Santana": 0.4757290883093534,
+        "Oye_Como_Va": 0.0026793442058398688,
+        "Mazda_Demio": 0.001890997423434349,
+        "Pedro_Santana_Lopes": 0.0014714932874603803,
+        "Pedro_Santana": 0.0033716870827128994,
+        "<unk_wid>": 4.4069145486232074e-35
+       }
+      },
+      {
+       "label": "Rio_de_Janeiro",
+       "score": 0.46191143734061335,
+       "start": 11,
+       "end": 14,
+       "tokens": "RIO DE JANEIRO",
+       "labelScoreMap": {
+        "Rio_de_Janeiro": 0.46191143734061335,
+        "Rio_de_Janeiro_(state)": 0.1433937556417192,
+        "Corcovado": 0.003058030772267203,
+        "Campeonato_Carioca": 0.28388932846872206,
+        "Christ_the_Redeemer_(statue)": 0.0017804257276009372,
+        "Federa\u00e7\u00e3o_de_Futebol_do_Estado_do_Rio_de_Janeiro": 0.001608231502316642,
+        "Maracan\u00e3_Stadium": 0.004242207679916585,
+        "Campeonato_Carioca_(lower_levels)": 0.0964524250154138,
+        "Federal_University_of_Rio_de_Janeiro": 0.0008364779678316408,
+        "Rio_Carnival": 0.0008975261650433016,
+        "Aut\u00f3dromo_Internacional_Nelson_Piquet": 0.0019301537185551832,
+        "<unk_wid>": 6.870792112876129e-24
+       }
+      },
+      {
+       "label": "Esporte_Clube_Vit\u00f3ria",
+       "score": 0.5078261845101176,
+       "start": 50,
+       "end": 51,
+       "tokens": "Vitoria",
+       "labelScoreMap": {
+        "Vitoria-Gasteiz": 0.29595962776717616,
+        "Esporte_Clube_Vit\u00f3ria": 0.5078261845101176,
+        "Battle_of_Vitoria": 0.023290806678375586,
+        "Queen_Victoria": 0.014968052013135641,
+        "Francisco_de_Vitoria": 0.010387307871668508,
+        "Vit\u00f3ria_Futebol_Clube_(ES)": 0.005096874611165439,
+        "Victoria_(mythology)": 0.004580734553033334,
+        "Associa\u00e7\u00e3o_Acad\u00eamica_e_Desportiva_Vit\u00f3ria_das_Tabocas": 0.0036129707353363644,
+        "Vit\u00f3ria_S.C.": 0.010287958570069835,
+        "Vit\u00f3ria_F.C.": 0.11947314058260065,
+        "Victoria_(Australia)": 0.0028388893364102628,
+        "Victoria,_Princess_Royal": 0.0016774527709106928,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 98,
+       "end": 101,
+       "tokens": "Marcelo Guimaraes Filho",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.5526407215562337,
+       "start": 70,
+       "end": 71,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "Bahia": 0.5526407215562337,
+        "Esporte_Clube_Bahia": 0.40800018264242277,
+        "Campeonato_Baiano": 0.01028347497344159,
+        "Salvador,_Bahia": 0.02444443653902566,
+        "Campeonato_Baiano_(lower_levels)": 0.002922430129508948,
+        "Bay_of_Santander": 0.0017087541593674993,
+        "<unk_wid>": 5.317606826942285e-28
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9788820065633846,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9788820065633846,
+        "Xinhua_District,_Tainan": 0.017252200806065435,
+        "Xinhua_County": 0.0038657926305500166,
+        "<unk_wid>": 4.034924144574812e-25
+       }
+      },
+      {
+       "label": "Joel_Santana",
+       "score": 1.0,
+       "start": 26,
+       "end": 28,
+       "tokens": "Joel Santana",
+       "labelScoreMap": {
+        "Joel_Santana": 1.0,
+        "<unk_wid>": 1.0477114012109103e-37
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Santana_(band)",
+       "score": 0.2219429624044667,
+       "start": 143,
+       "end": 144,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "8014041|Santana,_Madeira": 0.01776707747211476
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.44005992986286707,
+       "start": 10,
+       "end": 11,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "3471168|Bahia": 0.44005992986286707,
+        "6321026|Salvador,_Bahia": 0.016196001637470415,
+        "3109717|Bay_of_Santander": 0.00143905498777017
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 140,
+       "end": 142,
+       "tokens": "Eduardo Barroca",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Brazil",
+       "score": 0.8153625961735932,
+       "start": 32,
+       "end": 33,
+       "tokens": "Brazilian",
+       "labelScoreMap": {
+        "3469034|Brazil": 0.8153625961735932,
+        "3469058|Bras\u00edlia": 0.0016636583778168812
+       }
+      },
+      {
+       "label": "Manuel_Santana",
+       "score": 0.25051286072489953,
+       "start": 78,
+       "end": 79,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "8014041|Santana,_Madeira": 0.017712070877464056
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.5104218436545872,
+       "start": 37,
+       "end": 38,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "3471168|Bahia": 0.5104218436545872,
+        "6321026|Salvador,_Bahia": 0.02286759219833589,
+        "3109717|Bay_of_Santander": 0.0016099865985261827
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.8280546610308007,
+       "start": 122,
+       "end": 123,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "3471168|Bahia": 0.8280546610308007,
+        "6321026|Salvador,_Bahia": 0.019523612093521207,
+        "3109717|Bay_of_Santander": 0.00233794016174773
+       }
+      },
+      {
+       "label": "Mazda_Demio",
+       "score": 0.2746262999441036,
+       "start": 117,
+       "end": 118,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "8014041|Santana,_Madeira": 0.017925455318763828
+       }
+      },
+      {
+       "label": "Manuel_Santana",
+       "score": 0.4735359344979081,
+       "start": 7,
+       "end": 8,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "8014041|Santana,_Madeira": 0.01769075265718258
+       }
+      },
+      {
+       "label": "South_Africa",
+       "score": 0.7433010198741918,
+       "start": 150,
+       "end": 152,
+       "tokens": "South Africa",
+       "labelScoreMap": {
+        "953987|South_Africa": 0.7433010198741918
+       }
+      },
+      {
+       "label": "South_Africa",
+       "score": 0.5237178510880256,
+       "start": 22,
+       "end": 24,
+       "tokens": "South Africa",
+       "labelScoreMap": {
+        "953987|South_Africa": 0.5237178510880256
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.6401075111028528,
+       "start": 88,
+       "end": 89,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "3471168|Bahia": 0.6401075111028528,
+        "6321026|Salvador,_Bahia": 0.02971657026793624,
+        "3109717|Bay_of_Santander": 0.001933263773615788
+       }
+      },
+      {
+       "label": "Bahia",
+       "score": 0.4459346863251368,
+       "start": 5,
+       "end": 6,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "3471168|Bahia": 0.4459346863251368,
+        "6321026|Salvador,_Bahia": 0.017626097408605844,
+        "3109717|Bay_of_Santander": 0.0014579388972736148
+       }
+      },
+      {
+       "label": "Manuel_Santana",
+       "score": 0.4757290883093534,
+       "start": 2,
+       "end": 3,
+       "tokens": "Santana",
+       "labelScoreMap": {
+        "8014041|Santana,_Madeira": 0.017690794421940496
+       }
+      },
+      {
+       "label": "Rio_de_Janeiro",
+       "score": 0.46191143734061335,
+       "start": 11,
+       "end": 14,
+       "tokens": "RIO DE JANEIRO",
+       "labelScoreMap": {
+        "3451190|Rio_de_Janeiro": 0.46191143734061335,
+        "3451189|Rio_de_Janeiro_(state)": 0.1433937556417192,
+        "3465534|Corcovado": 0.003058030772267203,
+        "7521371|Christ_the_Redeemer_(statue)": 0.0017804257276009372,
+        "7538612|Maracan\u00e3_Stadium": 0.004242207679916585,
+        "7798438|Federal_University_of_Rio_de_Janeiro": 0.0008364779678316408,
+        "8394029|Aut\u00f3dromo_Internacional_Nelson_Piquet": 0.0019301537185551832
+       }
+      },
+      {
+       "label": "Esporte_Clube_Vit\u00f3ria",
+       "score": 0.5078261845101176,
+       "start": 50,
+       "end": 51,
+       "tokens": "Vitoria",
+       "labelScoreMap": {
+        "6355286|Vitoria-Gasteiz": 0.29595962776717616,
+        "2145234|Victoria_(Australia)": 0.0028388893364102628
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 98,
+       "end": 101,
+       "tokens": "Marcelo Guimaraes Filho",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bahia",
+       "score": 0.5526407215562337,
+       "start": 70,
+       "end": 71,
+       "tokens": "Bahia",
+       "labelScoreMap": {
+        "3471168|Bahia": 0.5526407215562337,
+        "6321026|Salvador,_Bahia": 0.02444443653902566,
+        "3109717|Bay_of_Santander": 0.0017087541593674993
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9788820065633846,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.017252200806065435,
+        "1788859|Xinhua_County": 0.0038657926305500166
+       }
+      },
+      {
+       "label": "Joel_Santana",
+       "score": 1.0,
+       "start": 26,
+       "end": 28,
+       "tokens": "Joel Santana",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5416 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131015.0131.xml",
+ "text": "APPLE HIRES BURBERRY CEO\nThis article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nSAN FRANCISCO - Apple announced Tuesday that it hired Angela Ahrendts, the chief executive of Burberry, the British luxury fashion company, as a member of its executive team.\nThe company said Ahrendts would serve in a newly created role as senior vice president overseeing the strategy and operation of its retail and online stores. She will start working for Apple in the spring.\nAhrendts is Apple\u2019s second big hire from the fashion industry amid reports that the company is readying an Internet-connected wristwatch. In the summer, the company hired Paul Deneve, the former chief executive of Yves Saint Laurent, the French fashion house, to work on special projects, reporting directly to Timothy D. Cook, Apple\u2019s chief executive.\nApple\u2019s retail stores have been crucial to its success. The company years ago abandoned trade shows because its retail stores worldwide became a better showcase for its new products. Asymco, a research firm, estimated that Apple\u2019s stores bring in $13 million per store in revenue a quarter on average.\nIn a management shake-up last year, Apple fired its executive in charge of retail, John Browett. The move was not surprising to outsiders: Last August, the company publicly apologized for a plan by Browett to cut back on staffing at its stores.\nIn 2011, Ron Johnson, the former Apple executive in charge of retail, left the company to take the helm at J.C. Penney. It was a bad fit, and after 17 months, Johnson was pushed out of Penney.\nAhrendts\u2019 role at Burberry will be filled by the company\u2019s chief creative officer, Christopher Bailey, Burberry said in a statement.\nBefore joining the British retailer, Ahrendts served in leadership roles at Liz Claiborne and Donna Karan International. She and Bailey have been working together at Burberry for nearly a decade, a period in which they transformed its image from stale and stodgy to sexy and chic.\n\u201cI am thrilled that Angela will be joining our team,\u201d Cook said in a statement. \u201cShe shares our values and our focus on innovation, and she places the same strong emphasis as we do on the customer experience. She has shown herself to be an extraordinary leader throughout her career and has a proven track record.\u201d",
+ "tokens": [
+  "APPLE",
+  "HIRES",
+  "BURBERRY",
+  "CEO",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "SAN",
+  "FRANCISCO",
+  "-",
+  "Apple",
+  "announced",
+  "Tuesday",
+  "that",
+  "it",
+  "hired",
+  "Angela",
+  "Ahrendts",
+  ",",
+  "the",
+  "chief",
+  "executive",
+  "of",
+  "Burberry",
+  ",",
+  "the",
+  "British",
+  "luxury",
+  "fashion",
+  "company",
+  ",",
+  "as",
+  "a",
+  "member",
+  "of",
+  "its",
+  "executive",
+  "team",
+  ".",
+  "The",
+  "company",
+  "said",
+  "Ahrendts",
+  "would",
+  "serve",
+  "in",
+  "a",
+  "newly",
+  "created",
+  "role",
+  "as",
+  "senior",
+  "vice",
+  "president",
+  "overseeing",
+  "the",
+  "strategy",
+  "and",
+  "operation",
+  "of",
+  "its",
+  "retail",
+  "and",
+  "online",
+  "stores",
+  ".",
+  "She",
+  "will",
+  "start",
+  "working",
+  "for",
+  "Apple",
+  "in",
+  "the",
+  "spring",
+  ".",
+  "Ahrendts",
+  "is",
+  "Apple",
+  "\u2019s",
+  "second",
+  "big",
+  "hire",
+  "from",
+  "the",
+  "fashion",
+  "industry",
+  "amid",
+  "reports",
+  "that",
+  "the",
+  "company",
+  "is",
+  "readying",
+  "an",
+  "Internet",
+  "-",
+  "connected",
+  "wristwatch",
+  ".",
+  "In",
+  "the",
+  "summer",
+  ",",
+  "the",
+  "company",
+  "hired",
+  "Paul",
+  "Deneve",
+  ",",
+  "the",
+  "former",
+  "chief",
+  "executive",
+  "of",
+  "Yves",
+  "Saint",
+  "Laurent",
+  ",",
+  "the",
+  "French",
+  "fashion",
+  "house",
+  ",",
+  "to",
+  "work",
+  "on",
+  "special",
+  "projects",
+  ",",
+  "reporting",
+  "directly",
+  "to",
+  "Timothy",
+  "D.",
+  "Cook",
+  ",",
+  "Apple",
+  "\u2019s",
+  "chief",
+  "executive",
+  ".",
+  "Apple",
+  "\u2019s",
+  "retail",
+  "stores",
+  "have",
+  "been",
+  "crucial",
+  "to",
+  "its",
+  "success",
+  ".",
+  "The",
+  "company",
+  "years",
+  "ago",
+  "abandoned",
+  "trade",
+  "shows",
+  "because",
+  "its",
+  "retail",
+  "stores",
+  "worldwide",
+  "became",
+  "a",
+  "better",
+  "showcase",
+  "for",
+  "its",
+  "new",
+  "products",
+  ".",
+  "Asymco",
+  ",",
+  "a",
+  "research",
+  "firm",
+  ",",
+  "estimated",
+  "that",
+  "Apple",
+  "\u2019s",
+  "stores",
+  "bring",
+  "in",
+  "$13",
+  "million",
+  "per",
+  "store",
+  "in",
+  "revenue",
+  "a",
+  "quarter",
+  "on",
+  "average",
+  ".",
+  "In",
+  "a",
+  "management",
+  "shake",
+  "-",
+  "up",
+  "last",
+  "year",
+  ",",
+  "Apple",
+  "fired",
+  "its",
+  "executive",
+  "in",
+  "charge",
+  "of",
+  "retail",
+  ",",
+  "John",
+  "Browett",
+  ".",
+  "The",
+  "move",
+  "was",
+  "not",
+  "surprising",
+  "to",
+  "outsiders",
+  ":",
+  "Last",
+  "August",
+  ",",
+  "the",
+  "company",
+  "publicly",
+  "apologized",
+  "for",
+  "a",
+  "plan",
+  "by",
+  "Browett",
+  "to",
+  "cut",
+  "back",
+  "on",
+  "staffing",
+  "at",
+  "its",
+  "stores",
+  ".",
+  "In",
+  "2011",
+  ",",
+  "Ron",
+  "Johnson",
+  ",",
+  "the",
+  "former",
+  "Apple",
+  "executive",
+  "in",
+  "charge",
+  "of",
+  "retail",
+  ",",
+  "left",
+  "the",
+  "company",
+  "to",
+  "take",
+  "the",
+  "helm",
+  "at",
+  "J.C.",
+  "Penney",
+  ".",
+  "It",
+  "was",
+  "a",
+  "bad",
+  "fit",
+  ",",
+  "and",
+  "after",
+  "17",
+  "months",
+  ",",
+  "Johnson",
+  "was",
+  "pushed",
+  "out",
+  "of",
+  "Penney",
+  ".",
+  "Ahrendts",
+  "\u2019",
+  "role",
+  "at",
+  "Burberry",
+  "will",
+  "be",
+  "filled",
+  "by",
+  "the",
+  "company",
+  "\u2019s",
+  "chief",
+  "creative",
+  "officer",
+  ",",
+  "Christopher",
+  "Bailey",
+  ",",
+  "Burberry",
+  "said",
+  "in",
+  "a",
+  "statement",
+  ".",
+  "Before",
+  "joining",
+  "the",
+  "British",
+  "retailer",
+  ",",
+  "Ahrendts",
+  "served",
+  "in",
+  "leadership",
+  "roles",
+  "at",
+  "Liz",
+  "Claiborne",
+  "and",
+  "Donna",
+  "Karan",
+  "International",
+  ".",
+  "She",
+  "and",
+  "Bailey",
+  "have",
+  "been",
+  "working",
+  "together",
+  "at",
+  "Burberry",
+  "for",
+  "nearly",
+  "a",
+  "decade",
+  ",",
+  "a",
+  "period",
+  "in",
+  "which",
+  "they",
+  "transformed",
+  "its",
+  "image",
+  "from",
+  "stale",
+  "and",
+  "stodgy",
+  "to",
+  "sexy",
+  "and",
+  "chic",
+  ".",
+  "\u201c",
+  "I",
+  "am",
+  "thrilled",
+  "that",
+  "Angela",
+  "will",
+  "be",
+  "joining",
+  "our",
+  "team",
+  ",",
+  "\u201d",
+  "Cook",
+  "said",
+  "in",
+  "a",
+  "statement",
+  ".",
+  "\u201c",
+  "She",
+  "shares",
+  "our",
+  "values",
+  "and",
+  "our",
+  "focus",
+  "on",
+  "innovation",
+  ",",
+  "and",
+  "she",
+  "places",
+  "the",
+  "same",
+  "strong",
+  "emphasis",
+  "as",
+  "we",
+  "do",
+  "on",
+  "the",
+  "customer",
+  "experience",
+  ".",
+  "She",
+  "has",
+  "shown",
+  "herself",
+  "to",
+  "be",
+  "an",
+  "extraordinary",
+  "leader",
+  "throughout",
+  "her",
+  "career",
+  "and",
+  "has",
+  "a",
+  "proven",
+  "track",
+  "record",
+  ".",
+  "\u201d"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   12,
+   64,
+   91,
+   101,
+   125,
+   167,
+   178,
+   199,
+   223,
+   244,
+   273,
+   299,
+   317,
+   342,
+   361,
+   392,
+   411,
+   437,
+   457
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 41,
+       "end": 43,
+       "tokens": "Angela Ahrendts"
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "Ron_Johnson_(businessman)",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "Johnson"
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "Angela"
+      },
+      {
+       "label": "France",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "French"
+      },
+      {
+       "label": "DKNY",
+       "score": 1.0,
+       "start": 357,
+       "end": 360,
+       "tokens": "Donna Karan International"
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Browett"
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Apple"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 241,
+       "end": 243,
+       "tokens": "John Browett"
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Apple"
+      },
+      {
+       "label": "San_Francisco",
+       "score": 1.0,
+       "start": 32,
+       "end": 34,
+       "tokens": "SAN FRANCISCO"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "Asymco"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "APPLE"
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "Cook"
+      },
+      {
+       "label": "J._C._Penney",
+       "score": 1.0,
+       "start": 296,
+       "end": 298,
+       "tokens": "J.C. Penney"
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "BURBERRY"
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Christopher_Bailey_(fashion_designer)",
+       "score": 1.0,
+       "start": 333,
+       "end": 335,
+       "tokens": "Christopher Bailey"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "British"
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "British"
+      },
+      {
+       "label": "Yves_Saint_Laurent_(brand)",
+       "score": 1.0,
+       "start": 140,
+       "end": 143,
+       "tokens": "Yves Saint Laurent"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "Donna_Karan",
+       "score": 1.0,
+       "start": 357,
+       "end": 359,
+       "tokens": "Donna Karan"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Christopher_Bailey_(fashion_designer)",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "Bailey"
+      },
+      {
+       "label": "Paul_Deneve",
+       "score": 1.0,
+       "start": 132,
+       "end": 134,
+       "tokens": "Paul Deneve"
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "Ron_Johnson_(businessman)",
+       "score": 1.0,
+       "start": 276,
+       "end": 278,
+       "tokens": "Ron Johnson"
+      },
+      {
+       "label": "J._C._Penney",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "Penney"
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 1.0,
+       "start": 158,
+       "end": 161,
+       "tokens": "Timothy D. Cook"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "Apple"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 41,
+       "end": 43,
+       "tokens": "Angela Ahrendts"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "Johnson"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "Angela"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "French"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 357,
+       "end": 360,
+       "tokens": "Donna Karan International"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Browett"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Apple"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 241,
+       "end": 243,
+       "tokens": "John Browett"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Apple"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 32,
+       "end": 34,
+       "tokens": "SAN FRANCISCO"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "Asymco"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "APPLE"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "Cook"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 296,
+       "end": 298,
+       "tokens": "J.C. Penney"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "BURBERRY"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "Apple"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 333,
+       "end": 335,
+       "tokens": "Christopher Bailey"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "British"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "British"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 140,
+       "end": 143,
+       "tokens": "Yves Saint Laurent"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 357,
+       "end": 359,
+       "tokens": "Donna Karan"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Apple"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "Bailey"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 132,
+       "end": 134,
+       "tokens": "Paul Deneve"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 276,
+       "end": 278,
+       "tokens": "Ron Johnson"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "Penney"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 158,
+       "end": 161,
+       "tokens": "Timothy D. Cook"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "Apple"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "APPLE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "APPLE"
+      },
+      {
+       "label": "HIRES",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "HIRES"
+      },
+      {
+       "label": "BURBERRY",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "BURBERRY"
+      },
+      {
+       "label": "CEO",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "CEO"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": ";"
+      },
+      {
+       "label": "SAN",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "SAN"
+      },
+      {
+       "label": "FRANCISCO",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "FRANCISCO"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "-"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "Apple"
+      },
+      {
+       "label": "announced",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "announced"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "that"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "it"
+      },
+      {
+       "label": "hired",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "hired"
+      },
+      {
+       "label": "Angela",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "Angela"
+      },
+      {
+       "label": "Ahrendts",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "the"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "chief"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "executive"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "of"
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Burberry"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "the"
+      },
+      {
+       "label": "British",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "British"
+      },
+      {
+       "label": "luxury",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "luxury"
+      },
+      {
+       "label": "fashion",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "fashion"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "company"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "a"
+      },
+      {
+       "label": "member",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "member"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "of"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "its"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "executive"
+      },
+      {
+       "label": "team",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "team"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "company"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "said"
+      },
+      {
+       "label": "Ahrendts",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "would"
+      },
+      {
+       "label": "serve",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "serve"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "a"
+      },
+      {
+       "label": "newly",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "newly"
+      },
+      {
+       "label": "created",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "created"
+      },
+      {
+       "label": "role",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "role"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "as"
+      },
+      {
+       "label": "senior",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "senior"
+      },
+      {
+       "label": "vice",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "vice"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "president"
+      },
+      {
+       "label": "overseeing",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "overseeing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "the"
+      },
+      {
+       "label": "strategy",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "strategy"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "and"
+      },
+      {
+       "label": "operation",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "operation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "of"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "its"
+      },
+      {
+       "label": "retail",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "retail"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "and"
+      },
+      {
+       "label": "online",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "online"
+      },
+      {
+       "label": "stores",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "stores"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "."
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "She"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "will"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "start"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "working"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "for"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Apple"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "the"
+      },
+      {
+       "label": "spring",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "spring"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "."
+      },
+      {
+       "label": "Ahrendts",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "is"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Apple"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "second",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "second"
+      },
+      {
+       "label": "big",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "big"
+      },
+      {
+       "label": "hire",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "hire"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "the"
+      },
+      {
+       "label": "fashion",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "fashion"
+      },
+      {
+       "label": "industry",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "industry"
+      },
+      {
+       "label": "amid",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "amid"
+      },
+      {
+       "label": "reports",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "reports"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "company"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "is"
+      },
+      {
+       "label": "readying",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "readying"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "an"
+      },
+      {
+       "label": "Internet",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "Internet"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "-"
+      },
+      {
+       "label": "connected",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "connected"
+      },
+      {
+       "label": "wristwatch",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "wristwatch"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "In"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "the"
+      },
+      {
+       "label": "summer",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "summer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "company"
+      },
+      {
+       "label": "hired",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "hired"
+      },
+      {
+       "label": "Paul",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Paul"
+      },
+      {
+       "label": "Deneve",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "Deneve"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "the"
+      },
+      {
+       "label": "former",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "former"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "chief"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "executive"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "of"
+      },
+      {
+       "label": "Yves",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "Yves"
+      },
+      {
+       "label": "Saint",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Saint"
+      },
+      {
+       "label": "Laurent",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "Laurent"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "the"
+      },
+      {
+       "label": "French",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "French"
+      },
+      {
+       "label": "fashion",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "fashion"
+      },
+      {
+       "label": "house",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "house"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": ","
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "to"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "work"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "on"
+      },
+      {
+       "label": "special",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "special"
+      },
+      {
+       "label": "projects",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "projects"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": ","
+      },
+      {
+       "label": "reporting",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "reporting"
+      },
+      {
+       "label": "directly",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "directly"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "to"
+      },
+      {
+       "label": "Timothy",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Timothy"
+      },
+      {
+       "label": "D.",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "D."
+      },
+      {
+       "label": "Cook",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "Cook"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": ","
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "Apple"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "chief"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "executive"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "."
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "Apple"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "retail",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "retail"
+      },
+      {
+       "label": "stores",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "stores"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "been"
+      },
+      {
+       "label": "crucial",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "crucial"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "to"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "its"
+      },
+      {
+       "label": "success",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "success"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "The"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "company"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "years"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "ago"
+      },
+      {
+       "label": "abandoned",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "abandoned"
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "trade"
+      },
+      {
+       "label": "shows",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "shows"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "because"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "its"
+      },
+      {
+       "label": "retail",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "retail"
+      },
+      {
+       "label": "stores",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "stores"
+      },
+      {
+       "label": "worldwide",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "worldwide"
+      },
+      {
+       "label": "became",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "became"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "a"
+      },
+      {
+       "label": "better",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "better"
+      },
+      {
+       "label": "showcase",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "showcase"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "for"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "its"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "new"
+      },
+      {
+       "label": "products",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "products"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "."
+      },
+      {
+       "label": "Asymco",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "Asymco"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "a"
+      },
+      {
+       "label": "research",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "research"
+      },
+      {
+       "label": "firm",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "firm"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": ","
+      },
+      {
+       "label": "estimated",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "estimated"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "that"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Apple"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "stores",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "stores"
+      },
+      {
+       "label": "bring",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "bring"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "in"
+      },
+      {
+       "label": "$13",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "$13"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "million"
+      },
+      {
+       "label": "per",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "per"
+      },
+      {
+       "label": "store",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "store"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "in"
+      },
+      {
+       "label": "revenue",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "revenue"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "a"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "quarter"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "on"
+      },
+      {
+       "label": "average",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "average"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "In"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "a"
+      },
+      {
+       "label": "management",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "management"
+      },
+      {
+       "label": "shake",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "shake"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "-"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "up"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "last"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "year"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": ","
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "Apple"
+      },
+      {
+       "label": "fired",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "fired"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "its"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "executive"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "in"
+      },
+      {
+       "label": "charge",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "charge"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "of"
+      },
+      {
+       "label": "retail",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "retail"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": ","
+      },
+      {
+       "label": "John",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "John"
+      },
+      {
+       "label": "Browett",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "Browett"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "The"
+      },
+      {
+       "label": "move",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "move"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "was"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "not"
+      },
+      {
+       "label": "surprising",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "surprising"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "to"
+      },
+      {
+       "label": "outsiders",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "outsiders"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": ":"
+      },
+      {
+       "label": "Last",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "Last"
+      },
+      {
+       "label": "August",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "August"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "company"
+      },
+      {
+       "label": "publicly",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "publicly"
+      },
+      {
+       "label": "apologized",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "apologized"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "a"
+      },
+      {
+       "label": "plan",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "plan"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "by"
+      },
+      {
+       "label": "Browett",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Browett"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "to"
+      },
+      {
+       "label": "cut",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "cut"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "back"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "on"
+      },
+      {
+       "label": "staffing",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "staffing"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "at"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "its"
+      },
+      {
+       "label": "stores",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "stores"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "In"
+      },
+      {
+       "label": "2011",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "2011"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": ","
+      },
+      {
+       "label": "Ron",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "Ron"
+      },
+      {
+       "label": "Johnson",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Johnson"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "the"
+      },
+      {
+       "label": "former",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "former"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "Apple"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "executive"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "in"
+      },
+      {
+       "label": "charge",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "charge"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "of"
+      },
+      {
+       "label": "retail",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "retail"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": ","
+      },
+      {
+       "label": "left",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "left"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "company"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "to"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "take"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "the"
+      },
+      {
+       "label": "helm",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "helm"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "at"
+      },
+      {
+       "label": "J.C.",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "J.C."
+      },
+      {
+       "label": "Penney",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "Penney"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "It"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "a"
+      },
+      {
+       "label": "bad",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "bad"
+      },
+      {
+       "label": "fit",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "fit"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "and"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "after"
+      },
+      {
+       "label": "17",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "17"
+      },
+      {
+       "label": "months",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "months"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": ","
+      },
+      {
+       "label": "Johnson",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "Johnson"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "was"
+      },
+      {
+       "label": "pushed",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "pushed"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "out"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "of"
+      },
+      {
+       "label": "Penney",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "Penney"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "."
+      },
+      {
+       "label": "Ahrendts",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "\u2019",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "\u2019"
+      },
+      {
+       "label": "role",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "role"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "at"
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "be"
+      },
+      {
+       "label": "filled",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "filled"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "company"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "chief"
+      },
+      {
+       "label": "creative",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "creative"
+      },
+      {
+       "label": "officer",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "officer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": ","
+      },
+      {
+       "label": "Christopher",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "Christopher"
+      },
+      {
+       "label": "Bailey",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Bailey"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": ","
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "said"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "a"
+      },
+      {
+       "label": "statement",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "statement"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "."
+      },
+      {
+       "label": "Before",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "Before"
+      },
+      {
+       "label": "joining",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "joining"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "the"
+      },
+      {
+       "label": "British",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "British"
+      },
+      {
+       "label": "retailer",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "retailer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": ","
+      },
+      {
+       "label": "Ahrendts",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "Ahrendts"
+      },
+      {
+       "label": "served",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "served"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "in"
+      },
+      {
+       "label": "leadership",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "leadership"
+      },
+      {
+       "label": "roles",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "roles"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "at"
+      },
+      {
+       "label": "Liz",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "Liz"
+      },
+      {
+       "label": "Claiborne",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "Claiborne"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "and"
+      },
+      {
+       "label": "Donna",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "Donna"
+      },
+      {
+       "label": "Karan",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "Karan"
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "International"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "."
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "She"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "and"
+      },
+      {
+       "label": "Bailey",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "Bailey"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "been"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "working"
+      },
+      {
+       "label": "together",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "together"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "at"
+      },
+      {
+       "label": "Burberry",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "Burberry"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "for"
+      },
+      {
+       "label": "nearly",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "nearly"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "a"
+      },
+      {
+       "label": "decade",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "decade"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "a"
+      },
+      {
+       "label": "period",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "period"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "in"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "which"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "they"
+      },
+      {
+       "label": "transformed",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "transformed"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "its"
+      },
+      {
+       "label": "image",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "image"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "from"
+      },
+      {
+       "label": "stale",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "stale"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "and"
+      },
+      {
+       "label": "stodgy",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "stodgy"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "to"
+      },
+      {
+       "label": "sexy",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "sexy"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "and"
+      },
+      {
+       "label": "chic",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "chic"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "I"
+      },
+      {
+       "label": "am",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "am"
+      },
+      {
+       "label": "thrilled",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "thrilled"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "that"
+      },
+      {
+       "label": "Angela",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "Angela"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "be"
+      },
+      {
+       "label": "joining",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "joining"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "our"
+      },
+      {
+       "label": "team",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "team"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Cook",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "Cook"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "said"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "a"
+      },
+      {
+       "label": "statement",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "statement"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "She"
+      },
+      {
+       "label": "shares",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "shares"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "our"
+      },
+      {
+       "label": "values",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "values"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "and"
+      },
+      {
+       "label": "our",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "our"
+      },
+      {
+       "label": "focus",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "focus"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "on"
+      },
+      {
+       "label": "innovation",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "innovation"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "and"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "she"
+      },
+      {
+       "label": "places",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "places"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "the"
+      },
+      {
+       "label": "same",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "same"
+      },
+      {
+       "label": "strong",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "strong"
+      },
+      {
+       "label": "emphasis",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "emphasis"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "as"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "we"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "do"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "the"
+      },
+      {
+       "label": "customer",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "customer"
+      },
+      {
+       "label": "experience",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "experience"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "."
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "She"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "has"
+      },
+      {
+       "label": "shown",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "shown"
+      },
+      {
+       "label": "herself",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "herself"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "be"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "an"
+      },
+      {
+       "label": "extraordinary",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "extraordinary"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "leader"
+      },
+      {
+       "label": "throughout",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "throughout"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "her"
+      },
+      {
+       "label": "career",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "career"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "and"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "has"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "a"
+      },
+      {
+       "label": "proven",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "proven"
+      },
+      {
+       "label": "track",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "track"
+      },
+      {
+       "label": "record",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "record"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "\u201d"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945375768868147,
+       "start": 103,
+       "end": 104,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7945375768868147,
+        "Apple": 0.10728087516478758,
+        "Apple_Records": 0.04138548025412592,
+        "Apple_II_series": 0.02358051475998787,
+        "Apple_Corps": 0.005422741898271904,
+        "IPhone": 0.0034772538041333177,
+        "Apple_II_Plus": 0.003296713526175885,
+        "Macintosh": 0.003302404547525001,
+        "Apple_(album)": 0.0031446988884692526,
+        "IPad": 0.0022041429559636035,
+        "Apple_Store": 0.0021895980820464613,
+        "Cashew": 0.0020141333081530027,
+        "Mac_Mini": 0.001710112697269858,
+        "Apple_III": 0.0011970806179558199,
+        "Apple_I": 0.001064069383095935,
+        "Malus": 0.0010545669054913699,
+        "ITunes": 0.001035566563317254,
+        "Apple_TV": 0.0009977405708875217,
+        "Apple_Lisa": 0.001104729185528108,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Burberry",
+       "score": 0.9963446499997397,
+       "start": 336,
+       "end": 337,
+       "tokens": "Burberry",
+       "labelScoreMap": {
+        "Burberry": 0.9963446499997397,
+        "Abercrombie_&_Fitch": 0.003655350000260241,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 41,
+       "end": 43,
+       "tokens": "Angela Ahrendts",
+       "labelScoreMap": {
+        "Angela_Ahrendts": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Ahrendts",
+       "labelScoreMap": {
+        "Angela_Ahrendts": 1.0,
+        "<unk_wid>": 4.203895392974451e-45
+       }
+      },
+      {
+       "label": "Lyndon_B._Johnson",
+       "score": 0.4463902232758578,
+       "start": 310,
+       "end": 311,
+       "tokens": "Johnson",
+       "labelScoreMap": {
+        "Lyndon_B._Johnson": 0.4463902232758578,
+        "Johnson_County,_Kansas": 0.04580771427757296,
+        "Johnson_County,_Indiana": 0.03462554394581289,
+        "Johnson_County,_Texas": 0.030998900745973997,
+        "Johnson_County,_Iowa": 0.02554831644622156,
+        "Johnson_County,_Tennessee": 0.02181755677601735,
+        "Johnson_County,_Kentucky": 0.018986946789409587,
+        "Johnson_County,_Illinois": 0.01881456145705761,
+        "Andrew_Johnson": 0.018978506688510643,
+        "Johnson_County,_Nebraska": 0.016914419235110636,
+        "Robert_Johnson": 0.022722966841698507,
+        "Ron_Johnson_(running_back)": 0.015372819620261416,
+        "Samuel_Johnson": 0.05271557251264263,
+        "Johnson_County,_Wyoming": 0.014017047024079746,
+        "Eyvind_Johnson": 0.012012669839840954,
+        "Glen_Johnson_(English_footballer)": 0.011598980304649188,
+        "Eddie_Bernice_Johnson": 0.010956102224345983,
+        "Magic_Johnson": 0.07939730302178555,
+        "Johnson_County,_Georgia": 0.009389242110100232,
+        "Johnson_(composer)": 0.010378146291382067,
+        "Johnson_County,_Missouri": 0.009182113008638765,
+        "Jimmy_Johnson_(American_football_coach)": 0.010362428192842013,
+        "Johnson,_Arkansas": 0.008077496098989745,
+        "Johnson_(electoral_district)": 0.007973918934654064,
+        "Randy_Johnson": 0.007427718165087023,
+        "Paul_Johnson_(writer)": 0.010643712445448943,
+        "Shawn_Johnson": 0.007112257215593167,
+        "Johnson_County,_Arkansas": 0.007051506216144949,
+        "Virginia_E._Johnson": 0.007425354055848365,
+        "Michael_Johnson_(sprinter)": 0.007299956238421555
+       }
+      },
+      {
+       "label": "Angela_Merkel",
+       "score": 0.43994371583585085,
+       "start": 397,
+       "end": 398,
+       "tokens": "Angela",
+       "labelScoreMap": {
+        "Angela_(band)": 0.2211582050669873,
+        "Angela_Hitler": 0.11775348393096127,
+        "Angela_Eagle": 0.17037895050043073,
+        "Angela_Merkel": 0.43994371583585085,
+        "Angela_Gossow": 0.021903673745311634,
+        "Angela_Lansbury": 0.02886197092045821,
+        "<unk_wid>": 2.654613169881303e-28
+       }
+      },
+      {
+       "label": "France",
+       "score": 0.5741819867969225,
+       "start": 145,
+       "end": 146,
+       "tokens": "French",
+       "labelScoreMap": {
+        "France": 0.5741819867969225,
+        "French_language": 0.27176209752456015,
+        "French_people": 0.10759988481131413,
+        "French_Americans": 0.006313602949176983,
+        "Canadian_French": 0.0067234917916216864,
+        "French_colonization_of_the_Americas": 0.005567170091972442,
+        "French_Revolution": 0.00245858822993126,
+        "French_colonial_empire": 0.0037633950233660124,
+        "French_Canadians": 0.011695020932463999,
+        "French_Third_Republic": 0.002577755000876968,
+        "Early_modern_France": 0.002125715620511324,
+        "First_French_Empire": 0.002646868258914286,
+        "Alberto_Santos-Dumont": 0.000849332301451461,
+        "Paris_International_Agricultural_Show": 0.0008322316364586856,
+        "French_Army": 0.0009028590304579281,
+        "<unk_wid>": 2.7799482501279925e-29
+       }
+      },
+      {
+       "label": "Donna_Karan",
+       "score": 1.0,
+       "start": 357,
+       "end": 360,
+       "tokens": "Donna Karan International",
+       "labelScoreMap": {
+        "Donna_Karan": 1.0,
+        "<unk_wid>": 4.477192790756548e-31
+       }
+      },
+      {
+       "label": "Burberry",
+       "score": 0.9963438122655396,
+       "start": 321,
+       "end": 322,
+       "tokens": "Burberry",
+       "labelScoreMap": {
+        "Burberry": 0.9963438122655396,
+        "Abercrombie_&_Fitch": 0.0036561877344604044,
+        "<unk_wid>": 2.130039041857343e-37
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 263,
+       "end": 264,
+       "tokens": "Browett",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Ahrendts",
+       "labelScoreMap": {
+        "Angela_Ahrendts": 1.0,
+        "<unk_wid>": 5.604072818527808e-41
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945138645329375,
+       "start": 167,
+       "end": 168,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7945138645329375,
+        "Apple": 0.10727864371914231,
+        "Apple_Records": 0.04138165520613185,
+        "Apple_II_series": 0.02358002861534515,
+        "Apple_Corps": 0.005421236868930094,
+        "IPhone": 0.00347718215398189,
+        "Apple_II_Plus": 0.0032966450018313545,
+        "Macintosh": 0.003310913096963082,
+        "Apple_(album)": 0.0031446335264020664,
+        "IPad": 0.0022040971449375476,
+        "Apple_Store": 0.0021871982073629597,
+        "Cashew": 0.0020140914447119296,
+        "Mac_Mini": 0.0017100771528489199,
+        "Apple_III": 0.001197055737376556,
+        "Apple_I": 0.0010640472415831197,
+        "Malus": 0.0010545449864856483,
+        "ITunes": 0.001035545958546835,
+        "Apple_TV": 0.0009978506682617003,
+        "Apple_Lisa": 0.001130688736219355,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 241,
+       "end": 243,
+       "tokens": "John Browett",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Burberry",
+       "score": 0.9963446501445842,
+       "start": 48,
+       "end": 49,
+       "tokens": "Burberry",
+       "labelScoreMap": {
+        "Burberry": 0.9963446501445842,
+        "Abercrombie_&_Fitch": 0.003655349855415767,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945678992888058,
+       "start": 207,
+       "end": 208,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7945678992888058,
+        "Apple": 0.10728370590283176,
+        "Apple_Records": 0.04138212191973806,
+        "Apple_II_series": 0.023581130390524237,
+        "Apple_Corps": 0.005421834635187592,
+        "IPhone": 0.0034773348370517048,
+        "Apple_II_Plus": 0.0032968006916329474,
+        "Macintosh": 0.003293338146876227,
+        "Apple_(album)": 0.0031447820370427296,
+        "IPad": 0.002204201233423729,
+        "Apple_Store": 0.0021939718176369593,
+        "Cashew": 0.0020141865635893118,
+        "Mac_Mini": 0.0017101579141368074,
+        "Apple_III": 0.0011971122684072046,
+        "Apple_I": 0.0010640968810403534,
+        "Malus": 0.0010545947891574816,
+        "ITunes": 0.0010355931234284684,
+        "Apple_TV": 0.000997685502671393,
+        "Apple_Lisa": 0.0010794520568174044,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.9504096227571246,
+       "start": 32,
+       "end": 34,
+       "tokens": "SAN FRANCISCO",
+       "labelScoreMap": {
+        "San_Francisco": 0.9504096227571246,
+        "Francis_of_Assisi": 0.003712180041997356,
+        "University_of_San_Francisco": 0.0037612222561474256,
+        "San_Francisco_F.C.": 0.003164427964549217,
+        "San_Francisco_Giants": 0.0030470795215473733,
+        "San_Francisco_49ers": 0.002996526983045234,
+        "San_Francisco_Mint": 0.012866962372538492,
+        "San_Francisco_International_Airport": 0.0025156448201651958,
+        "San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)": 0.0021994451851862413,
+        "San_Francisco,_C\u00f3rdoba": 0.002086425064994963,
+        "Ed_Lee_(politician)": 0.0017306962866044454,
+        "Chinatown,_San_Francisco": 0.001860605322541822,
+        "1906_San_Francisco_earthquake": 0.0015652822929200626,
+        "San_Francisco_Dons_men's_basketball": 0.001530231412844502,
+        "San_Francisco,_Cebu": 0.0015300478899398704,
+        "Pacific_Coast_Championships": 0.0013475476550320073,
+        "Golden_State_Warriors": 0.0012892136345498042,
+        "San_Francisco_Bay": 0.0012098849982478414,
+        "Port_of_San_Francisco": 0.0011769535400235568,
+        "<unk_wid>": 6.93836153410459e-32
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 199,
+       "end": 200,
+       "tokens": "Asymco",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7937827305972691,
+       "start": 0,
+       "end": 1,
+       "tokens": "APPLE",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7937827305972691,
+        "Apple": 0.107211037096073,
+        "Apple_Records": 0.04182569649590951,
+        "Apple_II_series": 0.023565485688258156,
+        "Apple_Corps": 0.0056765304536081475,
+        "IPhone": 0.003475007948465079,
+        "Apple_II_Plus": 0.00329456439063798,
+        "Macintosh": 0.003485391180258605,
+        "Apple_(album)": 0.0031426485654075503,
+        "IPad": 0.002202705971737603,
+        "Apple_Store": 0.0021636810958456172,
+        "Cashew": 0.002012820106440272,
+        "Mac_Mini": 0.001708997715005513,
+        "Apple_III": 0.0011963027640108515,
+        "Apple_I": 0.0010634455385107036,
+        "Malus": 0.0010538793347819812,
+        "ITunes": 0.001034952626503149,
+        "Apple_TV": 0.0009987122062651852,
+        "Apple_Lisa": 0.0011054102250122844,
+        "<unk_wid>": 4.1853280818358995e-40
+       }
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 0.3692195734784713,
+       "start": 405,
+       "end": 406,
+       "tokens": "Cook",
+       "labelScoreMap": {
+        "Cook_County,_Illinois": 0.11043901585987553,
+        "Cook,_Minnesota": 0.057326058981588685,
+        "James_Cook": 0.10760028503903021,
+        "Cook_(profession)": 0.050326088730264555,
+        "Cooking": 0.035547587579650444,
+        "Cook_County,_Georgia": 0.03355007326179504,
+        "Electoral_district_of_Cook": 0.02117997385485149,
+        "Division_of_Cook": 0.01695602720536277,
+        "Cook_County,_Minnesota": 0.014120123776170097,
+        "Shire_of_Cook": 0.011645923300610808,
+        "Cook_Island,_South_Sandwich_Islands": 0.009654607134049168,
+        "Robin_Cook": 0.014638757777694324,
+        "Cook_Islands": 0.008172330465273213,
+        "Vancouver_School_Board": 0.007542683905859359,
+        "Cook,_South_Australia": 0.006335848297213134,
+        "Robin_Cook_(American_novelist)": 0.006673312071285819,
+        "Cook,_Australian_Capital_Territory": 0.005495897142405713,
+        "Stephen_Cook": 0.03229591374973943,
+        "Roger_Cook_(songwriter)": 0.007244912811850459,
+        "Lee_Cook": 0.004766990869096817,
+        "Chef": 0.004469250225937845,
+        "Greg_Cook": 0.003982575196513759,
+        "Joseph_Cook": 0.008747921917078941,
+        "Paul_Cook_(footballer)": 0.003688396006697028,
+        "Daequan_Cook": 0.003620992911909211,
+        "Alastair_Cook": 0.009431708950100315,
+        "Marlow_Cook": 0.0039058293222512994,
+        "Simon_Cook_(English_cricketer)": 0.002957400163601949,
+        "Dick_Cook": 0.028463940013771345,
+        "Tim_Cook": 0.3692195734784713
+       }
+      },
+      {
+       "label": "J._C._Penney",
+       "score": 0.9787124968725266,
+       "start": 296,
+       "end": 298,
+       "tokens": "J.C. Penney",
+       "labelScoreMap": {
+        "J._C._Penney": 0.9787124968725266,
+        "James_Cash_Penney": 0.02128750312747341,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Burberry",
+       "score": 0.9963446244570925,
+       "start": 2,
+       "end": 3,
+       "tokens": "BURBERRY",
+       "labelScoreMap": {
+        "Burberry": 0.9963446244570925,
+        "Abercrombie_&_Fitch": 0.003655375542907553,
+        "<unk_wid>": 1.0890174006999919e-43
+       }
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "Ahrendts",
+       "labelScoreMap": {
+        "Angela_Ahrendts": 1.0,
+        "<unk_wid>": 1.516204938399452e-42
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7941867662909028,
+       "start": 35,
+       "end": 36,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7941867662909028,
+        "Apple": 0.107248007040596,
+        "Apple_Records": 0.0413918719046018,
+        "Apple_II_series": 0.023573332451114627,
+        "Apple_Corps": 0.0054305591563594815,
+        "IPhone": 0.0034762624828163988,
+        "Apple_II_Plus": 0.003295703355193571,
+        "Macintosh": 0.0033420761672971195,
+        "Apple_(album)": 0.003143735226842659,
+        "IPad": 0.0022034675364331195,
+        "Apple_Store": 0.002272831243397983,
+        "Cashew": 0.002013516097078509,
+        "Mac_Mini": 0.0017095886502812925,
+        "Apple_III": 0.0011967137920236778,
+        "Apple_I": 0.0010637503220681367,
+        "Malus": 0.001054243743975581,
+        "ITunes": 0.0010352522255867825,
+        "Apple_TV": 0.0009975299366587382,
+        "Apple_Lisa": 0.0013647923767720123,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Christopher_Bailey_(fashion_designer)",
+       "score": 1.0,
+       "start": 333,
+       "end": 335,
+       "tokens": "Christopher Bailey",
+       "labelScoreMap": {
+        "Christopher_Bailey_(fashion_designer)": 1.0,
+        "<unk_wid>": 1.215542788309428e-37
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.6876799888393169,
+       "start": 51,
+       "end": 52,
+       "tokens": "British",
+       "labelScoreMap": {
+        "United_Kingdom": 0.6876799888393169,
+        "Great_Britain": 0.05932453151890092,
+        "British_Empire": 0.03807008937307599,
+        "Kingdom_of_Great_Britain": 0.03735157275180581,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.031987223729925865,
+        "British_English": 0.010162254502860507,
+        "England": 0.008294929929838542,
+        "British_colonization_of_the_Americas": 0.005915969228834192,
+        "British_Raj": 0.007013823547020448,
+        "Britannicus_(play)": 0.005407243135193003,
+        "British_Army": 0.01150895843263806,
+        "British_Americans": 0.00343491673617765,
+        "Royal_Navy": 0.00371771377973368,
+        "English_people": 0.0016676227766610555,
+        "British_Isles": 0.0013807678568537503,
+        "East_India_Company": 0.0015569131455112982,
+        "British_Boxing_Board_of_Control": 0.002228990212031895,
+        "Government_of_the_United_Kingdom": 0.08137299050950111,
+        "Banksy": 0.0009920237172656072,
+        "Lee_Child": 0.0009314762768538185,
+        "<unk_wid>": 5.484095874392828e-35
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.7227312467100274,
+       "start": 345,
+       "end": 346,
+       "tokens": "British",
+       "labelScoreMap": {
+        "United_Kingdom": 0.7227312467100274,
+        "Great_Britain": 0.0614143579270285,
+        "British_Empire": 0.03903310991770644,
+        "Kingdom_of_Great_Britain": 0.03877918418458096,
+        "United_Kingdom_of_Great_Britain_and_Ireland": 0.03316015290564365,
+        "British_English": 0.010490610153635564,
+        "England": 0.008731913910049415,
+        "British_colonization_of_the_Americas": 0.006102067279777611,
+        "British_Raj": 0.006757133274947218,
+        "Britannicus_(play)": 0.005577315054346317,
+        "British_Army": 0.008417710306875768,
+        "British_Americans": 0.003541993051004743,
+        "Royal_Navy": 0.00357874715944333,
+        "English_people": 0.001758622959564352,
+        "British_Isles": 0.0014232441287604198,
+        "East_India_Company": 0.0013802702015184738,
+        "British_Boxing_Board_of_Control": 0.0023296306213950184,
+        "Government_of_the_United_Kingdom": 0.04280869116099341,
+        "Banksy": 0.0010232254541253545,
+        "Lee_Child": 0.0009607736385757737,
+        "<unk_wid>": 2.2465000851728658e-35
+       }
+      },
+      {
+       "label": "Yves_Saint_Laurent_(brand)",
+       "score": 0.5566904538175208,
+       "start": 140,
+       "end": 143,
+       "tokens": "Yves Saint Laurent",
+       "labelScoreMap": {
+        "Yves_Saint_Laurent_(designer)": 0.44330954618247914,
+        "Yves_Saint_Laurent_(brand)": 0.5566904538175208,
+        "<unk_wid>": 3.2588361809818992e-37
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794532305007053,
+       "start": 232,
+       "end": 233,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.794532305007053,
+        "Apple": 0.10728038950359195,
+        "Apple_Records": 0.041389959520175774,
+        "Apple_II_series": 0.023580419409597604,
+        "Apple_Corps": 0.0054272784383760375,
+        "IPhone": 0.003477243264121881,
+        "Apple_II_Plus": 0.00329669858231149,
+        "Macintosh": 0.0032938924356989393,
+        "Apple_(album)": 0.003144684632691699,
+        "IPad": 0.002204132963388001,
+        "Apple_Store": 0.002191982704251778,
+        "Cashew": 0.002014124177537506,
+        "Mac_Mini": 0.0017101049448626873,
+        "Apple_III": 0.001197075190721303,
+        "Apple_I": 0.0010640650291024695,
+        "Malus": 0.0010545621248520295,
+        "ITunes": 0.0010355615419725334,
+        "Apple_TV": 0.0009977705114767455,
+        "Apple_Lisa": 0.0011077500182167584,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Burberry",
+       "score": 0.996344559811418,
+       "start": 369,
+       "end": 370,
+       "tokens": "Burberry",
+       "labelScoreMap": {
+        "Burberry": 0.996344559811418,
+        "Abercrombie_&_Fitch": 0.0036554401885820144,
+        "<unk_wid>": 2.348507884545399e-41
+       }
+      },
+      {
+       "label": "Donna_Karan",
+       "score": 0.9962515407040214,
+       "start": 357,
+       "end": 359,
+       "tokens": "Donna Karan",
+       "labelScoreMap": {
+        "Donna_Karan": 0.9962515407040214,
+        "DKNY": 0.0037484592959785637,
+        "<unk_wid>": 1.1724742915532772e-28
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7944780403063364,
+       "start": 281,
+       "end": 282,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7944780403063364,
+        "Apple": 0.10727530488323793,
+        "Apple_Records": 0.04138964959165206,
+        "Apple_II_series": 0.02357930198650707,
+        "Apple_Corps": 0.005425866278407182,
+        "IPhone": 0.003477090378694429,
+        "Apple_II_Plus": 0.003296542289997535,
+        "Macintosh": 0.0033086979177126643,
+        "Apple_(album)": 0.00314453552835188,
+        "IPad": 0.002204028459992519,
+        "Apple_Store": 0.0022156568487713,
+        "Cashew": 0.0020140286784045614,
+        "Mac_Mini": 0.0017100238607164284,
+        "Apple_III": 0.0011970184340434164,
+        "Apple_I": 0.0010640151432358418,
+        "Malus": 0.0010545121230846695,
+        "ITunes": 0.0010355130840720686,
+        "Apple_TV": 0.0009977012902302,
+        "Apple_Lisa": 0.0011324729165518614,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7944785207286963,
+       "start": 96,
+       "end": 97,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7944785207286963,
+        "Apple": 0.10727533787337089,
+        "Apple_Records": 0.04138440508802469,
+        "Apple_II_series": 0.023579314147689174,
+        "Apple_Corps": 0.0054234866369622815,
+        "IPhone": 0.0034770940898618094,
+        "Apple_II_Plus": 0.0032965433130318607,
+        "Macintosh": 0.0033104056590015454,
+        "Apple_(album)": 0.003144536525510235,
+        "IPad": 0.0022040291561391417,
+        "Apple_Store": 0.0021833722647572056,
+        "Cashew": 0.002014029317069797,
+        "Mac_Mini": 0.001710024402979177,
+        "Apple_III": 0.0011970188125786595,
+        "Apple_I": 0.0010640156879123109,
+        "Malus": 0.0010545124574792295,
+        "ITunes": 0.0010355141741028948,
+        "Apple_TV": 0.0009978216720617473,
+        "Apple_Lisa": 0.001170017992771114,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Pearl_Bailey",
+       "score": 0.32461298213893464,
+       "start": 363,
+       "end": 364,
+       "tokens": "Bailey",
+       "labelScoreMap": {
+        "Bailey_County,_Texas": 0.061252944331708685,
+        "David_Bailey": 0.055412428764227126,
+        "The_Suite_Life_on_Deck": 0.05236783394341919,
+        "Bailey,_Colorado": 0.03963583321500062,
+        "Aleen_Bailey": 0.027383484400298638,
+        "James_Bailey_(footballer)": 0.024260804887759748,
+        "Carl_Edward_Bailey": 0.023059872146660665,
+        "Joseph_Weldon_Bailey": 0.022819534650009087,
+        "Champ_Bailey": 0.020897881026983443,
+        "Andrew_Bailey_(baseball)": 0.020177544238759507,
+        "Graeme_Bailey": 0.017775170982291068,
+        "Dean_Bailey": 0.015613386857938076,
+        "Vancouver_Canucks": 0.015373169397625711,
+        "Theodorus_Bailey_(politician)": 0.014412340219214363,
+        "Josiah_Bailey": 0.012076605265063494,
+        "Donovan_Bailey": 0.011084970753949415,
+        "Thurl_Bailey": 0.00984899769653652,
+        "Gary_Bailey": 0.009368090945294857,
+        "Daniel_Bailey": 0.009142663741363606,
+        "Homer_Bailey": 0.007448441072135172,
+        "Dan_Bailey_(American_football)": 0.006245946296984302,
+        "Baileys_Irish_Cream": 0.0038464158220563286,
+        "Rumpole_of_the_Bailey": 0.17736215691535084,
+        "Bill_Bailey": 0.0031958920707550157,
+        "Rockall_Basin": 0.003123085716771362,
+        "Julian_Bailey": 0.004743555961008495,
+        "James_Anthony_Bailey": 0.0026432485400811846,
+        "Alice_Bailey": 0.0026528621208376786,
+        "Ben_Bailey": 0.002161855880981032,
+        "Pearl_Bailey": 0.32461298213893464
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 132,
+       "end": 134,
+       "tokens": "Paul Deneve",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Ahrendts",
+       "labelScoreMap": {
+        "Angela_Ahrendts": 1.0,
+        "<unk_wid>": 1.9144819879298516e-40
+       }
+      },
+      {
+       "label": "Ron_Johnson_(U.S._politician)",
+       "score": 0.7093686653512248,
+       "start": 276,
+       "end": 278,
+       "tokens": "Ron Johnson",
+       "labelScoreMap": {
+        "Ron_Johnson_(U.S._politician)": 0.7093686653512248,
+        "Ron_Johnson_(running_back)": 0.22130696701872288,
+        "Ron_Johnson_Records": 0.06932436763005222,
+        "<unk_wid>": 5.43844546263912e-36
+       }
+      },
+      {
+       "label": "J._C._Penney",
+       "score": 0.505813809636859,
+       "start": 315,
+       "end": 316,
+       "tokens": "Penney",
+       "labelScoreMap": {
+        "Dave_Penney": 0.35271343949280615,
+        "Kirk_Penney": 0.13565868248061133,
+        "J._C._Penney": 0.505813809636859,
+        "William_Penney,_Baron_Penney": 0.005814068389723655,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 1.0,
+       "start": 158,
+       "end": 161,
+       "tokens": "Timothy D. Cook",
+       "labelScoreMap": {
+        "Tim_Cook": 1.0,
+        "<unk_wid>": 4.3160160857020085e-39
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945263155440043,
+       "start": 162,
+       "end": 163,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7945263155440043,
+        "Apple": 0.10727981488459046,
+        "Apple_Records": 0.04138508702952004,
+        "Apple_II_series": 0.02358027969448731,
+        "Apple_Corps": 0.0054240492669087705,
+        "IPhone": 0.003477214875231581,
+        "Apple_II_Plus": 0.0032966810178288127,
+        "Macintosh": 0.00329281609917087,
+        "Apple_(album)": 0.0031446678833668895,
+        "IPad": 0.0022041212218430195,
+        "Apple_Store": 0.002181785961030428,
+        "Cashew": 0.002014113449841728,
+        "Mac_Mini": 0.0017100958364443454,
+        "Apple_III": 0.0011970688140749701,
+        "Apple_I": 0.0010640590227186933,
+        "Malus": 0.0010545565080078546,
+        "ITunes": 0.0010355556786299383,
+        "Apple_TV": 0.0009976550777304265,
+        "Apple_Lisa": 0.001134062134569797,
+        "<unk_wid>": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945375768868147,
+       "start": 103,
+       "end": 104,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Burberry",
+       "score": 0.9963446499997397,
+       "start": 336,
+       "end": 337,
+       "tokens": "Burberry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 41,
+       "end": 43,
+       "tokens": "Angela Ahrendts",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Ahrendts",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Lyndon_B._Johnson",
+       "score": 0.4463902232758578,
+       "start": 310,
+       "end": 311,
+       "tokens": "Johnson",
+       "labelScoreMap": {
+        "4273638|Johnson_County,_Kansas": 0.04580771427757296,
+        "4259727|Johnson_County,_Indiana": 0.03462554394581289,
+        "4701348|Johnson_County,_Texas": 0.030998900745973997,
+        "4862732|Johnson_County,_Iowa": 0.02554831644622156,
+        "4633430|Johnson_County,_Tennessee": 0.02181755677601735,
+        "4296508|Johnson_County,_Kentucky": 0.018986946789409587,
+        "4241904|Johnson_County,_Illinois": 0.01881456145705761,
+        "5071072|Johnson_County,_Nebraska": 0.016914419235110636,
+        "5828957|Johnson_County,_Wyoming": 0.014017047024079746,
+        "4202983|Johnson_County,_Georgia": 0.009389242110100232,
+        "4392606|Johnson_County,_Missouri": 0.009182113008638765,
+        "4116660|Johnson,_Arkansas": 0.008077496098989745,
+        "4116689|Johnson_County,_Arkansas": 0.007051506216144949
+       }
+      },
+      {
+       "label": "Angela_Merkel",
+       "score": 0.43994371583585085,
+       "start": 397,
+       "end": 398,
+       "tokens": "Angela",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "France",
+       "score": 0.5741819867969225,
+       "start": 145,
+       "end": 146,
+       "tokens": "French",
+       "labelScoreMap": {
+        "3017382|France": 0.5741819867969225
+       }
+      },
+      {
+       "label": "Donna_Karan",
+       "score": 1.0,
+       "start": 357,
+       "end": 360,
+       "tokens": "Donna Karan International",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Burberry",
+       "score": 0.9963438122655396,
+       "start": 321,
+       "end": 322,
+       "tokens": "Burberry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 263,
+       "end": 264,
+       "tokens": "Browett",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "Ahrendts",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945138645329375,
+       "start": 167,
+       "end": 168,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 241,
+       "end": 243,
+       "tokens": "John Browett",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Burberry",
+       "score": 0.9963446501445842,
+       "start": 48,
+       "end": 49,
+       "tokens": "Burberry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945678992888058,
+       "start": 207,
+       "end": 208,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "San_Francisco",
+       "score": 0.9504096227571246,
+       "start": 32,
+       "end": 34,
+       "tokens": "SAN FRANCISCO",
+       "labelScoreMap": {
+        "5391997|San_Francisco": 0.9504096227571246,
+        "5404904|University_of_San_Francisco": 0.0037612222561474256,
+        "5379047|San_Francisco_Mint": 0.012866962372538492,
+        "5391989|San_Francisco_International_Airport": 0.0025156448201651958,
+        "3837675|San_Francisco,_C\u00f3rdoba": 0.002086425064994963,
+        "1690011|San_Francisco,_Cebu": 0.0015300478899398704,
+        "5391961|San_Francisco_Bay": 0.0012098849982478414
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 199,
+       "end": 200,
+       "tokens": "Asymco",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7937827305972691,
+       "start": 0,
+       "end": 1,
+       "tokens": "APPLE",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 0.3692195734784713,
+       "start": 405,
+       "end": 406,
+       "tokens": "Cook",
+       "labelScoreMap": {
+        "4888671|Cook_County,_Illinois": 0.11043901585987553,
+        "5021974|Cook,_Minnesota": 0.057326058981588685,
+        "4189236|Cook_County,_Georgia": 0.03355007326179504,
+        "5021977|Cook_County,_Minnesota": 0.014120123776170097,
+        "7839573|Shire_of_Cook": 0.011645923300610808,
+        "1899402|Cook_Islands": 0.008172330465273213,
+        "2073960|Cook,_South_Australia": 0.006335848297213134,
+        "8347746|Cook,_Australian_Capital_Territory": 0.005495897142405713
+       }
+      },
+      {
+       "label": "J._C._Penney",
+       "score": 0.9787124968725266,
+       "start": 296,
+       "end": 298,
+       "tokens": "J.C. Penney",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Burberry",
+       "score": 0.9963446244570925,
+       "start": 2,
+       "end": 3,
+       "tokens": "BURBERRY",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "Ahrendts",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7941867662909028,
+       "start": 35,
+       "end": 36,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Christopher_Bailey_(fashion_designer)",
+       "score": 1.0,
+       "start": 333,
+       "end": 335,
+       "tokens": "Christopher Bailey",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.6876799888393169,
+       "start": 51,
+       "end": 52,
+       "tokens": "British",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.6876799888393169,
+        "6269131|England": 0.008294929929838542,
+        "2654669|British_Isles": 0.0013807678568537503
+       }
+      },
+      {
+       "label": "United_Kingdom",
+       "score": 0.7227312467100274,
+       "start": 345,
+       "end": 346,
+       "tokens": "British",
+       "labelScoreMap": {
+        "2635167|United_Kingdom": 0.7227312467100274,
+        "6269131|England": 0.008731913910049415,
+        "2654669|British_Isles": 0.0014232441287604198
+       }
+      },
+      {
+       "label": "Yves_Saint_Laurent_(brand)",
+       "score": 0.5566904538175208,
+       "start": 140,
+       "end": 143,
+       "tokens": "Yves Saint Laurent",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794532305007053,
+       "start": 232,
+       "end": 233,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Burberry",
+       "score": 0.996344559811418,
+       "start": 369,
+       "end": 370,
+       "tokens": "Burberry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Donna_Karan",
+       "score": 0.9962515407040214,
+       "start": 357,
+       "end": 359,
+       "tokens": "Donna Karan",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7944780403063364,
+       "start": 281,
+       "end": 282,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7944785207286963,
+       "start": 96,
+       "end": 97,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pearl_Bailey",
+       "score": 0.32461298213893464,
+       "start": 363,
+       "end": 364,
+       "tokens": "Bailey",
+       "labelScoreMap": {
+        "5516581|Bailey_County,_Texas": 0.061252944331708685,
+        "5412500|Bailey,_Colorado": 0.03963583321500062
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 132,
+       "end": 134,
+       "tokens": "Paul Deneve",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Angela_Ahrendts",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "Ahrendts",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Ron_Johnson_(U.S._politician)",
+       "score": 0.7093686653512248,
+       "start": 276,
+       "end": 278,
+       "tokens": "Ron Johnson",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "J._C._Penney",
+       "score": 0.505813809636859,
+       "start": 315,
+       "end": 316,
+       "tokens": "Penney",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 1.0,
+       "start": 158,
+       "end": 161,
+       "tokens": "Timothy D. Cook",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945263155440043,
+       "start": 162,
+       "end": 163,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

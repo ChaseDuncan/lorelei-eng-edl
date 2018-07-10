@@ -1,0 +1,7442 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_DF_001471_20120921_G00A01SGT.xml",
+ "text": "iPhone manufacturing capacity?\nIf Apple can ship 40,000,000 units a quarter, every quarter, that puts minimum capacity at roughly 400,000 units a day. Minimum. We know they can do this.\nIf they are now quoting shipping times of 30 days from now, how many units in the backlog? At the minimum capacity number, that would be 12,000,000 units on back order, but we all know the 40,000,000 per quarter is not a maximum number.\nHow many units a day do you think is maximum capacity? At 500,000, that would equate to 15,000,000 currently on back order. At 600,000 that would be 18,000,000....\nNow the ship date and back orders won't be exactly accurate, but it has to correlate to some degree.\nSafe to say I bet the # of backlog orders that Apple hasn't accepted is 2x as many as they have. Demand for this thing is insane.\nThe math isn't that simple, otherwise any random schmuck from the MacRumors comment forums could do Tim Cook's job.\nSome of the manufacturing capacity would be in clearing the backlog of existing orders. Other portions of the manufacturing capacity would be allocated to building inventory for the launch in new markets.\nAlso, there is a production ramp. The Day 1 manufacturing yield will not be the same as the Day 300 manufacturing yield. The contract assemblers improve their procedures and yields as time passes.\nAdditionally, Apple is quite aware of seasonal variances in product sales. If Apple needs 40 million units for Q4 CY2012 and 25 million units for Q2 CY2013, they will communicate this to Foxconn, Pegatron, etc. It would be up to the contract manufacturing partners to staff accordingly. Apple isn't going to pay a factory of 60,000 workers to twiddle their thumbs for one quarter and neither is Foxconn. It would be up to Foxconn to retool the manufacturing line for another client or for another Apple product line (e.g., iPad). It's not a flat, steady demand every single day of the year.\nExcept the historical shipments are relatively flat quarter to quarter, so though it's not as simple as I've laid out, it's not rocket science either to take a reasonable guess at capacity.\nI read another post where someone stated with inside knowledge that capacity was only 150,000 units a day. Clearly that's off by at least 250,000 units...\nI'm pretty sure Apple is gonna sell 50 million iPhones from this weekend to Dec 31st.\nExcept the historical shipments are relatively flat quarter to quarter,...\nCitation needed.\nSimply googling iphone shipments per quarter finds graphs that suggest a far different picture. Two examples:\nhttp://assets.fiercemarkets.com/public/mdano/amis/iphone-quarterlyshipments-new.jpg\nhttp://en.wikipedia.org/wiki/File:IPhone_sales_per_quarter_simple.svg\nAnd the Wikipedia one has a table, with links and references to primary sources.\nI read another post where someone stated with inside knowledge that capacity was only 150,000 units a day. Clearly that's off by at least 250,000 units...\nNo, 150K per day actually sounds about right for capacity around launch day. Assuming a five-week (35 days) pre-launch production ramp at 150K units per day, that would mean 5.25 million units in available inventory on launch day.\nAnd guess how many units Apple sold the first weekend? Just about that much, and Apple executives claim that their sales figures were supply constrained.\nThat would explains why people who ordered online on Sunday or Monday are still their orders \"in processing\" (or whatever the wording is). With a 150K capacity, clearing the backlog will take a while.\nIf Apple can ship 40,000,000 units a quarter, every quarter, that puts minimum capacity at roughly 400,000 units a day. Minimum. We know they can do this.\nIf they are now quoting shipping times of 30 days from now, how many units in the backlog? At the minimum capacity number, that would be 12,000,000 units on back order\nWell, no because the entire manufacturing capacity is not sent out to orders from their online store.\nI walked in to the Apple store in Montreal today and bought one \"off the shelf\", with no reservation/pre-order, less than 30 minutes to wait for activation.\nTons are being sent to carriers, tons to retail outlets and some are being fielded for online orders. You can't make such a claim, it's just not grounded in reality.",
+ "tokens": [
+  "iPhone",
+  "manufacturing",
+  "capacity",
+  "?",
+  "If",
+  "Apple",
+  "can",
+  "ship",
+  "40,000,000",
+  "units",
+  "a",
+  "quarter",
+  ",",
+  "every",
+  "quarter",
+  ",",
+  "that",
+  "puts",
+  "minimum",
+  "capacity",
+  "at",
+  "roughly",
+  "400,000",
+  "units",
+  "a",
+  "day",
+  ".",
+  "Minimum",
+  ".",
+  "We",
+  "know",
+  "they",
+  "can",
+  "do",
+  "this",
+  ".",
+  "If",
+  "they",
+  "are",
+  "now",
+  "quoting",
+  "shipping",
+  "times",
+  "of",
+  "30",
+  "days",
+  "from",
+  "now",
+  ",",
+  "how",
+  "many",
+  "units",
+  "in",
+  "the",
+  "backlog",
+  "?",
+  "At",
+  "the",
+  "minimum",
+  "capacity",
+  "number",
+  ",",
+  "that",
+  "would",
+  "be",
+  "12,000,000",
+  "units",
+  "on",
+  "back",
+  "order",
+  ",",
+  "but",
+  "we",
+  "all",
+  "know",
+  "the",
+  "40,000,000",
+  "per",
+  "quarter",
+  "is",
+  "not",
+  "a",
+  "maximum",
+  "number",
+  ".",
+  "How",
+  "many",
+  "units",
+  "a",
+  "day",
+  "do",
+  "you",
+  "think",
+  "is",
+  "maximum",
+  "capacity",
+  "?",
+  "At",
+  "500,000",
+  ",",
+  "that",
+  "would",
+  "equate",
+  "to",
+  "15,000,000",
+  "currently",
+  "on",
+  "back",
+  "order",
+  ".",
+  "At",
+  "600,000",
+  "that",
+  "would",
+  "be",
+  "18,000,000",
+  "....",
+  "Now",
+  "the",
+  "ship",
+  "date",
+  "and",
+  "back",
+  "orders",
+  "wo",
+  "n't",
+  "be",
+  "exactly",
+  "accurate",
+  ",",
+  "but",
+  "it",
+  "has",
+  "to",
+  "correlate",
+  "to",
+  "some",
+  "degree",
+  ".",
+  "Safe",
+  "to",
+  "say",
+  "I",
+  "bet",
+  "the",
+  "#",
+  "of",
+  "backlog",
+  "orders",
+  "that",
+  "Apple",
+  "has",
+  "n't",
+  "accepted",
+  "is",
+  "2x",
+  "as",
+  "many",
+  "as",
+  "they",
+  "have",
+  ".",
+  "Demand",
+  "for",
+  "this",
+  "thing",
+  "is",
+  "insane",
+  ".",
+  "The",
+  "math",
+  "is",
+  "n't",
+  "that",
+  "simple",
+  ",",
+  "otherwise",
+  "any",
+  "random",
+  "schmuck",
+  "from",
+  "the",
+  "MacRumors",
+  "comment",
+  "forums",
+  "could",
+  "do",
+  "Tim",
+  "Cook",
+  "'s",
+  "job",
+  ".",
+  "Some",
+  "of",
+  "the",
+  "manufacturing",
+  "capacity",
+  "would",
+  "be",
+  "in",
+  "clearing",
+  "the",
+  "backlog",
+  "of",
+  "existing",
+  "orders",
+  ".",
+  "Other",
+  "portions",
+  "of",
+  "the",
+  "manufacturing",
+  "capacity",
+  "would",
+  "be",
+  "allocated",
+  "to",
+  "building",
+  "inventory",
+  "for",
+  "the",
+  "launch",
+  "in",
+  "new",
+  "markets",
+  ".",
+  "Also",
+  ",",
+  "there",
+  "is",
+  "a",
+  "production",
+  "ramp",
+  ".",
+  "The",
+  "Day",
+  "1",
+  "manufacturing",
+  "yield",
+  "will",
+  "not",
+  "be",
+  "the",
+  "same",
+  "as",
+  "the",
+  "Day",
+  "300",
+  "manufacturing",
+  "yield",
+  ".",
+  "The",
+  "contract",
+  "assemblers",
+  "improve",
+  "their",
+  "procedures",
+  "and",
+  "yields",
+  "as",
+  "time",
+  "passes",
+  ".",
+  "Additionally",
+  ",",
+  "Apple",
+  "is",
+  "quite",
+  "aware",
+  "of",
+  "seasonal",
+  "variances",
+  "in",
+  "product",
+  "sales",
+  ".",
+  "If",
+  "Apple",
+  "needs",
+  "40",
+  "million",
+  "units",
+  "for",
+  "Q4",
+  "CY2012",
+  "and",
+  "25",
+  "million",
+  "units",
+  "for",
+  "Q2",
+  "CY2013",
+  ",",
+  "they",
+  "will",
+  "communicate",
+  "this",
+  "to",
+  "Foxconn",
+  ",",
+  "Pegatron",
+  ",",
+  "etc.",
+  "It",
+  "would",
+  "be",
+  "up",
+  "to",
+  "the",
+  "contract",
+  "manufacturing",
+  "partners",
+  "to",
+  "staff",
+  "accordingly",
+  ".",
+  "Apple",
+  "is",
+  "n't",
+  "going",
+  "to",
+  "pay",
+  "a",
+  "factory",
+  "of",
+  "60,000",
+  "workers",
+  "to",
+  "twiddle",
+  "their",
+  "thumbs",
+  "for",
+  "one",
+  "quarter",
+  "and",
+  "neither",
+  "is",
+  "Foxconn",
+  ".",
+  "It",
+  "would",
+  "be",
+  "up",
+  "to",
+  "Foxconn",
+  "to",
+  "retool",
+  "the",
+  "manufacturing",
+  "line",
+  "for",
+  "another",
+  "client",
+  "or",
+  "for",
+  "another",
+  "Apple",
+  "product",
+  "line",
+  "(",
+  "e",
+  ".",
+  "g",
+  ".",
+  ",",
+  "iPad",
+  ")",
+  ".",
+  "It",
+  "'s",
+  "not",
+  "a",
+  "flat",
+  ",",
+  "steady",
+  "demand",
+  "every",
+  "single",
+  "day",
+  "of",
+  "the",
+  "year",
+  ".",
+  "Except",
+  "the",
+  "historical",
+  "shipments",
+  "are",
+  "relatively",
+  "flat",
+  "quarter",
+  "to",
+  "quarter",
+  ",",
+  "so",
+  "though",
+  "it",
+  "'s",
+  "not",
+  "as",
+  "simple",
+  "as",
+  "I",
+  "'ve",
+  "laid",
+  "out",
+  ",",
+  "it",
+  "'s",
+  "not",
+  "rocket",
+  "science",
+  "either",
+  "to",
+  "take",
+  "a",
+  "reasonable",
+  "guess",
+  "at",
+  "capacity",
+  ".",
+  "I",
+  "read",
+  "another",
+  "post",
+  "where",
+  "someone",
+  "stated",
+  "with",
+  "inside",
+  "knowledge",
+  "that",
+  "capacity",
+  "was",
+  "only",
+  "150,000",
+  "units",
+  "a",
+  "day",
+  ".",
+  "Clearly",
+  "that",
+  "'s",
+  "off",
+  "by",
+  "at",
+  "least",
+  "250,000",
+  "units",
+  "...",
+  "I",
+  "'m",
+  "pretty",
+  "sure",
+  "Apple",
+  "is",
+  "gonna",
+  "sell",
+  "50",
+  "million",
+  "iPhones",
+  "from",
+  "this",
+  "weekend",
+  "to",
+  "Dec",
+  "31st",
+  ".",
+  "Except",
+  "the",
+  "historical",
+  "shipments",
+  "are",
+  "relatively",
+  "flat",
+  "quarter",
+  "to",
+  "quarter",
+  ",",
+  "...",
+  "Citation",
+  "needed",
+  ".",
+  "Simply",
+  "googling",
+  "iphone",
+  "shipments",
+  "per",
+  "quarter",
+  "finds",
+  "graphs",
+  "that",
+  "suggest",
+  "a",
+  "far",
+  "different",
+  "picture",
+  ".",
+  "Two",
+  "examples",
+  ":",
+  "http://assets.fiercemarkets.com/public/mdano/amis/iphone-quarterlyshipments-new.jpg",
+  "http://en.wikipedia.org/wiki/File:IPhone_sales_per_quarter_simple.svg",
+  "And",
+  "the",
+  "Wikipedia",
+  "one",
+  "has",
+  "a",
+  "table",
+  ",",
+  "with",
+  "links",
+  "and",
+  "references",
+  "to",
+  "primary",
+  "sources",
+  ".",
+  "I",
+  "read",
+  "another",
+  "post",
+  "where",
+  "someone",
+  "stated",
+  "with",
+  "inside",
+  "knowledge",
+  "that",
+  "capacity",
+  "was",
+  "only",
+  "150,000",
+  "units",
+  "a",
+  "day",
+  ".",
+  "Clearly",
+  "that",
+  "'s",
+  "off",
+  "by",
+  "at",
+  "least",
+  "250,000",
+  "units",
+  "...",
+  "No",
+  ",",
+  "150K",
+  "per",
+  "day",
+  "actually",
+  "sounds",
+  "about",
+  "right",
+  "for",
+  "capacity",
+  "around",
+  "launch",
+  "day",
+  ".",
+  "Assuming",
+  "a",
+  "five",
+  "-",
+  "week",
+  "(",
+  "35",
+  "days",
+  ")",
+  "pre",
+  "-",
+  "launch",
+  "production",
+  "ramp",
+  "at",
+  "150K",
+  "units",
+  "per",
+  "day",
+  ",",
+  "that",
+  "would",
+  "mean",
+  "5.25",
+  "million",
+  "units",
+  "in",
+  "available",
+  "inventory",
+  "on",
+  "launch",
+  "day",
+  ".",
+  "And",
+  "guess",
+  "how",
+  "many",
+  "units",
+  "Apple",
+  "sold",
+  "the",
+  "first",
+  "weekend",
+  "?",
+  "Just",
+  "about",
+  "that",
+  "much",
+  ",",
+  "and",
+  "Apple",
+  "executives",
+  "claim",
+  "that",
+  "their",
+  "sales",
+  "figures",
+  "were",
+  "supply",
+  "constrained",
+  ".",
+  "That",
+  "would",
+  "explains",
+  "why",
+  "people",
+  "who",
+  "ordered",
+  "online",
+  "on",
+  "Sunday",
+  "or",
+  "Monday",
+  "are",
+  "still",
+  "their",
+  "orders",
+  "\"",
+  "in",
+  "processing",
+  "\"",
+  "(",
+  "or",
+  "whatever",
+  "the",
+  "wording",
+  "is",
+  ")",
+  ".",
+  "With",
+  "a",
+  "150K",
+  "capacity",
+  ",",
+  "clearing",
+  "the",
+  "backlog",
+  "will",
+  "take",
+  "a",
+  "while",
+  ".",
+  "If",
+  "Apple",
+  "can",
+  "ship",
+  "40,000,000",
+  "units",
+  "a",
+  "quarter",
+  ",",
+  "every",
+  "quarter",
+  ",",
+  "that",
+  "puts",
+  "minimum",
+  "capacity",
+  "at",
+  "roughly",
+  "400,000",
+  "units",
+  "a",
+  "day",
+  ".",
+  "Minimum",
+  ".",
+  "We",
+  "know",
+  "they",
+  "can",
+  "do",
+  "this",
+  ".",
+  "If",
+  "they",
+  "are",
+  "now",
+  "quoting",
+  "shipping",
+  "times",
+  "of",
+  "30",
+  "days",
+  "from",
+  "now",
+  ",",
+  "how",
+  "many",
+  "units",
+  "in",
+  "the",
+  "backlog",
+  "?",
+  "At",
+  "the",
+  "minimum",
+  "capacity",
+  "number",
+  ",",
+  "that",
+  "would",
+  "be",
+  "12,000,000",
+  "units",
+  "on",
+  "back",
+  "order",
+  "Well",
+  ",",
+  "no",
+  "because",
+  "the",
+  "entire",
+  "manufacturing",
+  "capacity",
+  "is",
+  "not",
+  "sent",
+  "out",
+  "to",
+  "orders",
+  "from",
+  "their",
+  "online",
+  "store",
+  ".",
+  "I",
+  "walked",
+  "in",
+  "to",
+  "the",
+  "Apple",
+  "store",
+  "in",
+  "Montreal",
+  "today",
+  "and",
+  "bought",
+  "one",
+  "\"",
+  "off",
+  "the",
+  "shelf",
+  "\"",
+  ",",
+  "with",
+  "no",
+  "reservation",
+  "/",
+  "pre",
+  "-",
+  "order",
+  ",",
+  "less",
+  "than",
+  "30",
+  "minutes",
+  "to",
+  "wait",
+  "for",
+  "activation",
+  ".",
+  "Tons",
+  "are",
+  "being",
+  "sent",
+  "to",
+  "carriers",
+  ",",
+  "tons",
+  "to",
+  "retail",
+  "outlets",
+  "and",
+  "some",
+  "are",
+  "being",
+  "fielded",
+  "for",
+  "online",
+  "orders",
+  ".",
+  "You",
+  "ca",
+  "n't",
+  "make",
+  "such",
+  "a",
+  "claim",
+  ",",
+  "it",
+  "'s",
+  "just",
+  "not",
+  "grounded",
+  "in",
+  "reality",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   4,
+   27,
+   29,
+   36,
+   56,
+   85,
+   97,
+   110,
+   139,
+   162,
+   169,
+   192,
+   207,
+   226,
+   234,
+   251,
+   263,
+   276,
+   316,
+   339,
+   368,
+   383,
+   421,
+   440,
+   468,
+   483,
+   498,
+   519,
+   538,
+   563,
+   596,
+   607,
+   624,
+   652,
+   665,
+   688,
+   690,
+   697,
+   717,
+   750,
+   786,
+   806,
+   822
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 755,
+       "end": 756,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Montreal",
+       "score": 1.0,
+       "start": 758,
+       "end": 759,
+       "tokens": "Montreal"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 1.0,
+       "start": 187,
+       "end": 189,
+       "tokens": "Tim Cook"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "Pegatron",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Pegatron"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 755,
+       "end": 756,
+       "tokens": "Apple"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 758,
+       "end": 759,
+       "tokens": "Montreal"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 187,
+       "end": 189,
+       "tokens": "Tim Cook"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Pegatron"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "iPhone",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "iPhone"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "capacity"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "?"
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "If"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Apple"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "can"
+      },
+      {
+       "label": "ship",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "ship"
+      },
+      {
+       "label": "40,000,000",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "40,000,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "units"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "a"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "quarter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": ","
+      },
+      {
+       "label": "every",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "every"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "quarter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": ","
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "that"
+      },
+      {
+       "label": "puts",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "puts"
+      },
+      {
+       "label": "minimum",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "minimum"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "capacity"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "at"
+      },
+      {
+       "label": "roughly",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "roughly"
+      },
+      {
+       "label": "400,000",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "400,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "units"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "a"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "."
+      },
+      {
+       "label": "Minimum",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Minimum"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "."
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "We"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "know"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "they"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "can"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "do"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "this"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "If"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "they"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "are"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "now"
+      },
+      {
+       "label": "quoting",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "quoting"
+      },
+      {
+       "label": "shipping",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "shipping"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "times"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "of"
+      },
+      {
+       "label": "30",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "30"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "days"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "from"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "now"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": ","
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "how"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "many"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "units"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "the"
+      },
+      {
+       "label": "backlog",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "backlog"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "?"
+      },
+      {
+       "label": "At",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "At"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "the"
+      },
+      {
+       "label": "minimum",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "minimum"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "capacity"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "number"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": ","
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "be"
+      },
+      {
+       "label": "12,000,000",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "12,000,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "units"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "on"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "back"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "order"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "but"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "we"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "all"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "know"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "the"
+      },
+      {
+       "label": "40,000,000",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "40,000,000"
+      },
+      {
+       "label": "per",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "per"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "quarter"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "is"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "not"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "a"
+      },
+      {
+       "label": "maximum",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "maximum"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "number"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "."
+      },
+      {
+       "label": "How",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "How"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "many"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "units"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "a"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "day"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "do"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "you"
+      },
+      {
+       "label": "think",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "think"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "is"
+      },
+      {
+       "label": "maximum",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "maximum"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "capacity"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "?"
+      },
+      {
+       "label": "At",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "At"
+      },
+      {
+       "label": "500,000",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "500,000"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": ","
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "would"
+      },
+      {
+       "label": "equate",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "equate"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "to"
+      },
+      {
+       "label": "15,000,000",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "15,000,000"
+      },
+      {
+       "label": "currently",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "currently"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "on"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "back"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "order"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "."
+      },
+      {
+       "label": "At",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "At"
+      },
+      {
+       "label": "600,000",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "600,000"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "be"
+      },
+      {
+       "label": "18,000,000",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "18,000,000"
+      },
+      {
+       "label": "....",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "...."
+      },
+      {
+       "label": "Now",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Now"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "the"
+      },
+      {
+       "label": "ship",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "ship"
+      },
+      {
+       "label": "date",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "date"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "and"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "back"
+      },
+      {
+       "label": "orders",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "orders"
+      },
+      {
+       "label": "wo",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "wo"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "n't"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "be"
+      },
+      {
+       "label": "exactly",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "exactly"
+      },
+      {
+       "label": "accurate",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "accurate"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "but"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "it"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "has"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "to"
+      },
+      {
+       "label": "correlate",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "correlate"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "to"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "some"
+      },
+      {
+       "label": "degree",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "degree"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "."
+      },
+      {
+       "label": "Safe",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "Safe"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "to"
+      },
+      {
+       "label": "say",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "say"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "I"
+      },
+      {
+       "label": "bet",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "bet"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "the"
+      },
+      {
+       "label": "#",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "#"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "of"
+      },
+      {
+       "label": "backlog",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "backlog"
+      },
+      {
+       "label": "orders",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "orders"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "that"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Apple"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "has"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "n't"
+      },
+      {
+       "label": "accepted",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "accepted"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "is"
+      },
+      {
+       "label": "2x",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "2x"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "as"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "many"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "as"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "they"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "have"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "."
+      },
+      {
+       "label": "Demand",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "Demand"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "for"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "this"
+      },
+      {
+       "label": "thing",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "thing"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "is"
+      },
+      {
+       "label": "insane",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "insane"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "The"
+      },
+      {
+       "label": "math",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "math"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "is"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "n't"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "that"
+      },
+      {
+       "label": "simple",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "simple"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": ","
+      },
+      {
+       "label": "otherwise",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "otherwise"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "any"
+      },
+      {
+       "label": "random",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "random"
+      },
+      {
+       "label": "schmuck",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "schmuck"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "the"
+      },
+      {
+       "label": "MacRumors",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "MacRumors"
+      },
+      {
+       "label": "comment",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "comment"
+      },
+      {
+       "label": "forums",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "forums"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "could"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "do"
+      },
+      {
+       "label": "Tim",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "Tim"
+      },
+      {
+       "label": "Cook",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "Cook"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "'s"
+      },
+      {
+       "label": "job",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "job"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "."
+      },
+      {
+       "label": "Some",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "Some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "the"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "capacity"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "be"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "in"
+      },
+      {
+       "label": "clearing",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "clearing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "the"
+      },
+      {
+       "label": "backlog",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "backlog"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "of"
+      },
+      {
+       "label": "existing",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "existing"
+      },
+      {
+       "label": "orders",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "orders"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "."
+      },
+      {
+       "label": "Other",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Other"
+      },
+      {
+       "label": "portions",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "portions"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "the"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "capacity"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "be"
+      },
+      {
+       "label": "allocated",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "allocated"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "to"
+      },
+      {
+       "label": "building",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "building"
+      },
+      {
+       "label": "inventory",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "inventory"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "the"
+      },
+      {
+       "label": "launch",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "launch"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "in"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "new"
+      },
+      {
+       "label": "markets",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "markets"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "."
+      },
+      {
+       "label": "Also",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "Also"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": ","
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "there"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "a"
+      },
+      {
+       "label": "production",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "production"
+      },
+      {
+       "label": "ramp",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "ramp"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "The"
+      },
+      {
+       "label": "Day",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "Day"
+      },
+      {
+       "label": "1",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "1"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "yield",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "yield"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "will"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "not"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "be"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "the"
+      },
+      {
+       "label": "same",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "same"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "the"
+      },
+      {
+       "label": "Day",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "Day"
+      },
+      {
+       "label": "300",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "300"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "yield",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "yield"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "The"
+      },
+      {
+       "label": "contract",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "contract"
+      },
+      {
+       "label": "assemblers",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "assemblers"
+      },
+      {
+       "label": "improve",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "improve"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "their"
+      },
+      {
+       "label": "procedures",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "procedures"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "and"
+      },
+      {
+       "label": "yields",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "yields"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "as"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "time"
+      },
+      {
+       "label": "passes",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "passes"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "."
+      },
+      {
+       "label": "Additionally",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Additionally"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": ","
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Apple"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "is"
+      },
+      {
+       "label": "quite",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "quite"
+      },
+      {
+       "label": "aware",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "aware"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "of"
+      },
+      {
+       "label": "seasonal",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "seasonal"
+      },
+      {
+       "label": "variances",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "variances"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "in"
+      },
+      {
+       "label": "product",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "product"
+      },
+      {
+       "label": "sales",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "sales"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "If"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple"
+      },
+      {
+       "label": "needs",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "needs"
+      },
+      {
+       "label": "40",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "40"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "million"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "units"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "for"
+      },
+      {
+       "label": "Q4",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "Q4"
+      },
+      {
+       "label": "CY2012",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "CY2012"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "and"
+      },
+      {
+       "label": "25",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "25"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "million"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "units"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "for"
+      },
+      {
+       "label": "Q2",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "Q2"
+      },
+      {
+       "label": "CY2013",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "CY2013"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": ","
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "they"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "will"
+      },
+      {
+       "label": "communicate",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "communicate"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "this"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "to"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": ","
+      },
+      {
+       "label": "Pegatron",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Pegatron"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": ","
+      },
+      {
+       "label": "etc.",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "etc."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "It"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "be"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "up"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "the"
+      },
+      {
+       "label": "contract",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "contract"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "partners",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "partners"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "to"
+      },
+      {
+       "label": "staff",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "staff"
+      },
+      {
+       "label": "accordingly",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "accordingly"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "."
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "Apple"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "is"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "n't"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "going"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "to"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "pay"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "a"
+      },
+      {
+       "label": "factory",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "factory"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "of"
+      },
+      {
+       "label": "60,000",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "60,000"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "workers"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "to"
+      },
+      {
+       "label": "twiddle",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "twiddle"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "their"
+      },
+      {
+       "label": "thumbs",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "thumbs"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "for"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "one"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "quarter"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "and"
+      },
+      {
+       "label": "neither",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "neither"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "is"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "It"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "be"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "up"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "to"
+      },
+      {
+       "label": "Foxconn",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "Foxconn"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "to"
+      },
+      {
+       "label": "retool",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "retool"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "the"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "line",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "line"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "for"
+      },
+      {
+       "label": "another",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "another"
+      },
+      {
+       "label": "client",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "client"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "or"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "for"
+      },
+      {
+       "label": "another",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "another"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "Apple"
+      },
+      {
+       "label": "product",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "product"
+      },
+      {
+       "label": "line",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "line"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "("
+      },
+      {
+       "label": "e",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "e"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "."
+      },
+      {
+       "label": "g",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "g"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": ","
+      },
+      {
+       "label": "iPad",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "iPad"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "It"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "'s"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "not"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "a"
+      },
+      {
+       "label": "flat",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "flat"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": ","
+      },
+      {
+       "label": "steady",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "steady"
+      },
+      {
+       "label": "demand",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "demand"
+      },
+      {
+       "label": "every",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "every"
+      },
+      {
+       "label": "single",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "single"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "day"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "the"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "year"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "."
+      },
+      {
+       "label": "Except",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "Except"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "the"
+      },
+      {
+       "label": "historical",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "historical"
+      },
+      {
+       "label": "shipments",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "shipments"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "are"
+      },
+      {
+       "label": "relatively",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "relatively"
+      },
+      {
+       "label": "flat",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "flat"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "quarter"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "to"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "quarter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": ","
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "so"
+      },
+      {
+       "label": "though",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "though"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "'s"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "not"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "as"
+      },
+      {
+       "label": "simple",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "simple"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "as"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "I"
+      },
+      {
+       "label": "'ve",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "'ve"
+      },
+      {
+       "label": "laid",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "laid"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "out"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": ","
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "'s"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "not"
+      },
+      {
+       "label": "rocket",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "rocket"
+      },
+      {
+       "label": "science",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "science"
+      },
+      {
+       "label": "either",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "either"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "to"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "take"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "a"
+      },
+      {
+       "label": "reasonable",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "reasonable"
+      },
+      {
+       "label": "guess",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "guess"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "at"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "capacity"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "I"
+      },
+      {
+       "label": "read",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "read"
+      },
+      {
+       "label": "another",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "another"
+      },
+      {
+       "label": "post",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "post"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "where"
+      },
+      {
+       "label": "someone",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "someone"
+      },
+      {
+       "label": "stated",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "stated"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "with"
+      },
+      {
+       "label": "inside",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "inside"
+      },
+      {
+       "label": "knowledge",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "knowledge"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "that"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "capacity"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "was"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "only"
+      },
+      {
+       "label": "150,000",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "150,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "units"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "a"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "."
+      },
+      {
+       "label": "Clearly",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "Clearly"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "that"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "'s"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "off"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "by"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "at"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "least"
+      },
+      {
+       "label": "250,000",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "250,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "units"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "..."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "I"
+      },
+      {
+       "label": "'m",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "'m"
+      },
+      {
+       "label": "pretty",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "pretty"
+      },
+      {
+       "label": "sure",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "sure"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "Apple"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "is"
+      },
+      {
+       "label": "gonna",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "gonna"
+      },
+      {
+       "label": "sell",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "sell"
+      },
+      {
+       "label": "50",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "50"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "million"
+      },
+      {
+       "label": "iPhones",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "iPhones"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "from"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "this"
+      },
+      {
+       "label": "weekend",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "weekend"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "to"
+      },
+      {
+       "label": "Dec",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "Dec"
+      },
+      {
+       "label": "31st",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "31st"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "."
+      },
+      {
+       "label": "Except",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "Except"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "the"
+      },
+      {
+       "label": "historical",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "historical"
+      },
+      {
+       "label": "shipments",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "shipments"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "are"
+      },
+      {
+       "label": "relatively",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "relatively"
+      },
+      {
+       "label": "flat",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "flat"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "quarter"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "to"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "quarter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": ","
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "..."
+      },
+      {
+       "label": "Citation",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "Citation"
+      },
+      {
+       "label": "needed",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "needed"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "."
+      },
+      {
+       "label": "Simply",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "Simply"
+      },
+      {
+       "label": "googling",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "googling"
+      },
+      {
+       "label": "iphone",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "iphone"
+      },
+      {
+       "label": "shipments",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "shipments"
+      },
+      {
+       "label": "per",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "per"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "quarter"
+      },
+      {
+       "label": "finds",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "finds"
+      },
+      {
+       "label": "graphs",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "graphs"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "that"
+      },
+      {
+       "label": "suggest",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "suggest"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "a"
+      },
+      {
+       "label": "far",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "far"
+      },
+      {
+       "label": "different",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "different"
+      },
+      {
+       "label": "picture",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "picture"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "."
+      },
+      {
+       "label": "Two",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "Two"
+      },
+      {
+       "label": "examples",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "examples"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": ":"
+      },
+      {
+       "label": "http://assets.fiercemarkets.com/public/mdano/amis/iphone-quarterlyshipments-new.jpg",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "http://assets.fiercemarkets.com/public/mdano/amis/iphone-quarterlyshipments-new.jpg"
+      },
+      {
+       "label": "http://en.wikipedia.org/wiki/File:IPhone_sales_per_quarter_simple.svg",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "http://en.wikipedia.org/wiki/File:IPhone_sales_per_quarter_simple.svg"
+      },
+      {
+       "label": "And",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "And"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "the"
+      },
+      {
+       "label": "Wikipedia",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "Wikipedia"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "one"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "has"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "a"
+      },
+      {
+       "label": "table",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "table"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "with"
+      },
+      {
+       "label": "links",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "links"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "and"
+      },
+      {
+       "label": "references",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "references"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "to"
+      },
+      {
+       "label": "primary",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "primary"
+      },
+      {
+       "label": "sources",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "sources"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "I"
+      },
+      {
+       "label": "read",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "read"
+      },
+      {
+       "label": "another",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "another"
+      },
+      {
+       "label": "post",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "post"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "where"
+      },
+      {
+       "label": "someone",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "someone"
+      },
+      {
+       "label": "stated",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "stated"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "with"
+      },
+      {
+       "label": "inside",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "inside"
+      },
+      {
+       "label": "knowledge",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "knowledge"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "that"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "capacity"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "was"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "only"
+      },
+      {
+       "label": "150,000",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "150,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "units"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "a"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "."
+      },
+      {
+       "label": "Clearly",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "Clearly"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "that"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "'s"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "off"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "by"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "at"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "least"
+      },
+      {
+       "label": "250,000",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "250,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "units"
+      },
+      {
+       "label": "...",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "..."
+      },
+      {
+       "label": "No",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "No"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": ","
+      },
+      {
+       "label": "150K",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "150K"
+      },
+      {
+       "label": "per",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "per"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "day"
+      },
+      {
+       "label": "actually",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "actually"
+      },
+      {
+       "label": "sounds",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "sounds"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "about"
+      },
+      {
+       "label": "right",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "right"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "for"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "capacity"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "around"
+      },
+      {
+       "label": "launch",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "launch"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "."
+      },
+      {
+       "label": "Assuming",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "Assuming"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "a"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "five"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "-"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "week"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "("
+      },
+      {
+       "label": "35",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "35"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "days"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": ")"
+      },
+      {
+       "label": "pre",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "pre"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "-"
+      },
+      {
+       "label": "launch",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "launch"
+      },
+      {
+       "label": "production",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "production"
+      },
+      {
+       "label": "ramp",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "ramp"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "at"
+      },
+      {
+       "label": "150K",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "150K"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "units"
+      },
+      {
+       "label": "per",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "per"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "day"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": ","
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "would"
+      },
+      {
+       "label": "mean",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "mean"
+      },
+      {
+       "label": "5.25",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "5.25"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "million"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "units"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "in"
+      },
+      {
+       "label": "available",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "available"
+      },
+      {
+       "label": "inventory",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "inventory"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "on"
+      },
+      {
+       "label": "launch",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "launch"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "."
+      },
+      {
+       "label": "And",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "And"
+      },
+      {
+       "label": "guess",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "guess"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "how"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "many"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "units"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "Apple"
+      },
+      {
+       "label": "sold",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "sold"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "first"
+      },
+      {
+       "label": "weekend",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "weekend"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "?"
+      },
+      {
+       "label": "Just",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "Just"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "about"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "that"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": "much"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "and"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "Apple"
+      },
+      {
+       "label": "executives",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "executives"
+      },
+      {
+       "label": "claim",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "claim"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": "that"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "their"
+      },
+      {
+       "label": "sales",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "sales"
+      },
+      {
+       "label": "figures",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "figures"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": "were"
+      },
+      {
+       "label": "supply",
+       "score": 1.0,
+       "start": 621,
+       "end": 622,
+       "tokens": "supply"
+      },
+      {
+       "label": "constrained",
+       "score": 1.0,
+       "start": 622,
+       "end": 623,
+       "tokens": "constrained"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": "."
+      },
+      {
+       "label": "That",
+       "score": 1.0,
+       "start": 624,
+       "end": 625,
+       "tokens": "That"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 625,
+       "end": 626,
+       "tokens": "would"
+      },
+      {
+       "label": "explains",
+       "score": 1.0,
+       "start": 626,
+       "end": 627,
+       "tokens": "explains"
+      },
+      {
+       "label": "why",
+       "score": 1.0,
+       "start": 627,
+       "end": 628,
+       "tokens": "why"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 628,
+       "end": 629,
+       "tokens": "people"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 629,
+       "end": 630,
+       "tokens": "who"
+      },
+      {
+       "label": "ordered",
+       "score": 1.0,
+       "start": 630,
+       "end": 631,
+       "tokens": "ordered"
+      },
+      {
+       "label": "online",
+       "score": 1.0,
+       "start": 631,
+       "end": 632,
+       "tokens": "online"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "on"
+      },
+      {
+       "label": "Sunday",
+       "score": 1.0,
+       "start": 633,
+       "end": 634,
+       "tokens": "Sunday"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 634,
+       "end": 635,
+       "tokens": "or"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "Monday"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 636,
+       "end": 637,
+       "tokens": "are"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 637,
+       "end": 638,
+       "tokens": "still"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 638,
+       "end": 639,
+       "tokens": "their"
+      },
+      {
+       "label": "orders",
+       "score": 1.0,
+       "start": 639,
+       "end": 640,
+       "tokens": "orders"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "\""
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 641,
+       "end": 642,
+       "tokens": "in"
+      },
+      {
+       "label": "processing",
+       "score": 1.0,
+       "start": 642,
+       "end": 643,
+       "tokens": "processing"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 643,
+       "end": 644,
+       "tokens": "\""
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 644,
+       "end": 645,
+       "tokens": "("
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "or"
+      },
+      {
+       "label": "whatever",
+       "score": 1.0,
+       "start": 646,
+       "end": 647,
+       "tokens": "whatever"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 647,
+       "end": 648,
+       "tokens": "the"
+      },
+      {
+       "label": "wording",
+       "score": 1.0,
+       "start": 648,
+       "end": 649,
+       "tokens": "wording"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 649,
+       "end": 650,
+       "tokens": "is"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 650,
+       "end": 651,
+       "tokens": ")"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "."
+      },
+      {
+       "label": "With",
+       "score": 1.0,
+       "start": 652,
+       "end": 653,
+       "tokens": "With"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 653,
+       "end": 654,
+       "tokens": "a"
+      },
+      {
+       "label": "150K",
+       "score": 1.0,
+       "start": 654,
+       "end": 655,
+       "tokens": "150K"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 655,
+       "end": 656,
+       "tokens": "capacity"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 656,
+       "end": 657,
+       "tokens": ","
+      },
+      {
+       "label": "clearing",
+       "score": 1.0,
+       "start": 657,
+       "end": 658,
+       "tokens": "clearing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 658,
+       "end": 659,
+       "tokens": "the"
+      },
+      {
+       "label": "backlog",
+       "score": 1.0,
+       "start": 659,
+       "end": 660,
+       "tokens": "backlog"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "will"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "take"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "a"
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 663,
+       "end": 664,
+       "tokens": "while"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 664,
+       "end": 665,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 665,
+       "end": 666,
+       "tokens": "If"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 666,
+       "end": 667,
+       "tokens": "Apple"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 667,
+       "end": 668,
+       "tokens": "can"
+      },
+      {
+       "label": "ship",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "ship"
+      },
+      {
+       "label": "40,000,000",
+       "score": 1.0,
+       "start": 669,
+       "end": 670,
+       "tokens": "40,000,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 670,
+       "end": 671,
+       "tokens": "units"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 671,
+       "end": 672,
+       "tokens": "a"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "quarter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 673,
+       "end": 674,
+       "tokens": ","
+      },
+      {
+       "label": "every",
+       "score": 1.0,
+       "start": 674,
+       "end": 675,
+       "tokens": "every"
+      },
+      {
+       "label": "quarter",
+       "score": 1.0,
+       "start": 675,
+       "end": 676,
+       "tokens": "quarter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 676,
+       "end": 677,
+       "tokens": ","
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "that"
+      },
+      {
+       "label": "puts",
+       "score": 1.0,
+       "start": 678,
+       "end": 679,
+       "tokens": "puts"
+      },
+      {
+       "label": "minimum",
+       "score": 1.0,
+       "start": 679,
+       "end": 680,
+       "tokens": "minimum"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 680,
+       "end": 681,
+       "tokens": "capacity"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 681,
+       "end": 682,
+       "tokens": "at"
+      },
+      {
+       "label": "roughly",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "roughly"
+      },
+      {
+       "label": "400,000",
+       "score": 1.0,
+       "start": 683,
+       "end": 684,
+       "tokens": "400,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 684,
+       "end": 685,
+       "tokens": "units"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 685,
+       "end": 686,
+       "tokens": "a"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 686,
+       "end": 687,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 687,
+       "end": 688,
+       "tokens": "."
+      },
+      {
+       "label": "Minimum",
+       "score": 1.0,
+       "start": 688,
+       "end": 689,
+       "tokens": "Minimum"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 689,
+       "end": 690,
+       "tokens": "."
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 690,
+       "end": 691,
+       "tokens": "We"
+      },
+      {
+       "label": "know",
+       "score": 1.0,
+       "start": 691,
+       "end": 692,
+       "tokens": "know"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "they"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "can"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 694,
+       "end": 695,
+       "tokens": "do"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 695,
+       "end": 696,
+       "tokens": "this"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 696,
+       "end": 697,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 697,
+       "end": 698,
+       "tokens": "If"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 698,
+       "end": 699,
+       "tokens": "they"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 699,
+       "end": 700,
+       "tokens": "are"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 700,
+       "end": 701,
+       "tokens": "now"
+      },
+      {
+       "label": "quoting",
+       "score": 1.0,
+       "start": 701,
+       "end": 702,
+       "tokens": "quoting"
+      },
+      {
+       "label": "shipping",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "shipping"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 703,
+       "end": 704,
+       "tokens": "times"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 704,
+       "end": 705,
+       "tokens": "of"
+      },
+      {
+       "label": "30",
+       "score": 1.0,
+       "start": 705,
+       "end": 706,
+       "tokens": "30"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 706,
+       "end": 707,
+       "tokens": "days"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 707,
+       "end": 708,
+       "tokens": "from"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 708,
+       "end": 709,
+       "tokens": "now"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 709,
+       "end": 710,
+       "tokens": ","
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 710,
+       "end": 711,
+       "tokens": "how"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 711,
+       "end": 712,
+       "tokens": "many"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 712,
+       "end": 713,
+       "tokens": "units"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 713,
+       "end": 714,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 714,
+       "end": 715,
+       "tokens": "the"
+      },
+      {
+       "label": "backlog",
+       "score": 1.0,
+       "start": 715,
+       "end": 716,
+       "tokens": "backlog"
+      },
+      {
+       "label": "?",
+       "score": 1.0,
+       "start": 716,
+       "end": 717,
+       "tokens": "?"
+      },
+      {
+       "label": "At",
+       "score": 1.0,
+       "start": 717,
+       "end": 718,
+       "tokens": "At"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 718,
+       "end": 719,
+       "tokens": "the"
+      },
+      {
+       "label": "minimum",
+       "score": 1.0,
+       "start": 719,
+       "end": 720,
+       "tokens": "minimum"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 720,
+       "end": 721,
+       "tokens": "capacity"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 721,
+       "end": 722,
+       "tokens": "number"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 722,
+       "end": 723,
+       "tokens": ","
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 723,
+       "end": 724,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 724,
+       "end": 725,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 725,
+       "end": 726,
+       "tokens": "be"
+      },
+      {
+       "label": "12,000,000",
+       "score": 1.0,
+       "start": 726,
+       "end": 727,
+       "tokens": "12,000,000"
+      },
+      {
+       "label": "units",
+       "score": 1.0,
+       "start": 727,
+       "end": 728,
+       "tokens": "units"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 728,
+       "end": 729,
+       "tokens": "on"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 729,
+       "end": 730,
+       "tokens": "back"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 730,
+       "end": 731,
+       "tokens": "order"
+      },
+      {
+       "label": "Well",
+       "score": 1.0,
+       "start": 731,
+       "end": 732,
+       "tokens": "Well"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 732,
+       "end": 733,
+       "tokens": ","
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 733,
+       "end": 734,
+       "tokens": "no"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 734,
+       "end": 735,
+       "tokens": "because"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 735,
+       "end": 736,
+       "tokens": "the"
+      },
+      {
+       "label": "entire",
+       "score": 1.0,
+       "start": 736,
+       "end": 737,
+       "tokens": "entire"
+      },
+      {
+       "label": "manufacturing",
+       "score": 1.0,
+       "start": 737,
+       "end": 738,
+       "tokens": "manufacturing"
+      },
+      {
+       "label": "capacity",
+       "score": 1.0,
+       "start": 738,
+       "end": 739,
+       "tokens": "capacity"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 739,
+       "end": 740,
+       "tokens": "is"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 740,
+       "end": 741,
+       "tokens": "not"
+      },
+      {
+       "label": "sent",
+       "score": 1.0,
+       "start": 741,
+       "end": 742,
+       "tokens": "sent"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 742,
+       "end": 743,
+       "tokens": "out"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 743,
+       "end": 744,
+       "tokens": "to"
+      },
+      {
+       "label": "orders",
+       "score": 1.0,
+       "start": 744,
+       "end": 745,
+       "tokens": "orders"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 745,
+       "end": 746,
+       "tokens": "from"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 746,
+       "end": 747,
+       "tokens": "their"
+      },
+      {
+       "label": "online",
+       "score": 1.0,
+       "start": 747,
+       "end": 748,
+       "tokens": "online"
+      },
+      {
+       "label": "store",
+       "score": 1.0,
+       "start": 748,
+       "end": 749,
+       "tokens": "store"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 749,
+       "end": 750,
+       "tokens": "."
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 750,
+       "end": 751,
+       "tokens": "I"
+      },
+      {
+       "label": "walked",
+       "score": 1.0,
+       "start": 751,
+       "end": 752,
+       "tokens": "walked"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 752,
+       "end": 753,
+       "tokens": "in"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 753,
+       "end": 754,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 754,
+       "end": 755,
+       "tokens": "the"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 755,
+       "end": 756,
+       "tokens": "Apple"
+      },
+      {
+       "label": "store",
+       "score": 1.0,
+       "start": 756,
+       "end": 757,
+       "tokens": "store"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 757,
+       "end": 758,
+       "tokens": "in"
+      },
+      {
+       "label": "Montreal",
+       "score": 1.0,
+       "start": 758,
+       "end": 759,
+       "tokens": "Montreal"
+      },
+      {
+       "label": "today",
+       "score": 1.0,
+       "start": 759,
+       "end": 760,
+       "tokens": "today"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 760,
+       "end": 761,
+       "tokens": "and"
+      },
+      {
+       "label": "bought",
+       "score": 1.0,
+       "start": 761,
+       "end": 762,
+       "tokens": "bought"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 762,
+       "end": 763,
+       "tokens": "one"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 763,
+       "end": 764,
+       "tokens": "\""
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 764,
+       "end": 765,
+       "tokens": "off"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 765,
+       "end": 766,
+       "tokens": "the"
+      },
+      {
+       "label": "shelf",
+       "score": 1.0,
+       "start": 766,
+       "end": 767,
+       "tokens": "shelf"
+      },
+      {
+       "label": "\"",
+       "score": 1.0,
+       "start": 767,
+       "end": 768,
+       "tokens": "\""
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 768,
+       "end": 769,
+       "tokens": ","
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 769,
+       "end": 770,
+       "tokens": "with"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 770,
+       "end": 771,
+       "tokens": "no"
+      },
+      {
+       "label": "reservation",
+       "score": 1.0,
+       "start": 771,
+       "end": 772,
+       "tokens": "reservation"
+      },
+      {
+       "label": "/",
+       "score": 1.0,
+       "start": 772,
+       "end": 773,
+       "tokens": "/"
+      },
+      {
+       "label": "pre",
+       "score": 1.0,
+       "start": 773,
+       "end": 774,
+       "tokens": "pre"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 774,
+       "end": 775,
+       "tokens": "-"
+      },
+      {
+       "label": "order",
+       "score": 1.0,
+       "start": 775,
+       "end": 776,
+       "tokens": "order"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 776,
+       "end": 777,
+       "tokens": ","
+      },
+      {
+       "label": "less",
+       "score": 1.0,
+       "start": 777,
+       "end": 778,
+       "tokens": "less"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 778,
+       "end": 779,
+       "tokens": "than"
+      },
+      {
+       "label": "30",
+       "score": 1.0,
+       "start": 779,
+       "end": 780,
+       "tokens": "30"
+      },
+      {
+       "label": "minutes",
+       "score": 1.0,
+       "start": 780,
+       "end": 781,
+       "tokens": "minutes"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 781,
+       "end": 782,
+       "tokens": "to"
+      },
+      {
+       "label": "wait",
+       "score": 1.0,
+       "start": 782,
+       "end": 783,
+       "tokens": "wait"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 783,
+       "end": 784,
+       "tokens": "for"
+      },
+      {
+       "label": "activation",
+       "score": 1.0,
+       "start": 784,
+       "end": 785,
+       "tokens": "activation"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 785,
+       "end": 786,
+       "tokens": "."
+      },
+      {
+       "label": "Tons",
+       "score": 1.0,
+       "start": 786,
+       "end": 787,
+       "tokens": "Tons"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 787,
+       "end": 788,
+       "tokens": "are"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 788,
+       "end": 789,
+       "tokens": "being"
+      },
+      {
+       "label": "sent",
+       "score": 1.0,
+       "start": 789,
+       "end": 790,
+       "tokens": "sent"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 790,
+       "end": 791,
+       "tokens": "to"
+      },
+      {
+       "label": "carriers",
+       "score": 1.0,
+       "start": 791,
+       "end": 792,
+       "tokens": "carriers"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 792,
+       "end": 793,
+       "tokens": ","
+      },
+      {
+       "label": "tons",
+       "score": 1.0,
+       "start": 793,
+       "end": 794,
+       "tokens": "tons"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 794,
+       "end": 795,
+       "tokens": "to"
+      },
+      {
+       "label": "retail",
+       "score": 1.0,
+       "start": 795,
+       "end": 796,
+       "tokens": "retail"
+      },
+      {
+       "label": "outlets",
+       "score": 1.0,
+       "start": 796,
+       "end": 797,
+       "tokens": "outlets"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 797,
+       "end": 798,
+       "tokens": "and"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 798,
+       "end": 799,
+       "tokens": "some"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 799,
+       "end": 800,
+       "tokens": "are"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 800,
+       "end": 801,
+       "tokens": "being"
+      },
+      {
+       "label": "fielded",
+       "score": 1.0,
+       "start": 801,
+       "end": 802,
+       "tokens": "fielded"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 802,
+       "end": 803,
+       "tokens": "for"
+      },
+      {
+       "label": "online",
+       "score": 1.0,
+       "start": 803,
+       "end": 804,
+       "tokens": "online"
+      },
+      {
+       "label": "orders",
+       "score": 1.0,
+       "start": 804,
+       "end": 805,
+       "tokens": "orders"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 805,
+       "end": 806,
+       "tokens": "."
+      },
+      {
+       "label": "You",
+       "score": 1.0,
+       "start": 806,
+       "end": 807,
+       "tokens": "You"
+      },
+      {
+       "label": "ca",
+       "score": 1.0,
+       "start": 807,
+       "end": 808,
+       "tokens": "ca"
+      },
+      {
+       "label": "n't",
+       "score": 1.0,
+       "start": 808,
+       "end": 809,
+       "tokens": "n't"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 809,
+       "end": 810,
+       "tokens": "make"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 810,
+       "end": 811,
+       "tokens": "such"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 811,
+       "end": 812,
+       "tokens": "a"
+      },
+      {
+       "label": "claim",
+       "score": 1.0,
+       "start": 812,
+       "end": 813,
+       "tokens": "claim"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 813,
+       "end": 814,
+       "tokens": ","
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 814,
+       "end": 815,
+       "tokens": "it"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 815,
+       "end": 816,
+       "tokens": "'s"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 816,
+       "end": 817,
+       "tokens": "just"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 817,
+       "end": 818,
+       "tokens": "not"
+      },
+      {
+       "label": "grounded",
+       "score": 1.0,
+       "start": 818,
+       "end": 819,
+       "tokens": "grounded"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 819,
+       "end": 820,
+       "tokens": "in"
+      },
+      {
+       "label": "reality",
+       "score": 1.0,
+       "start": 820,
+       "end": 821,
+       "tokens": "reality"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 821,
+       "end": 822,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7946400685979906,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7946400685979906,
+        "Apple": 0.10729050950877835,
+        "Apple_Records": 0.04138497575976241,
+        "Apple_II_series": 0.023582606093930647,
+        "Apple_Corps": 0.005420527393448485,
+        "IPhone": 0.00347754362391076,
+        "Apple_II_Plus": 0.0032970087239017954,
+        "Macintosh": 0.003275986716454326,
+        "Apple_(album)": 0.003144980476353398,
+        "IPad": 0.00220434031857388,
+        "Apple_Store": 0.002175303779263496,
+        "Cashew": 0.0020143136610442473,
+        "Mac_Mini": 0.0017102658270393841,
+        "Apple_III": 0.0011971878073609285,
+        "Apple_I": 0.0010641636290420278,
+        "Malus": 0.0010546613352838997,
+        "ITunes": 0.0010356578960017211,
+        "Apple_TV": 0.0009976593755506526,
+        "Apple_Lisa": 0.0010322394763087313,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7946982819800114,
+       "start": 316,
+       "end": 317,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7946982819800114,
+        "Apple": 0.10729592460529662,
+        "Apple_Records": 0.04137688231588845,
+        "Apple_II_series": 0.02358380047266663,
+        "Apple_Corps": 0.0054175621983076575,
+        "IPhone": 0.003477712665702295,
+        "Apple_II_Plus": 0.0032971759567875488,
+        "Macintosh": 0.0032730453126169506,
+        "Apple_(album)": 0.0031451400079061465,
+        "IPad": 0.0022044521350248533,
+        "Apple_Store": 0.00215160954130004,
+        "Cashew": 0.002014415838653452,
+        "Mac_Mini": 0.0017103525815884333,
+        "Apple_III": 0.0011972485349609119,
+        "Apple_I": 0.0010642171744833287,
+        "Malus": 0.001054714833791031,
+        "ITunes": 0.00103571037811918,
+        "Apple_TV": 0.0009977102488335635,
+        "Apple_Lisa": 0.0010040432180615077,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794696735470713,
+       "start": 613,
+       "end": 614,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.794696735470713,
+        "Apple": 0.10729578992280267,
+        "Apple_Records": 0.04137988873052368,
+        "Apple_II_series": 0.02358376981586548,
+        "Apple_Corps": 0.005419449423392014,
+        "IPhone": 0.0034777083484163434,
+        "Apple_II_Plus": 0.0032971716761390026,
+        "Macintosh": 0.0032710110699019097,
+        "Apple_(album)": 0.00314513592425243,
+        "IPad": 0.0022044492727443976,
+        "Apple_Store": 0.0021568567071546785,
+        "Cashew": 0.00201441322313341,
+        "Mac_Mini": 0.001710350360864504,
+        "Apple_III": 0.001197246980402759,
+        "Apple_I": 0.0010642158352044725,
+        "Malus": 0.001054713464347973,
+        "ITunes": 0.0010357090195023731,
+        "Apple_TV": 0.0009977065588107183,
+        "Apple_Lisa": 0.0009976781958281966,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945447599444023,
+       "start": 755,
+       "end": 756,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7945447599444023,
+        "Apple": 0.10728156753630953,
+        "Apple_Records": 0.04138318833537816,
+        "Apple_II_series": 0.023580645455999746,
+        "Apple_Corps": 0.005419928340642956,
+        "IPhone": 0.003477260924010514,
+        "Apple_II_Plus": 0.003296734091153368,
+        "Macintosh": 0.0032881898654498454,
+        "Apple_(album)": 0.003144718479523892,
+        "IPad": 0.002204156684472062,
+        "Apple_Store": 0.002201445200251727,
+        "Cashew": 0.0020141458559348696,
+        "Mac_Mini": 0.0017101233510438654,
+        "Apple_III": 0.0011970880760494458,
+        "Apple_I": 0.0010640754194143178,
+        "Malus": 0.0010545734753025344,
+        "ITunes": 0.001035571764218648,
+        "Apple_TV": 0.0009975827716090032,
+        "Apple_Lisa": 0.0011042444288330115,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Montreal",
+       "score": 0.9316467970444495,
+       "start": 758,
+       "end": 759,
+       "tokens": "Montreal",
+       "labelScoreMap": {
+        "Montreal": 0.9316467970444495,
+        "Montreal_Canadiens": 0.009918408499568997,
+        "Canadian_Open_(tennis)": 0.00954021676860838,
+        "Alfa_Romeo_Montreal": 0.008051852318034966,
+        "Circuit_Gilles_Villeneuve": 0.0073930582995733254,
+        "Anglican_Diocese_of_Montreal": 0.0034403342927530126,
+        "Montreal_Alouettes": 0.0030133478440940347,
+        "Urban_agglomeration_of_Montreal": 0.00253755661167989,
+        "Universit\u00e9_de_Montr\u00e9al": 0.002327982154554991,
+        "1250_Ren\u00e9-L\u00e9vesque": 0.0021837571193973563,
+        "Montreal_(Crusader_castle)": 0.0017811629808047683,
+        "Montreal_Expos": 0.0016835664217552102,
+        "Montreal_World_Film_Festival": 0.0016713673516816215,
+        "Montreal_City_Council": 0.0016591712402783641,
+        "Soci\u00e9t\u00e9_de_transport_de_Montr\u00e9al": 0.0016591853249140137,
+        "Montreal_Road": 0.0015493756150259318,
+        "Central_Station_(Montreal)": 0.0014517761130195604,
+        "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport": 0.0013175780762881976,
+        "1976_Summer_Olympics": 0.0012443819862642236,
+        "2008_Canadian_Grand_Prix": 0.001244380977280168,
+        "Montreal,_Wisconsin": 0.0012199785509828826,
+        "Chinatown,_Montreal": 0.0011955761246859396,
+        "Ubisoft_Montreal": 0.001146809241090983,
+        "Canadian_Grand_Prix": 0.00112237904321384,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945637355469058,
+       "start": 601,
+       "end": 602,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7945637355469058,
+        "Apple": 0.1072833632479028,
+        "Apple_Records": 0.041385702950789756,
+        "Apple_II_series": 0.023581042551700144,
+        "Apple_Corps": 0.005420134332807558,
+        "IPhone": 0.0034773214506854887,
+        "Apple_II_Plus": 0.0032967889396834124,
+        "Macintosh": 0.0032960821852874213,
+        "Apple_(album)": 0.0031447707893770727,
+        "IPad": 0.002204193350283329,
+        "Apple_Store": 0.002200017136356772,
+        "Cashew": 0.0020141793596251665,
+        "Mac_Mini": 0.0017101517975652335,
+        "Apple_III": 0.0011971079910396538,
+        "Apple_I": 0.0010640930192051823,
+        "Malus": 0.0010545910172809405,
+        "ITunes": 0.0010355891834487219,
+        "Apple_TV": 0.0009976222342476457,
+        "Apple_Lisa": 0.0010735129158081442,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947344266492867,
+       "start": 265,
+       "end": 266,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947344266492867,
+        "Apple": 0.10729930297968374,
+        "Apple_Records": 0.04137556033112779,
+        "Apple_II_series": 0.02358454355984903,
+        "Apple_Corps": 0.005417084999223315,
+        "IPhone": 0.0034778202076472314,
+        "Apple_II_Plus": 0.003297280005900073,
+        "Macintosh": 0.0032694988101623834,
+        "Apple_(album)": 0.003145239260254516,
+        "IPad": 0.00220452170163551,
+        "Apple_Store": 0.0021403692938546173,
+        "Cashew": 0.002014479408320327,
+        "Mac_Mini": 0.0017104065558184631,
+        "Apple_III": 0.0011972863168239198,
+        "Apple_I": 0.0010642506858565823,
+        "Malus": 0.0010547481178177676,
+        "ITunes": 0.0010357430271262038,
+        "Apple_TV": 0.0009977343969701732,
+        "Apple_Lisa": 0.0009797036926412915,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7946637199385244,
+       "start": 5,
+       "end": 6,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7946637199385244,
+        "Apple": 0.10729275533439084,
+        "Apple_Records": 0.041389449864317626,
+        "Apple_II_series": 0.023583096293001534,
+        "Apple_Corps": 0.005421181446771218,
+        "IPhone": 0.0034776167548085245,
+        "Apple_II_Plus": 0.003297077091626628,
+        "Macintosh": 0.0032752177055170783,
+        "Apple_(album)": 0.0031450456957298925,
+        "IPad": 0.0022043860314935556,
+        "Apple_Store": 0.0021576685476992767,
+        "Cashew": 0.0020143554330940344,
+        "Mac_Mini": 0.0017103012938639692,
+        "Apple_III": 0.0011972126351874075,
+        "Apple_I": 0.0010641859362095032,
+        "Malus": 0.0010546832064386549,
+        "ITunes": 0.0010356794063939273,
+        "Apple_TV": 0.0009976847462171384,
+        "Apple_Lisa": 0.0010186826387149105,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794626615529704,
+       "start": 454,
+       "end": 455,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.794626615529704,
+        "Apple": 0.10728924512597583,
+        "Apple_Records": 0.041385763559326695,
+        "Apple_II_series": 0.023582330238456132,
+        "Apple_Corps": 0.005421240173960502,
+        "IPhone": 0.0034775047456566052,
+        "Apple_II_Plus": 0.003296970019332904,
+        "Macintosh": 0.003277608168396672,
+        "Apple_(album)": 0.0031449435525218047,
+        "IPad": 0.0022043144384627966,
+        "Apple_Store": 0.002179572598895652,
+        "Cashew": 0.0020142900118740995,
+        "Mac_Mini": 0.0017102457475610378,
+        "Apple_III": 0.0011971737517615915,
+        "Apple_I": 0.00106415128914718,
+        "Malus": 0.0010546489529693432,
+        "ITunes": 0.001035645740212021,
+        "Apple_TV": 0.000997646865257218,
+        "Apple_Lisa": 0.001040089490528105,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984899523393567,
+       "start": 337,
+       "end": 338,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9984899523393567,
+        "Apple_Inc.": 0.0015100476606433458,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 0.9843771790119022,
+       "start": 187,
+       "end": 189,
+       "tokens": "Tim Cook",
+       "labelScoreMap": {
+        "Tim_Cook": 0.9843771790119022,
+        "Steve_Jobs": 0.015622820988097773,
+        "<unk_wid>": 2.8278863514206446e-43
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947148216284039,
+       "start": 150,
+       "end": 151,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947148216284039,
+        "Apple": 0.1072974767444601,
+        "Apple_Records": 0.04137882351993192,
+        "Apple_II_series": 0.023584141664291694,
+        "Apple_Corps": 0.00541759192449028,
+        "IPhone": 0.0034777621343225016,
+        "Apple_II_Plus": 0.003297223702171119,
+        "Macintosh": 0.003271464046451253,
+        "Apple_(album)": 0.0031451855522773584,
+        "IPad": 0.002204484057384469,
+        "Apple_Store": 0.0021424161939623586,
+        "Cashew": 0.002014445009152221,
+        "Mac_Mini": 0.0017103773489859683,
+        "Apple_III": 0.0011972658723268868,
+        "Apple_I": 0.001064232630852905,
+        "Malus": 0.0010547301069819834,
+        "ITunes": 0.0010357253551768744,
+        "Apple_TV": 0.0009977189964955183,
+        "Apple_Lisa": 0.0009941135118806382,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984901043614265,
+       "start": 298,
+       "end": 299,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9984901043614265,
+        "Apple_Inc.": 0.0015098956385734361,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7946870150816016,
+       "start": 356,
+       "end": 357,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7946870150816016,
+        "Apple": 0.10729486308998472,
+        "Apple_Records": 0.04137690697570724,
+        "Apple_II_series": 0.02358356875980055,
+        "Apple_Corps": 0.005417523294471968,
+        "IPhone": 0.003477678562119732,
+        "Apple_II_Plus": 0.003297143508390478,
+        "Macintosh": 0.0032752501326106832,
+        "Apple_(album)": 0.0031451090537486836,
+        "IPad": 0.0022044304390290426,
+        "Apple_Store": 0.0021575900746389474,
+        "Cashew": 0.0020143960129716354,
+        "Mac_Mini": 0.0017103357484671753,
+        "Apple_III": 0.0011972367517444555,
+        "Apple_I": 0.0010642066930950064,
+        "Malus": 0.0010547044533917604,
+        "ITunes": 0.0010357001675453017,
+        "Apple_TV": 0.0009976958618373645,
+        "Apple_Lisa": 0.0010086453388438,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984863062350158,
+       "start": 344,
+       "end": 345,
+       "tokens": "Foxconn",
+       "labelScoreMap": {
+        "Foxconn": 0.9984863062350158,
+        "Apple_Inc.": 0.0015136937649841474,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Pegatron",
+       "score": 0.7107734766627963,
+       "start": 300,
+       "end": 301,
+       "tokens": "Pegatron",
+       "labelScoreMap": {
+        "Pegatron": 0.7107734766627963,
+        "Asus": 0.28922652333720356,
+        "<unk_wid>": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7946400685979906,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7946982819800114,
+       "start": 316,
+       "end": 317,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794696735470713,
+       "start": 613,
+       "end": 614,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945447599444023,
+       "start": 755,
+       "end": 756,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Montreal",
+       "score": 0.9316467970444495,
+       "start": 758,
+       "end": 759,
+       "tokens": "Montreal",
+       "labelScoreMap": {
+        "8674139|Montreal": 0.9316467970444495,
+        "5922806|Circuit_Gilles_Villeneuve": 0.0073930582995733254,
+        "6155642|Universit\u00e9_de_Montr\u00e9al": 0.002327982154554991,
+        "8604593|Central_Station_(Montreal)": 0.0014517761130195604,
+        "6296296|Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport": 0.0013175780762881976,
+        "5263397|Montreal,_Wisconsin": 0.0012199785509828826
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7945637355469058,
+       "start": 601,
+       "end": 602,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947344266492867,
+       "start": 265,
+       "end": 266,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7946637199385244,
+       "start": 5,
+       "end": 6,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794626615529704,
+       "start": 454,
+       "end": 455,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984899523393567,
+       "start": 337,
+       "end": 338,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Tim_Cook",
+       "score": 0.9843771790119022,
+       "start": 187,
+       "end": 189,
+       "tokens": "Tim Cook",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947148216284039,
+       "start": 150,
+       "end": 151,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984901043614265,
+       "start": 298,
+       "end": 299,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7946870150816016,
+       "start": 356,
+       "end": 357,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Foxconn",
+       "score": 0.9984863062350158,
+       "start": 344,
+       "end": 345,
+       "tokens": "Foxconn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Pegatron",
+       "score": 0.7107734766627963,
+       "start": 300,
+       "end": 301,
+       "tokens": "Pegatron",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

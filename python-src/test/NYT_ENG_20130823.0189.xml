@@ -1,0 +1,4305 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130823.0189.xml",
+ "text": "PHOTOJOURNALIST IS GANG-RAPED IN MUMBAI, ONE SUSPECT IN CUSTODY\nEDS: SUBS throughout for complete writethru; UPDATES extensively and OMITS references to attackers\u2019 alleged accusations against the male journalist; OMITS dateline.) ; (This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nA female photographer with an English language magazine was raped by five men in Mumbai, India, on Thursday evening, undercutting Mumbai\u2019s image as the rare Indian city where women can safely move about in public spaces.\nThe assault echoed the gang rape and murder of a woman in New Delhi in December, which set off an unprecedented wave of protests.\nThe woman, 22, arrived at the abandoned, desolate compound of Shakti Mills, a defunct textile factory, around 6 p.m., accompanied by a male colleague. She was taking photographs of the area, now a trendy hub for media and advertising companies, for a magazine article about Mumbai\u2019s tenements for workers who were once employed in the mills.\nUnder Indian law, the authorities may not release the name of a rape victim or, in this case, the name of her employer.\nThe authorities said that five men accosted and assaulted the two journalists inside the compound. The male journalist was tied up and beaten before the young woman was raped. Doctors said she had suffered external and internal injuries but that she was expected to recover.\nOn Friday morning, in an unusually rapid response, the Mumbai police arrested one of the five attackers, and the police said they had identified the others.\n\u201cOne of the five has been arrested and he admitted he was there along with some others,\u201d Singh said at a news conference Friday afternoon. The police have released sketches of the five men.\nWhile Mumbai, India\u2019s financial capital, is widely considered one of the country\u2019s safest cities, recent events have brought that into question. According to statistics from the Praja Foundation, a nonprofit organization in Mumbai, 207 rape cases were registered in the city in 2011 and 2012, a 15 percent increase over 2010. The number of rapes reported in India is believed to be much lower than the actual number.",
+ "tokens": [
+  "PHOTOJOURNALIST",
+  "IS",
+  "GANG",
+  "-",
+  "RAPED",
+  "IN",
+  "MUMBAI",
+  ",",
+  "ONE",
+  "SUSPECT",
+  "IN",
+  "CUSTODY",
+  "EDS",
+  ":",
+  "SUBS",
+  "throughout",
+  "for",
+  "complete",
+  "writethru",
+  ";",
+  "UPDATES",
+  "extensively",
+  "and",
+  "OMITS",
+  "references",
+  "to",
+  "attackers",
+  "\u2019",
+  "alleged",
+  "accusations",
+  "against",
+  "the",
+  "male",
+  "journalist",
+  ";",
+  "OMITS",
+  "dateline",
+  ".",
+  ")",
+  ";",
+  "(",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "A",
+  "female",
+  "photographer",
+  "with",
+  "an",
+  "English",
+  "language",
+  "magazine",
+  "was",
+  "raped",
+  "by",
+  "five",
+  "men",
+  "in",
+  "Mumbai",
+  ",",
+  "India",
+  ",",
+  "on",
+  "Thursday",
+  "evening",
+  ",",
+  "undercutting",
+  "Mumbai",
+  "\u2019s",
+  "image",
+  "as",
+  "the",
+  "rare",
+  "Indian",
+  "city",
+  "where",
+  "women",
+  "can",
+  "safely",
+  "move",
+  "about",
+  "in",
+  "public",
+  "spaces",
+  ".",
+  "The",
+  "assault",
+  "echoed",
+  "the",
+  "gang",
+  "rape",
+  "and",
+  "murder",
+  "of",
+  "a",
+  "woman",
+  "in",
+  "New",
+  "Delhi",
+  "in",
+  "December",
+  ",",
+  "which",
+  "set",
+  "off",
+  "an",
+  "unprecedented",
+  "wave",
+  "of",
+  "protests",
+  ".",
+  "The",
+  "woman",
+  ",",
+  "22",
+  ",",
+  "arrived",
+  "at",
+  "the",
+  "abandoned",
+  ",",
+  "desolate",
+  "compound",
+  "of",
+  "Shakti",
+  "Mills",
+  ",",
+  "a",
+  "defunct",
+  "textile",
+  "factory",
+  ",",
+  "around",
+  "6",
+  "p",
+  ".",
+  "m",
+  ".",
+  ",",
+  "accompanied",
+  "by",
+  "a",
+  "male",
+  "colleague",
+  ".",
+  "She",
+  "was",
+  "taking",
+  "photographs",
+  "of",
+  "the",
+  "area",
+  ",",
+  "now",
+  "a",
+  "trendy",
+  "hub",
+  "for",
+  "media",
+  "and",
+  "advertising",
+  "companies",
+  ",",
+  "for",
+  "a",
+  "magazine",
+  "article",
+  "about",
+  "Mumbai",
+  "\u2019s",
+  "tenements",
+  "for",
+  "workers",
+  "who",
+  "were",
+  "once",
+  "employed",
+  "in",
+  "the",
+  "mills",
+  ".",
+  "Under",
+  "Indian",
+  "law",
+  ",",
+  "the",
+  "authorities",
+  "may",
+  "not",
+  "release",
+  "the",
+  "name",
+  "of",
+  "a",
+  "rape",
+  "victim",
+  "or",
+  ",",
+  "in",
+  "this",
+  "case",
+  ",",
+  "the",
+  "name",
+  "of",
+  "her",
+  "employer",
+  ".",
+  "The",
+  "authorities",
+  "said",
+  "that",
+  "five",
+  "men",
+  "accosted",
+  "and",
+  "assaulted",
+  "the",
+  "two",
+  "journalists",
+  "inside",
+  "the",
+  "compound",
+  ".",
+  "The",
+  "male",
+  "journalist",
+  "was",
+  "tied",
+  "up",
+  "and",
+  "beaten",
+  "before",
+  "the",
+  "young",
+  "woman",
+  "was",
+  "raped",
+  ".",
+  "Doctors",
+  "said",
+  "she",
+  "had",
+  "suffered",
+  "external",
+  "and",
+  "internal",
+  "injuries",
+  "but",
+  "that",
+  "she",
+  "was",
+  "expected",
+  "to",
+  "recover",
+  ".",
+  "On",
+  "Friday",
+  "morning",
+  ",",
+  "in",
+  "an",
+  "unusually",
+  "rapid",
+  "response",
+  ",",
+  "the",
+  "Mumbai",
+  "police",
+  "arrested",
+  "one",
+  "of",
+  "the",
+  "five",
+  "attackers",
+  ",",
+  "and",
+  "the",
+  "police",
+  "said",
+  "they",
+  "had",
+  "identified",
+  "the",
+  "others",
+  ".",
+  "\u201c",
+  "One",
+  "of",
+  "the",
+  "five",
+  "has",
+  "been",
+  "arrested",
+  "and",
+  "he",
+  "admitted",
+  "he",
+  "was",
+  "there",
+  "along",
+  "with",
+  "some",
+  "others",
+  ",",
+  "\u201d",
+  "Singh",
+  "said",
+  "at",
+  "a",
+  "news",
+  "conference",
+  "Friday",
+  "afternoon",
+  ".",
+  "The",
+  "police",
+  "have",
+  "released",
+  "sketches",
+  "of",
+  "the",
+  "five",
+  "men",
+  ".",
+  "While",
+  "Mumbai",
+  ",",
+  "India",
+  "\u2019s",
+  "financial",
+  "capital",
+  ",",
+  "is",
+  "widely",
+  "considered",
+  "one",
+  "of",
+  "the",
+  "country",
+  "\u2019s",
+  "safest",
+  "cities",
+  ",",
+  "recent",
+  "events",
+  "have",
+  "brought",
+  "that",
+  "into",
+  "question",
+  ".",
+  "According",
+  "to",
+  "statistics",
+  "from",
+  "the",
+  "Praja",
+  "Foundation",
+  ",",
+  "a",
+  "nonprofit",
+  "organization",
+  "in",
+  "Mumbai",
+  ",",
+  "207",
+  "rape",
+  "cases",
+  "were",
+  "registered",
+  "in",
+  "the",
+  "city",
+  "in",
+  "2011",
+  "and",
+  "2012",
+  ",",
+  "a",
+  "15",
+  "percent",
+  "increase",
+  "over",
+  "2010",
+  ".",
+  "The",
+  "number",
+  "of",
+  "rapes",
+  "reported",
+  "in",
+  "India",
+  "is",
+  "believed",
+  "to",
+  "be",
+  "much",
+  "lower",
+  "than",
+  "the",
+  "actual",
+  "number",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   49,
+   110,
+   136,
+   170,
+   206,
+   233,
+   249,
+   264,
+   281,
+   311,
+   340,
+   350,
+   377,
+   411,
+   429
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "Singh"
+      },
+      {
+       "label": "India",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "India"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "India",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "India"
+      },
+      {
+       "label": "India",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "Indian"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "India",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "India"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 149,
+       "end": 151,
+       "tokens": "Shakti Mills"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "New_Delhi",
+       "score": 1.0,
+       "start": 122,
+       "end": 124,
+       "tokens": "New Delhi"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 63,
+       "end": 65,
+       "tokens": "New York"
+      },
+      {
+       "label": "India",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Indian"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "MUMBAI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "Singh"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "India"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "India"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "Indian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "India"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 149,
+       "end": 151,
+       "tokens": "Shakti Mills"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 122,
+       "end": 124,
+       "tokens": "New Delhi"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 63,
+       "end": 65,
+       "tokens": "New York"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Indian"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "MUMBAI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PHOTOJOURNALIST",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "PHOTOJOURNALIST"
+      },
+      {
+       "label": "IS",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "IS"
+      },
+      {
+       "label": "GANG",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "GANG"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "-"
+      },
+      {
+       "label": "RAPED",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "RAPED"
+      },
+      {
+       "label": "IN",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "IN"
+      },
+      {
+       "label": "MUMBAI",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "MUMBAI"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": ","
+      },
+      {
+       "label": "ONE",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "ONE"
+      },
+      {
+       "label": "SUSPECT",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "SUSPECT"
+      },
+      {
+       "label": "IN",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "IN"
+      },
+      {
+       "label": "CUSTODY",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "CUSTODY"
+      },
+      {
+       "label": "EDS",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "EDS"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": ":"
+      },
+      {
+       "label": "SUBS",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "SUBS"
+      },
+      {
+       "label": "throughout",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "throughout"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "for"
+      },
+      {
+       "label": "complete",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "complete"
+      },
+      {
+       "label": "writethru",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "writethru"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ";"
+      },
+      {
+       "label": "UPDATES",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "UPDATES"
+      },
+      {
+       "label": "extensively",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "extensively"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "and"
+      },
+      {
+       "label": "OMITS",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "OMITS"
+      },
+      {
+       "label": "references",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "references"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "to"
+      },
+      {
+       "label": "attackers",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "attackers"
+      },
+      {
+       "label": "\u2019",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "\u2019"
+      },
+      {
+       "label": "alleged",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "alleged"
+      },
+      {
+       "label": "accusations",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "accusations"
+      },
+      {
+       "label": "against",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "against"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "the"
+      },
+      {
+       "label": "male",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "male"
+      },
+      {
+       "label": "journalist",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "journalist"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": ";"
+      },
+      {
+       "label": "OMITS",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "OMITS"
+      },
+      {
+       "label": "dateline",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "dateline"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": ";"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "("
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": ";"
+      },
+      {
+       "label": "A",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "A"
+      },
+      {
+       "label": "female",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "female"
+      },
+      {
+       "label": "photographer",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "photographer"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "with"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "an"
+      },
+      {
+       "label": "English",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "English"
+      },
+      {
+       "label": "language",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "language"
+      },
+      {
+       "label": "magazine",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "magazine"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "was"
+      },
+      {
+       "label": "raped",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "raped"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "by"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "five"
+      },
+      {
+       "label": "men",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "men"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "in"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": ","
+      },
+      {
+       "label": "India",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "India"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": ","
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "on"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Thursday"
+      },
+      {
+       "label": "evening",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "evening"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": ","
+      },
+      {
+       "label": "undercutting",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "undercutting"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "image",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "image"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "the"
+      },
+      {
+       "label": "rare",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "rare"
+      },
+      {
+       "label": "Indian",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "Indian"
+      },
+      {
+       "label": "city",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "city"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "where"
+      },
+      {
+       "label": "women",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "women"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "can"
+      },
+      {
+       "label": "safely",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "safely"
+      },
+      {
+       "label": "move",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "move"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "about"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "in"
+      },
+      {
+       "label": "public",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "public"
+      },
+      {
+       "label": "spaces",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "spaces"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "The"
+      },
+      {
+       "label": "assault",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "assault"
+      },
+      {
+       "label": "echoed",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "echoed"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "the"
+      },
+      {
+       "label": "gang",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "gang"
+      },
+      {
+       "label": "rape",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "rape"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "and"
+      },
+      {
+       "label": "murder",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "murder"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "a"
+      },
+      {
+       "label": "woman",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "woman"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "in"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "New"
+      },
+      {
+       "label": "Delhi",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "Delhi"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "in"
+      },
+      {
+       "label": "December",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "December"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "which"
+      },
+      {
+       "label": "set",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "set"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "off"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "an"
+      },
+      {
+       "label": "unprecedented",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "unprecedented"
+      },
+      {
+       "label": "wave",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "wave"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "of"
+      },
+      {
+       "label": "protests",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "protests"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "The"
+      },
+      {
+       "label": "woman",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "woman"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": ","
+      },
+      {
+       "label": "22",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "22"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": ","
+      },
+      {
+       "label": "arrived",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "arrived"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "the"
+      },
+      {
+       "label": "abandoned",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "abandoned"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": ","
+      },
+      {
+       "label": "desolate",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "desolate"
+      },
+      {
+       "label": "compound",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "compound"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "of"
+      },
+      {
+       "label": "Shakti",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "Shakti"
+      },
+      {
+       "label": "Mills",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Mills"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "a"
+      },
+      {
+       "label": "defunct",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "defunct"
+      },
+      {
+       "label": "textile",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "textile"
+      },
+      {
+       "label": "factory",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "factory"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": ","
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "around"
+      },
+      {
+       "label": "6",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "6"
+      },
+      {
+       "label": "p",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "p"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "."
+      },
+      {
+       "label": "m",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "m"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": ","
+      },
+      {
+       "label": "accompanied",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "accompanied"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "by"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "a"
+      },
+      {
+       "label": "male",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "male"
+      },
+      {
+       "label": "colleague",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "colleague"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "."
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "She"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "was"
+      },
+      {
+       "label": "taking",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "taking"
+      },
+      {
+       "label": "photographs",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "photographs"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "the"
+      },
+      {
+       "label": "area",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "area"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": ","
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "now"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "a"
+      },
+      {
+       "label": "trendy",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "trendy"
+      },
+      {
+       "label": "hub",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "hub"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "for"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "media"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "and"
+      },
+      {
+       "label": "advertising",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "advertising"
+      },
+      {
+       "label": "companies",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "companies"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": ","
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "a"
+      },
+      {
+       "label": "magazine",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "magazine"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "article"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "about"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "tenements",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "tenements"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "for"
+      },
+      {
+       "label": "workers",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "workers"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "who"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "were"
+      },
+      {
+       "label": "once",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "once"
+      },
+      {
+       "label": "employed",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "employed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "the"
+      },
+      {
+       "label": "mills",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "mills"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "."
+      },
+      {
+       "label": "Under",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "Under"
+      },
+      {
+       "label": "Indian",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "Indian"
+      },
+      {
+       "label": "law",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "law"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "the"
+      },
+      {
+       "label": "authorities",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "authorities"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "may"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "not"
+      },
+      {
+       "label": "release",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "release"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "the"
+      },
+      {
+       "label": "name",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "name"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "a"
+      },
+      {
+       "label": "rape",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "rape"
+      },
+      {
+       "label": "victim",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "victim"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "or"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "in"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "this"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "case"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "the"
+      },
+      {
+       "label": "name",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "name"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "of"
+      },
+      {
+       "label": "her",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "her"
+      },
+      {
+       "label": "employer",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "employer"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "The"
+      },
+      {
+       "label": "authorities",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "authorities"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "that"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "five"
+      },
+      {
+       "label": "men",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "men"
+      },
+      {
+       "label": "accosted",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "accosted"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "and"
+      },
+      {
+       "label": "assaulted",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "assaulted"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "the"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "two"
+      },
+      {
+       "label": "journalists",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "journalists"
+      },
+      {
+       "label": "inside",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "inside"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "the"
+      },
+      {
+       "label": "compound",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "compound"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "The"
+      },
+      {
+       "label": "male",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "male"
+      },
+      {
+       "label": "journalist",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "journalist"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "was"
+      },
+      {
+       "label": "tied",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "tied"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "up"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "and"
+      },
+      {
+       "label": "beaten",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "beaten"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "the"
+      },
+      {
+       "label": "young",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "young"
+      },
+      {
+       "label": "woman",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "woman"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "was"
+      },
+      {
+       "label": "raped",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "raped"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "."
+      },
+      {
+       "label": "Doctors",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "Doctors"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "said"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "she"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "had"
+      },
+      {
+       "label": "suffered",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "suffered"
+      },
+      {
+       "label": "external",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "external"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "and"
+      },
+      {
+       "label": "internal",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "internal"
+      },
+      {
+       "label": "injuries",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "injuries"
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "but"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "that"
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "she"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "was"
+      },
+      {
+       "label": "expected",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "expected"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "to"
+      },
+      {
+       "label": "recover",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "recover"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "."
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "On"
+      },
+      {
+       "label": "Friday",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "Friday"
+      },
+      {
+       "label": "morning",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "morning"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "in"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "an"
+      },
+      {
+       "label": "unusually",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "unusually"
+      },
+      {
+       "label": "rapid",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "rapid"
+      },
+      {
+       "label": "response",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "response"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "the"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "police"
+      },
+      {
+       "label": "arrested",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "arrested"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "the"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "five"
+      },
+      {
+       "label": "attackers",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "attackers"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "the"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "police"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "said"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "they"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "had"
+      },
+      {
+       "label": "identified",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "identified"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "the"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "others"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "One",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "One"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "the"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "five"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "been"
+      },
+      {
+       "label": "arrested",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "arrested"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "and"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "he"
+      },
+      {
+       "label": "admitted",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "admitted"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "was"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "there"
+      },
+      {
+       "label": "along",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "along"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "with"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "some"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "others"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Singh",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "Singh"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "said"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "a"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "news"
+      },
+      {
+       "label": "conference",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "conference"
+      },
+      {
+       "label": "Friday",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "Friday"
+      },
+      {
+       "label": "afternoon",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "afternoon"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "The"
+      },
+      {
+       "label": "police",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "police"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "have"
+      },
+      {
+       "label": "released",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "released"
+      },
+      {
+       "label": "sketches",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "sketches"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "the"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "five"
+      },
+      {
+       "label": "men",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "men"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "."
+      },
+      {
+       "label": "While",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "While"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": ","
+      },
+      {
+       "label": "India",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "India"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "financial",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "financial"
+      },
+      {
+       "label": "capital",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "capital"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "is"
+      },
+      {
+       "label": "widely",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "widely"
+      },
+      {
+       "label": "considered",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "considered"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "one"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "the"
+      },
+      {
+       "label": "country",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "country"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "safest",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "safest"
+      },
+      {
+       "label": "cities",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "cities"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": ","
+      },
+      {
+       "label": "recent",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "recent"
+      },
+      {
+       "label": "events",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "events"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "have"
+      },
+      {
+       "label": "brought",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "brought"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "that"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "into"
+      },
+      {
+       "label": "question",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "question"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "."
+      },
+      {
+       "label": "According",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "According"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "to"
+      },
+      {
+       "label": "statistics",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "statistics"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "the"
+      },
+      {
+       "label": "Praja",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "Praja"
+      },
+      {
+       "label": "Foundation",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "Foundation"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "a"
+      },
+      {
+       "label": "nonprofit",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "nonprofit"
+      },
+      {
+       "label": "organization",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "organization"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "in"
+      },
+      {
+       "label": "Mumbai",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "Mumbai"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": ","
+      },
+      {
+       "label": "207",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "207"
+      },
+      {
+       "label": "rape",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "rape"
+      },
+      {
+       "label": "cases",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "cases"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "were"
+      },
+      {
+       "label": "registered",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "registered"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "the"
+      },
+      {
+       "label": "city",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "city"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "in"
+      },
+      {
+       "label": "2011",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "2011"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "and"
+      },
+      {
+       "label": "2012",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "2012"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "a"
+      },
+      {
+       "label": "15",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "15"
+      },
+      {
+       "label": "percent",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "percent"
+      },
+      {
+       "label": "increase",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "increase"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "over"
+      },
+      {
+       "label": "2010",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "2010"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "The"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "number"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "of"
+      },
+      {
+       "label": "rapes",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "rapes"
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "reported"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "in"
+      },
+      {
+       "label": "India",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "India"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "is"
+      },
+      {
+       "label": "believed",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "believed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "be"
+      },
+      {
+       "label": "much",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "much"
+      },
+      {
+       "label": "lower",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "lower"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "than"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "the"
+      },
+      {
+       "label": "actual",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "actual"
+      },
+      {
+       "label": "number",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "number"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Manmohan_Singh",
+       "score": 0.4739742674824434,
+       "start": 331,
+       "end": 332,
+       "tokens": "Singh",
+       "labelScoreMap": {
+        "Vijay_Singh": 0.21193681136350326,
+        "Manmohan_Singh": 0.4739742674824434,
+        "Simon_Singh": 0.07929712419835593,
+        "Rajendra_Singh": 0.04813545915121766,
+        "Zail_Singh": 0.0943355719206255,
+        "Sadhu_Sundar_Singh": 0.0213596276779774,
+        "Ranbir_Singh": 0.007523600680770149,
+        "Harbhajan_Singh": 0.006461821214831941,
+        "Sanam_Singh": 0.0053399258617655015,
+        "Tarsem_Singh": 0.004337317986720227,
+        "Jeev_Milkha_Singh": 0.006052904203898787,
+        "Boon_Rawd_Brewery": 0.003203879733101489,
+        "Sinhalese_language": 0.004406766909176258,
+        "Jaswant_Singh": 0.0287301620272771,
+        "R._P._Singh": 0.002767137726652481,
+        "Tiger_Jeet_Singh": 0.0021376218616830298,
+        "<unk_wid>": 5.044932324583473e-21
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.9463403197773242,
+       "start": 85,
+       "end": 86,
+       "tokens": "India",
+       "labelScoreMap": {
+        "India": 0.9463403197773242,
+        "India_national_cricket_team": 0.02057704736037215,
+        "India_national_football_team": 0.008782546909953486,
+        "British_Raj": 0.006427672490702673,
+        "South_Asia": 0.004599282667847341,
+        "India_Davis_Cup_team": 0.002570096045461795,
+        "Indian_Armed_Forces": 0.001987587507328298,
+        "Free_Software_Foundation_of_India": 0.0019651766120748317,
+        "Partition_of_India": 0.0014435538452171267,
+        "British_Indian": 0.0014274783724977326,
+        "Femina_Miss_India": 0.0013955627323881787,
+        "Saint_Thomas_Christians": 0.0013122471719064677,
+        "La_India": 0.0011714285069259524,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9492373857612796,
+       "start": 389,
+       "end": 390,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "Mumbai": 0.9492373857612796,
+        "Mumbai_cricket_team": 0.016513611113602132,
+        "2008_Mumbai_attacks": 0.01266204291189026,
+        "Wankhede_Stadium": 0.0051788526245794735,
+        "Indian_Institute_of_Technology_Bombay": 0.004091082021294393,
+        "Chhatrapati_Shivaji_International_Airport": 0.003972896770121318,
+        "Mumbai_Metropolitan_Region": 0.00277470457374672,
+        "Bombay_riots": 0.0024045173481057184,
+        "Mumbai_City_district": 0.001972899739353233,
+        "Mumbai_Indians": 0.0011920071360270016,
+        "<unk_wid>": 5.794081240166124e-29
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9488965183244538,
+       "start": 351,
+       "end": 352,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "Mumbai": 0.9488965183244538,
+        "Mumbai_cricket_team": 0.016662719770923522,
+        "2008_Mumbai_attacks": 0.01266033080801484,
+        "Wankhede_Stadium": 0.0051770982779830105,
+        "Indian_Institute_of_Technology_Bombay": 0.0041886889587904996,
+        "Chhatrapati_Shivaji_International_Airport": 0.004072811084532586,
+        "Mumbai_Metropolitan_Region": 0.0027740943156881496,
+        "Bombay_riots": 0.002403691353924535,
+        "Mumbai_City_district": 0.0019722367819413203,
+        "Mumbai_Indians": 0.0011918103237475964,
+        "<unk_wid>": 8.647712582949328e-26
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9493500430868053,
+       "start": 193,
+       "end": 194,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "Mumbai": 0.9493500430868053,
+        "Mumbai_cricket_team": 0.016486253915462577,
+        "2008_Mumbai_attacks": 0.012640310948881144,
+        "Wankhede_Stadium": 0.005179432518391645,
+        "Indian_Institute_of_Technology_Bombay": 0.004118115276262214,
+        "Chhatrapati_Shivaji_International_Airport": 0.0038811775597393278,
+        "Mumbai_Metropolitan_Region": 0.002774713336545448,
+        "Bombay_riots": 0.0024047368750387214,
+        "Mumbai_City_district": 0.0019731166948899325,
+        "Mumbai_Indians": 0.0011920997879838096,
+        "<unk_wid>": 6.273294970629216e-30
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.9463250070243323,
+       "start": 417,
+       "end": 418,
+       "tokens": "India",
+       "labelScoreMap": {
+        "India": 0.9463250070243323,
+        "India_national_cricket_team": 0.020581438116684718,
+        "India_national_football_team": 0.008782505853034219,
+        "British_Raj": 0.006438350164523627,
+        "South_Asia": 0.004599215087890833,
+        "India_Davis_Cup_team": 0.0025700570202446668,
+        "Indian_Armed_Forces": 0.001987557510831163,
+        "Free_Software_Foundation_of_India": 0.0019651467306740613,
+        "Partition_of_India": 0.001443804439871913,
+        "British_Indian": 0.0014274588906324798,
+        "Femina_Miss_India": 0.0013958212478615316,
+        "Saint_Thomas_Christians": 0.0013122272185936649,
+        "La_India": 0.0011714106948249943,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.6041208387983857,
+       "start": 98,
+       "end": 99,
+       "tokens": "Indian",
+       "labelScoreMap": {
+        "India": 0.6041208387983857,
+        "Indian_Ocean": 0.052660945229616944,
+        "Indigenous_peoples_of_the_Americas": 0.052333797247365955,
+        "Native_Americans_in_the_United_States": 0.0901006305414119,
+        "Indian_people": 0.02949406598412857,
+        "India_national_cricket_team": 0.012117017152810527,
+        "Malaysian_Indian": 0.018454595247807168,
+        "South_Asia": 0.009674747978391986,
+        "Indian_Americans": 0.05118011578150229,
+        "British_Indian": 0.009743292210825304,
+        "History_of_the_Jews_in_India": 0.006917518081446799,
+        "Indian_South_Africans": 0.006868515174300028,
+        "Non-resident_Indian_and_person_of_Indian_origin": 0.010293675350098123,
+        "Indian_English": 0.005445030433296431,
+        "Indian_Plate": 0.005159311665584021,
+        "Indian_(airline)": 0.004686449972427621,
+        "Indian_Army": 0.004702078938177872,
+        "British_Indian_Army": 0.0030435176784566714,
+        "British_Raj": 0.0035240074797469423,
+        "Indo-Canadians": 0.0026273542417163394,
+        "Indians_in_Fiji": 0.0028595803865151684,
+        "Sri_Lankan_Civil_War": 0.0023653191031928265,
+        "First_Nations": 0.004228613231888608,
+        "Indian_(1996_film)": 0.0018623057513742485,
+        "Indian_Australians": 0.0016724233903766903,
+        "Indo-Trinidadian_and_Tobagonian": 0.001433961549680394,
+        "CD44": 0.0012415334128757162,
+        "Tupi_people": 0.0011887579865986094,
+        "<unk_wid>": 3.48131520282372e-27
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9493378467399968,
+       "start": 83,
+       "end": 84,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "Mumbai": 0.9493378467399968,
+        "Mumbai_cricket_team": 0.0164789357346848,
+        "2008_Mumbai_attacks": 0.012640967457642777,
+        "Wankhede_Stadium": 0.00517936968702179,
+        "Indian_Institute_of_Technology_Bombay": 0.00409228468657088,
+        "Chhatrapati_Shivaji_International_Airport": 0.003925911735116094,
+        "Mumbai_Metropolitan_Region": 0.0027747908970646145,
+        "Bombay_riots": 0.002404708164505923,
+        "Mumbai_City_district": 0.0019730928548823707,
+        "Mumbai_Indians": 0.0011920920425139334,
+        "<unk_wid>": 1.1525742821103733e-29
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.9462936127954205,
+       "start": 353,
+       "end": 354,
+       "tokens": "India",
+       "labelScoreMap": {
+        "India": 0.9462936127954205,
+        "India_national_cricket_team": 0.020578669667344184,
+        "India_national_football_team": 0.008782194195610781,
+        "British_Raj": 0.006473564596505412,
+        "South_Asia": 0.004599070731804957,
+        "India_Davis_Cup_team": 0.002569976885133192,
+        "Indian_Armed_Forces": 0.001987495612420592,
+        "Free_Software_Foundation_of_India": 0.001965085447186034,
+        "Partition_of_India": 0.0014436568398308752,
+        "British_Indian": 0.0014274131413704533,
+        "Femina_Miss_India": 0.0013956996266928882,
+        "Saint_Thomas_Christians": 0.0013121862965292791,
+        "La_India": 0.0011713741641514244,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 149,
+       "end": 151,
+       "tokens": "Shakti Mills",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.947652573511969,
+       "start": 292,
+       "end": 293,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "Mumbai": 0.947652573511969,
+        "Mumbai_cricket_team": 0.016634556260493153,
+        "2008_Mumbai_attacks": 0.012636671559574354,
+        "Wankhede_Stadium": 0.005170696280720283,
+        "Indian_Institute_of_Technology_Bombay": 0.005155052311438193,
+        "Chhatrapati_Shivaji_International_Airport": 0.0043825679690308525,
+        "Mumbai_Metropolitan_Region": 0.002802540600707671,
+        "Bombay_riots": 0.002401079892782563,
+        "Mumbai_City_district": 0.001970510192709087,
+        "Mumbai_Indians": 0.0011937514205750022,
+        "<unk_wid>": 4.892382422423359e-20
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9472422820556988,
+       "start": 92,
+       "end": 93,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "Mumbai": 0.9472422820556988,
+        "Mumbai_cricket_team": 0.017072906609709317,
+        "2008_Mumbai_attacks": 0.012890219811678604,
+        "Wankhede_Stadium": 0.005168603180387494,
+        "Indian_Institute_of_Technology_Bombay": 0.0045961407515845674,
+        "Chhatrapati_Shivaji_International_Airport": 0.004684368611988503,
+        "Mumbai_Metropolitan_Region": 0.002782629843801946,
+        "Bombay_riots": 0.0024005971813400233,
+        "Mumbai_City_district": 0.0019700542941610525,
+        "Mumbai_Indians": 0.0011921976596495907,
+        "<unk_wid>": 2.3087250431568914e-23
+       }
+      },
+      {
+       "label": "New_Delhi",
+       "score": 0.4958049732751662,
+       "start": 122,
+       "end": 124,
+       "tokens": "New Delhi",
+       "labelScoreMap": {
+        "New_Delhi": 0.4958049732751662,
+        "Delhi": 0.38840017392474296,
+        "New_Delhi_metro_station": 0.003717473178328593,
+        "New_Delhi_(Lok_Sabha_constituency)": 0.0014080524507005137,
+        "New_Delhi_(1987_film)": 0.0009678620093032424,
+        "Indira_Gandhi_International_Airport": 0.001488170150086284,
+        "New_Delhi_railway_station": 0.10821329501167198,
+        "<unk_wid>": 2.1696829782938434e-29
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.5003166037528506,
+       "start": 63,
+       "end": 65,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.3299888171882612,
+        "New_York_City": 0.15422473443096696,
+        "New_York_(magazine)": 0.5003166037528506,
+        "New_York_(film)": 0.002326709736307085,
+        "Province_of_New_York": 0.0019329580481236338,
+        "New_York_Knicks": 0.0018635523537671214,
+        "Manhattan": 0.0018500074759790063,
+        "New_York_metropolitan_area": 0.0013133677261425558,
+        "New_York's_at-large_congressional_seat": 0.0012149439421644556,
+        "Eastern_Air_Defense_Sector": 0.0008906779622192519,
+        "New_York_Air_National_Guard": 0.0008085580059952933,
+        "Peekskill,_New_York": 0.0006906425618265272,
+        "New_York_Liberty": 0.0006901937025077596,
+        "New_York_Yankees": 0.000656290628094444,
+        "September_11_attacks": 0.0006192054820759779,
+        "New_York_GAA": 0.0006127370027181156,
+        "<unk_wid>": 1.2807607614509675e-40
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.6660308124392549,
+       "start": 207,
+       "end": 208,
+       "tokens": "Indian",
+       "labelScoreMap": {
+        "India": 0.6660308124392549,
+        "Indian_Ocean": 0.05456544678185143,
+        "Indigenous_peoples_of_the_Americas": 0.050887348149755,
+        "Native_Americans_in_the_United_States": 0.06614527664765815,
+        "Indian_people": 0.0282292374416056,
+        "India_national_cricket_team": 0.01233338146410327,
+        "Malaysian_Indian": 0.012385849632367921,
+        "South_Asia": 0.010003669749984094,
+        "Indian_Americans": 0.022241953076804006,
+        "British_Indian": 0.00841472229758979,
+        "History_of_the_Jews_in_India": 0.007237792440765936,
+        "Indian_South_Africans": 0.007046407560478974,
+        "Non-resident_Indian_and_person_of_Indian_origin": 0.007888645783095626,
+        "Indian_English": 0.005613935809394097,
+        "Indian_Plate": 0.005318739935869039,
+        "Indian_(airline)": 0.004902576687534831,
+        "Indian_Army": 0.004803631162338775,
+        "British_Indian_Army": 0.0031402678639542167,
+        "British_Raj": 0.0033932207855153283,
+        "Indo-Canadians": 0.0027077310059260853,
+        "Indians_in_Fiji": 0.0026660832114512177,
+        "Sri_Lankan_Civil_War": 0.0024744651867085873,
+        "First_Nations": 0.0038360926285441422,
+        "Indian_(1996_film)": 0.0019486350903033503,
+        "Indian_Australians": 0.001747622527465457,
+        "Indo-Trinidadian_and_Tobagonian": 0.0015001415346895279,
+        "CD44": 0.00129908639198977,
+        "Tupi_people": 0.0012372267130005034,
+        "<unk_wid>": 1.1853359081793505e-33
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9206411644420154,
+       "start": 6,
+       "end": 7,
+       "tokens": "MUMBAI",
+       "labelScoreMap": {
+        "Mumbai": 0.9206411644420154,
+        "Mumbai_cricket_team": 0.019446908687263866,
+        "2008_Mumbai_attacks": 0.01234157209793179,
+        "Wankhede_Stadium": 0.005031959930831634,
+        "Indian_Institute_of_Technology_Bombay": 0.03019323596806755,
+        "Chhatrapati_Shivaji_International_Airport": 0.004093512590225737,
+        "Mumbai_Metropolitan_Region": 0.002713800617081411,
+        "Bombay_riots": 0.0023370670168839027,
+        "Mumbai_City_district": 0.001947933733000546,
+        "Mumbai_Indians": 0.0012528449166983925,
+        "<unk_wid>": 6.524854814804287e-22
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Manmohan_Singh",
+       "score": 0.4739742674824434,
+       "start": 331,
+       "end": 332,
+       "tokens": "Singh",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "India",
+       "score": 0.9463403197773242,
+       "start": 85,
+       "end": 86,
+       "tokens": "India",
+       "labelScoreMap": {
+        "1269750|India": 0.9463403197773242
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9492373857612796,
+       "start": 389,
+       "end": 390,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "1275339|Mumbai": 0.9492373857612796,
+        "6619706|Wankhede_Stadium": 0.0051788526245794735,
+        "6324619|Indian_Institute_of_Technology_Bombay": 0.004091082021294393,
+        "6301032|Chhatrapati_Shivaji_International_Airport": 0.003972896770121318,
+        "1270836|Mumbai_City_district": 0.001972899739353233
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9488965183244538,
+       "start": 351,
+       "end": 352,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "1275339|Mumbai": 0.9488965183244538,
+        "6619706|Wankhede_Stadium": 0.0051770982779830105,
+        "6324619|Indian_Institute_of_Technology_Bombay": 0.0041886889587904996,
+        "6301032|Chhatrapati_Shivaji_International_Airport": 0.004072811084532586,
+        "1270836|Mumbai_City_district": 0.0019722367819413203
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9493500430868053,
+       "start": 193,
+       "end": 194,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "1275339|Mumbai": 0.9493500430868053,
+        "6619706|Wankhede_Stadium": 0.005179432518391645,
+        "6324619|Indian_Institute_of_Technology_Bombay": 0.004118115276262214,
+        "6301032|Chhatrapati_Shivaji_International_Airport": 0.0038811775597393278,
+        "1270836|Mumbai_City_district": 0.0019731166948899325
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.9463250070243323,
+       "start": 417,
+       "end": 418,
+       "tokens": "India",
+       "labelScoreMap": {
+        "1269750|India": 0.9463250070243323
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.6041208387983857,
+       "start": 98,
+       "end": 99,
+       "tokens": "Indian",
+       "labelScoreMap": {
+        "1269750|India": 0.6041208387983857,
+        "1545739|Indian_Ocean": 0.052660945229616944
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9493378467399968,
+       "start": 83,
+       "end": 84,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "1275339|Mumbai": 0.9493378467399968,
+        "6619706|Wankhede_Stadium": 0.00517936968702179,
+        "6324619|Indian_Institute_of_Technology_Bombay": 0.00409228468657088,
+        "6301032|Chhatrapati_Shivaji_International_Airport": 0.003925911735116094,
+        "1270836|Mumbai_City_district": 0.0019730928548823707
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.9462936127954205,
+       "start": 353,
+       "end": 354,
+       "tokens": "India",
+       "labelScoreMap": {
+        "1269750|India": 0.9462936127954205
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 149,
+       "end": 151,
+       "tokens": "Shakti Mills",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.947652573511969,
+       "start": 292,
+       "end": 293,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "1275339|Mumbai": 0.947652573511969,
+        "6619706|Wankhede_Stadium": 0.005170696280720283,
+        "6324619|Indian_Institute_of_Technology_Bombay": 0.005155052311438193,
+        "6301032|Chhatrapati_Shivaji_International_Airport": 0.0043825679690308525,
+        "1270836|Mumbai_City_district": 0.001970510192709087
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9472422820556988,
+       "start": 92,
+       "end": 93,
+       "tokens": "Mumbai",
+       "labelScoreMap": {
+        "1275339|Mumbai": 0.9472422820556988,
+        "6619706|Wankhede_Stadium": 0.005168603180387494,
+        "6324619|Indian_Institute_of_Technology_Bombay": 0.0045961407515845674,
+        "6301032|Chhatrapati_Shivaji_International_Airport": 0.004684368611988503,
+        "1270836|Mumbai_City_district": 0.0019700542941610525
+       }
+      },
+      {
+       "label": "New_Delhi",
+       "score": 0.4958049732751662,
+       "start": 122,
+       "end": 124,
+       "tokens": "New Delhi",
+       "labelScoreMap": {
+        "8347332|New_Delhi": 0.4958049732751662,
+        "6301872|Indira_Gandhi_International_Airport": 0.001488170150086284
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.5003166037528506,
+       "start": 63,
+       "end": 65,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.3299888171882612,
+        "5128581|New_York_City": 0.15422473443096696,
+        "5128594|Manhattan": 0.0018500074759790063,
+        "5130831|Peekskill,_New_York": 0.0006906425618265272
+       }
+      },
+      {
+       "label": "India",
+       "score": 0.6660308124392549,
+       "start": 207,
+       "end": 208,
+       "tokens": "Indian",
+       "labelScoreMap": {
+        "1269750|India": 0.6660308124392549,
+        "1545739|Indian_Ocean": 0.05456544678185143
+       }
+      },
+      {
+       "label": "Mumbai",
+       "score": 0.9206411644420154,
+       "start": 6,
+       "end": 7,
+       "tokens": "MUMBAI",
+       "labelScoreMap": {
+        "1275339|Mumbai": 0.9206411644420154,
+        "6619706|Wankhede_Stadium": 0.005031959930831634,
+        "6324619|Indian_Institute_of_Technology_Bombay": 0.03019323596806755,
+        "6301032|Chhatrapati_Shivaji_International_Airport": 0.004093512590225737,
+        "1270836|Mumbai_City_district": 0.001947933733000546
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

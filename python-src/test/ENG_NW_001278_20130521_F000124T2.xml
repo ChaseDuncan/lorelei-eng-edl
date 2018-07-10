@@ -1,0 +1,1946 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130521_F000124T2.xml",
+ "text": "2013-05-21T21:07:43\nRussia offers condolences to tornado-struck U.S. state\nRussia offers condolences to tornado-struck U.S. state\nMOSCOW, May 21 (Xinhua) -- President Vladimir Putin sent his condolences to U.S. President Barack Obama on Tuesday over the deadly tornado that struck Oaklahoma City.\nIn his cable, Putin expressed his compassion for relatives of the victims of the powerful twister, the Kremlin press service reported.\nThe tornado struck the southern suburbs of the Oklahoma state capital Monday afternoon, killing at least 51 people and injuring at least 140 others, officials said.\nPutin wished a quick recovery for those injured and stressed Russia's readiness to offer disaster relief assistance.\nEarlier Tuesday, the Emergency Situations Ministry said it would send an aid consignment to the city if requested. Enditem",
+ "tokens": [
+  "2013-05-21T21:07:43",
+  "Russia",
+  "offers",
+  "condolences",
+  "to",
+  "tornado",
+  "-",
+  "struck",
+  "U.S.",
+  "state",
+  "Russia",
+  "offers",
+  "condolences",
+  "to",
+  "tornado",
+  "-",
+  "struck",
+  "U.S.",
+  "state",
+  "MOSCOW",
+  ",",
+  "May",
+  "21",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "President",
+  "Vladimir",
+  "Putin",
+  "sent",
+  "his",
+  "condolences",
+  "to",
+  "U.S.",
+  "President",
+  "Barack",
+  "Obama",
+  "on",
+  "Tuesday",
+  "over",
+  "the",
+  "deadly",
+  "tornado",
+  "that",
+  "struck",
+  "Oaklahoma",
+  "City",
+  ".",
+  "In",
+  "his",
+  "cable",
+  ",",
+  "Putin",
+  "expressed",
+  "his",
+  "compassion",
+  "for",
+  "relatives",
+  "of",
+  "the",
+  "victims",
+  "of",
+  "the",
+  "powerful",
+  "twister",
+  ",",
+  "the",
+  "Kremlin",
+  "press",
+  "service",
+  "reported",
+  ".",
+  "The",
+  "tornado",
+  "struck",
+  "the",
+  "southern",
+  "suburbs",
+  "of",
+  "the",
+  "Oklahoma",
+  "state",
+  "capital",
+  "Monday",
+  "afternoon",
+  ",",
+  "killing",
+  "at",
+  "least",
+  "51",
+  "people",
+  "and",
+  "injuring",
+  "at",
+  "least",
+  "140",
+  "others",
+  ",",
+  "officials",
+  "said",
+  ".",
+  "Putin",
+  "wished",
+  "a",
+  "quick",
+  "recovery",
+  "for",
+  "those",
+  "injured",
+  "and",
+  "stressed",
+  "Russia",
+  "'s",
+  "readiness",
+  "to",
+  "offer",
+  "disaster",
+  "relief",
+  "assistance",
+  ".",
+  "Earlier",
+  "Tuesday",
+  ",",
+  "the",
+  "Emergency",
+  "Situations",
+  "Ministry",
+  "said",
+  "it",
+  "would",
+  "send",
+  "an",
+  "aid",
+  "consignment",
+  "to",
+  "the",
+  "city",
+  "if",
+  "requested",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   49,
+   73,
+   102,
+   121,
+   141,
+   142
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Ministry_of_Emergency_Situations_(Russia)",
+       "score": 1.0,
+       "start": 125,
+       "end": 128,
+       "tokens": "Emergency Situations Ministry"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 36,
+       "end": 38,
+       "tokens": "Barack Obama"
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 1.0,
+       "start": 28,
+       "end": 30,
+       "tokens": "Vladimir Putin"
+      },
+      {
+       "label": "Oklahoma_City",
+       "score": 1.0,
+       "start": 46,
+       "end": 48,
+       "tokens": "Oaklahoma City"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Putin"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Russia"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russia"
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Putin"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russia"
+      },
+      {
+       "label": "Moscow",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "MOSCOW"
+      },
+      {
+       "label": "Presidential_Administration_of_Russia",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Kremlin"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "U.S."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 125,
+       "end": 128,
+       "tokens": "Emergency Situations Ministry"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 36,
+       "end": 38,
+       "tokens": "Barack Obama"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 28,
+       "end": 30,
+       "tokens": "Vladimir Putin"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 46,
+       "end": 48,
+       "tokens": "Oaklahoma City"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Putin"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Russia"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "U.S."
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russia"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Putin"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "U.S."
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russia"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "MOSCOW"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Kremlin"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "U.S."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-05-21T21:07:43",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-05-21T21:07:43"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russia"
+      },
+      {
+       "label": "offers",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "offers"
+      },
+      {
+       "label": "condolences",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "condolences"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "to"
+      },
+      {
+       "label": "tornado",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "tornado"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "-"
+      },
+      {
+       "label": "struck",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "struck"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "U.S."
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "state"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russia"
+      },
+      {
+       "label": "offers",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "offers"
+      },
+      {
+       "label": "condolences",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "condolences"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "to"
+      },
+      {
+       "label": "tornado",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "tornado"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "-"
+      },
+      {
+       "label": "struck",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "struck"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "U.S."
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "state"
+      },
+      {
+       "label": "MOSCOW",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "MOSCOW"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": ","
+      },
+      {
+       "label": "May",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "May"
+      },
+      {
+       "label": "21",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "21"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "--"
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "President"
+      },
+      {
+       "label": "Vladimir",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "Vladimir"
+      },
+      {
+       "label": "Putin",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Putin"
+      },
+      {
+       "label": "sent",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "sent"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "his"
+      },
+      {
+       "label": "condolences",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "condolences"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "to"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "U.S."
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "President"
+      },
+      {
+       "label": "Barack",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Barack"
+      },
+      {
+       "label": "Obama",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "Obama"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "on"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "over"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "the"
+      },
+      {
+       "label": "deadly",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "deadly"
+      },
+      {
+       "label": "tornado",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "tornado"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "that"
+      },
+      {
+       "label": "struck",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "struck"
+      },
+      {
+       "label": "Oaklahoma",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Oaklahoma"
+      },
+      {
+       "label": "City",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "City"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "."
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "In"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "his"
+      },
+      {
+       "label": "cable",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "cable"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": ","
+      },
+      {
+       "label": "Putin",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "Putin"
+      },
+      {
+       "label": "expressed",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "expressed"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "his"
+      },
+      {
+       "label": "compassion",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "compassion"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "for"
+      },
+      {
+       "label": "relatives",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "relatives"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "the"
+      },
+      {
+       "label": "victims",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "victims"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "the"
+      },
+      {
+       "label": "powerful",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "powerful"
+      },
+      {
+       "label": "twister",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "twister"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "the"
+      },
+      {
+       "label": "Kremlin",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Kremlin"
+      },
+      {
+       "label": "press",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "press"
+      },
+      {
+       "label": "service",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "service"
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "reported"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "The"
+      },
+      {
+       "label": "tornado",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "tornado"
+      },
+      {
+       "label": "struck",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "struck"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "the"
+      },
+      {
+       "label": "southern",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "southern"
+      },
+      {
+       "label": "suburbs",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "suburbs"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "the"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "state",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "state"
+      },
+      {
+       "label": "capital",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "capital"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "Monday"
+      },
+      {
+       "label": "afternoon",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "afternoon"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": ","
+      },
+      {
+       "label": "killing",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "killing"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "at"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "least"
+      },
+      {
+       "label": "51",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "51"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "people"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "and"
+      },
+      {
+       "label": "injuring",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "injuring"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "at"
+      },
+      {
+       "label": "least",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "least"
+      },
+      {
+       "label": "140",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "140"
+      },
+      {
+       "label": "others",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "others"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": ","
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "officials"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "."
+      },
+      {
+       "label": "Putin",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Putin"
+      },
+      {
+       "label": "wished",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "wished"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "a"
+      },
+      {
+       "label": "quick",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "quick"
+      },
+      {
+       "label": "recovery",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "recovery"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "for"
+      },
+      {
+       "label": "those",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "those"
+      },
+      {
+       "label": "injured",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "injured"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "and"
+      },
+      {
+       "label": "stressed",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "stressed"
+      },
+      {
+       "label": "Russia",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Russia"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "'s"
+      },
+      {
+       "label": "readiness",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "readiness"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "to"
+      },
+      {
+       "label": "offer",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "offer"
+      },
+      {
+       "label": "disaster",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "disaster"
+      },
+      {
+       "label": "relief",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "relief"
+      },
+      {
+       "label": "assistance",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "assistance"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "."
+      },
+      {
+       "label": "Earlier",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "Earlier"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "the"
+      },
+      {
+       "label": "Emergency",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "Emergency"
+      },
+      {
+       "label": "Situations",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "Situations"
+      },
+      {
+       "label": "Ministry",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "Ministry"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "said"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "it"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "would"
+      },
+      {
+       "label": "send",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "send"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "an"
+      },
+      {
+       "label": "aid",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "aid"
+      },
+      {
+       "label": "consignment",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "consignment"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "the"
+      },
+      {
+       "label": "city",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "city"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "if"
+      },
+      {
+       "label": "requested",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "requested"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 125,
+       "end": 128,
+       "tokens": "Emergency Situations Ministry",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9948082085643621,
+       "start": 36,
+       "end": 38,
+       "tokens": "Barack Obama",
+       "labelScoreMap": {
+        "Barack_Obama": 0.9948082085643621,
+        "2009_Nobel_Peace_Prize": 0.0024431971250925273,
+        "Barack_Obama_presidential_campaign,_2008": 0.0017102400428244768,
+        "Barack_Obama_Sr.": 0.0010383542677208934,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 1.0,
+       "start": 28,
+       "end": 30,
+       "tokens": "Vladimir Putin",
+       "labelScoreMap": {
+        "Vladimir_Putin": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 46,
+       "end": 48,
+       "tokens": "Oaklahoma City",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Oklahoma",
+       "score": 0.804445251995825,
+       "start": 81,
+       "end": 82,
+       "tokens": "Oklahoma",
+       "labelScoreMap": {
+        "Oklahoma": 0.804445251995825,
+        "Oklahoma!": 0.059296671069261696,
+        "University_of_Oklahoma": 0.03165532178618351,
+        "Oklahoma_Sooners_football": 0.02645422479306202,
+        "Oklahoma_County,_Oklahoma": 0.013868100979441075,
+        "Oklahoma!_(1955_film)": 0.010807310859580041,
+        "Oklahoma_Sooners": 0.006895928004914361,
+        "Oklahoma_Air_National_Guard": 0.006620711247887021,
+        "Oklahoma_Sooners_men's_basketball": 0.006061509676474248,
+        "Oklahoma_(song)": 0.0038702001715696156,
+        "Miss_Oklahoma_USA": 0.0029817499847265496,
+        "Oklahoma_City_bombing": 0.002969581503381992,
+        "Oklahoma_Republican_Party": 0.002397577903725948,
+        "USS_Oklahoma_(BB-37)": 0.0022150223597369434,
+        "Oklahoma_Democratic_Party": 0.0019716055350657347,
+        "Miss_Oklahoma_Teen_USA": 0.0019351000857865616,
+        "Episcopal_Diocese_of_Oklahoma": 0.0017525445417975749,
+        "Chimpanzee": 0.0016430093288198264,
+        "Miss_Oklahoma": 0.001594325963835468,
+        "Oklahoma_Department_of_Corrections": 0.0015578110823706224,
+        "Oklahoma_Legislature": 0.0014847964033005247,
+        "Oklahoma_City": 0.001538904882246367,
+        "Oklahoma_National_Guard": 0.001423938907205325,
+        "Governor_of_Oklahoma": 0.0013630870617894007,
+        "Oklahoma_Sooners_baseball": 0.0011318514379236332,
+        "Ed_Ferrara": 0.0009736295679319651,
+        "Oklahoma_Panhandle": 0.0010902328661571933,
+        "<unk_wid>": 1.7981105709395164e-34
+       }
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 0.9219361818347201,
+       "start": 53,
+       "end": 54,
+       "tokens": "Putin",
+       "labelScoreMap": {
+        "Vladimir_Putin": 0.9219361818347201,
+        "American_Enterprise_Institute": 0.005108510064397303,
+        "Beslan_school_siege": 0.0019382888616298651,
+        "Alexander_Litvinenko": 0.07101701923925242,
+        "<unk_wid>": 5.0614064349210236e-23
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.6189758876102754,
+       "start": 112,
+       "end": 113,
+       "tokens": "Russia",
+       "labelScoreMap": {
+        "Russia": 0.6189758876102754,
+        "Russia_national_football_team": 0.022835536519314432,
+        "Russian_Empire": 0.046409160420436905,
+        "Russia_men's_national_ice_hockey_team": 0.005846056173046754,
+        "Russia_and_weapons_of_mass_destruction": 0.002486254040794551,
+        "Russia_Davis_Cup_team": 0.0024549148436221564,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.015759513693974176,
+        "Russia_national_rugby_union_team": 0.002716050556222218,
+        "Russia_national_basketball_team": 0.0029052279794067864,
+        "Russia_men's_national_volleyball_team": 0.006362593857025355,
+        "Miss_Russia": 0.0018862471377961972,
+        "Tsardom_of_Russia": 0.003325654716179117,
+        "Russian_Football_Union": 0.0018179892565938734,
+        "Russia_Fed_Cup_team": 0.0029879560375598215,
+        "Soviet_Union": 0.24684766527481314,
+        "Russian_Ground_Forces": 0.0015311411152065105,
+        "Russia_national_rugby_league_team": 0.0018781552772695333,
+        "National_Anthem_of_Russia": 0.0011893018914167454,
+        "Last_Hero": 0.0011389341605252702,
+        "Russia_national_futsal_team": 0.0012707258138559849,
+        "Russian_Revolution": 0.0010890218258087024,
+        "Russia_women's_national_volleyball_team": 0.003665235842767597,
+        "Russia_women's_national_football_team": 0.0010882434315226657,
+        "Great_Recession_in_Russia": 0.0008802499529310844,
+        "Russian_Professional_Basketball_League": 0.0008586987066803958,
+        "Kievan_Rus'": 0.0009319284998266843,
+        "Russia_women's_national_basketball_team": 0.0008616553651278783,
+        "<unk_wid>": 3.04911908625111e-33
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6761135489605788,
+       "start": 34,
+       "end": 35,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.6761135489605788,
+        "United_States_dollar": 0.22278309972240512,
+        "Billboard_Hot_100": 0.02449294824046587,
+        "American_English": 0.015030226070932778,
+        "Recording_Industry_Association_of_America": 0.010076840608295091,
+        "Us_(Peter_Gabriel_album)": 0.0019835807939024503,
+        "Federal_government_of_the_United_States": 0.003528380306684458,
+        "United_States_men's_national_soccer_team": 0.0012225230556486561,
+        "United_States_Armed_Forces": 0.0012559439793680713,
+        "U.S._state": 0.03834295166513785,
+        "Billboard_charts": 0.0010925844811264566,
+        "United_States_Congress": 0.004077372115454691,
+        "<unk_wid>": 5.451252851856376e-35
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816658649163467,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816658649163467,
+        "Xinhua_District,_Tainan": 0.016982725921839904,
+        "Xinhua_County": 0.001351409161813562,
+        "<unk_wid>": 7.421196169085811e-23
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.6759065793214244,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russia",
+       "labelScoreMap": {
+        "Russia": 0.6759065793214244,
+        "Russia_national_football_team": 0.0240049214562887,
+        "Russian_Empire": 0.04211219250622011,
+        "Russia_men's_national_ice_hockey_team": 0.005724803795271081,
+        "Russia_and_weapons_of_mass_destruction": 0.0026737900237987743,
+        "Russia_Davis_Cup_team": 0.002651801153178172,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.015398813389856388,
+        "Russia_national_rugby_union_team": 0.002630285429451203,
+        "Russia_national_basketball_team": 0.0030405315909948177,
+        "Russia_men's_national_volleyball_team": 0.005142508527149223,
+        "Miss_Russia": 0.002028564743565355,
+        "Tsardom_of_Russia": 0.003087714262437319,
+        "Russian_Football_Union": 0.0019551258285845073,
+        "Russia_Fed_Cup_team": 0.003959819862432256,
+        "Soviet_Union": 0.1940432391217192,
+        "Russian_Ground_Forces": 0.001646236304131956,
+        "Russia_national_rugby_league_team": 0.0018378051826273667,
+        "National_Anthem_of_Russia": 0.0012789647475323137,
+        "Last_Hero": 0.0012248429743035075,
+        "Russia_national_futsal_team": 0.0016077174228006006,
+        "Russian_Revolution": 0.001193362003084789,
+        "Russia_women's_national_volleyball_team": 0.0019602855218808102,
+        "Russia_women's_national_football_team": 0.0011576260448562478,
+        "Great_Recession_in_Russia": 0.0009466465312936244,
+        "Russian_Professional_Basketball_League": 0.0009234706236128206,
+        "Kievan_Rus'": 0.0009376944856306163,
+        "Russia_women's_national_basketball_team": 0.0009246571458737412,
+        "<unk_wid>": 6.146041719140868e-33
+       }
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 0.9470582111588596,
+       "start": 102,
+       "end": 103,
+       "tokens": "Putin",
+       "labelScoreMap": {
+        "Vladimir_Putin": 0.9470582111588596,
+        "American_Enterprise_Institute": 0.004194039819068723,
+        "Beslan_school_siege": 0.0019967333306445526,
+        "Alexander_Litvinenko": 0.046751015691427054,
+        "<unk_wid>": 1.9354479040588878e-24
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6571406008687314,
+       "start": 8,
+       "end": 9,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.6571406008687314,
+        "United_States_dollar": 0.2431825029337984,
+        "Billboard_Hot_100": 0.024509819500550447,
+        "American_English": 0.014938383360119956,
+        "Recording_Industry_Association_of_America": 0.009991079364387286,
+        "Us_(Peter_Gabriel_album)": 0.001966148267517415,
+        "Federal_government_of_the_United_States": 0.0037017761257087042,
+        "United_States_men's_national_soccer_team": 0.0012707577580115764,
+        "United_States_Armed_Forces": 0.0012024992518688774,
+        "U.S._state": 0.03643446133540601,
+        "Billboard_charts": 0.0010830021289258837,
+        "United_States_Congress": 0.0045789691049740846,
+        "<unk_wid>": 9.810904215700022e-33
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.7221661995628507,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russia",
+       "labelScoreMap": {
+        "Russia": 0.7221661995628507,
+        "Russia_national_football_team": 0.022901346462350366,
+        "Russian_Empire": 0.0538877473569833,
+        "Russia_men's_national_ice_hockey_team": 0.005847174296900287,
+        "Russia_and_weapons_of_mass_destruction": 0.002826341657277616,
+        "Russia_Davis_Cup_team": 0.002804615669848528,
+        "Russian_Soviet_Federative_Socialist_Republic": 0.020188182592096527,
+        "Russia_national_rugby_union_team": 0.0027086738792330054,
+        "Russia_national_basketball_team": 0.0030821535415717677,
+        "Russia_men's_national_volleyball_team": 0.003829321777214221,
+        "Miss_Russia": 0.0021446228486915555,
+        "Tsardom_of_Russia": 0.004136312185206848,
+        "Russian_Football_Union": 0.00206666779970616,
+        "Russia_Fed_Cup_team": 0.0038888856928373365,
+        "Soviet_Union": 0.13155596950016255,
+        "Russian_Ground_Forces": 0.0017399864618075644,
+        "Russia_national_rugby_league_team": 0.0019329540381964713,
+        "National_Anthem_of_Russia": 0.0013519064089684498,
+        "Last_Hero": 0.0012947257228277122,
+        "Russia_national_futsal_team": 0.0018400762866682106,
+        "Russian_Revolution": 0.0013006281118242166,
+        "Russia_women's_national_volleyball_team": 0.0014508326600101266,
+        "Russia_women's_national_football_team": 0.0011157568389667594,
+        "Great_Recession_in_Russia": 0.0010006568341624717,
+        "Russian_Professional_Basketball_League": 0.0009761511850953201,
+        "Kievan_Rus'": 0.0009916384265355662,
+        "Russia_women's_national_basketball_team": 0.0009704722020067202,
+        "<unk_wid>": 1.0472907081337744e-32
+       }
+      },
+      {
+       "label": "Moscow",
+       "score": 0.6450866408787838,
+       "start": 19,
+       "end": 20,
+       "tokens": "MOSCOW",
+       "labelScoreMap": {
+        "Moscow": 0.6450866408787838,
+        "Moscow,_Idaho": 0.017174099779283025,
+        "Kremlin_Cup": 0.010732751428945076,
+        "Moscow_Oblast": 0.011378565668255186,
+        "Battle_of_Moscow": 0.006665250646374417,
+        "Grand_Duchy_of_Moscow": 0.0034506596678788443,
+        "Moscow,_Pennsylvania": 0.002023630297166629,
+        "Moscow_Metro": 0.008562942564448337,
+        "Moscow_International_Film_Festival": 0.0026752260104905327,
+        "Moscow,_Maine": 0.001168016978732097,
+        "2007_Kremlin_Cup": 0.0011301023356999642,
+        "Moscow_Governorate": 0.0009469256015391268,
+        "Moscow_State_University": 0.2890051881424006,
+        "<unk_wid>": 8.133217944152262e-17
+       }
+      },
+      {
+       "label": "Kremlin",
+       "score": 0.5767233400649008,
+       "start": 68,
+       "end": 69,
+       "tokens": "Kremlin",
+       "labelScoreMap": {
+        "Kremlin": 0.5767233400649008,
+        "Moscow_Kremlin": 0.33736895538078815,
+        "Kazan_Kremlin": 0.014657385199770489,
+        "Government_of_Russia": 0.018603258880839385,
+        "Red_Square": 0.019071507665042817,
+        "Kremlin_Wall_Necropolis": 0.020916716586648863,
+        "Government_of_the_Soviet_Union": 0.009497242095046834,
+        "Novgorod_Kremlin": 0.0008233073212342529,
+        "Saint_Basil's_Cathedral": 0.0023382867437457917,
+        "<unk_wid>": 2.9514950191319586e-12
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6312995731713326,
+       "start": 17,
+       "end": 18,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.6312995731713326,
+        "United_States_dollar": 0.2726368209324066,
+        "Billboard_Hot_100": 0.024121516185458193,
+        "American_English": 0.014742332098083219,
+        "Recording_Industry_Association_of_America": 0.0098821737455623,
+        "Us_(Peter_Gabriel_album)": 0.0019431237264570201,
+        "Federal_government_of_the_United_States": 0.0049830302893390695,
+        "United_States_men's_national_soccer_team": 0.00128442678030001,
+        "United_States_Armed_Forces": 0.0011664792332093268,
+        "U.S._state": 0.026607377759196287,
+        "Billboard_charts": 0.0010703350387226912,
+        "United_States_Congress": 0.010262811039932504,
+        "<unk_wid>": 3.3075953108821167e-32
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 125,
+       "end": 128,
+       "tokens": "Emergency Situations Ministry",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9948082085643621,
+       "start": 36,
+       "end": 38,
+       "tokens": "Barack Obama",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 1.0,
+       "start": 28,
+       "end": 30,
+       "tokens": "Vladimir Putin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 46,
+       "end": 48,
+       "tokens": "Oaklahoma City",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Oklahoma",
+       "score": 0.804445251995825,
+       "start": 81,
+       "end": 82,
+       "tokens": "Oklahoma",
+       "labelScoreMap": {
+        "4544379|Oklahoma": 0.804445251995825,
+        "4553820|University_of_Oklahoma": 0.03165532178618351,
+        "4544356|Oklahoma_County,_Oklahoma": 0.013868100979441075,
+        "4544349|Oklahoma_City": 0.001538904882246367
+       }
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 0.9219361818347201,
+       "start": 53,
+       "end": 54,
+       "tokens": "Putin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Russia",
+       "score": 0.6189758876102754,
+       "start": 112,
+       "end": 113,
+       "tokens": "Russia",
+       "labelScoreMap": {
+        "2017370|Russia": 0.6189758876102754
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6761135489605788,
+       "start": 34,
+       "end": 35,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.6761135489605788
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816658649163467,
+       "start": 24,
+       "end": 25,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016982725921839904,
+        "1788859|Xinhua_County": 0.001351409161813562
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.6759065793214244,
+       "start": 1,
+       "end": 2,
+       "tokens": "Russia",
+       "labelScoreMap": {
+        "2017370|Russia": 0.6759065793214244
+       }
+      },
+      {
+       "label": "Vladimir_Putin",
+       "score": 0.9470582111588596,
+       "start": 102,
+       "end": 103,
+       "tokens": "Putin",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.6571406008687314,
+       "start": 8,
+       "end": 9,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.6571406008687314
+       }
+      },
+      {
+       "label": "Russia",
+       "score": 0.7221661995628507,
+       "start": 10,
+       "end": 11,
+       "tokens": "Russia",
+       "labelScoreMap": {
+        "2017370|Russia": 0.7221661995628507
+       }
+      },
+      {
+       "label": "Moscow",
+       "score": 0.6450866408787838,
+       "start": 19,
+       "end": 20,
+       "tokens": "MOSCOW",
+       "labelScoreMap": {
+        "524901|Moscow": 0.6450866408787838,
+        "5601538|Moscow,_Idaho": 0.017174099779283025,
+        "524925|Moscow_Oblast": 0.011378565668255186,
+        "5202009|Moscow,_Pennsylvania": 0.002023630297166629,
+        "4972660|Moscow,_Maine": 0.001168016978732097
+       }
+      },
+      {
+       "label": "Kremlin",
+       "score": 0.5767233400649008,
+       "start": 68,
+       "end": 69,
+       "tokens": "Kremlin",
+       "labelScoreMap": {
+        "7289610|Moscow_Kremlin": 0.33736895538078815,
+        "6295575|Red_Square": 0.019071507665042817,
+        "6295574|Saint_Basil's_Cathedral": 0.0023382867437457917
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6312995731713326,
+       "start": 17,
+       "end": 18,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.6312995731713326
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

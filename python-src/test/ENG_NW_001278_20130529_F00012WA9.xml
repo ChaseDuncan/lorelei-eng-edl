@@ -1,0 +1,1704 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130529_F00012WA9.xml",
+ "text": "2013-05-29T21:28:29\nKMT to elect new party chief\nKMT to elect new party chief\nTAIPEI, May 29 (Xinhua) -- The ruling Chinese Kuomintang Party (KMT) in Taiwan is scheduled to elect a new chairperson in July, it was decided at a top-level KMT meeting on Wednesday.\nPotential candidates are required to submit their applications from June 20 to 21. Party members will cast their ballots from July 20 and the result will be announced on July 22.\nKMT Chairman Ma Ying-jeou stressed fair play during the election at Wednesday's meeting, saying guest-feting or gift-giving must be banned during the process.\nMa was twice elected the party's chairman, first in 2005 and then 2009. Enditem",
+ "tokens": [
+  "2013-05-29T21:28:29",
+  "KMT",
+  "to",
+  "elect",
+  "new",
+  "party",
+  "chief",
+  "KMT",
+  "to",
+  "elect",
+  "new",
+  "party",
+  "chief",
+  "TAIPEI",
+  ",",
+  "May",
+  "29",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "The",
+  "ruling",
+  "Chinese",
+  "Kuomintang",
+  "Party",
+  "(",
+  "KMT",
+  ")",
+  "in",
+  "Taiwan",
+  "is",
+  "scheduled",
+  "to",
+  "elect",
+  "a",
+  "new",
+  "chairperson",
+  "in",
+  "July",
+  ",",
+  "it",
+  "was",
+  "decided",
+  "at",
+  "a",
+  "top",
+  "-",
+  "level",
+  "KMT",
+  "meeting",
+  "on",
+  "Wednesday",
+  ".",
+  "Potential",
+  "candidates",
+  "are",
+  "required",
+  "to",
+  "submit",
+  "their",
+  "applications",
+  "from",
+  "June",
+  "20",
+  "to",
+  "21",
+  ".",
+  "Party",
+  "members",
+  "will",
+  "cast",
+  "their",
+  "ballots",
+  "from",
+  "July",
+  "20",
+  "and",
+  "the",
+  "result",
+  "will",
+  "be",
+  "announced",
+  "on",
+  "July",
+  "22",
+  ".",
+  "KMT",
+  "Chairman",
+  "Ma",
+  "Ying",
+  "-",
+  "jeou",
+  "stressed",
+  "fair",
+  "play",
+  "during",
+  "the",
+  "election",
+  "at",
+  "Wednesday",
+  "'s",
+  "meeting",
+  ",",
+  "saying",
+  "guest",
+  "-",
+  "feting",
+  "or",
+  "gift",
+  "-",
+  "giving",
+  "must",
+  "be",
+  "banned",
+  "during",
+  "the",
+  "process",
+  ".",
+  "Ma",
+  "was",
+  "twice",
+  "elected",
+  "the",
+  "party",
+  "'s",
+  "chairman",
+  ",",
+  "first",
+  "in",
+  "2005",
+  "and",
+  "then",
+  "2009",
+  ".",
+  "Enditem"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   54,
+   68,
+   87,
+   119,
+   135,
+   136
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Ma_Ying-jeou",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "Ma"
+      },
+      {
+       "label": "Ma_Ying-jeou",
+       "score": 1.0,
+       "start": 89,
+       "end": 93,
+       "tokens": "Ma Ying - jeou"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "KMT"
+      },
+      {
+       "label": "Taiwan",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Taiwan"
+      },
+      {
+       "label": "Taipei",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "TAIPEI"
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "KMT"
+      },
+      {
+       "label": "China",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "KMT"
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 24,
+       "end": 26,
+       "tokens": "Kuomintang Party"
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "KMT"
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "KMT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "Ma"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 89,
+       "end": 93,
+       "tokens": "Ma Ying - jeou"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "KMT"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Taiwan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "TAIPEI"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "KMT"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "KMT"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 24,
+       "end": 26,
+       "tokens": "Kuomintang Party"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "KMT"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "KMT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-05-29T21:28:29",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-05-29T21:28:29"
+      },
+      {
+       "label": "KMT",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "KMT"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "to"
+      },
+      {
+       "label": "elect",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "elect"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "new"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "party"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "chief"
+      },
+      {
+       "label": "KMT",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "KMT"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "to"
+      },
+      {
+       "label": "elect",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "elect"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "new"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "party"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "chief"
+      },
+      {
+       "label": "TAIPEI",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "TAIPEI"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": ","
+      },
+      {
+       "label": "May",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "May"
+      },
+      {
+       "label": "29",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "29"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "--"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "The"
+      },
+      {
+       "label": "ruling",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "ruling"
+      },
+      {
+       "label": "Chinese",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Chinese"
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Kuomintang"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "Party"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "("
+      },
+      {
+       "label": "KMT",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "KMT"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": ")"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "in"
+      },
+      {
+       "label": "Taiwan",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Taiwan"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "is"
+      },
+      {
+       "label": "scheduled",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "scheduled"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "to"
+      },
+      {
+       "label": "elect",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "elect"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "a"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "new"
+      },
+      {
+       "label": "chairperson",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "chairperson"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "in"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "July"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": ","
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "was"
+      },
+      {
+       "label": "decided",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "decided"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "at"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "a"
+      },
+      {
+       "label": "top",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "top"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "-"
+      },
+      {
+       "label": "level",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "level"
+      },
+      {
+       "label": "KMT",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "KMT"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "meeting"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "on"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "."
+      },
+      {
+       "label": "Potential",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "Potential"
+      },
+      {
+       "label": "candidates",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "candidates"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "are"
+      },
+      {
+       "label": "required",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "required"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "to"
+      },
+      {
+       "label": "submit",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "submit"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "their"
+      },
+      {
+       "label": "applications",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "applications"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "from"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "June"
+      },
+      {
+       "label": "20",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "20"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "to"
+      },
+      {
+       "label": "21",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "21"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "."
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Party"
+      },
+      {
+       "label": "members",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "members"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "will"
+      },
+      {
+       "label": "cast",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "cast"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "their"
+      },
+      {
+       "label": "ballots",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "ballots"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "from"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "July"
+      },
+      {
+       "label": "20",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "20"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "the"
+      },
+      {
+       "label": "result",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "result"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "will"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "be"
+      },
+      {
+       "label": "announced",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "announced"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "on"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "July"
+      },
+      {
+       "label": "22",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "22"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "."
+      },
+      {
+       "label": "KMT",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "KMT"
+      },
+      {
+       "label": "Chairman",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Chairman"
+      },
+      {
+       "label": "Ma",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "Ma"
+      },
+      {
+       "label": "Ying",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "Ying"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "-"
+      },
+      {
+       "label": "jeou",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "jeou"
+      },
+      {
+       "label": "stressed",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "stressed"
+      },
+      {
+       "label": "fair",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "fair"
+      },
+      {
+       "label": "play",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "play"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "during"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "the"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "election"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "at"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "'s"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "meeting"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": ","
+      },
+      {
+       "label": "saying",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "saying"
+      },
+      {
+       "label": "guest",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "guest"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "-"
+      },
+      {
+       "label": "feting",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "feting"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "or"
+      },
+      {
+       "label": "gift",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "gift"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "-"
+      },
+      {
+       "label": "giving",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "giving"
+      },
+      {
+       "label": "must",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "must"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "be"
+      },
+      {
+       "label": "banned",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "banned"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "during"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "the"
+      },
+      {
+       "label": "process",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "process"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "."
+      },
+      {
+       "label": "Ma",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "Ma"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "was"
+      },
+      {
+       "label": "twice",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "twice"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "elected"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "the"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "party"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "'s"
+      },
+      {
+       "label": "chairman",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "chairman"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": ","
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "first"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "in"
+      },
+      {
+       "label": "2005",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "2005"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "and"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "then"
+      },
+      {
+       "label": "2009",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "2009"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "."
+      },
+      {
+       "label": "Enditem",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "Enditem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Master_of_Arts",
+       "score": 0.30570615602861945,
+       "start": 119,
+       "end": 120,
+       "tokens": "Ma",
+       "labelScoreMap": {
+        "Master_of_Arts": 0.30570615602861945,
+        "Massachusetts": 0.10618839999442295,
+        "Master's_degree": 0.06915503371030329,
+        "Monday": 0.029148378440436884,
+        "Master_of_Arts_(Scotland)": 0.018261426979025108,
+        "Maranh\u00e3o": 0.00980597615455516,
+        "United_States_Senate_election_in_Massachusetts,_2012": 0.007683040465553156,
+        "Supreme_Court_of_Indonesia": 0.007650116286304932,
+        "Magister_degree": 0.00807068752540345,
+        "Lieutenant_Governor_of_Massachusetts": 0.06772268193355997,
+        "Mr._T": 0.003133969650240634,
+        "Massachusetts_Attorney_General": 0.0839761694218707,
+        "Maryland": 0.0030830753027867703,
+        "Governor_of_Massachusetts": 0.005210283928562632,
+        "Hand": 0.0026284080747160043,
+        "Marie_Antoinette": 0.0023609293610306046,
+        "Ma_Ying-jeou": 0.2131732392663107,
+        "Horse": 0.0021566408600743776,
+        "Cat": 0.002156640805152674,
+        "Treasurer_and_Receiver-General_of_Massachusetts": 0.04162043793013963,
+        "Morocco": 0.0018563781632451946,
+        "Massachusetts_Supreme_Judicial_Court": 0.0018906968440877067,
+        "MapReduce": 0.0016511799097862136,
+        "M\u00fda": 0.0016174866964103927,
+        "Ma_River": 0.0014826890237935714,
+        "Miriam_A._Ferguson": 0.0013949430941985954,
+        "United_States_Senate_special_election_in_Massachusetts,_2010": 0.0012149341494094303,
+        "<unk_wid>": 3.8357540112414036e-28
+       }
+      },
+      {
+       "label": "Ma_Ying-jeou",
+       "score": 0.9934474652497266,
+       "start": 89,
+       "end": 93,
+       "tokens": "Ma Ying - jeou",
+       "labelScoreMap": {
+        "Ma_Ying-jeou": 0.9934474652497266,
+        "Republic_of_China_presidential_election,_2008": 0.006552534750273434,
+        "<unk_wid>": 4.195282010141959e-41
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816670811995696,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816670811995696,
+        "Xinhua_District,_Tainan": 0.016981906479320845,
+        "Xinhua_County": 0.00135101232110961,
+        "<unk_wid>": 3.9992451286051835e-39
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9251957212258757,
+       "start": 27,
+       "end": 28,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "Kuomintang": 0.9251957212258757,
+        "Egypt": 0.03483635160485652,
+        "Ma_Ying-jeou": 0.028144990836680102,
+        "Hematopoietic_stem_cell_transplantation": 0.0035820978012917103,
+        "Republic_of_China_Military_Academy": 0.003628684049671355,
+        "Military_Order_of_Maria_Theresa": 0.0030704849323199986,
+        "National_Revolutionary_Army": 0.00154166954930483,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Taiwan",
+       "score": 0.9289745411575874,
+       "start": 30,
+       "end": 31,
+       "tokens": "Taiwan",
+       "labelScoreMap": {
+        "Taiwan": 0.9289745411575874,
+        "Taiwan_Province": 0.012767052887915789,
+        "Taiwan_under_Japanese_rule": 0.013909998426899335,
+        "Super_Basketball_League": 0.003145650275180578,
+        "Taiwan_High_Speed_Rail": 0.0032626111643041093,
+        "Episcopal_Diocese_of_Taiwan": 0.0020937939226836704,
+        "Philippines": 0.030527502448383124,
+        "Asus": 0.0018060251300469528,
+        "Green_Party_Taiwan": 0.0012007104886948624,
+        "Chinese_Taipei_national_football_team": 0.0011808661159806336,
+        "Taiwan_Province,_People's_Republic_of_China": 0.0011312479823233678,
+        "<unk_wid>": 6.570054145897219e-37
+       }
+      },
+      {
+       "label": "American_Institute_in_Taiwan",
+       "score": 0.4930242361654867,
+       "start": 13,
+       "end": 14,
+       "tokens": "TAIPEI",
+       "labelScoreMap": {
+        "Taipei": 0.48776997542268774,
+        "Taiwan": 0.007966365893685054,
+        "Taipei_Railway_Station": 0.0023611992648404348,
+        "Taipei_101": 0.002680154003329342,
+        "American_Institute_in_Taiwan": 0.4930242361654867,
+        "Taoyuan_International_Airport": 0.0010202996934317618,
+        "National_Palace_Museum": 0.004636028371661638,
+        "Taipei_Songshan_Airport": 0.0005417411848774453,
+        "<unk_wid>": 3.955645831637578e-33
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9251769579543955,
+       "start": 87,
+       "end": 88,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "Kuomintang": 0.9251769579543955,
+        "Egypt": 0.034879665086288245,
+        "Ma_Ying-jeou": 0.028144477521166764,
+        "Hematopoietic_stem_cell_transplantation": 0.003582031962049505,
+        "Republic_of_China_Military_Academy": 0.0036055687848101795,
+        "Military_Order_of_Maria_Theresa": 0.003070449023478091,
+        "National_Revolutionary_Army": 0.001540849667811737,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Taiwan",
+       "score": 0.3149480854590182,
+       "start": 23,
+       "end": 24,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "Chinese_language": 0.23774504103291366,
+        "China": 0.2334595043673249,
+        "Han_Chinese": 0.047432798957789006,
+        "Chinese_Americans": 0.01481577139285606,
+        "Overseas_Chinese": 0.01660566763125892,
+        "Malaysian_Chinese": 0.02779176733673778,
+        "Standard_Chinese": 0.006365167369433548,
+        "Chinese_Canadians": 0.006103946325389973,
+        "Chinese_Buddhist_canon": 0.005089911071759419,
+        "Chinese_Singaporeans": 0.00630091721141429,
+        "British_Chinese": 0.0039829019950381826,
+        "Chinese_mythology": 0.0033489817718325558,
+        "Traditional_Chinese_characters": 0.003484994153073911,
+        "Mandarin_Chinese": 0.003154551604384635,
+        "Thai_Chinese": 0.0029519193779474814,
+        "Emperor_of_China": 0.008488072685418263,
+        "Chinese_Indonesians": 0.033510521193461956,
+        "Chinese_Filipino": 0.0019843189402266575,
+        "Taiwan": 0.3149480854590182,
+        "Chinese_folk_religion": 0.013521094054938806,
+        "Chinese_people_in_Myanmar": 0.0013807109163684777,
+        "Chinese_New_Year": 0.0015535866665163224,
+        "Chinese_Wikipedia": 0.0011965440227094928,
+        "Traditional_Chinese_medicine": 0.0012754400534648006,
+        "Chinese_Australians": 0.0017860611648292497,
+        "Chinese_Brazilians": 0.0009095901617719267,
+        "Chinese_people_in_Japan": 0.0008121330821215271,
+        "<unk_wid>": 5.002561021774331e-32
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9252092957869066,
+       "start": 1,
+       "end": 2,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "Kuomintang": 0.9252092957869066,
+        "Egypt": 0.0348623852788917,
+        "Ma_Ying-jeou": 0.02814536928277752,
+        "Hematopoietic_stem_cell_transplantation": 0.003582146064239564,
+        "Republic_of_China_Military_Academy": 0.003592248387493258,
+        "Military_Order_of_Maria_Theresa": 0.0030704328993534868,
+        "National_Revolutionary_Army": 0.0015381223003378696,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 24,
+       "end": 26,
+       "tokens": "Kuomintang Party",
+       "labelScoreMap": {
+        "Kuomintang": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9252376387957388,
+       "start": 7,
+       "end": 8,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "Kuomintang": 0.9252376387957388,
+        "Egypt": 0.034828257611183966,
+        "Ma_Ying-jeou": 0.028146152221964645,
+        "Hematopoietic_stem_cell_transplantation": 0.003582245864313634,
+        "Republic_of_China_Military_Academy": 0.003597516193755803,
+        "Military_Order_of_Maria_Theresa": 0.003070512122893204,
+        "National_Revolutionary_Army": 0.0015376771901499272,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9251617583717585,
+       "start": 49,
+       "end": 50,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "Kuomintang": 0.9251617583717585,
+        "Egypt": 0.034863303699044106,
+        "Ma_Ying-jeou": 0.028144051479354323,
+        "Hematopoietic_stem_cell_transplantation": 0.003581978062423206,
+        "Republic_of_China_Military_Academy": 0.0036352515141589935,
+        "Military_Order_of_Maria_Theresa": 0.0030704439067839153,
+        "National_Revolutionary_Army": 0.001543212966476926,
+        "<unk_wid>": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Master_of_Arts",
+       "score": 0.30570615602861945,
+       "start": 119,
+       "end": 120,
+       "tokens": "Ma",
+       "labelScoreMap": {
+        "6254926|Massachusetts": 0.10618839999442295,
+        "3395443|Maranh\u00e3o": 0.00980597615455516,
+        "4361885|Maryland": 0.0030830753027867703,
+        "2542007|Morocco": 0.0018563781632451946,
+        "1575111|Ma_River": 0.0014826890237935714
+       }
+      },
+      {
+       "label": "Ma_Ying-jeou",
+       "score": 0.9934474652497266,
+       "start": 89,
+       "end": 93,
+       "tokens": "Ma Ying - jeou",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816670811995696,
+       "start": 18,
+       "end": 19,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016981906479320845,
+        "1788859|Xinhua_County": 0.00135101232110961
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9251957212258757,
+       "start": 27,
+       "end": 28,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "357994|Egypt": 0.03483635160485652
+       }
+      },
+      {
+       "label": "Taiwan",
+       "score": 0.9289745411575874,
+       "start": 30,
+       "end": 31,
+       "tokens": "Taiwan",
+       "labelScoreMap": {
+        "1668284|Taiwan": 0.9289745411575874,
+        "7280291|Taiwan_Province": 0.012767052887915789,
+        "1694008|Philippines": 0.030527502448383124
+       }
+      },
+      {
+       "label": "American_Institute_in_Taiwan",
+       "score": 0.4930242361654867,
+       "start": 13,
+       "end": 14,
+       "tokens": "TAIPEI",
+       "labelScoreMap": {
+        "7280290|Taipei": 0.48776997542268774,
+        "1668284|Taiwan": 0.007966365893685054,
+        "1668340|Taipei_Railway_Station": 0.0023611992648404348,
+        "1980018|Taoyuan_International_Airport": 0.0010202996934317618,
+        "6729082|National_Palace_Museum": 0.004636028371661638
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9251769579543955,
+       "start": 87,
+       "end": 88,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "357994|Egypt": 0.034879665086288245
+       }
+      },
+      {
+       "label": "Taiwan",
+       "score": 0.3149480854590182,
+       "start": 23,
+       "end": 24,
+       "tokens": "Chinese",
+       "labelScoreMap": {
+        "1814991|China": 0.2334595043673249,
+        "1668284|Taiwan": 0.3149480854590182
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9252092957869066,
+       "start": 1,
+       "end": 2,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "357994|Egypt": 0.0348623852788917
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 1.0,
+       "start": 24,
+       "end": 26,
+       "tokens": "Kuomintang Party",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9252376387957388,
+       "start": 7,
+       "end": 8,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "357994|Egypt": 0.034828257611183966
+       }
+      },
+      {
+       "label": "Kuomintang",
+       "score": 0.9251617583717585,
+       "start": 49,
+       "end": 50,
+       "tokens": "KMT",
+       "labelScoreMap": {
+        "357994|Egypt": 0.034863303699044106
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5605 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131113.0045.xml",
+ "text": "THREE JOURNALISTS AT THE TIMES ARE DEPARTING\nEDS: SUBS for writethru to reflect developments; NEW headline.);\nThree journalists at The New York Times on Tuesday announced plans to leave the newspaper.\nHugo Lindgren, editor of The New York Times Magazine, told his staff in a brief meeting Tuesday afternoon that he would leave The Times at year\u2019s end. Lindgren was hired by The Times in September 2010 after working as executive editor of Bloomberg Businessweek. No successor has been named, a spokeswoman for The Times said. Responding to a request for comment, Lindgren wrote in an email: \u201cI loved editing The Times Magazine over the course of 150-plus issues. Looking forward to the next challenge.\u201d\nAlso Tuesday, CNN announced that it had hired Brian Stelter, a media reporter at The Times, to host its weekly news show \u201cReliable Sources.\u201d The network said that Stelter, 28, would also be a senior media correspondent, reporting on \u201ctrends, personalities and companies across the media spectrum.\u201d\n\u201cI\u2019m equally excited about reporting throughout the week on CNN\u2019s many digital platforms and television networks,\u201d Stelter, who joined The Times in 2007, said in a statement. \u201cCNN is reimagining media coverage at what is the best time ever to be covering media, and I\u2019m very happy to be a part of it.\u201d\nIn addition, Matt Bai, a political correspondent for The New York Times Magazine, said he was joining Yahoo News as its national political columnist. Bai, 45, said in an email that he planned to start at Yahoo in December, probably writing a weekly column \u201cwith some additional columns added on big news days.\u201d\n\u201cIt\u2019s just such a chaotic moment in journalism, and here was a chance to work for a digital entity that combines vast resources and just this vast readership,\u201d he wrote. \u201cI found that really compelling.\u201d\nThe departures follow moves last month by several other well-known Times employees, all of whom were leaving to join digital companies. Richard L. Berke, a longtime political correspondent and senior editor, left for Politico. Howard Beck, an NBA beat reporter, joined Bleacher Report, and David Pogue, a longtime technology columnist, also announced he was joining Yahoo. Nate Silver, whose FiveThirtyEight blog was licensed by The Times in 2010, joined ESPN in the summer.\nNews of Lindgren\u2019s departure was first reported by Capital New York.",
+ "tokens": [
+  "THREE",
+  "JOURNALISTS",
+  "AT",
+  "THE",
+  "TIMES",
+  "ARE",
+  "DEPARTING",
+  "EDS",
+  ":",
+  "SUBS",
+  "for",
+  "writethru",
+  "to",
+  "reflect",
+  "developments",
+  ";",
+  "NEW",
+  "headline",
+  ".",
+  ")",
+  ";",
+  "Three",
+  "journalists",
+  "at",
+  "The",
+  "New",
+  "York",
+  "Times",
+  "on",
+  "Tuesday",
+  "announced",
+  "plans",
+  "to",
+  "leave",
+  "the",
+  "newspaper",
+  ".",
+  "Hugo",
+  "Lindgren",
+  ",",
+  "editor",
+  "of",
+  "The",
+  "New",
+  "York",
+  "Times",
+  "Magazine",
+  ",",
+  "told",
+  "his",
+  "staff",
+  "in",
+  "a",
+  "brief",
+  "meeting",
+  "Tuesday",
+  "afternoon",
+  "that",
+  "he",
+  "would",
+  "leave",
+  "The",
+  "Times",
+  "at",
+  "year",
+  "\u2019s",
+  "end",
+  ".",
+  "Lindgren",
+  "was",
+  "hired",
+  "by",
+  "The",
+  "Times",
+  "in",
+  "September",
+  "2010",
+  "after",
+  "working",
+  "as",
+  "executive",
+  "editor",
+  "of",
+  "Bloomberg",
+  "Businessweek",
+  ".",
+  "No",
+  "successor",
+  "has",
+  "been",
+  "named",
+  ",",
+  "a",
+  "spokeswoman",
+  "for",
+  "The",
+  "Times",
+  "said",
+  ".",
+  "Responding",
+  "to",
+  "a",
+  "request",
+  "for",
+  "comment",
+  ",",
+  "Lindgren",
+  "wrote",
+  "in",
+  "an",
+  "email",
+  ":",
+  "\u201c",
+  "I",
+  "loved",
+  "editing",
+  "The",
+  "Times",
+  "Magazine",
+  "over",
+  "the",
+  "course",
+  "of",
+  "150",
+  "-",
+  "plus",
+  "issues",
+  ".",
+  "Looking",
+  "forward",
+  "to",
+  "the",
+  "next",
+  "challenge",
+  ".",
+  "\u201d",
+  "Also",
+  "Tuesday",
+  ",",
+  "CNN",
+  "announced",
+  "that",
+  "it",
+  "had",
+  "hired",
+  "Brian",
+  "Stelter",
+  ",",
+  "a",
+  "media",
+  "reporter",
+  "at",
+  "The",
+  "Times",
+  ",",
+  "to",
+  "host",
+  "its",
+  "weekly",
+  "news",
+  "show",
+  "\u201c",
+  "Reliable",
+  "Sources",
+  ".",
+  "\u201d",
+  "The",
+  "network",
+  "said",
+  "that",
+  "Stelter",
+  ",",
+  "28",
+  ",",
+  "would",
+  "also",
+  "be",
+  "a",
+  "senior",
+  "media",
+  "correspondent",
+  ",",
+  "reporting",
+  "on",
+  "\u201c",
+  "trends",
+  ",",
+  "personalities",
+  "and",
+  "companies",
+  "across",
+  "the",
+  "media",
+  "spectrum",
+  ".",
+  "\u201d",
+  "\u201c",
+  "I",
+  "\u2019m",
+  "equally",
+  "excited",
+  "about",
+  "reporting",
+  "throughout",
+  "the",
+  "week",
+  "on",
+  "CNN",
+  "\u2019s",
+  "many",
+  "digital",
+  "platforms",
+  "and",
+  "television",
+  "networks",
+  ",",
+  "\u201d",
+  "Stelter",
+  ",",
+  "who",
+  "joined",
+  "The",
+  "Times",
+  "in",
+  "2007",
+  ",",
+  "said",
+  "in",
+  "a",
+  "statement",
+  ".",
+  "\u201c",
+  "CNN",
+  "is",
+  "reimagining",
+  "media",
+  "coverage",
+  "at",
+  "what",
+  "is",
+  "the",
+  "best",
+  "time",
+  "ever",
+  "to",
+  "be",
+  "covering",
+  "media",
+  ",",
+  "and",
+  "I",
+  "\u2019m",
+  "very",
+  "happy",
+  "to",
+  "be",
+  "a",
+  "part",
+  "of",
+  "it",
+  ".",
+  "\u201d",
+  "In",
+  "addition",
+  ",",
+  "Matt",
+  "Bai",
+  ",",
+  "a",
+  "political",
+  "correspondent",
+  "for",
+  "The",
+  "New",
+  "York",
+  "Times",
+  "Magazine",
+  ",",
+  "said",
+  "he",
+  "was",
+  "joining",
+  "Yahoo",
+  "News",
+  "as",
+  "its",
+  "national",
+  "political",
+  "columnist",
+  ".",
+  "Bai",
+  ",",
+  "45",
+  ",",
+  "said",
+  "in",
+  "an",
+  "email",
+  "that",
+  "he",
+  "planned",
+  "to",
+  "start",
+  "at",
+  "Yahoo",
+  "in",
+  "December",
+  ",",
+  "probably",
+  "writing",
+  "a",
+  "weekly",
+  "column",
+  "\u201c",
+  "with",
+  "some",
+  "additional",
+  "columns",
+  "added",
+  "on",
+  "big",
+  "news",
+  "days",
+  ".",
+  "\u201d",
+  "\u201c",
+  "It",
+  "\u2019s",
+  "just",
+  "such",
+  "a",
+  "chaotic",
+  "moment",
+  "in",
+  "journalism",
+  ",",
+  "and",
+  "here",
+  "was",
+  "a",
+  "chance",
+  "to",
+  "work",
+  "for",
+  "a",
+  "digital",
+  "entity",
+  "that",
+  "combines",
+  "vast",
+  "resources",
+  "and",
+  "just",
+  "this",
+  "vast",
+  "readership",
+  ",",
+  "\u201d",
+  "he",
+  "wrote",
+  ".",
+  "\u201c",
+  "I",
+  "found",
+  "that",
+  "really",
+  "compelling",
+  ".",
+  "\u201d",
+  "The",
+  "departures",
+  "follow",
+  "moves",
+  "last",
+  "month",
+  "by",
+  "several",
+  "other",
+  "well",
+  "-",
+  "known",
+  "Times",
+  "employees",
+  ",",
+  "all",
+  "of",
+  "whom",
+  "were",
+  "leaving",
+  "to",
+  "join",
+  "digital",
+  "companies",
+  ".",
+  "Richard",
+  "L.",
+  "Berke",
+  ",",
+  "a",
+  "longtime",
+  "political",
+  "correspondent",
+  "and",
+  "senior",
+  "editor",
+  ",",
+  "left",
+  "for",
+  "Politico",
+  ".",
+  "Howard",
+  "Beck",
+  ",",
+  "an",
+  "NBA",
+  "beat",
+  "reporter",
+  ",",
+  "joined",
+  "Bleacher",
+  "Report",
+  ",",
+  "and",
+  "David",
+  "Pogue",
+  ",",
+  "a",
+  "longtime",
+  "technology",
+  "columnist",
+  ",",
+  "also",
+  "announced",
+  "he",
+  "was",
+  "joining",
+  "Yahoo",
+  ".",
+  "Nate",
+  "Silver",
+  ",",
+  "whose",
+  "FiveThirtyEight",
+  "blog",
+  "was",
+  "licensed",
+  "by",
+  "The",
+  "Times",
+  "in",
+  "2010",
+  ",",
+  "joined",
+  "ESPN",
+  "in",
+  "the",
+  "summer",
+  ".",
+  "News",
+  "of",
+  "Lindgren",
+  "\u2019s",
+  "departure",
+  "was",
+  "first",
+  "reported",
+  "by",
+  "Capital",
+  "New",
+  "York",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   37,
+   68,
+   86,
+   99,
+   128,
+   231,
+   290,
+   361,
+   394,
+   410,
+   438,
+   458,
+   471
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "David_Pogue",
+       "score": 1.0,
+       "start": 423,
+       "end": 425,
+       "tokens": "David Pogue"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 273,
+       "end": 276,
+       "tokens": "New York Times"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 468,
+       "end": 470,
+       "tokens": "New York"
+      },
+      {
+       "label": "CNN",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "CNN"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "Times"
+      },
+      {
+       "label": "Yahoo!",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "ESPN"
+      },
+      {
+       "label": "CNN",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "CNN"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "Times"
+      },
+      {
+       "label": "Bloomberg_News",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Bloomberg"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 43,
+       "end": 46,
+       "tokens": "New York Times"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "Times"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Times"
+      },
+      {
+       "label": "Matt_Bai",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "Bai"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "Brian_Stelter",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "Stelter"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 273,
+       "end": 275,
+       "tokens": "New York"
+      },
+      {
+       "label": "Yahoo!",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 25,
+       "end": 28,
+       "tokens": "New York Times"
+      },
+      {
+       "label": "Matt_Bai",
+       "score": 1.0,
+       "start": 265,
+       "end": 267,
+       "tokens": "Matt Bai"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "Times"
+      },
+      {
+       "label": "CNN",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "CNN"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 394,
+       "end": 397,
+       "tokens": "Richard L. Berke"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "Brian_Stelter",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "Stelter"
+      },
+      {
+       "label": "Nate_Silver",
+       "score": 1.0,
+       "start": 438,
+       "end": 440,
+       "tokens": "Nate Silver"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "Times"
+      },
+      {
+       "label": "Brian_Stelter",
+       "score": 1.0,
+       "start": 145,
+       "end": 147,
+       "tokens": "Brian Stelter"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 37,
+       "end": 39,
+       "tokens": "Hugo Lindgren"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "Yahoo!",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": "Politico",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "Politico"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 467,
+       "end": 470,
+       "tokens": "Capital New York"
+      },
+      {
+       "label": "National_Basketball_Association",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "NBA"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 43,
+       "end": 45,
+       "tokens": "New York"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 25,
+       "end": 27,
+       "tokens": "New York"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 410,
+       "end": 412,
+       "tokens": "Howard Beck"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Times"
+      },
+      {
+       "label": "The_New_York_Times_Company",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Times"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 423,
+       "end": 425,
+       "tokens": "David Pogue"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 273,
+       "end": 276,
+       "tokens": "New York Times"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 468,
+       "end": 470,
+       "tokens": "New York"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "CNN"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "Times"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "ESPN"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "CNN"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "Times"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Bloomberg"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 43,
+       "end": 46,
+       "tokens": "New York Times"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "Times"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Times"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "Bai"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "Stelter"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 273,
+       "end": 275,
+       "tokens": "New York"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 25,
+       "end": 28,
+       "tokens": "New York Times"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 265,
+       "end": 267,
+       "tokens": "Matt Bai"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "Times"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "CNN"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 394,
+       "end": 397,
+       "tokens": "Richard L. Berke"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "Stelter"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 438,
+       "end": 440,
+       "tokens": "Nate Silver"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "Times"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 145,
+       "end": 147,
+       "tokens": "Brian Stelter"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 37,
+       "end": 39,
+       "tokens": "Hugo Lindgren"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "Politico"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 467,
+       "end": 470,
+       "tokens": "Capital New York"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "NBA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 43,
+       "end": 45,
+       "tokens": "New York"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 25,
+       "end": 27,
+       "tokens": "New York"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 410,
+       "end": 412,
+       "tokens": "Howard Beck"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Times"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Times"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "THREE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "THREE"
+      },
+      {
+       "label": "JOURNALISTS",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "JOURNALISTS"
+      },
+      {
+       "label": "AT",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "AT"
+      },
+      {
+       "label": "THE",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "THE"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "ARE",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "ARE"
+      },
+      {
+       "label": "DEPARTING",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "DEPARTING"
+      },
+      {
+       "label": "EDS",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "EDS"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": ":"
+      },
+      {
+       "label": "SUBS",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "SUBS"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "for"
+      },
+      {
+       "label": "writethru",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "writethru"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "to"
+      },
+      {
+       "label": "reflect",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "reflect"
+      },
+      {
+       "label": "developments",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "developments"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": ";"
+      },
+      {
+       "label": "NEW",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "NEW"
+      },
+      {
+       "label": "headline",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "headline"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": ";"
+      },
+      {
+       "label": "Three",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Three"
+      },
+      {
+       "label": "journalists",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "journalists"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "at"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "The"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Times"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "on"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": "announced",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "announced"
+      },
+      {
+       "label": "plans",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "plans"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "to"
+      },
+      {
+       "label": "leave",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "leave"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "the"
+      },
+      {
+       "label": "newspaper",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "newspaper"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "."
+      },
+      {
+       "label": "Hugo",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "Hugo"
+      },
+      {
+       "label": "Lindgren",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": ","
+      },
+      {
+       "label": "editor",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "editor"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "of"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "The"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Times"
+      },
+      {
+       "label": "Magazine",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Magazine"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": ","
+      },
+      {
+       "label": "told",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "told"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "his"
+      },
+      {
+       "label": "staff",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "staff"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "a"
+      },
+      {
+       "label": "brief",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "brief"
+      },
+      {
+       "label": "meeting",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "meeting"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": "afternoon",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "afternoon"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "he"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "would"
+      },
+      {
+       "label": "leave",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "leave"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "The"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "Times"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "at"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "year"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "end"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "."
+      },
+      {
+       "label": "Lindgren",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "was"
+      },
+      {
+       "label": "hired",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "hired"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "by"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "The"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "Times"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "in"
+      },
+      {
+       "label": "September",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "September"
+      },
+      {
+       "label": "2010",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "2010"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "after"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "working"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "as"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "executive"
+      },
+      {
+       "label": "editor",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "editor"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "of"
+      },
+      {
+       "label": "Bloomberg",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "Bloomberg"
+      },
+      {
+       "label": "Businessweek",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "Businessweek"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "."
+      },
+      {
+       "label": "No",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "No"
+      },
+      {
+       "label": "successor",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "successor"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "been"
+      },
+      {
+       "label": "named",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "named"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "a"
+      },
+      {
+       "label": "spokeswoman",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "spokeswoman"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "for"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "The"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Times"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "."
+      },
+      {
+       "label": "Responding",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Responding"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "a"
+      },
+      {
+       "label": "request",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "request"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "for"
+      },
+      {
+       "label": "comment",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "comment"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": ","
+      },
+      {
+       "label": "Lindgren",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "wrote",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "wrote"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "in"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "an"
+      },
+      {
+       "label": "email",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "email"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": ":"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "I"
+      },
+      {
+       "label": "loved",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "loved"
+      },
+      {
+       "label": "editing",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "editing"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "The"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Times"
+      },
+      {
+       "label": "Magazine",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "Magazine"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "over"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "the"
+      },
+      {
+       "label": "course",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "course"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "of"
+      },
+      {
+       "label": "150",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "150"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "-"
+      },
+      {
+       "label": "plus",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "plus"
+      },
+      {
+       "label": "issues",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "issues"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "."
+      },
+      {
+       "label": "Looking",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "Looking"
+      },
+      {
+       "label": "forward",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "forward"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "the"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "next"
+      },
+      {
+       "label": "challenge",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "challenge"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Also",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Also"
+      },
+      {
+       "label": "Tuesday",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "Tuesday"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": ","
+      },
+      {
+       "label": "CNN",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "CNN"
+      },
+      {
+       "label": "announced",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "announced"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "that"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "it"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "had"
+      },
+      {
+       "label": "hired",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "hired"
+      },
+      {
+       "label": "Brian",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "Brian"
+      },
+      {
+       "label": "Stelter",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "Stelter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "a"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "media"
+      },
+      {
+       "label": "reporter",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "reporter"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "at"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "The"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "Times"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": ","
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "to"
+      },
+      {
+       "label": "host",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "host"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "its"
+      },
+      {
+       "label": "weekly",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "weekly"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "news"
+      },
+      {
+       "label": "show",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "show"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "Reliable",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "Reliable"
+      },
+      {
+       "label": "Sources",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "Sources"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "The"
+      },
+      {
+       "label": "network",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "network"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "that"
+      },
+      {
+       "label": "Stelter",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "Stelter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": ","
+      },
+      {
+       "label": "28",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "28"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": ","
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "would"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "also"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "be"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "a"
+      },
+      {
+       "label": "senior",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "senior"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "media"
+      },
+      {
+       "label": "correspondent",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "correspondent"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": ","
+      },
+      {
+       "label": "reporting",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "reporting"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "on"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "trends",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "trends"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": ","
+      },
+      {
+       "label": "personalities",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "personalities"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "and"
+      },
+      {
+       "label": "companies",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "companies"
+      },
+      {
+       "label": "across",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "across"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "the"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "media"
+      },
+      {
+       "label": "spectrum",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "spectrum"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "I"
+      },
+      {
+       "label": "\u2019m",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "\u2019m"
+      },
+      {
+       "label": "equally",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "equally"
+      },
+      {
+       "label": "excited",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "excited"
+      },
+      {
+       "label": "about",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "about"
+      },
+      {
+       "label": "reporting",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "reporting"
+      },
+      {
+       "label": "throughout",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "throughout"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "the"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "week"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "on"
+      },
+      {
+       "label": "CNN",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "CNN"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "many",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "many"
+      },
+      {
+       "label": "digital",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "digital"
+      },
+      {
+       "label": "platforms",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "platforms"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "and"
+      },
+      {
+       "label": "television",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "television"
+      },
+      {
+       "label": "networks",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "networks"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Stelter",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "Stelter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "who"
+      },
+      {
+       "label": "joined",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "joined"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "The"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "Times"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "in"
+      },
+      {
+       "label": "2007",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "2007"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "said"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "a"
+      },
+      {
+       "label": "statement",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "statement"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "CNN",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "CNN"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "is"
+      },
+      {
+       "label": "reimagining",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "reimagining"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "media"
+      },
+      {
+       "label": "coverage",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "coverage"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "at"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "what"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "is"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "the"
+      },
+      {
+       "label": "best",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "best"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "time"
+      },
+      {
+       "label": "ever",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "ever"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "be"
+      },
+      {
+       "label": "covering",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "covering"
+      },
+      {
+       "label": "media",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "media"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "and"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "I"
+      },
+      {
+       "label": "\u2019m",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "\u2019m"
+      },
+      {
+       "label": "very",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "very"
+      },
+      {
+       "label": "happy",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "happy"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "be"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "a"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "of"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "it"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "In",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "In"
+      },
+      {
+       "label": "addition",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "addition"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": ","
+      },
+      {
+       "label": "Matt",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "Matt"
+      },
+      {
+       "label": "Bai",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "Bai"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "a"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "political"
+      },
+      {
+       "label": "correspondent",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "correspondent"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "for"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "The"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "Times"
+      },
+      {
+       "label": "Magazine",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "Magazine"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "said"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "was"
+      },
+      {
+       "label": "joining",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "joining"
+      },
+      {
+       "label": "Yahoo",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": "News",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "News"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "as"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "its"
+      },
+      {
+       "label": "national",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "national"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "political"
+      },
+      {
+       "label": "columnist",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "columnist"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "."
+      },
+      {
+       "label": "Bai",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "Bai"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": ","
+      },
+      {
+       "label": "45",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "45"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "said"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "in"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "an"
+      },
+      {
+       "label": "email",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "email"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "that"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "he"
+      },
+      {
+       "label": "planned",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "planned"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "to"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "start"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "at"
+      },
+      {
+       "label": "Yahoo",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "in"
+      },
+      {
+       "label": "December",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "December"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": ","
+      },
+      {
+       "label": "probably",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "probably"
+      },
+      {
+       "label": "writing",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "writing"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "a"
+      },
+      {
+       "label": "weekly",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "weekly"
+      },
+      {
+       "label": "column",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "column"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "with"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "some"
+      },
+      {
+       "label": "additional",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "additional"
+      },
+      {
+       "label": "columns",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "columns"
+      },
+      {
+       "label": "added",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "added"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "on"
+      },
+      {
+       "label": "big",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "big"
+      },
+      {
+       "label": "news",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "news"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "days"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "It"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "just"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "such"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "a"
+      },
+      {
+       "label": "chaotic",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "chaotic"
+      },
+      {
+       "label": "moment",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "moment"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "in"
+      },
+      {
+       "label": "journalism",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "journalism"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "and"
+      },
+      {
+       "label": "here",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "here"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "was"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "a"
+      },
+      {
+       "label": "chance",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "chance"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "to"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "work"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "for"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "a"
+      },
+      {
+       "label": "digital",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "digital"
+      },
+      {
+       "label": "entity",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "entity"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "that"
+      },
+      {
+       "label": "combines",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "combines"
+      },
+      {
+       "label": "vast",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "vast"
+      },
+      {
+       "label": "resources",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "resources"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "and"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "just"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "this"
+      },
+      {
+       "label": "vast",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "vast"
+      },
+      {
+       "label": "readership",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "readership"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "he"
+      },
+      {
+       "label": "wrote",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "wrote"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "I"
+      },
+      {
+       "label": "found",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "found"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "that"
+      },
+      {
+       "label": "really",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "really"
+      },
+      {
+       "label": "compelling",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "compelling"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "The"
+      },
+      {
+       "label": "departures",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "departures"
+      },
+      {
+       "label": "follow",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "follow"
+      },
+      {
+       "label": "moves",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "moves"
+      },
+      {
+       "label": "last",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "last"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "month"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "by"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "several"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "other"
+      },
+      {
+       "label": "well",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "well"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "-"
+      },
+      {
+       "label": "known",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "known"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "Times"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "employees"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": ","
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "all"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "of"
+      },
+      {
+       "label": "whom",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "whom"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "were"
+      },
+      {
+       "label": "leaving",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "leaving"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "to"
+      },
+      {
+       "label": "join",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "join"
+      },
+      {
+       "label": "digital",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "digital"
+      },
+      {
+       "label": "companies",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "companies"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "."
+      },
+      {
+       "label": "Richard",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "Richard"
+      },
+      {
+       "label": "L.",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "L."
+      },
+      {
+       "label": "Berke",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "Berke"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "a"
+      },
+      {
+       "label": "longtime",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "longtime"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "political"
+      },
+      {
+       "label": "correspondent",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "correspondent"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "and"
+      },
+      {
+       "label": "senior",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "senior"
+      },
+      {
+       "label": "editor",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "editor"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": ","
+      },
+      {
+       "label": "left",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "left"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "for"
+      },
+      {
+       "label": "Politico",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "Politico"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "."
+      },
+      {
+       "label": "Howard",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "Howard"
+      },
+      {
+       "label": "Beck",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "Beck"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "an"
+      },
+      {
+       "label": "NBA",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "NBA"
+      },
+      {
+       "label": "beat",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "beat"
+      },
+      {
+       "label": "reporter",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "reporter"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": ","
+      },
+      {
+       "label": "joined",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "joined"
+      },
+      {
+       "label": "Bleacher",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "Bleacher"
+      },
+      {
+       "label": "Report",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "Report"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "and"
+      },
+      {
+       "label": "David",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "David"
+      },
+      {
+       "label": "Pogue",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "Pogue"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "a"
+      },
+      {
+       "label": "longtime",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "longtime"
+      },
+      {
+       "label": "technology",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "technology"
+      },
+      {
+       "label": "columnist",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "columnist"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": ","
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "also"
+      },
+      {
+       "label": "announced",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "announced"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "was"
+      },
+      {
+       "label": "joining",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "joining"
+      },
+      {
+       "label": "Yahoo",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "Yahoo"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "."
+      },
+      {
+       "label": "Nate",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "Nate"
+      },
+      {
+       "label": "Silver",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "Silver"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": ","
+      },
+      {
+       "label": "whose",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "whose"
+      },
+      {
+       "label": "FiveThirtyEight",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "FiveThirtyEight"
+      },
+      {
+       "label": "blog",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "blog"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "was"
+      },
+      {
+       "label": "licensed",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "licensed"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "by"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "The"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "Times"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "in"
+      },
+      {
+       "label": "2010",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "2010"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": ","
+      },
+      {
+       "label": "joined",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "joined"
+      },
+      {
+       "label": "ESPN",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "ESPN"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "the"
+      },
+      {
+       "label": "summer",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "summer"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "."
+      },
+      {
+       "label": "News",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "News"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "of"
+      },
+      {
+       "label": "Lindgren",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "Lindgren"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "departure",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "departure"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "was"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "first"
+      },
+      {
+       "label": "reported",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "reported"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "by"
+      },
+      {
+       "label": "Capital",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "Capital"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "York"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "David_Pogue",
+       "score": 1.0,
+       "start": 423,
+       "end": 425,
+       "tokens": "David Pogue",
+       "labelScoreMap": {
+        "David_Pogue": 1.0,
+        "<unk_wid>": 6.782284567332115e-43
+       }
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938162368906117,
+       "start": 273,
+       "end": 276,
+       "tokens": "New York Times",
+       "labelScoreMap": {
+        "The_New_York_Times": 0.9938162368906117,
+        "The_New_York_Times_Building": 0.003055333440627336,
+        "United_States_v._Libby": 0.001768876191758439,
+        "Jayson_Blair": 0.0013595534770025083,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "New_York",
+       "score": 0.6163266112083252,
+       "start": 468,
+       "end": 470,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.6163266112083252,
+        "New_York_City": 0.34496317629225437,
+        "New_York_(magazine)": 0.013535380032019368,
+        "New_York_(film)": 0.0031742145006955235,
+        "Province_of_New_York": 0.0032996822184370917,
+        "New_York_Knicks": 0.0025448375933018303,
+        "Manhattan": 0.004781978135981053,
+        "New_York_metropolitan_area": 0.002867306234602124,
+        "New_York's_at-large_congressional_seat": 0.0016574876743683103,
+        "Eastern_Air_Defense_Sector": 0.0012151076948113382,
+        "New_York_Air_National_Guard": 0.0011030756205883275,
+        "Peekskill,_New_York": 0.0009477412764603756,
+        "New_York_Liberty": 0.0009311030752878272,
+        "New_York_Yankees": 0.0009713935505641351,
+        "September_11_attacks": 0.0008445912649260779,
+        "New_York_GAA": 0.0008363136273767781,
+        "<unk_wid>": 3.357796324296898e-23
+       }
+      },
+      {
+       "label": "CNN",
+       "score": 0.9942966143783705,
+       "start": 139,
+       "end": 140,
+       "tokens": "CNN",
+       "labelScoreMap": {
+        "CNN": 0.9942966143783705,
+        "CNN_International": 0.004374776647310418,
+        "Capone-N-Noreaga": 0.0013286089743191514,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3534781416042638,
+       "start": 448,
+       "end": 449,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.3534781416042638,
+        "Time_(magazine)": 0.03664549631233121,
+        "Dot-com_bubble": 0.02140628172212537,
+        "Barack_Obama": 0.021093290879054958,
+        "The_New_York_Times": 0.058259632356455385,
+        "The_Washington_Times": 0.05645379286875822,
+        "1982_Lebanon_War": 0.005061591369682161,
+        "Kent_State_shootings": 0.0041125361952322895,
+        "Lojban": 0.004007086588936343,
+        "Great_Depression": 0.003796768768872182,
+        "New_York_Times_Co._v._Sullivan": 0.002898674841755425,
+        "Times_Square": 0.20498719562485415,
+        "Flesh-n-Bone": 0.0026362411506297115,
+        "Dilawar_(torture_victim)": 0.002319892212705505,
+        "Nonprofit_organization": 0.002319892212548634,
+        "Charles_Stuart_(murderer)": 0.002108992920788247,
+        "Texas_v._Johnson": 0.0018980936303230858,
+        "Times_Union_Center": 0.0018980967387273449,
+        "Cultural_Revolution": 0.0017926441440992062,
+        "National_Basketball_Association": 0.0015826598836932255,
+        "With_Teeth": 0.0015817446914699698,
+        "Encore_(Eminem_album)": 0.0014762950449049605,
+        "Los_Angeles_Times": 0.19930939504465225,
+        "Banksy": 0.001370845398324193,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.001370845399404736,
+        "Yom_Kippur_War": 0.0013708454453468851,
+        "Snow_Crash": 0.001265395864713863,
+        "Namco_Museum": 0.0011614124059390327,
+        "United_States_presidential_election,_2004": 0.001176272543374732,
+        "XFL": 0.0011599461360330735
+       }
+      },
+      {
+       "label": "Yahoo!",
+       "score": 0.9575476197163927,
+       "start": 282,
+       "end": 283,
+       "tokens": "Yahoo",
+       "labelScoreMap": {
+        "Yahoo!": 0.9575476197163927,
+        "Yahoo!_Messenger": 0.030961588284823257,
+        "Yahoo!_Search": 0.010458113089247345,
+        "Yahoo!_Sports_Radio": 0.0010326789095365897,
+        "<unk_wid>": 1.0063575350989448e-43
+       }
+      },
+      {
+       "label": "ESPN",
+       "score": 0.9020105580851108,
+       "start": 453,
+       "end": 454,
+       "tokens": "ESPN",
+       "labelScoreMap": {
+        "ESPN": 0.9020105580851108,
+        "ESPN_Major_League_Baseball": 0.012502330144038815,
+        "BT_Sport_ESPN": 0.010511275314136582,
+        "NBA_on_ESPN": 0.010342700480509818,
+        "ESPN_Australia": 0.008938957043854518,
+        "ESPN_Radio": 0.01261019630536841,
+        "Monday_Night_Football": 0.0069732664440132425,
+        "ESPN_College_Football": 0.006378835878957588,
+        "ESPN_Sunday_Night_Football": 0.00550078629113405,
+        "NASCAR_on_ESPN": 0.005236117043657109,
+        "ESPN_College_Basketball": 0.004395038317971869,
+        "ESPN_National_Hockey_Night": 0.0033120794954662656,
+        "ESPN_Events": 0.002631840274481005,
+        "ESPN_Latin_America": 0.0016442334383029889,
+        "ESPN_International": 0.0015288717795344802,
+        "ESPN_on_ABC": 0.0028279250184641462,
+        "East_Penn_Railroad": 0.0013057397214435043,
+        "Star_Sports_Network": 0.0013492489235550269,
+        "<unk_wid>": 1.0916999146701962e-39
+       }
+      },
+      {
+       "label": "CNN",
+       "score": 0.9944386513337073,
+       "start": 232,
+       "end": 233,
+       "tokens": "CNN",
+       "labelScoreMap": {
+        "CNN": 0.9944386513337073,
+        "CNN_International": 0.004232550918235859,
+        "Capone-N-Noreaga": 0.0013287977480568906,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Astrid_Lindgren",
+       "score": 0.8668422219534665,
+       "start": 106,
+       "end": 107,
+       "tokens": "Lindgren",
+       "labelScoreMap": {
+        "Astrid_Lindgren": 0.8668422219534665,
+        "Armas_Lindgren": 0.06793999346887004,
+        "Fredrik_Lindgren_(speedway_rider)": 0.048913499105042814,
+        "Peter_Lindgren_(musician)": 0.016304285472620594,
+        "<unk_wid>": 3.242454577224949e-32
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.35276762074126355,
+       "start": 153,
+       "end": 154,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.35276762074126355,
+        "Time_(magazine)": 0.03659988991991941,
+        "Dot-com_bubble": 0.0213859040972925,
+        "Barack_Obama": 0.021070514122352564,
+        "The_New_York_Times": 0.04829730304914898,
+        "The_Washington_Times": 0.04967596757672245,
+        "1982_Lebanon_War": 0.0050567728308382725,
+        "Kent_State_shootings": 0.0041086212629429355,
+        "Lojban": 0.004003272003773669,
+        "Great_Depression": 0.0037928738613082174,
+        "New_York_Times_Co._v._Sullivan": 0.002881615964256975,
+        "Times_Square": 0.27754565643798296,
+        "Flesh-n-Bone": 0.002633731578802482,
+        "Dilawar_(torture_victim)": 0.0023176837893494257,
+        "Nonprofit_organization": 0.0023176837893460495,
+        "Charles_Stuart_(murderer)": 0.002106985263051067,
+        "Texas_v._Johnson": 0.001896286737424402,
+        "Times_Union_Center": 0.0018962873168706911,
+        "Cultural_Revolution": 0.001790937496262886,
+        "National_Basketball_Association": 0.001580643601099883,
+        "With_Teeth": 0.0015802389473320078,
+        "Encore_(Eminem_album)": 0.001474889684229317,
+        "Los_Angeles_Times": 0.14436495229018684,
+        "Banksy": 0.001369540420977211,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.0013695404212027001,
+        "Yom_Kippur_War": 0.0013695404242014821,
+        "Snow_Crash": 0.001264191193329099,
+        "Namco_Museum": 0.0011596542996244823,
+        "United_States_presidential_election,_2004": 0.0011623589810898526,
+        "XFL": 0.0011588418978172798
+       }
+      },
+      {
+       "label": "Bloomberg_L.P.",
+       "score": 0.771359023531732,
+       "start": 83,
+       "end": 84,
+       "tokens": "Bloomberg",
+       "labelScoreMap": {
+        "Bloomberg_L.P.": 0.771359023531732,
+        "Michael_Bloomberg": 0.12043461881190837,
+        "Bloomberg_Television": 0.10653509631857086,
+        "Bloomberg_Markets": 0.0016712613377888163,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938162368906117,
+       "start": 43,
+       "end": 46,
+       "tokens": "New York Times",
+       "labelScoreMap": {
+        "The_New_York_Times": 0.9938162368906117,
+        "The_New_York_Times_Building": 0.003055333440627336,
+        "United_States_v._Libby": 0.001768876191758439,
+        "Jayson_Blair": 0.0013595534770025083,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3524795376085664,
+       "start": 222,
+       "end": 223,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.3524795376085664,
+        "Time_(magazine)": 0.03656523829617743,
+        "Dot-com_bubble": 0.021367048405369043,
+        "Barack_Obama": 0.02105173030384652,
+        "The_New_York_Times": 0.028771191341239472,
+        "The_Washington_Times": 0.038822171394196435,
+        "1982_Lebanon_War": 0.005052314063632869,
+        "Kent_State_shootings": 0.004104998457374915,
+        "Lojban": 0.003999742378742558,
+        "Great_Depression": 0.003789733251317393,
+        "New_York_Times_Co._v._Sullivan": 0.0028493114224851677,
+        "Times_Square": 0.12325938166323706,
+        "Flesh-n-Bone": 0.0026314092674100996,
+        "Dilawar_(torture_victim)": 0.002315640155325477,
+        "Nonprofit_organization": 0.0023156401553175165,
+        "Charles_Stuart_(murderer)": 0.002105127413956998,
+        "Texas_v._Johnson": 0.001894614673379665,
+        "Times_Union_Center": 0.0018946148188001793,
+        "Cultural_Revolution": 0.0017893583205356996,
+        "National_Basketball_Association": 0.0015792628177400945,
+        "With_Teeth": 0.001578845565374304,
+        "Encore_(Eminem_album)": 0.0014735891916021835,
+        "Los_Angeles_Times": 0.32945359380119293,
+        "Banksy": 0.0013683328190512596,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.0013683328193775893,
+        "Yom_Kippur_War": 0.0013683328995879498,
+        "Snow_Crash": 0.0012630766486320237,
+        "Namco_Museum": 0.001158071638809917,
+        "United_States_presidential_election,_2004": 0.0011719383121263339,
+        "XFL": 0.0011578200955945671
+       }
+      },
+      {
+       "label": "Los_Angeles_Times",
+       "score": 0.43336266858846134,
+       "start": 117,
+       "end": 118,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.35210493882129085,
+        "Time_(magazine)": 0.03649565771518394,
+        "Dot-com_bubble": 0.021350304928896106,
+        "Barack_Obama": 0.02103478327632411,
+        "The_New_York_Times": 0.01806730384639531,
+        "The_Washington_Times": 0.027479619342784273,
+        "1982_Lebanon_War": 0.00504835613551147,
+        "Kent_State_shootings": 0.00410178272030958,
+        "Lojban": 0.003996608810100142,
+        "Great_Depression": 0.0037862616920657792,
+        "New_York_Times_Co._v._Sullivan": 0.0028398229527006364,
+        "Times_Square": 0.04193437023012546,
+        "Flesh-n-Bone": 0.002629347897634255,
+        "Dilawar_(torture_victim)": 0.0023138261499181445,
+        "Nonprofit_organization": 0.0023138261499181445,
+        "Charles_Stuart_(murderer)": 0.002103478318107404,
+        "Texas_v._Johnson": 0.0018931304862966657,
+        "Times_Union_Center": 0.0018931304865301322,
+        "Cultural_Revolution": 0.0017879565704589846,
+        "National_Basketball_Association": 0.0015776088018297678,
+        "With_Teeth": 0.0015776087385808357,
+        "Encore_(Eminem_album)": 0.0014724348226751833,
+        "Los_Angeles_Times": 0.43336266858846134,
+        "Banksy": 0.0013672609067698126,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.001367260906769813,
+        "Yom_Kippur_War": 0.0013672609067750248,
+        "Snow_Crash": 0.0012620869908909163,
+        "Namco_Museum": 0.0011569132707210587,
+        "United_States_presidential_election,_2004": 0.001157476461015689,
+        "XFL": 0.0011569130749590974
+       }
+      },
+      {
+       "label": "Bai_language",
+       "score": 0.5438186871974408,
+       "start": 290,
+       "end": 291,
+       "tokens": "Bai",
+       "labelScoreMap": {
+        "Bai_language": 0.5438186871974408,
+        "Broadcasting_Authority_of_Ireland": 0.33671842516583333,
+        "Marcus_Bai": 0.030064958390275738,
+        "Baicheng_County": 0.030024709196582882,
+        "Pei_County": 0.027540341069779636,
+        "Bai-Ulgan": 0.0171448595286083,
+        "Insect": 0.014688019451459903,
+        "<unk_wid>": 7.761600829331599e-16
+       }
+      },
+      {
+       "label": "Astrid_Lindgren",
+       "score": 0.8667554421439435,
+       "start": 460,
+       "end": 461,
+       "tokens": "Lindgren",
+       "labelScoreMap": {
+        "Astrid_Lindgren": 0.8667554421439435,
+        "Armas_Lindgren": 0.06802124743181062,
+        "Fredrik_Lindgren_(speedway_rider)": 0.04891875873675895,
+        "Peter_Lindgren_(musician)": 0.016304551687486873,
+        "<unk_wid>": 1.1988673296379944e-23
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 217,
+       "end": 218,
+       "tokens": "Stelter",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.5019950230164852,
+       "start": 273,
+       "end": 275,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.3296510168756999,
+        "New_York_City": 0.15290500695723827,
+        "New_York_(magazine)": 0.5019950230164852,
+        "New_York_(film)": 0.0023250823264469125,
+        "Province_of_New_York": 0.0019316034038033463,
+        "New_York_Knicks": 0.0018623373072435521,
+        "Manhattan": 0.001847697537426757,
+        "New_York_metropolitan_area": 0.0013194035026961196,
+        "New_York's_at-large_congressional_seat": 0.0012140941542714688,
+        "Eastern_Air_Defense_Sector": 0.0008900549805214641,
+        "New_York_Air_National_Guard": 0.0008079924429906862,
+        "Peekskill,_New_York": 0.0006901594940205726,
+        "New_York_Liberty": 0.0006871408479057931,
+        "New_York_Yankees": 0.0006423236210587139,
+        "September_11_attacks": 0.0006187555946860398,
+        "New_York_GAA": 0.0006123079375050393,
+        "<unk_wid>": 4.358678144256242e-36
+       }
+      },
+      {
+       "label": "Yahoo!",
+       "score": 0.9575478794989115,
+       "start": 436,
+       "end": 437,
+       "tokens": "Yahoo",
+       "labelScoreMap": {
+        "Yahoo!": 0.9575478794989115,
+        "Yahoo!_Messenger": 0.030961331454558764,
+        "Yahoo!_Search": 0.010458115645411055,
+        "Yahoo!_Sports_Radio": 0.0010326734011187823,
+        "<unk_wid>": 7.039539405246799e-41
+       }
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938162368906117,
+       "start": 25,
+       "end": 28,
+       "tokens": "New York Times",
+       "labelScoreMap": {
+        "The_New_York_Times": 0.9938162368906117,
+        "The_New_York_Times_Building": 0.003055333440627336,
+        "United_States_v._Libby": 0.001768876191758439,
+        "Jayson_Blair": 0.0013595534770025127,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 265,
+       "end": 267,
+       "tokens": "Matt Bai",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3523261801224355,
+       "start": 381,
+       "end": 382,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.3523261801224355,
+        "Time_(magazine)": 0.03763189877542455,
+        "Dot-com_bubble": 0.02136665067809767,
+        "Barack_Obama": 0.021080057699929024,
+        "The_New_York_Times": 0.02843848168374045,
+        "The_Washington_Times": 0.0878538542863766,
+        "1982_Lebanon_War": 0.005052185936889499,
+        "Kent_State_shootings": 0.004104894364751478,
+        "Lojban": 0.003999641029229556,
+        "Great_Depression": 0.0037934590179620146,
+        "New_York_Times_Co._v._Sullivan": 0.0028609443715574097,
+        "Times_Square": 0.06287090176733359,
+        "Flesh-n-Bone": 0.0026313425259336964,
+        "Dilawar_(torture_victim)": 0.002315581434380597,
+        "Nonprofit_organization": 0.0023155814209791137,
+        "Charles_Stuart_(murderer)": 0.0021050740227932675,
+        "Texas_v._Johnson": 0.001894566859686451,
+        "Times_Union_Center": 0.0018946601707480319,
+        "Cultural_Revolution": 0.0017893147928089218,
+        "National_Basketball_Association": 0.0016037207927497301,
+        "With_Teeth": 0.0015788067307819413,
+        "Encore_(Eminem_album)": 0.0014735522794144564,
+        "Los_Angeles_Times": 0.3395562688215821,
+        "Banksy": 0.0013682981123967447,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.0013682981426649484,
+        "Yom_Kippur_War": 0.0013682981287371804,
+        "Snow_Crash": 0.001263047984206321,
+        "Namco_Museum": 0.001684022872395083,
+        "United_States_presidential_election,_2004": 0.0012526231736327226,
+        "XFL": 0.0011577920003811777
+       }
+      },
+      {
+       "label": "CNN",
+       "score": 0.9942793737884537,
+       "start": 207,
+       "end": 208,
+       "tokens": "CNN",
+       "labelScoreMap": {
+        "CNN": 0.9942793737884537,
+        "CNN_International": 0.004392040150775348,
+        "Capone-N-Noreaga": 0.0013285860607711122,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 394,
+       "end": 397,
+       "tokens": "Richard L. Berke",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Astrid_Lindgren",
+       "score": 0.8668040013620566,
+       "start": 68,
+       "end": 69,
+       "tokens": "Lindgren",
+       "labelScoreMap": {
+        "Astrid_Lindgren": 0.8668040013620566,
+        "Armas_Lindgren": 0.06796466995759869,
+        "Fredrik_Lindgren_(speedway_rider)": 0.04892717172919717,
+        "Peter_Lindgren_(musician)": 0.016304156951147602,
+        "<unk_wid>": 1.3696633041322452e-27
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 170,
+       "end": 171,
+       "tokens": "Stelter",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Nate_Silver",
+       "score": 0.9900342691072244,
+       "start": 438,
+       "end": 440,
+       "tokens": "Nate Silver",
+       "labelScoreMap": {
+        "Nate_Silver": 0.9900342691072244,
+        "Rasmussen_Reports": 0.0076436176499413335,
+        "FiveThirtyEight": 0.002322113242834381,
+        "<unk_wid>": 2.9852193982121967e-36
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3537448974818019,
+       "start": 73,
+       "end": 74,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.3537448974818019,
+        "Time_(magazine)": 0.03663579163295472,
+        "Dot-com_bubble": 0.021417004518179843,
+        "Barack_Obama": 0.021103382109511678,
+        "The_New_York_Times": 0.06861506176770468,
+        "The_Washington_Times": 0.06237239561382127,
+        "1982_Lebanon_War": 0.005064127454755926,
+        "Kent_State_shootings": 0.00411459685648754,
+        "Lojban": 0.004009094375545856,
+        "Great_Depression": 0.0037982651211660207,
+        "New_York_Times_Co._v._Sullivan": 0.002903830765538577,
+        "Times_Square": 0.21210270041428922,
+        "Flesh-n-Bone": 0.002637562087469039,
+        "Dilawar_(torture_victim)": 0.0023210546369960383,
+        "Nonprofit_organization": 0.0023210546369725406,
+        "Charles_Stuart_(murderer)": 0.0021100496699982003,
+        "Texas_v._Johnson": 0.0018990447031207681,
+        "Times_Union_Center": 0.0018990467897200276,
+        "Cultural_Revolution": 0.0017935423097493548,
+        "National_Basketball_Association": 0.0015828562346560835,
+        "With_Teeth": 0.0015825372525373309,
+        "Encore_(Eminem_album)": 0.0014770347689978965,
+        "Los_Angeles_Times": 0.17562061300531215,
+        "Banksy": 0.001371532285483774,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.001371532285627296,
+        "Yom_Kippur_War": 0.001371532290615021,
+        "Snow_Crash": 0.0012660298100285322,
+        "Namco_Museum": 0.0011610273778051262,
+        "United_States_presidential_election,_2004": 0.0011722744219796967,
+        "XFL": 0.001160527321174084
+       }
+      },
+      {
+       "label": "Brian_Stelter",
+       "score": 1.0,
+       "start": 145,
+       "end": 147,
+       "tokens": "Brian Stelter",
+       "labelScoreMap": {
+        "Brian_Stelter": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 37,
+       "end": 39,
+       "tokens": "Hugo Lindgren",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.35907435020107975,
+       "start": 4,
+       "end": 5,
+       "tokens": "TIMES",
+       "labelScoreMap": {
+        "The_Times": 0.35907435020107975,
+        "Time_(magazine)": 0.14910728142471996,
+        "Dot-com_bubble": 0.29301353301012467,
+        "Barack_Obama": 0.03625074051697665,
+        "The_New_York_Times": 0.014159293396852327,
+        "The_Washington_Times": 0.02616330102861079,
+        "1982_Lebanon_War": 0.005252800986983486,
+        "Kent_State_shootings": 0.004232594699064275,
+        "Lojban": 0.004076737967429732,
+        "Great_Depression": 0.014333583588553677,
+        "New_York_Times_Co._v._Sullivan": 0.0038014023249986068,
+        "Times_Square": 0.01703639140195916,
+        "Flesh-n-Bone": 0.002681954231545098,
+        "Dilawar_(torture_victim)": 0.0023687412540851953,
+        "Nonprofit_organization": 0.0032737910758550396,
+        "Charles_Stuart_(murderer)": 0.0021458710842155726,
+        "Texas_v._Johnson": 0.0020792071612225757,
+        "Times_Union_Center": 0.0054006355586065985,
+        "Cultural_Revolution": 0.004017579979929693,
+        "National_Basketball_Association": 0.01738615070095647,
+        "With_Teeth": 0.0016092713226265065,
+        "Encore_(Eminem_album)": 0.001514675302746859,
+        "Los_Angeles_Times": 0.011900500263309724,
+        "Banksy": 0.0013945936882641668,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.002806890906717602,
+        "Yom_Kippur_War": 0.0014582373100269386,
+        "Snow_Crash": 0.001334492840889717,
+        "Namco_Museum": 0.003957827318179907,
+        "United_States_presidential_election,_2004": 0.006969699236272484,
+        "XFL": 0.0011978702171969934
+       }
+      },
+      {
+       "label": "Yahoo!",
+       "score": 0.9575476711110557,
+       "start": 304,
+       "end": 305,
+       "tokens": "Yahoo",
+       "labelScoreMap": {
+        "Yahoo!": 0.9575476711110557,
+        "Yahoo!_Messenger": 0.030961520687972675,
+        "Yahoo!_Search": 0.010458130035336263,
+        "Yahoo!_Sports_Radio": 0.0010326781656353264,
+        "<unk_wid>": 5.68123903621426e-35
+       }
+      },
+      {
+       "label": "Politico",
+       "score": 0.5213225434468529,
+       "start": 408,
+       "end": 409,
+       "tokens": "Politico",
+       "labelScoreMap": {
+        "Politician": 0.4731013993177736,
+        "Politico": 0.5213225434468529,
+        "Statesman_(dialogue)": 0.0035603035593814733,
+        "Pio_La_Torre": 0.0010733242373504373,
+        "Julio_Anguita": 0.0009424294386416084,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 467,
+       "end": 470,
+       "tokens": "Capital New York",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "National_Basketball_Association",
+       "score": 0.9946171930592053,
+       "start": 414,
+       "end": 415,
+       "tokens": "NBA",
+       "labelScoreMap": {
+        "National_Basketball_Association": 0.9946171930592053,
+        "World_Boxing_Association": 0.0015445770696051445,
+        "NBA_All-Star_Game": 0.001544390868158205,
+        "2009\u201310_NBA_season": 0.0012036998550574184,
+        "NBA_Live_(video_game_series)": 0.0010901391479741802,
+        "<unk_wid>": 1.3553407242915382e-33
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.5030566930321423,
+       "start": 43,
+       "end": 45,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.3295131432477921,
+        "New_York_City": 0.15200961324820492,
+        "New_York_(magazine)": 0.5030566930321423,
+        "New_York_(film)": 0.0023242138124602665,
+        "Province_of_New_York": 0.001930880567392415,
+        "New_York_Knicks": 0.0018614903276899576,
+        "Manhattan": 0.0018467695148042028,
+        "New_York_metropolitan_area": 0.001303334061244091,
+        "New_York's_at-large_congressional_seat": 0.001213640639588818,
+        "Eastern_Air_Defense_Sector": 0.0008897225083454015,
+        "New_York_Air_National_Guard": 0.0008076906230397665,
+        "Peekskill,_New_York": 0.0006899016902698937,
+        "New_York_Liberty": 0.0006822360888074246,
+        "New_York_Yankees": 0.0006401939208575169,
+        "September_11_attacks": 0.0006183975022330769,
+        "New_York_GAA": 0.0006120792151277032,
+        "<unk_wid>": 1.0283393360705039e-41
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.47373438403158263,
+       "start": 25,
+       "end": 27,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.3342154831588896,
+        "New_York_City": 0.17626060965598414,
+        "New_York_(magazine)": 0.47373438403158263,
+        "New_York_(film)": 0.002350239047201892,
+        "Province_of_New_York": 0.001952662408616922,
+        "New_York_Knicks": 0.0018844281626698943,
+        "Manhattan": 0.0018815526398534474,
+        "New_York_metropolitan_area": 0.001461161408473587,
+        "New_York's_at-large_congressional_seat": 0.0012272303212628388,
+        "Eastern_Air_Defense_Sector": 0.0008996851188796955,
+        "New_York_Air_National_Guard": 0.0008167346959511371,
+        "Peekskill,_New_York": 0.0006976272694464019,
+        "New_York_Liberty": 0.0006932033233016951,
+        "New_York_Yankees": 0.0006807193028604085,
+        "September_11_attacks": 0.0006253465029396706,
+        "New_York_GAA": 0.0006189329520861682,
+        "<unk_wid>": 5.1095273188572425e-31
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 410,
+       "end": 412,
+       "tokens": "Howard Beck",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3529203373174535,
+       "start": 96,
+       "end": 97,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.3529203373174535,
+        "Time_(magazine)": 0.03656761241459404,
+        "Dot-com_bubble": 0.02138485020889331,
+        "Barack_Obama": 0.02106892945790079,
+        "The_New_York_Times": 0.042683961211727635,
+        "The_Washington_Times": 0.05160979867423519,
+        "1982_Lebanon_War": 0.005056524475923294,
+        "Kent_State_shootings": 0.004108419471629514,
+        "Lojban": 0.004003075411887329,
+        "Great_Depression": 0.0037924645916470414,
+        "New_York_Times_Co._v._Sullivan": 0.002856122590288914,
+        "Times_Square": 0.1533440699533333,
+        "Flesh-n-Bone": 0.0026336022253745017,
+        "Dilawar_(torture_victim)": 0.0023175699583298875,
+        "Nonprofit_organization": 0.002317569958329545,
+        "Charles_Stuart_(murderer)": 0.002106881780300404,
+        "Texas_v._Johnson": 0.001896193602304195,
+        "Times_Union_Center": 0.0018961937580429919,
+        "Cultural_Revolution": 0.001790849543151155,
+        "National_Basketball_Association": 0.0015801882906678543,
+        "With_Teeth": 0.0015801613352650933,
+        "Encore_(Eminem_album)": 0.001474817246211309,
+        "Los_Angeles_Times": 0.2721504647848453,
+        "Banksy": 0.001369473157194731,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.0013694731572067291,
+        "Yom_Kippur_War": 0.0013694731593141502,
+        "Snow_Crash": 0.0012641290735209173,
+        "Namco_Museum": 0.0011588130636384674,
+        "United_States_presidential_election,_2004": 0.0011691951474615014,
+        "XFL": 0.0011587849793275413
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.35330477315146624,
+       "start": 62,
+       "end": 63,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "The_Times": 0.35330477315146624,
+        "Time_(magazine)": 0.03659476219114903,
+        "Dot-com_bubble": 0.021394556631460834,
+        "Barack_Obama": 0.02107884428540658,
+        "The_New_York_Times": 0.03971934576207473,
+        "The_Washington_Times": 0.03936642495531692,
+        "1982_Lebanon_War": 0.005058819857636695,
+        "Kent_State_shootings": 0.004110284201241864,
+        "Lojban": 0.0040048934469977485,
+        "Great_Depression": 0.003794393286819989,
+        "New_York_Times_Co._v._Sullivan": 0.0028686851253784135,
+        "Times_Square": 0.18692662542096172,
+        "Flesh-n-Bone": 0.0026347975626297743,
+        "Dilawar_(torture_victim)": 0.0023186218551296835,
+        "Nonprofit_organization": 0.0023186218551123562,
+        "Charles_Stuart_(murderer)": 0.0021078380501414673,
+        "Texas_v._Johnson": 0.0018970542456836937,
+        "Times_Union_Center": 0.001897054639247795,
+        "Cultural_Revolution": 0.0017916625293759366,
+        "National_Basketball_Association": 0.001580946634172935,
+        "With_Teeth": 0.0015808785400957166,
+        "Encore_(Eminem_album)": 0.0014754866351002615,
+        "Los_Angeles_Times": 0.25326033179409907,
+        "Banksy": 0.0013700947325663922,
+        "Warsaw_Pact_invasion_of_Czechoslovakia": 0.00137009473266784,
+        "Yom_Kippur_War": 0.001370094789943609,
+        "Snow_Crash": 0.0012647028847467495,
+        "Namco_Museum": 0.0011593594899090868,
+        "United_States_presidential_election,_2004": 0.0012206397801005542,
+        "XFL": 0.0011593109333660355
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "David_Pogue",
+       "score": 1.0,
+       "start": 423,
+       "end": 425,
+       "tokens": "David Pogue",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938162368906117,
+       "start": 273,
+       "end": 276,
+       "tokens": "New York Times",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York",
+       "score": 0.6163266112083252,
+       "start": 468,
+       "end": 470,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.6163266112083252,
+        "5128581|New_York_City": 0.34496317629225437,
+        "5128594|Manhattan": 0.004781978135981053,
+        "5130831|Peekskill,_New_York": 0.0009477412764603756
+       }
+      },
+      {
+       "label": "CNN",
+       "score": 0.9942966143783705,
+       "start": 139,
+       "end": 140,
+       "tokens": "CNN",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3534781416042638,
+       "start": 448,
+       "end": 449,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.20498719562485415,
+        "7180805|Times_Union_Center": 0.0018980967387273449
+       }
+      },
+      {
+       "label": "Yahoo!",
+       "score": 0.9575476197163927,
+       "start": 282,
+       "end": 283,
+       "tokens": "Yahoo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "ESPN",
+       "score": 0.9020105580851108,
+       "start": 453,
+       "end": 454,
+       "tokens": "ESPN",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "CNN",
+       "score": 0.9944386513337073,
+       "start": 232,
+       "end": 233,
+       "tokens": "CNN",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Astrid_Lindgren",
+       "score": 0.8668422219534665,
+       "start": 106,
+       "end": 107,
+       "tokens": "Lindgren",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Times",
+       "score": 0.35276762074126355,
+       "start": 153,
+       "end": 154,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.27754565643798296,
+        "7180805|Times_Union_Center": 0.0018962873168706911
+       }
+      },
+      {
+       "label": "Bloomberg_L.P.",
+       "score": 0.771359023531732,
+       "start": 83,
+       "end": 84,
+       "tokens": "Bloomberg",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938162368906117,
+       "start": 43,
+       "end": 46,
+       "tokens": "New York Times",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3524795376085664,
+       "start": 222,
+       "end": 223,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.12325938166323706,
+        "7180805|Times_Union_Center": 0.0018946148188001793
+       }
+      },
+      {
+       "label": "Los_Angeles_Times",
+       "score": 0.43336266858846134,
+       "start": 117,
+       "end": 118,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.04193437023012546,
+        "7180805|Times_Union_Center": 0.0018931304865301322
+       }
+      },
+      {
+       "label": "Bai_language",
+       "score": 0.5438186871974408,
+       "start": 290,
+       "end": 291,
+       "tokens": "Bai",
+       "labelScoreMap": {
+        "1529628|Baicheng_County": 0.030024709196582882,
+        "1798972|Pei_County": 0.027540341069779636
+       }
+      },
+      {
+       "label": "Astrid_Lindgren",
+       "score": 0.8667554421439435,
+       "start": 460,
+       "end": 461,
+       "tokens": "Lindgren",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 217,
+       "end": 218,
+       "tokens": "Stelter",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.5019950230164852,
+       "start": 273,
+       "end": 275,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.3296510168756999,
+        "5128581|New_York_City": 0.15290500695723827,
+        "5128594|Manhattan": 0.001847697537426757,
+        "5130831|Peekskill,_New_York": 0.0006901594940205726
+       }
+      },
+      {
+       "label": "Yahoo!",
+       "score": 0.9575478794989115,
+       "start": 436,
+       "end": 437,
+       "tokens": "Yahoo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_New_York_Times",
+       "score": 0.9938162368906117,
+       "start": 25,
+       "end": 28,
+       "tokens": "New York Times",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 265,
+       "end": 267,
+       "tokens": "Matt Bai",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3523261801224355,
+       "start": 381,
+       "end": 382,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.06287090176733359,
+        "7180805|Times_Union_Center": 0.0018946601707480319
+       }
+      },
+      {
+       "label": "CNN",
+       "score": 0.9942793737884537,
+       "start": 207,
+       "end": 208,
+       "tokens": "CNN",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 394,
+       "end": 397,
+       "tokens": "Richard L. Berke",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Astrid_Lindgren",
+       "score": 0.8668040013620566,
+       "start": 68,
+       "end": 69,
+       "tokens": "Lindgren",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 170,
+       "end": 171,
+       "tokens": "Stelter",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Nate_Silver",
+       "score": 0.9900342691072244,
+       "start": 438,
+       "end": 440,
+       "tokens": "Nate Silver",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3537448974818019,
+       "start": 73,
+       "end": 74,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.21210270041428922,
+        "7180805|Times_Union_Center": 0.0018990467897200276
+       }
+      },
+      {
+       "label": "Brian_Stelter",
+       "score": 1.0,
+       "start": 145,
+       "end": 147,
+       "tokens": "Brian Stelter",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 37,
+       "end": 39,
+       "tokens": "Hugo Lindgren",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Times",
+       "score": 0.35907435020107975,
+       "start": 4,
+       "end": 5,
+       "tokens": "TIMES",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.01703639140195916,
+        "7180805|Times_Union_Center": 0.0054006355586065985
+       }
+      },
+      {
+       "label": "Yahoo!",
+       "score": 0.9575476711110557,
+       "start": 304,
+       "end": 305,
+       "tokens": "Yahoo",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Politico",
+       "score": 0.5213225434468529,
+       "start": 408,
+       "end": 409,
+       "tokens": "Politico",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 467,
+       "end": 470,
+       "tokens": "Capital New York",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Basketball_Association",
+       "score": 0.9946171930592053,
+       "start": 414,
+       "end": 415,
+       "tokens": "NBA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.5030566930321423,
+       "start": 43,
+       "end": 45,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.3295131432477921,
+        "5128581|New_York_City": 0.15200961324820492,
+        "5128594|Manhattan": 0.0018467695148042028,
+        "5130831|Peekskill,_New_York": 0.0006899016902698937
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.47373438403158263,
+       "start": 25,
+       "end": 27,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.3342154831588896,
+        "5128581|New_York_City": 0.17626060965598414,
+        "5128594|Manhattan": 0.0018815526398534474,
+        "5130831|Peekskill,_New_York": 0.0006976272694464019
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 410,
+       "end": 412,
+       "tokens": "Howard Beck",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Times",
+       "score": 0.3529203373174535,
+       "start": 96,
+       "end": 97,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.1533440699533333,
+        "7180805|Times_Union_Center": 0.0018961937580429919
+       }
+      },
+      {
+       "label": "The_Times",
+       "score": 0.35330477315146624,
+       "start": 62,
+       "end": 63,
+       "tokens": "Times",
+       "labelScoreMap": {
+        "5141023|Times_Square": 0.18692662542096172,
+        "7180805|Times_Union_Center": 0.001897054639247795
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

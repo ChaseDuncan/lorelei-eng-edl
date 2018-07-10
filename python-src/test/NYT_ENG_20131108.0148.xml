@@ -1,0 +1,6873 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131108.0148.xml",
+ "text": "METAL EXCHANGE CHANGES RULES TO TRIM WAIT TIMES\nART ADV: Photo is being sent to NYT photo clients. Nonsubscribers can purchase one-time rights by calling: 1-888-603-1036 or 1-888-346-9867.);\nHoping to reduce the warehouse delays that have added billions of dollars to the prices that consumers pay for beverage cans and other aluminum products, the London Metals Exchange has released new regulations meant to reduce the waiting times at storage facilities owned by commodities traders and banks like Goldman Sachs.\nBeer breweries and other businesses that buy aluminum have for years complained that Metro International Trade Services, a string of Detroit-area warehouses owned by Goldman Sachs, had orchestrated bottlenecks at its facilities that forced them to wait as long as 16 months for their metal to be delivered.\nThe delays have generated millions in profits for the warehouse, which charges rent by the day. But they also add to the storage expense for aluminum buyers, costs that are passed on to consumers. Because of a quirk in the way metal prices are set on the spot market, the delays raise the price of nearly all the aluminum sold in the United States, even if the metal is never stored in a warehouse.\nThe new guidelines, released Wednesday after a three-month review of the aluminum storage business, will require warehouses with waiting times of 50 days or longer to load out more metal than they take in each day. The exchange, which is owned by investors and regulates 700 storage facilities around the globe, said it would also be more aggressive in investigating instances where warehouses appeared to be instigating the delays.\n\u201cThe LME will now have a greater power to investigate and to act to prevent warehouse companies unreasonably incentivizing the formation of queues,\u201d Garry Jones, the exchange\u2019s chief executive, said in a video announcing the changes.\nBeverage makers and aluminum brokers offered measured praise for the new regulations.\nSome aluminum brokers and users had urged the exchange to forbid warehouses from charging rent during any delivery delays. But the report said that that suggestion, while attractive, might lead warehouse owners to raise other fees, so the exchange would consider it as a \u201cnext step\u201d option if its current reforms failed to shorten the lines.\nNick Madden, the head of procurement at Novelis, said he was optimistic that the changes would help address the issue. But the Beer Institute, which lobbied Congress and federal regulators, said more needed to be done.\nThe rule changes \u201care a move in the right direction, but we believe further reforms could be immediately implemented to return the LME to a proper, free-market function of global aluminum price discovery,\u201d a spokeswoman for institute said in a statement.\nThe Federal Reserve is reviewing the exemptions that allow Goldman and other banks to own commodities storage facilities.\nMichael DuVally, a spokesman for Goldman, said Thursday that the company had no comment on the new regulation.\nBut Goldman officials have repeatedly denied accusations that they intentionally caused the delays. Company officials have cited a variety of causes for the bottlenecks over the years, including a shortage of trucks and forklift drivers and the logistical challenges of locating and moving 1,500-pound bars of aluminum stacked 15 feet high in cavernous storage facilities.\nAfter a congressional hearing in July, at which several senators called on Goldman and other investment banks to divest themselves of their commodities holdings, Gary Cohn, the Goldman president, said that Metro would offer immediate delivery to any metal owners who requested it. But the report released Wednesday by the metal exchange - based on meetings with more than 70 participants in the aluminum industry - found that stronger measures were needed to ease the backlog at Metro and a handful of other warehouses with long waiting times.",
+ "tokens": [
+  "METAL",
+  "EXCHANGE",
+  "CHANGES",
+  "RULES",
+  "TO",
+  "TRIM",
+  "WAIT",
+  "TIMES",
+  "ART",
+  "ADV",
+  ":",
+  "Photo",
+  "is",
+  "being",
+  "sent",
+  "to",
+  "NYT",
+  "photo",
+  "clients",
+  ".",
+  "Nonsubscribers",
+  "can",
+  "purchase",
+  "one",
+  "-",
+  "time",
+  "rights",
+  "by",
+  "calling",
+  ":",
+  "1-888-603-1036",
+  "or",
+  "1-888-346-9867",
+  ".",
+  ")",
+  ";",
+  "Hoping",
+  "to",
+  "reduce",
+  "the",
+  "warehouse",
+  "delays",
+  "that",
+  "have",
+  "added",
+  "billions",
+  "of",
+  "dollars",
+  "to",
+  "the",
+  "prices",
+  "that",
+  "consumers",
+  "pay",
+  "for",
+  "beverage",
+  "cans",
+  "and",
+  "other",
+  "aluminum",
+  "products",
+  ",",
+  "the",
+  "London",
+  "Metals",
+  "Exchange",
+  "has",
+  "released",
+  "new",
+  "regulations",
+  "meant",
+  "to",
+  "reduce",
+  "the",
+  "waiting",
+  "times",
+  "at",
+  "storage",
+  "facilities",
+  "owned",
+  "by",
+  "commodities",
+  "traders",
+  "and",
+  "banks",
+  "like",
+  "Goldman",
+  "Sachs",
+  ".",
+  "Beer",
+  "breweries",
+  "and",
+  "other",
+  "businesses",
+  "that",
+  "buy",
+  "aluminum",
+  "have",
+  "for",
+  "years",
+  "complained",
+  "that",
+  "Metro",
+  "International",
+  "Trade",
+  "Services",
+  ",",
+  "a",
+  "string",
+  "of",
+  "Detroit",
+  "-",
+  "area",
+  "warehouses",
+  "owned",
+  "by",
+  "Goldman",
+  "Sachs",
+  ",",
+  "had",
+  "orchestrated",
+  "bottlenecks",
+  "at",
+  "its",
+  "facilities",
+  "that",
+  "forced",
+  "them",
+  "to",
+  "wait",
+  "as",
+  "long",
+  "as",
+  "16",
+  "months",
+  "for",
+  "their",
+  "metal",
+  "to",
+  "be",
+  "delivered",
+  ".",
+  "The",
+  "delays",
+  "have",
+  "generated",
+  "millions",
+  "in",
+  "profits",
+  "for",
+  "the",
+  "warehouse",
+  ",",
+  "which",
+  "charges",
+  "rent",
+  "by",
+  "the",
+  "day",
+  ".",
+  "But",
+  "they",
+  "also",
+  "add",
+  "to",
+  "the",
+  "storage",
+  "expense",
+  "for",
+  "aluminum",
+  "buyers",
+  ",",
+  "costs",
+  "that",
+  "are",
+  "passed",
+  "on",
+  "to",
+  "consumers",
+  ".",
+  "Because",
+  "of",
+  "a",
+  "quirk",
+  "in",
+  "the",
+  "way",
+  "metal",
+  "prices",
+  "are",
+  "set",
+  "on",
+  "the",
+  "spot",
+  "market",
+  ",",
+  "the",
+  "delays",
+  "raise",
+  "the",
+  "price",
+  "of",
+  "nearly",
+  "all",
+  "the",
+  "aluminum",
+  "sold",
+  "in",
+  "the",
+  "United",
+  "States",
+  ",",
+  "even",
+  "if",
+  "the",
+  "metal",
+  "is",
+  "never",
+  "stored",
+  "in",
+  "a",
+  "warehouse",
+  ".",
+  "The",
+  "new",
+  "guidelines",
+  ",",
+  "released",
+  "Wednesday",
+  "after",
+  "a",
+  "three",
+  "-",
+  "month",
+  "review",
+  "of",
+  "the",
+  "aluminum",
+  "storage",
+  "business",
+  ",",
+  "will",
+  "require",
+  "warehouses",
+  "with",
+  "waiting",
+  "times",
+  "of",
+  "50",
+  "days",
+  "or",
+  "longer",
+  "to",
+  "load",
+  "out",
+  "more",
+  "metal",
+  "than",
+  "they",
+  "take",
+  "in",
+  "each",
+  "day",
+  ".",
+  "The",
+  "exchange",
+  ",",
+  "which",
+  "is",
+  "owned",
+  "by",
+  "investors",
+  "and",
+  "regulates",
+  "700",
+  "storage",
+  "facilities",
+  "around",
+  "the",
+  "globe",
+  ",",
+  "said",
+  "it",
+  "would",
+  "also",
+  "be",
+  "more",
+  "aggressive",
+  "in",
+  "investigating",
+  "instances",
+  "where",
+  "warehouses",
+  "appeared",
+  "to",
+  "be",
+  "instigating",
+  "the",
+  "delays",
+  ".",
+  "\u201c",
+  "The",
+  "LME",
+  "will",
+  "now",
+  "have",
+  "a",
+  "greater",
+  "power",
+  "to",
+  "investigate",
+  "and",
+  "to",
+  "act",
+  "to",
+  "prevent",
+  "warehouse",
+  "companies",
+  "unreasonably",
+  "incentivizing",
+  "the",
+  "formation",
+  "of",
+  "queues",
+  ",",
+  "\u201d",
+  "Garry",
+  "Jones",
+  ",",
+  "the",
+  "exchange",
+  "\u2019s",
+  "chief",
+  "executive",
+  ",",
+  "said",
+  "in",
+  "a",
+  "video",
+  "announcing",
+  "the",
+  "changes",
+  ".",
+  "Beverage",
+  "makers",
+  "and",
+  "aluminum",
+  "brokers",
+  "offered",
+  "measured",
+  "praise",
+  "for",
+  "the",
+  "new",
+  "regulations",
+  ".",
+  "Some",
+  "aluminum",
+  "brokers",
+  "and",
+  "users",
+  "had",
+  "urged",
+  "the",
+  "exchange",
+  "to",
+  "forbid",
+  "warehouses",
+  "from",
+  "charging",
+  "rent",
+  "during",
+  "any",
+  "delivery",
+  "delays",
+  ".",
+  "But",
+  "the",
+  "report",
+  "said",
+  "that",
+  "that",
+  "suggestion",
+  ",",
+  "while",
+  "attractive",
+  ",",
+  "might",
+  "lead",
+  "warehouse",
+  "owners",
+  "to",
+  "raise",
+  "other",
+  "fees",
+  ",",
+  "so",
+  "the",
+  "exchange",
+  "would",
+  "consider",
+  "it",
+  "as",
+  "a",
+  "\u201c",
+  "next",
+  "step",
+  "\u201d",
+  "option",
+  "if",
+  "its",
+  "current",
+  "reforms",
+  "failed",
+  "to",
+  "shorten",
+  "the",
+  "lines",
+  ".",
+  "Nick",
+  "Madden",
+  ",",
+  "the",
+  "head",
+  "of",
+  "procurement",
+  "at",
+  "Novelis",
+  ",",
+  "said",
+  "he",
+  "was",
+  "optimistic",
+  "that",
+  "the",
+  "changes",
+  "would",
+  "help",
+  "address",
+  "the",
+  "issue",
+  ".",
+  "But",
+  "the",
+  "Beer",
+  "Institute",
+  ",",
+  "which",
+  "lobbied",
+  "Congress",
+  "and",
+  "federal",
+  "regulators",
+  ",",
+  "said",
+  "more",
+  "needed",
+  "to",
+  "be",
+  "done",
+  ".",
+  "The",
+  "rule",
+  "changes",
+  "\u201c",
+  "are",
+  "a",
+  "move",
+  "in",
+  "the",
+  "right",
+  "direction",
+  ",",
+  "but",
+  "we",
+  "believe",
+  "further",
+  "reforms",
+  "could",
+  "be",
+  "immediately",
+  "implemented",
+  "to",
+  "return",
+  "the",
+  "LME",
+  "to",
+  "a",
+  "proper",
+  ",",
+  "free",
+  "-",
+  "market",
+  "function",
+  "of",
+  "global",
+  "aluminum",
+  "price",
+  "discovery",
+  ",",
+  "\u201d",
+  "a",
+  "spokeswoman",
+  "for",
+  "institute",
+  "said",
+  "in",
+  "a",
+  "statement",
+  ".",
+  "The",
+  "Federal",
+  "Reserve",
+  "is",
+  "reviewing",
+  "the",
+  "exemptions",
+  "that",
+  "allow",
+  "Goldman",
+  "and",
+  "other",
+  "banks",
+  "to",
+  "own",
+  "commodities",
+  "storage",
+  "facilities",
+  ".",
+  "Michael",
+  "DuVally",
+  ",",
+  "a",
+  "spokesman",
+  "for",
+  "Goldman",
+  ",",
+  "said",
+  "Thursday",
+  "that",
+  "the",
+  "company",
+  "had",
+  "no",
+  "comment",
+  "on",
+  "the",
+  "new",
+  "regulation",
+  ".",
+  "But",
+  "Goldman",
+  "officials",
+  "have",
+  "repeatedly",
+  "denied",
+  "accusations",
+  "that",
+  "they",
+  "intentionally",
+  "caused",
+  "the",
+  "delays",
+  ".",
+  "Company",
+  "officials",
+  "have",
+  "cited",
+  "a",
+  "variety",
+  "of",
+  "causes",
+  "for",
+  "the",
+  "bottlenecks",
+  "over",
+  "the",
+  "years",
+  ",",
+  "including",
+  "a",
+  "shortage",
+  "of",
+  "trucks",
+  "and",
+  "forklift",
+  "drivers",
+  "and",
+  "the",
+  "logistical",
+  "challenges",
+  "of",
+  "locating",
+  "and",
+  "moving",
+  "1,500",
+  "-",
+  "pound",
+  "bars",
+  "of",
+  "aluminum",
+  "stacked",
+  "15",
+  "feet",
+  "high",
+  "in",
+  "cavernous",
+  "storage",
+  "facilities",
+  ".",
+  "After",
+  "a",
+  "congressional",
+  "hearing",
+  "in",
+  "July",
+  ",",
+  "at",
+  "which",
+  "several",
+  "senators",
+  "called",
+  "on",
+  "Goldman",
+  "and",
+  "other",
+  "investment",
+  "banks",
+  "to",
+  "divest",
+  "themselves",
+  "of",
+  "their",
+  "commodities",
+  "holdings",
+  ",",
+  "Gary",
+  "Cohn",
+  ",",
+  "the",
+  "Goldman",
+  "president",
+  ",",
+  "said",
+  "that",
+  "Metro",
+  "would",
+  "offer",
+  "immediate",
+  "delivery",
+  "to",
+  "any",
+  "metal",
+  "owners",
+  "who",
+  "requested",
+  "it",
+  ".",
+  "But",
+  "the",
+  "report",
+  "released",
+  "Wednesday",
+  "by",
+  "the",
+  "metal",
+  "exchange",
+  "-",
+  "based",
+  "on",
+  "meetings",
+  "with",
+  "more",
+  "than",
+  "70",
+  "participants",
+  "in",
+  "the",
+  "aluminum",
+  "industry",
+  "-",
+  "found",
+  "that",
+  "stronger",
+  "measures",
+  "were",
+  "needed",
+  "to",
+  "ease",
+  "the",
+  "backlog",
+  "at",
+  "Metro",
+  "and",
+  "a",
+  "handful",
+  "of",
+  "other",
+  "warehouses",
+  "with",
+  "long",
+  "waiting",
+  "times",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   20,
+   89,
+   142,
+   160,
+   180,
+   223,
+   264,
+   300,
+   343,
+   356,
+   376,
+   419,
+   442,
+   461,
+   510,
+   529,
+   550,
+   564,
+   610,
+   658,
+   704
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 209,
+       "end": 211,
+       "tokens": "United States"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "LME"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 636,
+       "end": 638,
+       "tokens": "Gary Cohn"
+      },
+      {
+       "label": "Detroit",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "Detroit"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "Metro"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 326,
+       "end": 328,
+       "tokens": "Garry Jones"
+      },
+      {
+       "label": "Federal_Reserve_System",
+       "score": 1.0,
+       "start": 511,
+       "end": 513,
+       "tokens": "Federal Reserve"
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "Congress"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "London"
+      },
+      {
+       "label": "Novelis",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Novelis"
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 529,
+       "end": 531,
+       "tokens": "Michael DuVally"
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 102,
+       "end": 106,
+       "tokens": "Metro International Trade Services"
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 1.0,
+       "start": 116,
+       "end": 118,
+       "tokens": "Goldman Sachs"
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 1.0,
+       "start": 86,
+       "end": 88,
+       "tokens": "Goldman Sachs"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "institute"
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "congressional"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 63,
+       "end": 66,
+       "tokens": "London Metals Exchange"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "LME"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "Metro"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 444,
+       "end": 446,
+       "tokens": "Beer Institute"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 419,
+       "end": 421,
+       "tokens": "Nick Madden"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 209,
+       "end": 211,
+       "tokens": "United States"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "LME"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 636,
+       "end": 638,
+       "tokens": "Gary Cohn"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "Detroit"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "Metro"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 326,
+       "end": 328,
+       "tokens": "Garry Jones"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 511,
+       "end": 513,
+       "tokens": "Federal Reserve"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "Congress"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "London"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Novelis"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 529,
+       "end": 531,
+       "tokens": "Michael DuVally"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 102,
+       "end": 106,
+       "tokens": "Metro International Trade Services"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 116,
+       "end": 118,
+       "tokens": "Goldman Sachs"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 86,
+       "end": 88,
+       "tokens": "Goldman Sachs"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "institute"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "congressional"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 63,
+       "end": 66,
+       "tokens": "London Metals Exchange"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "LME"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "Metro"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 444,
+       "end": 446,
+       "tokens": "Beer Institute"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 419,
+       "end": 421,
+       "tokens": "Nick Madden"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "METAL",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "METAL"
+      },
+      {
+       "label": "EXCHANGE",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "EXCHANGE"
+      },
+      {
+       "label": "CHANGES",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "CHANGES"
+      },
+      {
+       "label": "RULES",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "RULES"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "TO"
+      },
+      {
+       "label": "TRIM",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "TRIM"
+      },
+      {
+       "label": "WAIT",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "WAIT"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "ART",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "ART"
+      },
+      {
+       "label": "ADV",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "ADV"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": ":"
+      },
+      {
+       "label": "Photo",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Photo"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "is"
+      },
+      {
+       "label": "being",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "being"
+      },
+      {
+       "label": "sent",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "sent"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "to"
+      },
+      {
+       "label": "NYT",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "NYT"
+      },
+      {
+       "label": "photo",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "photo"
+      },
+      {
+       "label": "clients",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "clients"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "."
+      },
+      {
+       "label": "Nonsubscribers",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Nonsubscribers"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "can"
+      },
+      {
+       "label": "purchase",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "purchase"
+      },
+      {
+       "label": "one",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "one"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "-"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "time"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "rights"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "by"
+      },
+      {
+       "label": "calling",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "calling"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": ":"
+      },
+      {
+       "label": "1-888-603-1036",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "1-888-603-1036"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "or"
+      },
+      {
+       "label": "1-888-346-9867",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "1-888-346-9867"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": ";"
+      },
+      {
+       "label": "Hoping",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "Hoping"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "to"
+      },
+      {
+       "label": "reduce",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "reduce"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "the"
+      },
+      {
+       "label": "warehouse",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "warehouse"
+      },
+      {
+       "label": "delays",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "delays"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "that"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "have"
+      },
+      {
+       "label": "added",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "added"
+      },
+      {
+       "label": "billions",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "billions"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "of"
+      },
+      {
+       "label": "dollars",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "dollars"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "the"
+      },
+      {
+       "label": "prices",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "prices"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "that"
+      },
+      {
+       "label": "consumers",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "consumers"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "pay"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "for"
+      },
+      {
+       "label": "beverage",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "beverage"
+      },
+      {
+       "label": "cans",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "cans"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "and"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "other"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "products",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "products"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "the"
+      },
+      {
+       "label": "London",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "London"
+      },
+      {
+       "label": "Metals",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Metals"
+      },
+      {
+       "label": "Exchange",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Exchange"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "has"
+      },
+      {
+       "label": "released",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "released"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "new"
+      },
+      {
+       "label": "regulations",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "regulations"
+      },
+      {
+       "label": "meant",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "meant"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "to"
+      },
+      {
+       "label": "reduce",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "reduce"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "the"
+      },
+      {
+       "label": "waiting",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "waiting"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "times"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "at"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "storage"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "facilities"
+      },
+      {
+       "label": "owned",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "owned"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "by"
+      },
+      {
+       "label": "commodities",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "commodities"
+      },
+      {
+       "label": "traders",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "traders"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "and"
+      },
+      {
+       "label": "banks",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "banks"
+      },
+      {
+       "label": "like",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "like"
+      },
+      {
+       "label": "Goldman",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "Sachs",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "Sachs"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "."
+      },
+      {
+       "label": "Beer",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "Beer"
+      },
+      {
+       "label": "breweries",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "breweries"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "and"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "other"
+      },
+      {
+       "label": "businesses",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "businesses"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "that"
+      },
+      {
+       "label": "buy",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "buy"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "have"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "for"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "years"
+      },
+      {
+       "label": "complained",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "complained"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "that"
+      },
+      {
+       "label": "Metro",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Metro"
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "International"
+      },
+      {
+       "label": "Trade",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "Trade"
+      },
+      {
+       "label": "Services",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Services"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "a"
+      },
+      {
+       "label": "string",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "string"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "of"
+      },
+      {
+       "label": "Detroit",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "Detroit"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "-"
+      },
+      {
+       "label": "area",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "area"
+      },
+      {
+       "label": "warehouses",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "warehouses"
+      },
+      {
+       "label": "owned",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "owned"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "by"
+      },
+      {
+       "label": "Goldman",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "Sachs",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "Sachs"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": ","
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "had"
+      },
+      {
+       "label": "orchestrated",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "orchestrated"
+      },
+      {
+       "label": "bottlenecks",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "bottlenecks"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "at"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "its"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "facilities"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "that"
+      },
+      {
+       "label": "forced",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "forced"
+      },
+      {
+       "label": "them",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "them"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "to"
+      },
+      {
+       "label": "wait",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "wait"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "as"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "long"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "as"
+      },
+      {
+       "label": "16",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "16"
+      },
+      {
+       "label": "months",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "months"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "for"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "their"
+      },
+      {
+       "label": "metal",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "metal"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "be"
+      },
+      {
+       "label": "delivered",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "delivered"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "The"
+      },
+      {
+       "label": "delays",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "delays"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "have"
+      },
+      {
+       "label": "generated",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "generated"
+      },
+      {
+       "label": "millions",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "millions"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "in"
+      },
+      {
+       "label": "profits",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "profits"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "the"
+      },
+      {
+       "label": "warehouse",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "warehouse"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "which"
+      },
+      {
+       "label": "charges",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "charges"
+      },
+      {
+       "label": "rent",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "rent"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "the"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "But"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "they"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "also"
+      },
+      {
+       "label": "add",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "add"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "the"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "storage"
+      },
+      {
+       "label": "expense",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "expense"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "for"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "buyers",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "buyers"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": ","
+      },
+      {
+       "label": "costs",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "costs"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "that"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "are"
+      },
+      {
+       "label": "passed",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "passed"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "on"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "to"
+      },
+      {
+       "label": "consumers",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "consumers"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "."
+      },
+      {
+       "label": "Because",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "Because"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "a"
+      },
+      {
+       "label": "quirk",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "quirk"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "the"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "way"
+      },
+      {
+       "label": "metal",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "metal"
+      },
+      {
+       "label": "prices",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "prices"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "are"
+      },
+      {
+       "label": "set",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "set"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "the"
+      },
+      {
+       "label": "spot",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "spot"
+      },
+      {
+       "label": "market",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "market"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "the"
+      },
+      {
+       "label": "delays",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "delays"
+      },
+      {
+       "label": "raise",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "raise"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "the"
+      },
+      {
+       "label": "price",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "price"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "of"
+      },
+      {
+       "label": "nearly",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "nearly"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "all"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "the"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "sold",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "sold"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "United"
+      },
+      {
+       "label": "States",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "States"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": ","
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "even"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "if"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "the"
+      },
+      {
+       "label": "metal",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "metal"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "is"
+      },
+      {
+       "label": "never",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "never"
+      },
+      {
+       "label": "stored",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "stored"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "a"
+      },
+      {
+       "label": "warehouse",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "warehouse"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "The"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "new"
+      },
+      {
+       "label": "guidelines",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "guidelines"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": ","
+      },
+      {
+       "label": "released",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "released"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "after"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "a"
+      },
+      {
+       "label": "three",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "three"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "-"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "month"
+      },
+      {
+       "label": "review",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "review"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "the"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "storage"
+      },
+      {
+       "label": "business",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "business"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": ","
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "will"
+      },
+      {
+       "label": "require",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "require"
+      },
+      {
+       "label": "warehouses",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "warehouses"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "with"
+      },
+      {
+       "label": "waiting",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "waiting"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "times"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "of"
+      },
+      {
+       "label": "50",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "50"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "days"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "or"
+      },
+      {
+       "label": "longer",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "longer"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "to"
+      },
+      {
+       "label": "load",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "load"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "out"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "more"
+      },
+      {
+       "label": "metal",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "metal"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "than"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "they"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "take"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "in"
+      },
+      {
+       "label": "each",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "each"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "day"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "The"
+      },
+      {
+       "label": "exchange",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "exchange"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "which"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "is"
+      },
+      {
+       "label": "owned",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "owned"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "by"
+      },
+      {
+       "label": "investors",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "investors"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "and"
+      },
+      {
+       "label": "regulates",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "regulates"
+      },
+      {
+       "label": "700",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "700"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "storage"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "facilities"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "around"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "the"
+      },
+      {
+       "label": "globe",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "globe"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "said"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "it"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "would"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "also"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "be"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "more"
+      },
+      {
+       "label": "aggressive",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "aggressive"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "in"
+      },
+      {
+       "label": "investigating",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "investigating"
+      },
+      {
+       "label": "instances",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "instances"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "where"
+      },
+      {
+       "label": "warehouses",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "warehouses"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "appeared"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "be"
+      },
+      {
+       "label": "instigating",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "instigating"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "the"
+      },
+      {
+       "label": "delays",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "delays"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "The"
+      },
+      {
+       "label": "LME",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "LME"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "will"
+      },
+      {
+       "label": "now",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "now"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "have"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "a"
+      },
+      {
+       "label": "greater",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "greater"
+      },
+      {
+       "label": "power",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "power"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "to"
+      },
+      {
+       "label": "investigate",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "investigate"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "and"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "to"
+      },
+      {
+       "label": "act",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "act"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "to"
+      },
+      {
+       "label": "prevent",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "prevent"
+      },
+      {
+       "label": "warehouse",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "warehouse"
+      },
+      {
+       "label": "companies",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "companies"
+      },
+      {
+       "label": "unreasonably",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "unreasonably"
+      },
+      {
+       "label": "incentivizing",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "incentivizing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "the"
+      },
+      {
+       "label": "formation",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "formation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "of"
+      },
+      {
+       "label": "queues",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "queues"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Garry",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "Garry"
+      },
+      {
+       "label": "Jones",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "Jones"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "the"
+      },
+      {
+       "label": "exchange",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "exchange"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "chief"
+      },
+      {
+       "label": "executive",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "executive"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "said"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "a"
+      },
+      {
+       "label": "video",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "video"
+      },
+      {
+       "label": "announcing",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "announcing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "the"
+      },
+      {
+       "label": "changes",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "changes"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "."
+      },
+      {
+       "label": "Beverage",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "Beverage"
+      },
+      {
+       "label": "makers",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "makers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "and"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "brokers",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "brokers"
+      },
+      {
+       "label": "offered",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "offered"
+      },
+      {
+       "label": "measured",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "measured"
+      },
+      {
+       "label": "praise",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "praise"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "the"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "new"
+      },
+      {
+       "label": "regulations",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "regulations"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "."
+      },
+      {
+       "label": "Some",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "Some"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "brokers",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "brokers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "and"
+      },
+      {
+       "label": "users",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "users"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "had"
+      },
+      {
+       "label": "urged",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "urged"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "the"
+      },
+      {
+       "label": "exchange",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "exchange"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "to"
+      },
+      {
+       "label": "forbid",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "forbid"
+      },
+      {
+       "label": "warehouses",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "warehouses"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "from"
+      },
+      {
+       "label": "charging",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "charging"
+      },
+      {
+       "label": "rent",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "rent"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "during"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "any"
+      },
+      {
+       "label": "delivery",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "delivery"
+      },
+      {
+       "label": "delays",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "delays"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "But"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "the"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "report"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "that"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "that"
+      },
+      {
+       "label": "suggestion",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "suggestion"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": ","
+      },
+      {
+       "label": "while",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "while"
+      },
+      {
+       "label": "attractive",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "attractive"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": ","
+      },
+      {
+       "label": "might",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "might"
+      },
+      {
+       "label": "lead",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "lead"
+      },
+      {
+       "label": "warehouse",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "warehouse"
+      },
+      {
+       "label": "owners",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "owners"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "to"
+      },
+      {
+       "label": "raise",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "raise"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "other"
+      },
+      {
+       "label": "fees",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "fees"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": ","
+      },
+      {
+       "label": "so",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "so"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "the"
+      },
+      {
+       "label": "exchange",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "exchange"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "would"
+      },
+      {
+       "label": "consider",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "consider"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "it"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "a"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "next"
+      },
+      {
+       "label": "step",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "step"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "option",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "option"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "if"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "its"
+      },
+      {
+       "label": "current",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "current"
+      },
+      {
+       "label": "reforms",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "reforms"
+      },
+      {
+       "label": "failed",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "failed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "to"
+      },
+      {
+       "label": "shorten",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "shorten"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "the"
+      },
+      {
+       "label": "lines",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "lines"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "."
+      },
+      {
+       "label": "Nick",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "Nick"
+      },
+      {
+       "label": "Madden",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "Madden"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "the"
+      },
+      {
+       "label": "head",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "head"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "of"
+      },
+      {
+       "label": "procurement",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "procurement"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "at"
+      },
+      {
+       "label": "Novelis",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "Novelis"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "said"
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "he"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "was"
+      },
+      {
+       "label": "optimistic",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "optimistic"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "the"
+      },
+      {
+       "label": "changes",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "changes"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "would"
+      },
+      {
+       "label": "help",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "help"
+      },
+      {
+       "label": "address",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "address"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "the"
+      },
+      {
+       "label": "issue",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "issue"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "But"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "the"
+      },
+      {
+       "label": "Beer",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "Beer"
+      },
+      {
+       "label": "Institute",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "Institute"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "which"
+      },
+      {
+       "label": "lobbied",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "lobbied"
+      },
+      {
+       "label": "Congress",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "Congress"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "and"
+      },
+      {
+       "label": "federal",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "federal"
+      },
+      {
+       "label": "regulators",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "regulators"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "said"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "more"
+      },
+      {
+       "label": "needed",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "needed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "be"
+      },
+      {
+       "label": "done",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "done"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "The"
+      },
+      {
+       "label": "rule",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "rule"
+      },
+      {
+       "label": "changes",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "changes"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "are"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "a"
+      },
+      {
+       "label": "move",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "move"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "the"
+      },
+      {
+       "label": "right",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "right"
+      },
+      {
+       "label": "direction",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "direction"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "but"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "we"
+      },
+      {
+       "label": "believe",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "believe"
+      },
+      {
+       "label": "further",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "further"
+      },
+      {
+       "label": "reforms",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "reforms"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "could"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "be"
+      },
+      {
+       "label": "immediately",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "immediately"
+      },
+      {
+       "label": "implemented",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "implemented"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "to"
+      },
+      {
+       "label": "return",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "return"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "the"
+      },
+      {
+       "label": "LME",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "LME"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "a"
+      },
+      {
+       "label": "proper",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "proper"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": ","
+      },
+      {
+       "label": "free",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "free"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "-"
+      },
+      {
+       "label": "market",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "market"
+      },
+      {
+       "label": "function",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "function"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "of"
+      },
+      {
+       "label": "global",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "global"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "price",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "price"
+      },
+      {
+       "label": "discovery",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "discovery"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "a"
+      },
+      {
+       "label": "spokeswoman",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "spokeswoman"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "for"
+      },
+      {
+       "label": "institute",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "institute"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "said"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "a"
+      },
+      {
+       "label": "statement",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "statement"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "The"
+      },
+      {
+       "label": "Federal",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "Federal"
+      },
+      {
+       "label": "Reserve",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "Reserve"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "is"
+      },
+      {
+       "label": "reviewing",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "reviewing"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "the"
+      },
+      {
+       "label": "exemptions",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "exemptions"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": "that"
+      },
+      {
+       "label": "allow",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "allow"
+      },
+      {
+       "label": "Goldman",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "and"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "other"
+      },
+      {
+       "label": "banks",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "banks"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "to"
+      },
+      {
+       "label": "own",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "own"
+      },
+      {
+       "label": "commodities",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "commodities"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "storage"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "facilities"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "."
+      },
+      {
+       "label": "Michael",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "Michael"
+      },
+      {
+       "label": "DuVally",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "DuVally"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "a"
+      },
+      {
+       "label": "spokesman",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "spokesman"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "for"
+      },
+      {
+       "label": "Goldman",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "Goldman"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "said"
+      },
+      {
+       "label": "Thursday",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "Thursday"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "that"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "company"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": "had"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "no"
+      },
+      {
+       "label": "comment",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "comment"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "the"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "new"
+      },
+      {
+       "label": "regulation",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "regulation"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "But"
+      },
+      {
+       "label": "Goldman",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "officials"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "have"
+      },
+      {
+       "label": "repeatedly",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "repeatedly"
+      },
+      {
+       "label": "denied",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "denied"
+      },
+      {
+       "label": "accusations",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "accusations"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "that"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "they"
+      },
+      {
+       "label": "intentionally",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "intentionally"
+      },
+      {
+       "label": "caused",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "caused"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "the"
+      },
+      {
+       "label": "delays",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "delays"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "."
+      },
+      {
+       "label": "Company",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "Company"
+      },
+      {
+       "label": "officials",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "officials"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "have"
+      },
+      {
+       "label": "cited",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "cited"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "a"
+      },
+      {
+       "label": "variety",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "variety"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "of"
+      },
+      {
+       "label": "causes",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "causes"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "for"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "the"
+      },
+      {
+       "label": "bottlenecks",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "bottlenecks"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "over"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "the"
+      },
+      {
+       "label": "years",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "years"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "including"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "a"
+      },
+      {
+       "label": "shortage",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "shortage"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "of"
+      },
+      {
+       "label": "trucks",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "trucks"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "and"
+      },
+      {
+       "label": "forklift",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "forklift"
+      },
+      {
+       "label": "drivers",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "drivers"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "the"
+      },
+      {
+       "label": "logistical",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "logistical"
+      },
+      {
+       "label": "challenges",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "challenges"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "of"
+      },
+      {
+       "label": "locating",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "locating"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "and"
+      },
+      {
+       "label": "moving",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "moving"
+      },
+      {
+       "label": "1,500",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "1,500"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "-"
+      },
+      {
+       "label": "pound",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "pound"
+      },
+      {
+       "label": "bars",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "bars"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "of"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "stacked",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "stacked"
+      },
+      {
+       "label": "15",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "15"
+      },
+      {
+       "label": "feet",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "feet"
+      },
+      {
+       "label": "high",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "high"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": "in"
+      },
+      {
+       "label": "cavernous",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "cavernous"
+      },
+      {
+       "label": "storage",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": "storage"
+      },
+      {
+       "label": "facilities",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "facilities"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "."
+      },
+      {
+       "label": "After",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": "After"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": "a"
+      },
+      {
+       "label": "congressional",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "congressional"
+      },
+      {
+       "label": "hearing",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "hearing"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "in"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "July"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": ","
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "at"
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "which"
+      },
+      {
+       "label": "several",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "several"
+      },
+      {
+       "label": "senators",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": "senators"
+      },
+      {
+       "label": "called",
+       "score": 1.0,
+       "start": 621,
+       "end": 622,
+       "tokens": "called"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 622,
+       "end": 623,
+       "tokens": "on"
+      },
+      {
+       "label": "Goldman",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 624,
+       "end": 625,
+       "tokens": "and"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 625,
+       "end": 626,
+       "tokens": "other"
+      },
+      {
+       "label": "investment",
+       "score": 1.0,
+       "start": 626,
+       "end": 627,
+       "tokens": "investment"
+      },
+      {
+       "label": "banks",
+       "score": 1.0,
+       "start": 627,
+       "end": 628,
+       "tokens": "banks"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 628,
+       "end": 629,
+       "tokens": "to"
+      },
+      {
+       "label": "divest",
+       "score": 1.0,
+       "start": 629,
+       "end": 630,
+       "tokens": "divest"
+      },
+      {
+       "label": "themselves",
+       "score": 1.0,
+       "start": 630,
+       "end": 631,
+       "tokens": "themselves"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 631,
+       "end": 632,
+       "tokens": "of"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "their"
+      },
+      {
+       "label": "commodities",
+       "score": 1.0,
+       "start": 633,
+       "end": 634,
+       "tokens": "commodities"
+      },
+      {
+       "label": "holdings",
+       "score": 1.0,
+       "start": 634,
+       "end": 635,
+       "tokens": "holdings"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": ","
+      },
+      {
+       "label": "Gary",
+       "score": 1.0,
+       "start": 636,
+       "end": 637,
+       "tokens": "Gary"
+      },
+      {
+       "label": "Cohn",
+       "score": 1.0,
+       "start": 637,
+       "end": 638,
+       "tokens": "Cohn"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 638,
+       "end": 639,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 639,
+       "end": 640,
+       "tokens": "the"
+      },
+      {
+       "label": "Goldman",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "Goldman"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 641,
+       "end": 642,
+       "tokens": "president"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 642,
+       "end": 643,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 643,
+       "end": 644,
+       "tokens": "said"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 644,
+       "end": 645,
+       "tokens": "that"
+      },
+      {
+       "label": "Metro",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "Metro"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 646,
+       "end": 647,
+       "tokens": "would"
+      },
+      {
+       "label": "offer",
+       "score": 1.0,
+       "start": 647,
+       "end": 648,
+       "tokens": "offer"
+      },
+      {
+       "label": "immediate",
+       "score": 1.0,
+       "start": 648,
+       "end": 649,
+       "tokens": "immediate"
+      },
+      {
+       "label": "delivery",
+       "score": 1.0,
+       "start": 649,
+       "end": 650,
+       "tokens": "delivery"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 650,
+       "end": 651,
+       "tokens": "to"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "any"
+      },
+      {
+       "label": "metal",
+       "score": 1.0,
+       "start": 652,
+       "end": 653,
+       "tokens": "metal"
+      },
+      {
+       "label": "owners",
+       "score": 1.0,
+       "start": 653,
+       "end": 654,
+       "tokens": "owners"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 654,
+       "end": 655,
+       "tokens": "who"
+      },
+      {
+       "label": "requested",
+       "score": 1.0,
+       "start": 655,
+       "end": 656,
+       "tokens": "requested"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 656,
+       "end": 657,
+       "tokens": "it"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 657,
+       "end": 658,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 658,
+       "end": 659,
+       "tokens": "But"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 659,
+       "end": 660,
+       "tokens": "the"
+      },
+      {
+       "label": "report",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "report"
+      },
+      {
+       "label": "released",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "released"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 663,
+       "end": 664,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 664,
+       "end": 665,
+       "tokens": "the"
+      },
+      {
+       "label": "metal",
+       "score": 1.0,
+       "start": 665,
+       "end": 666,
+       "tokens": "metal"
+      },
+      {
+       "label": "exchange",
+       "score": 1.0,
+       "start": 666,
+       "end": 667,
+       "tokens": "exchange"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 667,
+       "end": 668,
+       "tokens": "-"
+      },
+      {
+       "label": "based",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "based"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 669,
+       "end": 670,
+       "tokens": "on"
+      },
+      {
+       "label": "meetings",
+       "score": 1.0,
+       "start": 670,
+       "end": 671,
+       "tokens": "meetings"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 671,
+       "end": 672,
+       "tokens": "with"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "more"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 673,
+       "end": 674,
+       "tokens": "than"
+      },
+      {
+       "label": "70",
+       "score": 1.0,
+       "start": 674,
+       "end": 675,
+       "tokens": "70"
+      },
+      {
+       "label": "participants",
+       "score": 1.0,
+       "start": 675,
+       "end": 676,
+       "tokens": "participants"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 676,
+       "end": 677,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "the"
+      },
+      {
+       "label": "aluminum",
+       "score": 1.0,
+       "start": 678,
+       "end": 679,
+       "tokens": "aluminum"
+      },
+      {
+       "label": "industry",
+       "score": 1.0,
+       "start": 679,
+       "end": 680,
+       "tokens": "industry"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 680,
+       "end": 681,
+       "tokens": "-"
+      },
+      {
+       "label": "found",
+       "score": 1.0,
+       "start": 681,
+       "end": 682,
+       "tokens": "found"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 682,
+       "end": 683,
+       "tokens": "that"
+      },
+      {
+       "label": "stronger",
+       "score": 1.0,
+       "start": 683,
+       "end": 684,
+       "tokens": "stronger"
+      },
+      {
+       "label": "measures",
+       "score": 1.0,
+       "start": 684,
+       "end": 685,
+       "tokens": "measures"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 685,
+       "end": 686,
+       "tokens": "were"
+      },
+      {
+       "label": "needed",
+       "score": 1.0,
+       "start": 686,
+       "end": 687,
+       "tokens": "needed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 687,
+       "end": 688,
+       "tokens": "to"
+      },
+      {
+       "label": "ease",
+       "score": 1.0,
+       "start": 688,
+       "end": 689,
+       "tokens": "ease"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 689,
+       "end": 690,
+       "tokens": "the"
+      },
+      {
+       "label": "backlog",
+       "score": 1.0,
+       "start": 690,
+       "end": 691,
+       "tokens": "backlog"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 691,
+       "end": 692,
+       "tokens": "at"
+      },
+      {
+       "label": "Metro",
+       "score": 1.0,
+       "start": 692,
+       "end": 693,
+       "tokens": "Metro"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 693,
+       "end": 694,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 694,
+       "end": 695,
+       "tokens": "a"
+      },
+      {
+       "label": "handful",
+       "score": 1.0,
+       "start": 695,
+       "end": 696,
+       "tokens": "handful"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 696,
+       "end": 697,
+       "tokens": "of"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 697,
+       "end": 698,
+       "tokens": "other"
+      },
+      {
+       "label": "warehouses",
+       "score": 1.0,
+       "start": 698,
+       "end": 699,
+       "tokens": "warehouses"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 699,
+       "end": 700,
+       "tokens": "with"
+      },
+      {
+       "label": "long",
+       "score": 1.0,
+       "start": 700,
+       "end": 701,
+       "tokens": "long"
+      },
+      {
+       "label": "waiting",
+       "score": 1.0,
+       "start": 701,
+       "end": 702,
+       "tokens": "waiting"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 702,
+       "end": 703,
+       "tokens": "times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 703,
+       "end": 704,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_States",
+       "score": 0.97275560287452,
+       "start": 209,
+       "end": 211,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "United_States": 0.97275560287452,
+        "United_States_men's_national_soccer_team": 0.011235423771333367,
+        "United_States_men's_national_ice_hockey_team": 0.0032584361159105164,
+        "United_States_women's_national_soccer_team": 0.002253969821368881,
+        "United_States_national_cricket_team": 0.0019866507707113003,
+        "United_States_men's_national_basketball_team": 0.0019522228333374878,
+        "United_States_Armed_Forces": 0.001950526369762289,
+        "United_States_national_rugby_union_team": 0.0017071798236457415,
+        "United_States_Davis_Cup_team": 0.0016201063366112214,
+        "United_States_Soccer_Federation": 0.0012798812827991457,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "London_Metal_Exchange",
+       "score": 0.961610273671662,
+       "start": 302,
+       "end": 303,
+       "tokens": "LME",
+       "labelScoreMap": {
+        "London_Metal_Exchange": 0.961610273671662,
+        "Malt": 0.03206011734150667,
+        "Standard_ML": 0.006329608986831294,
+        "<unk_wid>": 2.438052421476795e-18
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 636,
+       "end": 638,
+       "tokens": "Gary Cohn",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Detroit",
+       "score": 0.841138269337302,
+       "start": 110,
+       "end": 111,
+       "tokens": "Detroit",
+       "labelScoreMap": {
+        "Detroit": 0.841138269337302,
+        "Detroit_Pistons": 0.011547087101333151,
+        "Detroit_Red_Wings": 0.010885093806988082,
+        "Detroit_Tigers": 0.005978688489278768,
+        "Detroit_Metropolitan_Airport": 0.01056667242223466,
+        "Detroit_street_circuit": 0.0043383434673537734,
+        "Detroit_Lions": 0.004311392657193956,
+        "Detroit_Shock": 0.0040663687126267145,
+        "University_of_Detroit_Mercy": 0.003738749039953815,
+        "Detroit_River": 0.003960918152597858,
+        "Strait_of_Dover": 0.0028769837939336333,
+        "Detroit,_Oregon": 0.002778085516878342,
+        "Detroit_Titans_men's_basketball": 0.002248174193702535,
+        "Tiger_Stadium_(Detroit)": 0.002178791458297023,
+        "Metro_Detroit": 0.07528157556792374,
+        "North_American_International_Auto_Show": 0.0021196129240440968,
+        "Siege_of_Detroit": 0.0018857802168609937,
+        "Detroit_Belle_Isle_Grand_Prix": 0.0016435066737356273,
+        "Roman_Catholic_Archdiocese_of_Detroit": 0.005559143565932481,
+        "Detroit_Grand_Prix": 0.0014687837062915172,
+        "Detroit,_Texas": 0.0014279791955371334,
+        "<unk_wid>": 3.5857821736379965e-25
+       }
+      },
+      {
+       "label": "Paris_M\u00e9tro",
+       "score": 0.0980616344676783,
+       "start": 692,
+       "end": 693,
+       "tokens": "Metro",
+       "labelScoreMap": {
+        "Paris_M\u00e9tro": 0.0980616344676783,
+        "Metro_(British_newspaper)": 0.0552684858609602,
+        "Metro_International": 0.037397504153248995,
+        "Washington_Metro": 0.046921319062140386,
+        "Metro_(Oregon_regional_government)": 0.03025077876443313,
+        "Montreal_Metro": 0.0459701157314732,
+        "Metro_AG": 0.019666588367349903,
+        "Madrid_Metro": 0.01737886999581675,
+        "Moscow_Metro": 0.034554600854329466,
+        "Metro-Goldwyn-Mayer": 0.014435631231337327,
+        "New_York_City_Subway": 0.07999740170358485,
+        "Austin_Metro": 0.013169956967594182,
+        "Amsterdam_Metro": 0.012126963641533003,
+        "Mexico_City_Metro": 0.03295534136248136,
+        "Los_Angeles_Metro_Rail": 0.06327916452339079,
+        "Cairo_Metro": 0.010175393138708006,
+        "London_Underground": 0.061358358206131794,
+        "Los_Angeles_County_Metropolitan_Transportation_Authority": 0.07511464607995405,
+        "Shanghai_Metro": 0.04830572077918471,
+        "Metro_(magazine)": 0.009442490147277693,
+        "S\u00e3o_Paulo_Metro": 0.020095960652893843,
+        "Delaware_Valley": 0.008584796036356541,
+        "Metropolitan_Toronto": 0.034073083874097,
+        "Barcelona_Metro": 0.03512849419070746,
+        "Valley_Metro": 0.008006522185815696,
+        "Stockholm_metro": 0.01732268245786508,
+        "Copenhagen_Metro": 0.01246198654337067,
+        "Budapest_Metro": 0.016036354942314632,
+        "Metropolitan_Transit_Authority_of_Harris_County": 0.03272675338115775,
+        "Medell\u00edn_Metro": 0.009732400696813375
+       }
+      },
+      {
+       "label": "Full_Sail_University",
+       "score": 1.0,
+       "start": 326,
+       "end": 328,
+       "tokens": "Garry Jones",
+       "labelScoreMap": {
+        "Full_Sail_University": 1.0,
+        "<unk_wid>": 2.0423844064816736e-32
+       }
+      },
+      {
+       "label": "Federal_Reserve_System",
+       "score": 0.9657482860574713,
+       "start": 511,
+       "end": 513,
+       "tokens": "Federal Reserve",
+       "labelScoreMap": {
+        "Federal_Reserve_System": 0.9657482860574713,
+        "Federal_Reserve_Act": 0.034251713942528676,
+        "<unk_wid>": 7.445954201891148e-27
+       }
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6248775096070082,
+       "start": 519,
+       "end": 520,
+       "tokens": "Goldman",
+       "labelScoreMap": {
+        "Goldman_Sachs": 0.6248775096070082,
+        "Emma_Goldman": 0.11245012923851495,
+        "Jean-Jacques_Goldman": 0.05806433661105037,
+        "Vivien_Goldman": 0.03317968897109549,
+        "Albert_Goldman": 0.0313362894182824,
+        "William_Goldman": 0.031336288292606394,
+        "Henry_Paulson": 0.029493014380213463,
+        "Alvin_Goldman": 0.02764974086317407,
+        "Marcus_Goldman": 0.02488476672877794,
+        "Edward_Alphonso_Goldman": 0.010138221302774877,
+        "Ronald_Goldman": 0.008294909729096231,
+        "James_Goldman": 0.0027651694395628684,
+        "Gary_Goldman": 0.0018433118055078792,
+        "John_Paulson": 0.0018433118072235216,
+        "Tinnitus": 0.001843311805111182,
+        "<unk_wid>": 2.7271584373565013e-35
+       }
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 0.4846936993104528,
+       "start": 449,
+       "end": 450,
+       "tokens": "Congress",
+       "labelScoreMap": {
+        "United_States_Congress": 0.4846936993104528,
+        "Indian_National_Congress": 0.04033165951189437,
+        "Congress_of_the_Philippines": 0.016107435784891537,
+        "Congress_of_the_Union": 0.02223617375341996,
+        "Congress,_Arizona": 0.007885482533990906,
+        "United_States_House_of_Representatives": 0.28286371570439056,
+        "National_Congress_of_Brazil": 0.010736605831387028,
+        "Congress_of_Colombia": 0.006285102898580427,
+        "Congress_of_the_Confederation": 0.01407853138490853,
+        "Congress_of_the_Republic_of_Peru": 0.004229453592335416,
+        "National_Congress_of_Argentina": 0.0030060742481607438,
+        "Congress_of_Guatemala": 0.0059553269625149145,
+        "USS_Congress_(1841)": 0.001551632267889022,
+        "USS_Congress_(1799)": 0.001477212677357831,
+        "Continental_Congress": 0.039003718476929905,
+        "National_Congress_of_Chile": 0.004537891121685833,
+        "International_Congress_of_Mathematicians": 0.0016557050611027677,
+        "Congress_of_Deputies_(Spain)": 0.0020155303306967206,
+        "Congress_of_Paraguay": 0.0009214466777495273,
+        "Federal_government_of_the_United_States": 0.048812231471229976,
+        "Congress_of_the_Council_of_Europe": 0.0009263005108898937,
+        "Iraq_Liberation_Act": 0.0006890698875414255,
+        "<unk_wid>": 2.767891644087399e-23
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.5631081177197523,
+       "start": 63,
+       "end": 64,
+       "tokens": "London",
+       "labelScoreMap": {
+        "London": 0.5631081177197523,
+        "London,_Ontario": 0.01978696797615568,
+        "London_Records": 0.017370816790545675,
+        "London_(European_Parliament_constituency)": 0.003072432853217602,
+        "7_July_2005_London_bombings": 0.002650422922125538,
+        "London_International_Airport": 0.0021542800008550124,
+        "London_Fire_Brigade": 0.0024771050564247965,
+        "London_Ambulance_Service": 0.0027133622044248715,
+        "London,_Kentucky": 0.001861207635383481,
+        "Greater_London": 0.0032695972758820598,
+        "London_postal_district": 0.0015861739135714138,
+        "Greater_London_Built-up_Area": 0.0013392567436022146,
+        "London_Cricket_Club": 0.0010998423950580188,
+        "London_(heavy_metal_band)": 0.0010457917610984225,
+        "London_Overground": 0.06373560110834314,
+        "HMS_President_(1918)": 0.0009405362521473201,
+        "London_(punk_band)": 0.0008621661100033255,
+        "University_of_London": 0.006821196402458686,
+        "City_of_London": 0.012538371719707918,
+        "London,_Ohio": 0.0007009932043175175,
+        "London_Underground": 0.29086575995492453,
+        "<unk_wid>": 5.00021159417571e-24
+       }
+      },
+      {
+       "label": "Author",
+       "score": 0.9972971773329137,
+       "start": 427,
+       "end": 428,
+       "tokens": "Novelis",
+       "labelScoreMap": {
+        "Author": 0.9972971773329137,
+        "Writer": 0.0027028226670863945,
+        "<unk_wid>": 5.668687953834245e-30
+       }
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6248821611552944,
+       "start": 640,
+       "end": 641,
+       "tokens": "Goldman",
+       "labelScoreMap": {
+        "Goldman_Sachs": 0.6248821611552944,
+        "Emma_Goldman": 0.11244526138843632,
+        "Jean-Jacques_Goldman": 0.05806441359820051,
+        "Vivien_Goldman": 0.03317973567197773,
+        "Albert_Goldman": 0.031336332240022594,
+        "William_Goldman": 0.03133633209775841,
+        "Henry_Paulson": 0.029493055887325488,
+        "Alvin_Goldman": 0.027649779729956567,
+        "Marcus_Goldman": 0.024884801754003486,
+        "Edward_Alphonso_Goldman": 0.010138235571083908,
+        "Ronald_Goldman": 0.00829492119794804,
+        "James_Goldman": 0.0027650265090261974,
+        "Gary_Goldman": 0.0018433143996380405,
+        "John_Paulson": 0.0018433143997295587,
+        "Tinnitus": 0.0018433143995987488,
+        "<unk_wid>": 1.388257960951232e-38
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 529,
+       "end": 531,
+       "tokens": "Michael DuVally",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6247899784944345,
+       "start": 551,
+       "end": 552,
+       "tokens": "Goldman",
+       "labelScoreMap": {
+        "Goldman_Sachs": 0.6247899784944345,
+        "Emma_Goldman": 0.11254285472132024,
+        "Jean-Jacques_Goldman": 0.05806290380888809,
+        "Vivien_Goldman": 0.03317881581773747,
+        "Albert_Goldman": 0.03133552581058168,
+        "William_Goldman": 0.03133548869605532,
+        "Henry_Paulson": 0.029492239399325923,
+        "Alvin_Goldman": 0.02764901898082282,
+        "Marcus_Goldman": 0.02488411189710604,
+        "Edward_Alphonso_Goldman": 0.01013795501268852,
+        "Ronald_Goldman": 0.008294699469656587,
+        "James_Goldman": 0.0027666178528448384,
+        "Gary_Goldman": 0.0018432633407977018,
+        "John_Paulson": 0.0018432634010871456,
+        "Tinnitus": 0.0018432632966530842,
+        "<unk_wid>": 5.382608609867696e-30
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 102,
+       "end": 106,
+       "tokens": "Metro International Trade Services",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6248729919955028,
+       "start": 623,
+       "end": 624,
+       "tokens": "Goldman",
+       "labelScoreMap": {
+        "Goldman_Sachs": 0.6248729919955028,
+        "Emma_Goldman": 0.11245492466349445,
+        "Jean-Jacques_Goldman": 0.058064261579383276,
+        "Vivien_Goldman": 0.0331796439489867,
+        "Albert_Goldman": 0.031336249029634736,
+        "William_Goldman": 0.03133624592660905,
+        "Henry_Paulson": 0.02949297439262129,
+        "Alvin_Goldman": 0.027649703353750835,
+        "Marcus_Goldman": 0.024884732963452276,
+        "Edward_Alphonso_Goldman": 0.010138207554209772,
+        "Ronald_Goldman": 0.008294898943670618,
+        "James_Goldman": 0.0027652377286212465,
+        "Gary_Goldman": 0.0018433093049834098,
+        "John_Paulson": 0.0018433093111879654,
+        "Tinnitus": 0.0018433093038917592,
+        "<unk_wid>": 4.804609286011776e-34
+       }
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.9883235765991529,
+       "start": 116,
+       "end": 118,
+       "tokens": "Goldman Sachs",
+       "labelScoreMap": {
+        "Goldman_Sachs": 0.9883235765991529,
+        "Marcus_Goldman": 0.005264806129361424,
+        "N_M_Rothschild_&_Sons": 0.0032318850430319303,
+        "Henry_Paulson": 0.0031797322284537965,
+        "<unk_wid>": 1.925753897738962e-41
+       }
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.9883235593253011,
+       "start": 86,
+       "end": 88,
+       "tokens": "Goldman Sachs",
+       "labelScoreMap": {
+        "Goldman_Sachs": 0.9883235593253011,
+        "Marcus_Goldman": 0.005264806038448996,
+        "N_M_Rothschild_&_Sons": 0.0032319024627339393,
+        "Henry_Paulson": 0.003179732173515698,
+        "<unk_wid>": 7.583980052162913e-40
+       }
+      },
+      {
+       "label": "Institute_of_Electrical_and_Electronics_Engineers",
+       "score": 0.2345682177606809,
+       "start": 504,
+       "end": 505,
+       "tokens": "institute",
+       "labelScoreMap": {
+        "Institute_(band)": 0.16603428064439932,
+        "Institute,_West_Virginia": 0.0980619973066778,
+        "Institute_F.C.": 0.08654606037821884,
+        "Institute_of_Religion": 0.025354340338690464,
+        "Romanian_Cultural_Institute": 0.022292037747438764,
+        "Institute_for_Justice": 0.02703782568129895,
+        "Robert_Monroe": 0.014857726602807122,
+        "Institut_de_France": 0.006510236908151012,
+        "Musaeum": 0.005571641132940759,
+        "American_National_Standards_Institute": 0.005678683331595661,
+        "Iona_Institute": 0.0037154248381980263,
+        "Balseiro_Institute": 0.0037144999685781526,
+        "Oak_Ridge_Military_Academy": 0.003714426363555351,
+        "Acad\u00e9mie_fran\u00e7aise": 0.008390976200832215,
+        "Art_Institute_of_Chicago": 0.0042418816030549535,
+        "Australian_Institute_of_Sport": 0.0030569259011815893,
+        "Search_for_extraterrestrial_intelligence": 0.017292364015387064,
+        "Institute_for_Advanced_Study": 0.016855778099314146,
+        "Fourth_Way": 0.0026166701559598503,
+        "Kinsey_Institute_for_Research_in_Sex,_Gender,_and_Reproduction": 0.0179548206572381,
+        "Institute_of_consecrated_life": 0.0022312770165238073,
+        "Institute_for_Historical_Review": 0.019008654034914637,
+        "Pioneer_Fund": 0.005220869662024949,
+        "Leibniz_Association": 0.0033294955568546965,
+        "Institute_of_Electrical_and_Electronics_Engineers": 0.2345682177606809,
+        "Norwegian_Nobel_Institute": 0.0018906749597355484,
+        "Cato_Institute": 0.18186095225838197,
+        "Indian_Institute_of_Planning_and_Management": 0.0018572135552717283,
+        "Academia_Sinica": 0.008995797632132796,
+        "Minhaj-ul-Quran": 0.0015382496879605947
+       }
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6248830922653794,
+       "start": 535,
+       "end": 536,
+       "tokens": "Goldman",
+       "labelScoreMap": {
+        "Goldman_Sachs": 0.6248830922653794,
+        "Emma_Goldman": 0.11244428627431406,
+        "Jean-Jacques_Goldman": 0.05806442837288909,
+        "Vivien_Goldman": 0.033179745015563665,
+        "Albert_Goldman": 0.031336340985062265,
+        "William_Goldman": 0.03133634092276551,
+        "Henry_Paulson": 0.029493064192097285,
+        "Alvin_Goldman": 0.027649787515509706,
+        "Marcus_Goldman": 0.024884808761673913,
+        "Edward_Alphonso_Goldman": 0.010138238426054004,
+        "Ronald_Goldman": 0.00829492351742247,
+        "James_Goldman": 0.002764998995155205,
+        "Gary_Goldman": 0.0018433149186998586,
+        "John_Paulson": 0.001843314918728088,
+        "Tinnitus": 0.0018433149186856531,
+        "<unk_wid>": 5.761162679072704e-41
+       }
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 0.42535938370152576,
+       "start": 612,
+       "end": 613,
+       "tokens": "congressional",
+       "labelScoreMap": {
+        "United_States_Congress": 0.42535938370152576,
+        "Benigno_Aquino_III": 0.028787029738125282,
+        "United_States_House_of_Representatives": 0.2375978377089404,
+        "Military\u2013industrial_complex": 0.005902093319179201,
+        "Honduran_general_election,_2009": 0.005613734255572635,
+        "Congress_of_the_Philippines": 0.009056326718676583,
+        "House_of_Representatives_of_the_Philippines": 0.025884720553886447,
+        "Congressional_Country_Club": 0.003461777551872341,
+        "John_F._Kennedy": 0.0021792932018494344,
+        "Rahm_Emanuel": 0.00187115856716858,
+        "Robert_Byrd": 0.0015832875657590918,
+        "National_Congress_of_Argentina": 0.0021180339649173787,
+        "Congress_of_Guatemala": 0.0028801069547923614,
+        "Continental_Congress": 0.022367284552543967,
+        "Nancy_Pelosi": 0.000864574749112502,
+        "Lyndon_B._Johnson": 0.0008667239602084014,
+        "Congress_of_the_Union": 0.008427067722106598,
+        "Withdrawal_of_U.S._troops_from_Iraq": 0.0007197533901105904,
+        "United_States_elections,_2004": 0.0007196824998223622,
+        "John_Conyers": 0.0005757428444370034,
+        "Congress_of_Colombia": 0.0007965068888393013,
+        "Patient_Protection_and_Affordable_Care_Act": 0.0026621887533125324,
+        "National_Congress_of_Brazil": 0.0008231514916235514,
+        "National_Congress_of_Honduras": 0.0026697857164465163,
+        "Chamber_of_Deputies_(Mexico)": 0.2050612331652443,
+        "DTE_Energy": 0.0005757774408339683,
+        "United_States_House_of_Representatives_elections,_1990": 0.0005757430230929626,
+        "<unk_wid>": 1.9402027117921983e-30
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 63,
+       "end": 66,
+       "tokens": "London Metals Exchange",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "London_Metal_Exchange",
+       "score": 0.9640476818388954,
+       "start": 485,
+       "end": 486,
+       "tokens": "LME",
+       "labelScoreMap": {
+        "London_Metal_Exchange": 0.9640476818388954,
+        "Malt": 0.032137088079898776,
+        "Standard_ML": 0.00381523008120577,
+        "<unk_wid>": 6.38549223031785e-22
+       }
+      },
+      {
+       "label": "Metropolitan_Transit_Authority_of_Harris_County",
+       "score": 0.12742216524542574,
+       "start": 645,
+       "end": 646,
+       "tokens": "Metro",
+       "labelScoreMap": {
+        "Paris_M\u00e9tro": 0.09462831371024696,
+        "Metro_(British_newspaper)": 0.0571357071817587,
+        "Metro_International": 0.03870000598671346,
+        "Washington_Metro": 0.041187800909029244,
+        "Metro_(Oregon_regional_government)": 0.03422601140033141,
+        "Montreal_Metro": 0.035915917949915194,
+        "Metro_AG": 0.022606447389793855,
+        "Madrid_Metro": 0.01622025243264523,
+        "Moscow_Metro": 0.019296956223090137,
+        "Metro-Goldwyn-Mayer": 0.017181277301378695,
+        "New_York_City_Subway": 0.08189898715960015,
+        "Austin_Metro": 0.013236919449245441,
+        "Amsterdam_Metro": 0.012078818807296261,
+        "Mexico_City_Metro": 0.01779738312493902,
+        "Los_Angeles_Metro_Rail": 0.041844174323218415,
+        "Cairo_Metro": 0.010005295657684857,
+        "London_Underground": 0.05247962748564615,
+        "Los_Angeles_County_Metropolitan_Transportation_Authority": 0.07510106941035433,
+        "Shanghai_Metro": 0.01802003809895926,
+        "Metro_(magazine)": 0.009429074714689624,
+        "S\u00e3o_Paulo_Metro": 0.008309834284472845,
+        "Delaware_Valley": 0.008210967879749797,
+        "Metropolitan_Toronto": 0.08613793714052588,
+        "Barcelona_Metro": 0.013871745851764029,
+        "Valley_Metro": 0.007845150664246587,
+        "Stockholm_metro": 0.009221558340507745,
+        "Copenhagen_Metro": 0.011307934806424415,
+        "Budapest_Metro": 0.011672340195107808,
+        "Metropolitan_Transit_Authority_of_Harris_County": 0.12742216524542574,
+        "Medell\u00edn_Metro": 0.007010286875238862
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 444,
+       "end": 446,
+       "tokens": "Beer Institute",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 419,
+       "end": 421,
+       "tokens": "Nick Madden",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "United_States",
+       "score": 0.97275560287452,
+       "start": 209,
+       "end": 211,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "6252001|United_States": 0.97275560287452
+       }
+      },
+      {
+       "label": "London_Metal_Exchange",
+       "score": 0.961610273671662,
+       "start": 302,
+       "end": 303,
+       "tokens": "LME",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 636,
+       "end": 638,
+       "tokens": "Gary Cohn",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Detroit",
+       "score": 0.841138269337302,
+       "start": 110,
+       "end": 111,
+       "tokens": "Detroit",
+       "labelScoreMap": {
+        "4990729|Detroit": 0.841138269337302,
+        "4990746|Detroit_River": 0.003960918152597858,
+        "3020870|Strait_of_Dover": 0.0028769837939336333,
+        "5722994|Detroit,_Oregon": 0.002778085516878342,
+        "5012243|Tiger_Stadium_(Detroit)": 0.002178791458297023,
+        "4685987|Detroit,_Texas": 0.0014279791955371334
+       }
+      },
+      {
+       "label": "Paris_M\u00e9tro",
+       "score": 0.0980616344676783,
+       "start": 692,
+       "end": 693,
+       "tokens": "Metro",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Full_Sail_University",
+       "score": 1.0,
+       "start": 326,
+       "end": 328,
+       "tokens": "Garry Jones",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Federal_Reserve_System",
+       "score": 0.9657482860574713,
+       "start": 511,
+       "end": 513,
+       "tokens": "Federal Reserve",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6248775096070082,
+       "start": 519,
+       "end": 520,
+       "tokens": "Goldman",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 0.4846936993104528,
+       "start": 449,
+       "end": 450,
+       "tokens": "Congress",
+       "labelScoreMap": {
+        "5290559|Congress,_Arizona": 0.007885482533990906
+       }
+      },
+      {
+       "label": "London",
+       "score": 0.5631081177197523,
+       "start": 63,
+       "end": 64,
+       "tokens": "London",
+       "labelScoreMap": {
+        "2643743|London": 0.5631081177197523,
+        "6058560|London,_Ontario": 0.01978696797615568,
+        "6296323|London_International_Airport": 0.0021542800008550124,
+        "4298960|London,_Kentucky": 0.001861207635383481,
+        "2648110|Greater_London": 0.0032695972758820598,
+        "6944357|University_of_London": 0.006821196402458686,
+        "2643741|City_of_London": 0.012538371719707918,
+        "4517009|London,_Ohio": 0.0007009932043175175
+       }
+      },
+      {
+       "label": "Author",
+       "score": 0.9972971773329137,
+       "start": 427,
+       "end": 428,
+       "tokens": "Novelis",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6248821611552944,
+       "start": 640,
+       "end": 641,
+       "tokens": "Goldman",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 529,
+       "end": 531,
+       "tokens": "Michael DuVally",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6247899784944345,
+       "start": 551,
+       "end": 552,
+       "tokens": "Goldman",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 102,
+       "end": 106,
+       "tokens": "Metro International Trade Services",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6248729919955028,
+       "start": 623,
+       "end": 624,
+       "tokens": "Goldman",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.9883235765991529,
+       "start": 116,
+       "end": 118,
+       "tokens": "Goldman Sachs",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.9883235593253011,
+       "start": 86,
+       "end": 88,
+       "tokens": "Goldman Sachs",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Institute_of_Electrical_and_Electronics_Engineers",
+       "score": 0.2345682177606809,
+       "start": 504,
+       "end": 505,
+       "tokens": "institute",
+       "labelScoreMap": {
+        "4809766|Institute,_West_Virginia": 0.0980619973066778,
+        "4883641|Art_Institute_of_Chicago": 0.0042418816030549535,
+        "6728700|Academia_Sinica": 0.008995797632132796
+       }
+      },
+      {
+       "label": "Goldman_Sachs",
+       "score": 0.6248830922653794,
+       "start": 535,
+       "end": 536,
+       "tokens": "Goldman",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 0.42535938370152576,
+       "start": 612,
+       "end": 613,
+       "tokens": "congressional",
+       "labelScoreMap": {
+        "4352125|Congressional_Country_Club": 0.003461777551872341
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 63,
+       "end": 66,
+       "tokens": "London Metals Exchange",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "London_Metal_Exchange",
+       "score": 0.9640476818388954,
+       "start": 485,
+       "end": 486,
+       "tokens": "LME",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Metropolitan_Transit_Authority_of_Harris_County",
+       "score": 0.12742216524542574,
+       "start": 645,
+       "end": 646,
+       "tokens": "Metro",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 444,
+       "end": 446,
+       "tokens": "Beer Institute",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 419,
+       "end": 421,
+       "tokens": "Nick Madden",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

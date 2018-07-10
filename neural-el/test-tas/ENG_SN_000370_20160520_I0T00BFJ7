@@ -1,0 +1,802 @@
+{
+  "corpusId": "",
+  "id": "ENG_SN_000370_20160520_I0T00BFJ7",
+  "text": "First funerals of #SriLanka #Aranayake landslide victims held today, over 220 families still missing according to @SLRedcross",
+  "tokens": [
+    "First",
+    "funerals",
+    "of",
+    "#SriLanka",
+    "#Aranayake",
+    "landslide",
+    "victims",
+    "held",
+    "today",
+    ",",
+    "over",
+    "220",
+    "families",
+    "still",
+    "missing",
+    "according",
+    "to",
+    "@SLRedcross"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "First",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "funerals",
+      "startCharOffset": 6,
+      "endCharOffset": 14
+    },
+    {
+      "form": "of",
+      "startCharOffset": 15,
+      "endCharOffset": 17
+    },
+    {
+      "form": "#SriLanka",
+      "startCharOffset": 18,
+      "endCharOffset": 27
+    },
+    {
+      "form": "#Aranayake",
+      "startCharOffset": 28,
+      "endCharOffset": 38
+    },
+    {
+      "form": "landslide",
+      "startCharOffset": 39,
+      "endCharOffset": 48
+    },
+    {
+      "form": "victims",
+      "startCharOffset": 49,
+      "endCharOffset": 56
+    },
+    {
+      "form": "held",
+      "startCharOffset": 57,
+      "endCharOffset": 61
+    },
+    {
+      "form": "today",
+      "startCharOffset": 62,
+      "endCharOffset": 67
+    },
+    {
+      "form": ",",
+      "startCharOffset": 67,
+      "endCharOffset": 68
+    },
+    {
+      "form": "over",
+      "startCharOffset": 69,
+      "endCharOffset": 73
+    },
+    {
+      "form": "220",
+      "startCharOffset": 74,
+      "endCharOffset": 77
+    },
+    {
+      "form": "families",
+      "startCharOffset": 78,
+      "endCharOffset": 86
+    },
+    {
+      "form": "still",
+      "startCharOffset": 87,
+      "endCharOffset": 92
+    },
+    {
+      "form": "missing",
+      "startCharOffset": 93,
+      "endCharOffset": 100
+    },
+    {
+      "form": "according",
+      "startCharOffset": 101,
+      "endCharOffset": 110
+    },
+    {
+      "form": "to",
+      "startCharOffset": 111,
+      "endCharOffset": 113
+    },
+    {
+      "form": "@SLRedcross",
+      "startCharOffset": 114,
+      "endCharOffset": 125
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "BIO",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "BIO",
+          "generator": "org.cogcomp.md.BIOReader",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1,
+              "properties": {
+                "BC": "resource0:0011,resource0:001110,resource0:0011100011,resource0:00111000110,resource1:0110,resource1:011001,resource1:0110011011,resource1:0110011011110,resource2:1110,resource2:111011,resource2:1110111110,resource2:111011111000,",
+                "GAZ": "U-Locations.gz,L-Locations.gz,U-CompetitionsBattlesEvents.gz(IC),L-CompetitionsBattlesEvents.gz(IC),U-Locations.gz(IC),L-Locations.gz(IC),U-NumberOrdinal.gz(IC),L-NumberOrdinal.gz(IC),U-Organizations.gz(IC),L-Organizations.gz(IC),",
+                "WORDNETHYM": "rank,",
+                "WORDNETTAG": "noun.relation,adj.all,adv.all,",
+                "isTraining": "false",
+                "preBIOLevel1": "",
+                "preBIOLevel2": ""
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2,
+              "properties": {
+                "BC": "resource0:1110,resource0:111011,resource0:1110111101,resource0:111011110100,resource1:1011,resource1:101100,resource1:1011001110,resource1:101100111010,resource2:1010,resource2:101011,resource2:1010111011,resource2:1010111011100,",
+                "GAZ": "U-Films.gz(IC),L-Films.gz(IC),",
+                "WORDNETHYM": "ceremony,ceremonial,ceremonial_occasion,observance,",
+                "WORDNETTAG": "noun.event,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": ""
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3,
+              "properties": {
+                "BC": "resource0:1000,resource0:10000,resource1:0011,resource1:001110,resource2:0100,",
+                "GAZ": "U-Locations.gz(IC),L-Locations.gz(IC),",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4,
+              "properties": {
+                "BC": "",
+                "GAZ": "",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5,
+              "properties": {
+                "BC": "",
+                "GAZ": "",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6,
+              "properties": {
+                "BC": "resource0:1110,resource0:111010,resource0:1110101011,resource0:11101010111110,resource1:1010,resource1:101001,resource1:1010010000,resource1:10100100000,resource2:1101,resource2:110111,resource2:1101110100,resource2:11011101001,",
+                "GAZ": "U-Films.gz(IC),L-Films.gz(IC),U-Person.gz(IC),L-Person.gz(IC),",
+                "WORDNETHYM": "victory,triumph,",
+                "WORDNETTAG": "noun.event,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7,
+              "properties": {
+                "BC": "resource0:1110,resource0:111011,resource0:1110111110,resource0:111011111001,resource1:1011,resource1:101100,resource1:1011001010,resource1:10110010101,resource2:1010,resource2:101011,resource2:1010111011,resource2:1010111011100,",
+                "GAZ": "U-ArtWork.gz(IC),L-ArtWork.gz(IC),U-Films.gz(IC),L-Films.gz(IC),U-Person.gz(IC),L-Person.gz(IC),",
+                "WORDNETHYM": "unfortunate,unfortunate_person,",
+                "WORDNETTAG": "noun.person,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8,
+              "properties": {
+                "BC": "resource0:1111,resource0:111111,resource0:1111111001,resource0:111111100110010,resource1:0101,resource1:010101,resource1:0101010101,resource1:01010101010110,resource2:1111,resource2:111101,resource2:1111010100,resource2:111101010011010,",
+                "GAZ": "",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "verb.stative,adj.ppl,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9,
+              "properties": {
+                "BC": "resource0:1111,resource0:111110,resource0:1111101101,resource0:11111011011011,resource1:0101,resource1:010101,resource1:0101011011,resource1:01010110111111,resource2:1111,resource2:111101,resource2:1111011111,resource2:11110111111110,",
+                "GAZ": "U-Temporal.gz,L-Temporal.gz,U-Films.gz(IC),L-Films.gz(IC),U-Person.gz(IC),L-Person.gz(IC),U-Temporal.gz(IC),L-Temporal.gz(IC),U-TV.Programs.gz(IC),L-TV.Programs.gz(IC),",
+                "WORDNETHYM": "present,nowadays,",
+                "WORDNETTAG": "noun.time,adv.all,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10,
+              "properties": {
+                "BC": "resource0:1010,resource1:0010,resource1:001000,resource2:0111,resource2:011111,resource2:0111110,",
+                "GAZ": "",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11,
+              "properties": {
+                "BC": "resource0:1000,resource0:100011,resource0:1000111111,resource0:100011111110,resource1:0011,resource1:001111,resource1:0011111111,resource1:00111111111111010,resource2:0101,resource2:010110,resource2:0101101111,resource2:01011011110,",
+                "GAZ": "U-Locations.gz(IC),L-Locations.gz(IC),",
+                "WORDNETHYM": "part,section,division,",
+                "WORDNETTAG": "noun.time,adj.all,adv.all,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12,
+              "properties": {
+                "BC": "resource0:0110,resource0:011000,resource0:0110001000,resource1:0100,resource1:010011,resource1:01001110,resource2:1111,resource2:111111,resource2:111111010,",
+                "GAZ": "",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13,
+              "properties": {
+                "BC": "resource0:1110,resource0:111011,resource0:1110110110,resource0:11101101101,resource1:1011,resource1:101101,resource1:1011011011,resource1:10110110110,resource2:1010,resource2:101011,resource2:1010111011,resource2:1010111011100,",
+                "GAZ": "U-ArtWork.gz(IC),L-ArtWork.gz(IC),U-Films.gz(IC),L-Films.gz(IC),U-TV.Programs.gz(IC),L-TV.Programs.gz(IC),",
+                "WORDNETHYM": "unit,social_unit,",
+                "WORDNETTAG": "noun.group,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14,
+              "properties": {
+                "BC": "resource0:1111,resource0:111101,resource0:1111011110,resource0:111101111001011,resource1:0101,resource1:010111,resource1:0101111001,resource1:0101111001100,resource2:1111,resource2:111100,resource2:1111001010,resource2:1111001010110,",
+                "GAZ": "U-ManufacturingPlants.gz,L-ManufacturingPlants.gz,U-Temporal.gz,L-Temporal.gz,U-Films.gz(IC),L-Films.gz(IC),U-ManufacturingPlants.gz(IC),L-ManufacturingPlants.gz(IC),U-People.FirstNames.gz(IC),L-People.FirstNames.gz(IC),U-People.gz(IC),L-People.gz(IC),U-Temporal.gz(IC),L-Temporal.gz(IC),",
+                "WORDNETHYM": "photograph,photo,exposure,picture,pic,comfort,soothe,console,solace,",
+                "WORDNETTAG": "noun.artifact,verb.emotion,adj.all,adv.all,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15,
+              "properties": {
+                "BC": "resource0:1110,resource0:111000,resource0:1110001100,resource0:11100011001,resource1:0101,resource1:010101,resource1:0101011111,resource1:010101111101000,resource2:1111,resource2:111101,resource2:1111011011,resource2:1111011011111100,",
+                "GAZ": "U-ArtWork.gz(IC),L-ArtWork.gz(IC),U-Films.gz(IC),L-Films.gz(IC),U-TV.Programs.gz(IC),L-TV.Programs.gz(IC),",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "verb.perception,adj.all,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16,
+              "properties": {
+                "BC": "resource0:1111,resource0:111111,resource0:1111111100,resource0:11111111000,resource1:0101,resource1:010101,resource1:0101010001,resource1:010101000100,resource2:1111,resource2:111101,resource2:1111011100,resource2:111101110001,",
+                "GAZ": "",
+                "WORDNETHYM": "match,fit,correspond,check,jibe,gibe,tally,agree,",
+                "WORDNETTAG": "verb.stative,adj.all,",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17,
+              "properties": {
+                "BC": "resource0:1001,resource0:100110,resource1:0011,resource1:00110,resource2:0110,resource2:01100,",
+                "GAZ": "U-Films.gz(IC),L-Films.gz(IC),",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18,
+              "properties": {
+                "BC": "",
+                "GAZ": "",
+                "WORDNETHYM": "",
+                "WORDNETTAG": "",
+                "isTraining": "false",
+                "preBIOLevel1": "O",
+                "preBIOLevel2": "O"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "MENTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "MENTION",
+          "generator": "org.cogcomp.md.MentionAnnotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "POS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "POS",
+          "generator": "edu.illinois.cs.cogcomp.pos.POSAnnotator",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LS",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "NNS",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "IN",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "NN",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "NN",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "NN",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "NNS",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "VBD",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "NN",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "IN",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "CD",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "NNS",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "RB",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "VBG",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "VBG",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "TO",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "RB",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "First",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "funerals",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "of",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "#SriLanka",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "#Aranayake",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "landslide",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "victims",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "held",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "today",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "over",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "220",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "families",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "still",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "missing",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "according",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "to",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "@SLRedcross",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

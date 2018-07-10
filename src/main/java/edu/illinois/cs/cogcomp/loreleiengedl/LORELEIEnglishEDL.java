@@ -1,33 +1,29 @@
 package edu.illinois.cs.cogcomp.loreleiengedl;
 
-import com.google.protobuf.MapEntry;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
 import edu.illinois.cs.cogcomp.core.utilities.SerializationHelper;
-import edu.illinois.cs.cogcomp.lorelei.FormatConverter;
+import edu.illinois.cs.cogcomp.loreleiengedl.utils.LinkUtils;
 import edu.illinois.cs.cogcomp.ner.config.NerBaseConfigurator;
-import edu.illinois.cs.cogcomp.core.utilities.configuration.Configurator;
 import edu.illinois.cs.cogcomp.core.utilities.configuration.ResourceManager;
 import edu.illinois.cs.cogcomp.pos.POSAnnotator;
 import edu.illinois.cs.cogcomp.ner.NERAnnotator;
 import org.cogcomp.md.MentionAnnotator;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeSet;
+import java.util.*;
 
 public class LORELEIEnglishEDL {
-     // for reading in serialized TAs and serializing TAs to json
+    // for reading in serialized TAs and serializing TAs to json
     private static SerializationHelper sh;
+    private static String NERVIEW = "NER_LORELEI";
     private static String ELVIEW = "NEUREL";
     private static String MDVIEW = "MENTION";
     private static String NLVIEW = "NOMLINK";
     private static String CANDGENVIEW = "CANDGEN";
+    private static String GOOGLEVIEW= "GOOGLE";
 
     // map of Wikipedia titles to kb ids. instatiated when needed.
     HashMap<String, String> wiki2lorelei = null;
@@ -37,9 +33,7 @@ public class LORELEIEnglishEDL {
     }
 
     /**
-     * //TODO: update comment to reflect current I/O schema
-     *
-     * Annotate LRLP using NER/Mention Detection. Serialize resulting text annotations to file.
+     * Annotate LRLP using NER. Serialize resulting text annotations to file.
      * Expects that input directory is a directory of json serialized text annotations
      * that were generated from LORELEI LTF files.
      *
@@ -51,14 +45,7 @@ public class LORELEIEnglishEDL {
      *
      */
     public void annotateNER(String sourceDirectory, String nerAnnotatedDirectory) throws Exception {
-        // TODO: replace with whatever NER will be used for LORELEI
-        String namModelPath = "/home/cddunca2/lorelei-eng-edl/md-models/TAC_2016_EN/NAM";
-        String nomModelPath = "/home/cddunca2/lorelei-eng-edl/md-models/TAC_HEAD_TYPE/TAC_NOM";
         String configFile = "config/sf.config";
-
-        MentionAnnotator mentionAnnotator =
-                new MentionAnnotator(namModelPath, nomModelPath,
-                        "", "", "");
 
         ResourceManager rm = null;
         try {
@@ -73,10 +60,6 @@ public class LORELEIEnglishEDL {
         NERAnnotator nerAnnotator = null;
         nerAnnotator = new NERAnnotator(new NerBaseConfigurator().getConfig(rm), viewName);
 
-        // mention annotator requires a POS view which may not have been added at this point
-        POSAnnotator posannotator = new POSAnnotator();
-        posannotator.doInitialize();
-
         // get list of serialized TAs
         File dir = new File(sourceDirectory);
         File[] directoryListing = dir.listFiles();
@@ -86,11 +69,93 @@ public class LORELEIEnglishEDL {
             String ltfPath = sourceDirectory + serializedTA.getName();
 
             TextAnnotation ta = sh.deserializeTextAnnotationFromFile(ltfPath, true);
-            posannotator.addView(ta);
-            mentionAnnotator.addView(ta);
-            nerAnnotator.addView(ta);
+            nerAnnotator.getView(ta);
 
             String taPath = nerAnnotatedDirectory + serializedTA.getName();
+            // overwrites existing json serializations in JSON_DIR
+            sh.serializeTextAnnotationToFile(ta, taPath, true, true);
+        }
+    }
+
+    /**
+     *  Annotates a directory of json serialized TextAnnotations with a 'Google' view. This
+     *  is a view which maps the surface form of a mention to the first Wikipedia page returned
+     *  by a Google search of the surface form.
+     *
+     * @param taDir the directory of TAs to annotate
+     */
+    public void addGoogleView(String taDir) throws Exception {
+
+        File dir = new File(taDir);
+        File[] directoryListing = dir.listFiles();
+        // TODO: cmon man
+        HashMap<String, List<String>> tweetToWiki = LinkUtils.initTweetToWikipediaIL9();
+
+        for(File serializedTA : directoryListing){
+
+            //TODO: currently only operating on Tweets
+            if(!serializedTA.getName().contains("SN"))
+                continue;
+            String taPath = taDir + serializedTA.getName();
+
+            TextAnnotation ta = sh.deserializeTextAnnotationFromFile(taPath, true);
+            View googleView  = new View(GOOGLEVIEW, "lorelei-eng-edl", ta, 1.0);
+            View tokens = ta.getView("TOKENS");
+            for(Constituent token : tokens.getConstituents()){
+                if(token.getSurfaceForm().charAt(0) != '#')
+                    continue;
+                String cleanHash = token.getSurfaceForm().substring(1,token.length());
+                List<String> links = tweetToWiki.get(cleanHash);
+
+                if(links == null)
+                    continue;
+
+                String link = links.get(0);
+                Constituent googleCon =
+                        new Constituent(link, 1.0, GOOGLEVIEW, ta,
+                                token.getStartSpan(), token.getEndSpan());
+                googleView.addConstituent(googleCon);
+            }
+            // overwrites existing json serializations in JSON_DIR
+            sh.serializeTextAnnotationToFile(ta, taPath, true, true);
+        }
+    }
+
+    /**
+     * Annotate LRLP using Mention Detection. Serialize resulting text annotations to file.
+     * Expects that input directory is a directory of json serialized text annotations
+     * that were generated from LORELEI LTF files.
+     *
+     * Creates a directory of json serialized text annotations with an NER and MENTIONview added
+     * to them.
+     *
+     * @param taDir input/output directory of json serialized text annotations
+     *
+     */
+    public void addMentionView(String taDir) throws Exception {
+        String nomModelPath = "/home/cddunca2/lorelei-eng-edl/md-models/TAC_HEAD_TYPE/TAC_NOM";
+
+        MentionAnnotator mentionAnnotator =
+                new MentionAnnotator("", nomModelPath,
+                        "", "", "");
+
+        // mention annotator requires a POS view which may not have been added at this point
+        POSAnnotator posannotator = new POSAnnotator();
+        posannotator.doInitialize();
+
+        // get list of serialized TAs
+        File dir = new File(taDir);
+        File[] directoryListing = dir.listFiles();
+
+        // iterate through TAs, add NER annotation and create JSON serialization
+        for(File serializedTA : directoryListing){
+            String ltfPath = taDir + serializedTA.getName();
+
+            TextAnnotation ta = sh.deserializeTextAnnotationFromFile(ltfPath, true);
+            posannotator.addView(ta);
+            mentionAnnotator.addView(ta);
+
+            String taPath = taDir + serializedTA.getName();
             // overwrites existing json serializations in JSON_DIR
             sh.serializeTextAnnotationToFile(ta, taPath, true, true);
         }
@@ -112,10 +177,10 @@ public class LORELEIEnglishEDL {
      * @param: jsonTADir directory of json serialized text annotations
      */
     public void addCandGenViewToDir(String jsonTADir,
-                                   String entity2WikipediaTitle) throws Exception {
+                                    String entity2WikipediaTitle) throws Exception {
         // create hash map which maps Wikipedia titles to LORELEI KB ids
-        wiki2lorelei = FormatConverter.initWiki2LORELEIMap(entity2WikipediaTitle);
-         // get list of files in the directory
+        wiki2lorelei = LinkUtils.initWiki2LORELEIMap(entity2WikipediaTitle);
+        // get list of files in the directory
         File dir = new File(jsonTADir);
         File[] directoryListing = dir.listFiles();
 
@@ -180,16 +245,16 @@ public class LORELEIEnglishEDL {
      * @return labelsToScores map with transformed labels
      */
     private Map<String, Double> extendLabelsToScores(Map<String, Double> labelsToScores){
-       Map<String, Double> extendedLabelsToScores = new HashMap<>();
-       for(Map.Entry<String, Double> labelScore : labelsToScores.entrySet()){
-           String label = labelScore.getKey();
-           String extendedLabel = extendLabel(label);
-           if(extendedLabel == null)
-               continue;
-           Double score = labelScore.getValue();
-           extendedLabelsToScores.put(extendedLabel, score);
-       }
-       return extendedLabelsToScores;
+        Map<String, Double> extendedLabelsToScores = new HashMap<>();
+        for(Map.Entry<String, Double> labelScore : labelsToScores.entrySet()){
+            String label = labelScore.getKey();
+            String extendedLabel = extendLabel(label);
+            if(extendedLabel == null)
+                continue;
+            Double score = labelScore.getValue();
+            extendedLabelsToScores.put(extendedLabel, score);
+        }
+        return extendedLabelsToScores;
     }
 
     /**
@@ -204,6 +269,7 @@ public class LORELEIEnglishEDL {
      * @throws Exception
      */
     public void annotateNominals(String jsonTADir) throws Exception {
+        addMentionView(jsonTADir);
         // get list of files in the directory
         File dir = new File(jsonTADir);
         File[] directoryListing = dir.listFiles();
@@ -236,26 +302,30 @@ public class LORELEIEnglishEDL {
      */
     private void linkNominals(TextAnnotation ta){
         // get view on nominal mentions; get view of linked, named mentions
+        View nerView = ta.getView(NERVIEW);
         View mentionView = ta.getView(MDVIEW);
         View elView = ta.getView(ELVIEW);
+
         // instatiate nominal link view
         View nomLinkView = new View(NLVIEW, "lorelei-eng-edl", ta, 1.0);
+
         // build map and treeset from EL view constituents
         HashMap<Integer, Constituent> spanStart2Con = new HashMap<>();
         TreeSet<Integer> spanStarts = new TreeSet<>();
-        for(Constituent constituent : elView.getConstituents()){
+
+        for(Constituent constituent : nerView.getConstituents()){
             spanStart2Con.put(constituent.getStartSpan(),constituent);
-            // only add NAMs to the tree set
-            if(constituent.getAttribute("EntityMentionType").equals("NAM"))
-                spanStarts.add(constituent.getStartSpan());
+            spanStarts.add(constituent.getStartSpan());
         }
 
         // iterate through nominal cons, left linking each to its nearest NE link
         for(Constituent constituent : mentionView.getConstituents()){
             // only left link NOM mention types
             if(constituent.getAttribute("EntityMentionType").equals("NAM")) {
-                continue;
+                System.out.println("There's a NAM in the nominals kill it.");
+                System.exit(-1);
             }
+
             // only link when the extent does not include a NAM
             if(namInside(constituent, mentionView)) {
                 continue;
@@ -267,12 +337,15 @@ public class LORELEIEnglishEDL {
 
             // find span of first NAM which is strictly less than the start span of the NOM
             Integer leftLinkSpanStart = spanStarts.lower(startSpan);
+
             // get the NAM constituent corresponding to the offset
             Constituent leftLink = spanStart2Con.get(leftLinkSpanStart);
+            // TODO: check typing?
 
             // we don't link if nominal is first mention in doc
             if(leftLink == null)
                 continue;
+
             // link NOM with entity linked to by NAM
             Constituent nomLink = new Constituent(leftLink.getLabel(), leftLink.getConstituentScore(),
                     NLVIEW, ta, startSpan, endSpan);
@@ -292,8 +365,8 @@ public class LORELEIEnglishEDL {
     public boolean namInside(Constituent nomMention, View mentionView){
         // get all constituents which share span
         List<Constituent> otherCons =
-        mentionView.getConstituentsOverlappingCharSpan(nomMention.getStartCharOffset(),
-                                                        nomMention.getEndCharOffset());
+                mentionView.getConstituentsOverlappingCharSpan(nomMention.getStartCharOffset(),
+                        nomMention.getEndCharOffset());
 
         // iterate over overlapping Constituents if one is a NAM, return true
         for(Constituent overlappingMention : otherCons){

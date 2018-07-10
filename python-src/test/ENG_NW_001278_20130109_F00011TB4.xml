@@ -1,0 +1,1865 @@
+{
+ "corpusId": "TAC",
+ "id": "ENG_NW_001278_20130109_F00011TB4.xml",
+ "text": "2013-01-09T12:19:34\nS. Korea's opposition party elects interim leader\nS. Korea's opposition party elects interim leader\nS. Korea's opposition party elects interim leader\nSEOUL, Jan. 9 (Xinhua) -- South Korea's main opposition Democratic United Party on Wednesday elected a new interim leader to head the party reeling from the narrow defeat in the presidential election a month ago.\nMoon Hee-sang, a five-term lawmaker who served as chief of staff to late President Roh Moo-hyun, was elected to lead the center-left party's emergency committee.\nThe 67-year-old, a moderate without factional affiliations, is filling the vacuum left by Lee Hae-chan, who was pressured into resigning by calls for political reform before the Dec. 19 election.\nLast month, the party nominated Park Ki-choon as a floor leader after Park Jie-won stepped down over the election loss. EnditemRA",
+ "tokens": [
+  "2013-01-09T12:19:34",
+  "S.",
+  "Korea",
+  "'s",
+  "opposition",
+  "party",
+  "elects",
+  "interim",
+  "leader",
+  "S.",
+  "Korea",
+  "'s",
+  "opposition",
+  "party",
+  "elects",
+  "interim",
+  "leader",
+  "S.",
+  "Korea",
+  "'s",
+  "opposition",
+  "party",
+  "elects",
+  "interim",
+  "leader",
+  "SEOUL",
+  ",",
+  "Jan.",
+  "9",
+  "(",
+  "Xinhua",
+  ")",
+  "--",
+  "South",
+  "Korea",
+  "'s",
+  "main",
+  "opposition",
+  "Democratic",
+  "United",
+  "Party",
+  "on",
+  "Wednesday",
+  "elected",
+  "a",
+  "new",
+  "interim",
+  "leader",
+  "to",
+  "head",
+  "the",
+  "party",
+  "reeling",
+  "from",
+  "the",
+  "narrow",
+  "defeat",
+  "in",
+  "the",
+  "presidential",
+  "election",
+  "a",
+  "month",
+  "ago",
+  ".",
+  "Moon",
+  "Hee",
+  "-",
+  "sang",
+  ",",
+  "a",
+  "five",
+  "-",
+  "term",
+  "lawmaker",
+  "who",
+  "served",
+  "as",
+  "chief",
+  "of",
+  "staff",
+  "to",
+  "late",
+  "President",
+  "Roh",
+  "Moo",
+  "-",
+  "hyun",
+  ",",
+  "was",
+  "elected",
+  "to",
+  "lead",
+  "the",
+  "center",
+  "-",
+  "left",
+  "party",
+  "'s",
+  "emergency",
+  "committee",
+  ".",
+  "The",
+  "67",
+  "-",
+  "year",
+  "-",
+  "old",
+  ",",
+  "a",
+  "moderate",
+  "without",
+  "factional",
+  "affiliations",
+  ",",
+  "is",
+  "filling",
+  "the",
+  "vacuum",
+  "left",
+  "by",
+  "Lee",
+  "Hae",
+  "-",
+  "chan",
+  ",",
+  "who",
+  "was",
+  "pressured",
+  "into",
+  "resigning",
+  "by",
+  "calls",
+  "for",
+  "political",
+  "reform",
+  "before",
+  "the",
+  "Dec.",
+  "19",
+  "election",
+  ".",
+  "Last",
+  "month",
+  ",",
+  "the",
+  "party",
+  "nominated",
+  "Park",
+  "Ki",
+  "-",
+  "choon",
+  "as",
+  "a",
+  "floor",
+  "leader",
+  "after",
+  "Park",
+  "Jie",
+  "-",
+  "won",
+  "stepped",
+  "down",
+  "over",
+  "the",
+  "election",
+  "loss",
+  ".",
+  "EnditemRA"
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   65,
+   102,
+   142,
+   168,
+   169
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 148,
+       "end": 152,
+       "tokens": "Park Ki - choon"
+      },
+      {
+       "label": "Park_Jie-won",
+       "score": 1.0,
+       "start": 157,
+       "end": 161,
+       "tokens": "Park Jie - won"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 65,
+       "end": 69,
+       "tokens": "Moon Hee - sang"
+      },
+      {
+       "label": "Roh_Moo-hyun",
+       "score": 1.0,
+       "start": 84,
+       "end": 88,
+       "tokens": "Roh Moo - hyun"
+      },
+      {
+       "label": "Democratic_Party_(South_Korea,_2011)",
+       "score": 1.0,
+       "start": 38,
+       "end": 41,
+       "tokens": "Democratic United Party"
+      },
+      {
+       "label": "Seoul",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "SEOUL"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 1,
+       "end": 3,
+       "tokens": "S. Korea"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 33,
+       "end": 35,
+       "tokens": "South Korea"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 9,
+       "end": 11,
+       "tokens": "S. Korea"
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "Lee_Hae-chan",
+       "score": 1.0,
+       "start": 121,
+       "end": 125,
+       "tokens": "Lee Hae - chan"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 17,
+       "end": 19,
+       "tokens": "S. Korea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 148,
+       "end": 152,
+       "tokens": "Park Ki - choon"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 157,
+       "end": 161,
+       "tokens": "Park Jie - won"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 65,
+       "end": 69,
+       "tokens": "Moon Hee - sang"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 84,
+       "end": 88,
+       "tokens": "Roh Moo - hyun"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 38,
+       "end": 41,
+       "tokens": "Democratic United Party"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "SEOUL"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 1,
+       "end": 3,
+       "tokens": "S. Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 33,
+       "end": 35,
+       "tokens": "South Korea"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 9,
+       "end": 11,
+       "tokens": "S. Korea"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 121,
+       "end": 125,
+       "tokens": "Lee Hae - chan"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 17,
+       "end": 19,
+       "tokens": "S. Korea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2013-01-09T12:19:34",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "2013-01-09T12:19:34"
+      },
+      {
+       "label": "S.",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "S."
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Korea"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "'s"
+      },
+      {
+       "label": "opposition",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "opposition"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "party"
+      },
+      {
+       "label": "elects",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "elects"
+      },
+      {
+       "label": "interim",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "interim"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "leader"
+      },
+      {
+       "label": "S.",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "S."
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "Korea"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "'s"
+      },
+      {
+       "label": "opposition",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "opposition"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "party"
+      },
+      {
+       "label": "elects",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "elects"
+      },
+      {
+       "label": "interim",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "interim"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "leader"
+      },
+      {
+       "label": "S.",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "S."
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Korea"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "'s"
+      },
+      {
+       "label": "opposition",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "opposition"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "party"
+      },
+      {
+       "label": "elects",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "elects"
+      },
+      {
+       "label": "interim",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "interim"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "leader"
+      },
+      {
+       "label": "SEOUL",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "SEOUL"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": ","
+      },
+      {
+       "label": "Jan.",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Jan."
+      },
+      {
+       "label": "9",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "9"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "("
+      },
+      {
+       "label": "Xinhua",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": ")"
+      },
+      {
+       "label": "--",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "--"
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "South"
+      },
+      {
+       "label": "Korea",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "Korea"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "'s"
+      },
+      {
+       "label": "main",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "main"
+      },
+      {
+       "label": "opposition",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "opposition"
+      },
+      {
+       "label": "Democratic",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "United"
+      },
+      {
+       "label": "Party",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "Party"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "on"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "elected"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "a"
+      },
+      {
+       "label": "new",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "new"
+      },
+      {
+       "label": "interim",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "interim"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "leader"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "to"
+      },
+      {
+       "label": "head",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "head"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "the"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "party"
+      },
+      {
+       "label": "reeling",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "reeling"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "the"
+      },
+      {
+       "label": "narrow",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "narrow"
+      },
+      {
+       "label": "defeat",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "defeat"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "the"
+      },
+      {
+       "label": "presidential",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "presidential"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "election"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "a"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "month"
+      },
+      {
+       "label": "ago",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "ago"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "."
+      },
+      {
+       "label": "Moon",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Moon"
+      },
+      {
+       "label": "Hee",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Hee"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "-"
+      },
+      {
+       "label": "sang",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "sang"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "a"
+      },
+      {
+       "label": "five",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "five"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "-"
+      },
+      {
+       "label": "term",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "term"
+      },
+      {
+       "label": "lawmaker",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "lawmaker"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "who"
+      },
+      {
+       "label": "served",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "served"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "as"
+      },
+      {
+       "label": "chief",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "chief"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "of"
+      },
+      {
+       "label": "staff",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "staff"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "to"
+      },
+      {
+       "label": "late",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "late"
+      },
+      {
+       "label": "President",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "President"
+      },
+      {
+       "label": "Roh",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "Roh"
+      },
+      {
+       "label": "Moo",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Moo"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "-"
+      },
+      {
+       "label": "hyun",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "hyun"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": ","
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "was"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "elected"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "to"
+      },
+      {
+       "label": "lead",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "lead"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "the"
+      },
+      {
+       "label": "center",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "center"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "-"
+      },
+      {
+       "label": "left",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "left"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "party"
+      },
+      {
+       "label": "'s",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "'s"
+      },
+      {
+       "label": "emergency",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "emergency"
+      },
+      {
+       "label": "committee",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "committee"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "The"
+      },
+      {
+       "label": "67",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "67"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "-"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "year"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "-"
+      },
+      {
+       "label": "old",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "old"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "a"
+      },
+      {
+       "label": "moderate",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "moderate"
+      },
+      {
+       "label": "without",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "without"
+      },
+      {
+       "label": "factional",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "factional"
+      },
+      {
+       "label": "affiliations",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "affiliations"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": ","
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "is"
+      },
+      {
+       "label": "filling",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "filling"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "the"
+      },
+      {
+       "label": "vacuum",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "vacuum"
+      },
+      {
+       "label": "left",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "left"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "by"
+      },
+      {
+       "label": "Lee",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "Lee"
+      },
+      {
+       "label": "Hae",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "Hae"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "-"
+      },
+      {
+       "label": "chan",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "chan"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "who"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "was"
+      },
+      {
+       "label": "pressured",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "pressured"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "into"
+      },
+      {
+       "label": "resigning",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "resigning"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "by"
+      },
+      {
+       "label": "calls",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "calls"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "for"
+      },
+      {
+       "label": "political",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "political"
+      },
+      {
+       "label": "reform",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "reform"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "the"
+      },
+      {
+       "label": "Dec.",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "Dec."
+      },
+      {
+       "label": "19",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "19"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "election"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "."
+      },
+      {
+       "label": "Last",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "Last"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "month"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "the"
+      },
+      {
+       "label": "party",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "party"
+      },
+      {
+       "label": "nominated",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "nominated"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "Park"
+      },
+      {
+       "label": "Ki",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "Ki"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "-"
+      },
+      {
+       "label": "choon",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "choon"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "as"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "a"
+      },
+      {
+       "label": "floor",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "floor"
+      },
+      {
+       "label": "leader",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "leader"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "after"
+      },
+      {
+       "label": "Park",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "Park"
+      },
+      {
+       "label": "Jie",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "Jie"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "-"
+      },
+      {
+       "label": "won",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "won"
+      },
+      {
+       "label": "stepped",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "stepped"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "down"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "over"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "the"
+      },
+      {
+       "label": "election",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "election"
+      },
+      {
+       "label": "loss",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "loss"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "."
+      },
+      {
+       "label": "EnditemRA",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "EnditemRA"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 148,
+       "end": 152,
+       "tokens": "Park Ki - choon",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 157,
+       "end": 161,
+       "tokens": "Park Jie - won",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 65,
+       "end": 69,
+       "tokens": "Moon Hee - sang",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Roh_Moo-hyun",
+       "score": 0.9983965430912428,
+       "start": 84,
+       "end": 88,
+       "tokens": "Roh Moo - hyun",
+       "labelScoreMap": {
+        "Roh_Moo-hyun": 0.9983965430912428,
+        "South_Korea": 0.001603456908757189,
+        "<unk_wid>": 6.299103453735492e-40
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 38,
+       "end": 41,
+       "tokens": "Democratic United Party",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Seoul",
+       "score": 0.5256079684332889,
+       "start": 25,
+       "end": 26,
+       "tokens": "SEOUL",
+       "labelScoreMap": {
+        "Seoul": 0.5256079684332889,
+        "Korea_Open_(tennis)": 0.009921942228771503,
+        "Seoul_Station": 0.01321445615023918,
+        "FC_Seoul": 0.3607674710121832,
+        "Gyeonggi_dialect": 0.001948905201669403,
+        "1988_Summer_Olympics": 0.011977980671017081,
+        "Seoul_Capital_Area": 0.06904988991721268,
+        "Incheon_International_Airport": 0.001273821104330985,
+        "Seoul_Metropolitan_Subway": 0.005365641681563743,
+        "Embassy_of_the_United_States,_Seoul": 0.0008719235997162947,
+        "<unk_wid>": 3.196020712959825e-16
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.9535989085455617,
+       "start": 1,
+       "end": 3,
+       "tokens": "S. Korea",
+       "labelScoreMap": {
+        "South_Korea": 0.9535989085455617,
+        "South_Korea_national_football_team": 0.046401091454438284,
+        "<unk_wid>": 4.90891967138093e-18
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.9196252461870114,
+       "start": 33,
+       "end": 35,
+       "tokens": "South Korea",
+       "labelScoreMap": {
+        "South_Korea": 0.9196252461870114,
+        "South_Korea_national_football_team": 0.05000771424144108,
+        "Republic_of_Korea_Armed_Forces": 0.005298097870933371,
+        "South_Korea_men's_national_volleyball_team": 0.0027422773172984766,
+        "United_States_Forces_Korea": 0.0026616330778355033,
+        "Korean_Basketball_League": 0.0024361761669910676,
+        "Gaon_Music_Chart": 0.002253570626451669,
+        "South_Korea_women's_national_volleyball_team": 0.002179096283406189,
+        "South_Korea_national_rugby_union_team": 0.002154761442352134,
+        "Korea_Football_Association": 0.0018976207377445031,
+        "South_Korea_men's_national_ice_hockey_team": 0.0018730372250646552,
+        "South_Korea_women's_national_football_team": 0.0016896298104605999,
+        "Tesco": 0.001566995105287292,
+        "South_Korea_women's_national_handball_team": 0.00146932168260993,
+        "Korean_War": 0.002144822225112187,
+        "<unk_wid>": 1.347939037005379e-27
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.6952641779047902,
+       "start": 9,
+       "end": 11,
+       "tokens": "S. Korea",
+       "labelScoreMap": {
+        "South_Korea": 0.6952641779047902,
+        "South_Korea_national_football_team": 0.3047358220952098,
+        "<unk_wid>": 1.1608056802429884e-19
+       }
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816670273431948,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "Xinhua_News_Agency": 0.9816670273431948,
+        "Xinhua_District,_Tainan": 0.016982010835901857,
+        "Xinhua_County": 0.001350961820903367,
+        "<unk_wid>": 1.463897565764205e-28
+       }
+      },
+      {
+       "label": "Lee_Hae-chan",
+       "score": 1.0,
+       "start": 121,
+       "end": 125,
+       "tokens": "Lee Hae - chan",
+       "labelScoreMap": {
+        "Lee_Hae-chan": 1.0,
+        "<unk_wid>": 4.807213796921172e-38
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.7273025706788978,
+       "start": 17,
+       "end": 19,
+       "tokens": "S. Korea",
+       "labelScoreMap": {
+        "South_Korea": 0.7273025706788978,
+        "South_Korea_national_football_team": 0.2726974293211022,
+        "<unk_wid>": 1.7670170352827162e-20
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 148,
+       "end": 152,
+       "tokens": "Park Ki - choon",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 157,
+       "end": 161,
+       "tokens": "Park Jie - won",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 65,
+       "end": 69,
+       "tokens": "Moon Hee - sang",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Roh_Moo-hyun",
+       "score": 0.9983965430912428,
+       "start": 84,
+       "end": 88,
+       "tokens": "Roh Moo - hyun",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 38,
+       "end": 41,
+       "tokens": "Democratic United Party",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Seoul",
+       "score": 0.5256079684332889,
+       "start": 25,
+       "end": 26,
+       "tokens": "SEOUL",
+       "labelScoreMap": {
+        "1835848|Seoul": 0.5256079684332889,
+        "1897353|Seoul_Station": 0.01321445615023918,
+        "6300433|Incheon_International_Airport": 0.001273821104330985
+       }
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.9535989085455617,
+       "start": 1,
+       "end": 3,
+       "tokens": "S. Korea",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.9196252461870114,
+       "start": 33,
+       "end": 35,
+       "tokens": "South Korea",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.6952641779047902,
+       "start": 9,
+       "end": 11,
+       "tokens": "S. Korea",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Xinhua_News_Agency",
+       "score": 0.9816670273431948,
+       "start": 30,
+       "end": 31,
+       "tokens": "Xinhua",
+       "labelScoreMap": {
+        "1674993|Xinhua_District,_Tainan": 0.016982010835901857,
+        "1788859|Xinhua_County": 0.001350961820903367
+       }
+      },
+      {
+       "label": "Lee_Hae-chan",
+       "score": 1.0,
+       "start": 121,
+       "end": 125,
+       "tokens": "Lee Hae - chan",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "South_Korea",
+       "score": 0.7273025706788978,
+       "start": 17,
+       "end": 19,
+       "tokens": "S. Korea",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

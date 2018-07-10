@@ -1,0 +1,4015 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20131030.0283.xml",
+ "text": "PHILADELPHIA INQUIRER MAJORITY OWNERS SEEK TO BUY OUT OTHERS\nThis article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nAfter nearly a month of upheaval at The Philadelphia Inquirer, including the firing of the paper\u2019s top editor and lawsuits among its owners, the majority owners Wednesday offered to buy out the minority investors, in what they described as an effort to provide stability to the company.\nGeorge E. Norcross III and William P. Hankowsky, both majority owners in the Philadelphia Media Network, which also publishes the Philadelphia Daily News and Philly.com, said they wanted to put an end to the infighting. So they offered to buy out two minority investors, H.F. Lenfest and Lewis Katz, for $29 million, which they said represented nearly a 12 percent profit in the 18 months since they made the original investment.\n\u201cWe did not want or initiate the litigation that has created a sideshow that will ultimately waste hundreds of thousands, if not millions, of dollars in legal fees that could be used to further strengthen and build the company,\u201d Norcross and Hankowsky said.\nNorcross, a Democratic power broker, and Lenfest, a parking lot magnate, were among a group of investors who bought the struggling newspaper in April 2012. The investor group then hired back William K. Marimow, who had served as the Inquirer\u2019s top editor from 2006 to 2010.\nWhile there appeared to be conflicts among investors from the start, these battles culminated in Marimow\u2019s firing on Oct. 7. Three days later, Katz and Lenfest sued, claiming that Marimow should be reinstated because the firing took place without their consultation. Then Norcross countersued.\nJay Devine, a spokesman representing Katz, Lenfest and Marimow, declined to comment.",
+ "tokens": [
+  "PHILADELPHIA",
+  "INQUIRER",
+  "MAJORITY",
+  "OWNERS",
+  "SEEK",
+  "TO",
+  "BUY",
+  "OUT",
+  "OTHERS",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "After",
+  "nearly",
+  "a",
+  "month",
+  "of",
+  "upheaval",
+  "at",
+  "The",
+  "Philadelphia",
+  "Inquirer",
+  ",",
+  "including",
+  "the",
+  "firing",
+  "of",
+  "the",
+  "paper",
+  "\u2019s",
+  "top",
+  "editor",
+  "and",
+  "lawsuits",
+  "among",
+  "its",
+  "owners",
+  ",",
+  "the",
+  "majority",
+  "owners",
+  "Wednesday",
+  "offered",
+  "to",
+  "buy",
+  "out",
+  "the",
+  "minority",
+  "investors",
+  ",",
+  "in",
+  "what",
+  "they",
+  "described",
+  "as",
+  "an",
+  "effort",
+  "to",
+  "provide",
+  "stability",
+  "to",
+  "the",
+  "company",
+  ".",
+  "George",
+  "E.",
+  "Norcross",
+  "III",
+  "and",
+  "William",
+  "P.",
+  "Hankowsky",
+  ",",
+  "both",
+  "majority",
+  "owners",
+  "in",
+  "the",
+  "Philadelphia",
+  "Media",
+  "Network",
+  ",",
+  "which",
+  "also",
+  "publishes",
+  "the",
+  "Philadelphia",
+  "Daily",
+  "News",
+  "and",
+  "Philly",
+  ".",
+  "com",
+  ",",
+  "said",
+  "they",
+  "wanted",
+  "to",
+  "put",
+  "an",
+  "end",
+  "to",
+  "the",
+  "infighting",
+  ".",
+  "So",
+  "they",
+  "offered",
+  "to",
+  "buy",
+  "out",
+  "two",
+  "minority",
+  "investors",
+  ",",
+  "H.F.",
+  "Lenfest",
+  "and",
+  "Lewis",
+  "Katz",
+  ",",
+  "for",
+  "$29",
+  "million",
+  ",",
+  "which",
+  "they",
+  "said",
+  "represented",
+  "nearly",
+  "a",
+  "12",
+  "percent",
+  "profit",
+  "in",
+  "the",
+  "18",
+  "months",
+  "since",
+  "they",
+  "made",
+  "the",
+  "original",
+  "investment",
+  ".",
+  "\u201c",
+  "We",
+  "did",
+  "not",
+  "want",
+  "or",
+  "initiate",
+  "the",
+  "litigation",
+  "that",
+  "has",
+  "created",
+  "a",
+  "sideshow",
+  "that",
+  "will",
+  "ultimately",
+  "waste",
+  "hundreds",
+  "of",
+  "thousands",
+  ",",
+  "if",
+  "not",
+  "millions",
+  ",",
+  "of",
+  "dollars",
+  "in",
+  "legal",
+  "fees",
+  "that",
+  "could",
+  "be",
+  "used",
+  "to",
+  "further",
+  "strengthen",
+  "and",
+  "build",
+  "the",
+  "company",
+  ",",
+  "\u201d",
+  "Norcross",
+  "and",
+  "Hankowsky",
+  "said",
+  ".",
+  "Norcross",
+  ",",
+  "a",
+  "Democratic",
+  "power",
+  "broker",
+  ",",
+  "and",
+  "Lenfest",
+  ",",
+  "a",
+  "parking",
+  "lot",
+  "magnate",
+  ",",
+  "were",
+  "among",
+  "a",
+  "group",
+  "of",
+  "investors",
+  "who",
+  "bought",
+  "the",
+  "struggling",
+  "newspaper",
+  "in",
+  "April",
+  "2012",
+  ".",
+  "The",
+  "investor",
+  "group",
+  "then",
+  "hired",
+  "back",
+  "William",
+  "K.",
+  "Marimow",
+  ",",
+  "who",
+  "had",
+  "served",
+  "as",
+  "the",
+  "Inquirer",
+  "\u2019s",
+  "top",
+  "editor",
+  "from",
+  "2006",
+  "to",
+  "2010",
+  ".",
+  "While",
+  "there",
+  "appeared",
+  "to",
+  "be",
+  "conflicts",
+  "among",
+  "investors",
+  "from",
+  "the",
+  "start",
+  ",",
+  "these",
+  "battles",
+  "culminated",
+  "in",
+  "Marimow",
+  "\u2019s",
+  "firing",
+  "on",
+  "Oct.",
+  "7",
+  ".",
+  "Three",
+  "days",
+  "later",
+  ",",
+  "Katz",
+  "and",
+  "Lenfest",
+  "sued",
+  ",",
+  "claiming",
+  "that",
+  "Marimow",
+  "should",
+  "be",
+  "reinstated",
+  "because",
+  "the",
+  "firing",
+  "took",
+  "place",
+  "without",
+  "their",
+  "consultation",
+  ".",
+  "Then",
+  "Norcross",
+  "countersued",
+  ".",
+  "Jay",
+  "Devine",
+  ",",
+  "a",
+  "spokesman",
+  "representing",
+  "Katz",
+  ",",
+  "Lenfest",
+  "and",
+  "Marimow",
+  ",",
+  "declined",
+  "to",
+  "comment",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   17,
+   89,
+   130,
+   170,
+   219,
+   249,
+   273,
+   296,
+   320,
+   324,
+   340
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "The_Philadelphia_Inquirer",
+       "score": 1.0,
+       "start": 0,
+       "end": 2,
+       "tokens": "PHILADELPHIA INQUIRER"
+      },
+      {
+       "label": "George_Norcross",
+       "score": 1.0,
+       "start": 89,
+       "end": 93,
+       "tokens": "George E. Norcross III"
+      },
+      {
+       "label": "The_Philadelphia_Inquirer",
+       "score": 1.0,
+       "start": 45,
+       "end": 47,
+       "tokens": "Philadelphia Inquirer"
+      },
+      {
+       "label": "George_Norcross",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "Philadelphia",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Philly"
+      },
+      {
+       "label": "The_Philadelphia_Inquirer",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "Inquirer"
+      },
+      {
+       "label": "George_Norcross",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 103,
+       "end": 106,
+       "tokens": "Philadelphia Media Network"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 143,
+       "end": 145,
+       "tokens": "Lewis Katz"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Lenfest"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "Katz"
+      },
+      {
+       "label": "Philadelphia",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "Marimow"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 140,
+       "end": 142,
+       "tokens": "H.F. Lenfest"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 255,
+       "end": 258,
+       "tokens": "William K. Marimow"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Lenfest"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Marimow"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Katz"
+      },
+      {
+       "label": "George_Norcross",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Marimow"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "Hankowsky"
+      },
+      {
+       "label": "Philadelphia",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 31,
+       "end": 33,
+       "tokens": "New York"
+      },
+      {
+       "label": "Philadelphia",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "PHILADELPHIA"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 324,
+       "end": 326,
+       "tokens": "Jay Devine"
+      },
+      {
+       "label": "Philadelphia",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 94,
+       "end": 97,
+       "tokens": "William P. Hankowsky"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Lenfest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 0,
+       "end": 2,
+       "tokens": "PHILADELPHIA INQUIRER"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 89,
+       "end": 93,
+       "tokens": "George E. Norcross III"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 45,
+       "end": 47,
+       "tokens": "Philadelphia Inquirer"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Philly"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "Inquirer"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 103,
+       "end": 106,
+       "tokens": "Philadelphia Media Network"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 143,
+       "end": 145,
+       "tokens": "Lewis Katz"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Lenfest"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "Katz"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "Marimow"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 140,
+       "end": 142,
+       "tokens": "H.F. Lenfest"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 255,
+       "end": 258,
+       "tokens": "William K. Marimow"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Lenfest"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Marimow"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Katz"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Marimow"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "Hankowsky"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 31,
+       "end": 33,
+       "tokens": "New York"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "PHILADELPHIA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 324,
+       "end": 326,
+       "tokens": "Jay Devine"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 94,
+       "end": 97,
+       "tokens": "William P. Hankowsky"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Lenfest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "PHILADELPHIA",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "PHILADELPHIA"
+      },
+      {
+       "label": "INQUIRER",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "INQUIRER"
+      },
+      {
+       "label": "MAJORITY",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "MAJORITY"
+      },
+      {
+       "label": "OWNERS",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "OWNERS"
+      },
+      {
+       "label": "SEEK",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "SEEK"
+      },
+      {
+       "label": "TO",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "TO"
+      },
+      {
+       "label": "BUY",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "BUY"
+      },
+      {
+       "label": "OUT",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "OUT"
+      },
+      {
+       "label": "OTHERS",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "OTHERS"
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": ";"
+      },
+      {
+       "label": "After",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "After"
+      },
+      {
+       "label": "nearly",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "nearly"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "a"
+      },
+      {
+       "label": "month",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "month"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "of"
+      },
+      {
+       "label": "upheaval",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "upheaval"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "at"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "The"
+      },
+      {
+       "label": "Philadelphia",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "Inquirer",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "Inquirer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "including"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "the"
+      },
+      {
+       "label": "firing",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "firing"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "the"
+      },
+      {
+       "label": "paper",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "paper"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "top",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "top"
+      },
+      {
+       "label": "editor",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "editor"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "and"
+      },
+      {
+       "label": "lawsuits",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "lawsuits"
+      },
+      {
+       "label": "among",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "among"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "its"
+      },
+      {
+       "label": "owners",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "owners"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "the"
+      },
+      {
+       "label": "majority",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "majority"
+      },
+      {
+       "label": "owners",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "owners"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "offered",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "offered"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "to"
+      },
+      {
+       "label": "buy",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "buy"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "out"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "the"
+      },
+      {
+       "label": "minority",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "minority"
+      },
+      {
+       "label": "investors",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "investors"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": ","
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "in"
+      },
+      {
+       "label": "what",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "what"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "they"
+      },
+      {
+       "label": "described",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "described"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "as"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "an"
+      },
+      {
+       "label": "effort",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "effort"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "to"
+      },
+      {
+       "label": "provide",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "provide"
+      },
+      {
+       "label": "stability",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "stability"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "company"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "."
+      },
+      {
+       "label": "George",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "George"
+      },
+      {
+       "label": "E.",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "E."
+      },
+      {
+       "label": "Norcross",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "III",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "III"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "and"
+      },
+      {
+       "label": "William",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "William"
+      },
+      {
+       "label": "P.",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "P."
+      },
+      {
+       "label": "Hankowsky",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "Hankowsky"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": ","
+      },
+      {
+       "label": "both",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "both"
+      },
+      {
+       "label": "majority",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "majority"
+      },
+      {
+       "label": "owners",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "owners"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "the"
+      },
+      {
+       "label": "Philadelphia",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "Media",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "Media"
+      },
+      {
+       "label": "Network",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "Network"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "which"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "also"
+      },
+      {
+       "label": "publishes",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "publishes"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "the"
+      },
+      {
+       "label": "Philadelphia",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "Philadelphia"
+      },
+      {
+       "label": "Daily",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Daily"
+      },
+      {
+       "label": "News",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "News"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "and"
+      },
+      {
+       "label": "Philly",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Philly"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "."
+      },
+      {
+       "label": "com",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "com"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "said"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "they"
+      },
+      {
+       "label": "wanted",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "wanted"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "to"
+      },
+      {
+       "label": "put",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "put"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "an"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "end"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "the"
+      },
+      {
+       "label": "infighting",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "infighting"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "."
+      },
+      {
+       "label": "So",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "So"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "they"
+      },
+      {
+       "label": "offered",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "offered"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "to"
+      },
+      {
+       "label": "buy",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "buy"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "out"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "two"
+      },
+      {
+       "label": "minority",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "minority"
+      },
+      {
+       "label": "investors",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "investors"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": ","
+      },
+      {
+       "label": "H.F.",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "H.F."
+      },
+      {
+       "label": "Lenfest",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "Lenfest"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "and"
+      },
+      {
+       "label": "Lewis",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "Lewis"
+      },
+      {
+       "label": "Katz",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "Katz"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": ","
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "for"
+      },
+      {
+       "label": "$29",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "$29"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "million"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "which"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "they"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "said"
+      },
+      {
+       "label": "represented",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "represented"
+      },
+      {
+       "label": "nearly",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "nearly"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "a"
+      },
+      {
+       "label": "12",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "12"
+      },
+      {
+       "label": "percent",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "percent"
+      },
+      {
+       "label": "profit",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "profit"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "the"
+      },
+      {
+       "label": "18",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "18"
+      },
+      {
+       "label": "months",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "months"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "since"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "they"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "made"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "the"
+      },
+      {
+       "label": "original",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "original"
+      },
+      {
+       "label": "investment",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "investment"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "."
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "We"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "did"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "not"
+      },
+      {
+       "label": "want",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "want"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "or"
+      },
+      {
+       "label": "initiate",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "initiate"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "the"
+      },
+      {
+       "label": "litigation",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "litigation"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "that"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "has"
+      },
+      {
+       "label": "created",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "created"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "a"
+      },
+      {
+       "label": "sideshow",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "sideshow"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "will"
+      },
+      {
+       "label": "ultimately",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "ultimately"
+      },
+      {
+       "label": "waste",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "waste"
+      },
+      {
+       "label": "hundreds",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "hundreds"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "of"
+      },
+      {
+       "label": "thousands",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "thousands"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": ","
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "if"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "not"
+      },
+      {
+       "label": "millions",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "millions"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": ","
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "of"
+      },
+      {
+       "label": "dollars",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "dollars"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "in"
+      },
+      {
+       "label": "legal",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "legal"
+      },
+      {
+       "label": "fees",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "fees"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "that"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "could"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "be"
+      },
+      {
+       "label": "used",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "used"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "to"
+      },
+      {
+       "label": "further",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "further"
+      },
+      {
+       "label": "strengthen",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "strengthen"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "and"
+      },
+      {
+       "label": "build",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "build"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "the"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "company"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": ","
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Norcross",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "and"
+      },
+      {
+       "label": "Hankowsky",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "Hankowsky"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "."
+      },
+      {
+       "label": "Norcross",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "Norcross"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "a"
+      },
+      {
+       "label": "Democratic",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "Democratic"
+      },
+      {
+       "label": "power",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "power"
+      },
+      {
+       "label": "broker",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "broker"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": ","
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "and"
+      },
+      {
+       "label": "Lenfest",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Lenfest"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "a"
+      },
+      {
+       "label": "parking",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "parking"
+      },
+      {
+       "label": "lot",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "lot"
+      },
+      {
+       "label": "magnate",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "magnate"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": ","
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "were"
+      },
+      {
+       "label": "among",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "among"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "a"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "group"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "of"
+      },
+      {
+       "label": "investors",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "investors"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "who"
+      },
+      {
+       "label": "bought",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "bought"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "the"
+      },
+      {
+       "label": "struggling",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "struggling"
+      },
+      {
+       "label": "newspaper",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "newspaper"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "in"
+      },
+      {
+       "label": "April",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "April"
+      },
+      {
+       "label": "2012",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "2012"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "The"
+      },
+      {
+       "label": "investor",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "investor"
+      },
+      {
+       "label": "group",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "group"
+      },
+      {
+       "label": "then",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "then"
+      },
+      {
+       "label": "hired",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "hired"
+      },
+      {
+       "label": "back",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "back"
+      },
+      {
+       "label": "William",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "William"
+      },
+      {
+       "label": "K.",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "K."
+      },
+      {
+       "label": "Marimow",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "Marimow"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": ","
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "who"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "had"
+      },
+      {
+       "label": "served",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "served"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "as"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "the"
+      },
+      {
+       "label": "Inquirer",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "Inquirer"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "top",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "top"
+      },
+      {
+       "label": "editor",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "editor"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "from"
+      },
+      {
+       "label": "2006",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "2006"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "to"
+      },
+      {
+       "label": "2010",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "2010"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "."
+      },
+      {
+       "label": "While",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "While"
+      },
+      {
+       "label": "there",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "there"
+      },
+      {
+       "label": "appeared",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "appeared"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "to"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "be"
+      },
+      {
+       "label": "conflicts",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "conflicts"
+      },
+      {
+       "label": "among",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "among"
+      },
+      {
+       "label": "investors",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "investors"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "the"
+      },
+      {
+       "label": "start",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "start"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": ","
+      },
+      {
+       "label": "these",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "these"
+      },
+      {
+       "label": "battles",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "battles"
+      },
+      {
+       "label": "culminated",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "culminated"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "in"
+      },
+      {
+       "label": "Marimow",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Marimow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "firing",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "firing"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "on"
+      },
+      {
+       "label": "Oct.",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "Oct."
+      },
+      {
+       "label": "7",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "7"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "."
+      },
+      {
+       "label": "Three",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "Three"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "days"
+      },
+      {
+       "label": "later",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "later"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": ","
+      },
+      {
+       "label": "Katz",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "Katz"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "and"
+      },
+      {
+       "label": "Lenfest",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Lenfest"
+      },
+      {
+       "label": "sued",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "sued"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": ","
+      },
+      {
+       "label": "claiming",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "claiming"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "that"
+      },
+      {
+       "label": "Marimow",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "Marimow"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "should"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "be"
+      },
+      {
+       "label": "reinstated",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "reinstated"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "because"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "the"
+      },
+      {
+       "label": "firing",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "firing"
+      },
+      {
+       "label": "took",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "took"
+      },
+      {
+       "label": "place",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "place"
+      },
+      {
+       "label": "without",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "without"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "their"
+      },
+      {
+       "label": "consultation",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "consultation"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "."
+      },
+      {
+       "label": "Then",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "Then"
+      },
+      {
+       "label": "Norcross",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "Norcross"
+      },
+      {
+       "label": "countersued",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "countersued"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "."
+      },
+      {
+       "label": "Jay",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "Jay"
+      },
+      {
+       "label": "Devine",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "Devine"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "a"
+      },
+      {
+       "label": "spokesman",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "spokesman"
+      },
+      {
+       "label": "representing",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "representing"
+      },
+      {
+       "label": "Katz",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "Katz"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": ","
+      },
+      {
+       "label": "Lenfest",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Lenfest"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "and"
+      },
+      {
+       "label": "Marimow",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Marimow"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": ","
+      },
+      {
+       "label": "declined",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "declined"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "to"
+      },
+      {
+       "label": "comment",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "comment"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "The_Philadelphia_Inquirer",
+       "score": 1.0,
+       "start": 0,
+       "end": 2,
+       "tokens": "PHILADELPHIA INQUIRER",
+       "labelScoreMap": {
+        "The_Philadelphia_Inquirer": 1.0,
+        "<unk_wid>": 3.3135013695759396e-23
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 89,
+       "end": 93,
+       "tokens": "George E. Norcross III",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "The_Philadelphia_Inquirer",
+       "score": 1.0,
+       "start": 45,
+       "end": 47,
+       "tokens": "Philadelphia Inquirer",
+       "labelScoreMap": {
+        "The_Philadelphia_Inquirer": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Norcross,_Georgia",
+       "score": 0.7781438748924008,
+       "start": 219,
+       "end": 220,
+       "tokens": "Norcross",
+       "labelScoreMap": {
+        "Norcross,_Georgia": 0.7781438748924008,
+        "Jonathan_Norcross": 0.08170721492933775,
+        "Norcross_High_School": 0.11924602708796463,
+        "George_Norcross": 0.012054829750719049,
+        "Stone_Mountain,_Georgia": 0.008848053339577914,
+        "<unk_wid>": 9.528489638239794e-28
+       }
+      },
+      {
+       "label": "Philadelphia",
+       "score": 0.43617682012992465,
+       "start": 115,
+       "end": 116,
+       "tokens": "Philly",
+       "labelScoreMap": {
+        "Philadelphia": 0.43617682012992465,
+        "Philly_(TV_series)": 0.2236297859142155,
+        "Cheesesteak": 0.025525778753238235,
+        "South_Street_(Philadelphia)": 0.2012853001990537,
+        "Philadelphia_(film)": 0.0043496432127628284,
+        "Noam_Chomsky": 0.004057515206876344,
+        "2008_Philadelphia_Eagles_season": 0.0031046251408269527,
+        "Philadelphia_English": 0.0031122217039568334,
+        "Philadelphia_Phillies": 0.0024993640219946904,
+        "Lola_Falana": 0.004565096421280033,
+        "Delaware_Valley": 0.002558242673154643,
+        "Philadelphia_Flyers": 0.0018646908660494472,
+        "Spruce_Hill,_Philadelphia": 0.002510089671438138,
+        "Philadelphia_76ers": 0.0012424400155020342,
+        "Comcast_SportsNet_Philadelphia": 0.001241864202379336,
+        "Philadelphia_Union": 0.04953137153216775,
+        "Philip_Johnson": 0.024697016294590143,
+        "Philadelphia_International_Championship": 0.0012780230266779048,
+        "Philadelphia_Experiment": 0.0012418468929928058,
+        "Love_Sculpture": 0.001242488827436529,
+        "Hakim_Warrick": 0.0030422899157116945,
+        "John_F._Street": 0.0012434853777699155,
+        "<unk_wid>": 1.2243776251631062e-23
+       }
+      },
+      {
+       "label": "Skeptical_Inquirer",
+       "score": 0.5008964737292476,
+       "start": 264,
+       "end": 265,
+       "tokens": "Inquirer",
+       "labelScoreMap": {
+        "The_Inquirer": 0.21276032267689726,
+        "Philippine_Daily_Inquirer": 0.15899433152206882,
+        "The_Philadelphia_Inquirer": 0.11829521848527264,
+        "Skeptical_Inquirer": 0.5008964737292476,
+        "Donovan_McNabb": 0.004526803702885027,
+        "Minister_for_Foreign_Affairs_(Australia)": 0.0045268498836286844,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Norcross,_Georgia",
+       "score": 0.6392479455363573,
+       "start": 321,
+       "end": 322,
+       "tokens": "Norcross",
+       "labelScoreMap": {
+        "Norcross,_Georgia": 0.6392479455363573,
+        "Jonathan_Norcross": 0.09951815525635065,
+        "Norcross_High_School": 0.22827131758700653,
+        "George_Norcross": 0.027744768085662473,
+        "Stone_Mountain,_Georgia": 0.005217813534623101,
+        "<unk_wid>": 2.3647694914987117e-23
+       }
+      },
+      {
+       "label": "Philadelphia_Media_Network",
+       "score": 1.0,
+       "start": 103,
+       "end": 106,
+       "tokens": "Philadelphia Media Network",
+       "labelScoreMap": {
+        "Philadelphia_Media_Network": 1.0,
+        "<unk_wid>": 4.528744142531633e-30
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 143,
+       "end": 145,
+       "tokens": "Lewis Katz",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "H._F._Lenfest",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Lenfest",
+       "labelScoreMap": {
+        "H._F._Lenfest": 1.0,
+        "<unk_wid>": 3.21097480637974e-26
+       }
+      },
+      {
+       "label": "Bernard_Katz",
+       "score": 0.28137116978195226,
+       "start": 330,
+       "end": 331,
+       "tokens": "Katz",
+       "labelScoreMap": {
+        "Bernard_Katz": 0.28137116978195226,
+        "Katz_Castle": 0.04377047615417028,
+        "Katz_v._United_States": 0.11960981397962808,
+        "Sam_Katz": 0.19570252113671358,
+        "Yisrael_Katz_(politician_born_1955)": 0.09967859893783657,
+        "Mickey_Katz": 0.023776390622819988,
+        "Alex_Katz": 0.1262061428742106,
+        "Daryl_Katz": 0.020588244909696733,
+        "Katz's_Delicatessen": 0.02972206803844118,
+        "Jeff_Katz": 0.006445297432479428,
+        "Jonathan_Ned_Katz": 0.004369319207534461,
+        "Nick_Katz": 0.02372448710027426,
+        "Lawrence_F._Katz": 0.004311033985989268,
+        "Dave_Katz": 0.0038168113359953143,
+        "Dr._Katz,_Professional_Therapist": 0.013182884755153276,
+        "Cat": 0.0022495068334867302,
+        "Jerrold_Katz": 0.0014752329136182042,
+        "<unk_wid>": 1.020258285458642e-25
+       }
+      },
+      {
+       "label": "Philadelphia",
+       "score": 0.8512281925497338,
+       "start": 103,
+       "end": 104,
+       "tokens": "Philadelphia",
+       "labelScoreMap": {
+        "Philadelphia": 0.8512281925497338,
+        "Philadelphia_(film)": 0.04287036760997709,
+        "Philadelphia_76ers": 0.012474794077471426,
+        "Philadelphia_County,_Pennsylvania": 0.011331744996058525,
+        "Philadelphia_Flyers": 0.006814358747797647,
+        "Delaware_Valley": 0.007025796055424761,
+        "Ala\u015fehir": 0.005173490452308142,
+        "Philadelphia_English": 0.004885338145989519,
+        "Comcast_SportsNet_Philadelphia": 0.003890759674151938,
+        "Philadelphia_Mint": 0.007958721981311102,
+        "USS_Philadelphia_(1799)": 0.003340054463790205,
+        "Philadelphia_Phillies": 0.0033177930116799763,
+        "Philadelphia,_Mississippi": 0.003307030979894379,
+        "Philadelphia_Eagles": 0.0031730380787964923,
+        "U.S._Pro_Indoor": 0.002789360633660872,
+        "Philadelphia_Experiment": 0.0027893607808958673,
+        "Cream_cheese": 0.0025379557726095355,
+        "Philadelphia_International_Airport": 0.006512294917408624,
+        "Philadelphia_Orchestra": 0.002365444040884811,
+        "Philadelphia_crime_family": 0.0020161987879632874,
+        "Philadelphia_Wings": 0.0018562968195734043,
+        "Roman_Catholic_Archdiocese_of_Philadelphia": 0.0026793134469639706,
+        "Amman": 0.002508481775383042,
+        "Advanta_Championships_of_Philadelphia": 0.0014246033657470305,
+        "Philadelphia,_New_York": 0.0013767241844899632,
+        "Federal_Reserve_Bank_of_Philadelphia": 0.0019969021305166704,
+        "Philadelphia_University": 0.0012090478276844368,
+        "Philadelphia_(magazine)": 0.0011465346918333931,
+        "<unk_wid>": 1.042341212932787e-21
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 307,
+       "end": 308,
+       "tokens": "Marimow",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "H._F._Lenfest",
+       "score": 1.0,
+       "start": 140,
+       "end": 142,
+       "tokens": "H.F. Lenfest",
+       "labelScoreMap": {
+        "H._F._Lenfest": 1.0,
+        "<unk_wid>": 1.353743834622583e-33
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 255,
+       "end": 258,
+       "tokens": "William K. Marimow",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "H._F._Lenfest",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Lenfest",
+       "labelScoreMap": {
+        "H._F._Lenfest": 1.0,
+        "<unk_wid>": 3.58673125687871e-29
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 334,
+       "end": 335,
+       "tokens": "Marimow",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Bernard_Katz",
+       "score": 0.2775013224099619,
+       "start": 300,
+       "end": 301,
+       "tokens": "Katz",
+       "labelScoreMap": {
+        "Bernard_Katz": 0.2775013224099619,
+        "Katz_Castle": 0.04358593435089971,
+        "Katz_v._United_States": 0.10048173645103957,
+        "Sam_Katz": 0.18527887788434805,
+        "Yisrael_Katz_(politician_born_1955)": 0.10279523904017869,
+        "Mickey_Katz": 0.023702457334735576,
+        "Alex_Katz": 0.15967941884430958,
+        "Daryl_Katz": 0.021590673287984277,
+        "Katz's_Delicatessen": 0.027499199573772802,
+        "Jeff_Katz": 0.00638020986620621,
+        "Jonathan_Ned_Katz": 0.004338452273867139,
+        "Nick_Katz": 0.019964410811392625,
+        "Lawrence_F._Katz": 0.004295415815768673,
+        "Dave_Katz": 0.0038696456736901494,
+        "Dr._Katz,_Professional_Therapist": 0.015357109852165892,
+        "Cat": 0.0022064301145915104,
+        "Jerrold_Katz": 0.0014734664150875053,
+        "<unk_wid>": 5.637201183915651e-26
+       }
+      },
+      {
+       "label": "Norcross,_Georgia",
+       "score": 0.46641439133645585,
+       "start": 214,
+       "end": 215,
+       "tokens": "Norcross",
+       "labelScoreMap": {
+        "Norcross,_Georgia": 0.46641439133645585,
+        "Jonathan_Norcross": 0.058213680594908286,
+        "Norcross_High_School": 0.4616541187522636,
+        "George_Norcross": 0.010286394331111053,
+        "Stone_Mountain,_Georgia": 0.003431414985261306,
+        "<unk_wid>": 2.4260944029231766e-28
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 289,
+       "end": 290,
+       "tokens": "Marimow",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 216,
+       "end": 217,
+       "tokens": "Hankowsky",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Philadelphia_(magazine)",
+       "score": 0.4854457543603001,
+       "start": 111,
+       "end": 112,
+       "tokens": "Philadelphia",
+       "labelScoreMap": {
+        "Philadelphia": 0.43289934579612704,
+        "Philadelphia_(film)": 0.025690653530502428,
+        "Philadelphia_76ers": 0.007473006687404659,
+        "Philadelphia_County,_Pennsylvania": 0.006612410419190397,
+        "Philadelphia_Flyers": 0.004082691992036455,
+        "Delaware_Valley": 0.004030588116540195,
+        "Ala\u015fehir": 0.003098347287672858,
+        "Philadelphia_English": 0.002926934835287059,
+        "Comcast_SportsNet_Philadelphia": 0.002330839056640841,
+        "Philadelphia_Mint": 0.002309667072242508,
+        "USS_Philadelphia_(1799)": 0.0020011261184352228,
+        "Philadelphia_Phillies": 0.001984712370435834,
+        "Philadelphia,_Mississippi": 0.0019794227541248717,
+        "Philadelphia_Eagles": 0.0018936403654612867,
+        "U.S._Pro_Indoor": 0.001671033966054133,
+        "Philadelphia_Experiment": 0.001671047684541641,
+        "Cream_cheese": 0.001520425301379558,
+        "Philadelphia_International_Airport": 0.001456109586846323,
+        "Philadelphia_Orchestra": 0.0013341299360932798,
+        "Philadelphia_crime_family": 0.0012051108715808853,
+        "Philadelphia_Wings": 0.001111653421018673,
+        "Roman_Catholic_Archdiocese_of_Philadelphia": 0.0010900537688220081,
+        "Amman": 0.000996997978205945,
+        "Advanta_Championships_of_Philadelphia": 0.0008534447052397514,
+        "Philadelphia,_New_York": 0.0008247614680450584,
+        "Federal_Reserve_Bank_of_Philadelphia": 0.0008032471398335556,
+        "Philadelphia_University": 0.0007028434099375027,
+        "Philadelphia_(magazine)": 0.4854457543603001,
+        "<unk_wid>": 4.884525160759903e-30
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.494303056520698,
+       "start": 31,
+       "end": 33,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.33097064183943553,
+        "New_York_City": 0.1591865725359794,
+        "New_York_(magazine)": 0.494303056520698,
+        "New_York_(film)": 0.002332085537144617,
+        "Province_of_New_York": 0.0019374910772285542,
+        "New_York_Knicks": 0.0018677804744265025,
+        "Manhattan": 0.0018536218966431653,
+        "New_York_metropolitan_area": 0.001374816980750499,
+        "New_York's_at-large_congressional_seat": 0.0012177510380902488,
+        "Eastern_Air_Defense_Sector": 0.0008927358501458125,
+        "New_York_Air_National_Guard": 0.0008104261364628959,
+        "Peekskill,_New_York": 0.0006922382773246553,
+        "New_York_Liberty": 0.0006841127451210061,
+        "New_York_Yankees": 0.0006420222270543637,
+        "September_11_attacks": 0.0006204946164749685,
+        "New_York_GAA": 0.0006141522470198542,
+        "<unk_wid>": 9.031559256618186e-41
+       }
+      },
+      {
+       "label": "Philadelphia",
+       "score": 0.804328393111113,
+       "start": 0,
+       "end": 1,
+       "tokens": "PHILADELPHIA",
+       "labelScoreMap": {
+        "Philadelphia": 0.804328393111113,
+        "Philadelphia_(film)": 0.040944724009267776,
+        "Philadelphia_76ers": 0.011946342200438102,
+        "Philadelphia_County,_Pennsylvania": 0.019162936711702546,
+        "Philadelphia_Flyers": 0.007219372105493127,
+        "Delaware_Valley": 0.01258013015907941,
+        "Ala\u015fehir": 0.004940046065380464,
+        "Philadelphia_English": 0.004665526135731797,
+        "Comcast_SportsNet_Philadelphia": 0.0037160060775075143,
+        "Philadelphia_Mint": 0.017541182923539407,
+        "USS_Philadelphia_(1799)": 0.00319047065004015,
+        "Philadelphia_Phillies": 0.004665568322135875,
+        "Philadelphia,_Mississippi": 0.0031712357685046246,
+        "Philadelphia_Eagles": 0.006132232529109744,
+        "U.S._Pro_Indoor": 0.0026641416734101194,
+        "Philadelphia_Experiment": 0.002664113588826887,
+        "Cream_cheese": 0.002424020608488949,
+        "Philadelphia_International_Airport": 0.0030568974506728613,
+        "Philadelphia_Orchestra": 0.003579623819514182,
+        "Philadelphia_crime_family": 0.003862398631837181,
+        "Philadelphia_Wings": 0.0017934005377214718,
+        "Roman_Catholic_Archdiocese_of_Philadelphia": 0.02588810540676386,
+        "Amman": 0.0018791835141411526,
+        "Advanta_Championships_of_Philadelphia": 0.0013607012671084785,
+        "Philadelphia,_New_York": 0.0013149771531485045,
+        "Federal_Reserve_Bank_of_Philadelphia": 0.0029087363304962743,
+        "Philadelphia_University": 0.0012853135584339334,
+        "Philadelphia_(magazine)": 0.0011142196903924503,
+        "<unk_wid>": 9.75221130446973e-21
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 324,
+       "end": 326,
+       "tokens": "Jay Devine",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Philadelphia",
+       "score": 0.8544736788158317,
+       "start": 45,
+       "end": 46,
+       "tokens": "Philadelphia",
+       "labelScoreMap": {
+        "Philadelphia": 0.8544736788158317,
+        "Philadelphia_(film)": 0.043003006678178475,
+        "Philadelphia_76ers": 0.012512984519413893,
+        "Philadelphia_County,_Pennsylvania": 0.01103058590276845,
+        "Philadelphia_Flyers": 0.00683453441195856,
+        "Delaware_Valley": 0.006748891517144354,
+        "Ala\u015fehir": 0.00520156639750754,
+        "Philadelphia_English": 0.004899560495078258,
+        "Comcast_SportsNet_Philadelphia": 0.0039028172557795567,
+        "Philadelphia_Mint": 0.0038824327305340923,
+        "USS_Philadelphia_(1799)": 0.003350419614527713,
+        "Philadelphia_Phillies": 0.003318160252994674,
+        "Philadelphia,_Mississippi": 0.0033188020878801147,
+        "Philadelphia_Eagles": 0.0031706084421510897,
+        "U.S._Pro_Indoor": 0.002798021954307181,
+        "Philadelphia_Experiment": 0.002798021959841,
+        "Cream_cheese": 0.0025458376127816718,
+        "Philadelphia_International_Airport": 0.0024831040208183317,
+        "Philadelphia_Orchestra": 0.0022336934054160208,
+        "Philadelphia_crime_family": 0.0020174585045970635,
+        "Philadelphia_Wings": 0.0018613451762760221,
+        "Roman_Catholic_Archdiocese_of_Philadelphia": 0.0018192542913508312,
+        "Amman": 0.0016696773967652112,
+        "Advanta_Championships_of_Philadelphia": 0.001429027854909854,
+        "Philadelphia,_New_York": 0.0013810000626397535,
+        "Federal_Reserve_Bank_of_Philadelphia": 0.0013449757695996015,
+        "Philadelphia_University": 0.0011769374268274023,
+        "Philadelphia_(magazine)": 0.008793595442121278,
+        "<unk_wid>": 7.761319263436596e-31
+       }
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 0.9622355000728811,
+       "start": 222,
+       "end": 223,
+       "tokens": "Democratic",
+       "labelScoreMap": {
+        "Democratic_Party_(United_States)": 0.9622355000728811,
+        "California_Democratic_Party": 0.010981557194583361,
+        "European_Democratic_Party": 0.008970701337954018,
+        "Democratic_National_Convention": 0.004387971706440812,
+        "Democratic_Party_of_Oregon": 0.004171303541333903,
+        "Republican_Party_(United_States)": 0.0035043606706151656,
+        "Democratic_Party_of_Japan": 0.0026275155469447135,
+        "2008_Democratic_National_Convention": 0.001890529975458034,
+        "Democratic_Party_of_Illinois": 0.001230559953788929,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 94,
+       "end": 97,
+       "tokens": "William P. Hankowsky",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "H._F._Lenfest",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Lenfest",
+       "labelScoreMap": {
+        "H._F._Lenfest": 1.0,
+        "<unk_wid>": 1.0394058404285669e-25
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "The_Philadelphia_Inquirer",
+       "score": 1.0,
+       "start": 0,
+       "end": 2,
+       "tokens": "PHILADELPHIA INQUIRER",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 89,
+       "end": 93,
+       "tokens": "George E. Norcross III",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "The_Philadelphia_Inquirer",
+       "score": 1.0,
+       "start": 45,
+       "end": 47,
+       "tokens": "Philadelphia Inquirer",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Norcross,_Georgia",
+       "score": 0.7781438748924008,
+       "start": 219,
+       "end": 220,
+       "tokens": "Norcross",
+       "labelScoreMap": {
+        "4212888|Norcross,_Georgia": 0.7781438748924008,
+        "4212892|Norcross_High_School": 0.11924602708796463,
+        "4224745|Stone_Mountain,_Georgia": 0.008848053339577914
+       }
+      },
+      {
+       "label": "Philadelphia",
+       "score": 0.43617682012992465,
+       "start": 115,
+       "end": 116,
+       "tokens": "Philly",
+       "labelScoreMap": {
+        "4560349|Philadelphia": 0.43617682012992465
+       }
+      },
+      {
+       "label": "Skeptical_Inquirer",
+       "score": 0.5008964737292476,
+       "start": 264,
+       "end": 265,
+       "tokens": "Inquirer",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Norcross,_Georgia",
+       "score": 0.6392479455363573,
+       "start": 321,
+       "end": 322,
+       "tokens": "Norcross",
+       "labelScoreMap": {
+        "4212888|Norcross,_Georgia": 0.6392479455363573,
+        "4212892|Norcross_High_School": 0.22827131758700653,
+        "4224745|Stone_Mountain,_Georgia": 0.005217813534623101
+       }
+      },
+      {
+       "label": "Philadelphia_Media_Network",
+       "score": 1.0,
+       "start": 103,
+       "end": 106,
+       "tokens": "Philadelphia Media Network",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 143,
+       "end": 145,
+       "tokens": "Lewis Katz",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "H._F._Lenfest",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Lenfest",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bernard_Katz",
+       "score": 0.28137116978195226,
+       "start": 330,
+       "end": 331,
+       "tokens": "Katz",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Philadelphia",
+       "score": 0.8512281925497338,
+       "start": 103,
+       "end": 104,
+       "tokens": "Philadelphia",
+       "labelScoreMap": {
+        "4560349|Philadelphia": 0.8512281925497338,
+        "5205788|Philadelphia_County,_Pennsylvania": 0.011331744996058525,
+        "8632416|Ala\u015fehir": 0.005173490452308142,
+        "4561867|Philadelphia_Mint": 0.007958721981311102,
+        "4440906|Philadelphia,_Mississippi": 0.003307030979894379,
+        "4560342|Philadelphia_International_Airport": 0.006512294917408624,
+        "250441|Amman": 0.002508481775383042,
+        "5131095|Philadelphia,_New_York": 0.0013767241844899632
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 307,
+       "end": 308,
+       "tokens": "Marimow",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "H._F._Lenfest",
+       "score": 1.0,
+       "start": 140,
+       "end": 142,
+       "tokens": "H.F. Lenfest",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 255,
+       "end": 258,
+       "tokens": "William K. Marimow",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "H._F._Lenfest",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "Lenfest",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 334,
+       "end": 335,
+       "tokens": "Marimow",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Bernard_Katz",
+       "score": 0.2775013224099619,
+       "start": 300,
+       "end": 301,
+       "tokens": "Katz",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Norcross,_Georgia",
+       "score": 0.46641439133645585,
+       "start": 214,
+       "end": 215,
+       "tokens": "Norcross",
+       "labelScoreMap": {
+        "4212888|Norcross,_Georgia": 0.46641439133645585,
+        "4212892|Norcross_High_School": 0.4616541187522636,
+        "4224745|Stone_Mountain,_Georgia": 0.003431414985261306
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 289,
+       "end": 290,
+       "tokens": "Marimow",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 216,
+       "end": 217,
+       "tokens": "Hankowsky",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Philadelphia_(magazine)",
+       "score": 0.4854457543603001,
+       "start": 111,
+       "end": 112,
+       "tokens": "Philadelphia",
+       "labelScoreMap": {
+        "4560349|Philadelphia": 0.43289934579612704,
+        "5205788|Philadelphia_County,_Pennsylvania": 0.006612410419190397,
+        "8632416|Ala\u015fehir": 0.003098347287672858,
+        "4561867|Philadelphia_Mint": 0.002309667072242508,
+        "4440906|Philadelphia,_Mississippi": 0.0019794227541248717,
+        "4560342|Philadelphia_International_Airport": 0.001456109586846323,
+        "250441|Amman": 0.000996997978205945,
+        "5131095|Philadelphia,_New_York": 0.0008247614680450584
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.494303056520698,
+       "start": 31,
+       "end": 33,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.33097064183943553,
+        "5128581|New_York_City": 0.1591865725359794,
+        "5128594|Manhattan": 0.0018536218966431653,
+        "5130831|Peekskill,_New_York": 0.0006922382773246553
+       }
+      },
+      {
+       "label": "Philadelphia",
+       "score": 0.804328393111113,
+       "start": 0,
+       "end": 1,
+       "tokens": "PHILADELPHIA",
+       "labelScoreMap": {
+        "4560349|Philadelphia": 0.804328393111113,
+        "5205788|Philadelphia_County,_Pennsylvania": 0.019162936711702546,
+        "8632416|Ala\u015fehir": 0.004940046065380464,
+        "4561867|Philadelphia_Mint": 0.017541182923539407,
+        "4440906|Philadelphia,_Mississippi": 0.0031712357685046246,
+        "4560342|Philadelphia_International_Airport": 0.0030568974506728613,
+        "250441|Amman": 0.0018791835141411526,
+        "5131095|Philadelphia,_New_York": 0.0013149771531485045
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 324,
+       "end": 326,
+       "tokens": "Jay Devine",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Philadelphia",
+       "score": 0.8544736788158317,
+       "start": 45,
+       "end": 46,
+       "tokens": "Philadelphia",
+       "labelScoreMap": {
+        "4560349|Philadelphia": 0.8544736788158317,
+        "5205788|Philadelphia_County,_Pennsylvania": 0.01103058590276845,
+        "8632416|Ala\u015fehir": 0.00520156639750754,
+        "4561867|Philadelphia_Mint": 0.0038824327305340923,
+        "4440906|Philadelphia,_Mississippi": 0.0033188020878801147,
+        "4560342|Philadelphia_International_Airport": 0.0024831040208183317,
+        "250441|Amman": 0.0016696773967652112,
+        "5131095|Philadelphia,_New_York": 0.0013810000626397535
+       }
+      },
+      {
+       "label": "Democratic_Party_(United_States)",
+       "score": 0.9622355000728811,
+       "start": 222,
+       "end": 223,
+       "tokens": "Democratic",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 94,
+       "end": 97,
+       "tokens": "William P. Hankowsky",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "H._F._Lenfest",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "Lenfest",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

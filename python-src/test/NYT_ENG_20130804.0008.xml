@@ -1,0 +1,6220 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130804.0008.xml",
+ "text": "OBAMA ADMINISTRATION OVERTURNS BAN ON APPLE PRODUCTS\nEDS: CORRECTS to \u201cthis week\u201d sted of \u201cnext week\u201d and adds more information in lede; UPDATES throughout.); (This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow\u2019s New York Times.);\nThe Obama administration has vetoed a product ban that would have forced Apple to stop selling some iPhones and iPads in the United States this week, a rare intervention by the White House and a victory for Apple in its heated patent war with Samsung Electronics.\nThe U.S. International Trade Commission in June ordered a ban of older-model Apple products that worked with AT&T\u2019s network, including the iPhone 4 and 3GS, after determining that Apple had violated a patent that Samsung owned related to transmission of data over cellular networks. The administration had until Monday to weigh in.\nIt was the first time that an administration had vetoed an International Trade Commission ban since 1987, according to Susan Kohn Ross, an international trade lawyer for Mitchell Silberberg & Knupp.\nMichael Froman, the U.S. trade representative and the president\u2019s adviser on international trade issues, wrote in his decision that it was based in part on the \u201ceffect on competitive conditions in the U.S. economy and the effect on U.S. consumers.\u201d\nApple argued that Samsung had committed to licensing its patents related to wireless technology standards, but was refusing to keep that promise. Samsung said Apple refused to pay licensing fees for its patents.\nSamsung said Saturday that it was disappointed, adding, \u201cThe ITC\u2019s decision correctly recognized that Samsung has been negotiating in good faith and that Apple remains unwilling to take a license.\u201d\nKristin Huguet, an Apple spokeswoman, said, \u201cWe applaud the administration for standing up for innovation in this landmark case.\u201d She added, \u201cSamsung was wrong to abuse the patent system in this way.\u201d\nFroman said his decision did not mean that Samsung was \u201cnot entitled to a remedy. On the contrary, the patent owner may continue to pursue its rights through the courts.\u201d\nSamsung and Apple were once tight partners - the South Korean company makes some key parts needed to produce iPhones and iPads. But over time, as they made products that competed in different markets, their friendship turned into rivalry.\nThe companies, which together rake in all of the profits in the handset industry, have been using patents as weapons to fight each other in the United States and other countries. Last year, a California jury awarded Apple $1 billion in damages after deciding that Samsung had violated the American company\u2019s mobile patents, though the amount was reduced to $599 million.",
+ "tokens": [
+  "OBAMA",
+  "ADMINISTRATION",
+  "OVERTURNS",
+  "BAN",
+  "ON",
+  "APPLE",
+  "PRODUCTS",
+  "EDS",
+  ":",
+  "CORRECTS",
+  "to",
+  "\u201c",
+  "this",
+  "week",
+  "\u201d",
+  "sted",
+  "of",
+  "\u201c",
+  "next",
+  "week",
+  "\u201d",
+  "and",
+  "adds",
+  "more",
+  "information",
+  "in",
+  "lede",
+  ";",
+  "UPDATES",
+  "throughout",
+  ".",
+  ")",
+  ";",
+  "(",
+  "This",
+  "article",
+  "is",
+  "part",
+  "of",
+  "TIMES",
+  "EXPRESS",
+  ".",
+  "It",
+  "is",
+  "a",
+  "condensed",
+  "version",
+  "of",
+  "a",
+  "story",
+  "that",
+  "will",
+  "appear",
+  "in",
+  "tomorrow",
+  "\u2019s",
+  "New",
+  "York",
+  "Times",
+  ".",
+  ")",
+  ";",
+  "The",
+  "Obama",
+  "administration",
+  "has",
+  "vetoed",
+  "a",
+  "product",
+  "ban",
+  "that",
+  "would",
+  "have",
+  "forced",
+  "Apple",
+  "to",
+  "stop",
+  "selling",
+  "some",
+  "iPhones",
+  "and",
+  "iPads",
+  "in",
+  "the",
+  "United",
+  "States",
+  "this",
+  "week",
+  ",",
+  "a",
+  "rare",
+  "intervention",
+  "by",
+  "the",
+  "White",
+  "House",
+  "and",
+  "a",
+  "victory",
+  "for",
+  "Apple",
+  "in",
+  "its",
+  "heated",
+  "patent",
+  "war",
+  "with",
+  "Samsung",
+  "Electronics",
+  ".",
+  "The",
+  "U.S.",
+  "International",
+  "Trade",
+  "Commission",
+  "in",
+  "June",
+  "ordered",
+  "a",
+  "ban",
+  "of",
+  "older",
+  "-",
+  "model",
+  "Apple",
+  "products",
+  "that",
+  "worked",
+  "with",
+  "AT",
+  "&",
+  "T",
+  "\u2019s",
+  "network",
+  ",",
+  "including",
+  "the",
+  "iPhone",
+  "4",
+  "and",
+  "3GS",
+  ",",
+  "after",
+  "determining",
+  "that",
+  "Apple",
+  "had",
+  "violated",
+  "a",
+  "patent",
+  "that",
+  "Samsung",
+  "owned",
+  "related",
+  "to",
+  "transmission",
+  "of",
+  "data",
+  "over",
+  "cellular",
+  "networks",
+  ".",
+  "The",
+  "administration",
+  "had",
+  "until",
+  "Monday",
+  "to",
+  "weigh",
+  "in",
+  ".",
+  "It",
+  "was",
+  "the",
+  "first",
+  "time",
+  "that",
+  "an",
+  "administration",
+  "had",
+  "vetoed",
+  "an",
+  "International",
+  "Trade",
+  "Commission",
+  "ban",
+  "since",
+  "1987",
+  ",",
+  "according",
+  "to",
+  "Susan",
+  "Kohn",
+  "Ross",
+  ",",
+  "an",
+  "international",
+  "trade",
+  "lawyer",
+  "for",
+  "Mitchell",
+  "Silberberg",
+  "&",
+  "Knupp",
+  ".",
+  "Michael",
+  "Froman",
+  ",",
+  "the",
+  "U.S.",
+  "trade",
+  "representative",
+  "and",
+  "the",
+  "president",
+  "\u2019s",
+  "adviser",
+  "on",
+  "international",
+  "trade",
+  "issues",
+  ",",
+  "wrote",
+  "in",
+  "his",
+  "decision",
+  "that",
+  "it",
+  "was",
+  "based",
+  "in",
+  "part",
+  "on",
+  "the",
+  "\u201c",
+  "effect",
+  "on",
+  "competitive",
+  "conditions",
+  "in",
+  "the",
+  "U.S.",
+  "economy",
+  "and",
+  "the",
+  "effect",
+  "on",
+  "U.S.",
+  "consumers",
+  ".",
+  "\u201d",
+  "Apple",
+  "argued",
+  "that",
+  "Samsung",
+  "had",
+  "committed",
+  "to",
+  "licensing",
+  "its",
+  "patents",
+  "related",
+  "to",
+  "wireless",
+  "technology",
+  "standards",
+  ",",
+  "but",
+  "was",
+  "refusing",
+  "to",
+  "keep",
+  "that",
+  "promise",
+  ".",
+  "Samsung",
+  "said",
+  "Apple",
+  "refused",
+  "to",
+  "pay",
+  "licensing",
+  "fees",
+  "for",
+  "its",
+  "patents",
+  ".",
+  "Samsung",
+  "said",
+  "Saturday",
+  "that",
+  "it",
+  "was",
+  "disappointed",
+  ",",
+  "adding",
+  ",",
+  "\u201c",
+  "The",
+  "ITC",
+  "\u2019s",
+  "decision",
+  "correctly",
+  "recognized",
+  "that",
+  "Samsung",
+  "has",
+  "been",
+  "negotiating",
+  "in",
+  "good",
+  "faith",
+  "and",
+  "that",
+  "Apple",
+  "remains",
+  "unwilling",
+  "to",
+  "take",
+  "a",
+  "license",
+  ".",
+  "\u201d",
+  "Kristin",
+  "Huguet",
+  ",",
+  "an",
+  "Apple",
+  "spokeswoman",
+  ",",
+  "said",
+  ",",
+  "\u201c",
+  "We",
+  "applaud",
+  "the",
+  "administration",
+  "for",
+  "standing",
+  "up",
+  "for",
+  "innovation",
+  "in",
+  "this",
+  "landmark",
+  "case",
+  ".",
+  "\u201d",
+  "She",
+  "added",
+  ",",
+  "\u201c",
+  "Samsung",
+  "was",
+  "wrong",
+  "to",
+  "abuse",
+  "the",
+  "patent",
+  "system",
+  "in",
+  "this",
+  "way",
+  ".",
+  "\u201d",
+  "Froman",
+  "said",
+  "his",
+  "decision",
+  "did",
+  "not",
+  "mean",
+  "that",
+  "Samsung",
+  "was",
+  "\u201c",
+  "not",
+  "entitled",
+  "to",
+  "a",
+  "remedy",
+  ".",
+  "On",
+  "the",
+  "contrary",
+  ",",
+  "the",
+  "patent",
+  "owner",
+  "may",
+  "continue",
+  "to",
+  "pursue",
+  "its",
+  "rights",
+  "through",
+  "the",
+  "courts",
+  ".",
+  "\u201d",
+  "Samsung",
+  "and",
+  "Apple",
+  "were",
+  "once",
+  "tight",
+  "partners",
+  "-",
+  "the",
+  "South",
+  "Korean",
+  "company",
+  "makes",
+  "some",
+  "key",
+  "parts",
+  "needed",
+  "to",
+  "produce",
+  "iPhones",
+  "and",
+  "iPads",
+  ".",
+  "But",
+  "over",
+  "time",
+  ",",
+  "as",
+  "they",
+  "made",
+  "products",
+  "that",
+  "competed",
+  "in",
+  "different",
+  "markets",
+  ",",
+  "their",
+  "friendship",
+  "turned",
+  "into",
+  "rivalry",
+  ".",
+  "The",
+  "companies",
+  ",",
+  "which",
+  "together",
+  "rake",
+  "in",
+  "all",
+  "of",
+  "the",
+  "profits",
+  "in",
+  "the",
+  "handset",
+  "industry",
+  ",",
+  "have",
+  "been",
+  "using",
+  "patents",
+  "as",
+  "weapons",
+  "to",
+  "fight",
+  "each",
+  "other",
+  "in",
+  "the",
+  "United",
+  "States",
+  "and",
+  "other",
+  "countries",
+  ".",
+  "Last",
+  "year",
+  ",",
+  "a",
+  "California",
+  "jury",
+  "awarded",
+  "Apple",
+  "$1",
+  "billion",
+  "in",
+  "damages",
+  "after",
+  "deciding",
+  "that",
+  "Samsung",
+  "had",
+  "violated",
+  "the",
+  "American",
+  "company",
+  "\u2019s",
+  "mobile",
+  "patents",
+  ",",
+  "though",
+  "the",
+  "amount",
+  "was",
+  "reduced",
+  "to",
+  "$599",
+  "million",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   42,
+   110,
+   162,
+   171,
+   205,
+   275,
+   287,
+   382,
+   423,
+   443,
+   477,
+   511
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "New_York_City",
+       "score": 1.0,
+       "start": 56,
+       "end": 58,
+       "tokens": "New York"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Obama"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 200,
+       "end": 204,
+       "tokens": "Mitchell Silberberg & Knupp"
+      },
+      {
+       "label": "AT&T",
+       "score": 1.0,
+       "start": 129,
+       "end": 132,
+       "tokens": "AT & T"
+      },
+      {
+       "label": "California",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "California"
+      },
+      {
+       "label": "Executive_Office_of_the_President_of_the_United_States",
+       "score": 1.0,
+       "start": 63,
+       "end": 65,
+       "tokens": "Obama administration"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "U.S."
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 323,
+       "end": 325,
+       "tokens": "Kristin Huguet"
+      },
+      {
+       "label": "United_States_International_Trade_Commission",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "ITC"
+      },
+      {
+       "label": "Michael_Froman",
+       "score": 1.0,
+       "start": 205,
+       "end": 207,
+       "tokens": "Michael Froman"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 84,
+       "end": 86,
+       "tokens": "United States"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "Apple"
+      },
+      {
+       "label": "South_Korea",
+       "score": 1.0,
+       "start": 409,
+       "end": 411,
+       "tokens": "South Korean"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "U.S."
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Silberberg"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 107,
+       "end": 109,
+       "tokens": "Samsung Electronics"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 471,
+       "end": 473,
+       "tokens": "United States"
+      },
+      {
+       "label": "Executive_Office_of_the_President_of_the_United_States",
+       "score": 1.0,
+       "start": 94,
+       "end": 96,
+       "tokens": "White House"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "American"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "APPLE"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "U.S."
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "OBAMA"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 191,
+       "end": 194,
+       "tokens": "Susan Kohn Ross"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "Mitchell"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "United_States_International_Trade_Commission",
+       "score": 1.0,
+       "start": 182,
+       "end": 185,
+       "tokens": "International Trade Commission"
+      },
+      {
+       "label": "Michael_Froman",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "Froman"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "Executive_Office_of_the_President_of_the_United_States",
+       "score": 1.0,
+       "start": 0,
+       "end": 2,
+       "tokens": "OBAMA ADMINISTRATION"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "United_States",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "U.S."
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Knupp"
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "Apple"
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "United_States_International_Trade_Commission",
+       "score": 1.0,
+       "start": 112,
+       "end": 115,
+       "tokens": "International Trade Commission"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 56,
+       "end": 58,
+       "tokens": "New York"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Obama"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 200,
+       "end": 204,
+       "tokens": "Mitchell Silberberg & Knupp"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 129,
+       "end": 132,
+       "tokens": "AT & T"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "California"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 63,
+       "end": 65,
+       "tokens": "Obama administration"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "U.S."
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 323,
+       "end": 325,
+       "tokens": "Kristin Huguet"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "ITC"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 205,
+       "end": 207,
+       "tokens": "Michael Froman"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 84,
+       "end": 86,
+       "tokens": "United States"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "Apple"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 409,
+       "end": 411,
+       "tokens": "South Korean"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "U.S."
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Silberberg"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 107,
+       "end": 109,
+       "tokens": "Samsung Electronics"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 471,
+       "end": 473,
+       "tokens": "United States"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 94,
+       "end": 96,
+       "tokens": "White House"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "American"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "APPLE"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "U.S."
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "OBAMA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 191,
+       "end": 194,
+       "tokens": "Susan Kohn Ross"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "Mitchell"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 182,
+       "end": 185,
+       "tokens": "International Trade Commission"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "Froman"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 0,
+       "end": 2,
+       "tokens": "OBAMA ADMINISTRATION"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "U.S."
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Knupp"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "Apple"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 112,
+       "end": 115,
+       "tokens": "International Trade Commission"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "OBAMA",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "OBAMA"
+      },
+      {
+       "label": "ADMINISTRATION",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "ADMINISTRATION"
+      },
+      {
+       "label": "OVERTURNS",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "OVERTURNS"
+      },
+      {
+       "label": "BAN",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "BAN"
+      },
+      {
+       "label": "ON",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "ON"
+      },
+      {
+       "label": "APPLE",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "APPLE"
+      },
+      {
+       "label": "PRODUCTS",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "PRODUCTS"
+      },
+      {
+       "label": "EDS",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "EDS"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": ":"
+      },
+      {
+       "label": "CORRECTS",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "CORRECTS"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "to"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "this"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "week"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "sted",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "sted"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "of"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "next",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "next"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "week"
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "and"
+      },
+      {
+       "label": "adds",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "adds"
+      },
+      {
+       "label": "more",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "more"
+      },
+      {
+       "label": "information",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "information"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "in"
+      },
+      {
+       "label": "lede",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "lede"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": ";"
+      },
+      {
+       "label": "UPDATES",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "UPDATES"
+      },
+      {
+       "label": "throughout",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "throughout"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": ";"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "("
+      },
+      {
+       "label": "This",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "This"
+      },
+      {
+       "label": "article",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "article"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "is"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "of"
+      },
+      {
+       "label": "TIMES",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "TIMES"
+      },
+      {
+       "label": "EXPRESS",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "EXPRESS"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "It"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "is"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "a"
+      },
+      {
+       "label": "condensed",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "condensed"
+      },
+      {
+       "label": "version",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "version"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "a"
+      },
+      {
+       "label": "story",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "story"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "that"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "will"
+      },
+      {
+       "label": "appear",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "appear"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "in"
+      },
+      {
+       "label": "tomorrow",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "tomorrow"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "New",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "New"
+      },
+      {
+       "label": "York",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "York"
+      },
+      {
+       "label": "Times",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Times"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "."
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": ")"
+      },
+      {
+       "label": ";",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": ";"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "The"
+      },
+      {
+       "label": "Obama",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "Obama"
+      },
+      {
+       "label": "administration",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "administration"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "has"
+      },
+      {
+       "label": "vetoed",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "vetoed"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "a"
+      },
+      {
+       "label": "product",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "product"
+      },
+      {
+       "label": "ban",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "ban"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "that"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "would"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "have"
+      },
+      {
+       "label": "forced",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "forced"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "Apple"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "to"
+      },
+      {
+       "label": "stop",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "stop"
+      },
+      {
+       "label": "selling",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "selling"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "some"
+      },
+      {
+       "label": "iPhones",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "iPhones"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "and"
+      },
+      {
+       "label": "iPads",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "iPads"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "United"
+      },
+      {
+       "label": "States",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "States"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "this"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "week"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "a"
+      },
+      {
+       "label": "rare",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "rare"
+      },
+      {
+       "label": "intervention",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "intervention"
+      },
+      {
+       "label": "by",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "by"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "the"
+      },
+      {
+       "label": "White",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "White"
+      },
+      {
+       "label": "House",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "House"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "and"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "a"
+      },
+      {
+       "label": "victory",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "victory"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "for"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Apple"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "in"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "its"
+      },
+      {
+       "label": "heated",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "heated"
+      },
+      {
+       "label": "patent",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "patent"
+      },
+      {
+       "label": "war",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "war"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "with"
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "Electronics",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "Electronics"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "The"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "U.S."
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "International"
+      },
+      {
+       "label": "Trade",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "Trade"
+      },
+      {
+       "label": "Commission",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Commission"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "in"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "June"
+      },
+      {
+       "label": "ordered",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "ordered"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "a"
+      },
+      {
+       "label": "ban",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "ban"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "of"
+      },
+      {
+       "label": "older",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "older"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "-"
+      },
+      {
+       "label": "model",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "model"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "Apple"
+      },
+      {
+       "label": "products",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "products"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "that"
+      },
+      {
+       "label": "worked",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "worked"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "with"
+      },
+      {
+       "label": "AT",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "AT"
+      },
+      {
+       "label": "&",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "&"
+      },
+      {
+       "label": "T",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "T"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "network",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "network"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "including"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "the"
+      },
+      {
+       "label": "iPhone",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "iPhone"
+      },
+      {
+       "label": "4",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "4"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "and"
+      },
+      {
+       "label": "3GS",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "3GS"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": ","
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "after"
+      },
+      {
+       "label": "determining",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "determining"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "that"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "Apple"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "had"
+      },
+      {
+       "label": "violated",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "violated"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "a"
+      },
+      {
+       "label": "patent",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "patent"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "that"
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "owned",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "owned"
+      },
+      {
+       "label": "related",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "related"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "to"
+      },
+      {
+       "label": "transmission",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "transmission"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "of"
+      },
+      {
+       "label": "data",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "data"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "over"
+      },
+      {
+       "label": "cellular",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "cellular"
+      },
+      {
+       "label": "networks",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "networks"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "The"
+      },
+      {
+       "label": "administration",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "administration"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "had"
+      },
+      {
+       "label": "until",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "until"
+      },
+      {
+       "label": "Monday",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "Monday"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "to"
+      },
+      {
+       "label": "weigh",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "weigh"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "in"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "."
+      },
+      {
+       "label": "It",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "It"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "was"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "the"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "first"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "time"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "that"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "an"
+      },
+      {
+       "label": "administration",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "administration"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "had"
+      },
+      {
+       "label": "vetoed",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "vetoed"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "an"
+      },
+      {
+       "label": "International",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "International"
+      },
+      {
+       "label": "Trade",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "Trade"
+      },
+      {
+       "label": "Commission",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "Commission"
+      },
+      {
+       "label": "ban",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "ban"
+      },
+      {
+       "label": "since",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "since"
+      },
+      {
+       "label": "1987",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "1987"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": ","
+      },
+      {
+       "label": "according",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "according"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "to"
+      },
+      {
+       "label": "Susan",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "Susan"
+      },
+      {
+       "label": "Kohn",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "Kohn"
+      },
+      {
+       "label": "Ross",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "Ross"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "an"
+      },
+      {
+       "label": "international",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "international"
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "trade"
+      },
+      {
+       "label": "lawyer",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "lawyer"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "for"
+      },
+      {
+       "label": "Mitchell",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "Mitchell"
+      },
+      {
+       "label": "Silberberg",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Silberberg"
+      },
+      {
+       "label": "&",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "&"
+      },
+      {
+       "label": "Knupp",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "Knupp"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "."
+      },
+      {
+       "label": "Michael",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "Michael"
+      },
+      {
+       "label": "Froman",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "Froman"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "the"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "U.S."
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "trade"
+      },
+      {
+       "label": "representative",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "representative"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "the"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "president"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "adviser",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "adviser"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "on"
+      },
+      {
+       "label": "international",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "international"
+      },
+      {
+       "label": "trade",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "trade"
+      },
+      {
+       "label": "issues",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "issues"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": ","
+      },
+      {
+       "label": "wrote",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "wrote"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "in"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "his"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "decision"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "that"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "was"
+      },
+      {
+       "label": "based",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "based"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "in"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "part"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "on"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "the"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "effect",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "effect"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "on"
+      },
+      {
+       "label": "competitive",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "competitive"
+      },
+      {
+       "label": "conditions",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "conditions"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "the"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "U.S."
+      },
+      {
+       "label": "economy",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "economy"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "the"
+      },
+      {
+       "label": "effect",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "effect"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "on"
+      },
+      {
+       "label": "U.S.",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "U.S."
+      },
+      {
+       "label": "consumers",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "consumers"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "Apple"
+      },
+      {
+       "label": "argued",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "argued"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "that"
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "had"
+      },
+      {
+       "label": "committed",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "committed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "to"
+      },
+      {
+       "label": "licensing",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "licensing"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "its"
+      },
+      {
+       "label": "patents",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "patents"
+      },
+      {
+       "label": "related",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "related"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "to"
+      },
+      {
+       "label": "wireless",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "wireless"
+      },
+      {
+       "label": "technology",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "technology"
+      },
+      {
+       "label": "standards",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "standards"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "but"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "was"
+      },
+      {
+       "label": "refusing",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "refusing"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "to"
+      },
+      {
+       "label": "keep",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "keep"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "that"
+      },
+      {
+       "label": "promise",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "promise"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "."
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "said"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple"
+      },
+      {
+       "label": "refused",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "refused"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "to"
+      },
+      {
+       "label": "pay",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "pay"
+      },
+      {
+       "label": "licensing",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "licensing"
+      },
+      {
+       "label": "fees",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "fees"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "for"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "its"
+      },
+      {
+       "label": "patents",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "patents"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "."
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "said"
+      },
+      {
+       "label": "Saturday",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "Saturday"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "that"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "was"
+      },
+      {
+       "label": "disappointed",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "disappointed"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": ","
+      },
+      {
+       "label": "adding",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "adding"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": ","
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "The"
+      },
+      {
+       "label": "ITC",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "ITC"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "decision"
+      },
+      {
+       "label": "correctly",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "correctly"
+      },
+      {
+       "label": "recognized",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "recognized"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "that"
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "has"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "been"
+      },
+      {
+       "label": "negotiating",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "negotiating"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "in"
+      },
+      {
+       "label": "good",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "good"
+      },
+      {
+       "label": "faith",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "faith"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "and"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "that"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "Apple"
+      },
+      {
+       "label": "remains",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "remains"
+      },
+      {
+       "label": "unwilling",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "unwilling"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "to"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "take"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "a"
+      },
+      {
+       "label": "license",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "license"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Kristin",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "Kristin"
+      },
+      {
+       "label": "Huguet",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "Huguet"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": ","
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "an"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "Apple"
+      },
+      {
+       "label": "spokeswoman",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "spokeswoman"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "said"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": ","
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "We"
+      },
+      {
+       "label": "applaud",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "applaud"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "the"
+      },
+      {
+       "label": "administration",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "administration"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "for"
+      },
+      {
+       "label": "standing",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "standing"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "up"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "for"
+      },
+      {
+       "label": "innovation",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": "innovation"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "in"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "this"
+      },
+      {
+       "label": "landmark",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": "landmark"
+      },
+      {
+       "label": "case",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "case"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "She",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "She"
+      },
+      {
+       "label": "added",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "added"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": ","
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "was"
+      },
+      {
+       "label": "wrong",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "wrong"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "to"
+      },
+      {
+       "label": "abuse",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "abuse"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "the"
+      },
+      {
+       "label": "patent",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "patent"
+      },
+      {
+       "label": "system",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "system"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "in"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "this"
+      },
+      {
+       "label": "way",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "way"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Froman",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "Froman"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": "said"
+      },
+      {
+       "label": "his",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "his"
+      },
+      {
+       "label": "decision",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "decision"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "did"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": "not"
+      },
+      {
+       "label": "mean",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "mean"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "that"
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "was"
+      },
+      {
+       "label": "\u201c",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "\u201c"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "not"
+      },
+      {
+       "label": "entitled",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "entitled"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "to"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "a"
+      },
+      {
+       "label": "remedy",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "remedy"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "."
+      },
+      {
+       "label": "On",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "On"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "the"
+      },
+      {
+       "label": "contrary",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "contrary"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "the"
+      },
+      {
+       "label": "patent",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "patent"
+      },
+      {
+       "label": "owner",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "owner"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "may"
+      },
+      {
+       "label": "continue",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "continue"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "to"
+      },
+      {
+       "label": "pursue",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "pursue"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "its"
+      },
+      {
+       "label": "rights",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "rights"
+      },
+      {
+       "label": "through",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "through"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "the"
+      },
+      {
+       "label": "courts",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "courts"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "."
+      },
+      {
+       "label": "\u201d",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "\u201d"
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "and"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "Apple"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": "were"
+      },
+      {
+       "label": "once",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "once"
+      },
+      {
+       "label": "tight",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "tight"
+      },
+      {
+       "label": "partners",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "partners"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "-"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "the"
+      },
+      {
+       "label": "South",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "South"
+      },
+      {
+       "label": "Korean",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "Korean"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "company"
+      },
+      {
+       "label": "makes",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "makes"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "some"
+      },
+      {
+       "label": "key",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "key"
+      },
+      {
+       "label": "parts",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "parts"
+      },
+      {
+       "label": "needed",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "needed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": "to"
+      },
+      {
+       "label": "produce",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "produce"
+      },
+      {
+       "label": "iPhones",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "iPhones"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "and"
+      },
+      {
+       "label": "iPads",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "iPads"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "But"
+      },
+      {
+       "label": "over",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "over"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "time"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": ","
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "as"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "they"
+      },
+      {
+       "label": "made",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "made"
+      },
+      {
+       "label": "products",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "products"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "that"
+      },
+      {
+       "label": "competed",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "competed"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "in"
+      },
+      {
+       "label": "different",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "different"
+      },
+      {
+       "label": "markets",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "markets"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": ","
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "their"
+      },
+      {
+       "label": "friendship",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "friendship"
+      },
+      {
+       "label": "turned",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": "turned"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "into"
+      },
+      {
+       "label": "rivalry",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "rivalry"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "The"
+      },
+      {
+       "label": "companies",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "companies"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "which"
+      },
+      {
+       "label": "together",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "together"
+      },
+      {
+       "label": "rake",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "rake"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "in"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "all"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "the"
+      },
+      {
+       "label": "profits",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "profits"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "the"
+      },
+      {
+       "label": "handset",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "handset"
+      },
+      {
+       "label": "industry",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "industry"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": ","
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "have"
+      },
+      {
+       "label": "been",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "been"
+      },
+      {
+       "label": "using",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "using"
+      },
+      {
+       "label": "patents",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "patents"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "as"
+      },
+      {
+       "label": "weapons",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "weapons"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "to"
+      },
+      {
+       "label": "fight",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "fight"
+      },
+      {
+       "label": "each",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "each"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "other"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "the"
+      },
+      {
+       "label": "United",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "United"
+      },
+      {
+       "label": "States",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "States"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "and"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "other"
+      },
+      {
+       "label": "countries",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "countries"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "."
+      },
+      {
+       "label": "Last",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "Last"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "year"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": "a"
+      },
+      {
+       "label": "California",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "California"
+      },
+      {
+       "label": "jury",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "jury"
+      },
+      {
+       "label": "awarded",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "awarded"
+      },
+      {
+       "label": "Apple",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "Apple"
+      },
+      {
+       "label": "$1",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "$1"
+      },
+      {
+       "label": "billion",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "billion"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "in"
+      },
+      {
+       "label": "damages",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "damages"
+      },
+      {
+       "label": "after",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "after"
+      },
+      {
+       "label": "deciding",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "deciding"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "that"
+      },
+      {
+       "label": "Samsung",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "Samsung"
+      },
+      {
+       "label": "had",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": "had"
+      },
+      {
+       "label": "violated",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "violated"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "the"
+      },
+      {
+       "label": "American",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "American"
+      },
+      {
+       "label": "company",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": "company"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "mobile",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "mobile"
+      },
+      {
+       "label": "patents",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "patents"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": ","
+      },
+      {
+       "label": "though",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "though"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "the"
+      },
+      {
+       "label": "amount",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "amount"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "was"
+      },
+      {
+       "label": "reduced",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "reduced"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "to"
+      },
+      {
+       "label": "$599",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "$599"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "million"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794740186141662,
+       "start": 100,
+       "end": 101,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.794740186141662,
+        "Apple": 0.10729983617370602,
+        "Apple_Records": 0.04137306204094096,
+        "Apple_II_series": 0.023584660872547694,
+        "Apple_Corps": 0.0054163078926807275,
+        "IPhone": 0.0034778371658896975,
+        "Apple_II_Plus": 0.0032972964598535683,
+        "Macintosh": 0.0032696604268235086,
+        "Apple_(album)": 0.003145254955553063,
+        "IPad": 0.0022045327025815315,
+        "Apple_Store": 0.002138160046028304,
+        "Cashew": 0.0020144894609278124,
+        "Mac_Mini": 0.0017104150910487934,
+        "Apple_III": 0.0011972922914785735,
+        "Apple_I": 0.0010642559754632593,
+        "Malus": 0.001054753381196872,
+        "ITunes": 0.0010357481933177019,
+        "Apple_TV": 0.0009977378689591452,
+        "Apple_Lisa": 0.000978512859340564,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8755636757056797,
+       "start": 352,
+       "end": 353,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.8755636757056797,
+        "Samsung_Electronics": 0.09419856055704719,
+        "Samsung_Telecommunications": 0.023081403192628122,
+        "Renault_Samsung_Motors": 0.007156360544644913,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.503277335250645,
+       "start": 56,
+       "end": 58,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "New_York": 0.32948688933297215,
+        "New_York_City": 0.15181931421900535,
+        "New_York_(magazine)": 0.503277335250645,
+        "New_York_(film)": 0.002324037058143661,
+        "Province_of_New_York": 0.0019307337150642758,
+        "New_York_Knicks": 0.001861329604002502,
+        "Manhattan": 0.0018466097468170922,
+        "New_York_metropolitan_area": 0.0013018844622706119,
+        "New_York's_at-large_congressional_seat": 0.0012135483433329242,
+        "Eastern_Air_Defense_Sector": 0.0008896548457705956,
+        "New_York_Air_National_Guard": 0.0008076291988542055,
+        "Peekskill,_New_York": 0.0006898492238810694,
+        "New_York_Liberty": 0.0006814367781392094,
+        "New_York_Yankees": 0.0006393749862656684,
+        "September_11_attacks": 0.000618340567767583,
+        "New_York_GAA": 0.0006120326670679113,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9326782867926477,
+       "start": 63,
+       "end": 64,
+       "tokens": "Obama",
+       "labelScoreMap": {
+        "Barack_Obama": 0.9326782867926477,
+        "Obama,_Fukui": 0.04555499226865909,
+        "Osama_bin_Laden": 0.009919605386510861,
+        "Sonia_Sotomayor": 0.007192884992519125,
+        "Barack_Obama_presidential_campaign,_2008": 0.002350629978546373,
+        "2011_State_of_the_Union_Address": 0.0012693290733538033,
+        "United_States_presidential_election,_2008": 0.0010342715077628795,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8744434402164359,
+       "start": 151,
+       "end": 152,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.8744434402164359,
+        "Samsung_Electronics": 0.0953509355800867,
+        "Samsung_Telecommunications": 0.023056870054510417,
+        "Renault_Samsung_Motors": 0.0071487541489669935,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 200,
+       "end": 204,
+       "tokens": "Mitchell Silberberg & Knupp",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "AT&T_U-verse",
+       "score": 0.5005019661684713,
+       "start": 129,
+       "end": 132,
+       "tokens": "AT & T",
+       "labelScoreMap": {
+        "AT&T": 0.3961722006836443,
+        "AT&T_Mobility": 0.08084409456555655,
+        "AT&T_Corporation": 0.021717362285079776,
+        "AT&T_U-verse": 0.5005019661684713,
+        "Netflix_Prize": 0.000764376297248028,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "California",
+       "score": 0.9729584939165706,
+       "start": 481,
+       "end": 482,
+       "tokens": "California",
+       "labelScoreMap": {
+        "California": 0.9729584939165706,
+        "University_of_California,_Berkeley": 0.005413068608128794,
+        "California_Golden_Bears_football": 0.005281946123934664,
+        "California_Trail": 0.003026196244574996,
+        "California,_Missouri": 0.003014283106771559,
+        "United_States_Senate_election_in_California,_2010": 0.0016560677681082545,
+        "California,_Pennsylvania": 0.0015766375552167967,
+        "California_Air_National_Guard": 0.0015647251970582123,
+        "University_of_California": 0.0015530699140595258,
+        "Auto_Club_Speedway": 0.0014694154629394658,
+        "Ferrari_California": 0.0013065878740645782,
+        "Miss_California": 0.0011795082285723016,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9970599064856236,
+       "start": 63,
+       "end": 65,
+       "tokens": "Obama administration",
+       "labelScoreMap": {
+        "Barack_Obama": 0.9970599064856236,
+        "Robert_Reich": 0.0029400935143765257,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947457964245336,
+       "start": 484,
+       "end": 485,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947457964245336,
+        "Apple": 0.1073003625073786,
+        "Apple_Records": 0.04137324144586523,
+        "Apple_II_series": 0.023584776585270608,
+        "Apple_Corps": 0.005416332784546532,
+        "IPhone": 0.003477854168027482,
+        "Apple_II_Plus": 0.0032973126340025576,
+        "Macintosh": 0.003269068256533509,
+        "Apple_(album)": 0.003145270383896594,
+        "IPad": 0.002204543516422788,
+        "Apple_Store": 0.0021380256640208288,
+        "Cashew": 0.002014499342554543,
+        "Mac_Mini": 0.0017104234811068264,
+        "Apple_III": 0.001197298164527686,
+        "Apple_I": 0.001064261197161345,
+        "Malus": 0.0010547585550532799,
+        "ITunes": 0.001035753273930285,
+        "Apple_TV": 0.0009977427245372243,
+        "Apple_Lisa": 0.0009726788906305768,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947433203035589,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947433203035589,
+        "Apple": 0.10730013020404586,
+        "Apple_Records": 0.04137316533268636,
+        "Apple_II_series": 0.02358472550007308,
+        "Apple_Corps": 0.005416323283902681,
+        "IPhone": 0.0034778466722220173,
+        "Apple_II_Plus": 0.0032973054953523966,
+        "Macintosh": 0.0032691833875174853,
+        "Apple_(album)": 0.0031452635744163918,
+        "IPad": 0.0022045387436072338,
+        "Apple_Store": 0.0021381721994799714,
+        "Cashew": 0.0020144949811827955,
+        "Mac_Mini": 0.0017104197780564011,
+        "Apple_III": 0.0011972955723885965,
+        "Apple_I": 0.0010642588917140609,
+        "Malus": 0.0010547562715111285,
+        "ITunes": 0.001035751031441086,
+        "Apple_TV": 0.000997740581752723,
+        "Apple_Lisa": 0.0009753081950908166,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.6044076263313922,
+       "start": 209,
+       "end": 210,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.6044076263313922,
+        "United_States_dollar": 0.27124394408090313,
+        "Billboard_Hot_100": 0.023434156716135444,
+        "American_English": 0.014420149672891623,
+        "Recording_Industry_Association_of_America": 0.009701516919843703,
+        "Us_(Peter_Gabriel_album)": 0.0019050769530390792,
+        "Federal_government_of_the_United_States": 0.018959219693827717,
+        "United_States_men's_national_soccer_team": 0.0011616361051989986,
+        "United_States_Armed_Forces": 0.001117240616471524,
+        "U.S._state": 0.04661806742159323,
+        "Billboard_charts": 0.0010493511783346392,
+        "United_States_Congress": 0.005982014310368707,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 323,
+       "end": 325,
+       "tokens": "Kristin Huguet",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "ITC_Entertainment",
+       "score": 0.6269627109965917,
+       "start": 299,
+       "end": 300,
+       "tokens": "ITC",
+       "labelScoreMap": {
+        "ITC_Entertainment": 0.6269627109965917,
+        "Illinois_Terminal_Railroad": 0.11125655211911785,
+        "ITC_(company)": 0.089441558638622,
+        "International_Typeface_Corporation": 0.04668425601151929,
+        "United_States_International_Trade_Commission": 0.036213495717419136,
+        "International_Trade_Centre": 0.02923206069163955,
+        "Italian_Superturismo_Championship": 0.019633474922273946,
+        "1996_International_Touring_Car_Championship": 0.01745204245076438,
+        "Deutsche_Tourenwagen_Meisterschaft": 0.013088944436560238,
+        "Interdenominational_Theological_Center": 0.003926694984484485,
+        "Hearing_aid": 0.0021815023929767944,
+        "Information_technology": 0.002181502392954207,
+        "ITC_Transmission": 0.0017452042450764355,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Michael_Froman",
+       "score": 1.0,
+       "start": 205,
+       "end": 207,
+       "tokens": "Michael Froman",
+       "labelScoreMap": {
+        "Michael_Froman": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9727543079889273,
+       "start": 84,
+       "end": 86,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "United_States": 0.9727543079889273,
+        "United_States_men's_national_soccer_team": 0.011235409000770781,
+        "United_States_men's_national_ice_hockey_team": 0.003258425636587525,
+        "United_States_women's_national_soccer_team": 0.0022539647222889433,
+        "United_States_national_cricket_team": 0.0019866462303500514,
+        "United_States_men's_national_basketball_team": 0.0019522203058088953,
+        "United_States_Armed_Forces": 0.0019518690056253185,
+        "United_States_national_rugby_union_team": 0.00170717741211385,
+        "United_States_Davis_Cup_team": 0.0016201000735582755,
+        "United_States_Soccer_Federation": 0.0012798796239689842,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947473288056116,
+       "start": 124,
+       "end": 125,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947473288056116,
+        "Apple": 0.1073005062519102,
+        "Apple_Records": 0.04137327519707697,
+        "Apple_II_series": 0.023584808154759978,
+        "Apple_Corps": 0.005416340397835092,
+        "IPhone": 0.003477858830851244,
+        "Apple_II_Plus": 0.0032973170512499363,
+        "Macintosh": 0.0032689627328713186,
+        "Apple_(album)": 0.0031452745974604513,
+        "IPad": 0.002204546469741183,
+        "Apple_Store": 0.0021380752002717377,
+        "Cashew": 0.0020145020412801165,
+        "Mac_Mini": 0.0017104257724769411,
+        "Apple_III": 0.001197299768489018,
+        "Apple_I": 0.001064262621439156,
+        "Malus": 0.0010547599680613788,
+        "ITunes": 0.0010357546613439855,
+        "Apple_TV": 0.0009977440593432342,
+        "Apple_Lisa": 0.0009709574179263907,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Korea",
+       "score": 0.5013782966332336,
+       "start": 409,
+       "end": 411,
+       "tokens": "South Korean",
+       "labelScoreMap": {
+        "South_Korea": 0.46112115782948754,
+        "Korean_Canadians": 0.014234346475113487,
+        "Koreans": 0.01309882336209182,
+        "Girls'_Generation": 0.009458023400538631,
+        "Korea": 0.5013782966332336,
+        "South_Korea_national_football_team": 0.0007093522995348917,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States_dollar",
+       "score": 0.48685740344779005,
+       "start": 247,
+       "end": 248,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.45574209663412557,
+        "United_States_dollar": 0.48685740344779005,
+        "Billboard_Hot_100": 0.022054666086112833,
+        "American_English": 0.013570970585090658,
+        "Recording_Industry_Association_of_America": 0.009130197341926698,
+        "Us_(Peter_Gabriel_album)": 0.0017929386070187642,
+        "Federal_government_of_the_United_States": 0.003612252585149866,
+        "United_States_men's_national_soccer_team": 0.001093258838564152,
+        "United_States_Armed_Forces": 0.001049548962380729,
+        "U.S._state": 0.002833138546190467,
+        "Billboard_charts": 0.0009875790755468127,
+        "United_States_Congress": 0.00127594929010355,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Srebrna_G\u00f3ra,_Lower_Silesian_Voivodeship",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Silberberg",
+       "labelScoreMap": {
+        "Srebrna_G\u00f3ra,_Lower_Silesian_Voivodeship": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 0.5013812766192834,
+       "start": 107,
+       "end": 109,
+       "tokens": "Samsung Electronics",
+       "labelScoreMap": {
+        "Samsung_Electronics": 0.5013812766192834,
+        "Samsung": 0.4986187233807166,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9727553570478401,
+       "start": 471,
+       "end": 473,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "United_States": 0.9727553570478401,
+        "United_States_men's_national_soccer_team": 0.011235420767637304,
+        "United_States_men's_national_ice_hockey_team": 0.003258429049306849,
+        "United_States_women's_national_soccer_team": 0.0022539670829872325,
+        "United_States_national_cricket_team": 0.0019866483110713255,
+        "United_States_men's_national_basketball_team": 0.0019522223504743921,
+        "United_States_Armed_Forces": 0.0019507934559003697,
+        "United_States_national_rugby_union_team": 0.001707179200123594,
+        "United_States_Davis_Cup_team": 0.00162010177037636,
+        "United_States_Soccer_Federation": 0.0012798809642824284,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "White_House",
+       "score": 0.895313002800243,
+       "start": 94,
+       "end": 96,
+       "tokens": "White House",
+       "labelScoreMap": {
+        "White_House": 0.895313002800243,
+        "Whitehouse_(band)": 0.026596137433742065,
+        "President_of_the_United_States": 0.023594626001255472,
+        "White_House_(Moscow)": 0.014368315531178783,
+        "Whitehouse,_Ohio": 0.01217859556628321,
+        "Whitehouse,_Texas": 0.008660351454429142,
+        "Sheldon_Whitehouse": 0.005880180520487545,
+        "White_House,_Tennessee": 0.0046500238464220285,
+        "Executive_Office_of_the_President": 0.0032968397839857745,
+        "Whitehouse_Station,_New_Jersey": 0.0025341339191666296,
+        "White_House,_Virginia": 0.001746834405092948,
+        "Mary_Whitehouse": 0.0011809587377136295,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9295499353048191,
+       "start": 496,
+       "end": 497,
+       "tokens": "American",
+       "labelScoreMap": {
+        "United_States": 0.9295499353048191,
+        "Americans": 0.020353015673540125,
+        "Americas": 0.010072255530298353,
+        "American_English": 0.0064573559482862105,
+        "American_football": 0.0051224645027428605,
+        "Guy_Fawkes": 0.00502186519381456,
+        "Cuisine_of_the_United_States": 0.0047858616091294125,
+        "Christmas": 0.0040701066574613054,
+        "American_Revolution": 0.0030680614178091275,
+        "American_Airlines": 0.002611767840081829,
+        "North_America": 0.0023294870047655953,
+        "American_frontier": 0.001563047714579133,
+        "Know_Nothing": 0.0013192986463948116,
+        "American_University": 0.0012419217900707636,
+        "American_League": 0.001238060409306384,
+        "American_Canadian": 0.0011954947569005187,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947434357823694,
+       "start": 74,
+       "end": 75,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947434357823694,
+        "Apple": 0.10730014098159017,
+        "Apple_Records": 0.041373140329710116,
+        "Apple_II_series": 0.02358472786842224,
+        "Apple_Corps": 0.005416321817423034,
+        "IPhone": 0.0034778470011063833,
+        "Apple_II_Plus": 0.0032973058265789966,
+        "Macintosh": 0.0032691838418228035,
+        "Apple_(album)": 0.0031452638903698613,
+        "IPad": 0.002204538965061378,
+        "Apple_Store": 0.0021380536953091523,
+        "Cashew": 0.0020144951835463377,
+        "Mac_Mini": 0.001710419949874454,
+        "Apple_III": 0.0011972956926614058,
+        "Apple_I": 0.0010642589985370057,
+        "Malus": 0.0010547563774653342,
+        "ITunes": 0.001035751135480519,
+        "Apple_TV": 0.0009977406792237185,
+        "Apple_Lisa": 0.0009753219834476963,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947476022064516,
+       "start": 5,
+       "end": 6,
+       "tokens": "APPLE",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947476022064516,
+        "Apple": 0.10730053290834954,
+        "Apple_Records": 0.04137380927910903,
+        "Apple_II_series": 0.023584814014929987,
+        "Apple_Corps": 0.00541679932089164,
+        "IPhone": 0.0034778596905234932,
+        "Apple_II_Plus": 0.003297317870392741,
+        "Macintosh": 0.003268966931488514,
+        "Apple_(album)": 0.003145275378831778,
+        "IPad": 0.0022045470174101847,
+        "Apple_Store": 0.002138028776238243,
+        "Cashew": 0.002014502541736939,
+        "Mac_Mini": 0.0017104261973929899,
+        "Apple_III": 0.0011973000659389172,
+        "Apple_I": 0.0010642628860834836,
+        "Malus": 0.0010547602300922984,
+        "ITunes": 0.0010357549187165985,
+        "Apple_TV": 0.0009977443028936338,
+        "Apple_Lisa": 0.0009696954625286105,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947434098472844,
+       "start": 145,
+       "end": 146,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947434098472844,
+        "Apple": 0.10730013854069845,
+        "Apple_Records": 0.04137313450659511,
+        "Apple_II_series": 0.023584727331937,
+        "Apple_Corps": 0.005416321679456971,
+        "IPhone": 0.0034778469204216856,
+        "Apple_II_Plus": 0.003297305751578489,
+        "Macintosh": 0.0032691873087171666,
+        "Apple_(album)": 0.0031452638188276963,
+        "IPad": 0.0022045389149169385,
+        "Apple_Store": 0.002138078714737429,
+        "Cashew": 0.0020144951377246353,
+        "Mac_Mini": 0.0017104199109692461,
+        "Apple_III": 0.0011972956654277122,
+        "Apple_I": 0.0010642589743009236,
+        "Malus": 0.001054756353473848,
+        "ITunes": 0.0010357511119037772,
+        "Apple_TV": 0.0009977406526325769,
+        "Apple_Lisa": 0.00097532885839612,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8667343669605065,
+       "start": 373,
+       "end": 374,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.8667343669605065,
+        "Samsung_Electronics": 0.10328118175627066,
+        "Samsung_Telecommunications": 0.022888042114056775,
+        "Renault_Samsung_Motors": 0.007096409169166025,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8718511517564289,
+       "start": 492,
+       "end": 493,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.8718511517564289,
+        "Samsung_Electronics": 0.09801759664125084,
+        "Samsung_Telecommunications": 0.023000099169243098,
+        "Renault_Samsung_Motors": 0.007131152433077221,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.5236756537041088,
+       "start": 241,
+       "end": 242,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.5236756537041088,
+        "United_States_dollar": 0.40634334607547806,
+        "Billboard_Hot_100": 0.022782499767025153,
+        "American_English": 0.014018812655574706,
+        "Recording_Industry_Association_of_America": 0.009426489002794526,
+        "Us_(Peter_Gabriel_album)": 0.001852100894769811,
+        "Federal_government_of_the_United_States": 0.006280441622853284,
+        "United_States_men's_national_soccer_team": 0.0011293335228395541,
+        "United_States_Armed_Forces": 0.0010842999111006998,
+        "U.S._state": 0.010241555314037577,
+        "Billboard_charts": 0.0010201673762281038,
+        "United_States_Congress": 0.002145300153189923,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794743787416713,
+       "start": 314,
+       "end": 315,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.794743787416713,
+        "Apple": 0.1073001739912168,
+        "Apple_Records": 0.04137316527111891,
+        "Apple_II_series": 0.023584735124225195,
+        "Apple_Corps": 0.005416323819856356,
+        "IPhone": 0.0034778480712478396,
+        "Apple_II_Plus": 0.003297306840956231,
+        "Macintosh": 0.0032691071581424837,
+        "Apple_(album)": 0.0031452648579731873,
+        "IPad": 0.0022045396432617778,
+        "Apple_Store": 0.0021380512312071374,
+        "Cashew": 0.0020144958032820128,
+        "Mac_Mini": 0.0017104204760649711,
+        "Apple_III": 0.001197296060995294,
+        "Apple_I": 0.0010642593259724633,
+        "Malus": 0.001054756701948689,
+        "ITunes": 0.0010357514540955623,
+        "Apple_TV": 0.0009977409693867577,
+        "Apple_Lisa": 0.0009749757823353078,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947439479238122,
+       "start": 402,
+       "end": 403,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947439479238122,
+        "Apple": 0.10730018902319267,
+        "Apple_Records": 0.04137315476005571,
+        "Apple_II_series": 0.023584738427780715,
+        "Apple_Corps": 0.005416324275910271,
+        "IPhone": 0.0034778485535391585,
+        "Apple_II_Plus": 0.0032973073028956935,
+        "Macintosh": 0.003269090137009339,
+        "Apple_(album)": 0.003145265298612175,
+        "IPad": 0.002204539952108937,
+        "Apple_Store": 0.00213808172386892,
+        "Cashew": 0.0020144960855047927,
+        "Mac_Mini": 0.0017104207156880176,
+        "Apple_III": 0.0011972962287316639,
+        "Apple_I": 0.00106425947501027,
+        "Malus": 0.0010547568497158712,
+        "ITunes": 0.001035751599191685,
+        "Apple_TV": 0.0009977411089804906,
+        "Apple_Lisa": 0.0009747905583915763,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947480712113892,
+       "start": 327,
+       "end": 328,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.7947480712113892,
+        "Apple": 0.10730057591176621,
+        "Apple_Records": 0.04137330683223497,
+        "Apple_II_series": 0.023584823467348158,
+        "Apple_Corps": 0.005416343465679498,
+        "IPhone": 0.0034778610847744883,
+        "Apple_II_Plus": 0.003297319191884637,
+        "Macintosh": 0.003268861893724969,
+        "Apple_(album)": 0.003145276639388437,
+        "IPad": 0.0022045479009437665,
+        "Apple_Store": 0.002138030113569018,
+        "Cashew": 0.002014503349104908,
+        "Mac_Mini": 0.0017104268828938996,
+        "Apple_III": 0.0011973005457820095,
+        "Apple_I": 0.0010642633123925684,
+        "Malus": 0.0010547606528168206,
+        "ITunes": 0.0010357553337585394,
+        "Apple_TV": 0.0009977447017964238,
+        "Apple_Lisa": 0.0009702275087515535,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.874730634745451,
+       "start": 305,
+       "end": 306,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.874730634745451,
+        "Samsung_Electronics": 0.09505550149438328,
+        "Samsung_Telecommunications": 0.023063159586761,
+        "Renault_Samsung_Motors": 0.00715070417340497,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9216422428114825,
+       "start": 0,
+       "end": 1,
+       "tokens": "OBAMA",
+       "labelScoreMap": {
+        "Barack_Obama": 0.9216422428114825,
+        "Obama,_Fukui": 0.04505754314061914,
+        "Osama_bin_Laden": 0.009811335226613968,
+        "Sonia_Sotomayor": 0.007115304806142336,
+        "Barack_Obama_presidential_campaign,_2008": 0.010445846768696417,
+        "2011_State_of_the_Union_Address": 0.0012554908281075569,
+        "United_States_presidential_election,_2008": 0.004672236418338068,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 191,
+       "end": 194,
+       "tokens": "Susan Kohn Ross",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "George_J._Mitchell",
+       "score": 0.38731522035126087,
+       "start": 200,
+       "end": 201,
+       "tokens": "Mitchell",
+       "labelScoreMap": {
+        "Mitchell,_South_Dakota": 0.052814487837553256,
+        "Mitchell_County,_Texas": 0.052124968840503286,
+        "Mitchell_County,_Kansas": 0.05250622085239489,
+        "Mitchell_(film)": 0.02949057864783095,
+        "Peter_D._Mitchell": 0.13187289630443982,
+        "Division_of_Mitchell": 0.024346902583762958,
+        "Mitchell_County,_North_Carolina": 0.020952230902136024,
+        "Mitchell_County,_Georgia": 0.020756509872827573,
+        "Grant_Mitchell_(politician)": 0.01577397160566808,
+        "Mitchell_County,_Iowa": 0.015543169689023431,
+        "Mitchell,_Indiana": 0.014243894467273192,
+        "Edgar_Mitchell": 0.013640106304206135,
+        "Shire_of_Mitchell": 0.013031523609987694,
+        "Mitchell_River_(Victoria)": 0.011830945885623372,
+        "Electoral_district_of_Mitchell_(South_Australia)": 0.011750345610063486,
+        "Mitchell_(UK_Parliament_constituency)": 0.01381590998925137,
+        "Bobby_Mitchell": 0.010716142047769295,
+        "Drew_Mitchell": 0.010630307355301034,
+        "Mitchell,_Oregon": 0.010201676884610142,
+        "Dale_Mitchell_(soccer)": 0.009687306216691075,
+        "David_Brydie_Mitchell": 0.008830013310810849,
+        "Sam_Mitchell_(footballer)": 0.008644134415629655,
+        "Kevin_Mitchell_(baseball)": 0.008401380133280739,
+        "George_J._Mitchell": 0.38731522035126087,
+        "Mitchell_Camera": 0.009288888638466197,
+        "Mitchell,_Ontario": 0.013361251983031399,
+        "Mitchell,_Queensland": 0.007845848297150399,
+        "Andrew_Mitchell": 0.007792902128568064,
+        "Mitchell,_Kansas": 0.006708768082847767,
+        "John_Mitchell_(rugby_union)": 0.006081497152036692
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.873270638063654,
+       "start": 254,
+       "end": 255,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.873270638063654,
+        "Samsung_Electronics": 0.09655738541588928,
+        "Samsung_Telecommunications": 0.023031185769855564,
+        "Renault_Samsung_Motors": 0.007140790750601197,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States_International_Trade_Commission",
+       "score": 1.0,
+       "start": 182,
+       "end": 185,
+       "tokens": "International Trade Commission",
+       "labelScoreMap": {
+        "United_States_International_Trade_Commission": 1.0,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Catholic_Church",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "Froman",
+       "labelScoreMap": {
+        "Catholic_Church": 1.0,
+        "<unk_wid>": 1.401298464324817e-45
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8715336978771095,
+       "start": 400,
+       "end": 401,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.8715336978771095,
+        "Samsung_Electronics": 0.09834415833670926,
+        "Samsung_Telecommunications": 0.022993146960483192,
+        "Renault_Samsung_Motors": 0.007128996825697985,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.6646219905569322,
+       "start": 0,
+       "end": 2,
+       "tokens": "OBAMA ADMINISTRATION",
+       "labelScoreMap": {
+        "Barack_Obama": 0.6646219905569322,
+        "Robert_Reich": 0.3353780094430678,
+        "<unk_wid>": 1.863881167406055e-45
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8753939552991226,
+       "start": 287,
+       "end": 288,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.8753939552991226,
+        "Samsung_Electronics": 0.09437315032642177,
+        "Samsung_Telecommunications": 0.023077686234058613,
+        "Renault_Samsung_Motors": 0.007155208140397012,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Recording_Industry_Association_of_America",
+       "score": 0.3757542577495691,
+       "start": 111,
+       "end": 112,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "United_States": 0.35987345596568227,
+        "United_States_dollar": 0.18555458248418688,
+        "Billboard_Hot_100": 0.018838965615297278,
+        "American_English": 0.01159289768279706,
+        "Recording_Industry_Association_of_America": 0.3757542577495691,
+        "Us_(Peter_Gabriel_album)": 0.001531479128616262,
+        "Federal_government_of_the_United_States": 0.029032837765125264,
+        "United_States_men's_national_soccer_team": 0.0009338318038793846,
+        "United_States_Armed_Forces": 0.0009014470048386103,
+        "U.S._state": 0.001626996399081785,
+        "Billboard_charts": 0.0010100083631822368,
+        "United_States_Congress": 0.013349240037743763,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 203,
+       "end": 204,
+       "tokens": "Knupp",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794744819300973,
+       "start": 251,
+       "end": 252,
+       "tokens": "Apple",
+       "labelScoreMap": {
+        "Apple_Inc.": 0.794744819300973,
+        "Apple": 0.10730027078682643,
+        "Apple_Records": 0.041373186751416324,
+        "Apple_II_series": 0.023584756399608404,
+        "Apple_Corps": 0.005416328371878492,
+        "IPhone": 0.003477851200710839,
+        "Apple_II_Plus": 0.003297309815469351,
+        "Macintosh": 0.0032690659485280324,
+        "Apple_(album)": 0.003145267695328653,
+        "IPad": 0.0022045416319854266,
+        "Apple_Store": 0.0021380728360690824,
+        "Cashew": 0.0020144976205663865,
+        "Mac_Mini": 0.0017104220190418285,
+        "Apple_III": 0.0011972971410806482,
+        "Apple_I": 0.0010642602859800927,
+        "Malus": 0.0010547576534487464,
+        "ITunes": 0.0010357523884455336,
+        "Apple_TV": 0.000997741874555156,
+        "Apple_Lisa": 0.0009738002780877744,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8764624814797827,
+       "start": 275,
+       "end": 276,
+       "tokens": "Samsung",
+       "labelScoreMap": {
+        "Samsung": 0.8764624814797827,
+        "Samsung_Electronics": 0.09327396815695167,
+        "Samsung_Telecommunications": 0.023101086862924527,
+        "Renault_Samsung_Motors": 0.00716246350034116,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "United_States_International_Trade_Commission",
+       "score": 1.0,
+       "start": 112,
+       "end": 115,
+       "tokens": "International Trade Commission",
+       "labelScoreMap": {
+        "United_States_International_Trade_Commission": 1.0,
+        "<unk_wid>": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794740186141662,
+       "start": 100,
+       "end": 101,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8755636757056797,
+       "start": 352,
+       "end": 353,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "New_York_(magazine)",
+       "score": 0.503277335250645,
+       "start": 56,
+       "end": 58,
+       "tokens": "New York",
+       "labelScoreMap": {
+        "5128638|New_York": 0.32948688933297215,
+        "5128581|New_York_City": 0.15181931421900535,
+        "5128594|Manhattan": 0.0018466097468170922,
+        "5130831|Peekskill,_New_York": 0.0006898492238810694
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9326782867926477,
+       "start": 63,
+       "end": 64,
+       "tokens": "Obama",
+       "labelScoreMap": {
+        "1854849|Obama,_Fukui": 0.04555499226865909
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8744434402164359,
+       "start": 151,
+       "end": 152,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 200,
+       "end": 204,
+       "tokens": "Mitchell Silberberg & Knupp",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "AT&T_U-verse",
+       "score": 0.5005019661684713,
+       "start": 129,
+       "end": 132,
+       "tokens": "AT & T",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "California",
+       "score": 0.9729584939165706,
+       "start": 481,
+       "end": 482,
+       "tokens": "California",
+       "labelScoreMap": {
+        "5332921|California": 0.9729584939165706,
+        "5404897|University_of_California,_Berkeley": 0.005413068608128794,
+        "4379545|California,_Missouri": 0.003014283106771559,
+        "5182733|California,_Pennsylvania": 0.0015766375552167967,
+        "6943265|Auto_Club_Speedway": 0.0014694154629394658
+       }
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9970599064856236,
+       "start": 63,
+       "end": 65,
+       "tokens": "Obama administration",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947457964245336,
+       "start": 484,
+       "end": 485,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947433203035589,
+       "start": 277,
+       "end": 278,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.6044076263313922,
+       "start": 209,
+       "end": 210,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.6044076263313922
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 323,
+       "end": 325,
+       "tokens": "Kristin Huguet",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "ITC_Entertainment",
+       "score": 0.6269627109965917,
+       "start": 299,
+       "end": 300,
+       "tokens": "ITC",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Michael_Froman",
+       "score": 1.0,
+       "start": 205,
+       "end": 207,
+       "tokens": "Michael Froman",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.9727543079889273,
+       "start": 84,
+       "end": 86,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9727543079889273
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947473288056116,
+       "start": 124,
+       "end": 125,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Korea",
+       "score": 0.5013782966332336,
+       "start": 409,
+       "end": 411,
+       "tokens": "South Korean",
+       "labelScoreMap": {
+        "1835841|Korea": 0.5013782966332336
+       }
+      },
+      {
+       "label": "United_States_dollar",
+       "score": 0.48685740344779005,
+       "start": 247,
+       "end": 248,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.45574209663412557
+       }
+      },
+      {
+       "label": "Srebrna_G\u00f3ra,_Lower_Silesian_Voivodeship",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "Silberberg",
+       "labelScoreMap": {
+        "3085063|Srebrna_G\u00f3ra,_Lower_Silesian_Voivodeship": 1.0
+       }
+      },
+      {
+       "label": "Samsung_Electronics",
+       "score": 0.5013812766192834,
+       "start": 107,
+       "end": 109,
+       "tokens": "Samsung Electronics",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.9727553570478401,
+       "start": 471,
+       "end": 473,
+       "tokens": "United States",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9727553570478401
+       }
+      },
+      {
+       "label": "White_House",
+       "score": 0.895313002800243,
+       "start": 94,
+       "end": 96,
+       "tokens": "White House",
+       "labelScoreMap": {
+        "9675434|White_House": 0.895313002800243,
+        "5176713|Whitehouse,_Ohio": 0.01217859556628321,
+        "4741641|Whitehouse,_Texas": 0.008660351454429142,
+        "4667282|White_House,_Tennessee": 0.0046500238464220285,
+        "5106399|Whitehouse_Station,_New_Jersey": 0.0025341339191666296,
+        "4793262|White_House,_Virginia": 0.001746834405092948
+       }
+      },
+      {
+       "label": "United_States",
+       "score": 0.9295499353048191,
+       "start": 496,
+       "end": 497,
+       "tokens": "American",
+       "labelScoreMap": {
+        "6252001|United_States": 0.9295499353048191,
+        "10861432|Americas": 0.010072255530298353,
+        "6255149|North_America": 0.0023294870047655953,
+        "4137534|American_University": 0.0012419217900707636
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947434357823694,
+       "start": 74,
+       "end": 75,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947476022064516,
+       "start": 5,
+       "end": 6,
+       "tokens": "APPLE",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947434098472844,
+       "start": 145,
+       "end": 146,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8667343669605065,
+       "start": 373,
+       "end": 374,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8718511517564289,
+       "start": 492,
+       "end": 493,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States",
+       "score": 0.5236756537041088,
+       "start": 241,
+       "end": 242,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.5236756537041088
+       }
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794743787416713,
+       "start": 314,
+       "end": 315,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947439479238122,
+       "start": 402,
+       "end": 403,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.7947480712113892,
+       "start": 327,
+       "end": 328,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Samsung",
+       "score": 0.874730634745451,
+       "start": 305,
+       "end": 306,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.9216422428114825,
+       "start": 0,
+       "end": 1,
+       "tokens": "OBAMA",
+       "labelScoreMap": {
+        "1854849|Obama,_Fukui": 0.04505754314061914
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 191,
+       "end": 194,
+       "tokens": "Susan Kohn Ross",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "George_J._Mitchell",
+       "score": 0.38731522035126087,
+       "start": 200,
+       "end": 201,
+       "tokens": "Mitchell",
+       "labelScoreMap": {
+        "5229794|Mitchell,_South_Dakota": 0.052814487837553256,
+        "5526473|Mitchell_County,_Texas": 0.052124968840503286,
+        "4275635|Mitchell_County,_Kansas": 0.05250622085239489,
+        "4479817|Mitchell_County,_North_Carolina": 0.020952230902136024,
+        "4209744|Mitchell_County,_Georgia": 0.020756509872827573,
+        "4867612|Mitchell_County,_Iowa": 0.015543169689023431,
+        "4261486|Mitchell,_Indiana": 0.014243894467273192,
+        "7839807|Shire_of_Mitchell": 0.013031523609987694,
+        "2157394|Mitchell_River_(Victoria)": 0.011830945885623372,
+        "5741102|Mitchell,_Oregon": 0.010201676884610142,
+        "6075562|Mitchell,_Ontario": 0.013361251983031399,
+        "2157409|Mitchell,_Queensland": 0.007845848297150399,
+        "4275632|Mitchell,_Kansas": 0.006708768082847767
+       }
+      },
+      {
+       "label": "Samsung",
+       "score": 0.873270638063654,
+       "start": 254,
+       "end": 255,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States_International_Trade_Commission",
+       "score": 1.0,
+       "start": 182,
+       "end": 185,
+       "tokens": "International Trade Commission",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Catholic_Church",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "Froman",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8715336978771095,
+       "start": 400,
+       "end": 401,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Barack_Obama",
+       "score": 0.6646219905569322,
+       "start": 0,
+       "end": 2,
+       "tokens": "OBAMA ADMINISTRATION",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8753939552991226,
+       "start": 287,
+       "end": 288,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Recording_Industry_Association_of_America",
+       "score": 0.3757542577495691,
+       "start": 111,
+       "end": 112,
+       "tokens": "U.S.",
+       "labelScoreMap": {
+        "6252001|United_States": 0.35987345596568227
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 203,
+       "end": 204,
+       "tokens": "Knupp",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Apple_Inc.",
+       "score": 0.794744819300973,
+       "start": 251,
+       "end": 252,
+       "tokens": "Apple",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Samsung",
+       "score": 0.8764624814797827,
+       "start": 275,
+       "end": 276,
+       "tokens": "Samsung",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States_International_Trade_Commission",
+       "score": 1.0,
+       "start": 112,
+       "end": 115,
+       "tokens": "International Trade Commission",
+       "labelScoreMap": {}
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

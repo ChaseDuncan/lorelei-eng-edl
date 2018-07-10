@@ -1,0 +1,7666 @@
+{
+ "corpusId": "TAC",
+ "id": "NYT_ENG_20130524.0107.xml",
+ "text": "Furloughs may stretch hurricane forecasters\nWith hurricane season approaching and the devastating Oklahoma tornado only days past, the National Oceanic and Atmospheric Administration is considering mandatory furloughs for all employees, including weather forecasters.\nThe proposal has produced sharp reaction from meteorologists and an elected official.\n''The severe weather events in Oklahoma this week have further convinced me that we should not take any chance that avoidable furloughs might result in a degradation of weather prediction and forecasting services,'' Rep. Frank R. Wolf, R-Va., wrote in a letter Wednesday to the Department of Commerce, which oversees NOAA.\nFacing a $192 million shortfall because of sequestration, NOAA has proposed furloughing each of its roughly 12,000 employees for four days this summer, said spokeswoman Ciaran Clayton.\nThe plan calls for each worker to take two furlough days in July and August, starting July 5.\nThough Clayton said the furloughs would be difficult, she said NOAA has little time to manage the shortfall before the end of the fiscal year in September because Congress did not pass its spending bill until late March.\n''We really weren\u2019t left with an option to not have these furlough days happen during hurricane season,'' Clayton said.\nHurricane season begins on June 1.\nClayton said NOAA will make sure the National Hurricane Center in Miami is adequately staffed at all times, even if the agency moves forward with furloughs.\nCivilian employees at MacDill Air Force Base who work on NOAA\u2019s fleet of weather planes, the ''Hurricane Hunters\u2019' that fly into storms to collect data, would be furloughed. But Clayton said some of the people responsible for operating the planes are part of the NOAA Commissioned Officer Corps, which would be exempt from the cuts.\nIf weather models show a hurricane approaching the Gulf Coast around the time of a mandated off-day, Clayton said, NOAA would consider canceling the furlough.\nBut such a cancellation would work only with storms that give days of warning, said Dan Sobien, head of the National Weather Service Employees Organization.\n''There are other times when storms just pop up in the gulf and you don\u2019t have that kind of lead time,'' Sobien said.\nMany weather service centers already operate with minimal staffing, he said.\nSobien said furloughs could leave some weather service stations without the resources needed to send up weather balloons, potentially leading to less-accurate forecasts. He said employees working on short-staffed furlough days could also become fatigued.\n''Nobody\u2019s going to intentionally not issue a warning or let somebody die because of something, but I fear that people won\u2019t be making as sharp decisions,'' said Sobien, a Tampa forecaster who also serves as union president.\nJeff Masters, director of meteorology for Weather Underground, said potential furloughs in August at the peak of hurricane season could be dangerous.\n''Odds are they\u2019ll get away with it,'' Masters said. ''But you could have a surprise situation where some significant weather blows up on that day when it wasn\u2019t expected.''\nThe importance of quick and accurate forecasts in severe weather was borne out this week with the massive Oklahoma tornado.\nWeather service meteorologists were credited with saving lives when the storm hit Moore, Okla., killing two dozen people.\nClayton said employees issued their first warning 16 minutes before the tornado touched down, four minutes faster than the average.\nNOAA is still in the process of deciding how it will address its budget shortfall, Clayton said.\nZachary T. Sampson can be reached at zsampson@tampabay.com or (727) 893-8804. Follow him\non Twitter @zacksampson.",
+ "tokens": [
+  "Furloughs",
+  "may",
+  "stretch",
+  "hurricane",
+  "forecasters",
+  "With",
+  "hurricane",
+  "season",
+  "approaching",
+  "and",
+  "the",
+  "devastating",
+  "Oklahoma",
+  "tornado",
+  "only",
+  "days",
+  "past",
+  ",",
+  "the",
+  "National",
+  "Oceanic",
+  "and",
+  "Atmospheric",
+  "Administration",
+  "is",
+  "considering",
+  "mandatory",
+  "furloughs",
+  "for",
+  "all",
+  "employees",
+  ",",
+  "including",
+  "weather",
+  "forecasters",
+  ".",
+  "The",
+  "proposal",
+  "has",
+  "produced",
+  "sharp",
+  "reaction",
+  "from",
+  "meteorologists",
+  "and",
+  "an",
+  "elected",
+  "official",
+  ".",
+  "''",
+  "The",
+  "severe",
+  "weather",
+  "events",
+  "in",
+  "Oklahoma",
+  "this",
+  "week",
+  "have",
+  "further",
+  "convinced",
+  "me",
+  "that",
+  "we",
+  "should",
+  "not",
+  "take",
+  "any",
+  "chance",
+  "that",
+  "avoidable",
+  "furloughs",
+  "might",
+  "result",
+  "in",
+  "a",
+  "degradation",
+  "of",
+  "weather",
+  "prediction",
+  "and",
+  "forecasting",
+  "services",
+  ",",
+  "''",
+  "Rep.",
+  "Frank",
+  "R.",
+  "Wolf",
+  ",",
+  "R",
+  "-",
+  "Va.",
+  ",",
+  "wrote",
+  "in",
+  "a",
+  "letter",
+  "Wednesday",
+  "to",
+  "the",
+  "Department",
+  "of",
+  "Commerce",
+  ",",
+  "which",
+  "oversees",
+  "NOAA",
+  ".",
+  "Facing",
+  "a",
+  "$192",
+  "million",
+  "shortfall",
+  "because",
+  "of",
+  "sequestration",
+  ",",
+  "NOAA",
+  "has",
+  "proposed",
+  "furloughing",
+  "each",
+  "of",
+  "its",
+  "roughly",
+  "12,000",
+  "employees",
+  "for",
+  "four",
+  "days",
+  "this",
+  "summer",
+  ",",
+  "said",
+  "spokeswoman",
+  "Ciaran",
+  "Clayton",
+  ".",
+  "The",
+  "plan",
+  "calls",
+  "for",
+  "each",
+  "worker",
+  "to",
+  "take",
+  "two",
+  "furlough",
+  "days",
+  "in",
+  "July",
+  "and",
+  "August",
+  ",",
+  "starting",
+  "July",
+  "5",
+  ".",
+  "Though",
+  "Clayton",
+  "said",
+  "the",
+  "furloughs",
+  "would",
+  "be",
+  "difficult",
+  ",",
+  "she",
+  "said",
+  "NOAA",
+  "has",
+  "little",
+  "time",
+  "to",
+  "manage",
+  "the",
+  "shortfall",
+  "before",
+  "the",
+  "end",
+  "of",
+  "the",
+  "fiscal",
+  "year",
+  "in",
+  "September",
+  "because",
+  "Congress",
+  "did",
+  "not",
+  "pass",
+  "its",
+  "spending",
+  "bill",
+  "until",
+  "late",
+  "March",
+  ".",
+  "''",
+  "We",
+  "really",
+  "were",
+  "n\u2019t",
+  "left",
+  "with",
+  "an",
+  "option",
+  "to",
+  "not",
+  "have",
+  "these",
+  "furlough",
+  "days",
+  "happen",
+  "during",
+  "hurricane",
+  "season",
+  ",",
+  "''",
+  "Clayton",
+  "said",
+  ".",
+  "Hurricane",
+  "season",
+  "begins",
+  "on",
+  "June",
+  "1",
+  ".",
+  "Clayton",
+  "said",
+  "NOAA",
+  "will",
+  "make",
+  "sure",
+  "the",
+  "National",
+  "Hurricane",
+  "Center",
+  "in",
+  "Miami",
+  "is",
+  "adequately",
+  "staffed",
+  "at",
+  "all",
+  "times",
+  ",",
+  "even",
+  "if",
+  "the",
+  "agency",
+  "moves",
+  "forward",
+  "with",
+  "furloughs",
+  ".",
+  "Civilian",
+  "employees",
+  "at",
+  "MacDill",
+  "Air",
+  "Force",
+  "Base",
+  "who",
+  "work",
+  "on",
+  "NOAA",
+  "\u2019s",
+  "fleet",
+  "of",
+  "weather",
+  "planes",
+  ",",
+  "the",
+  "''",
+  "Hurricane",
+  "Hunters",
+  "\u2019",
+  "'",
+  "that",
+  "fly",
+  "into",
+  "storms",
+  "to",
+  "collect",
+  "data",
+  ",",
+  "would",
+  "be",
+  "furloughed",
+  ".",
+  "But",
+  "Clayton",
+  "said",
+  "some",
+  "of",
+  "the",
+  "people",
+  "responsible",
+  "for",
+  "operating",
+  "the",
+  "planes",
+  "are",
+  "part",
+  "of",
+  "the",
+  "NOAA",
+  "Commissioned",
+  "Officer",
+  "Corps",
+  ",",
+  "which",
+  "would",
+  "be",
+  "exempt",
+  "from",
+  "the",
+  "cuts",
+  ".",
+  "If",
+  "weather",
+  "models",
+  "show",
+  "a",
+  "hurricane",
+  "approaching",
+  "the",
+  "Gulf",
+  "Coast",
+  "around",
+  "the",
+  "time",
+  "of",
+  "a",
+  "mandated",
+  "off",
+  "-",
+  "day",
+  ",",
+  "Clayton",
+  "said",
+  ",",
+  "NOAA",
+  "would",
+  "consider",
+  "canceling",
+  "the",
+  "furlough",
+  ".",
+  "But",
+  "such",
+  "a",
+  "cancellation",
+  "would",
+  "work",
+  "only",
+  "with",
+  "storms",
+  "that",
+  "give",
+  "days",
+  "of",
+  "warning",
+  ",",
+  "said",
+  "Dan",
+  "Sobien",
+  ",",
+  "head",
+  "of",
+  "the",
+  "National",
+  "Weather",
+  "Service",
+  "Employees",
+  "Organization",
+  ".",
+  "''",
+  "There",
+  "are",
+  "other",
+  "times",
+  "when",
+  "storms",
+  "just",
+  "pop",
+  "up",
+  "in",
+  "the",
+  "gulf",
+  "and",
+  "you",
+  "do",
+  "n\u2019t",
+  "have",
+  "that",
+  "kind",
+  "of",
+  "lead",
+  "time",
+  ",",
+  "''",
+  "Sobien",
+  "said",
+  ".",
+  "Many",
+  "weather",
+  "service",
+  "centers",
+  "already",
+  "operate",
+  "with",
+  "minimal",
+  "staffing",
+  ",",
+  "he",
+  "said",
+  ".",
+  "Sobien",
+  "said",
+  "furloughs",
+  "could",
+  "leave",
+  "some",
+  "weather",
+  "service",
+  "stations",
+  "without",
+  "the",
+  "resources",
+  "needed",
+  "to",
+  "send",
+  "up",
+  "weather",
+  "balloons",
+  ",",
+  "potentially",
+  "leading",
+  "to",
+  "less",
+  "-",
+  "accurate",
+  "forecasts",
+  ".",
+  "He",
+  "said",
+  "employees",
+  "working",
+  "on",
+  "short",
+  "-",
+  "staffed",
+  "furlough",
+  "days",
+  "could",
+  "also",
+  "become",
+  "fatigued",
+  ".",
+  "''",
+  "Nobody",
+  "\u2019s",
+  "going",
+  "to",
+  "intentionally",
+  "not",
+  "issue",
+  "a",
+  "warning",
+  "or",
+  "let",
+  "somebody",
+  "die",
+  "because",
+  "of",
+  "something",
+  ",",
+  "but",
+  "I",
+  "fear",
+  "that",
+  "people",
+  "wo",
+  "n\u2019t",
+  "be",
+  "making",
+  "as",
+  "sharp",
+  "decisions",
+  ",",
+  "''",
+  "said",
+  "Sobien",
+  ",",
+  "a",
+  "Tampa",
+  "forecaster",
+  "who",
+  "also",
+  "serves",
+  "as",
+  "union",
+  "president",
+  ".",
+  "Jeff",
+  "Masters",
+  ",",
+  "director",
+  "of",
+  "meteorology",
+  "for",
+  "Weather",
+  "Underground",
+  ",",
+  "said",
+  "potential",
+  "furloughs",
+  "in",
+  "August",
+  "at",
+  "the",
+  "peak",
+  "of",
+  "hurricane",
+  "season",
+  "could",
+  "be",
+  "dangerous",
+  ".",
+  "''",
+  "Odds",
+  "are",
+  "they",
+  "\u2019ll",
+  "get",
+  "away",
+  "with",
+  "it",
+  ",",
+  "''",
+  "Masters",
+  "said",
+  ".",
+  "''",
+  "But",
+  "you",
+  "could",
+  "have",
+  "a",
+  "surprise",
+  "situation",
+  "where",
+  "some",
+  "significant",
+  "weather",
+  "blows",
+  "up",
+  "on",
+  "that",
+  "day",
+  "when",
+  "it",
+  "was",
+  "n\u2019t",
+  "expected",
+  ".",
+  "''",
+  "The",
+  "importance",
+  "of",
+  "quick",
+  "and",
+  "accurate",
+  "forecasts",
+  "in",
+  "severe",
+  "weather",
+  "was",
+  "borne",
+  "out",
+  "this",
+  "week",
+  "with",
+  "the",
+  "massive",
+  "Oklahoma",
+  "tornado",
+  ".",
+  "Weather",
+  "service",
+  "meteorologists",
+  "were",
+  "credited",
+  "with",
+  "saving",
+  "lives",
+  "when",
+  "the",
+  "storm",
+  "hit",
+  "Moore",
+  ",",
+  "Okla.",
+  ",",
+  "killing",
+  "two",
+  "dozen",
+  "people",
+  ".",
+  "Clayton",
+  "said",
+  "employees",
+  "issued",
+  "their",
+  "first",
+  "warning",
+  "16",
+  "minutes",
+  "before",
+  "the",
+  "tornado",
+  "touched",
+  "down",
+  ",",
+  "four",
+  "minutes",
+  "faster",
+  "than",
+  "the",
+  "average",
+  ".",
+  "NOAA",
+  "is",
+  "still",
+  "in",
+  "the",
+  "process",
+  "of",
+  "deciding",
+  "how",
+  "it",
+  "will",
+  "address",
+  "its",
+  "budget",
+  "shortfall",
+  ",",
+  "Clayton",
+  "said",
+  ".",
+  "Zachary",
+  "T.",
+  "Sampson",
+  "can",
+  "be",
+  "reached",
+  "at",
+  "zsampson",
+  "@",
+  "tampabay",
+  ".",
+  "com",
+  "or",
+  "(",
+  "727",
+  ")",
+  "893-8804",
+  ".",
+  "Follow",
+  "him",
+  "on",
+  "Twitter",
+  "@",
+  "zacksampson",
+  "."
+ ],
+ "sentences": {
+  "generator": "TokenizerTextAnnotationBuilder",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   36,
+   49,
+   109,
+   139,
+   159,
+   199,
+   223,
+   230,
+   258,
+   293,
+   322,
+   352,
+   380,
+   408,
+   421,
+   448,
+   463,
+   508,
+   533,
+   547,
+   571,
+   592,
+   613,
+   635,
+   654,
+   672,
+   679
+  ]
+ },
+ "views": [
+  {
+   "viewName": "ELGOLD",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "ELGOLD",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "National_Hurricane_Center",
+       "score": 1.0,
+       "start": 237,
+       "end": 240,
+       "tokens": "National Hurricane Center"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 1.0,
+       "start": 592,
+       "end": 594,
+       "tokens": "Weather service"
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "Congress"
+      },
+      {
+       "label": "United_States_Air_Force",
+       "score": 1.0,
+       "start": 262,
+       "end": 264,
+       "tokens": "Air Force"
+      },
+      {
+       "label": "Weather_Underground_(weather_service)",
+       "score": 1.0,
+       "start": 515,
+       "end": 517,
+       "tokens": "Weather Underground"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 136,
+       "end": 138,
+       "tokens": "Ciaran Clayton"
+      },
+      {
+       "label": "United_States_Department_of_Commerce",
+       "score": 1.0,
+       "start": 101,
+       "end": 104,
+       "tokens": "Department of Commerce"
+      },
+      {
+       "label": "Moore,_Oklahoma",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "Moore"
+      },
+      {
+       "label": "Tampa,_Florida",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Tampa"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "Sobien"
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "NOAA_Commissioned_Officer_Corps",
+       "score": 1.0,
+       "start": 309,
+       "end": 313,
+       "tokens": "NOAA Commissioned Officer Corps"
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "Sobien"
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 1.0,
+       "start": 409,
+       "end": 411,
+       "tokens": "weather service"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 368,
+       "end": 370,
+       "tokens": "Dan Sobien"
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 1.0,
+       "start": 374,
+       "end": 377,
+       "tokens": "National Weather Service"
+      },
+      {
+       "label": "MacDill_Air_Force_Base",
+       "score": 1.0,
+       "start": 261,
+       "end": 265,
+       "tokens": "MacDill Air Force Base"
+      },
+      {
+       "label": "Virginia",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Va."
+      },
+      {
+       "label": "Republican_Party_(United_States)",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "R"
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "Frank_Wolf_(politician)",
+       "score": 1.0,
+       "start": 86,
+       "end": 89,
+       "tokens": "Frank R. Wolf"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "zacksampson"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 1.0,
+       "start": 427,
+       "end": 429,
+       "tokens": "weather service"
+      },
+      {
+       "label": "Gulf_Coast_of_the_United_States",
+       "score": 1.0,
+       "start": 330,
+       "end": 332,
+       "tokens": "Gulf Coast"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 654,
+       "end": 657,
+       "tokens": "Zachary T. Sampson"
+      },
+      {
+       "label": "",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "Sobien"
+      },
+      {
+       "label": "Miami",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "Miami"
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 19,
+       "end": 24,
+       "tokens": "National Oceanic and Atmospheric Administration"
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "Okla."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NER",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NER",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 237,
+       "end": 240,
+       "tokens": "National Hurricane Center"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 592,
+       "end": 594,
+       "tokens": "Weather service"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "Congress"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 262,
+       "end": 264,
+       "tokens": "Air Force"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 515,
+       "end": 517,
+       "tokens": "Weather Underground"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 136,
+       "end": 138,
+       "tokens": "Ciaran Clayton"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 101,
+       "end": 104,
+       "tokens": "Department of Commerce"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "Moore"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Tampa"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "Sobien"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 309,
+       "end": 313,
+       "tokens": "NOAA Commissioned Officer Corps"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "Sobien"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 409,
+       "end": 411,
+       "tokens": "weather service"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 368,
+       "end": 370,
+       "tokens": "Dan Sobien"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 374,
+       "end": 377,
+       "tokens": "National Weather Service"
+      },
+      {
+       "label": "FAC",
+       "score": 1.0,
+       "start": 261,
+       "end": 265,
+       "tokens": "MacDill Air Force Base"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Va."
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "R"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 86,
+       "end": 89,
+       "tokens": "Frank R. Wolf"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "zacksampson"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 427,
+       "end": 429,
+       "tokens": "weather service"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 330,
+       "end": 332,
+       "tokens": "Gulf Coast"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 654,
+       "end": 657,
+       "tokens": "Zachary T. Sampson"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "Sobien"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "Miami"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 19,
+       "end": 24,
+       "tokens": "National Oceanic and Atmospheric Administration"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "Okla."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Furloughs",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Furloughs"
+      },
+      {
+       "label": "may",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": "may"
+      },
+      {
+       "label": "stretch",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "stretch"
+      },
+      {
+       "label": "hurricane",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "hurricane"
+      },
+      {
+       "label": "forecasters",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "forecasters"
+      },
+      {
+       "label": "With",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "With"
+      },
+      {
+       "label": "hurricane",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "hurricane"
+      },
+      {
+       "label": "season",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "season"
+      },
+      {
+       "label": "approaching",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "approaching"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "and"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "the"
+      },
+      {
+       "label": "devastating",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "devastating"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "tornado",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "tornado"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "only"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "days"
+      },
+      {
+       "label": "past",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "past"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "the"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "National"
+      },
+      {
+       "label": "Oceanic",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Oceanic"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "and"
+      },
+      {
+       "label": "Atmospheric",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "Atmospheric"
+      },
+      {
+       "label": "Administration",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Administration"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "is"
+      },
+      {
+       "label": "considering",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "considering"
+      },
+      {
+       "label": "mandatory",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "mandatory"
+      },
+      {
+       "label": "furloughs",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "furloughs"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "for"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "all"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "employees"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": ","
+      },
+      {
+       "label": "including",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "including"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "weather"
+      },
+      {
+       "label": "forecasters",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "forecasters"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "The"
+      },
+      {
+       "label": "proposal",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "proposal"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "has"
+      },
+      {
+       "label": "produced",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "produced"
+      },
+      {
+       "label": "sharp",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "sharp"
+      },
+      {
+       "label": "reaction",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "reaction"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "from"
+      },
+      {
+       "label": "meteorologists",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "meteorologists"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "and"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "an"
+      },
+      {
+       "label": "elected",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "elected"
+      },
+      {
+       "label": "official",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "official"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "''"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "The"
+      },
+      {
+       "label": "severe",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "severe"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "weather"
+      },
+      {
+       "label": "events",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "events"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "in"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "this"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "week"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "have"
+      },
+      {
+       "label": "further",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "further"
+      },
+      {
+       "label": "convinced",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "convinced"
+      },
+      {
+       "label": "me",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "me"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "that"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "we"
+      },
+      {
+       "label": "should",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "should"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "not"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "take"
+      },
+      {
+       "label": "any",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "any"
+      },
+      {
+       "label": "chance",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "chance"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "that"
+      },
+      {
+       "label": "avoidable",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "avoidable"
+      },
+      {
+       "label": "furloughs",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "furloughs"
+      },
+      {
+       "label": "might",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "might"
+      },
+      {
+       "label": "result",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "result"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "a"
+      },
+      {
+       "label": "degradation",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "degradation"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "of"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "weather"
+      },
+      {
+       "label": "prediction",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "prediction"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "and"
+      },
+      {
+       "label": "forecasting",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "forecasting"
+      },
+      {
+       "label": "services",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "services"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "''"
+      },
+      {
+       "label": "Rep.",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "Rep."
+      },
+      {
+       "label": "Frank",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "Frank"
+      },
+      {
+       "label": "R.",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "R."
+      },
+      {
+       "label": "Wolf",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "Wolf"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": ","
+      },
+      {
+       "label": "R",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "R"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "-"
+      },
+      {
+       "label": "Va.",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "Va."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": ","
+      },
+      {
+       "label": "wrote",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "wrote"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "in"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "a"
+      },
+      {
+       "label": "letter",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "letter"
+      },
+      {
+       "label": "Wednesday",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "Wednesday"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "to"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "the"
+      },
+      {
+       "label": "Department",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "Department"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "of"
+      },
+      {
+       "label": "Commerce",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Commerce"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "which"
+      },
+      {
+       "label": "oversees",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "oversees"
+      },
+      {
+       "label": "NOAA",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "NOAA"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "."
+      },
+      {
+       "label": "Facing",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "Facing"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "a"
+      },
+      {
+       "label": "$192",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "$192"
+      },
+      {
+       "label": "million",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "million"
+      },
+      {
+       "label": "shortfall",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "shortfall"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "because"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "of"
+      },
+      {
+       "label": "sequestration",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "sequestration"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": ","
+      },
+      {
+       "label": "NOAA",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "has"
+      },
+      {
+       "label": "proposed",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "proposed"
+      },
+      {
+       "label": "furloughing",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "furloughing"
+      },
+      {
+       "label": "each",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "each"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "of"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "its"
+      },
+      {
+       "label": "roughly",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "roughly"
+      },
+      {
+       "label": "12,000",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "12,000"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "employees"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "for"
+      },
+      {
+       "label": "four",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "four"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "days"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "this"
+      },
+      {
+       "label": "summer",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "summer"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "said"
+      },
+      {
+       "label": "spokeswoman",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "spokeswoman"
+      },
+      {
+       "label": "Ciaran",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Ciaran"
+      },
+      {
+       "label": "Clayton",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "Clayton"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "."
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "The"
+      },
+      {
+       "label": "plan",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "plan"
+      },
+      {
+       "label": "calls",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "calls"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "for"
+      },
+      {
+       "label": "each",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "each"
+      },
+      {
+       "label": "worker",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "worker"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "to"
+      },
+      {
+       "label": "take",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "take"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "two"
+      },
+      {
+       "label": "furlough",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "furlough"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "days"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "in"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "July"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "and"
+      },
+      {
+       "label": "August",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "August"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": ","
+      },
+      {
+       "label": "starting",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "starting"
+      },
+      {
+       "label": "July",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "July"
+      },
+      {
+       "label": "5",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "5"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "."
+      },
+      {
+       "label": "Though",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "Though"
+      },
+      {
+       "label": "Clayton",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "said"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "the"
+      },
+      {
+       "label": "furloughs",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "furloughs"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "be"
+      },
+      {
+       "label": "difficult",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "difficult"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": ","
+      },
+      {
+       "label": "she",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "she"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "said"
+      },
+      {
+       "label": "NOAA",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "has",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "has"
+      },
+      {
+       "label": "little",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "little"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "time"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "to"
+      },
+      {
+       "label": "manage",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "manage"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "the"
+      },
+      {
+       "label": "shortfall",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "shortfall"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "the"
+      },
+      {
+       "label": "end",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "end"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": "the"
+      },
+      {
+       "label": "fiscal",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "fiscal"
+      },
+      {
+       "label": "year",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "year"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "in"
+      },
+      {
+       "label": "September",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "September"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "because"
+      },
+      {
+       "label": "Congress",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "Congress"
+      },
+      {
+       "label": "did",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "did"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "not"
+      },
+      {
+       "label": "pass",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "pass"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "its"
+      },
+      {
+       "label": "spending",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "spending"
+      },
+      {
+       "label": "bill",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "bill"
+      },
+      {
+       "label": "until",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "until"
+      },
+      {
+       "label": "late",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "late"
+      },
+      {
+       "label": "March",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "March"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "''"
+      },
+      {
+       "label": "We",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "We"
+      },
+      {
+       "label": "really",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "really"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "were"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "left",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "left"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "with"
+      },
+      {
+       "label": "an",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "an"
+      },
+      {
+       "label": "option",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "option"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "to"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "not"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "have"
+      },
+      {
+       "label": "these",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "these"
+      },
+      {
+       "label": "furlough",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "furlough"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "days"
+      },
+      {
+       "label": "happen",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "happen"
+      },
+      {
+       "label": "during",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "during"
+      },
+      {
+       "label": "hurricane",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "hurricane"
+      },
+      {
+       "label": "season",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "season"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "''"
+      },
+      {
+       "label": "Clayton",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": "."
+      },
+      {
+       "label": "Hurricane",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "Hurricane"
+      },
+      {
+       "label": "season",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "season"
+      },
+      {
+       "label": "begins",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "begins"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "on"
+      },
+      {
+       "label": "June",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "June"
+      },
+      {
+       "label": "1",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "1"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "."
+      },
+      {
+       "label": "Clayton",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": "said"
+      },
+      {
+       "label": "NOAA",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "will"
+      },
+      {
+       "label": "make",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "make"
+      },
+      {
+       "label": "sure",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "sure"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "the"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "National"
+      },
+      {
+       "label": "Hurricane",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "Hurricane"
+      },
+      {
+       "label": "Center",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "Center"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "in"
+      },
+      {
+       "label": "Miami",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "Miami"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "is"
+      },
+      {
+       "label": "adequately",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "adequately"
+      },
+      {
+       "label": "staffed",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "staffed"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "at"
+      },
+      {
+       "label": "all",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "all"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "times"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": ","
+      },
+      {
+       "label": "even",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "even"
+      },
+      {
+       "label": "if",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "if"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "the"
+      },
+      {
+       "label": "agency",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "agency"
+      },
+      {
+       "label": "moves",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "moves"
+      },
+      {
+       "label": "forward",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "forward"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "with"
+      },
+      {
+       "label": "furloughs",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "furloughs"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "."
+      },
+      {
+       "label": "Civilian",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "Civilian"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "employees"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "at"
+      },
+      {
+       "label": "MacDill",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "MacDill"
+      },
+      {
+       "label": "Air",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "Air"
+      },
+      {
+       "label": "Force",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "Force"
+      },
+      {
+       "label": "Base",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "Base"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "who"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "work"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": "on"
+      },
+      {
+       "label": "NOAA",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "fleet",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "fleet"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "of"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "weather"
+      },
+      {
+       "label": "planes",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "planes"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": ","
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "the"
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "''"
+      },
+      {
+       "label": "Hurricane",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "Hurricane"
+      },
+      {
+       "label": "Hunters",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "Hunters"
+      },
+      {
+       "label": "\u2019",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "\u2019"
+      },
+      {
+       "label": "'",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "'"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "that"
+      },
+      {
+       "label": "fly",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "fly"
+      },
+      {
+       "label": "into",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "into"
+      },
+      {
+       "label": "storms",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "storms"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "to"
+      },
+      {
+       "label": "collect",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "collect"
+      },
+      {
+       "label": "data",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "data"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": ","
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": "be"
+      },
+      {
+       "label": "furloughed",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "furloughed"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "But"
+      },
+      {
+       "label": "Clayton",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "said"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "some"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "the"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "people"
+      },
+      {
+       "label": "responsible",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "responsible"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "for"
+      },
+      {
+       "label": "operating",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "operating"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "the"
+      },
+      {
+       "label": "planes",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "planes"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "are"
+      },
+      {
+       "label": "part",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "part"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "the"
+      },
+      {
+       "label": "NOAA",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "Commissioned",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "Commissioned"
+      },
+      {
+       "label": "Officer",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "Officer"
+      },
+      {
+       "label": "Corps",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "Corps"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": ","
+      },
+      {
+       "label": "which",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "which"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "would"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "be"
+      },
+      {
+       "label": "exempt",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "exempt"
+      },
+      {
+       "label": "from",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "from"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": "the"
+      },
+      {
+       "label": "cuts",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "cuts"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "."
+      },
+      {
+       "label": "If",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "If"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "weather"
+      },
+      {
+       "label": "models",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "models"
+      },
+      {
+       "label": "show",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "show"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "a"
+      },
+      {
+       "label": "hurricane",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "hurricane"
+      },
+      {
+       "label": "approaching",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "approaching"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "the"
+      },
+      {
+       "label": "Gulf",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "Gulf"
+      },
+      {
+       "label": "Coast",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "Coast"
+      },
+      {
+       "label": "around",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "around"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "the"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "time"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 335,
+       "end": 336,
+       "tokens": "of"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 336,
+       "end": 337,
+       "tokens": "a"
+      },
+      {
+       "label": "mandated",
+       "score": 1.0,
+       "start": 337,
+       "end": 338,
+       "tokens": "mandated"
+      },
+      {
+       "label": "off",
+       "score": 1.0,
+       "start": 338,
+       "end": 339,
+       "tokens": "off"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 339,
+       "end": 340,
+       "tokens": "-"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 340,
+       "end": 341,
+       "tokens": "day"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 341,
+       "end": 342,
+       "tokens": ","
+      },
+      {
+       "label": "Clayton",
+       "score": 1.0,
+       "start": 342,
+       "end": 343,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 343,
+       "end": 344,
+       "tokens": "said"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 344,
+       "end": 345,
+       "tokens": ","
+      },
+      {
+       "label": "NOAA",
+       "score": 1.0,
+       "start": 345,
+       "end": 346,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 346,
+       "end": 347,
+       "tokens": "would"
+      },
+      {
+       "label": "consider",
+       "score": 1.0,
+       "start": 347,
+       "end": 348,
+       "tokens": "consider"
+      },
+      {
+       "label": "canceling",
+       "score": 1.0,
+       "start": 348,
+       "end": 349,
+       "tokens": "canceling"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 349,
+       "end": 350,
+       "tokens": "the"
+      },
+      {
+       "label": "furlough",
+       "score": 1.0,
+       "start": 350,
+       "end": 351,
+       "tokens": "furlough"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 351,
+       "end": 352,
+       "tokens": "."
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 352,
+       "end": 353,
+       "tokens": "But"
+      },
+      {
+       "label": "such",
+       "score": 1.0,
+       "start": 353,
+       "end": 354,
+       "tokens": "such"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 354,
+       "end": 355,
+       "tokens": "a"
+      },
+      {
+       "label": "cancellation",
+       "score": 1.0,
+       "start": 355,
+       "end": 356,
+       "tokens": "cancellation"
+      },
+      {
+       "label": "would",
+       "score": 1.0,
+       "start": 356,
+       "end": 357,
+       "tokens": "would"
+      },
+      {
+       "label": "work",
+       "score": 1.0,
+       "start": 357,
+       "end": 358,
+       "tokens": "work"
+      },
+      {
+       "label": "only",
+       "score": 1.0,
+       "start": 358,
+       "end": 359,
+       "tokens": "only"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 359,
+       "end": 360,
+       "tokens": "with"
+      },
+      {
+       "label": "storms",
+       "score": 1.0,
+       "start": 360,
+       "end": 361,
+       "tokens": "storms"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 361,
+       "end": 362,
+       "tokens": "that"
+      },
+      {
+       "label": "give",
+       "score": 1.0,
+       "start": 362,
+       "end": 363,
+       "tokens": "give"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 363,
+       "end": 364,
+       "tokens": "days"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 364,
+       "end": 365,
+       "tokens": "of"
+      },
+      {
+       "label": "warning",
+       "score": 1.0,
+       "start": 365,
+       "end": 366,
+       "tokens": "warning"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 366,
+       "end": 367,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 367,
+       "end": 368,
+       "tokens": "said"
+      },
+      {
+       "label": "Dan",
+       "score": 1.0,
+       "start": 368,
+       "end": 369,
+       "tokens": "Dan"
+      },
+      {
+       "label": "Sobien",
+       "score": 1.0,
+       "start": 369,
+       "end": 370,
+       "tokens": "Sobien"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 370,
+       "end": 371,
+       "tokens": ","
+      },
+      {
+       "label": "head",
+       "score": 1.0,
+       "start": 371,
+       "end": 372,
+       "tokens": "head"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 372,
+       "end": 373,
+       "tokens": "of"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 373,
+       "end": 374,
+       "tokens": "the"
+      },
+      {
+       "label": "National",
+       "score": 1.0,
+       "start": 374,
+       "end": 375,
+       "tokens": "National"
+      },
+      {
+       "label": "Weather",
+       "score": 1.0,
+       "start": 375,
+       "end": 376,
+       "tokens": "Weather"
+      },
+      {
+       "label": "Service",
+       "score": 1.0,
+       "start": 376,
+       "end": 377,
+       "tokens": "Service"
+      },
+      {
+       "label": "Employees",
+       "score": 1.0,
+       "start": 377,
+       "end": 378,
+       "tokens": "Employees"
+      },
+      {
+       "label": "Organization",
+       "score": 1.0,
+       "start": 378,
+       "end": 379,
+       "tokens": "Organization"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 379,
+       "end": 380,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 380,
+       "end": 381,
+       "tokens": "''"
+      },
+      {
+       "label": "There",
+       "score": 1.0,
+       "start": 381,
+       "end": 382,
+       "tokens": "There"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 382,
+       "end": 383,
+       "tokens": "are"
+      },
+      {
+       "label": "other",
+       "score": 1.0,
+       "start": 383,
+       "end": 384,
+       "tokens": "other"
+      },
+      {
+       "label": "times",
+       "score": 1.0,
+       "start": 384,
+       "end": 385,
+       "tokens": "times"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 385,
+       "end": 386,
+       "tokens": "when"
+      },
+      {
+       "label": "storms",
+       "score": 1.0,
+       "start": 386,
+       "end": 387,
+       "tokens": "storms"
+      },
+      {
+       "label": "just",
+       "score": 1.0,
+       "start": 387,
+       "end": 388,
+       "tokens": "just"
+      },
+      {
+       "label": "pop",
+       "score": 1.0,
+       "start": 388,
+       "end": 389,
+       "tokens": "pop"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 389,
+       "end": 390,
+       "tokens": "up"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 390,
+       "end": 391,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 391,
+       "end": 392,
+       "tokens": "the"
+      },
+      {
+       "label": "gulf",
+       "score": 1.0,
+       "start": 392,
+       "end": 393,
+       "tokens": "gulf"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 393,
+       "end": 394,
+       "tokens": "and"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 394,
+       "end": 395,
+       "tokens": "you"
+      },
+      {
+       "label": "do",
+       "score": 1.0,
+       "start": 395,
+       "end": 396,
+       "tokens": "do"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 396,
+       "end": 397,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 397,
+       "end": 398,
+       "tokens": "have"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 398,
+       "end": 399,
+       "tokens": "that"
+      },
+      {
+       "label": "kind",
+       "score": 1.0,
+       "start": 399,
+       "end": 400,
+       "tokens": "kind"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 400,
+       "end": 401,
+       "tokens": "of"
+      },
+      {
+       "label": "lead",
+       "score": 1.0,
+       "start": 401,
+       "end": 402,
+       "tokens": "lead"
+      },
+      {
+       "label": "time",
+       "score": 1.0,
+       "start": 402,
+       "end": 403,
+       "tokens": "time"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 403,
+       "end": 404,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 404,
+       "end": 405,
+       "tokens": "''"
+      },
+      {
+       "label": "Sobien",
+       "score": 1.0,
+       "start": 405,
+       "end": 406,
+       "tokens": "Sobien"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 406,
+       "end": 407,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 407,
+       "end": 408,
+       "tokens": "."
+      },
+      {
+       "label": "Many",
+       "score": 1.0,
+       "start": 408,
+       "end": 409,
+       "tokens": "Many"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 409,
+       "end": 410,
+       "tokens": "weather"
+      },
+      {
+       "label": "service",
+       "score": 1.0,
+       "start": 410,
+       "end": 411,
+       "tokens": "service"
+      },
+      {
+       "label": "centers",
+       "score": 1.0,
+       "start": 411,
+       "end": 412,
+       "tokens": "centers"
+      },
+      {
+       "label": "already",
+       "score": 1.0,
+       "start": 412,
+       "end": 413,
+       "tokens": "already"
+      },
+      {
+       "label": "operate",
+       "score": 1.0,
+       "start": 413,
+       "end": 414,
+       "tokens": "operate"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 414,
+       "end": 415,
+       "tokens": "with"
+      },
+      {
+       "label": "minimal",
+       "score": 1.0,
+       "start": 415,
+       "end": 416,
+       "tokens": "minimal"
+      },
+      {
+       "label": "staffing",
+       "score": 1.0,
+       "start": 416,
+       "end": 417,
+       "tokens": "staffing"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 417,
+       "end": 418,
+       "tokens": ","
+      },
+      {
+       "label": "he",
+       "score": 1.0,
+       "start": 418,
+       "end": 419,
+       "tokens": "he"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 419,
+       "end": 420,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 420,
+       "end": 421,
+       "tokens": "."
+      },
+      {
+       "label": "Sobien",
+       "score": 1.0,
+       "start": 421,
+       "end": 422,
+       "tokens": "Sobien"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 422,
+       "end": 423,
+       "tokens": "said"
+      },
+      {
+       "label": "furloughs",
+       "score": 1.0,
+       "start": 423,
+       "end": 424,
+       "tokens": "furloughs"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 424,
+       "end": 425,
+       "tokens": "could"
+      },
+      {
+       "label": "leave",
+       "score": 1.0,
+       "start": 425,
+       "end": 426,
+       "tokens": "leave"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 426,
+       "end": 427,
+       "tokens": "some"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 427,
+       "end": 428,
+       "tokens": "weather"
+      },
+      {
+       "label": "service",
+       "score": 1.0,
+       "start": 428,
+       "end": 429,
+       "tokens": "service"
+      },
+      {
+       "label": "stations",
+       "score": 1.0,
+       "start": 429,
+       "end": 430,
+       "tokens": "stations"
+      },
+      {
+       "label": "without",
+       "score": 1.0,
+       "start": 430,
+       "end": 431,
+       "tokens": "without"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 431,
+       "end": 432,
+       "tokens": "the"
+      },
+      {
+       "label": "resources",
+       "score": 1.0,
+       "start": 432,
+       "end": 433,
+       "tokens": "resources"
+      },
+      {
+       "label": "needed",
+       "score": 1.0,
+       "start": 433,
+       "end": 434,
+       "tokens": "needed"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 434,
+       "end": 435,
+       "tokens": "to"
+      },
+      {
+       "label": "send",
+       "score": 1.0,
+       "start": 435,
+       "end": 436,
+       "tokens": "send"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 436,
+       "end": 437,
+       "tokens": "up"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 437,
+       "end": 438,
+       "tokens": "weather"
+      },
+      {
+       "label": "balloons",
+       "score": 1.0,
+       "start": 438,
+       "end": 439,
+       "tokens": "balloons"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 439,
+       "end": 440,
+       "tokens": ","
+      },
+      {
+       "label": "potentially",
+       "score": 1.0,
+       "start": 440,
+       "end": 441,
+       "tokens": "potentially"
+      },
+      {
+       "label": "leading",
+       "score": 1.0,
+       "start": 441,
+       "end": 442,
+       "tokens": "leading"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 442,
+       "end": 443,
+       "tokens": "to"
+      },
+      {
+       "label": "less",
+       "score": 1.0,
+       "start": 443,
+       "end": 444,
+       "tokens": "less"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 444,
+       "end": 445,
+       "tokens": "-"
+      },
+      {
+       "label": "accurate",
+       "score": 1.0,
+       "start": 445,
+       "end": 446,
+       "tokens": "accurate"
+      },
+      {
+       "label": "forecasts",
+       "score": 1.0,
+       "start": 446,
+       "end": 447,
+       "tokens": "forecasts"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 447,
+       "end": 448,
+       "tokens": "."
+      },
+      {
+       "label": "He",
+       "score": 1.0,
+       "start": 448,
+       "end": 449,
+       "tokens": "He"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 449,
+       "end": 450,
+       "tokens": "said"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 450,
+       "end": 451,
+       "tokens": "employees"
+      },
+      {
+       "label": "working",
+       "score": 1.0,
+       "start": 451,
+       "end": 452,
+       "tokens": "working"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 452,
+       "end": 453,
+       "tokens": "on"
+      },
+      {
+       "label": "short",
+       "score": 1.0,
+       "start": 453,
+       "end": 454,
+       "tokens": "short"
+      },
+      {
+       "label": "-",
+       "score": 1.0,
+       "start": 454,
+       "end": 455,
+       "tokens": "-"
+      },
+      {
+       "label": "staffed",
+       "score": 1.0,
+       "start": 455,
+       "end": 456,
+       "tokens": "staffed"
+      },
+      {
+       "label": "furlough",
+       "score": 1.0,
+       "start": 456,
+       "end": 457,
+       "tokens": "furlough"
+      },
+      {
+       "label": "days",
+       "score": 1.0,
+       "start": 457,
+       "end": 458,
+       "tokens": "days"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 458,
+       "end": 459,
+       "tokens": "could"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 459,
+       "end": 460,
+       "tokens": "also"
+      },
+      {
+       "label": "become",
+       "score": 1.0,
+       "start": 460,
+       "end": 461,
+       "tokens": "become"
+      },
+      {
+       "label": "fatigued",
+       "score": 1.0,
+       "start": 461,
+       "end": 462,
+       "tokens": "fatigued"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 462,
+       "end": 463,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 463,
+       "end": 464,
+       "tokens": "''"
+      },
+      {
+       "label": "Nobody",
+       "score": 1.0,
+       "start": 464,
+       "end": 465,
+       "tokens": "Nobody"
+      },
+      {
+       "label": "\u2019s",
+       "score": 1.0,
+       "start": 465,
+       "end": 466,
+       "tokens": "\u2019s"
+      },
+      {
+       "label": "going",
+       "score": 1.0,
+       "start": 466,
+       "end": 467,
+       "tokens": "going"
+      },
+      {
+       "label": "to",
+       "score": 1.0,
+       "start": 467,
+       "end": 468,
+       "tokens": "to"
+      },
+      {
+       "label": "intentionally",
+       "score": 1.0,
+       "start": 468,
+       "end": 469,
+       "tokens": "intentionally"
+      },
+      {
+       "label": "not",
+       "score": 1.0,
+       "start": 469,
+       "end": 470,
+       "tokens": "not"
+      },
+      {
+       "label": "issue",
+       "score": 1.0,
+       "start": 470,
+       "end": 471,
+       "tokens": "issue"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 471,
+       "end": 472,
+       "tokens": "a"
+      },
+      {
+       "label": "warning",
+       "score": 1.0,
+       "start": 472,
+       "end": 473,
+       "tokens": "warning"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 473,
+       "end": 474,
+       "tokens": "or"
+      },
+      {
+       "label": "let",
+       "score": 1.0,
+       "start": 474,
+       "end": 475,
+       "tokens": "let"
+      },
+      {
+       "label": "somebody",
+       "score": 1.0,
+       "start": 475,
+       "end": 476,
+       "tokens": "somebody"
+      },
+      {
+       "label": "die",
+       "score": 1.0,
+       "start": 476,
+       "end": 477,
+       "tokens": "die"
+      },
+      {
+       "label": "because",
+       "score": 1.0,
+       "start": 477,
+       "end": 478,
+       "tokens": "because"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 478,
+       "end": 479,
+       "tokens": "of"
+      },
+      {
+       "label": "something",
+       "score": 1.0,
+       "start": 479,
+       "end": 480,
+       "tokens": "something"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 480,
+       "end": 481,
+       "tokens": ","
+      },
+      {
+       "label": "but",
+       "score": 1.0,
+       "start": 481,
+       "end": 482,
+       "tokens": "but"
+      },
+      {
+       "label": "I",
+       "score": 1.0,
+       "start": 482,
+       "end": 483,
+       "tokens": "I"
+      },
+      {
+       "label": "fear",
+       "score": 1.0,
+       "start": 483,
+       "end": 484,
+       "tokens": "fear"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 484,
+       "end": 485,
+       "tokens": "that"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 485,
+       "end": 486,
+       "tokens": "people"
+      },
+      {
+       "label": "wo",
+       "score": 1.0,
+       "start": 486,
+       "end": 487,
+       "tokens": "wo"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 487,
+       "end": 488,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 488,
+       "end": 489,
+       "tokens": "be"
+      },
+      {
+       "label": "making",
+       "score": 1.0,
+       "start": 489,
+       "end": 490,
+       "tokens": "making"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 490,
+       "end": 491,
+       "tokens": "as"
+      },
+      {
+       "label": "sharp",
+       "score": 1.0,
+       "start": 491,
+       "end": 492,
+       "tokens": "sharp"
+      },
+      {
+       "label": "decisions",
+       "score": 1.0,
+       "start": 492,
+       "end": 493,
+       "tokens": "decisions"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 493,
+       "end": 494,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 494,
+       "end": 495,
+       "tokens": "''"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 495,
+       "end": 496,
+       "tokens": "said"
+      },
+      {
+       "label": "Sobien",
+       "score": 1.0,
+       "start": 496,
+       "end": 497,
+       "tokens": "Sobien"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 497,
+       "end": 498,
+       "tokens": ","
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 498,
+       "end": 499,
+       "tokens": "a"
+      },
+      {
+       "label": "Tampa",
+       "score": 1.0,
+       "start": 499,
+       "end": 500,
+       "tokens": "Tampa"
+      },
+      {
+       "label": "forecaster",
+       "score": 1.0,
+       "start": 500,
+       "end": 501,
+       "tokens": "forecaster"
+      },
+      {
+       "label": "who",
+       "score": 1.0,
+       "start": 501,
+       "end": 502,
+       "tokens": "who"
+      },
+      {
+       "label": "also",
+       "score": 1.0,
+       "start": 502,
+       "end": 503,
+       "tokens": "also"
+      },
+      {
+       "label": "serves",
+       "score": 1.0,
+       "start": 503,
+       "end": 504,
+       "tokens": "serves"
+      },
+      {
+       "label": "as",
+       "score": 1.0,
+       "start": 504,
+       "end": 505,
+       "tokens": "as"
+      },
+      {
+       "label": "union",
+       "score": 1.0,
+       "start": 505,
+       "end": 506,
+       "tokens": "union"
+      },
+      {
+       "label": "president",
+       "score": 1.0,
+       "start": 506,
+       "end": 507,
+       "tokens": "president"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 507,
+       "end": 508,
+       "tokens": "."
+      },
+      {
+       "label": "Jeff",
+       "score": 1.0,
+       "start": 508,
+       "end": 509,
+       "tokens": "Jeff"
+      },
+      {
+       "label": "Masters",
+       "score": 1.0,
+       "start": 509,
+       "end": 510,
+       "tokens": "Masters"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 510,
+       "end": 511,
+       "tokens": ","
+      },
+      {
+       "label": "director",
+       "score": 1.0,
+       "start": 511,
+       "end": 512,
+       "tokens": "director"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 512,
+       "end": 513,
+       "tokens": "of"
+      },
+      {
+       "label": "meteorology",
+       "score": 1.0,
+       "start": 513,
+       "end": 514,
+       "tokens": "meteorology"
+      },
+      {
+       "label": "for",
+       "score": 1.0,
+       "start": 514,
+       "end": 515,
+       "tokens": "for"
+      },
+      {
+       "label": "Weather",
+       "score": 1.0,
+       "start": 515,
+       "end": 516,
+       "tokens": "Weather"
+      },
+      {
+       "label": "Underground",
+       "score": 1.0,
+       "start": 516,
+       "end": 517,
+       "tokens": "Underground"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 517,
+       "end": 518,
+       "tokens": ","
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 518,
+       "end": 519,
+       "tokens": "said"
+      },
+      {
+       "label": "potential",
+       "score": 1.0,
+       "start": 519,
+       "end": 520,
+       "tokens": "potential"
+      },
+      {
+       "label": "furloughs",
+       "score": 1.0,
+       "start": 520,
+       "end": 521,
+       "tokens": "furloughs"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 521,
+       "end": 522,
+       "tokens": "in"
+      },
+      {
+       "label": "August",
+       "score": 1.0,
+       "start": 522,
+       "end": 523,
+       "tokens": "August"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 523,
+       "end": 524,
+       "tokens": "at"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 524,
+       "end": 525,
+       "tokens": "the"
+      },
+      {
+       "label": "peak",
+       "score": 1.0,
+       "start": 525,
+       "end": 526,
+       "tokens": "peak"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 526,
+       "end": 527,
+       "tokens": "of"
+      },
+      {
+       "label": "hurricane",
+       "score": 1.0,
+       "start": 527,
+       "end": 528,
+       "tokens": "hurricane"
+      },
+      {
+       "label": "season",
+       "score": 1.0,
+       "start": 528,
+       "end": 529,
+       "tokens": "season"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 529,
+       "end": 530,
+       "tokens": "could"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 530,
+       "end": 531,
+       "tokens": "be"
+      },
+      {
+       "label": "dangerous",
+       "score": 1.0,
+       "start": 531,
+       "end": 532,
+       "tokens": "dangerous"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 532,
+       "end": 533,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 533,
+       "end": 534,
+       "tokens": "''"
+      },
+      {
+       "label": "Odds",
+       "score": 1.0,
+       "start": 534,
+       "end": 535,
+       "tokens": "Odds"
+      },
+      {
+       "label": "are",
+       "score": 1.0,
+       "start": 535,
+       "end": 536,
+       "tokens": "are"
+      },
+      {
+       "label": "they",
+       "score": 1.0,
+       "start": 536,
+       "end": 537,
+       "tokens": "they"
+      },
+      {
+       "label": "\u2019ll",
+       "score": 1.0,
+       "start": 537,
+       "end": 538,
+       "tokens": "\u2019ll"
+      },
+      {
+       "label": "get",
+       "score": 1.0,
+       "start": 538,
+       "end": 539,
+       "tokens": "get"
+      },
+      {
+       "label": "away",
+       "score": 1.0,
+       "start": 539,
+       "end": 540,
+       "tokens": "away"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 540,
+       "end": 541,
+       "tokens": "with"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 541,
+       "end": 542,
+       "tokens": "it"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 542,
+       "end": 543,
+       "tokens": ","
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 543,
+       "end": 544,
+       "tokens": "''"
+      },
+      {
+       "label": "Masters",
+       "score": 1.0,
+       "start": 544,
+       "end": 545,
+       "tokens": "Masters"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 545,
+       "end": 546,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 546,
+       "end": 547,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 547,
+       "end": 548,
+       "tokens": "''"
+      },
+      {
+       "label": "But",
+       "score": 1.0,
+       "start": 548,
+       "end": 549,
+       "tokens": "But"
+      },
+      {
+       "label": "you",
+       "score": 1.0,
+       "start": 549,
+       "end": 550,
+       "tokens": "you"
+      },
+      {
+       "label": "could",
+       "score": 1.0,
+       "start": 550,
+       "end": 551,
+       "tokens": "could"
+      },
+      {
+       "label": "have",
+       "score": 1.0,
+       "start": 551,
+       "end": 552,
+       "tokens": "have"
+      },
+      {
+       "label": "a",
+       "score": 1.0,
+       "start": 552,
+       "end": 553,
+       "tokens": "a"
+      },
+      {
+       "label": "surprise",
+       "score": 1.0,
+       "start": 553,
+       "end": 554,
+       "tokens": "surprise"
+      },
+      {
+       "label": "situation",
+       "score": 1.0,
+       "start": 554,
+       "end": 555,
+       "tokens": "situation"
+      },
+      {
+       "label": "where",
+       "score": 1.0,
+       "start": 555,
+       "end": 556,
+       "tokens": "where"
+      },
+      {
+       "label": "some",
+       "score": 1.0,
+       "start": 556,
+       "end": 557,
+       "tokens": "some"
+      },
+      {
+       "label": "significant",
+       "score": 1.0,
+       "start": 557,
+       "end": 558,
+       "tokens": "significant"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 558,
+       "end": 559,
+       "tokens": "weather"
+      },
+      {
+       "label": "blows",
+       "score": 1.0,
+       "start": 559,
+       "end": 560,
+       "tokens": "blows"
+      },
+      {
+       "label": "up",
+       "score": 1.0,
+       "start": 560,
+       "end": 561,
+       "tokens": "up"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 561,
+       "end": 562,
+       "tokens": "on"
+      },
+      {
+       "label": "that",
+       "score": 1.0,
+       "start": 562,
+       "end": 563,
+       "tokens": "that"
+      },
+      {
+       "label": "day",
+       "score": 1.0,
+       "start": 563,
+       "end": 564,
+       "tokens": "day"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 564,
+       "end": 565,
+       "tokens": "when"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 565,
+       "end": 566,
+       "tokens": "it"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 566,
+       "end": 567,
+       "tokens": "was"
+      },
+      {
+       "label": "n\u2019t",
+       "score": 1.0,
+       "start": 567,
+       "end": 568,
+       "tokens": "n\u2019t"
+      },
+      {
+       "label": "expected",
+       "score": 1.0,
+       "start": 568,
+       "end": 569,
+       "tokens": "expected"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 569,
+       "end": 570,
+       "tokens": "."
+      },
+      {
+       "label": "''",
+       "score": 1.0,
+       "start": 570,
+       "end": 571,
+       "tokens": "''"
+      },
+      {
+       "label": "The",
+       "score": 1.0,
+       "start": 571,
+       "end": 572,
+       "tokens": "The"
+      },
+      {
+       "label": "importance",
+       "score": 1.0,
+       "start": 572,
+       "end": 573,
+       "tokens": "importance"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 573,
+       "end": 574,
+       "tokens": "of"
+      },
+      {
+       "label": "quick",
+       "score": 1.0,
+       "start": 574,
+       "end": 575,
+       "tokens": "quick"
+      },
+      {
+       "label": "and",
+       "score": 1.0,
+       "start": 575,
+       "end": 576,
+       "tokens": "and"
+      },
+      {
+       "label": "accurate",
+       "score": 1.0,
+       "start": 576,
+       "end": 577,
+       "tokens": "accurate"
+      },
+      {
+       "label": "forecasts",
+       "score": 1.0,
+       "start": 577,
+       "end": 578,
+       "tokens": "forecasts"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 578,
+       "end": 579,
+       "tokens": "in"
+      },
+      {
+       "label": "severe",
+       "score": 1.0,
+       "start": 579,
+       "end": 580,
+       "tokens": "severe"
+      },
+      {
+       "label": "weather",
+       "score": 1.0,
+       "start": 580,
+       "end": 581,
+       "tokens": "weather"
+      },
+      {
+       "label": "was",
+       "score": 1.0,
+       "start": 581,
+       "end": 582,
+       "tokens": "was"
+      },
+      {
+       "label": "borne",
+       "score": 1.0,
+       "start": 582,
+       "end": 583,
+       "tokens": "borne"
+      },
+      {
+       "label": "out",
+       "score": 1.0,
+       "start": 583,
+       "end": 584,
+       "tokens": "out"
+      },
+      {
+       "label": "this",
+       "score": 1.0,
+       "start": 584,
+       "end": 585,
+       "tokens": "this"
+      },
+      {
+       "label": "week",
+       "score": 1.0,
+       "start": 585,
+       "end": 586,
+       "tokens": "week"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 586,
+       "end": 587,
+       "tokens": "with"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 587,
+       "end": 588,
+       "tokens": "the"
+      },
+      {
+       "label": "massive",
+       "score": 1.0,
+       "start": 588,
+       "end": 589,
+       "tokens": "massive"
+      },
+      {
+       "label": "Oklahoma",
+       "score": 1.0,
+       "start": 589,
+       "end": 590,
+       "tokens": "Oklahoma"
+      },
+      {
+       "label": "tornado",
+       "score": 1.0,
+       "start": 590,
+       "end": 591,
+       "tokens": "tornado"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 591,
+       "end": 592,
+       "tokens": "."
+      },
+      {
+       "label": "Weather",
+       "score": 1.0,
+       "start": 592,
+       "end": 593,
+       "tokens": "Weather"
+      },
+      {
+       "label": "service",
+       "score": 1.0,
+       "start": 593,
+       "end": 594,
+       "tokens": "service"
+      },
+      {
+       "label": "meteorologists",
+       "score": 1.0,
+       "start": 594,
+       "end": 595,
+       "tokens": "meteorologists"
+      },
+      {
+       "label": "were",
+       "score": 1.0,
+       "start": 595,
+       "end": 596,
+       "tokens": "were"
+      },
+      {
+       "label": "credited",
+       "score": 1.0,
+       "start": 596,
+       "end": 597,
+       "tokens": "credited"
+      },
+      {
+       "label": "with",
+       "score": 1.0,
+       "start": 597,
+       "end": 598,
+       "tokens": "with"
+      },
+      {
+       "label": "saving",
+       "score": 1.0,
+       "start": 598,
+       "end": 599,
+       "tokens": "saving"
+      },
+      {
+       "label": "lives",
+       "score": 1.0,
+       "start": 599,
+       "end": 600,
+       "tokens": "lives"
+      },
+      {
+       "label": "when",
+       "score": 1.0,
+       "start": 600,
+       "end": 601,
+       "tokens": "when"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 601,
+       "end": 602,
+       "tokens": "the"
+      },
+      {
+       "label": "storm",
+       "score": 1.0,
+       "start": 602,
+       "end": 603,
+       "tokens": "storm"
+      },
+      {
+       "label": "hit",
+       "score": 1.0,
+       "start": 603,
+       "end": 604,
+       "tokens": "hit"
+      },
+      {
+       "label": "Moore",
+       "score": 1.0,
+       "start": 604,
+       "end": 605,
+       "tokens": "Moore"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 605,
+       "end": 606,
+       "tokens": ","
+      },
+      {
+       "label": "Okla.",
+       "score": 1.0,
+       "start": 606,
+       "end": 607,
+       "tokens": "Okla."
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 607,
+       "end": 608,
+       "tokens": ","
+      },
+      {
+       "label": "killing",
+       "score": 1.0,
+       "start": 608,
+       "end": 609,
+       "tokens": "killing"
+      },
+      {
+       "label": "two",
+       "score": 1.0,
+       "start": 609,
+       "end": 610,
+       "tokens": "two"
+      },
+      {
+       "label": "dozen",
+       "score": 1.0,
+       "start": 610,
+       "end": 611,
+       "tokens": "dozen"
+      },
+      {
+       "label": "people",
+       "score": 1.0,
+       "start": 611,
+       "end": 612,
+       "tokens": "people"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 612,
+       "end": 613,
+       "tokens": "."
+      },
+      {
+       "label": "Clayton",
+       "score": 1.0,
+       "start": 613,
+       "end": 614,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 614,
+       "end": 615,
+       "tokens": "said"
+      },
+      {
+       "label": "employees",
+       "score": 1.0,
+       "start": 615,
+       "end": 616,
+       "tokens": "employees"
+      },
+      {
+       "label": "issued",
+       "score": 1.0,
+       "start": 616,
+       "end": 617,
+       "tokens": "issued"
+      },
+      {
+       "label": "their",
+       "score": 1.0,
+       "start": 617,
+       "end": 618,
+       "tokens": "their"
+      },
+      {
+       "label": "first",
+       "score": 1.0,
+       "start": 618,
+       "end": 619,
+       "tokens": "first"
+      },
+      {
+       "label": "warning",
+       "score": 1.0,
+       "start": 619,
+       "end": 620,
+       "tokens": "warning"
+      },
+      {
+       "label": "16",
+       "score": 1.0,
+       "start": 620,
+       "end": 621,
+       "tokens": "16"
+      },
+      {
+       "label": "minutes",
+       "score": 1.0,
+       "start": 621,
+       "end": 622,
+       "tokens": "minutes"
+      },
+      {
+       "label": "before",
+       "score": 1.0,
+       "start": 622,
+       "end": 623,
+       "tokens": "before"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 623,
+       "end": 624,
+       "tokens": "the"
+      },
+      {
+       "label": "tornado",
+       "score": 1.0,
+       "start": 624,
+       "end": 625,
+       "tokens": "tornado"
+      },
+      {
+       "label": "touched",
+       "score": 1.0,
+       "start": 625,
+       "end": 626,
+       "tokens": "touched"
+      },
+      {
+       "label": "down",
+       "score": 1.0,
+       "start": 626,
+       "end": 627,
+       "tokens": "down"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 627,
+       "end": 628,
+       "tokens": ","
+      },
+      {
+       "label": "four",
+       "score": 1.0,
+       "start": 628,
+       "end": 629,
+       "tokens": "four"
+      },
+      {
+       "label": "minutes",
+       "score": 1.0,
+       "start": 629,
+       "end": 630,
+       "tokens": "minutes"
+      },
+      {
+       "label": "faster",
+       "score": 1.0,
+       "start": 630,
+       "end": 631,
+       "tokens": "faster"
+      },
+      {
+       "label": "than",
+       "score": 1.0,
+       "start": 631,
+       "end": 632,
+       "tokens": "than"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 632,
+       "end": 633,
+       "tokens": "the"
+      },
+      {
+       "label": "average",
+       "score": 1.0,
+       "start": 633,
+       "end": 634,
+       "tokens": "average"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 634,
+       "end": 635,
+       "tokens": "."
+      },
+      {
+       "label": "NOAA",
+       "score": 1.0,
+       "start": 635,
+       "end": 636,
+       "tokens": "NOAA"
+      },
+      {
+       "label": "is",
+       "score": 1.0,
+       "start": 636,
+       "end": 637,
+       "tokens": "is"
+      },
+      {
+       "label": "still",
+       "score": 1.0,
+       "start": 637,
+       "end": 638,
+       "tokens": "still"
+      },
+      {
+       "label": "in",
+       "score": 1.0,
+       "start": 638,
+       "end": 639,
+       "tokens": "in"
+      },
+      {
+       "label": "the",
+       "score": 1.0,
+       "start": 639,
+       "end": 640,
+       "tokens": "the"
+      },
+      {
+       "label": "process",
+       "score": 1.0,
+       "start": 640,
+       "end": 641,
+       "tokens": "process"
+      },
+      {
+       "label": "of",
+       "score": 1.0,
+       "start": 641,
+       "end": 642,
+       "tokens": "of"
+      },
+      {
+       "label": "deciding",
+       "score": 1.0,
+       "start": 642,
+       "end": 643,
+       "tokens": "deciding"
+      },
+      {
+       "label": "how",
+       "score": 1.0,
+       "start": 643,
+       "end": 644,
+       "tokens": "how"
+      },
+      {
+       "label": "it",
+       "score": 1.0,
+       "start": 644,
+       "end": 645,
+       "tokens": "it"
+      },
+      {
+       "label": "will",
+       "score": 1.0,
+       "start": 645,
+       "end": 646,
+       "tokens": "will"
+      },
+      {
+       "label": "address",
+       "score": 1.0,
+       "start": 646,
+       "end": 647,
+       "tokens": "address"
+      },
+      {
+       "label": "its",
+       "score": 1.0,
+       "start": 647,
+       "end": 648,
+       "tokens": "its"
+      },
+      {
+       "label": "budget",
+       "score": 1.0,
+       "start": 648,
+       "end": 649,
+       "tokens": "budget"
+      },
+      {
+       "label": "shortfall",
+       "score": 1.0,
+       "start": 649,
+       "end": 650,
+       "tokens": "shortfall"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 650,
+       "end": 651,
+       "tokens": ","
+      },
+      {
+       "label": "Clayton",
+       "score": 1.0,
+       "start": 651,
+       "end": 652,
+       "tokens": "Clayton"
+      },
+      {
+       "label": "said",
+       "score": 1.0,
+       "start": 652,
+       "end": 653,
+       "tokens": "said"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 653,
+       "end": 654,
+       "tokens": "."
+      },
+      {
+       "label": "Zachary",
+       "score": 1.0,
+       "start": 654,
+       "end": 655,
+       "tokens": "Zachary"
+      },
+      {
+       "label": "T.",
+       "score": 1.0,
+       "start": 655,
+       "end": 656,
+       "tokens": "T."
+      },
+      {
+       "label": "Sampson",
+       "score": 1.0,
+       "start": 656,
+       "end": 657,
+       "tokens": "Sampson"
+      },
+      {
+       "label": "can",
+       "score": 1.0,
+       "start": 657,
+       "end": 658,
+       "tokens": "can"
+      },
+      {
+       "label": "be",
+       "score": 1.0,
+       "start": 658,
+       "end": 659,
+       "tokens": "be"
+      },
+      {
+       "label": "reached",
+       "score": 1.0,
+       "start": 659,
+       "end": 660,
+       "tokens": "reached"
+      },
+      {
+       "label": "at",
+       "score": 1.0,
+       "start": 660,
+       "end": 661,
+       "tokens": "at"
+      },
+      {
+       "label": "zsampson",
+       "score": 1.0,
+       "start": 661,
+       "end": 662,
+       "tokens": "zsampson"
+      },
+      {
+       "label": "@",
+       "score": 1.0,
+       "start": 662,
+       "end": 663,
+       "tokens": "@"
+      },
+      {
+       "label": "tampabay",
+       "score": 1.0,
+       "start": 663,
+       "end": 664,
+       "tokens": "tampabay"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 664,
+       "end": 665,
+       "tokens": "."
+      },
+      {
+       "label": "com",
+       "score": 1.0,
+       "start": 665,
+       "end": 666,
+       "tokens": "com"
+      },
+      {
+       "label": "or",
+       "score": 1.0,
+       "start": 666,
+       "end": 667,
+       "tokens": "or"
+      },
+      {
+       "label": "(",
+       "score": 1.0,
+       "start": 667,
+       "end": 668,
+       "tokens": "("
+      },
+      {
+       "label": "727",
+       "score": 1.0,
+       "start": 668,
+       "end": 669,
+       "tokens": "727"
+      },
+      {
+       "label": ")",
+       "score": 1.0,
+       "start": 669,
+       "end": 670,
+       "tokens": ")"
+      },
+      {
+       "label": "893-8804",
+       "score": 1.0,
+       "start": 670,
+       "end": 671,
+       "tokens": "893-8804"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 671,
+       "end": 672,
+       "tokens": "."
+      },
+      {
+       "label": "Follow",
+       "score": 1.0,
+       "start": 672,
+       "end": 673,
+       "tokens": "Follow"
+      },
+      {
+       "label": "him",
+       "score": 1.0,
+       "start": 673,
+       "end": 674,
+       "tokens": "him"
+      },
+      {
+       "label": "on",
+       "score": 1.0,
+       "start": 674,
+       "end": 675,
+       "tokens": "on"
+      },
+      {
+       "label": "Twitter",
+       "score": 1.0,
+       "start": 675,
+       "end": 676,
+       "tokens": "Twitter"
+      },
+      {
+       "label": "@",
+       "score": 1.0,
+       "start": 676,
+       "end": 677,
+       "tokens": "@"
+      },
+      {
+       "label": "zacksampson",
+       "score": 1.0,
+       "start": 677,
+       "end": 678,
+       "tokens": "zacksampson"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 678,
+       "end": 679,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "NEUREL",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "NEUREL",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9715641482405258,
+       "start": 635,
+       "end": 636,
+       "tokens": "NOAA",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9715641482405258,
+        "NOAA_Commissioned_Officer_Corps": 0.01755351636025376,
+        "NOAA_Weather_Radio": 0.010882335399220408,
+        "<unk_wid>": 2.609777686050289e-35
+       }
+      },
+      {
+       "label": "National_Hurricane_Center",
+       "score": 1.0,
+       "start": 237,
+       "end": 240,
+       "tokens": "National Hurricane Center",
+       "labelScoreMap": {
+        "National_Hurricane_Center": 1.0,
+        "<unk_wid>": 2.8268189425416e-34
+       }
+      },
+      {
+       "label": "Oklahoma",
+       "score": 0.8047295028200853,
+       "start": 55,
+       "end": 56,
+       "tokens": "Oklahoma",
+       "labelScoreMap": {
+        "Oklahoma": 0.8047295028200853,
+        "Oklahoma!": 0.059309206508773984,
+        "University_of_Oklahoma": 0.031663199373550825,
+        "Oklahoma_Sooners_football": 0.02608770625824651,
+        "Oklahoma_County,_Oklahoma": 0.013820411597099062,
+        "Oklahoma!_(1955_film)": 0.010810001559729948,
+        "Oklahoma_Sooners": 0.006878002164422039,
+        "Oklahoma_Air_National_Guard": 0.0066223596156142666,
+        "Oklahoma_Sooners_men's_basketball": 0.006062385117530829,
+        "Oklahoma_(song)": 0.0038711637408004283,
+        "Miss_Oklahoma_USA": 0.00298249235525224,
+        "Oklahoma_City_bombing": 0.002970320845683593,
+        "Oklahoma_Republican_Party": 0.002398174832105587,
+        "USS_Oklahoma_(BB-37)": 0.0022155738370007744,
+        "Oklahoma_Democratic_Party": 0.001972096408265039,
+        "Miss_Oklahoma_Teen_USA": 0.0019355818704002354,
+        "Episcopal_Diocese_of_Oklahoma": 0.0017529808753000426,
+        "Chimpanzee": 0.0016434183911835465,
+        "Miss_Oklahoma": 0.0015947229054339167,
+        "Oklahoma_Department_of_Corrections": 0.0015581989327111802,
+        "Oklahoma_Legislature": 0.0014851604639476523,
+        "Oklahoma_City": 0.0014868702413113055,
+        "Oklahoma_National_Guard": 0.0014242934274977849,
+        "Governor_of_Oklahoma": 0.001363426424912111,
+        "Oklahoma_Sooners_baseball": 0.0011321299437368794,
+        "Ed_Ferrara": 0.0009738719738681149,
+        "Oklahoma_Panhandle": 0.0012567475155368958,
+        "<unk_wid>": 1.1420019740906626e-37
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9698466515755267,
+       "start": 232,
+       "end": 233,
+       "tokens": "NOAA",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9698466515755267,
+        "NOAA_Commissioned_Officer_Corps": 0.017828895984339007,
+        "NOAA_Weather_Radio": 0.012324452440134288,
+        "<unk_wid>": 2.105894543630544e-33
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9654119687783059,
+       "start": 309,
+       "end": 310,
+       "tokens": "NOAA",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9654119687783059,
+        "NOAA_Commissioned_Officer_Corps": 0.018788014955291497,
+        "NOAA_Weather_Radio": 0.015800016266402494,
+        "<unk_wid>": 9.149407684612404e-38
+       }
+      },
+      {
+       "label": "Clayton_Antitrust_Act",
+       "score": 0.30346407351423194,
+       "start": 230,
+       "end": 231,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "Clayton,_California": 0.059183782676987234,
+        "Clayton_County,_Georgia": 0.06196353564813958,
+        "Clayton,_Missouri": 0.053498280153014395,
+        "Clayton,_Alabama": 0.052713838268884976,
+        "Clayton,_North_Carolina": 0.04495526007150286,
+        "Clayton,_Manchester": 0.02743442765164987,
+        "Clayton,_Delaware": 0.025335595459294893,
+        "Clayton,_Victoria": 0.019215142888372273,
+        "Clayton,_West_Yorkshire": 0.018138389383749585,
+        "Clayton_County,_Iowa": 0.02257589363644343,
+        "Clayton,_New_York": 0.017188014371669138,
+        "Clayton,_Ohio": 0.014356060485995518,
+        "Monash_University,_Clayton_campus": 0.011715343130750334,
+        "Clayton,_Georgia": 0.008766722229109528,
+        "Clayton_Township,_Genesee_County,_Michigan": 0.008006396145796558,
+        "Clayton,_New_Jersey": 0.0972679180705764,
+        "Clayton,_New_Mexico": 0.04019101718929101,
+        "Clayton_(village),_New_York": 0.007345029107543897,
+        "Clayton_Antitrust_Act": 0.30346407351423194,
+        "John_M._Clayton": 0.007102873770870608,
+        "Powell_Clayton": 0.06948513408126056,
+        "Clayton,_West_Sussex": 0.004733750774965397,
+        "Clayton,_Oklahoma": 0.004478764666986236,
+        "William_Clayton_(Mormon)": 0.005203621825070046,
+        "Tarzan_(1999_film)": 0.004015231406514631,
+        "Joshua_Clayton": 0.0026243342980393604,
+        "Bill_W._Clayton": 0.002443444257000302,
+        "Clayton_High_School_(Missouri)": 0.0023533652403377736,
+        "Clayton,_Louisiana": 0.002457322805555631,
+        "Michael_Clayton_(American_football)": 0.001787436790395935
+       }
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 0.8543835187056177,
+       "start": 592,
+       "end": 594,
+       "tokens": "Weather service",
+       "labelScoreMap": {
+        "National_Weather_Service": 0.8543835187056177,
+        "NBC_Weather_Plus": 0.08280926527579421,
+        "National_Oceanic_and_Atmospheric_Administration": 0.06280721601858807,
+        "<unk_wid>": 6.204966876668663e-31
+       }
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 0.47861403845894546,
+       "start": 188,
+       "end": 189,
+       "tokens": "Congress",
+       "labelScoreMap": {
+        "United_States_Congress": 0.47861403845894546,
+        "Indian_National_Congress": 0.03620519438039277,
+        "Congress_of_the_Philippines": 0.014330909820604813,
+        "Congress_of_the_Union": 0.011014870965989835,
+        "Congress,_Arizona": 0.0078200280686141,
+        "United_States_House_of_Representatives": 0.41371860856797854,
+        "National_Congress_of_Brazil": 0.007439563115820941,
+        "Congress_of_Colombia": 0.005528266316602366,
+        "Congress_of_the_Confederation": 0.004006044261051531,
+        "Congress_of_the_Republic_of_Peru": 0.0026494468975213083,
+        "National_Congress_of_Argentina": 0.0019300319211142775,
+        "Congress_of_Guatemala": 0.0018853698765425122,
+        "USS_Congress_(1841)": 0.001537880316096831,
+        "USS_Congress_(1799)": 0.0014653379598024746,
+        "Continental_Congress": 0.002047847568244375,
+        "National_Congress_of_Chile": 0.0013767676016248136,
+        "International_Congress_of_Mathematicians": 0.0010447350782914592,
+        "Congress_of_Deputies_(Spain)": 0.0010347814958933251,
+        "Congress_of_Paraguay": 0.0009140214986255762,
+        "Federal_government_of_the_United_States": 0.00394096824528615,
+        "Congress_of_the_Council_of_Europe": 0.0008124694370204796,
+        "Iraq_Liberation_Act": 0.0006828181479359716,
+        "<unk_wid>": 8.194079823731248e-28
+       }
+      },
+      {
+       "label": "United_States_Air_Force_Academy",
+       "score": 0.34263559820894174,
+       "start": 262,
+       "end": 264,
+       "tokens": "Air Force",
+       "labelScoreMap": {
+        "United_States_Air_Force": 0.30645336604177464,
+        "United_States_Air_Force_Academy": 0.34263559820894174,
+        "Air_Force_Falcons_football": 0.018418239762144913,
+        "Pakistan_Air_Force": 0.01876257865092557,
+        "Royal_Canadian_Air_Force": 0.06571867939983633,
+        "Israeli_Air_Force": 0.02719908289387824,
+        "Air_Force_(film)": 0.010117746082583484,
+        "Indian_Air_Force": 0.06583920418640776,
+        "Colombian_Air_Force": 0.008553918694671437,
+        "Royal_Saudi_Air_Force": 0.007081239809431035,
+        "French_Air_Force": 0.013089121943221283,
+        "Sri_Lanka_Air_Force": 0.007229588742140655,
+        "Royal_Danish_Air_Force": 0.005984700714860326,
+        "Chilean_Air_Force": 0.0057027776917260445,
+        "Libyan_Air_Force": 0.00558966912636686,
+        "Argentine_Air_Force": 0.005085558363319973,
+        "Polish_Air_Force": 0.005218216023392879,
+        "Iraqi_Air_Force": 0.0045711437421770695,
+        "Romanian_Air_Force": 0.003951275884294336,
+        "Ukrainian_Air_Force": 0.0037363012591203697,
+        "Armenian_Air_Force": 0.003703236830878293,
+        "Albanian_Air_Force": 0.003141143764210221,
+        "Royal_Norwegian_Air_Force": 0.003068096671561578,
+        "South_African_Air_Force": 0.003110860514825598,
+        "Vietnam_Air_Force": 0.04041561265265349,
+        "Swiss_Air_Force": 0.002877061765432552,
+        "Syrian_Arab_Air_Force": 0.002853378557567652,
+        "People's_Liberation_Army_Air_Force": 0.0028226211726455645,
+        "Luftwaffe": 0.0036195367796747055,
+        "Royal_Australian_Air_Force": 0.0034504440693353044
+       }
+      },
+      {
+       "label": "Weather_Underground",
+       "score": 0.6111687409274082,
+       "start": 515,
+       "end": 517,
+       "tokens": "Weather Underground",
+       "labelScoreMap": {
+        "Weather_Underground": 0.6111687409274082,
+        "Weather_Underground_(weather_service)": 0.3873927308150841,
+        "Heligoland_(album)": 0.0014385282575076948,
+        "<unk_wid>": 3.8788581389693407e-31
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 136,
+       "end": 138,
+       "tokens": "Ciaran Clayton",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "United_States_Department_of_Commerce",
+       "score": 0.9922435836608493,
+       "start": 101,
+       "end": 104,
+       "tokens": "Department of Commerce",
+       "labelScoreMap": {
+        "United_States_Department_of_Commerce": 0.9922435836608493,
+        "Oklahoma_Department_of_Commerce": 0.004562036402942122,
+        "Ministry_of_Commerce_and_Industry_(India)": 0.0018257670467429442,
+        "Herbert_C._Hoover_Building": 0.0013686128894654884,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "Moore,_Oklahoma",
+       "score": 0.34492600508346355,
+       "start": 604,
+       "end": 605,
+       "tokens": "Moore",
+       "labelScoreMap": {
+        "Moore,_Oklahoma": 0.34492600508346355,
+        "Frederic_Moore": 0.05400008158875854,
+        "Alan_Moore": 0.04255607914261846,
+        "Henry_Moore": 0.03652872631694516,
+        "Moore_County,_Tennessee": 0.03627971148641465,
+        "Moore_County,_Texas": 0.06462514449713143,
+        "Michael_Moore": 0.03219614369322595,
+        "Bobby_Moore": 0.02199794480021877,
+        "Electoral_district_of_Moore": 0.021796505774671304,
+        "Moore_County,_North_Carolina": 0.0664369101605794,
+        "Mossi_language": 0.016873443356235928,
+        "G._E._Moore": 0.013817412438634172,
+        "Craig_Moore": 0.01140203141662357,
+        "Division_of_Moore": 0.0097330257195059,
+        "Joe-Max_Moore": 0.00955980233910276,
+        "Moore_Township,_Northampton_County,_Pennsylvania": 0.009504480814783164,
+        "Gordon_Moore": 0.009172212157584698,
+        "Anthony_Moore": 0.00794791553224624,
+        "Brian_Moore_(rugby_union)": 0.006740594830535937,
+        "Michael_Moore_(Scottish_politician)": 0.006626099586016875,
+        "A._Harry_Moore": 0.007591960224176782,
+        "Henson_Moore": 0.006887033946148051,
+        "Arch_A._Moore,_Jr.": 0.12188846535875009,
+        "Raymond_Moore_(tennis)": 0.006277031470669826,
+        "Ronnie_Moore": 0.00621965022595418,
+        "Adolphus_Warburton_Moore": 0.005703066216833681,
+        "Dan_K._Moore": 0.005483521252907732,
+        "Luke_Moore": 0.005355701323527338,
+        "Thomas_Overton_Moore": 0.006012434669103327,
+        "James_Moore_(Canadian_politician)": 0.005860864576632421
+       }
+      },
+      {
+       "label": "Tampa,_Florida",
+       "score": 0.8616633038074725,
+       "start": 499,
+       "end": 500,
+       "tokens": "Tampa",
+       "labelScoreMap": {
+        "Tampa,_Florida": 0.8616633038074725,
+        "MV_Tampa": 0.02374364452848782,
+        "Alcohol": 0.01032336306705599,
+        "Tampa_International_Airport": 0.009928757152929787,
+        "University_of_Tampa": 0.007735821166347403,
+        "Tampa_Bay_Area": 0.02592825922197396,
+        "Tampa_Bay": 0.053009896261070985,
+        "Tampa_Bay_Rays": 0.002380173737718176,
+        "Tampa_Bay_Lightning": 0.0022883814477660017,
+        "Tampa_Union_Station": 0.001909811606013711,
+        "Henry_B._Plant_Museum": 0.0010885880031635538,
+        "<unk_wid>": 4.747033552910817e-28
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 496,
+       "end": 497,
+       "tokens": "Sobien",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9719196019594448,
+       "start": 107,
+       "end": 108,
+       "tokens": "NOAA",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9719196019594448,
+        "NOAA_Commissioned_Officer_Corps": 0.017326612073568573,
+        "NOAA_Weather_Radio": 0.010753785966986751,
+        "<unk_wid>": 1.7408693940834593e-42
+       }
+      },
+      {
+       "label": "NOAA_Commissioned_Officer_Corps",
+       "score": 1.0,
+       "start": 309,
+       "end": 313,
+       "tokens": "NOAA Commissioned Officer Corps",
+       "labelScoreMap": {
+        "NOAA_Commissioned_Officer_Corps": 1.0,
+        "<unk_wid>": 2.8606106850726816e-41
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9719917213835512,
+       "start": 345,
+       "end": 346,
+       "tokens": "NOAA",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9719917213835512,
+        "NOAA_Commissioned_Officer_Corps": 0.017417072443827765,
+        "NOAA_Weather_Radio": 0.010591206172621012,
+        "<unk_wid>": 4.2570031490471994e-37
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 405,
+       "end": 406,
+       "tokens": "Sobien",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 0.8475210051003496,
+       "start": 409,
+       "end": 411,
+       "tokens": "weather service",
+       "labelScoreMap": {
+        "National_Weather_Service": 0.8475210051003496,
+        "NBC_Weather_Plus": 0.08228202339437782,
+        "National_Oceanic_and_Atmospheric_Administration": 0.07019697150527267,
+        "<unk_wid>": 8.578300435990422e-27
+       }
+      },
+      {
+       "label": "Powell_Clayton",
+       "score": 0.3371776722342914,
+       "start": 220,
+       "end": 221,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "Clayton,_California": 0.059008286762106434,
+        "Clayton_County,_Georgia": 0.05800248547269266,
+        "Clayton,_Missouri": 0.05278994055856563,
+        "Clayton,_Alabama": 0.05251485692224346,
+        "Clayton,_North_Carolina": 0.0442392730964664,
+        "Clayton,_Manchester": 0.027291044625086077,
+        "Clayton,_Delaware": 0.0252382671587102,
+        "Clayton,_Victoria": 0.019066279528900377,
+        "Clayton,_West_Yorkshire": 0.018103386610893453,
+        "Clayton_County,_Iowa": 0.01745552686561012,
+        "Clayton,_New_York": 0.016930801971770076,
+        "Clayton,_Ohio": 0.01431156859724966,
+        "Monash_University,_Clayton_campus": 0.011692478632728154,
+        "Clayton,_Georgia": 0.00871362278809362,
+        "Clayton_Township,_Genesee_County,_Michigan": 0.007991017804912638,
+        "Clayton,_New_Jersey": 0.013920111780604767,
+        "Clayton,_New_Mexico": 0.010264153728873333,
+        "Clayton_(village),_New_York": 0.007315352093449177,
+        "Clayton_Antitrust_Act": 0.12449255958448799,
+        "John_M._Clayton": 0.01166188758129388,
+        "Powell_Clayton": 0.3371776722342914,
+        "Clayton,_West_Sussex": 0.004697585094050936,
+        "Clayton,_Oklahoma": 0.004387403959223456,
+        "William_Clayton_(Mormon)": 0.030637005938608828,
+        "Tarzan_(1999_film)": 0.008386963891101766,
+        "Joshua_Clayton": 0.002619728181084245,
+        "Bill_W._Clayton": 0.0024393401090916714,
+        "Clayton_High_School_(Missouri)": 0.002349422884850237,
+        "Clayton,_Louisiana": 0.0028012726050041957,
+        "Michael_Clayton_(American_football)": 0.003500702937954925
+       }
+      },
+      {
+       "label": "Powell_Clayton",
+       "score": 0.2847457877775326,
+       "start": 160,
+       "end": 161,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "Clayton,_California": 0.05904017727334606,
+        "Clayton_County,_Georgia": 0.05819637539289647,
+        "Clayton,_Missouri": 0.05287389851102751,
+        "Clayton,_Alabama": 0.05256143902701971,
+        "Clayton,_North_Carolina": 0.04441291128911431,
+        "Clayton,_Manchester": 0.027305303166977032,
+        "Clayton,_Delaware": 0.025262510965320416,
+        "Clayton,_Victoria": 0.019081007678532193,
+        "Clayton,_West_Yorkshire": 0.018110280035756595,
+        "Clayton_County,_Iowa": 0.01787067664226046,
+        "Clayton,_New_York": 0.0169651517931458,
+        "Clayton,_Ohio": 0.014318435230870917,
+        "Monash_University,_Clayton_campus": 0.011697046879996585,
+        "Clayton,_Georgia": 0.008720348598570649,
+        "Clayton_Township,_Genesee_County,_Michigan": 0.007993940235225722,
+        "Clayton,_New_Jersey": 0.041745806363609375,
+        "Clayton,_New_Mexico": 0.023110425961291477,
+        "Clayton_(village),_New_York": 0.007324360622829193,
+        "Clayton_Antitrust_Act": 0.15467092706684285,
+        "John_M._Clayton": 0.008759574134555534,
+        "Powell_Clayton": 0.2847457877775326,
+        "Clayton,_West_Sussex": 0.00470835764840083,
+        "Clayton,_Oklahoma": 0.004416146618889615,
+        "William_Clayton_(Mormon)": 0.019523157320641114,
+        "Tarzan_(1999_film)": 0.004562026616302577,
+        "Joshua_Clayton": 0.002620062532874985,
+        "Bill_W._Clayton": 0.0024394891598682866,
+        "Clayton_High_School_(Missouri)": 0.002349427046818517,
+        "Clayton,_Louisiana": 0.0026452439822497163,
+        "Michael_Clayton_(American_football)": 0.0019697044272329704
+       }
+      },
+      {
+       "label": "Oklahoma_City_bombing",
+       "score": 0.4939931423546262,
+       "start": 12,
+       "end": 13,
+       "tokens": "Oklahoma",
+       "labelScoreMap": {
+        "Oklahoma": 0.3853359541815187,
+        "Oklahoma!": 0.037219908582052146,
+        "University_of_Oklahoma": 0.019873308881940107,
+        "Oklahoma_Sooners_football": 0.01637128690492054,
+        "Oklahoma_County,_Oklahoma": 0.008670750948712209,
+        "Oklahoma!_(1955_film)": 0.006783794302217353,
+        "Oklahoma_Sooners": 0.004316275060469798,
+        "Oklahoma_Air_National_Guard": 0.004156060135757821,
+        "Oklahoma_Sooners_men's_basketball": 0.0038044366001157323,
+        "Oklahoma_(song)": 0.002429340400051557,
+        "Miss_Oklahoma_USA": 0.0018716566034521578,
+        "Oklahoma_City_bombing": 0.4939931423546262,
+        "Oklahoma_Republican_Party": 0.0015049694294462224,
+        "USS_Oklahoma_(BB-37)": 0.0013923594756484192,
+        "Oklahoma_Democratic_Party": 0.0012375848143224239,
+        "Miss_Oklahoma_Teen_USA": 0.001214670204472554,
+        "Episcopal_Diocese_of_Oklahoma": 0.001100079400873112,
+        "Chimpanzee": 0.0010313240349373648,
+        "Miss_Oklahoma": 0.0010008705398980374,
+        "Oklahoma_Department_of_Corrections": 0.0009778444108320366,
+        "Oklahoma_Legislature": 0.0009576324317899817,
+        "Oklahoma_City": 0.0009356139120401608,
+        "Oklahoma_National_Guard": 0.00089466288540721,
+        "Governor_of_Oklahoma": 0.000856005705512344,
+        "Oklahoma_Sooners_baseball": 0.0007104656903626683,
+        "Ed_Ferrara": 0.0006111512402437219,
+        "Oklahoma_Panhandle": 0.0007488508683794314,
+        "<unk_wid>": 2.9451412945680464e-29
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 368,
+       "end": 370,
+       "tokens": "Dan Sobien",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9763006145871845,
+       "start": 268,
+       "end": 269,
+       "tokens": "NOAA",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9763006145871845,
+        "NOAA_Commissioned_Officer_Corps": 0.01800951438902045,
+        "NOAA_Weather_Radio": 0.005689871023795035,
+        "<unk_wid>": 2.592040724810101e-35
+       }
+      },
+      {
+       "label": "Clayton,_New_Jersey",
+       "score": 0.30189803326067427,
+       "start": 342,
+       "end": 343,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "Clayton,_California": 0.05930163997185135,
+        "Clayton_County,_Georgia": 0.06206854640211233,
+        "Clayton,_Missouri": 0.05402817614558322,
+        "Clayton,_Alabama": 0.053062852006619934,
+        "Clayton,_North_Carolina": 0.045318645431185946,
+        "Clayton,_Manchester": 0.027671564957244744,
+        "Clayton,_Delaware": 0.025563424459546766,
+        "Clayton,_Victoria": 0.019323659718116774,
+        "Clayton,_West_Yorkshire": 0.018153256589510544,
+        "Clayton_County,_Iowa": 0.031215291492556405,
+        "Clayton,_New_York": 0.017597980843743973,
+        "Clayton,_Ohio": 0.014372288940298482,
+        "Monash_University,_Clayton_campus": 0.011724894459539089,
+        "Clayton,_Georgia": 0.008812759517419748,
+        "Clayton_Township,_Genesee_County,_Michigan": 0.008012892287949918,
+        "Clayton,_New_Jersey": 0.30189803326067427,
+        "Clayton,_New_Mexico": 0.11156665907751226,
+        "Clayton_(village),_New_York": 0.007436432967273497,
+        "Clayton_Antitrust_Act": 0.05433521733194911,
+        "John_M._Clayton": 0.006958150935926424,
+        "Powell_Clayton": 0.03258798175213332,
+        "Clayton,_West_Sussex": 0.004783747150276213,
+        "Clayton,_Oklahoma": 0.004734562180133072,
+        "William_Clayton_(Mormon)": 0.004602187819128476,
+        "Tarzan_(1999_film)": 0.003334329135377829,
+        "Joshua_Clayton": 0.0026260950589478394,
+        "Bill_W._Clayton": 0.002445058044958593,
+        "Clayton_High_School_(Missouri)": 0.0023546592068669305,
+        "Clayton,_Louisiana": 0.0023390101329592338,
+        "Michael_Clayton_(American_football)": 0.0017700027226037554
+       }
+      },
+      {
+       "label": "Clayton,_New_Jersey",
+       "score": 0.23495177124965042,
+       "start": 294,
+       "end": 295,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "Clayton,_California": 0.05925572289329192,
+        "Clayton_County,_Georgia": 0.0608484161984237,
+        "Clayton,_Missouri": 0.05408996923693953,
+        "Clayton,_Alabama": 0.05303379877384204,
+        "Clayton,_North_Carolina": 0.04534492481597521,
+        "Clayton,_Manchester": 0.02769145892040254,
+        "Clayton,_Delaware": 0.025473568876264053,
+        "Clayton,_Victoria": 0.0192762969028786,
+        "Clayton,_West_Yorkshire": 0.01814320711354731,
+        "Clayton_County,_Iowa": 0.023683206163467405,
+        "Clayton,_New_York": 0.017258468559397444,
+        "Clayton,_Ohio": 0.014368273768433474,
+        "Monash_University,_Clayton_campus": 0.011718082168310367,
+        "Clayton,_Georgia": 0.008778432451806583,
+        "Clayton_Township,_Genesee_County,_Michigan": 0.008008729813117258,
+        "Clayton,_New_Jersey": 0.23495177124965042,
+        "Clayton,_New_Mexico": 0.09140098880817384,
+        "Clayton_(village),_New_York": 0.0074078345222025705,
+        "Clayton_Antitrust_Act": 0.10018475480547716,
+        "John_M._Clayton": 0.007140078213175434,
+        "Powell_Clayton": 0.0812174710912867,
+        "Clayton,_West_Sussex": 0.004765047983259083,
+        "Clayton,_Oklahoma": 0.00472312849516082,
+        "William_Clayton_(Mormon)": 0.005439428635152822,
+        "Tarzan_(1999_film)": 0.004086202729073829,
+        "Joshua_Clayton": 0.0026256739877010427,
+        "Bill_W._Clayton": 0.002444819734957661,
+        "Clayton_High_School_(Missouri)": 0.0023548235571134186,
+        "Clayton,_Louisiana": 0.0024850714421600483,
+        "Michael_Clayton_(American_football)": 0.0018003480893573629
+       }
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 0.9856498843361663,
+       "start": 374,
+       "end": 377,
+       "tokens": "National Weather Service",
+       "labelScoreMap": {
+        "National_Weather_Service": 0.9856498843361663,
+        "National_Oceanic_and_Atmospheric_Administration": 0.014350115663833714,
+        "<unk_wid>": 0.0
+       }
+      },
+      {
+       "label": "MacDill_Air_Force_Base",
+       "score": 0.9978517140205975,
+       "start": 261,
+       "end": 265,
+       "tokens": "MacDill Air Force Base",
+       "labelScoreMap": {
+        "MacDill_Air_Force_Base": 0.9978517140205975,
+        "United_States_Armed_Forces": 0.0021482859794025888,
+        "<unk_wid>": 2.5047253187536903e-40
+       }
+      },
+      {
+       "label": "Virginia_House_of_Delegates",
+       "score": 0.20259361404725146,
+       "start": 92,
+       "end": 93,
+       "tokens": "Va.",
+       "labelScoreMap": {
+        "Virginia": 0.20209186917857377,
+        "Wa_people": 0.0657345220200906,
+        "United_States_Department_of_Veterans_Affairs": 0.05666807686782809,
+        "Victoria_and_Albert_Museum": 0.05704000189700056,
+        "Duke_Nukem_Forever": 0.01807995525578332,
+        "Province_of_Varese": 0.015285249713984615,
+        "Lieutenant_Governor_of_Virginia": 0.027550792967640115,
+        "Joe_the_Plumber": 0.009526794397062504,
+        "Geeknet": 0.010993557067369666,
+        "Secretary_of_the_Commonwealth_of_Virginia": 0.008554306111297458,
+        "Attorney_General_of_Virginia": 0.08742527170329002,
+        "Governor_of_Virginia": 0.01293533037961737,
+        "Supreme_Court_of_Virginia": 0.010206355601328175,
+        "Voluntary_aided_school": 0.0061578069769428955,
+        "V_Australia": 0.004477507441256121,
+        "Vatican_City": 0.003728081729693579,
+        "Veterans_Health_Administration": 0.03997171836678863,
+        "Bristol,_Virginia": 0.003414472188441885,
+        "Mathias_Rust": 0.0029161958382157675,
+        "Virginia_House_of_Delegates": 0.20259361404725146,
+        "Vulva": 0.0026274828692203524,
+        "Falls_Church,_Virginia": 0.10194008789266296,
+        "Democratic_Party_of_Virginia": 0.0024973337802468706,
+        "Latvian_Floorball_League": 0.0021389125278023255,
+        "Voice_acting": 0.029871318668543523,
+        "P\u00e8re_Goriot": 0.002879353158371139,
+        "Jim_Webb": 0.007156551843495256,
+        "Republican_Party_of_Virginia": 0.002811159931385735,
+        "Vivaro-Alpine_dialect": 0.001361311128808366,
+        "Volunteer_Army": 0.0013650084500067526
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 90,
+       "end": 91,
+       "tokens": "R",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9777636700223091,
+       "start": 170,
+       "end": 171,
+       "tokens": "NOAA",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9777636700223091,
+        "NOAA_Commissioned_Officer_Corps": 0.017446916627042806,
+        "NOAA_Weather_Radio": 0.004789413350647995,
+        "<unk_wid>": 2.2796008319735616e-41
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 86,
+       "end": 89,
+       "tokens": "Frank R. Wolf",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Clayton_Antitrust_Act",
+       "score": 0.23624007717055073,
+       "start": 613,
+       "end": 614,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "Clayton,_California": 0.05917468100932228,
+        "Clayton_County,_Georgia": 0.05961893725444274,
+        "Clayton,_Missouri": 0.05503016350861154,
+        "Clayton,_Alabama": 0.05274613801396408,
+        "Clayton,_North_Carolina": 0.045311252938410075,
+        "Clayton,_Manchester": 0.02759448322377532,
+        "Clayton,_Delaware": 0.025328179383565227,
+        "Clayton,_Victoria": 0.01929138071689503,
+        "Clayton,_West_Yorkshire": 0.01814099396171359,
+        "Clayton_County,_Iowa": 0.0239999643691331,
+        "Clayton,_New_York": 0.0170533977372373,
+        "Clayton,_Ohio": 0.014379731287062106,
+        "Monash_University,_Clayton_campus": 0.011716840511528848,
+        "Clayton,_Georgia": 0.008761572437857593,
+        "Clayton_Township,_Genesee_County,_Michigan": 0.008007697070437823,
+        "Clayton,_New_Jersey": 0.1701239813853611,
+        "Clayton,_New_Mexico": 0.05207886246985481,
+        "Clayton_(village),_New_York": 0.007361432090505427,
+        "Clayton_Antitrust_Act": 0.23624007717055073,
+        "John_M._Clayton": 0.007046180536421663,
+        "Powell_Clayton": 0.0497796172972931,
+        "Clayton,_West_Sussex": 0.0047249557180252975,
+        "Clayton,_Oklahoma": 0.004462433058615134,
+        "William_Clayton_(Mormon)": 0.004754986048399966,
+        "Tarzan_(1999_film)": 0.005573438810547902,
+        "Joshua_Clayton": 0.0026249811651210694,
+        "Bill_W._Clayton": 0.002444057846281615,
+        "Clayton_High_School_(Missouri)": 0.002354099207351692,
+        "Clayton,_Louisiana": 0.0024920675112017356,
+        "Michael_Clayton_(American_football)": 0.0017834162605121686
+       }
+      },
+      {
+       "label": "Clayton,_New_Jersey",
+       "score": 0.33020078508409745,
+       "start": 651,
+       "end": 652,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "Clayton,_California": 0.05923993239925383,
+        "Clayton_County,_Georgia": 0.06037286826378493,
+        "Clayton,_Missouri": 0.06064432465579636,
+        "Clayton,_Alabama": 0.052982741273478774,
+        "Clayton,_North_Carolina": 0.045416174523619686,
+        "Clayton,_Manchester": 0.0280305763548815,
+        "Clayton,_Delaware": 0.025499708262862415,
+        "Clayton,_Victoria": 0.01973119756438191,
+        "Clayton,_West_Yorkshire": 0.01816402177713482,
+        "Clayton_County,_Iowa": 0.035048759850862046,
+        "Clayton,_New_York": 0.017151546095131292,
+        "Clayton,_Ohio": 0.014388106421040783,
+        "Monash_University,_Clayton_campus": 0.01173180215755604,
+        "Clayton,_Georgia": 0.008776207978883144,
+        "Clayton_Township,_Genesee_County,_Michigan": 0.008017637127215153,
+        "Clayton,_New_Jersey": 0.33020078508409745,
+        "Clayton,_New_Mexico": 0.10958815995362745,
+        "Clayton_(village),_New_York": 0.007522794649525737,
+        "Clayton_Antitrust_Act": 0.02052493877669339,
+        "John_M._Clayton": 0.006943414658647744,
+        "Powell_Clayton": 0.030959827338758406,
+        "Clayton,_West_Sussex": 0.004756766156285363,
+        "Clayton,_Oklahoma": 0.004511097238978885,
+        "William_Clayton_(Mormon)": 0.0044228570926721274,
+        "Tarzan_(1999_film)": 0.003836877514036102,
+        "Joshua_Clayton": 0.002627617353710023,
+        "Bill_W._Clayton": 0.0024464716924029813,
+        "Clayton_High_School_(Missouri)": 0.0023559299893330453,
+        "Clayton,_Louisiana": 0.0023336300662460565,
+        "Michael_Clayton_(American_football)": 0.0017732277291025809
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 677,
+       "end": 678,
+       "tokens": "zacksampson",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Oklahoma_City_bombing",
+       "score": 0.4536814071982242,
+       "start": 589,
+       "end": 590,
+       "tokens": "Oklahoma",
+       "labelScoreMap": {
+        "Oklahoma": 0.4160340042077991,
+        "Oklahoma!": 0.03883717448668488,
+        "University_of_Oklahoma": 0.02075200246255702,
+        "Oklahoma_Sooners_football": 0.017082409912629687,
+        "Oklahoma_County,_Oklahoma": 0.00904919381213797,
+        "Oklahoma!_(1955_film)": 0.007078466557909592,
+        "Oklahoma_Sooners": 0.004503763925100171,
+        "Oklahoma_Air_National_Guard": 0.004336970073038595,
+        "Oklahoma_Sooners_men's_basketball": 0.003969692830350093,
+        "Oklahoma_(song)": 0.002534865601776979,
+        "Miss_Oklahoma_USA": 0.001952957262399672,
+        "Oklahoma_City_bombing": 0.4536814071982242,
+        "Oklahoma_Republican_Party": 0.0015703420543153553,
+        "USS_Oklahoma_(BB-37)": 0.0014512972590766152,
+        "Oklahoma_Democratic_Party": 0.00129134274448887,
+        "Miss_Oklahoma_Teen_USA": 0.001267432838712164,
+        "Episcopal_Diocese_of_Oklahoma": 0.001147866612685086,
+        "Chimpanzee": 0.0010761223636272684,
+        "Miss_Oklahoma": 0.001044244561436124,
+        "Oklahoma_Department_of_Corrections": 0.0010203205906278306,
+        "Oklahoma_Legislature": 0.0010183177531342695,
+        "Oklahoma_City": 0.0012791615835112432,
+        "Oklahoma_National_Guard": 0.0009340703125164024,
+        "Governor_of_Oklahoma": 0.0008948207150328796,
+        "Oklahoma_Sooners_baseball": 0.0007413267274643327,
+        "Ed_Ferrara": 0.0006376982876980281,
+        "Oklahoma_Panhandle": 0.004812727265065515,
+        "<unk_wid>": 5.1188042223923045e-26
+       }
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 0.8548856970686103,
+       "start": 427,
+       "end": 429,
+       "tokens": "weather service",
+       "labelScoreMap": {
+        "National_Weather_Service": 0.8548856970686103,
+        "NBC_Weather_Plus": 0.08285004663578734,
+        "National_Oceanic_and_Atmospheric_Administration": 0.06226425629560236,
+        "<unk_wid>": 7.667337411892287e-29
+       }
+      },
+      {
+       "label": "Gulf_Coast_of_the_United_States",
+       "score": 0.7987220510502605,
+       "start": 330,
+       "end": 332,
+       "tokens": "Gulf Coast",
+       "labelScoreMap": {
+        "Gulf_Coast_of_the_United_States": 0.7987220510502605,
+        "Gulf_of_Mexico": 0.186154114610335,
+        "Gulf_Coast_of_Mexico": 0.013099623947984307,
+        "Gulf_Coast_(magazine)": 0.001078302674072349,
+        "Gulf_Coast_League": 0.0009459077173479422,
+        "<unk_wid>": 2.051639647868931e-40
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 654,
+       "end": 657,
+       "tokens": "Zachary T. Sampson",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 421,
+       "end": 422,
+       "tokens": "Sobien",
+       "labelScoreMap": {
+        "<unk_wid>": 0.03333333333333334
+       }
+      },
+      {
+       "label": "Miami",
+       "score": 0.6066957474423218,
+       "start": 241,
+       "end": 242,
+       "tokens": "Miami",
+       "labelScoreMap": {
+        "Miami": 0.6066957474423218,
+        "University_of_Miami": 0.014842335165416085,
+        "Miami_Open_(tennis)": 0.01347322292812158,
+        "Miami_people": 0.010412780256171785,
+        "Miami_Heat": 0.00912027626314394,
+        "Miami_County,_Kansas": 0.009257251033442465,
+        "Miami_Hurricanes_football": 0.008216306004264146,
+        "Miami,_Oklahoma": 0.1243655201530586,
+        "Miami_County,_Ohio": 0.05239584565361451,
+        "Miami_Dolphins": 0.003137087894996442,
+        "Miami_metropolitan_area": 0.0915335782123827,
+        "CSI:_Miami": 0.003076700681523086,
+        "Miami,_Arizona": 0.02598977010807424,
+        "Miami,_Queensland": 0.0028062173851848785,
+        "Miami_International_Airport": 0.005694360749966037,
+        "Miami_County,_Indiana": 0.0027309828835425714,
+        "Miami_Township,_Hamilton_County,_Ohio": 0.0018595445265699416,
+        "2010_Sony_Ericsson_Open": 0.0015806085371214387,
+        "2008_Sony_Ericsson_Open": 0.001572156165776803,
+        "Miami_University": 0.0015183591598952595,
+        "Miami_High_School": 0.001234635544182013,
+        "2011_Sony_Ericsson_Open": 0.0011072756215047492,
+        "Tri-Rail_and_Metrorail_Transfer_Station": 0.0010058471375231953,
+        "Miami_Township,_Clermont_County,_Ohio": 0.0009978252429768413,
+        "2004_NASDAQ-100_Open": 0.0009297684315166037,
+        "2009_Sony_Ericsson_Open": 0.0009044113117275562,
+        "Miami_RedHawks_men's_basketball": 0.0008959589521767702,
+        "Miami_Township,_Montgomery_County,_Ohio": 0.0008875171728599736,
+        "Miami_Township,_Logan_County,_Ohio": 0.0008875065638867656,
+        "Miami_RedHawks_football": 0.0008706028170573876
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9881724664310592,
+       "start": 19,
+       "end": 24,
+       "tokens": "National Oceanic and Atmospheric Administration",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9881724664310592,
+        "NOAA_Commissioned_Officer_Corps": 0.011827533568940755,
+        "<unk_wid>": 5.5388994377609794e-45
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9772899008105076,
+       "start": 118,
+       "end": 119,
+       "tokens": "NOAA",
+       "labelScoreMap": {
+        "National_Oceanic_and_Atmospheric_Administration": 0.9772899008105076,
+        "NOAA_Commissioned_Officer_Corps": 0.017545027036704252,
+        "NOAA_Weather_Radio": 0.005165072152788052,
+        "<unk_wid>": 6.530267584013895e-38
+       }
+      },
+      {
+       "label": "Oklahoma",
+       "score": 0.838686866170383,
+       "start": 606,
+       "end": 607,
+       "tokens": "Okla.",
+       "labelScoreMap": {
+        "Oklahoma": 0.838686866170383,
+        "University_of_Oklahoma": 0.0967981213911707,
+        "Oklahoma_Sooners_football": 0.06451501243844635,
+        "<unk_wid>": 6.3135798916242245e-24
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "View",
+     "viewName": "CANDGEN",
+     "generator": "GOLD",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9715641482405258,
+       "start": 635,
+       "end": 636,
+       "tokens": "NOAA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Hurricane_Center",
+       "score": 1.0,
+       "start": 237,
+       "end": 240,
+       "tokens": "National Hurricane Center",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Oklahoma",
+       "score": 0.8047295028200853,
+       "start": 55,
+       "end": 56,
+       "tokens": "Oklahoma",
+       "labelScoreMap": {
+        "4544379|Oklahoma": 0.8047295028200853,
+        "4553820|University_of_Oklahoma": 0.031663199373550825,
+        "4544356|Oklahoma_County,_Oklahoma": 0.013820411597099062,
+        "4544349|Oklahoma_City": 0.0014868702413113055
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9698466515755267,
+       "start": 232,
+       "end": 233,
+       "tokens": "NOAA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9654119687783059,
+       "start": 309,
+       "end": 310,
+       "tokens": "NOAA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Clayton_Antitrust_Act",
+       "score": 0.30346407351423194,
+       "start": 230,
+       "end": 231,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "5337841|Clayton,_California": 0.059183782676987234,
+        "4188291|Clayton_County,_Georgia": 0.06196353564813958,
+        "4381478|Clayton,_Missouri": 0.053498280153014395,
+        "4055696|Clayton,_Alabama": 0.052713838268884976,
+        "4460943|Clayton,_North_Carolina": 0.04495526007150286,
+        "4141982|Clayton,_Delaware": 0.025335595459294893,
+        "2171400|Clayton,_Victoria": 0.019215142888372273,
+        "7300563|Clayton,_West_Yorkshire": 0.018138389383749585,
+        "4851902|Clayton_County,_Iowa": 0.02257589363644343,
+        "5112870|Clayton,_New_York": 0.017188014371669138,
+        "4508885|Clayton,_Ohio": 0.014356060485995518,
+        "4188287|Clayton,_Georgia": 0.008766722229109528,
+        "4989026|Clayton_Township,_Genesee_County,_Michigan": 0.008006396145796558,
+        "4501265|Clayton,_New_Jersey": 0.0972679180705764,
+        "5462269|Clayton,_New_Mexico": 0.04019101718929101,
+        "2652902|Clayton,_West_Sussex": 0.004733750774965397,
+        "4533617|Clayton,_Oklahoma": 0.004478764666986236,
+        "7206564|Clayton_High_School_(Missouri)": 0.0023533652403377736,
+        "4320174|Clayton,_Louisiana": 0.002457322805555631
+       }
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 0.8543835187056177,
+       "start": 592,
+       "end": 594,
+       "tokens": "Weather service",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States_Congress",
+       "score": 0.47861403845894546,
+       "start": 188,
+       "end": 189,
+       "tokens": "Congress",
+       "labelScoreMap": {
+        "5290559|Congress,_Arizona": 0.0078200280686141
+       }
+      },
+      {
+       "label": "United_States_Air_Force_Academy",
+       "score": 0.34263559820894174,
+       "start": 262,
+       "end": 264,
+       "tokens": "Air Force",
+       "labelScoreMap": {
+        "5442474|United_States_Air_Force_Academy": 0.34263559820894174
+       }
+      },
+      {
+       "label": "Weather_Underground",
+       "score": 0.6111687409274082,
+       "start": 515,
+       "end": 517,
+       "tokens": "Weather Underground",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 136,
+       "end": 138,
+       "tokens": "Ciaran Clayton",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "United_States_Department_of_Commerce",
+       "score": 0.9922435836608493,
+       "start": 101,
+       "end": 104,
+       "tokens": "Department of Commerce",
+       "labelScoreMap": {
+        "4140833|United_States_Department_of_Commerce": 0.9922435836608493
+       }
+      },
+      {
+       "label": "Moore,_Oklahoma",
+       "score": 0.34492600508346355,
+       "start": 604,
+       "end": 605,
+       "tokens": "Moore",
+       "labelScoreMap": {
+        "4542975|Moore,_Oklahoma": 0.34492600508346355,
+        "4642600|Moore_County,_Tennessee": 0.03627971148641465,
+        "5526589|Moore_County,_Texas": 0.06462514449713143,
+        "4480053|Moore_County,_North_Carolina": 0.0664369101605794
+       }
+      },
+      {
+       "label": "Tampa,_Florida",
+       "score": 0.8616633038074725,
+       "start": 499,
+       "end": 500,
+       "tokens": "Tampa",
+       "labelScoreMap": {
+        "4174757|Tampa,_Florida": 0.8616633038074725,
+        "4174772|Tampa_International_Airport": 0.009928757152929787,
+        "4176265|University_of_Tampa": 0.007735821166347403,
+        "4174759|Tampa_Bay": 0.053009896261070985,
+        "7215963|Henry_B._Plant_Museum": 0.0010885880031635538
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 496,
+       "end": 497,
+       "tokens": "Sobien",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9719196019594448,
+       "start": 107,
+       "end": 108,
+       "tokens": "NOAA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "NOAA_Commissioned_Officer_Corps",
+       "score": 1.0,
+       "start": 309,
+       "end": 313,
+       "tokens": "NOAA Commissioned Officer Corps",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9719917213835512,
+       "start": 345,
+       "end": 346,
+       "tokens": "NOAA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 405,
+       "end": 406,
+       "tokens": "Sobien",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 0.8475210051003496,
+       "start": 409,
+       "end": 411,
+       "tokens": "weather service",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Powell_Clayton",
+       "score": 0.3371776722342914,
+       "start": 220,
+       "end": 221,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "5337841|Clayton,_California": 0.059008286762106434,
+        "4188291|Clayton_County,_Georgia": 0.05800248547269266,
+        "4381478|Clayton,_Missouri": 0.05278994055856563,
+        "4055696|Clayton,_Alabama": 0.05251485692224346,
+        "4460943|Clayton,_North_Carolina": 0.0442392730964664,
+        "4141982|Clayton,_Delaware": 0.0252382671587102,
+        "2171400|Clayton,_Victoria": 0.019066279528900377,
+        "7300563|Clayton,_West_Yorkshire": 0.018103386610893453,
+        "4851902|Clayton_County,_Iowa": 0.01745552686561012,
+        "5112870|Clayton,_New_York": 0.016930801971770076,
+        "4508885|Clayton,_Ohio": 0.01431156859724966,
+        "4188287|Clayton,_Georgia": 0.00871362278809362,
+        "4989026|Clayton_Township,_Genesee_County,_Michigan": 0.007991017804912638,
+        "4501265|Clayton,_New_Jersey": 0.013920111780604767,
+        "5462269|Clayton,_New_Mexico": 0.010264153728873333,
+        "2652902|Clayton,_West_Sussex": 0.004697585094050936,
+        "4533617|Clayton,_Oklahoma": 0.004387403959223456,
+        "7206564|Clayton_High_School_(Missouri)": 0.002349422884850237,
+        "4320174|Clayton,_Louisiana": 0.0028012726050041957
+       }
+      },
+      {
+       "label": "Powell_Clayton",
+       "score": 0.2847457877775326,
+       "start": 160,
+       "end": 161,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "5337841|Clayton,_California": 0.05904017727334606,
+        "4188291|Clayton_County,_Georgia": 0.05819637539289647,
+        "4381478|Clayton,_Missouri": 0.05287389851102751,
+        "4055696|Clayton,_Alabama": 0.05256143902701971,
+        "4460943|Clayton,_North_Carolina": 0.04441291128911431,
+        "4141982|Clayton,_Delaware": 0.025262510965320416,
+        "2171400|Clayton,_Victoria": 0.019081007678532193,
+        "7300563|Clayton,_West_Yorkshire": 0.018110280035756595,
+        "4851902|Clayton_County,_Iowa": 0.01787067664226046,
+        "5112870|Clayton,_New_York": 0.0169651517931458,
+        "4508885|Clayton,_Ohio": 0.014318435230870917,
+        "4188287|Clayton,_Georgia": 0.008720348598570649,
+        "4989026|Clayton_Township,_Genesee_County,_Michigan": 0.007993940235225722,
+        "4501265|Clayton,_New_Jersey": 0.041745806363609375,
+        "5462269|Clayton,_New_Mexico": 0.023110425961291477,
+        "2652902|Clayton,_West_Sussex": 0.00470835764840083,
+        "4533617|Clayton,_Oklahoma": 0.004416146618889615,
+        "7206564|Clayton_High_School_(Missouri)": 0.002349427046818517,
+        "4320174|Clayton,_Louisiana": 0.0026452439822497163
+       }
+      },
+      {
+       "label": "Oklahoma_City_bombing",
+       "score": 0.4939931423546262,
+       "start": 12,
+       "end": 13,
+       "tokens": "Oklahoma",
+       "labelScoreMap": {
+        "4544379|Oklahoma": 0.3853359541815187,
+        "4553820|University_of_Oklahoma": 0.019873308881940107,
+        "4544356|Oklahoma_County,_Oklahoma": 0.008670750948712209,
+        "4544349|Oklahoma_City": 0.0009356139120401608
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 368,
+       "end": 370,
+       "tokens": "Dan Sobien",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9763006145871845,
+       "start": 268,
+       "end": 269,
+       "tokens": "NOAA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Clayton,_New_Jersey",
+       "score": 0.30189803326067427,
+       "start": 342,
+       "end": 343,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "5337841|Clayton,_California": 0.05930163997185135,
+        "4188291|Clayton_County,_Georgia": 0.06206854640211233,
+        "4381478|Clayton,_Missouri": 0.05402817614558322,
+        "4055696|Clayton,_Alabama": 0.053062852006619934,
+        "4460943|Clayton,_North_Carolina": 0.045318645431185946,
+        "4141982|Clayton,_Delaware": 0.025563424459546766,
+        "2171400|Clayton,_Victoria": 0.019323659718116774,
+        "7300563|Clayton,_West_Yorkshire": 0.018153256589510544,
+        "4851902|Clayton_County,_Iowa": 0.031215291492556405,
+        "5112870|Clayton,_New_York": 0.017597980843743973,
+        "4508885|Clayton,_Ohio": 0.014372288940298482,
+        "4188287|Clayton,_Georgia": 0.008812759517419748,
+        "4989026|Clayton_Township,_Genesee_County,_Michigan": 0.008012892287949918,
+        "4501265|Clayton,_New_Jersey": 0.30189803326067427,
+        "5462269|Clayton,_New_Mexico": 0.11156665907751226,
+        "2652902|Clayton,_West_Sussex": 0.004783747150276213,
+        "4533617|Clayton,_Oklahoma": 0.004734562180133072,
+        "7206564|Clayton_High_School_(Missouri)": 0.0023546592068669305,
+        "4320174|Clayton,_Louisiana": 0.0023390101329592338
+       }
+      },
+      {
+       "label": "Clayton,_New_Jersey",
+       "score": 0.23495177124965042,
+       "start": 294,
+       "end": 295,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "5337841|Clayton,_California": 0.05925572289329192,
+        "4188291|Clayton_County,_Georgia": 0.0608484161984237,
+        "4381478|Clayton,_Missouri": 0.05408996923693953,
+        "4055696|Clayton,_Alabama": 0.05303379877384204,
+        "4460943|Clayton,_North_Carolina": 0.04534492481597521,
+        "4141982|Clayton,_Delaware": 0.025473568876264053,
+        "2171400|Clayton,_Victoria": 0.0192762969028786,
+        "7300563|Clayton,_West_Yorkshire": 0.01814320711354731,
+        "4851902|Clayton_County,_Iowa": 0.023683206163467405,
+        "5112870|Clayton,_New_York": 0.017258468559397444,
+        "4508885|Clayton,_Ohio": 0.014368273768433474,
+        "4188287|Clayton,_Georgia": 0.008778432451806583,
+        "4989026|Clayton_Township,_Genesee_County,_Michigan": 0.008008729813117258,
+        "4501265|Clayton,_New_Jersey": 0.23495177124965042,
+        "5462269|Clayton,_New_Mexico": 0.09140098880817384,
+        "2652902|Clayton,_West_Sussex": 0.004765047983259083,
+        "4533617|Clayton,_Oklahoma": 0.00472312849516082,
+        "7206564|Clayton_High_School_(Missouri)": 0.0023548235571134186,
+        "4320174|Clayton,_Louisiana": 0.0024850714421600483
+       }
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 0.9856498843361663,
+       "start": 374,
+       "end": 377,
+       "tokens": "National Weather Service",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "MacDill_Air_Force_Base",
+       "score": 0.9978517140205975,
+       "start": 261,
+       "end": 265,
+       "tokens": "MacDill Air Force Base",
+       "labelScoreMap": {
+        "7267537|MacDill_Air_Force_Base": 0.9978517140205975
+       }
+      },
+      {
+       "label": "Virginia_House_of_Delegates",
+       "score": 0.20259361404725146,
+       "start": 92,
+       "end": 93,
+       "tokens": "Va.",
+       "labelScoreMap": {
+        "6254928|Virginia": 0.20209186917857377,
+        "6619831|Victoria_and_Albert_Museum": 0.05704000189700056,
+        "3164697|Province_of_Varese": 0.015285249713984615,
+        "6691831|Vatican_City": 0.003728081729693579,
+        "4748993|Bristol,_Virginia": 0.003414472188441885,
+        "4758390|Falls_Church,_Virginia": 0.10194008789266296
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 90,
+       "end": 91,
+       "tokens": "R",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9777636700223091,
+       "start": 170,
+       "end": 171,
+       "tokens": "NOAA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 86,
+       "end": 89,
+       "tokens": "Frank R. Wolf",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Clayton_Antitrust_Act",
+       "score": 0.23624007717055073,
+       "start": 613,
+       "end": 614,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "5337841|Clayton,_California": 0.05917468100932228,
+        "4188291|Clayton_County,_Georgia": 0.05961893725444274,
+        "4381478|Clayton,_Missouri": 0.05503016350861154,
+        "4055696|Clayton,_Alabama": 0.05274613801396408,
+        "4460943|Clayton,_North_Carolina": 0.045311252938410075,
+        "4141982|Clayton,_Delaware": 0.025328179383565227,
+        "2171400|Clayton,_Victoria": 0.01929138071689503,
+        "7300563|Clayton,_West_Yorkshire": 0.01814099396171359,
+        "4851902|Clayton_County,_Iowa": 0.0239999643691331,
+        "5112870|Clayton,_New_York": 0.0170533977372373,
+        "4508885|Clayton,_Ohio": 0.014379731287062106,
+        "4188287|Clayton,_Georgia": 0.008761572437857593,
+        "4989026|Clayton_Township,_Genesee_County,_Michigan": 0.008007697070437823,
+        "4501265|Clayton,_New_Jersey": 0.1701239813853611,
+        "5462269|Clayton,_New_Mexico": 0.05207886246985481,
+        "2652902|Clayton,_West_Sussex": 0.0047249557180252975,
+        "4533617|Clayton,_Oklahoma": 0.004462433058615134,
+        "7206564|Clayton_High_School_(Missouri)": 0.002354099207351692,
+        "4320174|Clayton,_Louisiana": 0.0024920675112017356
+       }
+      },
+      {
+       "label": "Clayton,_New_Jersey",
+       "score": 0.33020078508409745,
+       "start": 651,
+       "end": 652,
+       "tokens": "Clayton",
+       "labelScoreMap": {
+        "5337841|Clayton,_California": 0.05923993239925383,
+        "4188291|Clayton_County,_Georgia": 0.06037286826378493,
+        "4381478|Clayton,_Missouri": 0.06064432465579636,
+        "4055696|Clayton,_Alabama": 0.052982741273478774,
+        "4460943|Clayton,_North_Carolina": 0.045416174523619686,
+        "4141982|Clayton,_Delaware": 0.025499708262862415,
+        "2171400|Clayton,_Victoria": 0.01973119756438191,
+        "7300563|Clayton,_West_Yorkshire": 0.01816402177713482,
+        "4851902|Clayton_County,_Iowa": 0.035048759850862046,
+        "5112870|Clayton,_New_York": 0.017151546095131292,
+        "4508885|Clayton,_Ohio": 0.014388106421040783,
+        "4188287|Clayton,_Georgia": 0.008776207978883144,
+        "4989026|Clayton_Township,_Genesee_County,_Michigan": 0.008017637127215153,
+        "4501265|Clayton,_New_Jersey": 0.33020078508409745,
+        "5462269|Clayton,_New_Mexico": 0.10958815995362745,
+        "2652902|Clayton,_West_Sussex": 0.004756766156285363,
+        "4533617|Clayton,_Oklahoma": 0.004511097238978885,
+        "7206564|Clayton_High_School_(Missouri)": 0.0023559299893330453,
+        "4320174|Clayton,_Louisiana": 0.0023336300662460565
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 677,
+       "end": 678,
+       "tokens": "zacksampson",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Oklahoma_City_bombing",
+       "score": 0.4536814071982242,
+       "start": 589,
+       "end": 590,
+       "tokens": "Oklahoma",
+       "labelScoreMap": {
+        "4544379|Oklahoma": 0.4160340042077991,
+        "4553820|University_of_Oklahoma": 0.02075200246255702,
+        "4544356|Oklahoma_County,_Oklahoma": 0.00904919381213797,
+        "4544349|Oklahoma_City": 0.0012791615835112432
+       }
+      },
+      {
+       "label": "National_Weather_Service",
+       "score": 0.8548856970686103,
+       "start": 427,
+       "end": 429,
+       "tokens": "weather service",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Gulf_Coast_of_the_United_States",
+       "score": 0.7987220510502605,
+       "start": 330,
+       "end": 332,
+       "tokens": "Gulf Coast",
+       "labelScoreMap": {
+        "3523271|Gulf_of_Mexico": 0.186154114610335
+       }
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 654,
+       "end": 657,
+       "tokens": "Zachary T. Sampson",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "<unk_wid>",
+       "score": 0.03333333333333334,
+       "start": 421,
+       "end": 422,
+       "tokens": "Sobien",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Miami",
+       "score": 0.6066957474423218,
+       "start": 241,
+       "end": 242,
+       "tokens": "Miami",
+       "labelScoreMap": {
+        "4164138|Miami": 0.6066957474423218,
+        "4176262|University_of_Miami": 0.014842335165416085,
+        "4275428|Miami_County,_Kansas": 0.009257251033442465,
+        "4542692|Miami,_Oklahoma": 0.1243655201530586,
+        "5162774|Miami_County,_Ohio": 0.05239584565361451,
+        "5304640|Miami,_Arizona": 0.02598977010807424,
+        "7932257|Miami,_Queensland": 0.0028062173851848785,
+        "4164181|Miami_International_Airport": 0.005694360749966037,
+        "4923517|Miami_County,_Indiana": 0.0027309828835425714,
+        "4518163|Miami_University": 0.0015183591598952595,
+        "4518183|Miami_Township,_Clermont_County,_Ohio": 0.0009978252429768413
+       }
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9881724664310592,
+       "start": 19,
+       "end": 24,
+       "tokens": "National Oceanic and Atmospheric Administration",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "National_Oceanic_and_Atmospheric_Administration",
+       "score": 0.9772899008105076,
+       "start": 118,
+       "end": 119,
+       "tokens": "NOAA",
+       "labelScoreMap": {}
+      },
+      {
+       "label": "Oklahoma",
+       "score": 0.838686866170383,
+       "start": 606,
+       "end": 607,
+       "tokens": "Okla.",
+       "labelScoreMap": {
+        "4544379|Oklahoma": 0.838686866170383,
+        "4553820|University_of_Oklahoma": 0.0967981213911707
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
