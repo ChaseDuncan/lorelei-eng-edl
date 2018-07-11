@@ -1,5 +1,6 @@
 package edu.illinois.cs.cogcomp.loreleiengedl;
 
+import com.google.gson.JsonSyntaxException;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
@@ -98,12 +99,15 @@ public class LORELEIEnglishEDL {
         for(File serializedTA : directoryListing){
 
             //TODO: currently only operating on Tweets
-            if(!serializedTA.getName().contains("SN"))
-                continue;
             String taPath = taDir + serializedTA.getName();
 
             TextAnnotation ta = sh.deserializeTextAnnotationFromFile(taPath, true);
             View googleView  = new View(GOOGLEVIEW, "lorelei-eng-edl", ta, 1.0);
+            ta.addView(GOOGLEVIEW, googleView);
+
+            if(!serializedTA.getName().contains("SN"))
+                continue;
+
             View tokens = ta.getView("TOKENS");
             for(Constituent token : tokens.getConstituents()){
                 if(token.getSurfaceForm().charAt(0) != '#')
@@ -154,8 +158,21 @@ public class LORELEIEnglishEDL {
         // iterate through TAs, add NER annotation and create JSON serialization
         for(File serializedTA : directoryListing){
             String taPath = taDir + serializedTA.getName();
-            TextAnnotation ta = sh.deserializeTextAnnotationFromFile(taPath, true);
+            System.err.println("addmentionview(): deserializing " + taPath);
 
+            TextAnnotation ta = null;
+
+            try {
+                ta = sh.deserializeTextAnnotationFromFile(taPath, true);
+            }
+            catch (RuntimeException e) {
+                System.err.println("failed to read file '" + taPath + "'. skipping.");
+                continue;
+            }
+            catch (Exception e) {
+                e.printStackTrace();
+                continue;
+            }
             posannotator.addView(ta);
             mentionAnnotator.addView(ta);
 
