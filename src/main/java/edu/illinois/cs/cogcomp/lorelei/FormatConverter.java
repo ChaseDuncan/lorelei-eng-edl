@@ -29,7 +29,7 @@ import java.util.zip.ZipFile;
 public class FormatConverter {
 
     private static final Logger logger = LoggerFactory.getLogger(FormatConverter.class);
-    private static final String DEFAULT_ENTITY_TYPE = "LOC";
+    private static final String DEFAULT_ENTITY_TYPE = "NONE";
 
     public static void main(String[] args) throws Exception {
         Options options = new Options();
@@ -466,6 +466,11 @@ public class FormatConverter {
             nomlinkView = ta.getView("NOMLINK");
         else
             logger.warn("TA {} has no NomLink view.", ta.getId());
+        View mentionView = null;
+        if (ta.hasView("MENTION"))
+            mentionView = ta.getView("MENTION");
+        else
+            logger.warn("TA {} has no Mention view.", ta.getId());
         View googleView = null;
         if (ta.hasView("GOOGLE"))
             googleView = ta.getView("GOOGLE");
@@ -500,7 +505,7 @@ public class FormatConverter {
                     entity = kbId;
                 }
                 String surface = mention.getSurfaceForm();
-                System.out.println(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId() + ":" +
+                System.out.print(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId() + ":" +
                         startCharOff + "-" + endCharOff + "\t" + entity + "\t" + entityType + "\t" + "NAM" +
                         "\t" + "1.0" + "\n");
                 bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId() + ":" +
@@ -511,11 +516,20 @@ public class FormatConverter {
         if (null != nomlinkView) {
             // add all of the NOM types which are left linked
             for (Constituent mention : nomlinkView.getConstituents()) {
-                String[] types = mention.getLabel().split("-");
-                String entityType = types[1];
 
                 int startCharOff = mention.getStartCharOffset();
-                int endCharOff = mention.getEndCharOffset() - 1;
+                String entityType = DEFAULT_ENTITY_TYPE;
+                if (null != mentionView) {
+                    List<Constituent> entities =
+                            mentionView.getConstituentsWithSpan(mention.getSpan());
+                    if (!entities.isEmpty()){
+                        String label = entities.get(0).getLabel();
+                        String[] types = label.split("-");
+                        entityType = types[1];
+                    }
+                }
+
+               int endCharOff = mention.getEndCharOffset() - 1;
 
                 String entity = mention.getLabel();
                 if (loreleiKB) {
@@ -540,7 +554,7 @@ public class FormatConverter {
             for (Constituent mention : googleView.getConstituents()) {
                 int startCharOff = mention.getStartCharOffset();
                 int endCharOff = mention.getEndCharOffset() - 1;
-                String entityType = "NONE";
+                String entityType = DEFAULT_ENTITY_TYPE;
                 String entity = mention.getLabel();
                 if (loreleiKB) {
                     // convert Wiki link to LORELEI KB id

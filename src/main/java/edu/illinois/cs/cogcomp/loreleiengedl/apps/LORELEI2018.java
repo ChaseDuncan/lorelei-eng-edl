@@ -41,7 +41,9 @@ public class LORELEI2018 {
             // TODO: clean all of this up!
             String ilCode = args[3];
             String entity2wiki = "data/il"  + ilCode + "_i2t.tab";
-            FormatConverter.EnglishEDL2Tab(taDir, submissionFile, entity2wiki, false);
+            // true for KB ids, false for Wiki titles
+            FormatConverter.EnglishEDL2Tab(taDir, submissionFile, entity2wiki, true);
+            //FormatConverter.EnglishEDL2Tab(taDir, submissionFile, entity2wiki, false);
         }
     }
 }

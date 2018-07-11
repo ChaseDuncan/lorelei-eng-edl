@@ -42,9 +42,54 @@ public class LinkUtils {
             String surface = spline[0];
             ArrayList<String> wikiTitles =
                     new ArrayList(Arrays.asList(Arrays.copyOfRange(spline, 1,spline.length)));
+            System.out.println(wikiTitles);
             tweetToWiki.put(spline[0], wikiTitles);
         }
         return tweetToWiki;
+    }
+
+    /**
+     * Return a map of NEs to a list of Wikipedia titles for IL9
+     */
+    public static HashMap<String, List<String>>
+    initTextToWikipediaIL9() throws FileNotFoundException {
+        //TODO: file!
+        return initTextToWikipedia("");
+    }
+
+    /**
+     * Return a map of hashtag tokens to a list of Wikipedia titles for IL9
+     */
+    public static HashMap<String, List<String>>
+    initTextToWikipediaIL10() throws FileNotFoundException {
+
+        //TODO: file!
+        return initTextToWikipedia("");
+    }
+
+    /**
+     * Return a map of hashtag tokens to a list of Wikipedia titles for a file of links
+     *
+     * @param linkFile path to file of links
+     */
+    private static HashMap<String, List<String>>
+    initTextToWikipedia(String linkFile) throws FileNotFoundException {
+        HashMap<String, List<String>> textToWiki =
+                new HashMap<String, List<String>>();
+        String fileline = LineIO.slurp(linkFile);
+        ArrayList<String> lines = new ArrayList(Arrays.asList(fileline.split("\n")));
+        for (String line : lines){
+            String[] spline = line.split("\t");
+
+            if (spline.length < 2)
+                continue;
+
+            String surface = spline[0];
+            ArrayList<String> wikiTitles =
+                    new ArrayList(Arrays.asList(Arrays.copyOfRange(spline, 1,spline.length)));
+            textToWiki.put(spline[0], wikiTitles);
+        }
+        return textToWiki;
     }
 
     /**

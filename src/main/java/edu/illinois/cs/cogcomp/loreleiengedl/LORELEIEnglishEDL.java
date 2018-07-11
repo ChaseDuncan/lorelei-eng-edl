@@ -30,7 +30,7 @@ public class LORELEIEnglishEDL {
     HashMap<String, String> wiki2lorelei = null;
 
     public LORELEIEnglishEDL() {
-        this(false);
+        this(true);
     }
 
     public LORELEIEnglishEDL(boolean justLinkTweets) {
@@ -100,38 +100,62 @@ public class LORELEIEnglishEDL {
         if(ilCode.equals("9"))
             tweetToWiki = LinkUtils.initTweetToWikipediaIL9();
         if(ilCode.equals("10"))
-            tweetToWiki = LinkUtils.initTweetToWikipediaIL9();
+            tweetToWiki = LinkUtils.initTweetToWikipediaIL10();
 
         for(File serializedTA : directoryListing){
 
             //TODO: currently only operating on Tweets
             if(this.justLinkTweets && !serializedTA.getName().contains("SN"))
                 continue;
+                
             String taPath = taDir + serializedTA.getName();
+
+            if(serializedTA.getName().contains("SN")){
+                addGoogleViewTweet(taPath, tweetToWiki);
+            }else{
+                HashMap<String, List<String>> textToWiki = null;
+                if(ilCode.equals("9"))
+                    textToWiki = LinkUtils.initTextToWikipediaIL9();
+                if(ilCode.equals("10"))
+                    textToWiki = LinkUtils.initTextToWikipediaIL10();
+
+                addGoogleViewText(taPath, textToWiki);
+            }
+        }
+    }
+    
+    public void addGoogleViewTweet(String taPath,
+                                   HashMap<String, List<String>> tweetToWiki) throws Exception {
 
             TextAnnotation ta = sh.deserializeTextAnnotationFromFile(taPath, true);
             View googleView  = new View(GOOGLEVIEW, "lorelei-eng-edl", ta, 1.0);
             View tokens = ta.getView("TOKENS");
             for(Constituent token : tokens.getConstituents()){
-                if(token.getSurfaceForm().charAt(0) != '#')
+                System.out.println(taPath);
+                String taText = ta.getText();
+                String tokForm = taText.substring(token.getStartCharOffset(), token.getEndCharOffset());
+                if(tokForm.charAt(0) != '#')
                     continue;
-                String cleanHash = token.getSurfaceForm().substring(1,token.length());
+                String cleanHash = tokForm.substring(1,tokForm.length());
                 List<String> links = tweetToWiki.get(cleanHash);
 
                 if(links == null)
                     continue;
-
                 String link = links.get(0);
                 Constituent googleCon =
                         new Constituent(link, 1.0, GOOGLEVIEW, ta,
                                 token.getStartSpan(), token.getEndSpan());
                 googleView.addConstituent(googleCon);
             }
+            ta.addView(GOOGLEVIEW, googleView);
             // overwrites existing json serializations in JSON_DIR
             sh.serializeTextAnnotationToFile(ta, taPath, true, true);
-        }
     }
-
+    
+    private void addGoogleViewText(String taPath, 
+                                   HashMap<String, List<String>> textToWiki) throws Exception {
+                                       // TODO
+    }
     /**
      * Annotate LRLP using Mention Detection. Serialize resulting text annotations to file.
      * Expects that input directory is a directory of json serialized text annotations
@@ -291,11 +315,11 @@ public class LORELEIEnglishEDL {
             System.out.println(jsonTaPath);
             TextAnnotation ta = sh.	deserializeTextAnnotationFromFile(jsonTaPath, true);
 
-            //if(!ta.hasView("NEUREL")) {
-            //    // TODO: logging!
-            //    System.out.println(ta.getId() + " no NEUREL view.");
-            //    continue;
-            //}
+            if(!ta.hasView(ELVIEW)) {
+                // TODO: logging!
+                System.out.println(ta.getId() + " no NEUREL view.");
+                continue;
+            }
 
             linkNominals(ta);
             sh.serializeTextAnnotationToFile(ta, jsonTaPath, true, true);
