@@ -7,10 +7,13 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
 import edu.illinois.cs.cogcomp.core.io.LineIO;
 import edu.illinois.cs.cogcomp.core.utilities.SerializationHelper;
 import edu.illinois.cs.cogcomp.lorelei.xml.XMLException;
+import edu.illinois.cs.cogcomp.loreleiengedl.LORELEIEnglishEDL;
 import edu.illinois.cs.cogcomp.loreleiengedl.utils.LinkUtils;
 import edu.illinois.cs.cogcomp.nlp.corpusreaders.CoNLLNerReader;
 import org.apache.commons.cli.*;
 import org.apache.commons.io.FileUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.*;
 import java.nio.file.Paths;
@@ -24,6 +27,9 @@ import java.util.zip.ZipFile;
  * This is intended to be a command line script. This should be changed very rarely.
  */
 public class FormatConverter {
+
+    private static final Logger logger = LoggerFactory.getLogger(FormatConverter.class);
+    private static final String DEFAULT_ENTITY_TYPE = "LOC";
 
     public static void main(String[] args) throws Exception {
         Options options = new Options();
@@ -444,87 +450,117 @@ public class FormatConverter {
      */
     private static void writeSub(TextAnnotation ta, BufferedWriter bw,
                                  String entity2WikipediaTitle, boolean loreleiKB) throws IOException {
-        View elView = ta.getView("NEUREL");
-        View nerView = ta.getView("NER");
-        View nomlinkView = ta.getView("NOMLINK");
-        View googleView = ta.getView("GOOGLE");
+
+        View elView = null;
+        if (ta.hasView("NEUREL"))
+            elView = ta.getView("NEUREL");
+        else
+            logger.warn("TA {} has no NEUREL view.", ta.getId());
+        View nerView = null;
+        if (ta.hasView("NER_LORELEI"))
+            nerView = ta.getView("NER_LORELEI");
+        else
+            logger.warn("TA {} has no NER view.", ta.getId());
+        View nomlinkView = null;
+        if (ta.hasView("NOMLINK"))
+            nomlinkView = ta.getView("NOMLINK");
+        else
+            logger.warn("TA {} has no NomLink view.", ta.getId());
+        View googleView = null;
+        if (ta.hasView("GOOGLE"))
+            googleView = ta.getView("GOOGLE");
+        else
+            logger.warn("TA {} has no GOOGLE view.", ta.getId());
 
         // create hash map which maps Wikipedia titles to LORELEI KB ids
         HashMap<String, String> wiki2lorelei = LinkUtils.initWiki2LORELEIMap(entity2WikipediaTitle);
 
-        // add all of the NAM types which are linked by NEUREL
-        for(Constituent mention : elView.getConstituents()){
-            int startCharOff = mention.getStartCharOffset();
-            int endCharOff = mention.getEndCharOffset() - 1;
+        if (null != elView) {
+            // add all of the NAM types which are linked by NEUREL
+            for (Constituent mention : elView.getConstituents()) {
+                int startCharOff = mention.getStartCharOffset();
+                int endCharOff = mention.getEndCharOffset() - 1;
 
-            List<Constituent> entityType =
-                    nerView.getConstituentsWithSpan(mention.getSpan());
+                // MS: you need a default type, then set it if there's an appropriate NER
+                String entityType = DEFAULT_ENTITY_TYPE;
+                if (null != nerView) {
+                    List<Constituent> entities =
+                            nerView.getConstituentsWithSpan(mention.getSpan());
+                    if (!entities.isEmpty())
+                        entityType = entities.get(0).getLabel();
+                }
 
-            String entity = mention.getLabel();
-            if(loreleiKB) {
-                // convert Wiki link to LORELEI KB id
-                String kbId = wiki2lorelei.get(entity);
+                String entity = mention.getLabel();
+                if (loreleiKB) {
+                    // convert Wiki link to LORELEI KB id
+                    String kbId = wiki2lorelei.get(entity);
 
-                if (kbId == null)
-                    kbId = "NIL";
-                entity = kbId;
+                    if (kbId == null)
+                        kbId = "NIL";
+                    entity = kbId;
+                }
+                String surface = mention.getSurfaceForm();
+                System.out.println(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId() + ":" +
+                        startCharOff + "-" + endCharOff + "\t" + entity + "\t" + entityType + "\t" + "NAM" +
+                        "\t" + "1.0" + "\n");
+                bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId() + ":" +
+                        startCharOff + "-" + endCharOff + "\t" + entity + "\t" + entityType + "\t" + "NAM" +
+                        "\t" + "1.0" + "\n");
             }
-            String surface = mention.getSurfaceForm();
-
-            bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId()+":" +
-                    startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entityType+ "\t" + "NAM" +
-                    "\t" + "1.0" + "\n");
         }
+        if (null != nomlinkView) {
+            // add all of the NOM types which are left linked
+            for (Constituent mention : nomlinkView.getConstituents()) {
+                String[] types = mention.getLabel().split("-");
+                String entityType = types[1];
 
-        // add all of the NOM types which are left linked
-        for(Constituent mention : nomlinkView.getConstituents()){
-            String[] types = mention.getLabel().split("-");
-            String entityType = types[1];
+                int startCharOff = mention.getStartCharOffset();
+                int endCharOff = mention.getEndCharOffset() - 1;
 
-            int startCharOff = mention.getStartCharOffset();
-            int endCharOff = mention.getEndCharOffset() - 1;
+                String entity = mention.getLabel();
+                if (loreleiKB) {
+                    // convert Wiki link to LORELEI KB id
+                    String kbId = wiki2lorelei.get(entity);
 
-            String entity = mention.getLabel();
-            if(loreleiKB) {
-                // convert Wiki link to LORELEI KB id
-                String kbId = wiki2lorelei.get(entity);
+                    if (kbId == null)
+                        kbId = "NIL";
+                    entity = kbId;
+                }
 
-                if (kbId == null)
-                    kbId = "NIL";
-                entity = kbId;
+                String surface = mention.getSurfaceForm();
+
+                bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId() + ":" +
+                        startCharOff + "-" + endCharOff + "\t" + entity + "\t" + entityType + "\t" + "NOM" +
+                        "\t" + "1.0" + "\n");
             }
-
-            String surface = mention.getSurfaceForm();
-
-            bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId()+":" +
-                    startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entityType+ "\t" + "NOM" +
-                    "\t" + "1.0" + "\n");
         }
-
         // add all of the Googled tweets
-        for(Constituent mention : googleView.getConstituents()){
-            int startCharOff = mention.getStartCharOffset();
-            int endCharOff = mention.getEndCharOffset() - 1;
-            String entityType = "NONE";
-            String entity = mention.getLabel();
-            if(loreleiKB) {
-                // convert Wiki link to LORELEI KB id
-                String kbId = wiki2lorelei.get(entity);
+        if (null != googleView) {
 
-                if (kbId == null)
-                    kbId = "NIL";
-                entity = kbId;
+            for (Constituent mention : googleView.getConstituents()) {
+                int startCharOff = mention.getStartCharOffset();
+                int endCharOff = mention.getEndCharOffset() - 1;
+                String entityType = "NONE";
+                String entity = mention.getLabel();
+                if (loreleiKB) {
+                    // convert Wiki link to LORELEI KB id
+                    String kbId = wiki2lorelei.get(entity);
+
+                    if (kbId == null)
+                        kbId = "NIL";
+                    entity = kbId;
+                }
+
+                // we're not going to link entities of this type to NIL
+                if (entity.equals("NIL"))
+                    continue;
+
+                String surface = mention.getSurfaceForm();
+
+                bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId() + ":" +
+                        startCharOff + "-" + endCharOff + "\t" + entity + "\t" + entityType + "\t" + "NAM" +
+                        "\t" + "1.0" + "\n");
             }
-
-            // we're not going to link entities of this type to NIL
-            if(entity.equals("NIL"))
-                continue;
-
-            String surface = mention.getSurfaceForm();
-
-            bw.write(SYSTEM_NAME + "\t" + mentionID++ + "\t" + surface + "\t" + ta.getId()+":" +
-                    startCharOff+ "-" + endCharOff + "\t" + entity + "\t" + entityType+ "\t" + "NAM" +
-                    "\t" + "1.0" + "\n");
         }
     }
 }
